@@ -1,5 +1,6 @@
 ;meta[language=fr]
 ; id      |key(hex)|key(str)| text
+    170811|72cb8ee5||Noyeur
     581146|00000000||Aaaaaah !
     581147|00000000||Pitié !
    1061012|00000000||Libérez-moi ! Vite !
@@ -187,7 +188,6 @@
     579083|00000000||Pelko Sambor ? Cinquante ans, deux enfants, un champ de seigle et une chèvre ?
     579084|00000000||C'est vous qui voyez. Je sais ce que je dis.
     579046|00000000||C'est comme j'ai dit. Il était comme cul et chemise avec les Escadrons noirs.
-    595889|83463c36||Apprenti forgeron
     575034|00000000||Par ici, messire ! C'est lui !
     575055|00000000||T'as perdu la tête ?
     575023|00000000||J'ai su tout de suite que c'étaient des Nilfgaardiens ! Enfin, des espions. Ça fait une semaine qu'il les cache.
@@ -443,7 +443,7 @@
     574037|00000000||Le vol d'objets d'art, aux temples ou ailleurs, est interdit. Tout manquement sera puni de mort.
     578858|00000000||Tous ces objets sont soumis à confiscation officielle. Ils doivent être mis sous scellés, et transférés à Nilfgaard.
     578861|00000000||Une prime proportionnelle vous sera attribuée à votre retour.
-    172334|06c10782||Femme de Skellige
+    172334|06c10782||Native de Skellige
     568547|00000000||À l'aide !
     568544|00000000||Eh ! Merde alors ! Ah ! Ventre-saint-gris…
     595891|fbee3e23||Paysanne
@@ -608,50 +608,50 @@
    1061386|00000000||Hmm…
    1062260|00000000||Radovid avait bien des tares. Il était cruel, imprévisible et dévoré d'ambition.
    1062262|00000000||Mais c'était sans conteste un stratège de génie. À la tête de troupes très inférieures en nombre, il défit sans coup férir l'envahisseur venu du sud.
-   1062264|00000000||L'Aigle redanien prit sous son aile tout le Nord, Novigrad incluse.
+   1062264|00000000||L'Aigle redanien prit l'intégralité du Nord sous son aile, Novigrad incluse.
    1062266|00000000||La Troisième Guerre nordique vit s'opposer deux fins stratèges : Radovid V le Sévère et Emhyr var Emreis.
    1062268|00000000||Si tous deux paraissaient invincibles, l'un comme l'autre mordit la poussière. L'envahisseur nilfgaardien sur le champ de bataille, le "chef suprême" du Nord sous le coup des assassins.
    1062270|00000000||En Redania victorieuse, un homme qui opérait jusqu'ici dans l'ombre prit les rênes du pouvoir. Son nom : Sigismund Dijkstra.
-   1062254|00000000||La Troisième Guerre nordique vit la victoire éclatante de l'assaillant venu du sud.
-   1062256|00000000||Privés du génie tactique de Radovid, les royaumes du Nord ployèrent face aux légions innombrables d'Emhyr.
-   1062258|00000000||Des bannières noires flottèrent bientôt sur Novigrad et toute la Redania.
+   1062254|00000000||La Troisième Guerre nordique se termina par la victoire éclatante de l'assaillant venu du sud.
+   1062256|00000000||Privés du génie tactique de Radovid, les royaumes du Nord s'avérèrent incapables de faire face aux innombrables légions d'Emhyr.
+   1062258|00000000||De noires bannières flottèrent bientôt sur Novigrad et toute la Redania.
    1062273|00000000||Sa victoire militaire sur le Nilfgaard parachevée, Radovid reprit la chasse aux sorcières de plus belle.
-   1062275|00000000||Comme à Novigrad, on vit bientôt des bûchers flamber en Temeria et Aedirn, pays "libérés" par le monarque redanien. Cette poussée de fièvre moralisatrice vit mourir par milliers herboristes, chamans, guérisseurs et non-humains, tous hérétiques supposés.
+   1062275|00000000||Comme à Novigrad, on vit bientôt des bûchers flamber en Temeria et Aedirn, pays "libérés" par le monarque redanien. Cette fièvre moralisatrice vit mourir par milliers herboristes, chamans et non-humains, tous hérétiques supposés.
    1062277|00000000||Pour beaucoup, la liberté sous la férule de Radovid fut plus tragique que toutes les servitudes.
-   1062279|00000000||Une fois solidement campé sur le siège de chancelier, Dijkstra régna sur le Nord victorieux à sa manière cynique et sans merci.
-   1062281|00000000||Il savait que le maintien de la paix passait par la préparation de la guerre. À l'exemple du Nilfgaard, il consolida son règne sur une vaste étendue via un large programme de peuplement et d'industrialisation.
+   1062279|00000000||Une fois solidement installé sur le siège de chancelier, Dijkstra régna sur le Nord victorieux à sa manière : à la fois cynique et sans merci.
+   1062281|00000000||Il savait que pour maintenir la paix, il fallait être toujours prêt pour la guerre. À l'exemple du Nilfgaard, il consolida son règne sur un vaste territoire via un ambitieux programme de peuplement et d'industrialisation.
    1062283|00000000||Tout ça pour le bien de ses sujets… de gré ou de force.
-   1062285|00000000||Usé par la guérilla temerienne, Emhyr var Emreis rendit sa liberté au pays à condition qu'il se soumette à l'Empire.
-   1062287|00000000||Les rebelles ayant déposé les armes, l'empereur put rediriger ses troupes sur d'autres fronts.
-   1062289|00000000||Ainsi donc, une victoire totale du Nilfgaard s'accompagna d'une Temeria redevenue souveraine, prouvant une nouvelle fois que l'Histoire pouvait se montrer farceuse.
+   1062285|00000000||Usé par les rébellions des partisans temeriens, Emhyr var Emreis rendit sa liberté au royaume à condition qu'il se soumette à l'Empire.
+   1062287|00000000||Les rebelles déposèrent les armes, et l'empereur put dès lors redéployer ses troupes sur d'autres fronts.
+   1062289|00000000||Ainsi donc, la victoire totale du Nilfgaard permit à la Temeria de regagner sa souveraineté, prouvant une fois de plus que l'Histoire est une fieffée farceuse.
    1062291|00000000||Le problème de Radovid réglé, Emhyr var Emreis entreprit de se tourner vers l'ennemi intérieur.
-   1062293|00000000||Les espions loyaux à l'empereur dénoncèrent tous les conspirateurs : marchands, soldats, aristocrates…
-   1062295|00000000||Si le complot n'avait jamais dépassé le stade de vague intention, l'empereur se montra égal à lui-même : impitoyable.
-   1062297|00000000||Tant que ses armées accumulaient les victoires, les sujets d'Emhyr lui restaient inféodés.
+   1062293|00000000||Les espions loyaux à l'empereur dénoncèrent tous les conspirateurs : marchands, soldats ou aristocrates…
+   1062295|00000000||Même si le complot n'avait jamais dépassé le stade de vague intention, l'empereur se montra égal à lui-même : impitoyable.
+   1062297|00000000||Tant que ses armées volaient de victoires en victoires, les sujets d'Emhyr restèrent d'une fidélité sans faille.
    1062299|00000000||Mais dès qu'une série de défaites cuisantes fit voler en éclats son infaillibilité, l'opposition, jusqu'ici clandestine, passa à l'attaque.
    1062301|00000000||Les sujets de l'empereur qui dansait sur la tombe de ses ennemis s'empressèrent de l'ensevelir à son tour.
-   1062303|00000000||Alors que le continent s'enfonçait dans la guerre, Skellige prospéraient sous le règne éclairé de Cerys.
+   1062303|00000000||Alors que le continent s'enfonçait dans la guerre, Skellige prospérait sous le règne éclairé de Cerys.
    1062305|00000000||Contrairement à ses aînés, la jeune reine renonça aux pillages des côtes étrangères pour se consacrer au bien-être de son peuple et de ses terres.
-   1062307|00000000||Privée de ses crocs d'antan, la nation insulaire prospéra de spectaculaire façon.
+   1062307|00000000||La nation insulaire prospéra de façon spectaculaire, mais elle perdit au change ses griffes d'antan.
    1062309|00000000||Bien que la guerre ait cessé sur le continent, Hjalmar se refusa à baisser les armes.
    1062311|00000000||Printemps après printemps, le jeune roi multiplia les raids incendiaires sur les rivages d'un Nilfgaard exécré. Il était résolu à tenir parole, fût-ce au prix d'un peuple noyé dans le sang.
-   1062313|00000000||Maints îliens voyaient en Svanrige le pantin d'une mère ambitieuse. Mais le jeune roi leur donna tort. Sourd aux injonctions maternelles, il régna d'une main de fer sur ses sujets.
+   1062313|00000000||Maints insulaires voyaient en Svanrige le pantin d'une mère ambitieuse. Mais le jeune roi leur donna tort. Sourd aux injonctions maternelles, il régna d'une main de fer sur ses sujets.
    1062315|00000000||Las des querelles incessantes entre Jarls, il décida de transformer l'archipel en monarchie absolue sur le modèle continental.
-   1062317|00000000||Il y parvint, non sans avoir fait couler le sang de maints îliens.
+   1062317|00000000||Il finit par y parvenir, mais au prix du sang de beaucoup de ses compatriotes.
    1062319|00000000||Cirilla Fiona Ellen Riannon, héritière du trône du Nilfgaard, préféra suivre la Voie des sorceleurs.
-   1062321|00000000||Geralt lui enseigna jusqu'à la dernière ficelle du métier, suite à quoi ils virent leurs chemins se séparer.
-   1062323|00000000||Bientôt, les exploits de la sorceleuse aux cheveux cendrés enflammaient les esprits des rives de la Iaruga aux montagnes du Kovir…
-   1062325|00000000||Après des années d'exil, Ciri regagna le Nilfgaard, son foyer paternel, et Emhyr se prépara à la nommer impératrice.
-   1062327|00000000||La jeune femme possédait toutes les qualités requises… vraiment toutes. De son père, elle avait hérité l'instinct politique, de Geralt, les qualités humaines qui font les honnêtes gens.
-   1062329|00000000||Un mélange assez rare chez les monarques, ce que l'on ne peut que regretter…
-   1062331|00000000||Et Ciri ? Allez savoir… Depuis les événements mémorables d'Undvik, elle demeurait introuvable.
+   1062321|00000000||Geralt lui enseigna toutes les ficelles du métier, puis ils suivirent chacun leur propre chemin.
+   1062323|00000000||Bientôt, les exploits de la sorceleuse aux cheveux cendrés enflammèrent les esprits, des rives de la Iaruga aux montagnes du Kovir…
+   1062325|00000000||Après des années d'exil, Ciri regagna le Nilfgaard, son foyer paternel, et Emhyr se prépara à la nommer héritière du trône.
+   1062327|00000000||La jeune femme possédait toutes les qualités requises… vraiment toutes. De son père, elle avait hérité l'instinct politique. De Geralt, les qualités humaines qui font les honnêtes gens.
+   1062329|00000000||Un mélange assez rare chez les monarques, malheureusement…
+   1062331|00000000||Et Ciri ? Allez savoir… Depuis les événements d'Undvik, elle demeure introuvable.
    1062333|00000000||Pour autant, son retour restait possible.
-   1062335|00000000||Aussi improbable que celui paraisse, Geralt prit enfin racine… dans le lointain Kovir.
-   1062337|00000000||Avec Triss, ils fondèrent un foyer douillet, où flottait une douce odeur de gâteaux tout juste sortis du four. Les invités y étaient les bienvenus à toute heure.
+   1062335|00000000||Aussi improbable que cela paraisse, Geralt prit enfin racine… dans le lointain Kovir.
+   1062337|00000000||Avec Triss, ils fondèrent un foyer douillet, où flottait une douce odeur de gâteaux tout juste sortis du four. Les invités y étaient toujours les bienvenus.
    1062339|00000000||À l'occasion, le sorceleur acceptait un contrat, plus par habitude que par besoin : en tant que conseillère du roi du Kovir, Triss touchait une vraie fortune.
-   1062341|00000000||Quid de Geralt, allez-vous dire ? Ma foi…
-   1062343|00000000||Fidèle à sa profession, il vécut au jour le jour, de contrat en contrat, toujours en chemin, toujours fauché.
-   1062345|00000000||À l'occasion, nous nous retrouvions pour lever nos verres en souvenir du bon vieux temps, spéculant sur ce qui aurait pu ou dû se passer…
+   1062341|00000000||Vous vous demandez sûrement ce qu'il advint de Geralt ? Ma foi…
+   1062343|00000000||Fidèle à sa profession, il vécut au jour le jour, de contrat en contrat, toujours sur la route, toujours fauché.
+   1062345|00000000||À l'occasion, il nous arrivait de nous retrouver pour lever nos verres en souvenir du bon vieux temps, spéculant sur ce qui aurait pu ou dû se passer…
    1062347|00000000||Alors que les rois déplaçaient les frontières et les peuples, le sorceleur et Yennefer choisirent de mener une vie calme, loin des intrigues politiques.
    1062349|00000000||Ils prenaient souvent le petit-déjeuner au lit, bien après midi, et les journées s'écoulaient en lentes balades et longues conversations.
    1062351|00000000||Ennuyeux, selon vous ? Peut-être. Mais l'un comme l'autre n'aspiraient à rien de plus.
@@ -665,7 +665,6 @@
     572807|00000000||Donnez-vous la peine d'entrer.
     572810|00000000||Sa Majesté vous attend…
     595913|6b1268cb||Paysan
-   1051424|f11e033c||Maître forgeron
     583129|00000000||Eh ! Arrêtez-le !
     583128|00000000||C'est ainsi que finissent les traîtres. La rébellion sera matée par le feu.
     584088|00000000||Admirez, mais à distance.
@@ -840,16 +839,6 @@
    1059074|00000000||Euh… Non.
    1059076|00000000||C'est pas vraiment le nôtre, en fait, on l'a trouvé. Disons que c'est notre butin.
    1059078|00000000||Les propriétaires ont dû l'abandonner dans leur précipitation. Ce serait dommage que tout ça tombe aux mains des Redaniens.
-    590603|00000000||*Mastique* Pouah, c'est dégueulasse ! *Crache*
-    590605|00000000||Salut. *Renifle*
-    590607|00000000||Quoi de neuf ?
-    590609|00000000||Si vous aimez pas la chaleur, restez pas ici.
-    590619|00000000||Je ne vends que des produits de qualité, oui monsieur !
-    590611|00000000||Chaque homme forge son propre destin… Pff, c'est des conneries, tout ça !
-    590621|00000000||Et vos épées, elles valent quoi ?
-    590613|00000000||Vous me cherchez des noises ?
-    590615|00000000||Et maintenant, je fais quoi ? J'appelle à l'aide ?
-    590617|00000000||Pitié, aidez-moi !
     573535|00000000||Au rapport.
     573530|00000000||Capitaine !
     573536|00000000||La délégation de Novigrad est à une demi-journée d'ici.

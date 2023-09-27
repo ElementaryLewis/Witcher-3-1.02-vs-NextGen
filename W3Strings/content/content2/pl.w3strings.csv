@@ -12,7 +12,7 @@
    1057923|00000000||Chodzi mi o jego wygląd.
    1057925|00000000||Przypomina jakby kobietę... Ale taką, co właśnie z grobu wstała. Suknię ma brudną, w strzępach, skóra płatami schodzi jej z kości. A wyje... Jak na mękach.
    1057927|00000000||Jakaś zjawa... Albo może alp.
-   1057929|00000000||Jakby go nie zwali, mistrzu -- jak się nim nie zajmiecie, przyjdzie mi córę pogrzebać.
+   1057929|00000000||Jakby go nie zwali, mistrzu – jak się nim nie zajmiecie, przyjdzie mi córę pogrzebać.
    1057898|00000000||Opisz mi tego ducha.
    1057899|00000000||Przykro mi. Nie mogę ci teraz pomóc.
    1029179|00000000||Poważna sprawa... Od ręki tego nie załatwię. Wrócę, jak będę miał czas.
@@ -43,6 +43,7 @@
     422235|00000000||Bywaj.
     422231|00000000||Pokaż mi swoje towary.
     422237|00000000||Pokaż mi, co masz na sprzedaż.
+    432590|d184d9f7||Upiór
    1037370|00000000||Co ja wam, kurwa, zrobiłem?! No, co?!
    1037368|00000000||Pięćdziesiąt... lat... pracy... Na nic!
     594289|00000000||Bo zawołam mamę!
@@ -68,7 +69,7 @@
     532099|2d058d06||Kapłan Wiecznego Ognia
     171353|39b3095b||Redański żołnierz
     172329|52a3f146||Chłop
-    546802|00000000||{Coltais grìffean ess’a’anval .} [Ponoć gryf znowu zaatakował.]
+    546802|00000000||{Coltais grìffean ess’a’anval.} [Ponoć gryf znowu zaatakował.]
     546803|00000000||{Aep thorp?} [We wsi?]
     561458|00000000||{Neen, aep straede. Mar’sandean carbad.} [Nie, na gościńcu. Wóz kupiecki.]
     561460|00000000||{Ess’dice fir’inn. Nord ess ulf’heidan an moeras.} [Prawdę mówili. Północ to nic tylko bagna i potwory.]
@@ -342,7 +343,7 @@
    1062764|00000000||Spóźniliście się, mistrzu. Luba już w grobie leży.
    1052112|00000000||Nie ma chojraka nad wiedźmaka!
    1028054|00000000||Trup. Powieszony na sznurze od wiadra...
-   1058441|00000000||To pewnia ta kobieta od dziennika.
+   1058441|00000000||To pewnie ta kobieta od dziennika.
    1055659|361ff3ae||Kogut
    1051306|00000000||{Ess tolla’va, hoersoon?! Esse’faigh va arbaith hwer...} [Nudzi się wam, skurwysyny?! Ja wam znajdę zajęcie...]
    1051308|00000000||{Esse pump! Yn, twe!} [Pompować! Raz, dwa!]
@@ -363,11 +364,11 @@
     578327|00000000||Zagrajmy w gwinta.
    1014576|00000000||Wygrałeś, gratuluję. Weź tę kartę, zasłużyłeś na nią.
     578345|00000000||Znasz kogoś, z kim warto byłoby zagrać?
-   1076751|00000000||Słyszałem o jednym karciarzu, który nie tak dawno zahaczył o Novigrad. Co ciekawe - też wiedźmin. Lambert na niego wołają.
+   1076751|00000000||Słyszałem o jednym karciarzu, który nie tak dawno zahaczył o Novigrad. Co ciekawe – też wiedźmin. Lambert na niego wołają.
    1076869|00000000||To nie jedyny twój znajomy, z którym możesz zagrać. Talar jest zapalonym karciarzem i ma bardzo ciekawą talię. Jest w tych stronach, więc możesz spróbować...
    1076867|00000000||Znam Lamberta, ale nie miałem pojęcia, że grywa w gwinta.
    1076865|00000000||Czekam jeszcze na przyjaciela, który ma tu dotrzeć z południa. Lubi i potrafi bawić się kartami. Ale jak widać najlepiej wychodzi mu spóźnianie, więc nie masz co czekać.
-   1076749|00000000||Słyszałem o jednym karciarzu, który nie tak dawno zahaczył o Novigrad. Co ciekawe - też wiedźmin. Lambert na niego wołają.
+   1076749|00000000||Słyszałem o jednym karciarzu, który nie tak dawno zahaczył o Novigrad. Co ciekawe – też wiedźmin. Lambert na niego wołają.
    1076863|00000000||Stary Lambert karciarzem...? Ciekawe...
     578343|00000000||Wpadnij jeszcze kiedyś na partyjkę.
     578352|00000000||Twój stary znajomy ze Skellige – Crach an Craite posiada ciekawą kolekcję. Poza tym w Velen mieszka jeden szkutnik, który w dzień struga łodzie, a wieczorami grywa w gwinta.
@@ -411,7 +412,7 @@
    1046854|00000000||Czemu właśnie w Wyzimie?
    1046841|00000000||To nie myśmy zaczęli tę burdę.
    1046843|00000000||Wymówki, wymówki... Cały ty.
-   1046846|00000000||Ye… Yennefer? Jak...?
+   1046846|00000000||Ye... Yennefer? Jak...?
    1049439|00000000||Dostałam raport, że w Białym Sadzie pojawił się wiedźmin. Wiedziałam, że to ty. Że jedziesz moim tropem.
    1049441|00000000||Mogłam poczekać, aż mnie znajdziesz... Ale wiesz. Cierpliwość nigdy nie była moją mocną stroną.
    1049443|00000000||Dobrze cię widzieć, Geralt. Jeszcze lepiej byłoby cię uścisnąć... Gdyby nie to, że jesteś cały we krwi.
@@ -422,19 +423,20 @@
    1049459|00000000||Udzielę ich... Ale już w Wyzimie. Szykujcie konie.
     326432|00000000||Już dobrze. Po wszystkim.
     326434|00000000||Zostaw! Nie zbliżaj się!
-    326436|00000000||Widzieliście jego twarz… bogowie...
+    326436|00000000||Widzieliście jego twarz... bogowie...
     326448|00000000||Odejdź stąd. I nie wracaj. Nigdy.
     549288|00000000||No, to tyle z niemieszaniem się... Chodźmy.
-   1056370|00000000||Yennefer, skąd oni…
+   1056370|00000000||Yennefer, skąd oni...
    1056372|00000000||Pogadamy o tym jutro, dobrze? Po audiencji.
+   1075783|00000000||{Goc'hel!!!} [Uważaj!]
    1056355|00000000||Wiesz... Śniłaś mi się niedawno.
    1056357|00000000||Znając ciebie, to pewnie był nieprzyzwoity.
-   1056359|00000000||Tylko na początku. A potem…
+   1056359|00000000||Tylko na początku. A potem...
    1056362|00000000||A potem?
    1056367|00000000||W galop! Już!
    1075096|00000000||Oho. Ciekawego sobie znalazł rozmówcę...
    1075098|00000000||On gada z psem, ty do siebie... Nie wiem, co gorsze.
-   1075225|00000000||Też prawda... Swoją drogą, słyszałeś, co mówił? Szuka kogoś. Może byśmy--
+   1075225|00000000||Też prawda... Swoją drogą, słyszałeś, co mówił? Szuka kogoś. Może byśmy...
    1075227|00000000||O, nie. Jak chcesz się pchać w cudze sprawy, rób to sam. Ja poczekam.
    1077296|00000000||Geralt, do kroćset! Za stary jestem, żeby się za tobą uganiać!
    1077300|00000000||Ugryzło cię co? Wracaj!
@@ -836,7 +838,7 @@
     562350|00000000||Ach, już rozumiem... Wyście wiedźmin? Ten zabójca potworów, o którym we wsi mówią?
     562352|00000000||Mhm.
     562354|00000000||Wskażę wam drogę, a jakże. Ale... Muszę ubić te kundle, nim komu krzywdę zrobią.
-    562356|00000000||Pomożecie? Znaczy, jeśli nie żal wam na nich tępić srebrnych mieczy…
+    562356|00000000||Pomożecie? Znaczy, jeśli nie żal wam na nich tępić srebrnych mieczy...
     562254|00000000||Gdzie znalazłeś ciała Nilfgaardczyków?
     562255|00000000||Groźniejsze od wilków? Bez przesady.
     562257|00000000||Psy groźniejsze od wilków? Bez przesady.
@@ -910,7 +912,7 @@
     576094|00000000||Miałem cię za tradycjonalistę.
     576097|00000000||Wiedźmin z kuszą? To nie wbrew tradycji?
     576105|00000000||Dość gadania. Mamy gryfa do ubicia.
-    451163|cc663b8e||Kupiec
+    451163|cc663b8e||Handlarz
    1049576|00000000||{N'ees tedd a thu.} [Nie mam dla ciebie czasu.]
    1049574|00000000||{Hael Her'zaer.} [Niech żyje cesarz.]
    1049578|00000000||{Bu'rac.} [Prostak.]
@@ -1055,7 +1057,7 @@
    1073379|00000000||Ech... No i przegrałem.
     521657|00000000||Może z inną talią pójdzie ci lepiej.
     521651|00000000||Kto jeszcze grywa w gwinta?
-    521652|00000000||Hadko - ten mały łobuz z Podgajów... No i zanim Temeria padła, Vernon Roche słynął z dobrej talii. Czy nadal grywa - tego nie wiem.
+    521652|00000000||Hadko – ten mały łobuz z Podgajów... No i zanim Temeria padła, Vernon Roche słynął z dobrej talii. Czy nadal grywa – tego nie wiem.
    1033659|00000000||Ale mnie wystraszyłeś, bracik. Już myślałem, że trzeba cię będzie położyć na cmentarzu razem z rodzicami.
    1033185|00000000||Przestań piszczeć, Huzar. Poszukamy pana później, jak już będzie bezpiecznie.
     539439|00000000||Znowu się widzimy.
@@ -1350,7 +1352,7 @@
    1052122|00000000||Bo gdy przeciw potworom nikt nie uradzi, wiedźmak uradzi!
    1029932|00000000||Co się stało?
    1030582|00000000||Potwory! Potwory z bagien! Mówili, że to niebezpieczna droga... Ale nie usłuchałem! No to mam za swoje!
-   1030584|00000000||Mniej samokrytyki, więcej konkretów.  Powiedz co się stało i jak ci pomóc. I pamiętaj, że wiedźmini nie pracują za darmo - Kodeks zabrania.
+   1030584|00000000||Mniej samokrytyki, więcej konkretów. Powiedz co się stało i jak ci pomóc. I pamiętaj, że wiedźmini nie pracują za darmo – Kodeks zabrania.
    1030585|00000000||No... Wybierałem się do Czarnych na handel. Nagle koń się spłoszył i zjechał z drogi. Na wyboju zleciałem z kozła, a wóz poturlał się dalej. Zaraz usłyszałem jakieś bulgotanie, rżenie... I mlaskanie. Coś tam było. Chyba zżarło Siwka z kopytami!
    1030586|00000000||Towar został pewnie na wozie... Ale samemu strach sprawdzić. Myślałem, że może wy...? Najbardziej mi na takiej skrzyneczce zależy. Przynieście ją, błagam!
    1029925|00000000||Niech będzie. Idę... Jeśli znajdę tę skrzynkę, dam znać.
@@ -1659,7 +1661,7 @@
    1010721|00000000||Po co mu dwa miecze? Gubi je, czy co?
    1010717|00000000||Tere-fere.
    1010719|00000000||Bueee! Łeeee!
-   1032089|00000000||Połów udany. Bransoleta... Z wygrawerowanym napisem. „Dla mojej ukochanej Klary - Volker".
+   1032089|00000000||Połów udany. Bransoleta... Z wygrawerowanym napisem. „Dla mojej ukochanej Klary – Volker”.
    1057989|00000000||Ta bransoleta musiała należeć do kobiety, którą znalazłem w studni...
    1057987|00000000||Bransoleta była na kości łokciowej. Ciekawe, gdzie reszta ciała...
    1058228|00000000||Ładna robota. Ale trzeba będzie ją spalić razem z ciałem gdzieś blisko studni, żeby na dobre przegnać tę południcę.
@@ -1788,7 +1790,7 @@
     563602|00000000||To co mam według ciebie robić?
     563604|00000000||Swoje. Ale nie łudź się, że to coś zmieni.
     563301|00000000||Przeszkadzam?
-    563303|00000000||Wręcz przeciwnie. Podaj mi dwugrot. To ten…
+    563303|00000000||Wręcz przeciwnie. Podaj mi dwugrot. To ten...
     563306|00000000||...czerwony kwiat. No, no. Widzę, że mam do czynienia ze znawcą.
     563308|00000000||To za dużo powiedziane... Ale coś o ziołach wiem. Na przykład, że dwugrot jest trujący.
     563309|00000000||W dużych dawkach. W małych uśmierza ból i wywołuje miłe sny.
@@ -1815,7 +1817,6 @@
    1049563|00000000||*Zieeew*
    1049561|00000000||{Va caelm!} [Spokojnie!]
    1049567|00000000||{Glaeddyv vort.} [Odłóż miecz]
-    432590|d184d9f7||Upiór
    1043949|00000000||Odejdź.
    1043951|00000000||Precz.
    1043953|00000000||Arrgh!

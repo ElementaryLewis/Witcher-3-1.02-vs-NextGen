@@ -211,7 +211,6 @@
    1051947|00000000||Aztán mi történt?
    1051949|00000000||Hát, azt pontosan nem tudom… Reggel a saját kunyhómban ébredtem…
    1051951|00000000||Igyál kevesebbet, akkor nem lesznek rémálmaid.
-    389411|2ec9fb68||Városlakó
     580242|00000000||Üdvözlöm önöket zártkörű gwyntversenyünkön, hölgyeim és uraim. „Zárt” alatt az esemény elitjellegénél többet értek.
    1014849|00000000||Aki a játék vége előtt elhagyja a Vágyvirágot, kizárjuk a versenyből. Ez az első számú szabály.
    1014851|00000000||A kettes, hármas és négyes szabály: nincs verekedés, csalás, és mágikus trükk.
@@ -451,33 +450,6 @@
     519880|00000000||És tejesember lesz!
    1054357|00000000||Szörnygyilkos, ohóóóó. Bestiákat ölni mindenki tud.
    1055571|d519a2f3||Kereskedő
-    590999|00000000||Pontosan miről is beszélgettek?
-    591007|00000000||Jól hallom? A Szövetséget említik?
-    591009|00000000||Igen, és később Philippa mondott valamit a látás regenerálásáról…
-    591011|00000000||Gondolod, hogy vissza tudta nyerni a látását?
-    591014|00000000||Szerinted Philippának sikerült? Visszanyerte a látását?
-    591016|00000000||Vakmerő dolog lenne, de nem lehetetlen. Mintha azt mondták volna, drágaköveken növesztett szöveteket akar beültetni.
-    591018|00000000||Ez idáig csak Vilgefortznak sikerült hasonló. Ha sikerrel járt… hát, akkor azt hiszem kijár neki a gratuláció.
-    591012|00000000||Miért beszéltek a Szövetségről?
-    591019|00000000||Margarita említette Idát és Francescát, majd Keirát és Fringillát…
-    591028|00000000||Nincs kétségem afelől, hogy Philippa újra éltre akarja hívni a Varázslónők Szövetségét.
-    591033|00000000||Bizonytalanok voltak Triss-szel kapcsolatban, téged pedig egyenesen kizártak…
-    591035|00000000||Sosem csatlakoznék újra. Philippa szerint csak a Szövetség képviselheti hatékonyan a varázslók érdekeit. Én ezt kétlem, inkább magam intézem a dolgaimat.
-    591036|00000000||Mellesleg nem is ez a legjobb pillanat. A Szövetség életre hívása Radovidot és a császárt egyaránt feldühítené. Kritikus helyzetben van a befolyásért folytatott párbajuk, és egyikük sem örülne egy új játékosnak.
-    591010|00000000||Vajon mit kéne tenni a kristállyal?
-    563761|00000000||El kell vinnem Radovidnak.
-    563765|00000000||Elvállaltam egy munkát és úgy tervezem, hogy a lehető legjobban teljesítem. A kristályt Radovidnak kell adni.
-    563767|00000000||Nagyon, nagyon rossz ötlet. Nem csak Philippának ártasz ezzel, hanem Trissnek, nekem…
-    591048|00000000||Yen, döntöttem. Radovidnak adom a kristályt.
-    591050|00000000||Nagy hibát követsz el. De a te döntésed.
-    591046|00000000||Radovidnak adom a kristályt.
-    591045|00000000||Jó, tartsd meg a kristályt.
-    563763|00000000||Jól van. Nálad nagyobb biztonságban lesz.
-    563759|00000000||Egen, tartsd meg.
-    591001|00000000||Hm… Vajon mit kellene tegyek a kristállyal…?
-    591003|00000000||Nem kerülhet Radovid kezébe, semmilyen körülmények között sem. A legjobb, ha nálam hagyod.
-    590998|00000000||Vajon mit kéne tenni a kristállyal?
-    563787|00000000||A fenébe! Ennyi – nem tudok többet kihozni belőle.
    1040576|00000000||Jól van, fiúk. A mókának vége, mindenki vissza a helyére. Gyerünk, Hal!
    1041644|00000000||Áá, nem várhatom meg, míg a Kolduskirály szakállatlanít.
    1055765|00000000||Ah, itt is vagy már! Gyere, találjunk egy helyet, ahová letehetjük a seggünk. Mindjárt kezdődik.
@@ -579,9 +551,13 @@
     478264|00000000||Az első nyomán a második bús sirámot zengett. A harmadikat hű bestia kísérte.
     478266|00000000||A negyedik az elsővel nem haladhatott, de a másodikkal egy dalt zsongatott. Úrnőjük álmát így vigyázták, s mindüket mik ragyognak fent, a csillagok.”
     490067|00000000||Sose jutsz ki innen élve, érted? Nincs esélyed!
+    422011|00000000||Minden jót.
+    422005|00000000||Minden jót.
+    422001|00000000||Mutasd az árud.
+    422007|00000000||Mutasd, mi a kínálat.
+    421999|00000000||Üdvözöllek a műhelyemben. Jó minőségű áruk méltányos áron!
     377440|00000000||A cső zárórácsa. A robbanás összegyűrte, akár egy darab papírt, és habarcs van a rudakon.
     377442|00000000||Vagyis a robbanás pillanatában a helyén volt, az tépte ki a falból.
-    313590|acc55a20||Bandita
     481186|00000000||Vágtass!
     571716|00000000||Megcsókolhattok ott lenn!
     571718|00000000||A segged szőre is ősz?
@@ -631,6 +607,7 @@
    1016327|00000000||Menj. Nem kellene itt lenned.
    1016329|00000000||Menj. Menekülj, amíg lehet.
     572035|ec9b08eb||Kovács
+    389411|2ec9fb68||Városlakó
     532407|2617e85c||Szegény városlakó
     482142|00000000||Csak erre jártál, vándor, vagy keresel valamit?
     493588|00000000||Ki kérdezi?
@@ -726,6 +703,7 @@
     582464|00000000||Mhm. Én is megtudtam valamit – hogy élő áruban utazik. Van egy hajója, a Parti Gyöngy, amivel innen Skelligéig jár. Nevet is változtatott, most Roland Treugger, aki hivatalosan köztiszteletben álló novigradi kereskedő és emberbarát.
    1037302|00000000||Gildorfban él.
    1072705|00000000||Köszönöm, uram. Megmentetted az életem! Ha valaha Cserepesen jársz, nézz be! Megnyírlak, megborotvállak, ingyért!
+   1065907|637b0183||Renegátok vezetője
    1004782|00000000||Könyörgök… Ártatlan vagyok, esküszöm.
    1004783|00000000||Tán Lebioda próféta támadta meg a kereskedőket, mi?
    1004784|00000000||Ellopni a szajrét és megvakítani azokat a szegény ördögöket… Bezony szomorú lett ettől a báró.
@@ -966,6 +944,7 @@
     470210|00000000||Játszhatod most itt a nagyvilági nőt, de mielőtt az a báró Edward… hogyishíjják… kivakart a sárból, csak egy közönséges…
     458639|00000000||Elég. A hölgy azt mondta, nem ismer.
     458641|00000000||Ez meg ki? Az új fiú? Öregebb, mint a legutóbbi, úgy tűnik. Egy elaggott, pókhálós puhapöcs. Minél kevésbé megy nekik, annál többet fizetnek, mi?
+    313590|acc55a20||Bandita
     404897|00000000||Nem fogok itt állni és nézni.
     404913|00000000||Hagyd abba. Fejezd be.
     404915|00000000||Nem érdekel egy fejbólintó jános, aki a papság pórázán csahol.
@@ -1404,7 +1383,6 @@
     467766|00000000||Itt is vagyunk… tényleg nem kellett volna fáradnod.
     393237|00000000||Kicsit tovább, gyere.
     394100|00000000||Itt a hely.
-   1031476|00000000||Lassítsatok! Zsiványok!
    1013060|00000000||Nincs rá szó, hogy kifejezze, mennyire sajnálom az esetet!
    1013061|00000000||Csak egy kis tréfa volt, móka. Mindent vissza akartunk adni. Esküszöm!
     465727|00000000||Fizetek nektek… Amit csak akartok, csak irgalmazzatok neki, könyörgöm!
@@ -1911,6 +1889,7 @@
     415001|00000000||Nyernie kell a köcsögnek!
     415003|00000000||Esélye sincsen.
     415005|00000000||Ne károgj mán!
+   1224625|00019dd6||Kal
     557837|00000000||Karomnyomok…
     557861|00000000||Egyet elkapott, még mielőtt elérhette volna a barlangot…
     557865|00000000||Még több születik majd. El kell pusztítani a fészkeket.
@@ -2314,7 +2293,6 @@
     422639|00000000||Hehe.
     422641|00000000||Dugdosnak vajon valami különlegeset?
     426714|00000000||Remélem, az ő érdekükben.
-   1018000|e223a10b||Vadász
    1010997|00000000||*hapci*
    1010995|00000000||Ó, helló.
    1010993|00000000||Csak magának köszönheti.
@@ -2340,7 +2318,7 @@
     586791|00000000||Sovány vigasz…
     586786|00000000||Tudták, mire vállalkoznak.
     586781|00000000||A fenébe… túl sokáig tartott.
-    586783|00000000||„Túl sokáig?” Megmentettünk két embert.
+    586783|00000000||„Túl sokáig?” Elindultunk megmenteni két embert.
     586785|00000000||Igen. És elvesztettünk egyet.
     416373|00000000||Egy gyerek.
    1054284|00000000||Várj… te segítettél nekünk?
@@ -2348,7 +2326,6 @@
     416186|00000000||Biztos csaltál.
     417331|00000000||Gyere a házhoz, elmondom a többieknek, hogy én győztem.
    1076255|97ef991e||Kereskedő
-    465715|00000000||Úgy látom, a ketrec is csak annyira volt valódi, mint a baziliszkusz.
    1068843|ca5d197b||Rabszolgahajcsár
    1016534|00000000||Holofernus Meiersdorf, szolgálatodra. Bemutatom a fiaimat, Bernie-t, Franklint és Hugót.
    1036912|00000000||Aggódsz a „méhészet fantomja” miatt? Láttam a kiírást.
@@ -2578,6 +2555,7 @@
    1035037|00000000||Ooo, megvan már az inaslevelem, de még hátra van, hogy elkészítsem a mestermunkám…
    1035039|00000000||Megpróbálhatnád Velenben. Van ott egy törp, Fergus a neve, ő segíthet.
    1035041|00000000||A céhmesterek azt mondják, nincs nála jobb a Pontartól délre.
+    422112|00000000||Üdvözöllek, üdvözöllek!
     421955|00000000||Kiváló minőségű kardok!
     358190|e29b1c4b||Varázslónő
     498724|00000000||Minden nyom egy fenevadra utal.
@@ -3070,54 +3048,54 @@
     532631|00000000||Itt is vagyunk! Tudod, arra gondoltam, hogy ahelyett, hogy egy dohos vén pincében vívnánk, kimehetnénk a szabad levegőre. Párbaj a hídon… Mint a regényekben! És most elő a karddal!
     532632|00000000||Csak az acél- és az ezüstkardom van nálam. Gyakorlófegyverekkel kellene vívnunk.
     532633|00000000||Azzal kellene. De mind közül neked kéne tudnod a legjobban – sokkal mulatságosabb olyasmit csinálni, amit nem szabad.
-   1075291|00000000||Vér… emberi.
-   1043710|00000000||A Gyáva vére. Bőven folyt… A nyom tiszta. Biztosan elvezet hozzá.
-   1043683|00000000||Megtaláltam a Gyávát… Most lássuk a kulcsot. Nem jutok ki innen anélkül.
+   1075301|00000000||Lábnyomok és mancslenyomatok összevissza. Ember és bestia…
+    488991|00000000||A nyomok keresztezik egymást. Morkvarg kezdettől a nyomában volt.
    1075320|00000000||Férfi, húsz év alatti, több seb. Itt talált menedéket… és elvérzett.
-    488985|00000000||A Gyáva itt rejtőzött el… aztán lecsapott.
-   1075297|00000000||Vér, a föld egészen föltúrva… Kétség kívül harc folyt itt.
-    489728|00000000||Egy Freya-papnő. Nincs rajta seb. Alighanem éhen halt… nem épp mostanában.
-    492154|00000000||Itt rejtőzhetett el, mikor Morkvarg berontott a ligetbe.
-    489729|00000000||Egy kulcs… Később még jól jöhet.
-    499602|00000000||Tizenkettő egy tucat halászbárka… szétzúzódva a sziklákon.
-    488990|00000000||A Gyáva itt már meg sem próbált szembeszállni vele… Futott, ahogy a lába bírta.
-   1075299|00000000||Mély nyomok, vér… Csak próbált menekülni.
-   1075312|00000000||Karmok… Nagyon be akart jutni. Már-már kétségbeesetten.
-    488997|00000000||Karomnyomok… A Gyáva Morkvarg orra előtt csapta be az ajtót.
-   1075310|00000000||Szörny nyomok… Futott, üldözött valamit.
-    488994|00000000||Mély nyomok, távol egymástól, Morkvarg futva üldözte a Gyávát.
-    488993|00000000||Úgy tűnik, Morkvarg elunta a lopakodást… És támadott.
-   1075303|00000000||Itt harc folyt.
-    489730|00000000||Jó ideig várhatott a halálra…
-    489021|00000000||A Gyáva sehol, kiút pedig nincs… csak a kút felé…
-    525461|00000000||Sok nyom. Frissek és régiek vegyesen. A tanyája itt lesz valahol.
-    499604|00000000||Patanyomok…
-    489008|00000000||Az ajtó nem mozdul… A Gyáva kiékelte valahogy… vagy csak zárva van… Meg kell kerülnöm.
-    488996|00000000||Rengeteg vér… de nem emberé. A Gyáva megsebezte Morkvargot.
-    489006|00000000||Morkvarg innen újra a nyomában volt.
-   1075318|00000000||Karomnyomok… Hatalmas karmok.
-    489573|00000000||Morkvarg nem adja fel egykönnyen…
+   1043683|00000000||Megtaláltam a Gyávát… Most lássuk a kulcsot. Nem jutok ki innen anélkül.
    1075314|00000000||Szörny vére.
     489056|00000000||Morkvarg vére…
    1075322|00000000||Emberi vér. Rengeteg… Ez biztos mély seb volt.
     488954|00000000||A Gyáva vére…
-    489079|00000000||Valami van odalent… de nem tudom kivenni.
+   1075318|00000000||Karomnyomok… Hatalmas karmok.
+    489573|00000000||Morkvarg nem adja fel egykönnyen…
+   1075297|00000000||Vér, a föld egészen föltúrva… Kétség kívül harc folyt itt.
+    488985|00000000||A Gyáva itt rejtőzött el… aztán lecsapott.
    1075293|00000000||Lábnyomok… nem mélyek. Valaki lopakodott.
     488955|00000000||A nyomok nem mélyek… A Gyáva settenkedett…
-   1075301|00000000||Lábnyomok és mancslenyomatok összevissza. Ember és bestia…
-    488991|00000000||A nyomok keresztezik egymást. Morkvarg kezdettől a nyomában volt.
+    489728|00000000||Egy Freya-papnő. Nincs rajta seb. Alighanem éhen halt… nem épp mostanában.
+    489729|00000000||Egy kulcs… Később még jól jöhet.
+    492154|00000000||Itt rejtőzhetett el, mikor Morkvarg berontott a ligetbe.
+   1075299|00000000||Mély nyomok, vér… Csak próbált menekülni.
+    488990|00000000||A Gyáva itt már meg sem próbált szembeszállni vele… Futott, ahogy a lába bírta.
    1075295|00000000||Nyomok… mélyek és távol esnek egymástól. Futott.
     488984|00000000||A Gyáva megsérült. Futásnak eredt…
-    488995|00000000||Két mély nyom, aztán semmi… Morkvarg ugorhatott.
-    489007|00000000||Valamiféle menedék…
-    488058|00000000||A zsilip nyitva… de semmi változás.
    1075316|00000000||Lábynomok. A kúthoz vezetnek… És itt véget érnek.
     495444|00000000||A nyomok a kúthoz vezetnek. Gondolom, a Gyávának még a fulladás is jobb lett volna a felzabálásnál…
-   1056867|00000000||Át kell jutnom a túloldalra. Talán a lenti út? Ha ki tudnám nyitni azt a zsilipet…
+   1075312|00000000||Karmok… Nagyon be akart jutni. Már-már kétségbeesetten.
+    488997|00000000||Karomnyomok… A Gyáva Morkvarg orra előtt csapta be az ajtót.
+   1075310|00000000||Szörny nyomok… Futott, üldözött valamit.
+    488994|00000000||Mély nyomok, távol egymástól, Morkvarg futva üldözte a Gyávát.
+   1075291|00000000||Vér… emberi.
+   1043710|00000000||A Gyáva vére. Bőven folyt… A nyom tiszta. Biztosan elvezet hozzá.
+   1075303|00000000||Itt harc folyt.
+    488993|00000000||Úgy tűnik, Morkvarg elunta a lopakodást… És támadott.
+    489008|00000000||Az ajtó nem mozdul… A Gyáva kiékelte valahogy… vagy csak zárva van… Meg kell kerülnöm.
+    489007|00000000||Valamiféle menedék…
+    488996|00000000||Rengeteg vér… de nem emberé. A Gyáva megsebezte Morkvargot.
+    489079|00000000||Valami van odalent… de nem tudom kivenni.
+    488058|00000000||A zsilip nyitva… de semmi változás.
+    525461|00000000||Sok nyom. Frissek és régiek vegyesen. A tanyája itt lesz valahol.
+    489730|00000000||Jó ideig várhatott a halálra…
+    489006|00000000||Morkvarg innen újra a nyomában volt.
     498227|00000000||Nem tudok felmászni. Más utat kell keresnem.
+   1056867|00000000||Át kell jutnom a túloldalra. Talán a lenti út? Ha ki tudnám nyitni azt a zsilipet…
     489003|00000000||Ezeket a nyomokat követve megtalálom a Gyávát… vagy a holttestét.
+    488995|00000000||Két mély nyom, aztán semmi… Morkvarg ugorhatott.
     489535|00000000||Morkvarg megsebesült… De nem adta fel.
+    499604|00000000||Patanyomok…
     489047|00000000||A Gyáva vére…
+    489021|00000000||A Gyáva sehol, kiút pedig nincs… csak a kút felé…
+    499602|00000000||Tizenkettő egy tucat halászbárka… szétzúzódva a sziklákon.
    1025552|00000000||Alamizsnát, alamizsnát kenyérre, kérem, jó emberek.
    1025554|00000000||Ne, ne így. Hangsúlyozd jobban: „kenyéééére.”
    1025556|00000000||Számít ez?
@@ -3468,38 +3446,6 @@
     478101|00000000||Kétféle ember van, Geralt: az, aki kihasználja az alkalmat, és az, aki megteremti.
     478103|00000000||Téged mindig az utóbbinak gondoltalak. Mellesleg szeretnék egy szívességet kérni. Szóval, ellátogatsz hozzám valamikor?
     477974|00000000||Hú, végre. De megérte, nem? Kiderítettél valamit Ciriről – valami fontosat.
-    470780|00000000||Úgy éltek, hogy másoktól loptok… Ennek nem lesz jó vége. Segítséget kellene kérnetek valakitől.
-    470787|00000000||Ki segítene? Ki fogadna be?
-    544169|00000000||Ha már elvittük az összes tyúkot… akkor mélyebben megyünk az erdőbe!
-    470791|00000000||Petey azt mondja, majd vadászunk, állatbőrt viselünk és levélből varrunk sátrat…
-    544171|00000000||És sose növünk fel!
-    544173|00000000||*Sóhajt* Hmm. Az utolsó a legvalószínűbb…
-    544175|00000000||Sok sikert, azt hiszem. És vigyázzatok magatokra.
-    470768|00000000||Segítséget kellene keresnetek.
-    470739|00000000||Mennem kell.
-    470763|00000000||Ideje indulnom.
-    471842|00000000||Nem mondod el senkinek, hogy itt vagyunk?
-    471844|00000000||Nem, de legyetek óvatosak.
-    470778|00000000||Ideje indulnom.
-    470766|00000000||Honnan vannak a farkas nyomok?
-    470770|00000000||Honnan van a farkas nyom?
-    470772|00000000||Apa egyszer leterített egy farkast, és adott mindkettőnknek egy mancsot, hogy szerencsét hozzon. Azt kötöttük a cipőnkre.
-    470774|00000000||Mert a farkasok lopnak tyúkot, igaz?
-    470776|00000000||Bizony, de többnyire nem csak egyet egyszerre.
-    470747|00000000||Miért vagytok az erdőben? Hol vannak a szüleitek?
-    470753|00000000||A katonák elfogták őket.
-    470755|00000000||Épp keltünk át a folyón… De észrevettek. Rohantunk, de apa és anya batyukat cipelt… Azt mondták, meneküljünk.
-    470759|00000000||Azóta egyedül éltek az erdőben?
-    470761|00000000||Naná. Egy csomó dolgot találtunk, elcsórtunk ezt-azt… jól elboldogulunk.
-    470737|00000000||Miért vagytok itt?
-    470733|00000000||Nem bántalak benneteket.
-    471039|00000000||Akkor miért vagy itt? A fekete bajszú kapitány küldött?
-    470735|00000000||Nem ismerek semmilyen kapitányt. Követtem a tyúktolvaj szörnyek nyomait idáig.
-    471041|00000000||*Horkant* Pff, ennyi hűhó néhány ványadt tyúk miatt.
-    470741|00000000||Az öregasszony amúgy se nagyon szerette őket. Mindig kiabál velük. És boszorkának néz ki.
-    470717|00000000||Vigyázz, Petey! Kardja van!
-    471021|00000000||Katona!
-    470719|00000000||Nem fog el élve!
     512767|00000000||A kapcsolatom már ott van.
     512766|00000000||Akivel találkozom, valószínűleg már vár.
     512770|00000000||Gyerünk.
@@ -4015,7 +3961,6 @@
    1028988|00000000||Elhajózni Skelligére? A te korodban? Miközben tombol a háború? Te megőrültél, ezt bárki megmondhatja!
    1028990|00000000||Meglátjuk. Kiraktam a felhívást, már csak egy elég bátor jelentkező kell. Te meg ülj vissza a hintaszékedbe!
     174153|49292af3||Küklopsz
-    563535|5a32e0f6||Zsoldos
     423225|00000000||Varázsital összetevőket keresek.
     423227|00000000||Ez valami tévedés lesz… én nem vagyok mágus. Nem, nem, nem, egyszerű gyógyszerész vagyok.
     423229|00000000||Hm. Meg mertem volna esküdni, hogy láttalak a Loc Muinne csúcsán.
@@ -4204,7 +4149,7 @@
     475414|00000000||Mind a bokrok közé járunk már napok óta.
     475410|00000000||Uuuuaaaa….
    1054771|00000000||Kettőbe váglak, kibaszott korcs!
-   1047830|069826f1||Hegyi troll
+   1086145|e5e26ccb||Jégtroll
    1032361|00000000||Mennyi egész éjszakára, aranyom?
    1032363|00000000||Tévedsz. Táncosnő vagyok, nem kurva.
    1032365|00000000||Mit zagyválsz, aranyom? Itt mindig is voltak…
@@ -4345,6 +4290,7 @@
     550577|00000000||Hehe, mer te még nem láttad Reuvenét…
     550761|00000000||Gudrun csak Világkígyónak híja.
     550763|00000000||Hehehehe! És télleg a saját farkába harap?
+    432590|d184d9f7||Lidérc
     572081|00000000||*Köp*
     572083|00000000||Gyűlölöm a rohadt szajhákat.
     572085|00000000||A besúgás büntetése halál.
@@ -4512,21 +4458,6 @@
    1073255|00000000||Húzzál már el a kardoddal együtt.
    1073257|00000000||Kezdesz felbosszantani, szürkefiú.
    1073259|00000000||Bölcs döntés, seggfej.
-   1027682|00000000||Jó napot, Szürke.
-    579355|00000000||Ah. Végre itt. A szabályok egyszerűek. Kiválasztod, ki ellen indulsz, megteszed a téted, aztán elvágtatsz Feketeágig és vissza. Az első győz, a második béna picsa. Megvan?
-   1027684|00000000||Szóval, kivel versenyzel? Dadogós M-m-matkóval? Vasseggű Hansszal? Vagy Fekete Bogdannal?
-    579374|00000000||Vasseggű Hansszal.
-    579383|00000000||Lássuk, mennyit bír az a vas segg. Gyerünk, Hans.
-    579381|00000000||Fél életemet lóháton töltöttem. A másik felét pónikon. Nem győzhetsz le.
-    579384|00000000||Fekete Bogdannal versenyeznék ez alkalommal.
-    579386|00000000||Jól van, mehetünk egy körre.
-   1027686|00000000||Na gyerünk, tegyétek a téteket… és mehet a verseny.
-    579378|00000000||M-m-m-meglátod, h-h-h-hogy é-é-é-én l-l-l-l-l… ehhh, bassza meg.
-    579376|00000000||Legyen a Dadogós Matt.
-    579373|00000000||Dadogós Matkóval.
-    579364|00000000||Meggondoltam magam, nem igazán akarok versenyezni. Érezzétek jól magatokat nélkülem, uraim.
-   1021674|00000000||Meggondoltam magam. Nem versenyzem.
-    579375|00000000||Fekete Bogdannal.
     467274|40b3f5c5||Menekült
     568207|00000000||Beszélni szeretnék veled.
     568209|00000000||Nem tudom. Előbb beszélgetni szeretnék. Miért ölted meg azokat az őröket?
@@ -4780,14 +4711,12 @@
     594429|00000000||Nem tudod véletlenül, hol van a papagájom?
     594431|00000000||Nagyon szeretnék már összegabalyodni egy palackkal…
     455818|00000000||Takarodj innen… Már csak a Kaszással fog beszélgetni…
-    470650|00000000||Rohadjanak sekély sírban, a szukafattyak! Még egyet elkaptak!
-    432590|d184d9f7||Lidérc
    1032349|00000000||A fődbe kellett vón temetni, mint a nagyapját.
    1032351|00000000||Tudod, mit gondol erről az egyház. A holtakat égetni kell. A halomsírok pogány csökevények.
    1032353|00000000||Az meglehet… de hova tegyem a virágot? És hol áldozok italt a fiamnak?
    1032355|00000000||A misén elmondták, mi a teendő. A halottaknak nem szabad ajándékokat venni. Amit nekik szánsz, az Örök Tűznek kell ajánlanod, aranyban.
    1055682|b224b6d2||Éhín
-    477733|3fbb3904||Nilfgaardi hivatalnok
+    477733|3fbb3904||Nilfgaardi tiszt
    1069966|00000000||Az átok megtört.
    1070630|00000000||És Graham és Anabelle ismét együtt lehetnek.
    1032828|00000000||A Láng, a legfőbb hatalom vigyázzon ránk, és tartson meg minket.
@@ -4866,9 +4795,6 @@
     422136|00000000||Hadd lássam, mit kínálsz.
     422130|00000000||Gyere, uram, legeltesd a szemed az én csodás csecsebecséimen!
     427781|00000000||Fuss, gyorsan!
-   1008857|00000000||Hehe, helló.
-   1008851|00000000||A francba!
-   1008849|00000000||Áááá!
     356382|00000000||Hallottam valami egész hasonlót valahol…
     356386|00000000||Rémlik, mintha hallottam volna már…
     356388|00000000||Tényleg? Nekem nem ismerős… De ez még csak az első változat, egy csomót kell még rajta csiszolni, hogy összeálljon.
@@ -4921,6 +4847,9 @@
     429109|00000000||Geralt. Írok, alkotok éppen. Mi a véleményed az eddigiekről?
     429305|00000000||Van egy perced?
     429307|00000000||Számodra, barátom – mindig!
+   1008857|00000000||Hehe, helló.
+   1008851|00000000||A francba!
+   1008849|00000000||Áááá!
     532236|002e06b1||Bárd
     499051|00000000||Azt mondják, te vagy a legkülönb zsebes mind közül. Megmutatnád, mit tudsz?
     499052|00000000||Épp a piactérre tartok, csibém. Nem akarsz elkísérni?
@@ -4982,7 +4911,6 @@
     562537|00000000||Értékes áldozatokat kell bemutatniuk, vagy szárazság lesz osztályrészük! Jégeső! Földrengések! Lavinák! Én beszéltem!
     562538|00000000||Lavinák? Itt? Azt mégis hogyan oldanád meg?
     562539|00000000||Semmi válasz a Főistentől… Jó, befejezhetjük a beszélgetést akkor is, ha megtaláltam. A föld alól jött a hang…
-   1073063|00000000||Köszönöm, witcher! El kell gyere Epresvölgybe, megnézni a műhelyem. Adok neked valamit hálábul.
     473280|00000000||Mit bámultok? Kotródjatok innét, semmirekellők!
     473282|00000000||Gyerünk, ki iszik velem?
     473708|00000000||Hova a picsába tűnt mindenki?
@@ -5136,6 +5064,7 @@
     529678|00000000||Üzleti ügyben jöttem.
     529679|00000000||Sok sikert hozzá.
     529680|00000000||Várj… Egyszer már segítettél, talán megteszed újra. Ez alkalommal nem csak egy kedves szóért.
+   1055685|971ea264||Délibáb
     430495|00000000||Parázstartó… Ebben az évszakban?
     430497|00000000||Emberi. Priscilláé?
     430499|00000000||Ismerem ezt a szagot. Formaldehid.
@@ -5543,6 +5472,7 @@
     521671|00000000||…de nem, a mágus aszongya: hozz patkányokat. De egészségesek legyenek ám, ne olyanok, amiket a macska már megcsócsált!
     521673|00000000||Ez a lámpa a tünde rejtekhelyéről? És mi ez a patkány dolog?
     521676|00000000||Semmi fontos. Később elmondom. Kezdd inkább te: minek köszönhetem a megtiszteltetést?
+    424525|00000000||Szívesen rápillantanék a kínálatra.
    1015229|00000000||Ez jól ment. Tényleg ismered a kapitányt?
    1015241|00000000||Igen. Szörnyű ember. Na gyere, lássunk munkához.
     583332|00000000||Ha legközelebb találkozol a kapitánnyal, hölgyem, értékelném, ha megemlítenéd…
@@ -5577,7 +5507,6 @@
     422116|00000000||Minden jót.
     422114|00000000||Mutasd az árud.
     422118|00000000||Mid van?
-    422112|00000000||Üdvözöllek, üdvözöllek!
     426948|00000000||Vedd le rólam a kezed, uram! A lányod lehetnék!
     427361|00000000||Szerepjáték? Ínyemre való lenne!
     426950|00000000||Hadd lopjak egy csókot, asszonyom! Meglásd! Csak állj meg itt és vedd le az álarcot!
@@ -5937,6 +5866,7 @@
     475101|00000000||Hallom valamiféle disznót rejtegettek…
     475103|00000000||Nem igaz, uram!
     475105|00000000||Tényleg…? Na hadd lássam.
+   1047830|069826f1||Hegyi troll
     472968|00000000||Menj, nyugtasd le.
     474211|00000000||Menj te. Tudod, hogy csak Tammy kisasszony volt rá képes.
     473703|00000000||Nem akarom pengével a bordáim közt végezni.
@@ -6113,7 +6043,6 @@
    1007614|00000000||Kicsit el voltam foglalva a ködárnyakkal. Azok se voltak kicsik.
    1007616|00000000||Á, igen, sajnos folyton megjelennek. De talán így a legjobb…
    1031422|00000000||Miben lehetek szolgálatodra?
-    424525|00000000||Szívesen rápillantanék a kínálatra.
    1090536|00000000||Mi a kínálat?
    1028773|00000000||Igazán jól esne már néhány parti gwynt. Az biztosan rendbe hozna.
    1086467|00000000||Mit szólnál egy parti gwynthez?
@@ -6162,8 +6091,6 @@
     539290|00000000||Reméltem is. Az én orrom nem olyan érzékeny. Én nem találnám meg a megfelelő ládákat, szóval jelöld meg őket krétával. Közben mi szerzünk egy szekeret.
    1033074|00000000||Jó. Mi legyen, ha végeztem?
    1033076|00000000||Csak gyere ki a raktárból. Akkor mi bemegyünk.
-    580516|00000000||Huh?
-    580518|00000000||Ugh. Elegem van az életből.
     499045|00000000||Igen? Mi az?
     499029|00000000||Üdv neked… Beszélhetnénk?
     499031|00000000||Azért vagyok itt, hogy az istennőhöz járuló zarándokokat szolgáljam.
@@ -6668,8 +6595,6 @@
     492120|00000000||Nem. Aszonta, rossz helyre jöttem. Hogy mán gombócot árul.
     492121|00000000||Jonas esküdött, hogy Hattori keze munkája volt. Garanciával!
     503021|00000000||Micsoda pöcs…
-    580511|00000000||Adnál egy koronát?
-    580513|00000000||Segítség! Ments meg! Belehalok a szegénységbe!
     400996|00000000||Jó kis husi. Az már biztos, hogy rendesen etetik… A mi mezőinkről lopott gabonán hízott kövérre!
     455837|00000000||Most a varjak fognak lakomázni. Egy hétbe is beletelik, mire csontig lehántják.
     455839|00000000||Tiltakozom! Ne tegyétek… Feleségem van… Gyermekem!
@@ -6815,8 +6740,11 @@
     518541|00000000||Tedd, amit kell.
     518545|00000000||Tedd, amit tenned kell.
     518546|00000000||Engem aztán nem kell győzködni.
-    580483|00000000||Folytasd! Nem félek!
-    580485|00000000||Duvvelsheyss.
+   1028934|00000000||A régi bástya. Gyerekként itt képeztek minket… a Füvek Próbája előtt.
+   1028935|00000000||Nocsak… a bástya mintha kísértetjárta lenne.
+   1028941|00000000||Lidércek? Valami ehhez a helyhez köti őket.
+   1028954|00000000||Időpocsékolás. Csak nézelődéssel soha nem találok semmit.
+   1043297|00000000||A medalion jelez, de nem látok semmit… talán a lámpás többet mutat.
     451631|00000000||Miért is ne… Amúgy is megszomjaztam…
     467940|00000000||És ha egy férfi szomjas, a mélabú fojtogatja a lelkét! Tölts, Gascoigne!
     451609|00000000||Örömmel.
@@ -6958,7 +6886,7 @@
    1052702|00000000||Ehhez szükségem lesz némi pénzre.
    1052704|00000000||Ne aggódj. Ő királyi felsége roppant bőkezű, ha a város tisztán tartásáról van szó.
    1086507|00000000||Tulajdonképpen azt reméltem, hogy kártyázunk.
-    360354|00000000||Minden jót.
+    360354|00000000||Ég veled.
     360348|00000000||Minden jót.
     360346|00000000||Mutasd, mi van raktáron.
     360350|00000000||Örömmel szemügyre venném a kínálatot.
@@ -7005,33 +6933,6 @@
     571692|00000000||Mit akarsz?
     571694|00000000||A szart nem lehet fényesíteni.
     571696|00000000||Ilyet én még sose' láttam…
-    540303|00000000||Megnéznéd az árut, esetleg vennél valamit?
-    540302|00000000||Alázatos üdvözletem, uram! Megnéznéd a portékát?
-    541747|00000000||Üdv neked.
-    540321|00000000||Tiszteletem. Honnan jössz és merrefelé tartasz?
-    541748|00000000||Nehéz megmondani. Sokat láttam a világból, és azt tervezem, hogy megnézek még ezt-azt.
-    540322|00000000||Magam se mondhatok mást.
-    540386|00000000||Megnézném az árut, ha nem bánod.
-    540296|00000000||Mit ajánlasz?
-    540393|00000000||Kellemes környék. Gondolom, dübörög az üzlet?
-    540394|00000000||Sokan utaznak északra, köztük menekültek is. Szinte mindenben hiányt szenvednek, úgyhogy megélek.
-    540395|00000000||Katonákkal is üzletelsz?
-    540396|00000000||Egy kis kereskedelem, egy kis megvesztegetés, néha zsarolás is. Mindent összevetve jól jártam.
-    540298|00000000||És, dübörög az üzlet?
-    540397|00000000||Ilyen közel Novigradhoz… Nem kereskednél inkább a városfalakon belül?
-    540398|00000000||A céhek ott beásták magukat… A tagok megszabott árakon dolgoznak, hogy megfojtsanak minden versenyt.
-    546757|00000000||Itt pezsgő üzletet folytatok, senki sem piszkál, és nem vagyok falak közé zárva. A szabadban lenni önmagában is öröm, ebben biztosan egyetértünk.
-    540299|00000000||Nem lenne jobb a városban kereskedned?
-    540385|00000000||Viszlát.
-    546750|00000000||Találkozunk még, efelől biztos vagyok.
-    540300|00000000||Ég veled.
-    540297|00000000||Veszélyes hely ez.
-    540387|00000000||Nem a legjobb hely ez egy házaló számára.
-    540388|00000000||A haszon kockázattal jár. Igaz, a háború harcokat, nehézségeket hoz – de az emberek kihúzzák valahogy. És ahol élet van, ott van kereskedelem is.
-    540389|00000000||Kész vagy egy kis pénzért az életed kockáztatni?
-    540390|00000000||A pénz, barátom, nem lényeges. Próbálom én, de nem tudok egyhelyben maradni. Hát járom és járom a világot.
-    546754|00000000||Új helyeket látok, ismeretlenekkel trécselek. Ezt szeretem, és megéri a kockázatot.
-    540384|00000000||Haha. A hegyek nem sétálnak el, így sose futnak össze, no de az ember…
     472459|00000000||Gyere ki!
     475674|00000000||Nyisd ki, te szaros!
     485984|00000000||Húú, nincs itthon senki!
@@ -7291,8 +7192,6 @@
     499792|00000000||Sietnünk kell.
    1051457|00000000||Gyerünk!
    1051459|00000000||Jössz?!
-    580454|00000000||Akarsz ótvart?
-    580456|00000000||Hé, szépfiú! Mit tegyek, hogy olyan szép hamvas bőröm legyen, mint neked?
    1053256|00000000||Egész nap dolgozunk, S ha bárki otthon keres, mi dolgozunk, És hogy mit dolgozunk, Hát érd be annyival, hogy dolgozunk
    1053258|00000000||Holnap is dolgozunk, S ha bárki megint keres, mi dolgozunk, És hogy mit dolgozunk, Most már te is tudod, hogy dolgozunk
    1053260|00000000||Szól a munkadal, gyere velünk és zengd, Ha többen fáradunk jól haladunk, Gyere velünk és lásd, S ha itt vagy már, együtt maradunk
@@ -7350,6 +7249,7 @@
     548560|00000000||Tehát ne aggódj, csak mondd el, mit gondolsz.
     358194|00000000||Na, jól csináltad, witcher. Nesze – a részed a fáradozásodért.
     358192|00000000||Miféle witcher vagy te?! Ez neked védelem?! A sajnálom nem mentség! Elfelejtheted a fizetséget!
+    181133|0599346c||Torzafiók
     470555|00000000||Lessy, ugye? A nagymamáddal szeretnék beszélni.
     470557|00000000||A nagy… De hát ő évekkel ezelőtt meghalt!
     470567|00000000||Azt hiszem, kísértettel beszéltem…
@@ -7362,7 +7262,7 @@
     470541|00000000||Csak erre jártam. Viszlát.
     470545|00000000||Viszlát.
     470539|00000000||Witcher… Mi szél hozott ide?
-    181133|0599346c||Torzafiók
+    577863|d84f8157||Déllidérc
     552779|00000000||Viszlát!
     552776|00000000||Egy ekimmara volt.
     552777|00000000||Viszlát!
@@ -7409,7 +7309,7 @@
    1053752|00000000||Figyellek már egy ideje. Elképesztő tehetség vagy!
    1053754|00000000||Nincs kedved felhagyni ezzel az amatőr, bugrisok közötti pofozkodással? Mondjuk, hivatásosként verekedni?
    1054288|00000000||Derék ember vagy, Geralt!
-   1055658|22a35b33||Parkány
+   1055658|22a35b33||Patkány
     173971|00000000||Választottál nevet?
     173973|00000000||Nem…
     173975|00000000||Akkor találj ki egyet. Fontos.
@@ -7441,12 +7341,12 @@
    1009039|00000000||Ami nem jelenti azt, hogy ne örülnék, hogy látlak.
    1008866|00000000||Régóta vagy Novigradban?
    1040496|00000000||A te fülbevalód, igaz?
+   1061830|00000000||A kedvenc fülbevalóm. Most ismét vislehetem, hogy megvan mindkető. Köszönöm, Geralt.
    1040498|00000000||Várj csak… Igen! Évekkel ezelőtt veszett el… Hol találtad meg?
    1040500|00000000||Kaer Morhenben. Egy ágyban. Tudod, melyikben.
    1040502|00000000||Ah… Igen… A régi szép idők.
    1040504|00000000||Mondtam már, mennyire gyönyörű vagy, amikor elpirulsz?
    1040506|00000000||Mhm… Akkor, ott. Ahogy mondtam, a régi szép idők.
-   1061830|00000000||A kedvenc fülbevalóm. Most ismét vislehetem, hogy megvan mindkető. Köszönöm, Geralt.
    1040494|00000000||A fülbevalód – Kaer Morhenben találtam.
    1009143|00000000||Amikor elvágtad Menge torkát, akkor… Nagyon ádázul néztél ki. Sosem láttalak még erről az oldaladról.
    1009195|00000000||Mit gondoltál, mit teszek? Elővarázsolok egy marék pillangót?
@@ -7475,6 +7375,27 @@
    1008871|00000000||Tényleg erről akarsz beszélni? Talán szóljak Yennefernek? Biztos nem akarná kihagyni.
    1008877|00000000||Hm, nem. Igazad van, rossz ötlet.
    1008867|00000000||Akkor ott a Jégmadárban…
+   1123711|00000000||Szóval ott voltál a Romlás udvarán és egyszer csak felbukkantam a semmiből. Mire gondoltál?
+   1123713|00000000||Őszintén? „Na ne, már megint ő…”
+   1123715|00000000||Gondoltam. Tudod, nem volt könnyű megtalálni téged.
+   1123717|00000000||Visszanyerted az emlékezeted, megtaláltad Yennefert. Így persze azt gondoltam, hogy ti ketten…
+   1123736|00000000||De kiderült, hogy az amnéziám semmin sem változtatott. Veled akartam lenni előtte is, alatta is, utána is – mindig.
+   1123739|00000000||Most már tudom.
+   1123985|00000000||A Romlás udvarán, amikor ismét viszontláttuk egymást…
+   1123774|00000000||Mondd, ööö, jól megvagy, ugye?
+   1123776|00000000||Ugh, nehéz idők járnak mindenkire…
+   1123778|00000000||Tudod, hogy értem.
+   1123784|00000000||Mégis, mit mondjak? Persze tudtam, hogy te és Yennefer… hogy végül újra összekerültök. Eleve veszett ügy volt.
+   1123786|00000000||Én is azt hiszem. Csak nem akartam, hogy te…
+   1123789|00000000||Ejthetnénk a témát? Most más dolgokkal kellene foglalkoznom.
+   1123791|00000000||Rendben. Értem, persze.
+   1123986|00000000||Jól megvagy?
+   1127007|00000000||Figyelj, tudnál segíteni ezzel a jellel kapcsolatban? Az őrületbe kerget.
+   1127010|00000000||Cö… Oh Geralt… Már megint mibe keveredtél?
+   1127012|00000000||Hosszú történet. Le tudod szedni ezt az izét?
+   1127014|00000000||Attól tartok, nem. És kétlem, hogy bárki más képes lenne rá. Sajnálom.
+   1127016|00000000||Agh… Az emberek furcsán néznek rám amúgy is. Azt hiszem, hozzá kell szoknom.
+   1127004|00000000||A jelem – segítenél megszabadulni tőle?
     300158|00000000||Viszlát, Triss.
     300156|00000000||Szia.
    1006925|00000000||Megtartottad az emlék rózsát.
@@ -7530,7 +7451,6 @@
     416647|00000000||Viszlát.
    1051278|00000000||Oh, mán megin' a ríviai. Mi szél hozott?
     432008|00000000||Hm, laboratóriumnak tűnik. Elég jól felszerelt.
-    542828|00017c7e||Bea
     582730|00000000||Egen… Egy kereskedő magányosan utazik keresztül Velen földjén… Ez semmiképp se végződhetett jól.
     385910|00000000||Megtaláltalak. Előbújhatsz.
     417339|00000000||Megvagy.
@@ -7647,6 +7567,14 @@
    1028825|00000000||Egy witcher… a falusiak béreltek fel?
    1029666|00000000||De a kis piszok idővel mohóvá vált. Többet akart, de én nem engedtem. Ekkor küldte ránk a boszorkányvadászokat. Az embereim felét elveszítettem miatta!
    1029668|00000000||Most pedig állj félre, witcher! Ez nem a te ügyed. Bertramot akarjuk, senki mást. A szavamat adom.
+   1028836|00000000||Látod? Gyors és fájdalommentes. Csak neked. Hogy megértsd.
+   1028838|00000000||Gyerünk, uraim!
+   1028832|00000000||Nem állok az utadba. Tedd, amit kell.
+   1028834|00000000||Jó döntés, witcher.
+   1028829|00000000||Tedd, amiért jöttél.
+   1028840|00000000||Nem érdekel. Fogd az embereidet és menj el, különben vér fog folyni.
+   1028841|00000000||Ó, vér az mindenképpen lesz. És most gondoskodtál róla, hogy még több legyen.
+   1028830|00000000||Menjetek el, különben vér fog folyni.
    1036718|00000000||Mit tett veled Bertram?
    1036720|00000000||Mi tett Bertram, amiért bosszút akarsz állni rajta?
    1036721|00000000||Haha, hát nem említette? Akkor jól figyelj: fél évvel ezelőtt eljött hozzám. Azt mondta, megmutatja, kit érdemes kirabolni… cserébe egy részért a zsákmányból.
@@ -7658,14 +7586,6 @@
    1036416|00000000||Azt hiszed, én is ilyen vagyok?
    1036418|00000000||Ilyen vagy?
    1036423|00000000||Találd ki magad, ha mered. Vagy add át Bertramot, és senki másnak nem lesz bántódása.
-   1028840|00000000||Nem érdekel. Fogd az embereidet és menj el, különben vér fog folyni.
-   1028841|00000000||Ó, vér az mindenképpen lesz. És most gondoskodtál róla, hogy még több legyen.
-   1028830|00000000||Menjetek el, különben vér fog folyni.
-   1028829|00000000||Tedd, amiért jöttél.
-   1028832|00000000||Nem állok az utadba. Tedd, amit kell.
-   1028834|00000000||Jó döntés, witcher.
-   1028836|00000000||Látod? Gyors és fájdalommentes. Csak neked. Hogy megértsd.
-   1028838|00000000||Gyerünk, uraim!
     492065|acfa93d4||Koldus
     594910|00000000||Nincs itt hely a te fajtádnak.
     594912|00000000||Mutáns.
@@ -7942,7 +7862,7 @@
    1004895|00000000||Nem lopok az enyéimtől. Nem vagyok tolvaj.
    1004896|00000000||Éhes se vagy, mi?
    1086143|06f95433||Egér
-    426556|00000000||Figyelj csak. Most kereshetsz valamit. Akármit elveszel tőlem, az a tied.
+   1224980|00000000||Átmegyek – de nem adok egy fabatkát sem.
     426522|00000000||Gyerünk. Próbáld elvenni a pénzem.
     426558|00000000||Látod ezt a medált?
     426560|00000000||Ööö, főnök…. Főnök….
@@ -8023,18 +7943,13 @@
    1031427|775f49f7||Pásztor
     535651|0e5ae9d3||Mészáros
     535502|00000000||Picsába!
-    422007|00000000||Mutasd, mi a kínálat.
-    422001|00000000||Mutasd az árud.
     422009|00000000||El tudsz nekem készíteni valamit?
     422003|00000000||Készíthetnél valamit nekem.
    1086493|00000000||Nagyon szeretnék egy kis gwyntet játszani!
-    422011|00000000||Minden jót.
-    422005|00000000||Minden jót.
     498331|00000000||Egy kardműves mestert keresek.
     498333|00000000||Olyasvalakit keresek, aki képes elkészíteni nekem valamit egy mester vázlata alapján.
     498335|00000000||Hm… nem ismerek ilyet. Legalábbis Novigradban nem. Hattori lenne a te embered, ha még dolgozna.
     498337|00000000||Kiégett. Mostanában gombócot gyúr valahol, de hogy hol, azt nem tudom, én csak otthon eszem.
-    421999|00000000||Üdvözöllek a műhelyemben. Jó minőségű áruk méltányos áron!
     552446|00000000||Gyerünk, Dandelion! Úgy értem… Karmazsin Bosszúálló!
     552445|00000000||Őrség! Segítség!
     386020|00000000||Nem ér! Én akartam győzni!
@@ -8443,7 +8358,6 @@
    1003673|00000000||Tán egy maszatoló fojtogatott tegnap éjjel…
    1003675|00000000||Egy maszatoló?! Mármint egy szellem?
    1003677|00000000||Túl sok pálinka! Az fojtogatott!
-   1041861|4fe30dd7||Sírásó
    1065575|00000000||Drakonid pézsma. Frissnek tűnik. Mostanában telepedhetett meg itt.
    1065329|00000000||*Szaglászik* Mi ez a bűz?
     421500|00000000||Gyönyörű itt! Nagyon rég nem voltam már a városon kívül.
@@ -9394,11 +9308,11 @@
     498270|00000000||Bocsáss meg, nem akartam.
     498927|00000000||Remélem is! Szólj, ha megvan a Gyáva!
     499621|00000000||Itt várok rád… Gyere vissza, ha végzel, rendben?
-    498259|00000000||Nincsenek harapásnyomok. Morkvarg nem falja fel az áldozatait. Különös.
     498261|00000000||A Gyáva az?
     498263|00000000||Nem, ez itt sokkal régebbi lehet!
     498265|00000000||Micsoda? Nem hallom! Gyere közelebb, ha beszélgetni akarsz!
     498920|00000000||A hallása se a régi már…
+    498259|00000000||Nincsenek harapásnyomok. Morkvarg nem falja fel az áldozatait. Különös.
     498257|00000000||Újabb tetem. És ezen sincsenek harapásnyomok…
     491354|00000000||Találtál valamit?
     491355|00000000||Egy nyomot… Egy zárt ajtóhoz vezet!
@@ -9715,7 +9629,6 @@
     449874|00000000||Nos… mi sem voltunk teljesen biztosak benne. De ez jó, elvégre erre valók a witcherek, nem? Szörnyeket ölni.
    1029710|00000000||Köszönjük a segítséged. Tessék, ezt kiérdemelted.
     312802|05e75e62||Hárpia
-   1051424|f11e033c||Fegyverkovács
    1023357|00000000||A kíváncsi rohadék! Intézzétek el!
     496150|00000000||A fák! Bújjunk a fák közé!
     513032|00000000||Zárva. Menjetek máshová izélni.
@@ -11107,14 +11020,14 @@
     427154|00000000||Nem tudok semmilyen rablásról! Nem is voltam szolgálatban – kurváztam egész éjjel!
     536339|00000000||Uraim, azt hiszem, összetévesztetek valaki mással.
     536340|00000000||Itt csak te vagy tévedésben… Na, gyerünk, köhögj fel néhány koronát, de gyorsan!
-    580303|00000000||Igen, hercegem?
-    580305|00000000||A saját fingod sosem bűzlik úgy, de ez ne tévesszen meg!
    1068840|00000000||Megbosszultam az apádat – gondoltam, esetleg tudni szeretnéd. Végeztem a sikoltóval.
    1069044|00000000||Köszönöm, witcher mester.
    1068837|00000000||A sikoltónak vége.
     424965|00000000||Vigyázz magadra, kölyök!
    1068838|00000000||Ég veled!
    1019016|00000000||Mi van?!
+    580303|00000000||Igen, hercegem?
+    580305|00000000||A saját fingod sosem bűzlik úgy, de ez ne tévesszen meg!
     166803|05b6c502||Druida
     482579|724a06e6||Diák
     466901|00000000||Megháborodtál? Meg akarsz ölni minket?
@@ -11846,7 +11759,6 @@
    1000112|00000000||Trisst.
    1000980|00000000||Megmondtam mán az elején – se férfi, se háziállat… Ez rendes ház, rendes népeknek.
    1000982|00000000||Ne aggódj, nem maradok sokáig.
-    595891|fbee3e23||Paraszt
    1038520|00000000||Egy kéz… A királygriffnek bőséges lakomája volt.
    1011945|00000000||Csak ne bosszants fel.
    1011947|00000000||Hmm?
@@ -12604,6 +12516,19 @@
     495547|00000000||Majd máskor. Sietős az utam.
     491738|00000000||Nesze.
     510406|00000000||Uram, uram, legyen könyörületes! Csak egy koronát! Anyám nagybeteg, és ha nem táplálom rendesen, akkó… éhen hal!
+    578576|00000000||Nem játszol véletlenül gwyntet?
+    578579|00000000||Dehogynem, nagyon szeretek játszani. Van hozzá kedved?
+    578594|00000000||Készen állok. Csináljuk!
+    578580|00000000||Igen. Játsszunk!
+    578595|00000000||Határozottan, ha egyszer lesz időm.
+    578581|00000000||Majd máskor.
+    578592|00000000||Játszunk egy parti gwyntet?
+    578593|00000000||Mindig. Bármikor.
+    578575|00000000||Úgy hallottam, tudsz gwyntezni.
+    578598|00000000||Bravó! Nagy győzelem – gratulálok!
+    578596|00000000||Mit is mondhatnék – remekbe szabott győzelem. Legközelebb több szerencséd lesz, witcher.
+    578600|00000000||Itt, Skelligén nem találsz méltó ellenfelet. Az ilyen képességeket Velenben kell próbára tenni.
+   1042494|00000000||Játssz a báróval, vagy Haddy-val, azzal a híres fickóval! Azok aztán tényleg neked való ellenfelek!
     390493|00000000||Mutasd a vért, ami a véred. Mutasd az elveszett vért.
     390495|00000000||A vér hívogat…
     390497|00000000||„Csak még egy kicsit, anyám, tarts ki” – a vér kifut az arcából.
@@ -13149,6 +13074,10 @@
     586915|00000000||A jeges viszontlátásra.
     511059|00000000||A Főpap parancsára: aki mágust rejteget az otthonában, vele együtt vettetik máglyára!
     511058|00000000||Utolsó esély, hogy beszolgáltassátok a szentségtelen könyveket! A grimoárokat és kompendiumokat, melyek ellenkeznek a Szent Láng tanaival!
+   1064837|00000000||Na? Mi van? Megtettétek?
+   1064839|00000000||Megvan. Bár nem minden ment a tervek szerint.
+   1064841|00000000||Bővebben később… Előbb igyunk valami erőset. És köszöntőt.
+   1064844|00000000||Északra! Temeriára!
    1064846|00000000||Temeria!
    1064850|00000000||Nem korai még az ünneplés?
    1064862|00000000||Biztos, hogy nem korai ez még? Radovid meghalt, de messze van még innen a szabad Temeria. A háború nem ért véget, távolról sem.
@@ -13197,14 +13126,10 @@
    1064868|00000000||Úgy is mondhatjuk. Tudod…
    1064849|00000000||Temeria!
    1064848|00000000||Kurva Temeria!
-   1064837|00000000||Na? Mi van? Megtettétek?
-   1064839|00000000||Megvan. Bár nem minden ment a tervek szerint.
-   1064841|00000000||Bővebben később… Előbb igyunk valami erőset. És köszöntőt.
-   1064844|00000000||Északra! Temeriára!
    1071154|00000000||Harcoljatok, seggfejek!
    1071152|00000000||Öljétek meg a witchert!
-   1071156|00000000||Bassza meg! Mindent magamnak kell csinálnom!
    1071158|00000000||Támogatást! Fuss, hozz erősítést!
+   1071156|00000000||Bassza meg! Mindent magamnak kell csinálnom!
     422372|00000000||Kéred az örök Tűz áldását magadra és házad népére? Gyere, igaz hívő, a fénye világítsa meg a…
     422374|00000000||Vigyázz, különben a pengém fényét pillantod meg! És menj hátrébb, rosszul vagyok attól a füstölőtől.
     422376|00000000||Kezdhetted volna ezzel. A viszontjelszó: „És a diakónus nagynénje fejfájást kap a hallevestől.” Mire van szükséged? Mielőtt bármit kérsz, az aranyérkenőcsből kifogytam.
@@ -13764,15 +13689,15 @@
     492064|00000000||Mit bámúsz? Azt nézed, hogyan vágnak pofán, északi?
     492063|00000000||A Tuirseach klán, király a klánok között…
     492061|00000000||Élet a tengeren, otthon a háborgó mélység fölött!
+    525965|00000000||A család férfitagjai eléggé balszerencsések. Skaron Vegelbud fiatalon halt meg…
+    525967|00000000||Szerinted a nők… ?
+    525969|00000000||Nem lehetek biztos benne, de az a szóbeszéd járja…
     525971|00000000||Van ez a szerkezet a Vágyvirágban…
     525973|00000000||De ez a természet ellen való! A Templomi Gárda tudja, mi folyik ott?
     525976|00000000||Csst! A Gárda pontosan tudja…
     525978|00000000||Hmm…. És azt mondod, elfogadható az ára?
     526005|00000000||A háború és az éhínség szükségesek. Így tisztítja meg magát a társadalom, így regenerálódik.
     526063|00000000||Valóban. Természetesen ez csak az alacsonyabb rétegekre vonatkozik. És a másfajúakra.
-    525965|00000000||A család férfitagjai eléggé balszerencsések. Skaron Vegelbud fiatalon halt meg…
-    525967|00000000||Szerinted a nők… ?
-    525969|00000000||Nem lehetek biztos benne, de az a szóbeszéd járja…
     178027|00000000||Vissza az erődbe.
     173965|00000000||Micsoda? Ezzel?
     178029|00000000||Ha jól emlékszem, te akartad kipróbálni, működnek-e a régi legendák, hátha lubberkinné válik.
@@ -14367,15 +14292,6 @@
    1011296|00000000||A pokolba!
    1011292|00000000||{Ekh ekh…}
     580018|d00dc371||Dokkmunkás
-    590026|00000000||…Francesca épp annyira bizonytalan. Sem ő, sem Ida nem akar vakon dönteni.
-    590027|00000000||Majd nem lesznek bizonytalanok, ha meggyőztük Keirát és Fringillát.
-    590028|00000000||Fringilla a mi oldalunkon áll. Csatlakozik hozzánk, amint elintéz valamilyen ügyet Nilfgaardban.
-    590029|00000000||Csodás, akkor csak Keira marad. A gond csak az, hogy fogalmam sincs, merre lehet.
-    590030|00000000||Mi van Yenneferrel és Triss-szel?
-    590031|00000000||Yennefer sosem volt tagja a Szövetségnek, Triss pedig… Hát majd meglátjuk. Vissza kell nyernem a látásom. Aztán elmehetek Novigradba meglátogatni Arthur de Vleestert. Úgy hallottam, Triss is a városban dorbézol.
-    590032|00000000||Még mindig kitartasz emellett? Phil, bocsáss meg, de sosem fogod regenerálni a szemed egymagad.
-    589901|00000000||Vilgefortz meg tudta csinálni. Ugyanazt a metódust követem – szövetek növesztése drágaköveken.
-    589902|00000000||Ez őrület… …kell… …nergi… …de te…. …agy veszé…
    1032611|00000000||Nézd csak. Látod, mi lóg ott? Egy női bugyi!
    1032613|00000000||Minden bál után ez van. Az előkelő urak és hölgyek úgy üzekednek a bokrok közt, mint a nyulak.
    1032615|00000000||A múltkor láttam egy előkelő párt, akik a szökőkútba csináltak. El tudod képzelni?
@@ -14490,7 +14406,6 @@
    1053160|00000000||Deaktiváltam a korlátot.
    1053162|00000000||Friss levegő. Végre.
     462860|00000000||Aeramas lakhelye, minden bizonnyal. Lássuk, mi van bent.
-    480757|00000000||Vigyázat! Újabb három tetű bújik ki a lyukból!
     504772|00000000||A nevem Geralt.
     504773|00000000||Patty Gruber. Bukméker. Remélem, harcolni jöttél.
     504795|00000000||Készen állok.
@@ -14516,11 +14431,7 @@
    1053123|00000000||Ha!
    1053140|00000000||Szroll neve…
    1053142|00000000||Athak Akydalv…
-    577863|d84f8157||Déllidérc
    1070993|00000000||Erre. Felfelé.
-    577447|00000000||Ugh… előbb-utóbb beadja a derekam a kulcsot a sok hajigálástól.
-    577448|00000000||Elég a picsogásból, Woulter. Jobb hajigálni, mintha téged hajítanak.
-    577446|00000000||Egy, kettő… három!
    1003009|00000000||Kinek a sírja ez szerinted? Felirat sajnos nincs rajta.
    1003036|00000000||Hm… A sirály jele. Ha nem tudnám, hol van eltemetve, még azt hinném, hogy ez itt Lara Dorren sírja.
    1003038|00000000||Az emlékműve persze még lehet…
@@ -14858,10 +14769,6 @@
    1004363|00000000||Semmiféle Karadint nem ismerek. Vigyétek a pénzeteket, és tűnjetek innen! Még mielőtt kijövök a sodromból!
    1004365|00000000||Hol van Jad Karadin? Utoljára kérdem!
    1004369|00000000||Őrség! Tömlöcbe velük!
-    470706|00000000||Farkas nyomok és kis lábnyomok mellettük. De dulakodásnak nincs nyoma…
-    470708|00000000||Itt – csupa kicsi lábnyom. Nem egy tipikus farkasember – ha valóban az lenne.
-    470711|00000000||Kis lábnyomok… Érdekes.
-    470704|00000000||Farkas lábnyomok, igen… Habár… valami nincs rendjén…
     478311|ce75940e||Verőember
    1052142|00000000||Szóval nem tudod, mi történt Árokmélyben?
    1052144|00000000||Történt ott valami?
@@ -15060,12 +14967,6 @@
     586773|00000000||Minden vért kiszívtak belőle. Egy kisebb vámpír volt?
     586805|00000000||Az ekimmara itt jött ki a vízből. További nyomokat kell keresnem.
     464781|00000000||Egy witcher! Az istenekre, segíts!
-    470895|00000000||A tyúkjaim! Mind elvitték a kis csibészek!
-    470887|00000000||Dobjak nekik még magot, nagyi?
-    470889|00000000||Nem, ennyi elég. És ne hívj nagyinak.
-    470891|00000000||Jó, jó, majd eszembe vésem.
-    472440|00000000||Az ott, a kendermagos – lehet az az enyém, nagyi?
-    470893|00000000||*Sóhajt* Ehh. Igen, gyermekem, lehet.
    1054282|00000000||{Moran Taing, vatt'ghern. } [Köszönjük, witcher!]
    1054361|00000000||Sose volt kedved tengerre szállni, witcher? Ott vannak csak igazi szörnyek!
     354838|00000000||Rendben, de semmi kínzás.
@@ -15188,8 +15089,8 @@
     591360|00000000||Na akkor mi lesz? Segítesz?
     577890|00000000||Üdvözöllek, witcher.
     517395|00000000||Hé! Kinyitni!
-    517420|00000000||Fogd ezt… égesd el vagy rejtsd el, csak ne kapjanak el vele!
     517394|00000000||Emberek! Segítsetek!
+    517420|00000000||Fogd ezt… égesd el vagy rejtsd el, csak ne kapjanak el vele!
    1006951|00000000||Hm, micsoda főzet. A félszerzet nem hazudott… Az illata messzire elszáll…
    1017888|00000000||Engedd el.
    1017931|00000000||Egyikőtök fogja le. Aztán gondoskodjon róla, hogy mindent jól lásson.
@@ -15707,6 +15608,7 @@
    1076531|00000000||Novigradban híres Sigi Reuven gyűjteménye. Őt igazán ki kéne hívnod.
    1014614|00000000||Hát, igazán kár. Szívesen játszanék ellened valamikor.
     578382|00000000||Egy druidát, Skelligi Ermiont. És Novigradban, nos, Sigi Reuven gyűjteménye eléggé híres.
+    166486|ca49f862||Sjusta
    1068617|00000000||Üdvözlégy, uram. Bízunk benne, hogy a bájaink és a képességeink a kedvedre lesznek. Mi a kívánságod?
    1068619|00000000||Emlékszem rád. És örülök, hogy visszatértél.
    1068627|00000000||Fáradt vagyok. Szeretnék egy szép nővel lazítani. Lehetőleg tündével.
@@ -15748,6 +15650,7 @@
     371523|00000000||Menjünk.
     371527|00000000||Menjünk akkor.
     371529|00000000||* Piha *
+   1055653|31c17949||Holló
     466381|00000000||Hagyj békén! A leheleted… uh, érzem a rothadó fogak és a vodka bűzét!
     466383|00000000||De én nem a számmal akarlak boldoggá tenni, kis szívem! Nos, mi lesz?
    1028756|00000000||Mit szólnál egy kártyapartihoz?
@@ -15811,6 +15714,7 @@
    1050959|00000000||Viszont mindig remekül alakította a Megbízható Szolgát vagy az Öreg Király Szellemét.
     340839|00000000||Ah, de jó látni téged.
    1080238|9f3db5f2||Gargoyle
+    550496|00000000||Remek. Sigi Reuven a szomszéd szobában vár.
     488281|00000000||Éspedig mivel?
     488291|00000000||Elfoglalt? Mivel?
     488293|00000000||Egy fontos vendéget szórakoztat.
@@ -15827,10 +15731,9 @@
     487536|00000000||Mi ez a felhajtás? A fürdő zárva van.
     487561|00000000||A tulajdonossal kell beszélnem. Tudom, hogy itt van.
     487562|00000000||Nem biztos, hogy ez segít. Rettenetesen elfoglalt.
-    550493|00000000||Itt levetkőzhetsz. A holmidnak nem esik baja.
     445483|00000000||Ha szabad egy megjegyzést, uram: nem általánosan elfogadott ebben a városban, hogy az ember ruha nélkül járjon.
     460064|00000000||Kérhetném, hogy magára vegyen valamit?
-    550496|00000000||Remek. Sigi Reuven a szomszéd szobában vár.
+    550493|00000000||Itt levetkőzhetsz. A holmidnak nem esik baja.
    1041951|00000000||Igeeeen!
    1041953|00000000||Csak ne olyan hevesen, cimbora! És csak ülj mozdulatlanul, nehogy megsérülj!
    1041958|00000000||Na de… nade ő nyert!
@@ -16239,7 +16142,6 @@
    1073281|00000000||A kard. Tedd el.
    1073283|00000000||Jól van.
    1073285|00000000||Te akartad, paraszt.
-    563532|0030c07e||Cidarisi Hans
     422924|00000000||Hát mit akart?
     423004|00000000||Mit akart akkor a pénz helyett?
     438230|00000000||Hol találom ezt az embert?
@@ -16292,25 +16194,21 @@
     594463|00000000||Éles fájdalmat érzek a gerincemben.
    1065547|00000000||Valami nehezet vonszoltak erre… Hullákat?
     459331|00000000||Geeeralt! Jössz?
-   1044812|00000000||Uram, te beszé'té' a Feketékke', láttalak! Kérd meg őket… A kislányomnak lélegezni sincs ereje… Engeggyék mán be!
-   1044814|00000000||*Nehezen lélegzik*
-   1044818|00000000||Vizet, vizet…
-   1044816|00000000||Amíg élek, remélek.
-   1044820|00000000||Gyilkos!
    1030519|00000000||A cimborám esküszik rá, hogy látott nőt, aki egyszerre tíz férfinak csinálta! És le is rendezte mindet, ahogy kell!
    1030521|00000000||Mhm. Vajon hány üveget ürített ki a cimborád előtte? Legalább tízet, lefogadom – egyet-egyet minden kuncsaftért.
    1030523|00000000||Ő nem iszik. Pap.
    1030525|00000000||Tehát nem iszik, de bordélyházakba jár. És ez rendben van így?
    1030527|00000000||Mi köze egyiknek a másikhoz?
+   1044816|00000000||Amíg élek, remélek.
+   1044814|00000000||*Nehezen lélegzik*
+   1044812|00000000||Uram, te beszé'té' a Feketékke', láttalak! Kérd meg őket… A kislányomnak lélegezni sincs ereje… Engeggyék mán be!
+   1044818|00000000||Vizet, vizet…
+   1044820|00000000||Gyilkos!
    1041779|00000000||Gyerünk, Geralt, utána!
    1041792|00000000||Én úgyis csak lelassítanálak.
     562744|00000000||Hasadék. Túl kicsi, hogy átjussak… de elég nagy, hogy a hang kijöjjön.
    1043350|00000000||Úgy néz ki, a helyi földművesek más vallásra tértek át…
     562743|00000000||Hm, bor… vagy inkább ecet. Mindenesetre valaki megitta. Követhetném a szagot…
-   1038368|00000000||Hm, azokkal a fogakkal szétroppanthatna egy buzogányt. Talán még egy nilfgaardi páncélt is.
-   1038370|00000000||Ha ez egy baziliszkusz, akkor hol a halálos pillantása?
-   1038372|00000000||Nem túl kicsi ez a ketrec? A bestia megfordulni sem tud benne.
-   1038366|00000000||Kicsit hasonlít Heribert káplárra, nem?
    1084522|d3bd6068||Sigi Reuven lakája
    1033272|86973d0f||Redani kereskedő
    1052590|00000000||Fohászkodjunk az Örök Tűzhöz, hogy óhajunk teljesüljön!
@@ -16383,7 +16281,6 @@
     508215|00000000||Neee!
     508217|00000000||Örök Tűz, adj erőt!
    1043899|00000000||Segítség! Rabló!
-   1032201|00000000||Semmirekellők! Elég volt a lovam ijesztgetéséből!
    1012738|00000000||Na még egy.
    1012734|00000000||Eh?
    1012736|00000000||Életemben nem láttam ennyi jövevényt.
@@ -16511,7 +16408,6 @@
     576616|00000000||Gyerünk. Sietnünk kell.
     496962|00000000||Ennyi? Az igazi férfiak ennél jobban állják a sarat!
     496961|00000000||Én a hájas seggű fickóra fogadok!
-   1082235|bf8c7823||Marcus T.K. Hodgson
    1006947|00000000||Életed nagy üzletét kínálom!
     540913|00000000||Hé, szürkehaj!
    1068824|00000000||Azt beszélik, a witchereknek sosem elég a kefélésből. Lehet benne valami, ha visszatértél. Ledobjam a rongyaimat?
@@ -16814,19 +16710,6 @@
    1032771|00000000||Velen a boszorkányság és a babona melegágya. Ne feledd: ha fekete mágiát gyakorolsz, elkapunk és elítélünk.
    1032773|00000000||Én? Fekete mágiát, uram? Egyszerű favágó vónék.
    1032775|00000000||Akkor nem tudom, mit keresel ebben a városban. Itt nincs szükség favágókra.
-   1031788|00000000||A francba!
-    579319|00000000||Jól van, ki akar még versenyezni?
-    579329|00000000||Gy-gy-gy-gyí!
-    579331|00000000||F-f-f-félre az ú-ú-ú-útból, f-f-f-férgek! M-m-matko k-k-k-közeleg!
-    579339|00000000||Hej, witcher! Nem keres az anyukád?
-    579341|00000000||Első leszek, ha fel is kell nyársalnom a kancámat a sarkantyúmmal!
-    579313|00000000||Nem vagyok a szavak embere. De üljek csak lóra… hú, csak leshetsz!
-    579337|00000000||Jíííí-haaah!
-    579335|00000000||Gyorsabban, Bükkös, gyorsabban! Van egy érett almám neked, ha végeztünk!
-    579311|00000000||V-v-v-versenyezni j-j-j-jöttem, nem cs-cs-csevegni.
-    579323|00000000||Nyeregbe!
-    579317|00000000||Beszélj Radkóval. Ő intézi itt a versenyeket.
-    579326|00000000||Gyerünk!
    1052513|00000000||Ez tűrhetetlen! Fejezzétek be azonnal!
    1052515|00000000||A bitón tekeregni – ez tényleg több a soknál.
    1052517|00000000||Szerintem szórakoztató.
@@ -17850,6 +17733,9 @@
     427274|00000000||Öljük meg a rohadékot!
     427276|00000000||Vérfürdő…
     427278|00000000||Menjünk innen a vérbe!
+    526092|00000000||Egyedül csak Vegelbudék tartják azt a nívót, ami egy elegáns fogadáshoz illik.
+    526094|00000000||Huh. Milyen igaz. Mások azt mondják, háború idején ez nem helyénvaló…
+    526096|00000000||*Sóhajt* Mit nem mondanak emberek, hogy leplezzék a saját zsugoriságukat.
     526106|00000000||Ne is hallgass azokra a demagógokra. Radovid stabilitást hoz.
     526108|00000000||Nyilván csodálatos ember… De van valami a szemében…
     526110|00000000||Igen? Micsoda?
@@ -17858,10 +17744,6 @@
     526126|00000000||Még mindig szóba állsz vele? Az után a rettenetesen félresikerült házasság után?
     526128|00000000||Tudod, az apja és én cimborák voltunk. Elég jól ismertem az öreg Grimstone-t.
     526130|00000000||Na és akkor? Meghalt már, nem?
-    526092|00000000||Egyedül csak Vegelbudék tartják azt a nívót, ami egy elegáns fogadáshoz illik.
-    526094|00000000||Huh. Milyen igaz. Mások azt mondják, háború idején ez nem helyénvaló…
-    526096|00000000||*Sóhajt* Mit nem mondanak emberek, hogy leplezzék a saját zsugoriságukat.
-   1049412|416c6de4||Gustav Roene
     497508|00000000||Minden lyukat betömtem, azt hiszem.
     497509|00000000||Rendben. Készülj a mágikus tűzijátékra! Amint aktiválom a füstölőt, lesz egy kis időnk beszélgetni.
     424413|00000000||Így már jobb.
@@ -18231,8 +18113,8 @@
     462726|00000000||Vatt'ghern? Különös. Nem fenyeget minket szörny.
    1064304|00000000||Most hol a pokolban…?
    1071965|00000000||Hm. Különös…
-   1050637|c80d681a||Havasi nyúl
     352185|00000000||Lakatlannak látszik.
+   1050637|c80d681a||Havasi nyúl
     437759|00000000||Hol van Eustace? Mindig ő hordozta a hullákat?
     437761|00000000||Bizony. Csakhogy mostanában több a munka, több a műszak. Egész nap ég a krematórium tüze.
     437763|00000000||Helyes. A várost meg kell tisztítani. Acéllal és tűzzel.
@@ -18654,7 +18536,6 @@
    1010188|00000000||Miről szeretnél beszélni?
    1010189|00000000||Egy szekérnyi pénz – az a fődíj, tudod. Nem tudom, te mit gondolsz, de én jobban örülnék, ha nem kerülne rossz kezekbe.
    1014601|00000000||És a szerencse olyan megbízhatatlan. Őszintén szólva egyszerűen el kéne venni a pénzt, tudod, ügyesen, és nem törődni a többiekkel.
-    346798|f3ef5430||Vegelbud őr
     467748|00000000||…persze ha a kedveteket akarjátok tölteni, szükség van a magamfajtára, az egész város tudja… úgyhogy felesleges itt játszani az elérhetetlent, cukorfalat.
     467750|00000000||Neked var Attre útnő! És ajánlom, hogy tűnj el nagyon gyorsan, különben beszélek apámmal!
     525183|00000000||Harcolni szeretnék a bajnokok bajnokával.
@@ -18711,7 +18592,7 @@
     580506|00000000||Hogy a déllidérc csöcse csapjon pofán! Nagyobb sóher vagy, mint én!
     577795|00000000||Hajvágás kéne. Megoldható?
    1066771|00000000||Üdv a tisztelt uraságank. Borotva, olló, kés, élesre fenve épp néhány perce.
-   1066772|00000000||Hajvágásra lenne szükségem.
+   1066772|00000000||Egy hajvágás lesz.
    1066773|00000000||Ég veled.
     420961|a8d7dfc1||Boszorkányvadász
    1052369|00000000||Nem vagy te még túl fiatal, hogy egyedül kereskedj, fiam?
@@ -19411,7 +19292,6 @@
    1019161|00000000||Szép kis könyvgyűjteményt halmozott itt fel.
    1019163|00000000||Közönséges kenőcs… semmi különös.
    1019165|00000000||Velenben nem sűrűn látni efféle csecsebecsét…
-    569290|05f7bcd0||Ifrit
    1001091|00000000||Hazudsz. Méghozzá rosszul.
    1001098|00000000||Valami bűzlik itt. És most nem a hullákra gondolok.
    1001106|00000000||Kíváncsi vagyok. Nagyon kíváncsi.
@@ -19542,20 +19422,6 @@
    1005319|00000000||Mit csinálsz?
     381009|00000000||Ezüst fedő… illik a csatornában talált alsó részhez.
     381011|00000000||Dijkstra! Gyere ide!
-    468514|00000000||Ez a baziliszkusz azért is érdekes, mert pontosan úgy néz ki, mint egy vivern. Mégpedig egy fiatal és alultáplált példány.
-    468516|00000000||Ostobaságokat beszélsz, jó uram… ez itt egy igazi baziliszkusz!
-    468518|00000000||Igaz, hogy is tudhatnám, elvégre csak egy witcher vagyok.
-    468520|00000000||Elég! Ha ez nem baziliszkusz, hanem valami vivern, akkor mire költöttem el a pénzem! Vissza az aranyamat, csaló!
-    468525|00000000||Bátor katonák, ne lökdösődjetek, különben… Vigyázz!
-    468508|00000000||Ez vivern. Nem baziliszkusz
-    468534|00000000||Lám-lám… évek óta vadászom szörnyetegekre, mégis tudok még tanulni.
-    468536|00000000||Nézzétek, katonák! Még egy witcher is meghátrál a hatalmas baziliszkusz elől! Minden szörnyeteg fél tőlük, még a sárkányok is… meg a krokodilok! Márpedig a krokodilok rettentő bestiák, ezt bárki tanúsíthatja, aki már látott egyet!
-    468512|00000000||Viszlát.
-    468510|00000000||Mi? Kakastojásból?
-    468528|00000000||Azt mondod, kakastojásból…
-    468530|00000000||És micsoda kakaséból! Felemelik a farukat, akár a tenyészcsirkék a többi kakasnak! Egy ilyen kakas tojását száz és egy mérgeskígyó kelti ki! Aztán a fiatal baziliszkusz utat tör magának…
-    465682|00000000||Különleges kis baziliszkuszt szereztetek magatoknak.
-    468182|00000000||Még szép, hogy különleges! Errefelé sehol sem láthatsz hasonló bestiát! Csak Zerrikania vad pusztáin tenyésznek… fiatal kakasok tojásaiból!
     571680|00000000||*Horkant* Huh?
     571682|00000000||*Tüsszent*
     571684|00000000||*Harákol és köp*
@@ -19725,15 +19591,6 @@
    1013366|00000000||Hm, egy ilyen helyen a Sasha épp elég lesz.
    1013259|00000000||Hm, hm. Ríviai Geralt. És én még azt hittem, szörnyen unalmas lesz ez a verseny.
    1013272|00000000||Tartok tőle, hogy parasztoktól, martalócoktól és mű-arisztokratáktól pénzt nyerni nem jelent nekem túl nagy örömet.
-    579262|00000000||Beszélhetnénk?
-   1027615|00000000||Egen, ha rövid és lényegre törő, mert üres locsogásra nem koptatom a szám.
-   1027617|00000000||A nevem Radko. Én rendezem itt a lóversenyeket. Biztos hallottál róla. Kipróbálod? Akkor mondd. Nem? Kopj le.
-    579272|00000000||Jelentkezni szeretnék.
-    579273|00000000||Nem kell jelentkezni. Elég, ha itt vagy napszálltakor. És hozz aranyat a fogadáshoz.
-    579270|00000000||Jelentkezni szeretnék.
-    579265|00000000||Talán később.
-    579271|00000000||Talán később.
-   1027621|00000000||Na mi legyen? Versenyzel vagy sem?
     478331|00000000||Léptek… nem jó jel.
     478329|00000000||„Ciri… Menge követ… megszerezte a kincset… nála van Dandelion…”
     489051|00000000||„Menekülnöd kell.”
@@ -19968,36 +19825,6 @@
    1004327|00000000||Na, hozd ki a bénát.
    1004328|00000000||Asszem, a béna alszik.
    1004329|00000000||Akkor talán fel kellene ébresztened, nem?
-    479120|00000000||Mi történt, hölgyem?
-    479122|00000000||Ha a háború nem lenne elég, uram. Elvesztettem a tyúkjaim! Hogy éljek így meg? He?
-    479124|00000000||Láttad a tolvajokat?
-    479126|00000000||Milyen tolvajokat?! Szörnyek ragadják el a csirkéimet.
-    479128|00000000||Egy közönséges tolvajt rajtacsíptem volna magam is, de fenevadakat? Most mit tegyek?
-    479108|00000000||Én segíthetek. Nem ingyen… De a hajlott korodra tekintettel, nem kérek sokat.
-    479110|00000000||Szamárság… „Nem sok” – mondja, de a végén kifacsar egészen. De hát, nincs más, aki segítsen nekem…
-    479114|00000000||Kezdtek eltünedezni a tyúkjaim, úgy egy hete. Egyszerre mindig csak egyet vittek el a férgek.
-    544130|00000000||Egyszerre egyet? Érdekes… Hagytak valami nyomot ezek a szörnyek?
-    544132|00000000||Biza, farkas nyomokat, de… különös, mert mintha a farkasok a hátsó lábukon jártak volna.
-    544134|00000000||És ne legyél olyan nagyokos, mint az a Yosip Árokmélyből. Aszongya, nincs igazam. De kevesen ismerik úgy a vadcsapásokat, mint én – az emberem messze földön a legjobb vadorzó volt…
-    544136|00000000||Értem… Azért csak szeretném én is megvizsgálni azokat a nyomokat.
-    479116|00000000||Segíthetek.
-    479046|00000000||Légy éber… A kölykök valószínűleg visszatérnek.
-    479048|00000000||Oh, majd várni fogok rájuk! Egy furkósbottal, hogy elverjem a kis szarosokat!
-    479052|00000000||Nyugi… Ezek csak gyerekek.
-    479054|00000000||Ühüm, most még. De ha felnőnek bandita lesz belőlük, meglásd!
-    479057|00000000||Vigyázz… Visszajönnek.
-    479028|00000000||Fogadd be őket, adj nekik otthont. Akkor nem lopnak majd tőled.
-    479030|00000000||Na ja, de akkor nekem kell etetnem csibészeket! Abból semmi jó nem lesz.
-    479032|00000000||De… Azt hiszem azért átgondolom.
-    479058|00000000||Adj nekik otthont. Akkor nem lopnak többet.
-    479070|00000000||Találtam egy csapat kölyköt az erdőben. Ők lopták el a tyúkjaidat.
-    479072|00000000||Ah, gyerekek, mi? Biztos farkasok hátán lovagoltak, igaz-e?
-    479074|00000000||Sosem volt itt farkas. A kölykök csak… rafináltak…
-    479076|00000000||Ha van egy csöpp sütnivalójuk, akkor mától távol tartják magukat a csirkeólamtól!
-    479170|00000000||Megtaláltam a tolvajokat.
-    479173|00000000||Vigyázz magadra.
-    479171|00000000||Ég veled.
-    479155|00000000||He, witcher? Mi van?
     543862|00000000||Oh igen, ahol egy torzszülött van, ott köpni sem tudsz, hogy ne egy másikat találj el!
     509549|00000000||*Sóhaj* Csodálatos.
     508860|00000000||A boszorkányvadászok elkapták a feleségét, mert bába volt…
@@ -20585,9 +20412,6 @@
     447033|00000000||A vivern is megeszi a nekkereket, de mire jó az nekünk?
     447027|00000000||Nos, a szemnek valóban nem szép látvány egyik sem, de mégiscsak szörnyetegeket ölnek, nem?
     447023|00000000||Ó, itt sompolyog egy witcher! Az a hullaszerű ábrázat, az a vadállati tekintet! Varázslattal létrehozott korcs!
-    579470|00000000||Szép, szép. Úgy látszik éppoly jól ismered a lovakat, mint a szörnyeket. Tessék az aranyad… És ha megint kedved szottyan versenyezni, gyere csak hozzám.
-    579472|00000000||Földöntúli witcher érzékek – fecsegnek ilyesmiről. De most hagyott le egy bokorugró. Elvesztetted az aranyad… de szerezz többet, elintézek egy visszavágót.
-   1032203|00000000||Csak nem levágtad a kanyart, okoska? Az ilyen szarakodást errefelé nem szeretjük. Elhagytad a pályát, buktad az aranyat. Vissza kell nyerned, ha viszont akarod látni. Versenyezned kell… Ez alkalommal becsületesen.
     490515|00000000||Csak elrejtőzöm és várok…
    1065400|00000000||Az ajtó mögött… A legjobb rejtekhely. Klasszikus.
    1065402|00000000||Itt még egy vak is kiszúrna…
@@ -20718,18 +20542,18 @@
    1031736|00000000||Szerinted úgy néz ki ez a páncél, mint amelyik megállítja a lövedékeket?
    1034364|00000000||Fizessétek ki!
    1034367|00000000||Most pedig lássuk, mennyit ér ez a vért valójában.
-    426898|00000000||Ha ez a helyzet, elfogadom a meghívást.
-    426900|00000000||Gyere velem.
-    426904|00000000||Jól hangzik.
-    426910|00000000||Nem megyek sehová.
-    426914|00000000||Nem vagyok kapzsi. Már nyertem eleget, köszönöm.
-    426916|00000000||Félreérted. Ez nem kérés.
-    456056|00000000||Vigyétek az emeletre!
-    426912|00000000||Jól van.
+    426902|00000000||Nem érdekel.
     426906|00000000||Talán majd máskor.
     426908|00000000||Meg kellene próbálnod. Kevesen mondhatják el magukról, hogy a tulaj asztaltársaságával játszottak.
     440386|00000000||Egy ilyen felkérésre nemet mondani felér egy inzultussal.
-    426902|00000000||Nem érdekel.
+    426914|00000000||Nem vagyok kapzsi. Már nyertem eleget, köszönöm.
+    426916|00000000||Félreérted. Ez nem kérés.
+    456056|00000000||Vigyétek az emeletre!
+    426910|00000000||Nem megyek sehová.
+    426912|00000000||Jól van.
+    426898|00000000||Ha ez a helyzet, elfogadom a meghívást.
+    426900|00000000||Gyere velem.
+    426904|00000000||Jól hangzik.
     367175|00000000||Jó ma a lapjárás.
     370163|00000000||Szerencsés napom van.
     370165|00000000||Akkor miért nem használod ki jobban?
@@ -21138,7 +20962,6 @@
     473817|00000000||Ez valami rovancs… Egy zsák gabona fizetve… faszén szállításért járó összeg… Hendrik kereskedőnek adta ki magát…
     474743|00000000||Hm, ez meg mi? Bejegyzések az árucikkek között… Okos…
    1062114|00000000||Érdekes tételek…
-   1065907|637b0183||Renegátok vezetője
    1017615|00000000||*Hrmpf* *Hrmpf* *Köp* A kibaszott! Köszönöm, witcher!
     491865|00000000||Oj, Witcher mester! Hoztunk egy ajándékot!
     491291|00000000||De ugyan miért akarna ilyesmit?
@@ -21158,16 +20981,16 @@
    1052538|00000000||Mert a hullákat eszik. A Pontarba' meg most van hulla bővibe.
    1052540|00000000||Így megy ez. A halak embert esznek, az emberek meg halat, körbe-körbe.
    1066792|00000000||Borbélyt keresel? Hát, megtaláltad. Üdv néked! Kurvára leborotválom a képedet féláron!
-   1066799|00000000||Mhm. Nagyon kösz.
+   1066799|00000000||Mhm. Nagyon köszönöm.
    1066805|00000000||Mhm. Nagyon kösz.
    1066801|00000000||Nem ilyen kinézetet akartam.
    1066803|00000000||Én meg nem ilyen sorsot akartam. Úgy volt, hogy tanácsnok leszek Mahakamban. Ehelyett csavargókat borotválok és utcakölykök haját vágom! Az élet azt adja, amit ad, jobb, ha vállat vonsz, és elfogadod!
-   1066798|00000000||Rossz vágás, rossz frizura.
+   1066798|00000000||Rossz vágás, rossz hajviselet.
    1066795|00000000||Nem erre van szükségem.
    1066797|00000000||Hogy érted, hogy nem erre van szükséged? A hajad levágva és megfésülve? Biza'. És olyan egyenesre, ahogy csak lehet.
     577814|00000000||Levágnád a hajam? Öö, feltéve, ha még nem remeg a kezed…
    1066793|00000000||Oh, üdv megint itt! Az elégedett vásárló mindig visszatér, mi?
-   1066788|00000000||Jól van. Mennyire lesz rossz?
+   1066788|00000000||Jól van. Mennyire lehet szörnyű?
    1066789|00000000||Talán majd máskor.
     583991|00000000||Jól van hölgyeim! Munkára, vége az orrpiszkálásnak!
    1027952|00000000||Mindenki színpadra, most! Itt a próba ideje!
@@ -21248,7 +21071,6 @@
     595021|00000000||Vettem neked róka álarcot.
    1000079|00000000||Akkor szükségünk van még rá?
     595022|00000000||Még nem.
-    583134|141198a8||Novigradi őr
    1055097|1084682c||Paraszt
     383487|00000000||Köszönöm, nem.
     383501|00000000||Köszönöm, nem. Nem inni jöttem ide.
@@ -21391,23 +21213,7 @@
    1053268|00000000||Micsoda? Hol láttad azt a fát? Mondd el!
    1053270|00000000||Az erdőben, a városon kívül. Mikor bogyókat kerestünk, emlékszel? Amiből a lekvárt főzted.
    1053272|00000000||Soha nem mehetsz ki többé oda, érted? Soha.
-   1055407|06ae3071||Helma
    1054349|00000000||„Witcher.” Már a hangzása is nemes.
-   1069019|00000000||Kinyitni! Parancsolom, hogy nyissák ki az ajtót!!!
-   1069022|00000000||Csak kérned kell.
-   1069025|00000000||Aaaaaaargh!
-   1069027|00000000||Aaaaaaargh!
-   1069029|00000000||Ezzel a gond letudva…
-   1069032|00000000||És ez… igazán szívből jövő volt.
-   1069035|00000000||Bocsánat… Nem tudtam ellenállni a gyönyörűségnek.
-   1064809|00000000||Fiúk… Ezt később kéne megvitatni.
-   1064811|00000000||Radovid meghalt. Mindegy, kinek a keze által. A küldetés teljesítve. Most húzzunk el innen. Perceken belül nyüzsögni fognak itt a redaniak.
-   1064813|00000000||Menjünk.
-   1070662|00000000||Ezt később is megbeszélhetjük.
-   1070664|00000000||Radovid meghalt. Mindegy, ki ölte meg. Most húzzunk el innen. Perceken belül a hely tele lesz redaniakkal.
-   1064805|00000000||Hogyan csinálta…?! Hol?! Miért?! Mi a fasz…?!
-   1064807|00000000||Kihallgatott bennünket. Még a raktárban.
-   1069996|00000000||Mi?! És nem gondoltad, hogy érdemes lenne ezt megemlíteni?!
    1084584|00000000||Kinyitni! Parancsolom, hogy nyissák ki az ajtót!!!
    1084587|00000000||Csak kérned kell.
    1084590|00000000||Aaaaaaargh!
@@ -21415,9 +21221,28 @@
    1084594|00000000||Ezzel a gond letudva…
    1084597|00000000||És ez… igazán szívből jövő volt.
    1084600|00000000||Bocsánat… Nem tudtam ellenállni a gyönyörűségnek.
+   1064805|00000000||Hogyan csinálta…?! Hol?! Miért?! Mi a fasz…?!
+   1064807|00000000||Kihallgatott bennünket. Még a raktárban.
+   1069996|00000000||Mi?! És nem gondoltad, hogy érdemes lenne ezt megemlíteni?!
+   1064809|00000000||Fiúk… Ezt később kéne megvitatni.
+   1064811|00000000||Radovid meghalt. Mindegy, kinek a keze által. A küldetés teljesítve. Most húzzunk el innen. Perceken belül nyüzsögni fognak itt a redaniak.
+   1064813|00000000||Menjünk.
+   1070662|00000000||Ezt később is megbeszélhetjük.
+   1070664|00000000||Radovid meghalt. Mindegy, ki ölte meg. Most húzzunk el innen. Perceken belül a hely tele lesz redaniakkal.
+   1069019|00000000||Kinyitni! Parancsolom, hogy nyissák ki az ajtót!!!
+   1069022|00000000||Csak kérned kell.
+   1069025|00000000||Aaaaaaargh!
+   1069027|00000000||Aaaaaaargh!
+   1069029|00000000||Ezzel a gond letudva…
+   1069032|00000000||És ez… igazán szívből jövő volt.
+   1069035|00000000||Bocsánat… Nem tudtam ellenállni a gyönyörűségnek.
     509796|d5e81a3d||Nathanel Pastodi
    1001915|00000000||Á, Geralt. Tudod, hogy mindig is kedveltelek, de ez már más… Segítettél a lányomnak.
    1001917|00000000||Egy barátom lánya kérte a segítségemet. Nem szokásom ilyen helyzetben nemet mondani.
+    158974|00000000||Beszélni akartam veled.
+   1001919|00000000||Hidd meg, Geralt, minthogy Hjalmarral legyőztétek a jégóriást, olyan vagy nekem, mint egy közülünk való.
+   1001921|00000000||Olyan lennék, mint egy skelliger?
+   1001923|00000000||An Craite szív dobog benned.
    1001991|00000000||A fiad Skellige királya. Gratulálok.
    1001993|00000000||Nagy megtiszteltetés ez az an Craite dinasztiának. Ez az első alkalom, hogy mi adjuk az uralkodót.
    1001995|00000000||Milyen király lesz Hjalmar?
@@ -21474,10 +21299,6 @@
    1001983|00000000||Egyesíteni Skellige klánjait. Nehéz feladat, soha senkinek nem sikerült, de Cerys makacs.
    1001987|00000000||Távlatokban gondolkodik tehát. Gondolod, hogy sikerrel jár?
    1001989|00000000||Van egy erős szövetségese. Én.
-   1001919|00000000||Hidd meg, Geralt, minthogy Hjalmarral legyőztétek a jégóriást, olyan vagy nekem, mint egy közülünk való.
-   1001921|00000000||Olyan lennék, mint egy skelliger?
-   1001923|00000000||An Craite szív dobog benned.
-    158974|00000000||Beszélni akartam veled.
     496860|00000000||Korodhoz képest meglepően ruganyos a járásod.
     496861|00000000||Ha láttál volna fénykoromban! Teljes felszerelésben is megtettem harminc mérföldet egy nap!
     496866|00000000||Ez a witcher munka, amit végzel…megéri?
@@ -22003,7 +21824,6 @@
    1032838|00000000||Atyánk furcsa betegséggel ágynak esett.
    1032840|00000000||Ezért hoztuk e füstölőt, hogy eltelhessen az Örök Tűz erejével.
    1032842|00000000||Mert csak annak van hatalma meggyógyítani a halálos betegeket.
-   1049066|e9c03715||Bolko elöljáró
     480688|00000000||Így nem fogok bejutni. Más utat kell találnom.
    1043766|00000000||Körül kell néznem a falusiak között. Talán találok valkit, aki elég bátor, hogy segítsen nekem.
     504040|00000000||Ott van! Kapjátok el! Magyarázzátok el neki, miért nem jó ötlet, ha ujjat húz Agyagfői mesterrel!
@@ -22015,8 +21835,6 @@
    1001211|00000000||Próbáljunk itt bejutni.
    1001212|00000000||Menj előre.
     416620|00000000||Neeem!… Neem!… Nee!…
-    580320|00000000||Uh-huh?
-    580322|00000000||Szarság, szarság.
     431715|00000000||Emlékszel az utolsó beszélgetésetekre?
     431669|00000000||Ezek a csomagok… nem lehet, hogy utazópoggyászok voltak? És hogy a lány valójában egy trubadúr?
     431671|00000000||De, igen! Most már emlékszem, utazó előadó, Kovirból érkezett. Tehetséges család, nem igaz?
@@ -22046,6 +21864,8 @@
     431861|00000000||Mióta la Attard úrnő lettem, egymást érik a bálok, ünnepségek és hasonló… hogy is mondják… összejövetelek! Elképesztően fárasztó…
     431859|00000000||A bárónő nem helyeselte a kapcsolatunkat. Mihaszna semmirekellőnek tartotta Dandeliont… el tudod ezt képzelni?!
     436404|00000000||De… talán a húga tud neked segíteni. Nagyon kedves lány.
+    501616|00000000||Nem tudod. hol találom ezt a… Dandelion húgát?
+    440477|00000000||Ó, nem. Amikor kérdeztem Dandeliont, hogy mikor látogatjuk meg, mindig elhallgatott, aztán témát váltott.
     431867|00000000||Ugye tudod, hogy Dandelionnak nincs húga?
     431721|00000000||Köszönöm, minden jót.
     431837|00000000||Köszönöm, Molly.
@@ -22060,8 +21880,6 @@
     497970|00000000||Tessék? Miért volt szüksége bárkára?
     497971|00000000||Hogy elvigyen engem egy romantikus hajókázásra a csatornán, holdfényben…
     501530|00000000||Azt mondta, szerez epret és habzó bort, és dalokat énekel nekem… Azóta sem láttam.
-    501616|00000000||Nem tudod. hol találom ezt a… Dandelion húgát?
-    440477|00000000||Ó, nem. Amikor kérdeztem Dandeliont, hogy mikor látogatjuk meg, mindig elhallgatott, aztán témát váltott.
     431719|00000000||Dandelionnak nincs húga. Nem tudtad?
     431853|00000000||Tudnod kell, hogy Dandelionnak nincs húga.
     431855|00000000||Dehogy nincs! Magam is láttam! Érdekes, hogy nem is hasonlít rá, a haja is szőke. Talán más lehetett az apjuk?
@@ -22077,6 +21895,8 @@
     437220|00000000||Nem, én köszönöm. Minden jót.
     432220|00000000||Köszönöm, magamtól is visszatalálok.
     432216|00000000||Ó, Geralt, hát itt vagy! Visszamegyünk együtt?
+    580320|00000000||Uh-huh?
+    580322|00000000||Szarság, szarság.
    1064491|00000000||Witcher! Na végre. Most, hogy mind itt vagyunk…
    1064493|00000000||Mhm. És baszottul nyakig ülünk benne. Miért hívtál össze bennünket? Radovid a hajóján van. Ott nem férhetünk hozzá, már megmondtam.
    1067585|00000000||Hagyd abba. Van egy ötletem, hogyan csalogathatjuk ki a szárazföldre.
@@ -22346,6 +22166,7 @@
     353924|00000000||Adok pár gyógynövényt. Keverd őket éjfélkor húzott kútvízbe, és itasd fel a tehénnel az egészet. De előbb takarítsd ki az istállót. Alaposan, világos?
     414085|00000000||Köszönöm, kisasszonkám… Örökké hálás leszek…
     372682|00000000||Elég! Elég lesz mára! Menj haza.
+   1113286|e5a3b8da||Utazó
    1055174|7d719e1d||Fehér egér
    1049338|00000000||Öröm veled üzletelni. De legközelebb…
    1049340|00000000||Próbálj óvatosabb lenni, hogy mikor vetkőzteted a hullákat. A nyestprémes kabátot nehezebb eladni, ha csupa vér…
@@ -23012,7 +22833,6 @@
    1048646|00000000||Kiásták – viszont szerszámokat nem használtak.
    1048649|00000000||Ghoulok ásták ki a sírokat, aztán a bomlás bűze csalta ide a vadkutyákat.
    1049744|00000000||De sem ghoulok, sem kutyák nem rabolnak gyerekeket.
-    595913|6b1268cb||Paraszt
    1071544|00000000||Nem léphetsz meg, Herceg! Akár meg is állhatsz!
    1071546|00000000||Soha!
    1071598|00000000||Állj! A környék veszélyes!
@@ -23148,16 +22968,12 @@
     420212|00000000||Hadd segítsek.
     420216|00000000||Ótvar és rüh? Veszélyesnek hangzik. Jól van, segítek.
    1054313|00000000||Az Örök Tűz véd minket, de egy witcher is jól jön időnként.
-    470299|00000000||Na, most akkor vissza kell nyerned!
-    510015|00000000||Na – még egy kör? Amikor jó a lapjárás, azt ki kell használni!
-    470245|00000000||Kösz, nem.
-    470254|00000000||Nincs hozzá hangulatom.
-    470256|00000000||Hahahah. Nincs hangulatod nyerni?
-    470287|00000000||Bravó! A csodás hölgy nyilvánvalóan szerencsét hoz neked, uram – tartsd meg és ne ereszd el!
     470239|00000000||Ah, egy újabb kihívó! Kérlek, csatlakozz hozzánk! Sir Devanon helye éppen most ürült meg az asztalnál. Nem valószínű, hogy visszatér!
     509988|00000000||Mi történt vele?
     509990|00000000||Néhány jó lélek félrevonta, hogy megakadályozzák, hogy kárt tegyen magában.
     470241|00000000||Szóval? Játszunk?
+    470299|00000000||Na, most akkor vissza kell nyerned!
+    510015|00000000||Na – még egy kör? Amikor jó a lapjárás, azt ki kell használni!
     470293|00000000||Sir Marius Florin.
     510212|00000000||Azt mondják, sosem veszít a zeugl-csont amulettjének köszönhetően. Természetesen mesélhetnék még róla, de…
     470291|00000000||A következő ellenfeled – gróf Gomo Seeling.
@@ -23165,6 +22981,10 @@
     510178|00000000||De ne becsüld le. A kétségbeesett emberek veszélyesek lehetnek.
     470289|00000000||Először Margrave Vladimir de Crettel kerülsz szembe.
     510173|00000000||Ennek a pasasnak nem gond, ha veszít, szóval valószínűleg vakmerő lesz.
+    470287|00000000||Bravó! A csodás hölgy nyilvánvalóan szerencsét hoz neked, uram – tartsd meg és ne ereszd el!
+    470254|00000000||Nincs hozzá hangulatom.
+    470256|00000000||Hahahah. Nincs hangulatod nyerni?
+    470245|00000000||Kösz, nem.
     470243|00000000||Szeretnék játszani.
     470252|00000000||Gyerünk.
    1030669|00000000||Utcán jár a templom őre… mágust verni agyba-főbe…
@@ -23519,6 +23339,77 @@
    1041432|00000000||Helyedre, Gróf! Nem veled tárgyalok.
    1015955|00000000||Belegázoltál egy skelligi becsületébe! Ezt nem úszod meg!
    1016199|00000000||Kérlek, ne üss meg!
+    427115|00000000||A matrózok a ködben megszólaltatják ezeket, így figyelmeztetik a legénységet a felfedezett sziklákra.
+    427117|00000000||Már haszontalan számomra.
+    427111|00000000||A kürt, ami elűzi a sziréneket. Még jól jöhet.
+   1072431|00000000||Hm, Talán meg akarta javítani.
+    522396|00000000||Jól eltalálták…
+    522404|00000000||Ment tovább… pedig alig állt a lábán.
+    524408|00000000||Felhasították… két férfi, úgy tűnik.
+    420192|00000000||Úgy nevezik, az undviki mészárlás – nem túloznak.
+    421298|00000000||Sok-sok régi nyom… Az óriás gyakran jöhetett erre…
+    524132|00000000||Ezt elkapták a dögevők.
+    524370|00000000||Az óriás próbált bejutni… úgy tűnik, feladta.
+    422614|00000000||Szirének rontottak rájuk… nyilván lelökték őket a hídról.
+    416899|00000000||Óriásnyomok.
+    309574|00000000||„Tengeri sírok” – Így temetik az elesetteket a szigetlakók.
+    518018|00000000||Beomlott az alagút…
+    524396|00000000||Tiszta vágás. Repülhetett az a fej.
+   1072406|00000000||Hjalmar embere. Elvérzett, miközben menekülni próbált. Vajon mi történt a bajtársaival…
+    309604|00000000||Küzdelem nyomai.
+    524140|00000000||Eltört a gerince. Mintha magasról esett volna le.
+    522462|00000000||Az íjász végül utolérte.
+    522521|00000000||Itt még egy nyilat kapott. Ezúttal jól eltalálták.
+    522522|00000000||Hová tűnt hát az az íjász?
+    522437|00000000||Hm. Messzire jutott…
+    523591|00000000||Hjalmar egyik embere lehet…
+    522268|00000000||Egy-egy nyíllal… Jó szeme volt.
+    522269|00000000||Nekkerek lassították az üldözőt.
+    522317|00000000||Az íjász eltökélte, hogy megöli… Vajon miért?
+    522316|00000000||Ezt valaki fedezékül használta.
+    524212|00000000||Hjalmar tábora. Megtámadták őket.
+    523532|00000000||Trollok… berángatták a barlangba. Kíváncsi vagyok él-e még.
+    309578|00000000||Itt valaki hordágyat vonszolt.
+    417761|00000000||Az óriás lejött a hegyről, berontott a faluba… aztán belülről lerúgta a kaput.
+    522245|00000000||Lelőtte, miközben menekült…
+    523546|00000000||Sarokba szorította. Mint egy vadász.
+    522216|00000000||Nem jött vissza a nyilaiért.
+    447356|00000000||Halálra főzték…
+    518382|00000000||Elvérzett…
+    309606|00000000||Itt harcoltak az óriással.
+    524412|00000000||Egy fél tegezt belelőtt.
+    517980|00000000||Harcoltak, a keserű végig.
+    517314|00000000||Az óriás üldözte őket…
+    518017|00000000||A többiek továbbmentek… Vajon hányan maradhattak?
+    518019|00000000||Hjalmar itt rengeteg embert vesztett.
+    309586|00000000||Többen voltak… Észak felé vonszoltak egy hajót.
+    524139|00000000||Egy csomó seb… sokáig harcolhatott.
+    420302|00000000||Másfelé kell mennem.
+    413563|00000000||Át kell jutnom.
+    309580|00000000||Vajon mi okozhatta a lavinát?
+    524144|00000000||Még a kardját se tudta előrántani…
+    420033|00000000||Ahol éléskamra van, ott van egér is.
+    522418|00000000||Rengeteg vért vesztett… nem mehetett már sokkal messzebb.
+    309584|00000000||An Craite klán.
+    524087|00000000||Hmm… itt fő valami.
+    524136|00000000||Elszakított artéria… másodpercek alatt elvérzett.
+    309576|00000000||Az an Craite klán jelképe. Ez biztosan Hjalmar hosszúhajója.
+    310732|00000000||Rohadt tetemfalók.
+    522372|00000000||Erősen vérzett… Biztosan fogyatkozott az ereje.
+    522373|00000000||Itt találták el először, de továbbment.
+    417272|00000000||A barlangok felé futottak…
+    417278|00000000||Vér. Rengeteg.
+   1072363|00000000||Ezek a nyomok régebbiek. Valaki elment a táborból a támadás előtt…
+    309592|00000000||Itt ketten jöttek át… Külön-külön.
+    524131|00000000||Karmok tépték fel a torkát. Szirének…
+    417280|00000000||A vérnyom a barlangba vezet.
+    417274|00000000||Valaki megbotlott és elesett… De sikerült elinalnia.
+    309582|00000000||Felnyársalták egy fára…
+    524409|00000000||Nem sikerült nekik. Két szirénnel kevesebb.
+    524413|00000000||Kettévágták.
+    523664|00000000||Az íjász is megsérült.
+    522209|00000000||Pont egy nekker fészkében landoltak, de végeztek vele. Kemény népek ezek a skelligiek.
+    524135|00000000||Mezítláb harcoltak – meglepték őket a szirének.
    1039808|00000000||Nem volt rossz, de még kell rajta dolgoznunk. Nem is tudom… több tüzet!
    1039809|00000000||De álljunk meg most. Pihenjünk meg.
     501547|00000000||Hova akarsz menni? Az Arany Kecsegébe vagy a Hét Macskába?
@@ -23828,7 +23719,6 @@
     363572|00000000||Aha, azt ismerem. Jancsi, Juliska meg az égő boszorkány. Illik Novigradhoz.
     363574|00000000||A nyomok a folyóhoz vezetnek, ahol a csatorna véget ér… és ott megszakadnak. Ha jól sejtem, csónakra rakták a kincset.
     376738|00000000||Igen, egy csatornapatkányok által húzott szekér valószínűtlenebbnek tűnik. És mivel a csónak nem hagy nyomot… jó nagy pácban vagyok.
-    465664|00000000||Legeltessétek a szemeteket, bátor katonák, a csúszómászók királyán, a baziliszkuszon! Mérgének egyetlen cseppje végez egy hadsereggel, a lovakkal együtt!
    1042085|00000000||Remélem, nem találkozunk újra.
     481189|00000000||Vágtass, vágtass!
     370507|00000000||Mit bámu’sz, te? K-o-t-r-ó-ggy-á! Idióta.

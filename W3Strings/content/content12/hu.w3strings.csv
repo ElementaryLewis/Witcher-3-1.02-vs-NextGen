@@ -1,5 +1,6 @@
 ;meta[language=hu]
 ; id      |key(hex)|key(str)| text
+    170811|72cb8ee5||Fojtólidérc
     581146|00000000||Aaaaaa!
     581147|00000000||Kegyelem!
    1061012|00000000||Oldozz el! Gyorsan!
@@ -187,7 +188,6 @@
     579083|00000000||Pelko Sambor, ötven éves, két gyerek, egy rozsmező és egy kecske…?
     579084|00000000||Csináljanak, amit akarnak én csak úgy mondtam.
     579046|00000000||Igen, ahogy mondtam. A Feketéknek dolgozott. *Pfuj!*
-    595889|83463c36||Páncélkovács segédje
     575034|00000000||Erre, uram! Ez ő!
     575055|00000000||Megtébolyodtál?
     575023|00000000||Rögvest tudtam, hogy nilfgaardiak! Kémek, úgy értem. Egy hónapja bujtatja őket.
@@ -665,7 +665,6 @@
     572807|00000000||Kövess.
     572810|00000000||Őcsászári felsége vár…
     595913|6b1268cb||Paraszt
-   1051424|f11e033c||Fegyverkovács
     583129|00000000||Hej! Fogjátok le!
     583128|00000000||Így végzi minden áruló. Porig égetjük a lázadás írmagját.
     584088|00000000||Nézheted, messziről.
@@ -840,16 +839,6 @@
    1059074|00000000||Öööö… n-nem.
    1059076|00000000||Nem egészen a miénk, csak afféle elfogott jármű. Mondhatni zsákmányolt.
    1059078|00000000||Az emberek biztosan itt hagyták a rohanásban – de hogy hová rohantak, nem tudom. Kár lenne hagyni, hogy a Vörösök megszerezzék és kifosszák.
-    590603|00000000||*Rágcsál, cuppogtat* Eh, ez keserű *Köp*
-    590605|00000000||Üdv! *Szaglászik*
-    590607|00000000||Mi újság?
-    590609|00000000||Ha nem bírod a meleget, távozz a műhelyből!
-    590619|00000000||Itt csak minőségi darabok vannak, semmi rozsdás ócskavas.
-    590611|00000000||Minden ember a maga szerencséjének a kovácsa? Bah! Inkább az elbaltázója!
-    590621|00000000||Ér az valamit? Mármint a fém a hátadon.
-    590613|00000000||Netán verést akarsz?
-    590615|00000000||És most? Hívjak segítséget?
-    590617|00000000||Segítség! Ments meg!
     573535|00000000||Jelentést.
     573530|00000000||Kapitány!
     573536|00000000||A novigradi küldöttség fél napi útra van innen.

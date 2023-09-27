@@ -55,8 +55,8 @@
    1052021|00000000||Vamos desfazer o feitiço deste nobre.
     477617|00000000||Vamos tentar. Acho que é um nobre...
     477672|00000000||Fique atento. Pode ser algo mais perigoso.
-   1083314|00000000||[EN] Figurines - let's decompress one.
-   1083315|00000000||[EN] Pretty grim place.
+   1083314|00000000||As estatuetas... vamos descomprimir uma.
+   1083315|00000000||Que lugar sombrio.
    1052020|00000000||Vamos descomprimir o soldado
    1051588|00000000||Vamos tentar descomprimir essa. Algo que eu possa fazer para ajudar?
    1051590|00000000||Sim. Fique calado e tente não perturbar.
@@ -211,7 +211,6 @@
    1051947|00000000||O que aconteceu depois?
    1051949|00000000||Bom, eu não sei... Eu acordei de manhã na minha própria cabana...
    1051951|00000000||Bebe menos e você vai parar de ter pesadelos.
-    389411|2ec9fb68||Homem da cidade
     580242|00000000||Bem-vindos, senhoras e senhores, ao nosso torneio fechado de gwent. Com "fechado" eu quero dizer mais que a mera natureza de elite do evento.
    1014849|00000000||Quem sair de Passiflora antes do fim do evento será desclassificado. Essa é a regra número um.
    1014851|00000000||As regras número dois, três e quatro são: sem brigas, jogo sujo ou truques de magia.
@@ -451,33 +450,6 @@
     519880|00000000||Para ser um leiteiro! Ha, ha, ha, ha!
    1054357|00000000||Caçador de monstros, uuuuuh. Qualquer mané mata um monstro.
    1055571|d519a2f3||Comerciante
-    590999|00000000||Sobre o que exatamente elas estavam conversando?
-    591007|00000000||Ouvi direito? Elas mencionaram a Estada?
-    591009|00000000||Sim, e depois Philippa disse algo sobre a restauração de sua visão...
-    591011|00000000||Acha que ela conseguiu recuperar a visão?
-    591014|00000000||Acha que Philippa conseguiu? Recuperou a visão?
-    591016|00000000||Seria ousadia, mas não impossível. Pelo que conversavam, ela estava planejando implantar pele cultivada em pedras preciosas.
-    591018|00000000||Até agora só Vilgefortz já conseguiu. Se ela conseguiu... bem, suponho que ela merece os parabéns.
-    591012|00000000||Por que elas iriam falar sobre a Estada?
-    591019|00000000||Margarita mencionou Ida e Francesca, depois Keira e Fringilla...
-    591028|00000000||Tenho poucas dúvidas de que Philippa pretende reviver a Estada das Feiticeiras.
-    591033|00000000||Elas não tinham certeza sobre Triss e excluíram você logo de cara...
-    591035|00000000||Eu nunca concordaria em fazer parte de novo. Philippa acredita que somente a Estada pode cuidar dos interesses dos magos efetivamente. Eu discordo e prefiro agir sozinha.
-    591036|00000000||Além disso, o momento é inoportuno. Reviver a Estada iria irritar Radovid e o imperador. Eles estão num estado crítico no duelo por influência, e nenhum iria aceitar um novo jogador.
-    591010|00000000||Pensando no que fazer com o cristal.
-    563761|00000000||Vou levá-lo pra Radovid.
-    563765|00000000||Eu aceitei um trabalho, planejo terminá-lo do melhor jeito que puder. O cristal precisa ser levado para Radovid.
-    563767|00000000||Ideia muito, muito má. Você pode causar danos não só à Philippa, mas à Triss, a mim...
-    591048|00000000||Yen, já decidi. Vou entregar o cristal a Radovid.
-    591050|00000000||Você está cometendo um erro. Mas a decisão é sua.
-    591046|00000000||Vou entregar o cristal a Radovid.
-    591045|00000000||Está bem, fica com o cristal.
-    563763|00000000||Certo. Ele estará mais seguro com você.
-    563759|00000000||É, você fica com ele.
-    591001|00000000||Hm... Imagino o que fazer com o cristal...
-    591003|00000000||Ele não pode cair nas mãos de Radovid, sob qualquer circunstância. É melhor você deixá-lo comigo.
-    590998|00000000||Pensando no que fazer com o cristal.
-    563787|00000000||Droga! Isso é tudo, não consigo recuperar mais nada.
    1040576|00000000||Certo, rapazes. A diversão acabou. Voltem aos seus lugares. Vamos, Hal!
    1041644|00000000||Ah, mal posso esperar para tirar o Rei dos Mendigos da minha barba.
    1055765|00000000||Ah, já está aqui! Vamos procurar algum lugar pra descansar a bunda. Deve começar em breve.
@@ -579,9 +551,13 @@
     478264|00000000||O Segundo, ao lado do Primeiro, tocou uma elegia angustiada. O Terceiro permanecia próximo da sua fera leal"
     478266|00000000||O Quarto não marchou com o Primeiro, mas como o Segundo, tocou uma melodia. E, assim, eles se puseram sobre a sua rainha, que dormia sob o céu estrelado"
     490067|00000000||Não vai sair daqui com vida, entendeu? Não vai!
+    422011|00000000||Até logo.
+    422005|00000000||Passar bem.
+    422001|00000000||Me mostre suas mercadorias.
+    422007|00000000||Me mostre o que tem em oferta.
+    421999|00000000||Bem-vindo à minha oficina. Um artesanato bem feito por preços razoáveis!
     377440|00000000||A tubulação... A explosão retorceu tudo como se a grade fosse feita de papel, e tem argamassa nas barras.
     377442|00000000||Quer dizer que ela estava no lugar na hora da explosão... O impacto arrancou-a da parede.
-    313590|acc55a20||Bandido
     481186|00000000||Andem!
     571716|00000000||Cês tudo podem chupar a minha.
     571718|00000000||Os seus pentelhos são cinza também?
@@ -631,6 +607,7 @@
    1016327|00000000||Vá embora. Você não devia estar aqui.
    1016329|00000000||Saia. Fuja enquanto pode.
     572035|ec9b08eb||Ferreiro
+    389411|2ec9fb68||Homem da cidade
     532407|2617e85c||Cidadão pobre
     482142|00000000||Só de passagem, andarilho, ou em busca de algo específico?
     493588|00000000||Quem quer saber?
@@ -726,6 +703,7 @@
     582464|00000000||Aham. Descobri algo, também... ele faz comércio de, hã, mercadorias vivas por trás dos panos. Tem um barco chamado Pérola da Costa, viaja entre aqui e Skellige. Mudou de nome também, agora é Roland Treugger, que oficialmente é um respeitado comerciante de Novigrad e filantropo.
    1037302|00000000||Ele tem uma residência em Douraburgo.
    1072705|00000000||Valeu, mestre. Cê salvô minha vida! Se cê passá por Arginas, dá um alô pra gente. Eu dô um trato nessa tua barba na faixa!
+   1065907|637b0183||Líder renegado
    1004782|00000000||Eu te imploro... Sou inocente, eu juro.
    1004783|00000000||Então deve ter sido o profeta Lebioda quem atacou os vendedores, né?
    1004784|00000000||Roubou a mercadoria e cegou aqueles desgraçados... O barão ficou chateado, viu.
@@ -966,6 +944,7 @@
     470210|00000000||Podes fingir ser uma grande dama agora, mas antes daquele Barão Edward... alguma coisa... te tirar da sarjeta, tu eras uma simples...
     458639|00000000||Basta. A senhorita disse que não te conhece.
     458641|00000000||Quem é esse? O novo? Mais velho que o último, ao que parece. Um imbecil decrépito coberto de musgo. Então, quanto menos podem, mais pagam, é assim?
+    313590|acc55a20||Bandido
     404897|00000000||Recuse apenas a assistir.
     404913|00000000||Pare com isto. Chega.
     404915|00000000||Não daremos ouvido a um fantoche que vaga seguindo a coleira do clero.
@@ -1404,7 +1383,6 @@
     467766|00000000||É aqui... você não precisava ter se dado ao trabalho, de verdade.
     393237|00000000||Mais um pouco. Siga-me.
     394100|00000000||É aqui.
-   1031476|00000000||Devagar! Párias!
    1013060|00000000||Palavras não podem expressar o quanto sinto pelo incidente!
    1013061|00000000||Foi uma simples brincadeira, uma pegadinha. Iríamos trazer tudo de volta. Eu juro!
     465727|00000000||Eu pago... o que vocês quiserem, só poupem-na, eu imploro!
@@ -1911,6 +1889,7 @@
     415001|00000000||O desgraçado tem que vencer!
     415003|00000000||Não vai rolar.
     415005|00000000||Não dá azar!
+   1224625|00019dd6||Kal
     557837|00000000||Marcas de presas...
     557861|00000000||Pegou um logo antes que ele pudesse alcançar a caverna...
     557865|00000000||Irão surgir mais. Preciso destruir os ninhos.
@@ -2314,7 +2293,6 @@
     422639|00000000||He, he.
     422641|00000000||Eles têm algo extraordinário?
     426714|00000000||É melhor terem, para o próprio bem.
-   1018000|e223a10b||Caçador
    1010997|00000000||*Espirro*
    1010995|00000000||Eeh, olá.
    1010993|00000000||Ele merece.
@@ -2340,7 +2318,7 @@
     586791|00000000||Não serve de muito conforto...
     586786|00000000||Ele sabia no que tinha se metido.
     586781|00000000||Droga... Demoramos muito.
-    586783|00000000||"Muito"? Resgatamos duas pessoas.
+    586783|00000000||"Muito"? Nós fomos resgatar duas pessoas.
     586785|00000000||Sim, e perdemos uma.
     416373|00000000||Uma criança.
    1054284|00000000||Peraí... foi...foi você quem nos ajudou?
@@ -2348,7 +2326,6 @@
     416186|00000000||Aposto que trapaceou.
     417331|00000000||Venha para a cabana. Tenho que falar para os outros que eu venci.
    1076255|97ef991e||Comerciante
-    465715|00000000||Acho que a gaiola era uma farsa, assim como o basilisco.
    1068843|ca5d197b||Traficante de escravos
    1016534|00000000||Holofernus Meiersdorf, ao seu dispor. Conheça meus filhos, Bernie, Franklin e Hugo.
    1036912|00000000||Preocupado com o "fantasma apiário"? Vi seu anúncio.
@@ -2578,6 +2555,7 @@
    1035037|00000000||Opa, eu consegui meus documentos de trabalho, mas ainda preciso criar algo semelhante a uma obra-prima...
    1035039|00000000||Pode tentar em Velen. Tem um anão lá, se chama Fergus, ele pode ajudar.
    1035041|00000000||A guilda diz que não tem ninguém melhor ao sul do Pontar.
+    422112|00000000||Bem-vindo, bem-vindo!
     421955|00000000||Espadas de primeira!
     358190|e29b1c4b||Feiticeira
     498724|00000000||Tudo aponta para um demônio...
@@ -3070,54 +3048,54 @@
     532631|00000000||Aqui. Sabe, eu pensei que em vez de treinar em um celeiro velho e úmido, podíamos nos mover ao ar livre. Um duelo em uma ponte... como nos romances! Agora saca a tua espada.
     532632|00000000||Só estou com minhas espadas de aço e prata. Deveríamos lutar com espadas de treino.
     532633|00000000||Deveríamos. Mas tu, mais do que qualquer um, deverias saber: é muito mais divertido fazer coisas que se deve fazer.
-   1075291|00000000||Sangue... humano.
-   1043710|00000000||Sangue do Covarde. Correndo profusamente... o rastro está claro. Deve me levar até ele.
-   1043683|00000000||Encontrei o Covarde... agora, procurar a chave. Não vou sair daqui sem ela.
+   1075301|00000000||Pegadas de pés e patas se cruzam. Homem e fera...
+    488991|00000000||As pegadas se cruzam. Morkvarg seguiu o Covarde desde o começo.
    1075320|00000000||Homem, menos de vinte anos, múltiplos ferimentos. Encontrou abrigo aqui... e sangrou até morrer.
-    488985|00000000||O Covarde se escondeu aqui... Depois foi.
-   1075297|00000000||Sangue, o chão está todo revirado... o local de uma briga, sem dúvida.
-    489728|00000000||Uma das sacerdotisas de Freya. Sem sinais de violência. Deve ter morrido de fome... há algum tempo.
-    492154|00000000||Deve ter se escondido aqui quando Morkvarg invadiu o jardim.
-    489729|00000000||Uma chave. Pode ser útil.
-    499602|00000000||Um barco de pescador típico... esmagado nas pedras.
-    488990|00000000||Lutar era a última coisa na cabeça do Covarde nesse ponto... correu o mais rápido que pôde.
-   1075299|00000000||Pegadas profundas, sangue... só estava tentando fugir.
-   1075312|00000000||Garras... queria muito entrar. Desesperado, praticamente.
-    488997|00000000||Marcas de garras. O Covarde fechou a porta na cara de Morkvarg.
-   1075310|00000000||Rastros de monstro... correndo, perseguindo alguma coisa.
-    488994|00000000||Pegadas profundas e distantes. Morkvarg começou a correr atrás do Covarde.
-    488993|00000000||Parece que Morkvarg cansou de ficar espiando e atacou.
-   1075303|00000000||A briga aconteceu aqui.
-    489730|00000000||Ele esperou um bom tempo antes de morrer.
-    489021|00000000||Nenhum sinal do Covarde e nenhuma saída... a não ser o poço.
-    525461|00000000||Muitas pegadas, velhas e novas. O covil dele deve ser por perto.
-    499604|00000000||Pegadas de cascos.
-    489008|00000000||A porta não se mexe. O Covarde a deve ter bloqueado... ou está trancada... vou ter que dar a volta.
-    488996|00000000||Muito sangue, e não é humano. O Covarde deve ter conseguido ferir Morkvarg.
-    489006|00000000||Morkvarg estava no rastro dele de novo aqui.
-   1075318|00000000||Marcas de garras... garras enormes.
-    489573|00000000||Morkvarg não desiste com facilidade.
+   1043683|00000000||Encontrei o Covarde... agora, procurar a chave. Não vou sair daqui sem ela.
    1075314|00000000||Sangue de monstro.
     489056|00000000||Sangue de Morkvarg.
    1075322|00000000||Sangue humano. Bastante... ferimento profundo, deve ter sido.
     488954|00000000||Sangue do Covarde...
-    489079|00000000||Há algo ali embaixo. Não consigo identificar.
+   1075318|00000000||Marcas de garras... garras enormes.
+    489573|00000000||Morkvarg não desiste com facilidade.
+   1075297|00000000||Sangue, o chão está todo revirado... o local de uma briga, sem dúvida.
+    488985|00000000||O Covarde se escondeu aqui... Depois foi.
    1075293|00000000||Pegadas... leves. Alguém estava sendo furtivo.
     488955|00000000||Pegadas leves... o Covarde pisou com cuidado.
-   1075301|00000000||Pegadas de pés e patas se cruzam. Homem e fera...
-    488991|00000000||As pegadas se cruzam. Morkvarg seguiu o Covarde desde o começo.
+    489728|00000000||Uma das sacerdotisas de Freya. Sem sinais de violência. Deve ter morrido de fome... há algum tempo.
+    489729|00000000||Uma chave. Pode ser útil.
+    492154|00000000||Deve ter se escondido aqui quando Morkvarg invadiu o jardim.
+   1075299|00000000||Pegadas profundas, sangue... só estava tentando fugir.
+    488990|00000000||Lutar era a última coisa na cabeça do Covarde nesse ponto... correu o mais rápido que pôde.
    1075295|00000000||Pegadas... profundas, bem espaçadas. Um corredor.
     488984|00000000||O Covarde estava ferido, começou a correr.
-    488995|00000000||Duas pegadas profundas, e daí nada. Morkvarg deve ter saltado.
-    489007|00000000||Algum tipo de santuário.
-    488058|00000000||A passagem está aberta, mas nada está acontecendo.
    1075316|00000000||Pegadas. Levam para o poço... e terminam lá.
     495444|00000000||As pegadas levam até o poço... acho que o Covarde não queria ser devorado, preferiu se afogar.
-   1056867|00000000||Tenho que chegar do outro lado. A estrada baixa, talvez? Se eu conseguir abrir a comporta...
+   1075312|00000000||Garras... queria muito entrar. Desesperado, praticamente.
+    488997|00000000||Marcas de garras. O Covarde fechou a porta na cara de Morkvarg.
+   1075310|00000000||Rastros de monstro... correndo, perseguindo alguma coisa.
+    488994|00000000||Pegadas profundas e distantes. Morkvarg começou a correr atrás do Covarde.
+   1075291|00000000||Sangue... humano.
+   1043710|00000000||Sangue do Covarde. Correndo profusamente... o rastro está claro. Deve me levar até ele.
+   1075303|00000000||A briga aconteceu aqui.
+    488993|00000000||Parece que Morkvarg cansou de ficar espiando e atacou.
+    489008|00000000||A porta não se mexe. O Covarde a deve ter bloqueado... ou está trancada... vou ter que dar a volta.
+    489007|00000000||Algum tipo de santuário.
+    488996|00000000||Muito sangue, e não é humano. O Covarde deve ter conseguido ferir Morkvarg.
+    489079|00000000||Há algo ali embaixo. Não consigo identificar.
+    488058|00000000||A passagem está aberta, mas nada está acontecendo.
+    525461|00000000||Muitas pegadas, velhas e novas. O covil dele deve ser por perto.
+    489730|00000000||Ele esperou um bom tempo antes de morrer.
+    489006|00000000||Morkvarg estava no rastro dele de novo aqui.
     498227|00000000||Não consigo subir nisso. Preciso achar outro jeito.
+   1056867|00000000||Tenho que chegar do outro lado. A estrada baixa, talvez? Se eu conseguir abrir a comporta...
     489003|00000000||Essas pegadas devem me levar ao Covarde... ou ao corpo dele.
+    488995|00000000||Duas pegadas profundas, e daí nada. Morkvarg deve ter saltado.
     489535|00000000||Morkvarg estava ferido. Só que ele não desistiu.
+    499604|00000000||Pegadas de cascos.
     489047|00000000||Sangue do Covarde...
+    489021|00000000||Nenhum sinal do Covarde e nenhuma saída... a não ser o poço.
+    499602|00000000||Um barco de pescador típico... esmagado nas pedras.
    1025552|00000000||Esmola, esmola pro pão, por favor, povo de bem.
    1025554|00000000||Não, assim, não. Arraste um pouco mais... "pããããããão".
    1025556|00000000||Que diferença faz?
@@ -3468,38 +3446,6 @@
     478101|00000000||Geralt, há dois tipos de homens: aqueles que veem a oportunidade e aproveitam, e aqueles que forjam as oportunidades eles mesmos.
     478103|00000000||Eu sempre o vi como um exemplo do último. Além disso, eu tenho um favor a pedir. Então, venha me visitar qualquer hora?
     477974|00000000||Ufa, finalmente. Mas valeu a pena, certo? Descobriu algo sobre Ciri no final, algo importante.
-    470780|00000000||Vocês sobrevivem roubando dos outros... isso não vai acabar bem. Deveriam pedir ajuda para alguém.
-    470787|00000000||Quem ajudaria a gente? Quem cuidaria?
-    544169|00000000||Quando estivermos com todas as galinhas... vamos entrar mais fundo no bosque!
-    470791|00000000||Petey diz que vamos caçar, vestir peles de animais, montar uma tenda usando folhas...
-    544171|00000000||E nunca mais crescer!
-    544173|00000000||*suspira* Hmm. A última parte é mais provável...
-    544175|00000000||Boa sorte, eu acho. E cuidem um do outro.
-    470768|00000000||Deveriam procurar ajuda.
-    470739|00000000||Tenho que ir.
-    470763|00000000||Hora de ir embora.
-    471842|00000000||Não vai contar pra ninguém que estamos aqui?
-    471844|00000000||Não vou, mas tomem cuidado.
-    470778|00000000||Está na hora de eu ir.
-    470766|00000000||De onde as pegadas de lobo vêm?
-    470770|00000000||De onde as pegadas de lobo vêm?
-    470772|00000000||Pai uma vez caçou um lobo, deu uma pata pra cada um pra dar sorte. Amarramos elas nos sapatos.
-    470774|00000000||Porque lobos roubam galinhas, certo?
-    470776|00000000||Claro, mas normalmente não uma por vez.
-    470747|00000000||Por que estão no bosque? Onde estão seus pais?
-    470753|00000000||Soldados pegaram eles.
-    470755|00000000||Estavam cruzando um rio... mas eles viram a gente. Corremos, mas mamãe e papai tinham malas... falaram para fugirmos.
-    470759|00000000||Viveram sozinhos no bosque desde então?
-    470761|00000000||Sim. Encontramos um monte de coisas, roubamos outras... mas nos viramos bem.
-    470737|00000000||Por que vocês estão aqui?
-    470733|00000000||Não vou te machucar.
-    471039|00000000||Então por que está aqui? O capitão com bigode preto te enviou?
-    470735|00000000||Não sei de nenhum capitão. Segui as pegadas do monstro ladrão de galinhas até aqui.
-    471041|00000000||*Bufa* Você está muito preocupado com algumas galinhas magras.
-    470741|00000000||A velha não gosta muito delas de qualquer forma. Ela estava sempre gritando com elas. E ela parece uma bruxa.
-    470717|00000000||Cuidado, Petey! Ele tem uma espada!
-    471021|00000000||Um soldado!
-    470719|00000000||Ele não vai pegar a gente vivo!
     512767|00000000||O meu contato deve estar lá.
     512766|00000000||O homem que vamos encontrar já deve estar esperando.
     512770|00000000||Vamos.
@@ -4015,7 +3961,6 @@
    1028988|00000000||Navegar pra Skellige? Na sua idade? Agora, com a guerra acontecendo? Tá maluco? Qualquer homem vai te dizer isso!
    1028990|00000000||Veremos. Eu coloquei o aviso... pode aparecer um homem corajoso o suficiente. Você, volta pra sua cadeira de balanço!
     174153|49292af3||Ciclope
-    563535|5a32e0f6||Mercenário
     423225|00000000||Quero uns ingredientes para poções.
     423227|00000000||Houve algum engano... Não sou um mago. Não, não, não. Sou um boticário.
     423229|00000000||Hum. Podia jurar que te vi na cúpula em Loc Muinne.
@@ -4204,7 +4149,7 @@
     475414|00000000||Todo mundo anda fazendo no mato nos últimos dias.
     475410|00000000||Uuuuaaaa...
    1054771|00000000||Vou te cortar em dois seu mutante de merda!
-   1047830|069826f1||Troll de pedra
+   1086145|e5e26ccb||Troll do Gelo
    1032361|00000000||Quanto custa uma noite, gracinha?
    1032363|00000000||Você se enganou. Sou dançarina, e não puta.
    1032365|00000000||Como assim, gracinha?! Poxa, aqui sempre foi...
@@ -4345,6 +4290,7 @@
     550577|00000000||Hi, hi, é óbvio que não viu o do Reuven...
     550761|00000000||Gudrun o chama de "Uroboros".
     550763|00000000||Hi, hi hi! Ele dá a volta?
+    432590|d184d9f7||Aparição
     572081|00000000||*Cospe*
     572083|00000000||Odeio essas putas.
     572085|00000000||Pensar dá pena de morte.
@@ -4512,21 +4458,6 @@
    1073255|00000000||Suma daqui com essa sua espada.
    1073257|00000000||Você tá começando a me irritar, menino cinza.
    1073259|00000000||Sábia escolha, cuzão.
-   1027682|00000000||Bom dia, Cinzento.
-    579355|00000000||Ah, finalmente aqui. As regras são claras. Escolha contra quem vai competir, faça uma aposta, e vá e volte de Ramo Negro a cavalo. O primeiro, ganha. O segundo, é um baitola. Sacou?
-   1027684|00000000||Contra quem você vai correr? O M-m-matko da Gagueira? O Hans Cu-De-Ferro? Ou Bogdan, o Negro?
-    579374|00000000||Hans Cu-De-Ferro.
-    579383|00000000||Vamos ver se aquele cu de ferro aguenta. Vem, Hans.
-    579381|00000000||Passei metade da minha vida em cima de um cavalo. A outra metade foi em cima de pôneis. Você não vai ganhar de mim.
-    579384|00000000||Desta vez, vou correr contra o Bogdan, o Negro.
-    579386|00000000||Vou dar uma voltinha com você.
-   1027686|00000000||Vem, vamos fazer a aposta... e começar a corrida.
-    579378|00000000||V-v-v-v-v-você v-v-v-v-vai v-v-v-v-v-ver... e-e-e-e-eu t-t-t-t-te... ah, que se dane.
-    579376|00000000||Prefiro o Matt da Gagueira.
-    579373|00000000||Matko da Gagueira.
-    579364|00000000||Mudei de ideia. Não quero mais correr. Divirtam-se sem mim, senhores.
-   1021674|00000000||Mudei de ideia. Não vou mais correr.
-    579375|00000000||Bogdan, o Negro.
     467274|40b3f5c5||Refugiado
     568207|00000000||Quero conversar.
     568209|00000000||Não sei. Quero conversar primeiro. Por que você matou os guardas?
@@ -4780,14 +4711,12 @@
     594429|00000000||Você não sabe onde meu papagaio tá, né?
     594431|00000000||Que vontade de abraçar uma garrafa...
     455818|00000000||Vá embora. Ele só vai falar com o ceifador agora.
-    470650|00000000||Que eles apodreçam em uma cova rasa, os filhos da puta! Eles enganaram outro!
-    432590|d184d9f7||Aparição
    1032349|00000000||A gente devia ter enterrado ele, que nem fizemos com o avô.
    1032351|00000000||Você sabe o que a igreja diz. Temos que queimar os mortos. Os túmulos são uma tradição pagã.
    1032353|00000000||Talvez seja mesmo... mas onde é que eu vou colocar flores? Onde é que vou derramar um trago para o meu filho?
    1032355|00000000||Durante o sermão, eles disseram o que é pra fazer. Em vez de comprar presentes pros mortos, melhor fazer uma oferenda do seu ouro ao Fogo Eterno.
    1055682|b224b6d2||Devorador
-    477733|3fbb3904||Oficial nilfgaardiano
+    477733|3fbb3904||Oficial de Nilfgaard
    1069966|00000000||A maldição foi quebrada.
    1070630|00000000||E Graham e Anabelle estão juntos de novo.
    1032828|00000000||Que a chama que é o poder supremo nos proteja e cuide de nós.
@@ -4853,7 +4782,7 @@
     519891|00000000||Você não tem nada a temer. Vejo que trouxe seus novos amigos com você.
     519894|00000000||Nada temo, porque o Fogo Eterno me protege.
     519900|00000000||Bom, ele não precisará te defender de mim.
-   1014428|00000000||Lembra de mim, bruxo? Vernossiel, o Scoia'tael que você traiu.
+   1014428|00000000||Lembra de mim, bruxo? Vernossiel, a Scoia'tael que você traiu.
    1004907|00000000||Que os deuses me deem forças.
    1004908|00000000||Já é o segundo dia que prometo pras crianças que vai ter janta, e não tenho nada pra dar pra elas...
    1004909|00000000||Elas vão ter que dormir com fome de novo.
@@ -4866,9 +4795,6 @@
     422136|00000000||Vamos ver o que tem pra oferecer.
     422130|00000000||Venha, senhor, encha os olhos com minhas lindas bugigangas!
     427781|00000000||Corra rápido!
-   1008857|00000000||Ha, hah, heh, heh, olá.
-   1008851|00000000||Merda.
-   1008849|00000000||Aaaah!
     356382|00000000||Ouvi algo muito parecido em algum lugar...
     356386|00000000||Quase posso jurar que já ouvi isso antes...
     356388|00000000||Sério? Não me parece familiar... Mas, é só um primeiro rascunho, precisa de muitas revisões, deixa eu te contar.
@@ -4921,6 +4847,9 @@
     429109|00000000||Geralt, estou escrevendo, criando. Falando nisso, o que achou desta parte?
     429305|00000000||Tem um minutinho?
     429307|00000000||Pra você, meu amigo, sempre!
+   1008857|00000000||Ha, hah, heh, heh, olá.
+   1008851|00000000||Merda.
+   1008849|00000000||Aaaah!
     532236|002e06b1||Bardo
     499051|00000000||Dizem que você é o melhor batedor de carteira. Que tal demonstrar sua habilidade?
     499052|00000000||Tô indo para a praça do mercado, querida, caso queira vir comigo e assistir.
@@ -4982,7 +4911,6 @@
     562537|00000000||Eles devem trazer oferendas dignas ou todos enfrentarão uma seca! Geadas! Terremotos! Avalanches! Tenho dito!
     562538|00000000||Avalanches? Aqui? E como ficaria isso?
     562539|00000000||Sem resposta do Deus Supremo... Tudo bem. Podemos terminar a nossa conversa quando eu o encontrar. A voz veio do subsolo.
-   1073063|00000000||Valeu, bruxo! Cê tem que dá um pulo em Mulbrydale, vê eu na forja. Vô te dá alguma coisa, só pra te agradecê.
     473280|00000000||Estão olhando o quê? Sumam daqui, seus desgraçados!
     473282|00000000||Vamos, quem irá beber comigo?
     473708|00000000||Onde estão todos, porra?
@@ -5136,6 +5064,7 @@
     529678|00000000||Eu vim a negócios.
     529679|00000000||Boa sorte com isso.
     529680|00000000||Espere... você me ajudou uma vez, talvez estaria disposto a ajudar de novo. Por mais que palavras de agradecimento dessa vez.
+   1055685|971ea264||Simulacro
     430495|00000000||Um braseiro... Nessa época do ano?
     430497|00000000||Humano. Da Priscilla?
     430499|00000000||Eu conheço esse cheiro. Formaldeído.
@@ -5543,6 +5472,7 @@
     521671|00000000||...mas, não. O mago, ele diz, traga-me ratos, dos saudáveis, não algo que o gato tenha capturado.
     521673|00000000||Essa é a lâmpada do esconderijo do elfo? E o que é isso de ratos?
     521676|00000000||Nada importante. Eu explico depois. Agora, conte-me. A que devo a honra?
+    424525|00000000||Não me importaria em dar uma olhada.
    1015229|00000000||Isso correu bem. Conhece mesmo o capitão?
    1015241|00000000||Sim. Um homem horrível. Agora venha, ao trabalho.
     583332|00000000||Da próxima vez que vir o capitão, minha senhora, eu agradeceria se mencionasse...
@@ -5577,7 +5507,6 @@
     422116|00000000||Passar bem.
     422114|00000000||Me mostre suas mercadorias.
     422118|00000000||O que você tem aqui?
-    422112|00000000||Bem-vindo, bem-vindo!
     426948|00000000||Me solte, senhor! Eu poderia ser sua filha!
     427361|00000000||Interpretação de papéis? Eu gosto da ideia!
     426950|00000000||Eu devo roubar um beijo, milady! Tu verás! Apenas fique parada e tira tua máscara!
@@ -5937,6 +5866,7 @@
     475101|00000000||Ouvi falar de um porco que cê tá escondendo.
     475103|00000000||São mentiras, senhor!
     475105|00000000||É mesmo? Vamos dar uma olhada.
+   1047830|069826f1||Troll de pedra
     472968|00000000||Vá acalmá-lo.
     474211|00000000||Vá você. Você sabe que só a senhorita Tammy conseguir acalmá-lo.
     473703|00000000||Prefiro não acabar com uma lâmina entre as costelas.
@@ -6113,7 +6043,6 @@
    1007614|00000000||Eu tava meio ocupado cuidando dos nevolosos. Eles também não eram nada pequenos.
    1007616|00000000||Ah, sim. Infelizmente, eles sempre aparecem. Mas talvez seja melhor assim...
    1031422|00000000||Como posso ajudar?
-    424525|00000000||Não me importaria em dar uma olhada.
    1090536|00000000||O que você oferece?
    1028773|00000000||Tô com uma vontade de jogar gwent. Isso vai me endireitar.
    1086467|00000000||O que acharias de uma rodada de gwent?
@@ -6162,8 +6091,6 @@
     539290|00000000||Achei que você fosse mesmo. Meu nariz não é tão sensível. Não vou achar os caixotes certos, você precisa marcá-los com giz. Enquanto isso, a gente arranja um carrinho.
    1033074|00000000||Tudo bem. O que faço quando tiver acabado?
    1033076|00000000||É só ir sair do armazém. Aí a gente entra.
-    580516|00000000||Hã?
-    580518|00000000||Agh. Já cansei de viver.
     499045|00000000||Sim? E?
     499029|00000000||Saudações... Podemos conversar?
     499031|00000000||Estou aqui para servir os peregrinos que vêm venerar a deusa.
@@ -6668,8 +6595,6 @@
     492120|00000000||Não. Ele disse que eu tinha vindo no lugar errado. Que agora ele vende bolinhos.
     492121|00000000||O Jonas jurou que esse trabalho manual é do Hattori. E com uma garantia!
     503021|00000000||Que babaca...
-    580511|00000000||Nos daria uma coroa?
-    580513|00000000||Socorro! Me salve! Estou morrendo de pobreza!
     400996|00000000||Gordo. Anda comendo bem. Isso se nota. Ficou gordo com grãos que roubou dos nossos campos!
     455837|00000000||Os corvos é que vão comer bem agora. Vai passar uma semana até limparem os ossos.
     455839|00000000||Parem! Não façam isso. Tenho uma esposa e uma criança!
@@ -6815,8 +6740,11 @@
     518541|00000000||Faça o que for.
     518545|00000000||Faça o que for.
     518546|00000000||Não precisa me convencer.
-    580483|00000000||Anda, vai! Não tenho medo!
-    580485|00000000||Duvvelsheyss.
+   1028934|00000000||O velho bastião. Treinávamos aqui quando éramos garotos, antes do Teste das Ervas.
+   1028935|00000000||Olha só. Parece que o bastião está assombrado.
+   1028941|00000000||Aparições? Algo as deve ter prendido a este lugar.
+   1028954|00000000||É uma perda de tempo. Não vou achar nada aqui apenas procurando.
+   1043297|00000000||O medalhão está saltando, mas não vejo nada. Quem sabe a lâmpada revele mais.
     451631|00000000||Por que não... Estou com um pouco de sede...
     467940|00000000||E quando um homem está com sede, a melancolia esgana sua alma! Sirva, Gascoigne!
     451609|00000000||Com prazer.
@@ -6900,7 +6828,7 @@
     446305|00000000||Oooouro! Pilhas de ouro. Não vai servir de nada para os mortos, não é?
     453467|00000000||É estranho que ainda esteja aqui. O nobre morreu há um tempo.
    1076837|00000000||Me solta, eu imploro! A chave tá aqui em algum lugar! Tem que estar aqui!
-    451163|cc663b8e||Varejista
+    451163|cc663b8e||Comerciante
     175639|002eaf48||Chef
     376698|00000000||Hm. Um fundo de contêiner, um cilindro de prata... Runas entalhadas no fundo... Deformado, provavelmente na explosão.
     376700|00000000||Deve ser um destroço da bomba. Que cheiro de... óleo de wyvern... e... caramelo?
@@ -7005,33 +6933,6 @@
     571692|00000000||O que você quer?
     571694|00000000||Não dá para polir merda.
     571696|00000000||Nunca vi alguém como ele antes...
-    540303|00000000||Quer dar uma olhada, talvez adquirir?
-    540302|00000000||Minhas humildes saudações, senhor! Gostaria de dar uma olhada?
-    541747|00000000||Saudações.
-    540321|00000000||Saudações. De onde vem e para onde vai?
-    541748|00000000||Difícil dizer. Já vi muito do mundo e planejo ver mais.
-    540322|00000000||Assim como eu vi, assim como eu planejo.
-    540386|00000000||Dê uma olhada, se não se importa.
-    540296|00000000||O que tem pra oferecer?
-    540393|00000000||Área interessante. Os negócios estão indo bem, eu imagino?
-    540394|00000000||Os viajantes estão indo pro norte, com muitos refugiados entre eles. Eles precisam de quase tudo, então eu faço as coisas darem certo.
-    540395|00000000||Algum comércio com soldados?
-    540396|00000000||Um pouco de comércio, um pouco de suborno, extorsão também, às vezes. Mas no final, eu acabo na frente.
-    540298|00000000||Os negócios estão indo bem?
-    540397|00000000||Tão perto de Novigrad... Não seria melhor vender dentro dos muros da cidade?
-    540398|00000000||As guildas se entrincheiraram lá... Ora, os membros fixam os preços para sufocar qualquer competição.
-    546757|00000000||Eu faço um comércio robusto aqui, sem ninguém para me atazanar, sem muros para me bloquear. A liberdade é um prazer em si só. Tenho certeza de que você concorda.
-    540299|00000000||Não prefere vender na cidade?
-    540385|00000000||Passar bem.
-    546750|00000000||Vamos nos encontrar de novo, eu sei disso.
-    540300|00000000||Passar bem.
-    540297|00000000||Este é um lugar perigoso.
-    540387|00000000||Esse não é o melhor lugar para um mercador viajante.
-    540388|00000000||O lucro fica no meio do risco. É verdade, a guerra trouxe conflito e sofrimento, mas o povo segue vivendo. E onde há vida, há comércio.
-    540389|00000000||Está disposto a arriscar sua vida por um pouco de dinheiro?
-    540390|00000000||Dinheiro, meu amigo, pouco importa. Por mais que eu tente, eu simplesmente não consigo ficar parado. Então eu vago, e vago, pelo mundo.
-    546754|00000000||Vejo novos lugares, falo com gente que nunca conheci. É o que eu gosto, e vale o risco.
-    540384|00000000||Ha, ha. Montanhas não se movem e, sendo assim, nunca se encontram, mas homens...
     472459|00000000||Venha aqui fora!
     475674|00000000||Abra, seu anormal!
     485984|00000000||Uuuuuh! Não tem ninguém em casa!
@@ -7291,8 +7192,6 @@
     499792|00000000||Precisamos correr.
    1051457|00000000||Vamos!
    1051459|00000000||Vai vir?!
-    580454|00000000||Quer pegar um fungo?
-    580456|00000000||Ei, moço bonito! O que tenho que fazer para ser pálido como você?
    1053256|00000000||Já pro chão, meu amor, pro chão. Minhas pernas cansam de caminhar, meus braços cansam de balançar.
    1053258|00000000||A cabeça tá pesada como pedra, a barriga tá vazia como as cumbucas, já pro chão, vai, já pro chão...
    1053260|00000000||Se tivesse trabalhando, meu bem, estaria cansado também, e pararia sem eu pedir, já pro chão, vai, já pro chão.
@@ -7350,6 +7249,7 @@
     548560|00000000||Então não seja fresco, só me diga o que pensa.
     358194|00000000||Fez bem, bruxo. Aqui, sua parte do trabalho.
     358192|00000000||Quem tipo de bruxo é você?! Chama isso de proteção?! Desculpa furada para isso! Esqueça seu pagamento!
+    181133|0599346c||Fetulho
     470555|00000000||Lesse, não é? Queria falar com a sua avó.
     470557|00000000||Com a minha... Mas ela morreu há anos!
     470567|00000000||Acho que falei com um fantasma...
@@ -7362,7 +7262,7 @@
     470541|00000000||Só estava de passagem. Até mais.
     470545|00000000||Até logo.
     470539|00000000||Bruxo... o que o traz aqui?
-    181133|0599346c||Fetulho
+    577863|d84f8157||Aparição diurna
     552779|00000000||Passar bem.
     552776|00000000||Foi um ekimmu
     552777|00000000||Passar bem.
@@ -7441,12 +7341,12 @@
    1009039|00000000||O que não significa que não estou feliz em te ver.
    1008866|00000000||Faz tempo que está em Novigrad?
    1040496|00000000||Este brinco é seu, estou certo?
+   1061830|00000000||Meus brincos favoritos. Posso usar de novo, agora que tenho ambos. Obrigada, Geralt.
    1040498|00000000||Espera um segundo... sim! Perdi anos atrás... onde você o encontrou?
    1040500|00000000||Kaer Morhen. Numa cama. Você sabe qual.
    1040502|00000000||Ah... sim... os bons velhos tempos.
    1040504|00000000||Já te disse que você fica bonita quando fica corada?
    1040506|00000000||Aham... Há muito tempo. Como eu disse, nos bons velhos tempos.
-   1061830|00000000||Meus brincos favoritos. Posso usar de novo, agora que tenho ambos. Obrigada, Geralt.
    1040494|00000000||Seu brinco, encontrei ele em Kaer Morhen.
    1009143|00000000||Quando você cortou a garganta do Menge, e aí... você foi feroz. Nunca tinha visto esse seu lado.
    1009195|00000000||O que você queria que eu fizesse? Conjurasse uma nuvem de borboletas?
@@ -7475,6 +7375,27 @@
    1008871|00000000||Você quer mesmo falar sobre isso? Talvez eu deva chamar Yennefer? Não ia querer que ela perdesse isso.
    1008877|00000000||Hm, não. Você está certa, má ideia.
    1008867|00000000||Lá no Rei-Pescador...
+   1123711|00000000||E aí você tava lá no Bosque da Podridão e do nada eu apareço. O que você pensou?
+   1123713|00000000||Sinceramente? "Ah não, ele de novo não".
+   1123715|00000000||Imaginei. Não foi fácil de te achar, sabe.
+   1123717|00000000||Você tinha recuperado a memória, achado Yennefer. Então claro, pensei que vocês dois...
+   1123736|00000000||Mas no fim, minha amnésia não mudou nada. Queria ficar contigo antes, durante, depois, sempre.
+   1123739|00000000||Sei disso agora.
+   1123985|00000000||Bosque da Podridão, quando nos vimos de novo...
+   1123774|00000000||Você, ah, como tem andado?
+   1123776|00000000||Ugh, vai ser difícil pra todo mundo...
+   1123778|00000000||Você sabe do que tô falando.
+   1123784|00000000||O que quer que eu diga? Afinal, eu sabia que você e a Yennefer... que acabariam juntos. Foi uma causa perdida, sempre.
+   1123786|00000000||Pode ser. Só não quero que você...
+   1123789|00000000||Dá pra gente não remoer isso? Tenho outras preocupações agora.
+   1123791|00000000||Certo. Entendido.
+   1123986|00000000||Como tem andado?
+   1127007|00000000||Olha, acha que podia me ajudar com essa marca? Tá me enlouquecendo.
+   1127010|00000000||Tsc... ah, Geralt... com o que você se meteu desta vez?
+   1127012|00000000||Longa história. Pode tirar isso de mim?
+   1127014|00000000||Infelizmente, não. E duvido que outra pessoa consiga. Sinto muito.
+   1127016|00000000||Agh... me olham estranho de qualquer jeito. Vou ter que me acostumar.
+   1127004|00000000||Minha marca, me ajuda a tirar?
     300158|00000000||Até mais, Triss.
     300156|00000000||Até mais.
    1006925|00000000||Você ficou com a rosa da lembrança.
@@ -7530,7 +7451,6 @@
     416647|00000000||Até mais.
    1051278|00000000||Ah, o riviano de novo. O que te traz aqui?
     432008|00000000||Hm, parece ser um laboratório. Bem equipado também.
-    542828|00017c7e||Bea
     582730|00000000||É... Mercador viajando por Velen sozinho... De jeito nenhum isso ia acabar bem.
     385910|00000000||Encontrei você. Pode parar de se esconder.
     417339|00000000||Aí está você.
@@ -7647,6 +7567,14 @@
    1028825|00000000||Um bruxo. Os habitantes locais te contrataram?
    1029666|00000000||Mas daí, depois de um tempo, o desgraçado ficou ganancioso. Queria mais, e eu recusei. Foi então que ele mandou os caçadores de bruxas pra cima de nós. Perdi metade de meus homens por causa dele!
    1029668|00000000||Agora, saia do caminho, bruxo. Isto não é assunto seu. Queremos o Bertram e mais ninguém. Você tem minha palavra.
+   1028836|00000000||Está vendo? Rápido e indolor. Isto é para você, pela compreensão.
+   1028838|00000000||Vamos embora, cavalheiros!
+   1028832|00000000||Não vou ficar no seu caminho. Faça o que precisar.
+   1028834|00000000||É a decisão certa, bruxo.
+   1028829|00000000||Faça o que for preciso.
+   1028840|00000000||Não me importo muito com o que tenha a dizer. Pegue os seus homens e suma, ou teremos derramamento de sangue.
+   1028841|00000000||Ah, teremos derramamento de sangue de qualquer jeito. Você acabou de garantir que derramaremos mais.
+   1028830|00000000||Vá embora, ou teremos derramamento de sangue.
    1036718|00000000||O que o Bertram fez?
    1036720|00000000||O que o Bertram fez que te faça querer vingança?
    1036721|00000000||Ha, ha. Quer dizer que não mencionaram essa parte? Então, escute: ele veio até mim há meio ano. Disse que diria quem valia a pena roubar. Em troca, ele queria uma parte do que pegássemos.
@@ -7658,14 +7586,6 @@
    1036416|00000000||E você acha que eu seja assim?
    1036418|00000000||Você é?
    1036423|00000000||Descubra por si mesmo, se ousar. Ou entregue-me o Bertram e ninguém mais se machuca.
-   1028840|00000000||Não me importo muito com o que tenha a dizer. Pegue os seus homens e suma, ou teremos derramamento de sangue.
-   1028841|00000000||Ah, teremos derramamento de sangue de qualquer jeito. Você acabou de garantir que derramaremos mais.
-   1028830|00000000||Vá embora, ou teremos derramamento de sangue.
-   1028829|00000000||Faça o que for preciso.
-   1028832|00000000||Não vou ficar no seu caminho. Faça o que precisar.
-   1028834|00000000||É a decisão certa, bruxo.
-   1028836|00000000||Está vendo? Rápido e indolor. Isto é para você, pela compreensão.
-   1028838|00000000||Vamos embora, cavalheiros!
     492065|acfa93d4||Mendigo
     594910|00000000||Não há lugar para a sua laia aqui.
     594912|00000000||Mutante.
@@ -7942,7 +7862,7 @@
    1004895|00000000||Não vou roubar de um dos meus. Não sou ladrão.
    1004896|00000000||Então, você não tá com fome?
    1086143|06f95433||Rato
-    426556|00000000||Vamos fazer assim. Eu te dou uma chance de ganhar algo. O que conseguir tirar de mim, é seu.
+   1224980|00000000||Eu vou atravessar, mas não vou te pagar nenhuma moeda furada.
     426522|00000000||Vá em frente. Tente pegar o meu dinheiro.
     426558|00000000||Está vendo este medalhão?
     426560|00000000||Ah, chefe... Chefe...
@@ -8023,18 +7943,13 @@
    1031427|775f49f7||Pastor
     535651|0e5ae9d3||Carniceiro
     535502|00000000||Bosta!
-    422007|00000000||Me mostre o que tem em oferta.
-    422001|00000000||Me mostre suas mercadorias.
     422009|00000000||Pode criar algo pra mim?
     422003|00000000||Preciso que crie algo pra mim.
    1086493|00000000||Adoraria jogar um pouco de gwent.
-    422011|00000000||Até logo.
-    422005|00000000||Passar bem.
     498331|00000000||Estou procurando um ferreiro dos bons.
     498333|00000000||Estou procurando alguém que consiga forjar um item com base no diagrama de um mestre.
     498335|00000000||Hum... não conheço ninguém. Não aqui em Novigrad, pelo menos. Hattori... ele seria o cara perfeito se não tivesse se aposentado.
     498337|00000000||Ficou de saco cheio, sabe? Agora ele vende bolinhos por aí. Não sei dizer onde, porque não como fora de casa.
-    421999|00000000||Bem-vindo à minha oficina. Um artesanato bem feito por preços razoáveis!
     552446|00000000||Vai lá, Dandelion! Digo... Vingador Escarlate!
     552445|00000000||Guardas! Socorro!
     386020|00000000||Não vale! Eu tinha que ganhar!
@@ -8443,7 +8358,6 @@
    1003673|00000000||Acho que um estrangulador estava me sufocando ontem à noite...
    1003675|00000000||Um estrangulador?! Como assim, um fantasma?
    1003677|00000000||É birita demais! É com isso que você tá engasgando!
-   1041861|4fe30dd7||Coveiro
    1065575|00000000||Almíscar de dragão. Parece fresco. Deve ter se acomodado por aqui recentemente.
    1065329|00000000||*Cheira* Que fedor é esse?
     421500|00000000||É lindo aqui! Eu não saio da cidade há séculos.
@@ -9394,11 +9308,11 @@
     498270|00000000||Desculpe. Não foi intencional.
     498927|00000000||Espero que não! Avise quando encontrar o Covarde!
     499621|00000000||Esperarei você aqui. Volte logo, está bem?
-    498259|00000000||Sem marcas de mordida. Morkvarg não devora as suas vítimas. Estranho.
     498261|00000000||É o Covarde?!
     498263|00000000||Não. Este está aqui há um tempo!
     498265|00000000||O quê?! Não estou ouvindo! Se quer conversar, chega mais perto!
     498920|00000000||Os sentidos dela estão ruins mesmo...
+    498259|00000000||Sem marcas de mordida. Morkvarg não devora as suas vítimas. Estranho.
     498257|00000000||Outro cadáver. Também não tem marcas.
     491354|00000000||Encontrou algo?
     491355|00000000||Um rastro... leva diretamente a uma porta trancada!
@@ -9715,7 +9629,6 @@
     449874|00000000||Bem... Digo, não tínhamos tanta certeza, mas isso é bom. É para isso que servem os bruxos, não é? Matar monstros?
    1029710|00000000||Obrigado pela ajuda. Isto é bem merecido.
     312802|05e75e62||Harpia
-   1051424|f11e033c||Forjador
    1023357|00000000||Bastardo intrometido! Cuide dele!
     496150|00000000||As árvores! Escondam-se nas árvores!
     513032|00000000||Fechado. Vão se divertir em outro lugar.
@@ -11107,14 +11020,14 @@
     427154|00000000||Eu não sei de nada sobre o golpe! Eu não estava. Estava no bordel a noite inteira!
     536339|00000000||Senhores, vocês me confundiram com outra pessoa.
     536340|00000000||Você é o único que fez confusão... Agora, passe algumas coroas, rápido!
-    580303|00000000||Sim, meu príncipe?
-    580305|00000000||Os seus peidos nunca parecem feder, mas não se engane!
    1068840|00000000||Achei que gostaria de saber, seu pai foi vingado. Matei o berrante.
    1069044|00000000||Obrigado, mestre bruxo.
    1068837|00000000||Matei o berrante
     424965|00000000||Se cuida, garoto.
    1068838|00000000||Passar bem.
    1019016|00000000||O quê?!
+    580303|00000000||Sim, meu príncipe?
+    580305|00000000||Os seus peidos nunca parecem feder, mas não se engane!
     166803|05b6c502||Druida
     482579|724a06e6||Estudante
     466901|00000000||Enlouqueceu?! Quer que nos matem?!
@@ -11846,7 +11759,6 @@
    1000112|00000000||Triss.
    1000980|00000000||Falei pra ela desde o começo, sem homens, sem bichos de estimação... Essa é uma casa decente, pra gente decente.
    1000982|00000000||Não se preocupe, não vou ficar muito tempo.
-    595891|fbee3e23||Camponesa
    1038520|00000000||Uma mão, é isso... O arquigrifo fez um banquete.
    1011945|00000000||Apenas não me irrite.
    1011947|00000000||Hmm?
@@ -12604,6 +12516,19 @@
     495547|00000000||Fica para a próxima. Estou com pressa.
     491738|00000000||Tome.
     510406|00000000||Senhor, senhor! Piedade! Dê uns trocados pra gente. Minha mãe está doente e, se eu não der comida para ela, bom, ela pode morrer de fome!
+    578576|00000000||Por acaso você joga gwent?
+    578579|00000000||Ah, sim, é uma grande paixão minha. Quer jogar?
+    578594|00000000||Estou pronto. Vamos lá.
+    578580|00000000||Sim, vamos jogar.
+    578595|00000000||Sem dúvida, assim que eu tiver um tempinho.
+    578581|00000000||Fica pra outra hora.
+    578592|00000000||Topa uma partida de gwent?
+    578593|00000000||Sempre, a qualquer hora.
+    578575|00000000||Ouvi dizer que você joga gwent.
+    578598|00000000||Bravo! Uma bela vitória! Parabéns!
+    578596|00000000||O que posso dizer? Foi uma vitória sob medida. Boa sorte na próxima, bruxo.
+    578600|00000000||Você não encontrará nenhum adversário digno aqui em Skellige. Para o seu nível de habilidade, melhor competir em Velen.
+   1042494|00000000||Jogue contra o barão ou aquele moleque famoso, o Haddy. Esses são adversários à sua altura!
     390493|00000000||Mostre-me o sangue que é seu sangue. Mostre-me o sangue que foi perdido.
     390495|00000000||O sangue me chama...
     390497|00000000||"Só mais um pouco, mãe, aguente firme" – o sangue se esvai do seu rosto.
@@ -13149,6 +13074,10 @@
     586915|00000000||Me despeço de você friamente.
     511059|00000000||Por ordens do Hierarca: quem ocultar um mago no seu lar queimará com ele ou ela!
     511058|00000000||Última chance de render os seus livros não ortodoxos! Grimórios e tratados blasfemando sobre a Chama Sagrada em especial!
+   1064837|00000000||Bem? E aí? Está feito?
+   1064839|00000000||Está feito. Apesar de nem tudo ter ido de acordo com o plano.
+   1064841|00000000||Mais sobre isso depois... primeiro, um trago. E um brinde.
+   1064844|00000000||Ao Norte! Teméria!
    1064846|00000000||Teméria!
    1064850|00000000||Não é cedo demais pra comemorar?
    1064862|00000000||Têm certeza de que isso não é prematuro? Radovid está morto, mas ainda falta muito para uma Teméria livre. A guerra não acabou, não está nem perto do fim.
@@ -13197,14 +13126,10 @@
    1064868|00000000||Eu diria que sim. Sabe...
    1064849|00000000||Teméria!
    1064848|00000000||Teméria, porra!
-   1064837|00000000||Bem? E aí? Está feito?
-   1064839|00000000||Está feito. Apesar de nem tudo ter ido de acordo com o plano.
-   1064841|00000000||Mais sobre isso depois... primeiro, um trago. E um brinde.
-   1064844|00000000||Ao Norte! Teméria!
    1071154|00000000||Lutem, seus imbecis!
    1071152|00000000||Matem o bruxo!
-   1071156|00000000||Porra! Tenho que fazer tudo sozinho!
    1071158|00000000||Ajuda! Corram, chamem reforços!
+   1071156|00000000||Porra! Tenho que fazer tudo sozinho!
     422372|00000000||Gostaria da benção do Fogo Eterno para você e sua residência? Venha, seguidor fiel, que sua luz brilhe...
     422374|00000000||Cuidado, senão você vai ver o brilho da minha espada. E fica longe, que esse incenso está me dando ânsia.
     422376|00000000||Você podia ter falado desde o começo. Contrassenha "E sopa de peixe deixa a tia do diácono com dor de cabeça". Do que você precisa? Antes que você pergunte, já acabou todo o creme pra hemorroidas.
@@ -13764,15 +13689,15 @@
     492064|00000000||Tá me encarando por quê? Tá querendo que eu arrebente sua cara, seu nórdico?
     492063|00000000||Nós, do clã de Tuirseach, somos reis dentre todos os clãs...
     492061|00000000||Passei a vida toda nas ondas do oceano, minha casa nas profundezas.
+    525965|00000000||Os homens dessa família possuem pouca sorte. Skaron Vegelbud morreu jovem...
+    525967|00000000||Achas que as mulheres, elas...?
+    525969|00000000||Não tenho certeza, mas rumores não faltam...
     525971|00000000||Aparentemente elas possuem um aparelho na Passiflora...
     525973|00000000||Isso é uma ofensa à natureza! A Guarda Templária sabe o que acontece lá?
     525976|00000000||Shh! A Guarda sabe muito bem...
     525978|00000000||Hmm... E dizes que o preço é razoável?
     526005|00000000||Épocas de fome e guerra são necessárias. É assim que a sociedade se limpa, se regenera.
     526063|00000000||Certamente. Naturalmente, isso só se aplica às ordens mais baixas. E não-humanos.
-    525965|00000000||Os homens dessa família possuem pouca sorte. Skaron Vegelbud morreu jovem...
-    525967|00000000||Achas que as mulheres, elas...?
-    525969|00000000||Não tenho certeza, mas rumores não faltam...
     178027|00000000||Hora de voltar para a fortaleza.
     173965|00000000||O quê? Com isso?
     178029|00000000||Se bem me lembro, foi você que quis testar as lendas antigas, transformar a criatura em um protego.
@@ -14367,15 +14292,6 @@
    1011296|00000000||Merda!
    1011292|00000000||{Ekh ekh…}
     580018|d00dc371||Trabalhador das docas
-    590026|00000000||...Francesca também está hesitante. Nem ela nem Ida querem decidir cegamente.
-    590027|00000000||Elas vão deixar de hesitar assim que convencermos Keira e Fringilla.
-    590028|00000000||Fringilla está do nosso lado. Ela vai se juntar a nós assim que terminar alguns negócios em Nilfgaard.
-    590029|00000000||Esplêndido, só falta a Keira. O problema é, ainda não tenho noção de onde ela poderia estar.
-    590030|00000000||E quanto à Yennefer e Triss?
-    590031|00000000||Yennefer nunca fez parte da Estada, e Triss... Bem, veremos. Preciso recuperar minha visão. Então, poderei ir até Novigrad para fazer uma visita a Arthur de Vleester. Dizem que Triss também está pela cidade.
-    590032|00000000||Ainda insiste? Phil, me perdoe por dizer, mas você nunca vai regenerar seus olhos sozinha.
-    589901|00000000||Vilgefortz conseguiu. Estou usando o mesmo método, cultivando tecido em pedras preciosas.
-    589902|00000000||É loucura... ...precisar... ...oder... se colocar... ...rande peri...
    1032611|00000000||Olha só... está vendo aquele negócio pendurado num galho? É uma calcinha!
    1032613|00000000||Isso sempre ocorre após bailes. Barões e damas são cheios de pompa, mas fornicam no meio do mato como coelhos.
    1032615|00000000||Da última vez, eu até vi um casal elegante dando uns amassos na fonte. Dá pra acreditar?
@@ -14490,7 +14406,6 @@
    1053160|00000000||Desativei a barreira.
    1053162|00000000||Ar fresco, finalmente.
     462860|00000000||Deve ser a residência de Aeramas. Vamos ver o que há dentro.
-    480757|00000000||Cuidado! Mais três merdinhas saindo do buraco!
     504772|00000000||Meu nome é Geralt.
     504773|00000000||Patty Gruber. Sou um agente de apostas. Imagino que você tenha vindo lutar.
     504795|00000000||Estou pronto.
@@ -14516,11 +14431,7 @@
    1053123|00000000||Rá!
    1053140|00000000||O troll é chamado...
    1053142|00000000||Athak Akydalv...
-    577863|d84f8157||Aparição diurna
    1070993|00000000||Por aqui. Para cima.
-    577447|00000000||Agh. Um dia desses, as minhas costas vão ceder por causa disso.
-    577448|00000000||Pare de reclamar, Woulter. É melhor jogar do que ser jogado.
-    577446|00000000||Um, dois... três!
    1003009|00000000||De quem é o túmulo, o que você acha? Infelizmente, sem inscrição.
    1003036|00000000||Hm... Sinal da gaivota. Se eu já não soubesse onde ela foi enterrada, eu diria que esse é o túmulo de Lara Dorren.
    1003038|00000000||Talvez seja um monumento a ela...
@@ -14810,17 +14721,17 @@
     515064|00000000||S-s-s-sim, senhor... por b-b-b-bruxaria e c-c-c-con-lu-lu-luio com as M-m-m-moiras... mas a gente daqui nunca que...
     515072|00000000||Claaaro. Nunca fazeis nada! Já os conheço muito bem. Faz tempo que eles se foram, os caçadores?
     519422|00000000||Não faz m-m-m-muito tempo...
-    420952|7643aa11||Servo
+    420952|7643aa11||Serva
    1011223|00000000||Merda de lama.
    1011247|00000000||E agora?
    1011243|00000000||Aaaah!
    1011241|00000000||Teve o suficiente?
    1011239|00000000||Eu vou fazer você chorar.
-   1020534|00000000||Moribundia: A Última Aparência do Vampiro"
+   1020534|00000000||"Moribundia: A Última Aparência do Vampiro".
    1020535|00000000||Tiromancia, ou a Nobre Arte de Divinação pelo Queijo"
-   1020536|00000000||As Alegre Aventuras de Muriel a Adorável Meretriz, Decorado com Gravuras Engraçadas"
+   1020536|00000000||"As Alegres Aventuras de Muriel a Adorável Meretriz, Decorado com Gravuras Engraçadas".
    1020538|00000000||"Meu Manifesto". Deve ser esse... tem uma carta dentro.
-   1020537|00000000||O Tratamento de Furúnculos Através da Cauterização: Um Estudo"
+   1020537|00000000||"O Tratamento de Furúnculos Através da Cauterização: Um Estudo".
     381742|00000000||Criança do Sangue Ancestral...
    1059018|00000000||*Ri* Ele segue você, pisando nos seus passos...
    1054294|00000000||Parabéns, bruxo! Tenho material pra outra canção!
@@ -14858,10 +14769,6 @@
    1004363|00000000||Não conheço nenhum Karadin. Peguem seu dinheiro e se mandem antes que perca a minha paciência!
    1004365|00000000||Onde está Jad Karadin? É a última vez que vou perguntar!
    1004369|00000000||Guardas! Levem-nos para o calabouço!
-    470706|00000000||Pegadas de lobos, e pegadas menores perto delas. Mas sem sinal de luta...
-    470708|00000000||Agora, apenas pegadas pequenas, não do típico lobisomem. Se é que é isso mesmo.
-    470711|00000000||Pegadas pequenas... Interessante.
-    470704|00000000||Pegadas de lobo mesmo... mas... algo está errado.
     478311|ce75940e||Brutamontes
    1052142|00000000||Então você não sabe o que aconteceu em Guarida de Baixo?
    1052144|00000000||Aconteceu alguma coisa por lá?
@@ -15060,12 +14967,6 @@
     586773|00000000||O sangue foi todo sugado. Um vampiro inferior?
     586805|00000000||O ekimmu saiu da água aqui. Preciso achar mais rastros.
     464781|00000000||Um bruxo! Pelos deuses! Socorro!
-    470895|00000000||Minhas galinhas! Eles levaram todas elas, os pequenos ranhentos!
-    470887|00000000||Devo jogar mais sementes, vó?
-    470889|00000000||Não, já é o bastante. E não me chame de vó.
-    470891|00000000||Certo, certo, vou lembrar.
-    472440|00000000||Aquela galinha pintada, ela pode ser minha, vó?
-    470893|00000000||*suspira* Hã. Sim, criança, ela pode.
    1054282|00000000||{Mòran taing, vatt'ghern. } [Muito obrigada, bruxo!]
    1054361|00000000||Já sentiu uma vontade de ir pro mar, bruxo? Aquilo é que é monstro, viu!
     354838|00000000||Está bem. Mas nada de tortura.
@@ -15188,8 +15089,8 @@
     591360|00000000||Então, o que vai ser? Vai ajudar?
     577890|00000000||Saudações, bruxo.
     517395|00000000||Ei! Abra!
-    517420|00000000||Pegue isso... Queime, esconda, o que for. Não seja pego!
     517394|00000000||Gente! Socorro!
+    517420|00000000||Pegue isso... Queime, esconda, o que for. Não seja pego!
    1006951|00000000||Hm, bela mistura. O ananico não estava mentindo... O aroma deve estar carregando bem longe...
    1017888|00000000||Solte ela.
    1017931|00000000||Um de vocês, detenha ele. Depois certifiquem-se de que ele consiga ver bem.
@@ -15707,6 +15608,7 @@
    1076531|00000000||Em Novigrad, a coleção de Sigi Reuven é famosa. Você deveria desafiá-lo.
    1014614|00000000||Bem, que azar... vai ser um prazer jogar com você de novo uma hora dessas.
     578382|00000000||Um druida chamado Arminho, de Skellige. E, em Novigrad... a coleção do Sigi Reuven é bem famosa.
+    166486|ca49f862||Sjusta
    1068617|00000000||Bem-vindo, senhor. Espero que nossos charmes e habilidades sejam do seu agrado. O que deseja?
    1068619|00000000||Eu lembro de você. E fico feliz que tenha voltado.
    1068627|00000000||Estou cansado. Quero relaxar com uma linda mulher. Uma elfa, de preferência.
@@ -15748,6 +15650,7 @@
     371523|00000000||Vamos.
     371527|00000000||Vamos, então.
     371529|00000000||*Cospe*
+   1055653|31c17949||Corvo
     466381|00000000||Ah. Me deixe em paz. Seu hálito, uh, o fedor de dentes podres e vodka.
     466383|00000000||Mas eu não te como com minha boca, querida! Então, o que vai ser?
    1028756|00000000||Que tal um jogo de cartas?
@@ -15811,6 +15714,7 @@
    1050959|00000000||Enquanto ele sempre foi um excelente servo confiável ou Fantasma do Velho Rei.
     340839|00000000||Ah, que bom te ver.
    1080238|9f3db5f2||Gárgula
+    550496|00000000||Esplêndido. Sigi Reuven aguarda na outra sala.
     488281|00000000||Ocupado com o quê?
     488291|00000000||Ocupado? Com o quê?
     488293|00000000||Entretendo convidados importantes.
@@ -15827,10 +15731,9 @@
     487536|00000000||Qual é o problema? A casa de banho está fechada.
     487561|00000000||Preciso falar com o dono. Eu sei que ele está aqui.
     487562|00000000||Eu não sei se importa, já que ele está muito ocupado.
-    550493|00000000||Pode se despir aqui. O seu equipamento ficará seguro.
     445483|00000000||Se posso comentar, senhor, não é comumente aceito nesta cidade que uma pessoa saia por aí despida.
     460064|00000000||Eu recomendaria que você vestisse algo.
-    550496|00000000||Esplêndido. Sigi Reuven aguarda na outra sala.
+    550493|00000000||Pode se despir aqui. O seu equipamento ficará seguro.
    1041951|00000000||Isso!
    1041953|00000000||Abafe essa onda, amigo. E senta quieto ou vai se machucar.
    1041958|00000000||Mas... mas ele venceu!
@@ -16239,7 +16142,6 @@
    1073281|00000000||A espada. Guarde.
    1073283|00000000||Isso mesmo.
    1073285|00000000||A escola é sua, seu plebeu.
-    563532|0030c07e||Hans de Cidaris
     422924|00000000||O que ele queria?
     423004|00000000||Então o que ele queria ao invés de dinheiro?
     438230|00000000||Onde posso encontrar este homem?
@@ -16292,25 +16194,21 @@
     594463|00000000||Tô com uma dor forte na coluna.
    1065547|00000000||Algo pesado foi arrastado por aqui... corpos?
     459331|00000000||Geeeralt! Você vem?
-   1044812|00000000||Senhor, você falou com eles, os Cavaleiros Negros, eu vi! Fale com eles por mim... a minha filha não tem forças pra respirar... Peça pra eles deixarem ela entrar!
-   1044814|00000000||*Respiração ofegante*
-   1044818|00000000||Água, água...
-   1044816|00000000||Enquanto eu viver, há esperança.
-   1044820|00000000||Assassino!
    1030519|00000000||Meu amigo jura que viu uma mulher atender dez caras de uma só vez! Todos saíram de lá sorrindo de orelha a orelha!
    1030521|00000000||Uhum. Quantas garrafas seu amigo já tinha esvaziado antes disso? Aposto que dez... uma pra cada pau.
    1030523|00000000||Ele não bebe. Ele é do clero.
    1030525|00000000||Quer dizer que ele não bebe, mas vai a bordéis. Isso não tem problema?
    1030527|00000000||O que uma coisa tem a ver com a outra?
+   1044816|00000000||Enquanto eu viver, há esperança.
+   1044814|00000000||*Respiração ofegante*
+   1044812|00000000||Senhor, você falou com eles, os Cavaleiros Negros, eu vi! Fale com eles por mim... a minha filha não tem forças pra respirar... Peça pra eles deixarem ela entrar!
+   1044818|00000000||Água, água...
+   1044820|00000000||Assassino!
    1041779|00000000||Vai lá, Geralt. Atrás dele!
    1041792|00000000||Eu só ficaria no caminho.
     562744|00000000||Uma rachadura. É pequena demais para passar, mas grande o suficiente para que o som saia.
    1043350|00000000||Parece que os camponeses locais resolveram se converter...
     562743|00000000||Hm, vinho... ou melhor, vinagre. Alguém bebeu mesmo assim. Posso seguir o cheiro...
-   1038368|00000000||Hm, poderia mastigar uma maça com essas presas. Talvez até aço de Nilfgaard.
-   1038370|00000000||Se isso é um basilisco... então cadê o olhar mortal?
-   1038372|00000000||Essa gaiola não é muito pequena? A fera não consegue nem se virar.
-   1038366|00000000||Parece um pouco com a cara do Cabo Heribert, hein?
    1084522|d3bd6068||Lacaio de Sigi Reuven
    1033272|86973d0f||Comerciante redaniano
    1052590|00000000||Vamos rezar pra que o Fogo Eterno conceda nossas súplicas!
@@ -16383,7 +16281,6 @@
     508215|00000000||Nãããão!
     508217|00000000||Fogo Eterno, me dê forças.
    1043899|00000000||Socorro! Ladrão!
-   1032201|00000000||Seus inúteis! Vocês assustaram meu cavalo!
    1012738|00000000||Oh, outro.
    1012734|00000000||Eh?
    1012736|00000000||Eu nunca vi tantos estranhos na minha vida.
@@ -16511,7 +16408,6 @@
     576616|00000000||Vamos. Precisamos nos apressar.
     496962|00000000||Só isso? Homens de verdade têm mais resistência do que isso!
     496961|00000000||Aposto o meu dinheiro no cara de cu!
-   1082235|bf8c7823||Marcus T.K. Hodgson
    1006947|00000000||Tenho o acordo de uma vida inteira pra você!
     540913|00000000||Ei, cabelo cinza!
    1068824|00000000||Dizem que os bruxos nunca cansam de ir pra cama. Deve ser verdade, já que você voltou. Devo tirar as roupas?
@@ -16814,19 +16710,6 @@
    1032771|00000000||Velen é um antro de bruxaria e superstição. Lembre-se, se pegarmos você envolvido com magia negra, será interrogado e julgado.
    1032773|00000000||Eu? Magia negra, senhor? Sou um mero lenhador.
    1032775|00000000||Então não sei o que está querendo nesta cidade. Não precisamos de lenhadores.
-   1031788|00000000||Droga!
-    579319|00000000||Beleza, quem mais vai correr?
-    579329|00000000||V-v-v-v-vai!
-    579331|00000000||S-s-s-s-sai d-d-d-da f-f-f-f-frente, v-v-v-v-v-vermes! O-o-o-o-o M-m-m-matko e-e-e-está v-v-v-vindo!
-    579339|00000000||Ei! Bruxo! Sua mãe não quis você?
-    579341|00000000||Eu vou chegar primeiro, nem que tenha que espetar minha égua com as esporas!
-    579313|00000000||Não sou muito de jogar conversa fora, mas é só me colocar em cima de um cavalo... pra eu sair voando por aí!
-    579337|00000000||Iiiii-ráááá!
-    579335|00000000||Mais rápido, Faia, mais rápido! Você vai ganhar uma maçã madura quando a gente acabar!
-    579311|00000000||V-v-v-v-v-vim c-c-c-c-c-correr, n-n-n-não b-b-b-b-bater p-p-p-p-papo.
-    579323|00000000||Montem seus cavalos!
-    579317|00000000||Fale com o Radko, é ele que organiza as corridas.
-    579326|00000000||Jááááá!
    1052513|00000000||Que coisa mais desonesta! Pare logo com isso!
    1052515|00000000||Dançando num andaime, eles foram longe demais.
    1052517|00000000||Eu acho bem divertido.
@@ -17850,6 +17733,9 @@
     427274|00000000||Acaba com o desgraçado!
     427276|00000000||Um banho de sangue...
     427278|00000000||Vou me mandar daqui!
+    526092|00000000||Os Vegelbuds sozinhos mantém um certo padrão em relação a recepções elegantes.
+    526094|00000000||Verdade. Outros alegam ser inapropriado em uma época de guerra...
+    526096|00000000||As coisas que as pessoas dizem para justificar sua própria mesquinhez...
     526106|00000000||Não dê ouvidos a esses demagogos. Radovid está ao lado da estabilidade.
     526108|00000000||Ele é um homem maravilhoso, claramente... Mas há algo em seus olhos...
     526110|00000000||Sim? O que há neles?
@@ -17858,10 +17744,6 @@
     526126|00000000||Ainda falas com ela? Depois daquele terrível casamento?
     526128|00000000||O pai dela e eu éramos amigos, veja bem. Eu conhecia o velho Grimstone muito bem.
     526130|00000000||E daí? Ele está morto, não está?
-    526092|00000000||Os Vegelbuds sozinhos mantém um certo padrão em relação a recepções elegantes.
-    526094|00000000||Verdade. Outros alegam ser inapropriado em uma época de guerra...
-    526096|00000000||As coisas que as pessoas dizem para justificar sua própria mesquinhez...
-   1049412|416c6de4||Gustav Roene
     497508|00000000||Acho que tapei todos os buracos de lá.
     497509|00000000||Certo. Prepara-te para fogos de artifício mágicos. Quando eu ativar o incenso, poderemos conversar um pouco.
     424413|00000000||Melhorou.
@@ -17912,7 +17794,7 @@
     390181|00000000||Só me diga onde encontrar o Johnny.
     390183|00000000||Johnny não é de verdade.
     419420|00000000||Vá embora. Vá embora.
-   1062591|00000000||[EN] Farewell.
+   1062591|00000000||Adeus.
    1062593|00000000||Hmm... Até mais.
     390165|00000000||Só tenho uma pergunta.
     390167|00000000||Não faça perguntas. Você é um forasteiro. Eles não podem falar com estranhos.
@@ -18161,7 +18043,7 @@
     480868|00000000||A corrente deve ter carregado o saco em direção ao mar. Vou nadar em direção ao porto. Você vem?
     480869|00000000||Talvez na próxima.
     499780|00000000||Você não sabe o que está perdendo. A água está até grossa de tanto óleo forte. Imagino que vá fazer muito bem à minha pele.
-    480852|00000000||Segundo o que o Kluhg disse, o pacote deve estar no fundo desta área. A menos que o coitado tenha se enganado. Ele anda meio esquecido desde o interrogatório com Menge. Aparentemente também criou um complexo de perseguição.
+    480852|00000000||A julgar por o que o Kluhg disse, o pacote deve estar no fundo desta área. A menos que o coitado tenha se enganado. Ele anda meio esquecido desde o interrogatório com Menge. Aparentemente também criou um complexo de perseguição.
    1071301|00000000||Temos que dar um momento para ela, deixar ela recuperar a calma.
    1072439|00000000||Depois que ela se acalmar, retornamos para Novigrad.
    1071303|00000000||Sim, senhor.
@@ -18226,13 +18108,13 @@
     462746|00000000||Não lhes perturba, mas os redanianos estão certos de que há algo na floresta e me contrataram para matar o que fosse.
     462752|00000000||Bem, eles estão enganados. Não é a primeira vez. Não há monstro aqui. O seu trabalho está feito.
    1051120|00000000||Não é um jogo. Homens morreram.
-   1051122|00000000||Soldados morreram. Soldados do Radovid, servindo ao homem que atormenta os Aen Seidhe do Mar Grande às Montanhas Azuis. Soldados que fizeram massacres, torturaram os nossos irmãos, estupraram as nossas irmãs. Não chorarei por eles.
+   1051122|00000000||Soldados morreram. Soldados do Radovid, servindo ao homem que atormenta os Aen Seidhe do Mar Grande às Montanhas Azuis. Soldados que fizeram massacres, torturaram os nossos irmãos, estupraram nossas irmãs. Não chorarei por eles.
    1051124|00000000||E não vamos parar de atacar os transportes. Precisamos comer, como você. Então, tem uma escolha. Vá embora agora e esqueça o que viu, ou morra.
     462726|00000000||Vatt'ghern? Estranho. Nenhum monstro nos perturba.
    1064304|00000000||E onde...?
    1071965|00000000||Hm. Estranho...
-   1050637|c80d681a||Lebre-da-neve
     352185|00000000||Parece desabitado.
+   1050637|c80d681a||Lebre-da-neve
     437759|00000000||Cadê o Eustácio? Era sempre ele que trazia os corpos.
     437761|00000000||É, ele trazia. Tem muito mais para trazer agora, então nos revezamos. O fogo do crematório queima noite e dia.
     437763|00000000||Ótimo. A cidade precisa de limpeza, com aço e fogo!
@@ -18654,7 +18536,6 @@
    1010188|00000000||Sobre o que queria conversar?
    1010189|00000000||Um carregamento de dinheiro, esse é o grande prêmio, você sabe. Não posso falar por você, mas eu prefiro que ele não caia nas mãos erradas.
    1014601|00000000||E a sorte não pode ser tão confiável. Francamente, alguém devia simplesmente pegar o dinheiro, subitamente, sabe, sem perturbar os outros.
-    346798|f3ef5430||Guarda dos Vegelbud
     467748|00000000||... você gosta de homens como eu. A cidade inteira está falando, então não adianta se fazer de difícil, docinho.
     467750|00000000||É Lady var Attre para você. E eu lhe recomendo que não me encha o saco, docinho, antes que eu conte ao meu pai.
     525183|00000000||Quero lutar contra o Campeão dos Campeões.
@@ -18710,7 +18591,7 @@
     580504|00000000||Ei, amigão.
     580506|00000000||Pelas tetas da aparição diurna! Você é mais maltrapilho que eu!
     577795|00000000||Preciso de um corte. Acha que consegue?
-   1066771|00000000||Bem-vindo, honrado cavalheiro. Lâminas, tesouras, facas, todas recém afiadas.
+   1066771|00000000||Bem-vindo, honrado cavalheiro. Lâminas, tesouras, facas, todas recém-afiadas.
    1066772|00000000||Eu quero um corte de cabelo.
    1066773|00000000||Passar bem.
     420961|a8d7dfc1||Caçador de bruxas
@@ -18863,7 +18744,7 @@
    1065911|00000000||Tem tido essas visões há muito?
    1065913|00000000||Desde que era pequeno. A minha mãe me levou na bruxa do vilarejo uma vez, e eu caí no caldeirão dela cheio de uma poção mágica.
    1065915|00000000||Aham. Sério?
-   1065917|00000000||Se for para falar a verdade, eu levou uma pedrada na nuca quando eu era pequeno e comecei a ver coisas.
+   1065917|00000000||Se for para falar a verdade, eu levei uma pedrada na nuca quando eu era pequeno e comecei a ver coisas.
     467715|00000000||Ah, está de volta.
     369930|00000000||Vamos. Prepare-se. É a sua vez.
     369932|00000000||Estou pronto. Ah, perdedores ganham algo?
@@ -19411,7 +19292,6 @@
    1019161|00000000||Hm, conseguiu reunir uma bela coleção de livros.
    1019163|00000000||Pomada comum... nada de especial.
    1019165|00000000||Não é sempre que se vê esse tipo de bugiganga em Velen...
-    569290|05f7bcd0||Ifrit
    1001091|00000000||Você está mentindo, e mal.
    1001098|00000000||Algo cheira estranho, e não estou falando dos cadáveres.
    1001106|00000000||Sou bisbilhoteiro. E muito.
@@ -19542,20 +19422,6 @@
    1005319|00000000||O que você está fazendo?
     381009|00000000||Tampa de prata... Combina com o fundo do cilindro que achei no esgoto...
     381011|00000000||Dijkstra! Venha aqui!
-    468514|00000000||Esse basilisco é interessante porque ele é igualzinho a um wyvern. Jovem, e mal alimentado além disso.
-    468516|00000000||Você diz bobagens, senhor... esse aqui é um basilisco de verdade!
-    468518|00000000||Claro, o que é que eu vou saber. Sou só um bruxo.
-    468520|00000000||Agora espera aí! Se esse não é um basilisco, mas um tal de wiivern, pelo que eu paguei? Devolva meu dinheiro, trapaceiro!
-    468525|00000000||Bravos soldados, não exagerem ou ele irá... cuidado!
-    468508|00000000||Isso é um wyvern, não um basilisco.
-    468534|00000000||Ora, ora... passei anos caçando monstros, mas ainda estou aprendendo.
-    468536|00000000||Vejam só, soldados! Até mesmo um bruxo foge do poderoso basilisco. Pois todas as feras o temem, até mesmo dragões... o que estou falando, crocodilos! E crocodilos são aterrorizantes, como quem quer que tenha visto um irá dizer!
-    468512|00000000||Até mais.
-    468510|00000000||Hã? De ovos de galo?
-    468528|00000000||Você disse, ovos de galo...
-    468530|00000000||E que galos eles são! Erguem seus traseiros como frangos jovens para outros galos! Os ovos postos por um galo desses devem ser chocados por cento e uma víboras venenosas! Aí o jovem basilisco bica pra sair...
-    465682|00000000||Basilisco interessante você tem aí.
-    468182|00000000||Claro que é interessante! Não vai ver uma fera que nem essa em lugar nenhum por aqui! Elas nascem só na regiões desertas de Zerrikânia... de ovos de galos!
     571680|00000000||*Funga* Hein?
     571682|00000000||*Espirra*
     571684|00000000||*Funga, pigarreia e cospe*
@@ -19725,15 +19591,6 @@
    1013366|00000000||Num lugar desses, Sasha será o suficiente.
    1013259|00000000||Ora, ora. Geralt de Rívia. E eu estava começando a pensar que esse torneio seria uma tremenda chatice.
    1013272|00000000||Temo que ganhar dinheiro de camponeses, brutamontes e falsos aristocratas não é uma grande fonte de satisfação pra mim.
-    579262|00000000||Podemos conversar?
-   1027615|00000000||Sim, mas só se for curto e grosso, porque não quero gastar minha saliva à toa.
-   1027617|00000000||Sou conhecido como Radko. Eu cuido das corridas de cavalo daqui. Você já deve ter ouvido falar. Quer tentar? É só dizer. Não quer? Dá o fora.
-    579272|00000000||Quero participar.
-    579273|00000000||Não precisa de cadastro. Você só precisa estar aqui ao pôr-do-sol. E traga ouro para apostar.
-    579270|00000000||Conte comigo.
-    579265|00000000||Talvez mais tarde.
-    579271|00000000||Talvez mais tarde.
-   1027621|00000000||E aí, como é que vai ser? Vai ou não vai correr?
     478331|00000000||Passos... Nada bom.
     478329|00000000||Ciri... o Menge está me seguindo... Ele roubou o tesouro... Ele está com o Dandelion...
     489051|00000000||Você precisa fugir"
@@ -19968,36 +19825,6 @@
    1004327|00000000||Bom, tragam o manco.
    1004328|00000000||Acho que o manco está dormindo.
    1004329|00000000||Bem, acho que você vai ter que ir lá acordar ele, não é?
-    479120|00000000||O que houve, senhora?
-    479122|00000000||Como se a guerra não fosse o suficiente, senhor, estou perdendo minhas galinhas! Como devo viver, hein?
-    479124|00000000||Conseguiu ver bem os ladrões?
-    479126|00000000||Que ladrões? São monstros que estão pegando minhas galinhas.
-    479128|00000000||Um ladrão ordinário eu consigo apanhar, mas bestas? O que eu deveria fazer?
-    479108|00000000||Eu posso te ajudar. Não de graça... mas você está com a idade avançada, então não pedirei muito.
-    479110|00000000||Besteira... "não pedirei muito," ele diz, mas pedirá meu fígado no fim. Bom, ninguém mais apareceu por aqui pra me ajudar...
-    479114|00000000||Minhas galinhas começaram a desaparecer na última semana. Sempre uma por vez, as malditas.
-    544130|00000000||Uma por vez? Interessante... monstros deixaram alguma marca?
-    544132|00000000||Sim, pegadas de lobos, mas... estranhas. Como se os lobos andassem nas patas traseiras.
-    544134|00000000||E não seja como aquele sabichão Yosip de Guarida de Baixo. Me fala que estou enganada. Mas poucos conhecem rastros de besta como eu. Meus homens eram os melhores caçadores em quilômetros...
-    544136|00000000||Entendo... Eu ainda gostaria de examinar as pegadas com meus olhos.
-    479116|00000000||Eu posso te ajudar.
-    479046|00000000||Fique de olho... os moleques provavelmente vão tentar de novo.
-    479048|00000000||Ah, estarei esperando por eles! Com um galho grosso pra bater bem nesses pirralhos!
-    479052|00000000||Calma... são só crianças.
-    479054|00000000||É, por enquanto. Mas quando crescerem, vão virar bandidos. Vai ver só!
-    479057|00000000||Tome cuidado... eles vão voltar.
-    479028|00000000||Adote-os, dê uma casa para eles. Então não vão mais roubar de você.
-    479030|00000000||Claro, mas eu vou estar alimentando os bichinhos! Não ganho nada disso.
-    479032|00000000||Mas... Acho que vou pensar sobre isso.
-    479058|00000000||Dê uma casa a eles. Provavelmente vão parar de roubar.
-    479070|00000000||Encontrei um grupo de moleques no bosque. Eles que estavam roubando suas galinhas.
-    479072|00000000||Ah, moleques, hein? Estavam montando nas costas de lobos?
-    479074|00000000||Nunca houve lobo algum aqui. Os moleques são apenas... Espertos...
-    479076|00000000||Se eles tiverem alguma coisa na cachola, agora vão passar a ficar longe do meu galinheiro!
-    479170|00000000||Encontrei os ladrões
-    479173|00000000||Cuide-se.
-    479171|00000000||Passar bem.
-    479155|00000000||Hã, bruxo? O que foi?
     543862|00000000||Ah é, onde tem uma aberração, não dá pra cuspir sem acertar outra!
     509549|00000000||*Suspiro* Ótimo.
     508860|00000000||Caçadores de bruxas levaram a esposa dele porque ela era uma parteira...
@@ -20585,9 +20412,6 @@
     447033|00000000||E de vez em quando um wyvern come um nekker, mas isso faz dele algo bom?
     447027|00000000||Bem, ele não é bonito de se ver, mas ele mata monstros, não mata?
     447023|00000000||Ah, aqui se arrasta um bruxo! Veja! O semblante parecido com um cadáver! Os olhos bestiais! Isso é magia que tornou um homem um cão!
-    579470|00000000||Legal, legal... parece que você sabe tanto de cavalos quanto de monstros. Tome seu ouro... e, se sentir um comichão de correr de novo, vem falar comigo.
-    579472|00000000||Os sentidos sobrenaturais dos bruxos... Você acabou de ficar pra trás de um zé-ninguém. Seu ouro já era... mas é só arranjar mais que arranjo revanche pra ti.
-   1032203|00000000||Quis pegar atalho, né, espertinho? Não toleramos esse tipo de merda. Saiu da pista, perdeu o ouro. Vai ter que recuperar ele no jogo se não quiser ficar no prejuízo. Vai ter que correr... e, desta vez, sem trapacear.
     490515|00000000||Agora é só fica escondido... e esperar...
    1065400|00000000||Atrás da porta... O melhor lugar para se esconder. Clássico.
    1065402|00000000||Até um homem cego me encontraria aqui...
@@ -20604,7 +20428,7 @@
    1075655|00000000||¡Dandelion! ¡Dandelion!
     581621|00000000||Apagou...! Não pode ser...!
     581623|00000000||Fogo Eterno do caralho? Porra nenhuma!
-   1077548|00000000||[EN] Dammit!
+   1077548|00000000||Droga!
    1075657|00000000||Prendam aquele homem!
     462934|00000000||É a última vez que falo... Ou você vem comigo, ou não vem.
     462930|00000000||Chega. Matem-no!
@@ -20718,18 +20542,18 @@
    1031736|00000000||Isto parece com uma armadura que para virotes?
    1034364|00000000||Compense o homem.
    1034367|00000000||Agora, vamos ver o que essa outra armadura faz.
-    426898|00000000||Se esse for o caso, aceito o convite.
-    426900|00000000||Venha comigo.
-    426904|00000000||Soa interessante.
-    426910|00000000||Não vou a lugar nenhum.
-    426914|00000000||Não sou ganancioso. Já venci o suficiente, obrigado.
-    426916|00000000||Você não está entendendo. Não é um pedido.
-    456056|00000000||Levem-no para cima!
-    426912|00000000||Está bem.
+    426902|00000000||Não tenho interesse.
     426906|00000000||Talvez em outro momento.
     426908|00000000||Deveria tentar. Poucos têm a honra de jogar com o proprietário e os seus conhecidos.
     440386|00000000||Recuse e alguém poderia se sentir esnobado, até mesmo insultado.
-    426902|00000000||Não tenho interesse.
+    426914|00000000||Não sou ganancioso. Já venci o suficiente, obrigado.
+    426916|00000000||Você não está entendendo. Não é um pedido.
+    456056|00000000||Levem-no para cima!
+    426910|00000000||Não vou a lugar nenhum.
+    426912|00000000||Está bem.
+    426898|00000000||Se esse for o caso, aceito o convite.
+    426900|00000000||Venha comigo.
+    426904|00000000||Soa interessante.
     367175|00000000||Estou com boas cartas.
     370163|00000000||Sorte no baralho, hoje.
     370165|00000000||Você poderia usar melhor essa sorte então.
@@ -21138,7 +20962,6 @@
     473817|00000000||Um livro-caixa... Pagamento por uma saca de grãos... Valor devido por carregamento de carvão... Hendrik estava se passando por comerciante.
     474743|00000000||Hm. O que é isto? Anotações entre os valores do livro-caixa... Esperto.
    1062114|00000000||Títulos interessantes...
-   1065907|637b0183||Líder renegado
    1017615|00000000||*Hrmpf* *Hrmpf* *Cospe* Puta que pariu! Obrigado, bruxo!
     491865|00000000||Ei, mestre bruxo! Temos um presente para você!
     491291|00000000||Mas por que ele iria querer?
@@ -21248,7 +21071,6 @@
     595021|00000000||Peguei uma máscara de raposa pra você.
    1000079|00000000||Ainda precisamos delas?
     595022|00000000||Ainda não.
-    583134|141198a8||Guarda de Novigrad
    1055097|1084682c||Camponês
     383487|00000000||Não, obrigado.
     383501|00000000||Não, obrigado. Não vim aqui para beber.
@@ -21391,23 +21213,7 @@
    1053268|00000000||O quê?! Onde foi que você viu essa árvore?! Fala logo!
    1053270|00000000||Na floresta, fora da cidade. A gente tava colhendo umas frutinhas, lembra? Você fez geleia com elas.
    1053272|00000000||Nunca mais é pra você ir lá, entendeu? Nunca mais.
-   1055407|06ae3071||Helma
    1054349|00000000||"Bruxo". Até o som da palavra inspira orgulho.
-   1069019|00000000||Abra! Eu ordeno que abras a porta!
-   1069022|00000000||Só precisavas pedir.
-   1069025|00000000||Aaaaaaargh!
-   1069027|00000000||Aaaaaaargh!
-   1069029|00000000||Isso acerta as contas...
-   1069032|00000000||E isso... foi de coração.
-   1069035|00000000||Perdoa-me... eu não pude me negar o prazer.
-   1064809|00000000||Rapazes... deixem a discussão para mais tarde.
-   1064811|00000000||Radovid está morto. Não importa pela mão de quem. Missão concluída. Agora vamos dar o fora daqui. Esse lugar vai estar lotado de redanianos em minutos.
-   1064813|00000000||Vamos.
-   1070662|00000000||Podemos discutir isso mais tarde.
-   1070664|00000000||Radovid está morto. Não importa quem o matou. Agora vamos dar o fora daqui. O lugar vai ficar cheio de redanianos em minutos.
-   1064805|00000000||Como ela...?! Onde?! Por quê?! Caralho, como foi que...?!
-   1064807|00000000||Bisbilhotou nossa conversa. Lá no armazém.
-   1069996|00000000||O quê?! E você não achou que valia a pena dizer isso?!
    1084584|00000000||Abra! Eu ordeno que abras a porta!
    1084587|00000000||Só precisavas pedir.
    1084590|00000000||Aaaaaaargh!
@@ -21415,9 +21221,28 @@
    1084594|00000000||Isso acerta as contas...
    1084597|00000000||E isso... foi de coração.
    1084600|00000000||Perdoa-me... eu não pude me negar o prazer.
+   1064805|00000000||Como ela...?! Onde?! Por quê?! Caralho, como foi que...?!
+   1064807|00000000||Bisbilhotou nossa conversa. Lá no armazém.
+   1069996|00000000||O quê?! E você não achou que valia a pena dizer isso?!
+   1064809|00000000||Rapazes... deixem a discussão para mais tarde.
+   1064811|00000000||Radovid está morto. Não importa pela mão de quem. Missão concluída. Agora vamos dar o fora daqui. Esse lugar vai estar lotado de redanianos em minutos.
+   1064813|00000000||Vamos.
+   1070662|00000000||Podemos discutir isso mais tarde.
+   1070664|00000000||Radovid está morto. Não importa quem o matou. Agora vamos dar o fora daqui. O lugar vai ficar cheio de redanianos em minutos.
+   1069019|00000000||Abra! Eu ordeno que abras a porta!
+   1069022|00000000||Só precisavas pedir.
+   1069025|00000000||Aaaaaaargh!
+   1069027|00000000||Aaaaaaargh!
+   1069029|00000000||Isso acerta as contas...
+   1069032|00000000||E isso... foi de coração.
+   1069035|00000000||Perdoa-me... eu não pude me negar o prazer.
     509796|d5e81a3d||Nathaniel Pastodi
    1001915|00000000||Ah, Geralt. Você sabe que eu sempre gostei de você, mas agora parece mais... Você ajudou minha filha.
    1001917|00000000||A filha de um amigo me pediu ajuda. Não tenho o hábito de virar as costas nessas situações.
+    158974|00000000||Queria conversar.
+   1001919|00000000||Estou te falando Geralt, depois de como você e Hjalmar derrotaram o Gigante de Gelo, eu te vejo como um dos nossos.
+   1001921|00000000||Eu pareço como alguém de Skellige?
+   1001923|00000000||Você tem o coração de um an Craite.
    1001991|00000000||Seu filho é Rei de Skellige. Parabéns.
    1001993|00000000||É uma grande honra para a dinastia Craite. É a primeira vez que um dos nossos senta no trono.
    1001995|00000000||Que tipo de rei, Hjalmar vai ser?
@@ -21474,10 +21299,6 @@
    1001983|00000000||Unir todos os clãs de Skellige é uma tarefa difícil. Ninguém nunca conseguiu, mas Cerys tem a cabeça dura.
    1001987|00000000||Pensando a longo prazo, então. Acha que ela vai conseguir?
    1001989|00000000||Ela tem um aliado poderoso, eu.
-   1001919|00000000||Estou te falando Geralt, depois de como você e Hjalmar derrotaram o Gigante de Gelo, eu te vejo como um dos nossos.
-   1001921|00000000||Eu pareço como alguém de Skellige?
-   1001923|00000000||Você tem o coração de um an Craite.
-    158974|00000000||Queria conversar.
     496860|00000000||Algo bastante enérgico pra um homem da sua idade...
     496861|00000000||Se tivesse me visto no auge! Eu fazia trinta milhas por dia, com a armadura completa!
     496866|00000000||Essa coisa de bruxo sua, é um trabalho bom?
@@ -22003,7 +21824,6 @@
    1032838|00000000||Nosso pai ficou doente com uma coisa estranha.
    1032840|00000000||Por isso, trouxemos esse incenso, que entregamos à chama do Fogo Eterno.
    1032842|00000000||Só ele tem o poder de curar pessoas com doenças terminais.
-   1049066|e9c03715||Magistrado Bolko
     480688|00000000||Não vou entrar pela frente. Tenho que achar outro jeito.
    1043766|00000000||Vou procurar entre os aldeões. Talvez encontre um corajoso suficiente para me ajudar.
     504040|00000000||Ali! Atrás dele! Mostrem pra ele por que é uma péssima ideia passar a perna no Mestre Claytop!
@@ -22015,8 +21835,6 @@
    1001211|00000000||Tente entrar por aqui.
    1001212|00000000||Mostre o caminho.
     416620|00000000||Nãão!... Não!... Não!...
-    580320|00000000||Ahã?
-    580322|00000000||Porcaria, porcaria.
     431715|00000000||Lembra da sua última conversa com o Dandelion?
     431669|00000000||Esses pacotes... Por algum acaso seriam baús de viagem? E essa garota poderia ser uma trovadora?
     431671|00000000||Sim, sim! Agora que lembro. Ela era uma artista viajante, vinha desde Kovir. Que família de talento, não é?
@@ -22046,6 +21864,8 @@
     431861|00000000||Desde que me tornei a Lady la Attard, há bailes, banquetes e outras... como se diz? Congregações. É tudo tão cansativo...
     431859|00000000||A baronesa não aprova a nossa ligação. Ela diz que o Dandelion é um imprestável vagabundo. Dá para imaginar?
     436404|00000000||Mas... talvez a irmã dele possa te ajudar? Ela é uma garota tão querida.
+    501616|00000000||Sabe onde posso encontrá-la, a irmã do Dandelion?
+    440477|00000000||Ah, não. Sempre que perguntava a Dandelion quando a visitaríamos, ele ficava em silêncio e mudava de assunto.
     431867|00000000||Você sabe que o Dandelion não tem uma irmã, certo?
     431721|00000000||Obrigado. Passar bem.
     431837|00000000||Obrigado, Molly.
@@ -22060,8 +21880,6 @@
     497970|00000000||O quê? Por que ele precisava de uma balsa?
     497971|00000000||Para me levar em um cruzeiro romântico pelos canais sob a luz do luar!
     501530|00000000||Disse que haveria morangos e vinho com bolhas e me cantaria árias... Mas... não o vejo desde então.
-    501616|00000000||Sabe onde posso encontrá-la, a irmã do Dandelion?
-    440477|00000000||Ah, não. Sempre que perguntava a Dandelion quando a visitaríamos, ele ficava em silêncio e mudava de assunto.
     431719|00000000||O Dandelion não tem uma irmã. Sabia disso, não?
     431853|00000000||Você sabe que o Dandelion não tem uma irmã, certo?
     431855|00000000||Mas é claro que tem! Eu mesma a vi! É engraçado que ela não se parece com ele. Para começar, ela é loira. Talvez tenham pais diferentes?
@@ -22077,6 +21895,8 @@
     437220|00000000||Não, eu que agradeço. Até a próxima.
     432220|00000000||Obrigado, mas voltarei só.
     432216|00000000||Ah, Geralt, aí estás. Vamos voltar juntos?
+    580320|00000000||Ahã?
+    580322|00000000||Porcaria, porcaria.
    1064491|00000000||Bruxo! Enfim. Agora que estamos todos presentes...
    1064493|00000000||Aham. E atolados na bosta. Por que você nos chamou? Radovid está no barco dele. Não vamos conseguir chegar nele lá, já te falei.
    1067585|00000000||Pare com isso. Eu tenho uma ideia de como atraí-lo para terra firme.
@@ -22346,6 +22166,7 @@
     353924|00000000||Eu lhe darei algumas ervas. Misture-as com água tirada da fonte à meia-noite, depois faça a vaca beber. Mas tem que limpar o celeiro antes. Todinho, está claro?
     414085|00000000||Obrigada, senhorita... muito obrigada...
     372682|00000000||Muito bem! Chega! Já tive o suficiente por hoje! Vai embora.
+   1113286|e5a3b8da||Viajante
    1055174|7d719e1d||Rato branco
    1049338|00000000||Um prazer fazer negócios com você. Mas na próxima...
    1049340|00000000||Tente ter mais cuidado quando despir os cadáveres. Um casaco de pelo de marta é difícil de vender quando tá está encharcado de sangue...
@@ -23012,7 +22833,6 @@
    1048646|00000000||Escavada, mas nenhuma ferramenta foi usada.
    1048649|00000000||Carniçais escavaram as sepulturas, aí o fedor da podridão atraiu os cães selvagens.
    1049744|00000000||Mas nem carniçais nem cães sequestram crianças.
-    595913|6b1268cb||Camponês
    1071544|00000000||Não vai fugir, Duque! É melhor parar!
    1071546|00000000||Nunca!
    1071598|00000000||Pare! Essa área é perigosa!
@@ -23148,16 +22968,12 @@
     420212|00000000||Deixe-me ajudá-la.
     420216|00000000||Verrugas e sarna? Parece perigoso. Tudo bem, eu te ajudo.
    1054313|00000000||O Fogo Eterno protege a gente, mas um bruxo pode ser muito útil, às vezes.
-    470299|00000000||Bem, agora deves ganhá-lo de volta!
-    510015|00000000||Então, mais uma rodada? Quando as cartas chegam até tua frente, deves aproveitar a oportunidade!
-    470245|00000000||Não, obrigado.
-    470254|00000000||Não estou a fim.
-    470256|00000000||Ha, ha, ha. Não é a hora pra ganhar?
-    470287|00000000||Bravo! A adorável senhora claramente lhe traz sorte, senhor. Pegue-a, fique com ela, nunca a deixe ir!
     470239|00000000||Ah, outro desafiante! Por favor, junte-se a nós! Sir Devanon acabou de liberar seu lugar na mesa. É bastante improvável que ele volte!
     509988|00000000||O que aconteceu com ele?
     509990|00000000||Alguns homens o levaram para impedir que ele se machuque.
     470241|00000000||Então? Vamos jogar?
+    470299|00000000||Bem, agora deves ganhá-lo de volta!
+    510015|00000000||Então, mais uma rodada? Quando as cartas chegam até tua frente, deves aproveitar a oportunidade!
     470293|00000000||Sir Marius Florin.
     510212|00000000||Dizem que ele nunca perde graças ao seu amuleto de osso de zeugl. Naturalmente, eu poderia te contar mais sobre isso, mas...
     470291|00000000||Seu próximo oponente, Conde Gomo Seeling.
@@ -23165,6 +22981,10 @@
     510178|00000000||Porém não o subestime. Homens desesperados podem ser perigosos.
     470289|00000000||Primeiro, irás encarar Margrave Vladimir de Cret.
     510173|00000000||Este homem pode se permitir perder. Então, é provável que ele seja descuidado.
+    470287|00000000||Bravo! A adorável senhora claramente lhe traz sorte, senhor. Pegue-a, fique com ela, nunca a deixe ir!
+    470254|00000000||Não estou a fim.
+    470256|00000000||Ha, ha, ha. Não é a hora pra ganhar?
+    470245|00000000||Não, obrigado.
     470243|00000000||Eu gostaria de jogar.
     470252|00000000||Vamos nessa.
    1030669|00000000||Guarda templária nunca para... Passa por um mago, lhe quebra a cara...
@@ -23519,6 +23339,77 @@
    1041432|00000000||Silêncio, Valete. Não estou falando com você.
    1015955|00000000||Tu cuspiu na honra de um homem de Skellige! Não vai se safar dessa!
    1016199|00000000||Por favor, não me bata!
+    427115|00000000||Os marujos tocavam isto em caso de névoa para avisar a tripulação que avistaram rochas.
+    427117|00000000||Isso já não me serve para nada.
+    427111|00000000||A corneta que afugenta as sereias. Talvez seja útil.
+   1072431|00000000||Hm, provavelmente planejava consertar.
+    522396|00000000||Acertaram o cara em cheio...
+    522404|00000000||Continuou indo... embora mal conseguisse andar.
+    524408|00000000||Cortaram ela todinha... Parece que são dois homens.
+    420192|00000000||O Massacre de Undvik. É assim que chamam. No caso, não exageraram.
+    421298|00000000||Vários rastros antigos... O gigante devia passar por aqui com frequência...
+    524132|00000000||Os carniceiros pegaram este.
+    524370|00000000||O gigante tentou entrar... Parece que desistiu.
+    422614|00000000||As sereias foram com tudo para cima deles... Devem ter derrubado eles da ponte.
+    416899|00000000||Rastros do gigante.
+    309574|00000000||"Túmulos marítimos". A forma como os moradores das ilhas enterram seus falecidos.
+    518018|00000000||O túnel cedeu...
+    524396|00000000||Corte preciso. A cabeça deve ter saído voando.
+   1072406|00000000||Os homens de Hjalmar. Sangraram até a morte tentando escapar. Imagino o que aconteceu com seus capangas...
+    309604|00000000||Indícios de uma batalha.
+    524140|00000000||Quebrou as costas. Como se tivesse caído de um lugar alto.
+    522462|00000000||O arqueiro finalmente o alcançou.
+    522521|00000000||Levou uma segunda flechada aqui. Desta vez, acertaram em cheio.
+    522522|00000000||Bom, onde é que aquele arqueiro se meteu?
+    522437|00000000||Hm. Até que ele chegou longe...
+    523591|00000000||Deve ser um dos homens do Hjalmar...
+    522268|00000000||Uma flecha em cada um... Ótima mira.
+    522269|00000000||Os nekkers retardaram o perseguidor.
+    522317|00000000||O arqueiro estava determinado a matá-lo... Por que será?
+    522316|00000000||Alguém usou isso para se proteger.
+    524212|00000000||O acampamento do Hjalmar. Eles foram atacados.
+    523532|00000000||Trolls... arrastaram-no para dentro da caverna. Será que ele ainda está vivo...?
+    309578|00000000||Alguém arrastou uma maca por aqui.
+    417761|00000000||O gigante desceu pela montanha, se meteu na vila... e derrubou o portão com um chute pelo lado de dentro.
+    522245|00000000||Atiraram nele enquanto fugia...
+    523546|00000000||Encurralado. Como a uma presa.
+    522216|00000000||Não voltou para buscar suas flechas.
+    447356|00000000||Cozinhou até morrer...
+    518382|00000000||Sangrou até morrer...
+    309606|00000000||Combateram o gigante aqui.
+    524412|00000000||Atiraram meia aljava nela.
+    517980|00000000||Lutou até seu triste fim.
+    517314|00000000||O gigante os perseguiu...
+    518017|00000000||O resto da tripulação seguiu em frente... Quantos será que sobraram?
+    518019|00000000||O Hjalmar perdeu muitos homens aqui.
+    309586|00000000||Vários homens... Arrastaram um barco para o norte.
+    524139|00000000||Vários ferimentos... Deve ter lutado um bom tempo.
+    420302|00000000||Preciso encontrar outro caminho.
+    413563|00000000||Vou tentar passar.
+    309580|00000000||O que será que causou a avalanche?
+    524144|00000000||Não conseguiu nem sacar a espada...
+    420033|00000000||Mostre-me uma despensa, que lhe mostrarei quem são os ratos.
+    522418|00000000||Perdeu sangue demais... não teria como ir muito mais longe.
+    309584|00000000||Clã an Craite.
+    524087|00000000||Hm... Tem alguma coisa cozinhando lá.
+    524136|00000000||Uma artéria rompida... Sangrou até morrer em questão de segundos.
+    309576|00000000||O emblema do clã an Craite. Deve ser a embarcação do Hjalmar.
+    310732|00000000||Malditos carniceiros.
+    522372|00000000||Hemorragia séria... É provável que estivesse perdendo as forças.
+    522373|00000000||Primeiro, foi atingido aqui... mas não parou.
+    417272|00000000||Eles correram em direção às cavernas...
+    417278|00000000||Sangue. Muito sangue.
+   1072363|00000000||Esses rastros são mais velhos. Alguém deixou o acampamento antes do ataque...
+    309592|00000000||Duas pessoas passaram por aqui... em momentos distintos.
+    524131|00000000||Garganta rasgada por garras. Sereias...
+    417280|00000000||O rastro de sangue vai até a caverna.
+    417274|00000000||Alguém tropeçou e caiu... mas conseguiu fugir.
+    309582|00000000||Empalado em uma árvore...
+    524409|00000000||Não conseguiram escapar desta vez. Duas sereias a menos.
+    524413|00000000||Cortaram-na em dois pedaços.
+    523664|00000000||O arqueiro também estava ferido.
+    522209|00000000||Aterrissou direto no covil de um nekker e retalhou a fera. Esses caras de Skellige são fortes.
+    524135|00000000||Lutou descalço. As sereias o pegaram de surpresa.
    1039808|00000000||Não foi nada mal, mas ainda temos trabalho a fazer. Não sei... mais fogo!
    1039809|00000000||Mas vamos parar por enquanto e descansar um pouco.
     501547|00000000||Para onde querem ir? Para o Esturjão Dourado ou para os Sete Gatos?
@@ -23828,7 +23719,6 @@
     363572|00000000||Hm. Conheço esse. O João, a Maria, as bruxas queimadas vivas. Bem adequado para Novigrad.
     363574|00000000||O rastro vai até o rio onde o esgoto desemboca... e acaba ali. Meu palpite é que colocaram o tesouro em um barco.
     376738|00000000||Sim, de fato parece improvável que tenha sido um carrinho puxado por ratos de esgoto. E como barcos não deixam rastros... resultado: não sabemos porra nenhuma.
-    465664|00000000||Observem bem, bravos guerreiros, o basilisco, rei das serpentes! Uma gota de seu veneno pode matar um exército, incluindo os cavalos!
    1042085|00000000||Espero que não nos encontremos novamente.
     481189|00000000||Corram, corram!
     370507|00000000||O que está olhando?! Se manda, seu merda!

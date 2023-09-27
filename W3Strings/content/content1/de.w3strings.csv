@@ -1,12 +1,41 @@
 ;meta[language=de]
 ; id      |key(hex)|key(str)| text
     301032|5a979acb||Krieger der Wilden Jagd
+    389411|2ec9fb68||Städter
+    590999|00000000||Worum ging es genau in dem Gespräch?
+    591007|00000000||Hab ich richtig gehört? Haben sie die Loge erwähnt?
+    591009|00000000||Ja, und später erzählte Philippa etwas über Wiederherstellung ihres Augenlichts ...
+    591011|00000000||Denkst du, dass sie ihr Augenlicht zurückgewonnen hat?
+    591014|00000000||Denkst du, Philippa hat es geschafft? Hat sie ihr Augenlicht zurückgewonnen?
+    591016|00000000||Das wäre leichtsinnig, aber nicht unmöglich. Sie sprachen davon, dass sie Gewebe einsetzen wollte, das auf Edelsteinen gewachsen war.
+    591018|00000000||Bisher ist das nur Vilgefortz gelungen. Falls sie's geschafft hat ... nun, dann sollten wir ihr gratulieren.
+    591012|00000000||Warum haben sie über die Loge gesprochen?
+    591019|00000000||Margarita erwähnte Ida und Francesca, dann Keira und Fringilla ...
+    591028|00000000||Ich bezweifle nicht, dass Philippa die Loge der Zauberinnen wieder ins Leben rufen möchte.
+    591033|00000000||Bei Triss waren sie sich nicht sicher, aber dich haben sie von vornherein ausgeschlossen ...
+    591035|00000000||Ich wäre nie bereit, mich erneut anzuschließen. Philippa denkt, dass nur die Loge die Interessen der Magier vertreten kann. Da bin ich anderer Meinung und handle lieber allein.
+    591036|00000000||Außerdem ist der Augenblick ungünstig. Die Loge wieder ins Leben zu rufen würde Radovid und den Kaiser verärgern. Sie befinden sich gerade an einem entscheidenden Punkt ihres Machtkampfs und würden das nicht begrüßen.
+    591010|00000000||Ich frage mich, was ich mit dem Kristall machen soll.
+    591045|00000000||Gut, behalte du den Kristall.
+    591048|00000000||Yen, ich hab mich entschieden. Ich gebe den Kristall Radovid.
+    591050|00000000||Du machst einen Fehler. Aber es ist deine Entscheidung.
+    591046|00000000||Ich werde den Kristall Radovid bringen.
+    563765|00000000||Ich habe einen Auftrag angenommen und möchte ihn so gut wie möglich beenden. Der Kristall geht an Radovid.
+    563767|00000000||Eine sehr schlechte Idee. Du würdest nicht nur Philippa schaden, sondern auch Triss, mir ...
+    563761|00000000||Ich muss mit Radovid sprechen.
+    563759|00000000||Ja, behalte ihn.
+    563763|00000000||Gut. Bei dir ist er sicherer.
+    591001|00000000||Hm ... Ich frag mich, was ich mit dem Kristall machen soll ...
+    591003|00000000||Er darf Radovid nicht in die Hände fallen, auf keinen Fall. Am besten lässt du ihn bei mir.
+    590998|00000000||Ich frage mich, was ich mit dem Kristall machen soll.
+    563787|00000000||Verdammt! Das ist alles, was ich rausholen konnte.
     519868|00000000||"Die Nordlandkriege: Mythen, Lügen und Propaganda." Historische Abhandlung von Restif de Montholon.
     519879|00000000||Einige Seiten fehlen.
     572808|00000000||Hexer Georg. Höchste Zeit, ihn zu übermalen.
     572811|00000000||Hexer zu Pferde haben sich nicht ausgezahlt.
     572812|00000000||Lange, einsame Winter bringen einen auf absurde Ideen.
     332443|002e3ae9||Buch
+   1031476|00000000||Langsam! Ihr Gauner!
    1012975|00000000||Keine Reaktion von Kammer und Rat?
    1012976|00000000||Du scherzt wohl? Sie haben Radovid aufgefordert, zu "intervenieren", sowie er sie ernannt hatte.
    1012978|00000000||Später erfuhr ich, dass Priester des Ewigen Feuers in den Ruinen der Akademie standen und dem Mob versprachen, dass diese Strafe alle Magier und Verräter erwarte.
@@ -34,6 +63,8 @@
     408100|00000000||Kann ihn ebenso gut liegen lassen. Triss wird den anderen schon weggeworfen haben.
     385303|00000000||[Liegenlassen.]
    1055413|f7a0c879||Nekker-Krieger
+   1018000|e223a10b||Jäger
+    465715|00000000||Es sieht so aus der Käfig wäre genauso falsch gewesen wie der Basilisk.
    1069326|e0351e50||Schatztruhe
     577727|00000000||Hast du wieder getrunken? Bewegst dich wie eine Wanderdüne.
     577729|00000000||Das nennst du starken Schlag?
@@ -41,16 +72,127 @@
     577733|00000000||Ich glaube, ich übe morgen lieber mit Ciri. Die ist eine größere Herausforderung.
     575089|00000000||Ich hab gehört, der Alte ist beim Unterrichten eingeschlafen.
     575093|00000000||Vielleicht zieht ein Sturm auf ...
+    470780|00000000||Ihr überlebt, indem ihr von anderen klaut - das kann nicht gutgehen. Ihr solltet jemanden um Hilfe bitten.
+    470787|00000000||Wer würde uns denn helfen? Oder uns aufnehmen?
+    544169|00000000||Sobald wir alle Hühner haben ... gehen wir tief in den Wald!
+    470791|00000000||Peter sagt, dass wir jagen, Tierfelle tragen und ein Zelt aus Blättern machen ...
+    544171|00000000||Und nie erwachsen werden!
+    544173|00000000||*Seufz* Hm. Das ist noch der wahrscheinlichste Teil ...
+    544175|00000000||Viel Glück dann. Und passt auf euch auf.
+    470768|00000000||Ihr solltet euch Hilfe suchen.
+    470739|00000000||Ich muss gehen.
+    470763|00000000||Ich sollte mich auf den Weg machen.
+    471842|00000000||Du sagst doch keinem, dass wir hier sind, oder?
+    471844|00000000||Mach ich nicht, aber seid vorsichtig.
+    470778|00000000||Ich muss jetzt los.
+    470766|00000000||Woher kommen die Wolfsspuren?
+    470770|00000000||Woher kommen die Wolfsspuren?
+    470772|00000000||Papa hat mal einen Wolf erlegt, und wir haben alle eine Glückspfote gekriegt. Die haben wir uns an die Schuhe gebunden.
+    470774|00000000||Denn Wölfe stehlen ja Hühner, nicht?
+    470776|00000000||Schon, aber normalerweise nicht einzeln.
+    470747|00000000||Was macht ihr im Wald? Wo sind eure Eltern?
+    470753|00000000||Die Soldaten haben sie gefangen.
+    470755|00000000||Wir sind über den Fluss, da haben sie uns entdeckt. Wir sind gerannt, aber Mama und Papa hatten das Gepäck ... Sie haben gesagt, wir sollen fliehen.
+    470759|00000000||Und seitdem lebt ihr alleine im Wald?
+    470761|00000000||Na klar. Wir finden viele Sachen und klauen ein paar ... Wir kommen irgendwie zurecht.
+    470737|00000000||Was macht ihr Kinder hier?
+    470733|00000000||Ich tu euch nichts.
+    471039|00000000||Was machst du dann hier? Hat dich der Hauptmann mit dem schwarzen Schnurrbart geschickt?
+    470735|00000000||Ich weiß nichts von einem Hauptmann. Ich bin den Spuren der hühnerklauenden Monstern nachgegangen.
+    471041|00000000||Pfff, so eine Aufregung wegen ein paar dürren Hühnern.
+    470741|00000000||Die alte Dame mochte sie sowieso nicht besonders, sie hat sie immer angeschrien. Und sie sieht wie eine Hexe aus.
+    470717|00000000||Vorsicht, Peter! Er hat ein Schwert!
+    471021|00000000||Ein Soldat!
+    470719|00000000||Der kriegt uns nicht lebend!
    1074151|00000000||Hmm ... Ich frag mich, ob Papageien die Bergluft gut tut ...
+   1222348|00000000||Reinald starb vor Jahrhunderten, aber seine Leiche ist nicht verwest. Liegt bestimmt am Miasma.
+   1222585|00000000||Seltsam. Hab noch nie so eine Rüstung gesehen. Und das Medaillon ... ein flacher Wolfskopf.
+   1222350|00000000||Ah ... Osmund hat endlich jemanden geschickt. Die Götter haben dieses verfluchte Tal wohl doch nicht vergessen. Und dir ... dir danke ich.
+   1222414|00000000||Ich kann nicht glauben, dass es vorbei ist. Manchmal ... wusste ich nicht, ob ich es bin oder das Miasma. Vielleicht beides. Vielleicht weder noch.
+   1222652|00000000||Schon gut. Aber es war nicht Osmund, der mich geschickt hat, sondern ein Priester des Ewigen Feuers.
+   1222354|00000000||Dein Medaillon ist anders.
+   1222386|00000000||Wer bist du eigentlich? Du hast ein Wolfsmedaillon, aber es sieht seltsam aus – anders als meins.
+   1222388|00000000||Seltsam, inwiefern? Ich habe es selbst entworfen und geschmiedet, wie alle Hexer in Kaer Morhen.
+   1222589|00000000||Beeindruckend. Ich hab meins nicht selbst gemacht. Hab's von meinem Mentor bekommen, so wie alle Hexer in Kaer Morhen ...
+   1222591|00000000||Muss zu deiner Zeit anders gewesen sein. Apropos ... wann bist du überhaupt hierhergekommen, in diese Mine?
+   1222593|00000000||Hmm ... Das war das Jahr neunhundertsiebzig ... Oder achtzig? Ich weiß es nicht mehr. Mein verdammtes Gedächtnis ist ... durcheinander.
+   1222595|00000000||Reinald, das war vor über dreihundert Jahren.
+   1222597|00000000||Dreihun...? Nein, nein, nach fünf Jahren hätten sie jemand anderen geschickt! Nach zehn! Osmund wäre gekommen!
+   1222599|00000000||Verflucht …
+   1222601|00000000||Tut mir leid.
+   1222356|00000000||Der Körper eines Hexers war für das Miasmal ideal.
+   1222390|00000000||Das Miasma hatte Glück mit dir. Durch deine Hexerimmunität konnte es von dir Besitz ergreifen, ohne deinen Körper zu zerstören.
+   1222392|00000000||Grausame Ironie ... Ich habe es mit aller Kraft an der Flucht gehindert. Bis ich uns in diesem Salzgefängnis eingesperrt habe.
+   1223237|00000000||Davor hat es von den Kranken Besitz ergriffen. Sie wurden verändert ... verdorben. In Tote verwandelt, die nicht starben – wild und aggressiv.
+   1222466|00000000||Die Stimmen, Fackeln ... Das warst nicht du, oder?
+   1222603|00000000||Das fragst du noch? Das Miasma wollte dich hierher locken. Ich war zu schwach, um dich überhaupt zu bemerken. Zumindest anfangs.
+   1222783|00000000||Warum haben sie dich in der Mine gefangen?
+   1222394|00000000||Was ist passiert, das du hier mit dem Miasma eingesperrt wurdest?
+   1222396|00000000||Die Kultisten beauftragten mich, es zu vertreiben, aber sobald sie dachten, ich könnte besessen sein, haben sie mich sofort aus Panik mit eingesperrt.
+   1223091|00000000||Sie hätten einen Exorzisten rufen können oder einen anderen Hexer – irgendwen!
+   1222454|00000000||Und die armen Seelen, deren Knochen die Mine füllen ... alle für das Ewige Feuer im Stich gelassen.
+   1222462|00000000||Hab ich gesehen.
+   1222380|00000000||Von mir aus. Ein paar Worte, nicht mehr.
+   1222382|00000000||Ich verstehe deinen Tonfall, aber mach dir keine Sorgen. Ich will ihm nichts Böses. Und selbst wenn, wärst du eh hier, um ihn zu beschützen.
+   1222689|00000000||Gut, ich hol dir den Priester.
+   1222360|00000000||Na gut. Ich rufe den Priester.
+   1222378|00000000||Nein, ich werde das Leben des Jungen nicht riskieren. Du warst zu lange hier eingesperrt, allein ... mit dem Miasma und dir selbst.
+   1222384|00000000||Ich habe alles geopfert, um anderen zu helfen, und du glaubst, jetzt verrate ich meine Überzeugungen für einen beschissenen Pfaffen?
+   1222458|00000000||Und du glaubst, dass dir ein paar Worte mit dem „beschissenen Pfaffen“ nach Jahrhunderten Frieden bringen?
+   1222460|00000000||Dann verbrenn ihn  – meinen Leichnam. Und spar dir den verdammten Scheiterhaufen.
+   1222701|00000000||Tut mir leid, dass es so endet.
+   1222703|00000000||Bringen wir es hinter uns.
+   1222362|00000000||Nein. Die Gefahr ist zu groß.
+   1222691|00000000||Mit dem Priester zu reden ändert nichts.
+   1222693|00000000||Warum? Willst du über Theologie diskutieren? Was sollen ein paar Worte ändern, Reinald?
+   1222695|00000000||Ich will ihm in die Augen blicken. Ihn fragen, wie seine Religion jemanden sieht, den sie zu Tod und Verdammnis verurteilt hat.
+   1222697|00000000||Dieser Junge hat nichts mit den Priestern zu tun, die dich damals eingesperrt haben.
+   1222699|00000000||Kannst du mir sie stattdessen bringen? Nein, natürlich nicht.
+   1222372|00000000||Du bist frei vom Einfluss des Geists, aber du wirkst ... aufgebracht. Ich muss sichergehen, dass du friedlich ruhst.
+   1222374|00000000||Damit ich nicht zu etwas werde, was wir jagen. Aber es gibt noch eine Angelegenheit, die ich regeln muss. Hilf mir und ich werde Frieden finden.
+   1222376|00000000||Ich könnte dich auch einäschern. Wie es in der Gilde Tradition ist.
+   1222464|00000000||Ich soll diese Welt voller Schmerz und Bedauern verlassen? Wünschst du mir wirklich so ein Schicksal, Wolfsbruder?
+   1222687|00000000||Du sagtest, ein Priester hat dich geschickt? Ich will mit ihm sprechen – für meinen Seelenfrieden.
+   1222368|00000000||Was jetzt?
+   1222352|00000000||Kannst du beweisen, dass du Reinald bist?
+   1222364|00000000||Das Miasma hat sich schon mal als Hexer ausgegeben. Wie soll ich wissen, ob du der echte Reinald bist.
+   1222366|00000000||Frag mich etwas, was nur ein Wolf wissen kann, damit das geklärt ist.
+   1222370|00000000||Bist du überhaupt aus der Wolfsschule? Deine Rüstung – klar sieht sie ähnlich aus, aber die Farbe, die Nieten, diese vertikalen Streifen ...
+   1222646|00000000||In Kaer Morhen landete jeder Ramsch bei mir. „Alles, was du anfasst, wird zu Gold“, hieß es.
+   1222648|00000000||An dieser Rüstung hab ich auf dem Pfad weiter gearbeitet. Sie sollte ein Prototyp für die Schule werden ... aber dann blieb mir keine Zeit mehr.
+   1222650|00000000||Ganz allein? Ohne Werkstatt? Du hast wohl den Beruf verfehlt. Wärst ein erfolgreicher Rüstungsschmied oder Schneider gewesen.
+   1223207|00000000||Osmund … Er hat immer eigene Ideen für Verbesserungen aufgeschrieben. Wir wollten sie bald in Kaer Morhen besprechen.
+   1222972|00000000||Ich will dir gern glauben. Wirklich … aber, hast du Beweise?
+   1222974|00000000||Linke Tasche an meinem Leichnam. Da findest du die Schemas. Nimm sie ruhig.
+    563535|5a32e0f6||Söldner
     516508|b0678eeb||Pferd
+   1027682|00000000||Tag, Grauhaar.
+    579355|00000000||Ah. Da bist du ja endlich. Die Regeln sind ganz einfach. Such dir aus, gegen wen du antreten willst, mach deinen Einsatz, reite nach Schwarzzweig und zurück. Der Erste ist der Sieger, der Zweite ein verfickter Niemand. Kapiert?
+   1027684|00000000||Gegen wen soll's gehen? Stotter-M-m-matko? Hans Eisenarsch? Oder den Schwarzen Bogdan?
+    579374|00000000||Hans Eisenarsch.
+    579383|00000000||Mal sehen, wie sich dieser Eisenarsch schlägt. Los, Hans.
+    579381|00000000||Ich hab mein halbes Leben auf dem Pferderücken verbracht. Die andere Hälfte auf Ponyrücken. Du kannst mich nicht schlagen.
+    579384|00000000||Diesmal reite ich gegen den Schwarzen Bogdan.
+    579386|00000000||Ich werd dir zeigen, wo's langgeht.
+   1027686|00000000||Los, setzen wir ... und dann auf zum Rennen.
+    579378|00000000||D-d-d-du w-w-w-wirst sch-sch-schon s-s-sehen, i-i-i... ach, drauf geschissen.
+    579376|00000000||Ich nehme Stotter-Matko.
+    579373|00000000||Stotter-Matko.
+    579364|00000000||Ich hab's mir überlegt. Ich will doch kein Rennen. Viel Spaß ohne mich, die Herren.
+   1021674|00000000||Ich hab's mir überlegt. Kein Rennen.
+    579375|00000000||Schwarzer Bogdan.
+    470650|00000000||Mögen sie in flachen Gräbern rotten, diese Schweinehunde! Schon wieder eins geklaut!
+   1223153|e3726633||Pestopfer
+   1073063|00000000||Danke, Hexer! Wenn du nach Maulbeertal reist, komm in meine Schmiede. Dort wartet zum Dank etwas auf dich.
+    572370|00018392||Erdgenius
     574625|00000000||Besser nicht.
     574640|00000000||Besser nicht. Vesemir hat gesagt, wenn doch, musst du eine Schüssel Nacktschnecken essen. Mit Salz.
     574641|00000000||*Lach* Iiiiiieh!
     576732|00000000||Genau. Also benimm dich lieber.
     576738|00000000||Na klar. Ist das eine Hexerschule oder ein Elfenbadehaus?
    1058679|00000000||Na klar. [TUTORIAL BEGINNEN.]
-   1058682|00000000||Diesmal nicht. Glaub mir, du solltest Vesemir nicht warten lassen.
    1058680|00000000||Diesmal nicht. [TUTORIAL ÜBERSPRINGEN]
+   1058682|00000000||Diesmal nicht. Glaub mir, du solltest Vesemir nicht warten lassen.
     574642|00000000||Na los. Wir üben unten mit den anderen.
     576736|00000000||Rennen wir über die Mauern?
     574633|00000000||Eine Entschuldigung reicht nicht.
@@ -98,6 +240,74 @@
    1075064|00000000||Ciri, Quen wird manchmal der Hexerschild genannt. Schau gut zu, dann siehst du gleich, warum.
    1075062|00000000||Siehst du? Ohne das Quen-Zeichen stünde ich jetzt in Flammen.
    1075060|00000000||Siehst du das, Ciri? Aard wirft alles und jeden aus der Balance, bringt alles aus dem Rhythmus.
+   1223186|00000000||Du, warte! Bleib stehen! Ich bin kein Kämpfer ... Hilfe! Hilfe!
+   1222157|00000000||Ganz ruhig. Ich ermorde keine Priester in Not.
+   1222223|00000000||Kein Priester – ein Diakon! Erst seit zwei Monaten aus dem Seminar raus! Auf meiner ersten Mission! Und einen Diakon auf seiner ersten Mission tötet man nicht!
+   1222225|00000000||Moment, deine Augen ... Diese gelbe Farbe, die Pupillen ... Darüber hab ich gelesen! Du bist ein Hexer?
+   1223121|00000000||Hm, da ich weder eine Katze noch eine Natter bin ...
+   1223123|00000000||Ringelnattern haben runde Pupillen, keine schlitzförmigen, aber ... ist ja auch egal! Bitte, wenn das Tor geöffnet wird, bricht die Pest über uns herein!
+   1222163|00000000||Hab letztens einem von euch geholfen.
+   1222177|00000000||Dann steht deine Kirche zum zweiten Mal in meiner Schuld. Ich habe letztens für einen Priester in der Nähe Leichen auf einem Schlachtfeld verbrannt.
+   1222217|00000000||Dann danke ich dir für dein großmütiges Herz. Das ist heutzutage selten.
+   1222452|00000000||Ja, genau ...
+   1222165|00000000||Einer von euch hat mich hintergangen.
+   1222219|00000000||Jemand aus deiner Kirche wollte mich letztens umbringen. Hier in der Nähe. War verärgert, dass ich seine Rolle im Fisstech-Handel aufgedeckt hatte. Warum soll ich dir trauen?
+   1222221|00000000||Ich verstehe. Das betrübt mich zutiefst. Ich werde für seine Buße beten. Selbst Diener der Kirche können mal Fehler begehen.
+   1222456|00000000||Oder zu maßlosen Untertreibungen neigen.
+   1222274|00000000||Ein Priester, der einen Mutanten um Hilfe bittet?
+   1222276|00000000||Du musst ja verzweifelt sein, wenn du einen Hexer brauchst ... Dachte, deine Kirche hasst uns Mutanten.
+   1222278|00000000||Ein verbreitetes Missverständnis in der Kirche, über das mein Mentor und ich viel diskutiert haben. Jeder kann in dieser Welt Gutes tun – auch Mutanten.
+   1222285|00000000||Hm ... Bist du wirklich ein Priester des Ewigen Feuers?
+   1222267|00000000||Gut, ich helfe dir. Und du wartest am besten hier ... mit meinem Geld.
+   1222269|00000000||Natürlich! In dieser Situation könnte ich das Geld kaum besser ausgeben.
+   1222472|00000000||Oh, der Schlüssel. Er öffnet das Tor zur Mine. Geh mit dem Ewigen Feuer, Hexer!
+   1222474|00000000||Klar, wenn’s dem Ewigen Feuer Spaß macht. Leb wohl.
+   1222241|00000000||Ich helfe dir.
+   1222261|00000000||Wenn hier wirklich ein Hexer gefragt ist, muss ich mehr wissen. Wie lange ist dieser „Geist“ schon in der Mine? Hat man ihn je gesehen?
+   1222280|00000000||Mir wurden nur Ausschnitte aus den Dokumenten gezeigt. Ich bin nicht so hochrangig. Aber ich glaube, er ist vor langer Zeit erschienen, nach den Opfern der ersten Epidemie.
+   1222282|00000000||Die Kirche hat einmal versucht, den Geist zu exorzieren, aber ... Ich wüsste selbst gern, wie das endete.
+   1223125|00000000||Bei den Details waren sie eher geizig, hm?
+   1223081|00000000||In der Tat. Unseren … Patienten zufolge hörte man in letzter Zeit Flüstern in der Nacht. Flehen um Gnade, aber geisterhaft, seltsam.
+   1223127|00000000||Es ist alles so beängstigend. Aber mehr weiß ich nicht.
+   1222259|00000000||Erzähl mir mehr über diesen Geist.
+   1222161|00000000||Ein andermal.
+   1222169|00000000||Hör zu, dafür habe ich jetzt keine Zeit. Vielleicht später.
+   1222171|00000000||Später? Ein „Später“ wird es vielleicht nicht geben ...
+   1222257|00000000||Das mache ich nicht.
+   1222243|00000000||Reden wir mal über meine Belohnung.
+   1222245|00000000||Bei so einer wichtigen Aufgabe sollte die Belohnung angemessen sein.
+   1222247|00000000||Wenn das, was ich dabei habe, als „angemessen“ zählt?
+   1222249|00000000||Oh nein. Das ist zu viel. Viel mehr als meine Besoldung von der Kirche.
+   1222251|00000000||Ein gerechtfertigter Preis, doch mehr, als ich habe.
+   1222255|00000000||Was?! Ich wollte hier Leben retten, nicht Ländereien kaufen.
+   1222253|00000000||Einverstanden. Ein Teil davon kommt aus meiner Tasche, doch ich denke, das ist es wert.
+   1222263|00000000||Hab diese Deserteure schon erledigt. Sind kein Problem mehr. Vorerst.
+   1222265|00000000||Wirklich? A-aber, wunderbar! Dennoch sollten wir nicht lange warten. Irgendwann wird wieder jemand in die Mine gehen ...
+   1222173|00000000||Also, was dein Problem angeht ...
+   1222175|00000000||Du bist zurückgekehrt! Hilfst du mir also doch?
+   1222159|00000000||Was ist passiert?
+   1222227|00000000||Na schön, aber eine Frage, Priester. Wie soll ein Hexer die Pest bekämpfen?
+   1222229|00000000||Nicht die Pest, sondern ihren Ursprung. Diese Mine, die Teufelsgrube, ist seit Jahrhunderten ein Ort für die Todkranken ... äh, eine isolierte Zuflucht für die Betroffenen.
+   1222469|00000000||„Ein Loch zum Sterben“. Genau das meinst du damit doch.
+   1222298|00000000||Ich bin nicht stolz darauf. Aber wie sonst soll man dem Scharlachroten Nebel widerstehen? Einer unheilbaren Pest, die sich wie ein Lauffeuer verbreitet?
+   1222308|00000000||Diese Methode ist zwar herzlos, aber vernünftig. Das ist leider wahr.
+   1222302|00000000||Ihr hattet keine Wahl, das steht fest.
+   1222300|00000000||Ihr habt diese Leute zu einem furchtbaren Tod verdammt.
+   1222304|00000000||Pff, dafür hab ich kein Verständnis. Einfach in ein Loch geworfen zu werden, um langsam zu verfaulen ... Was für ein bemitleidenswertes Schicksal.
+   1222306|00000000||Stattdessen sollen die Erkrankten ihre Familien, ihre Nachbarn anstecken? Dann würden sie auch sterben und andere mit ihnen. Die Kirche will die Gesunden schützen.
+   1222290|00000000||Hm, es ist, wie es ist. Aber, was geht mich das alles an?
+   1222785|00000000||In der Mine befindet sich eine Salzhöhle, in der es spukt. Alten Berichten zufolge lauert dort jemand ... oder etwas. Ein flüsternder Geist in der Nacht, der die Pest herbeiruft ...
+   1222292|00000000||Doch eine Gruppe Deserteure übernahm die Grube und schlachtete die Kranken ab. Ich sollte sie auffordern zu gehen. Wenn sie die Tore der Mine öffnen und hinabsteigen ...
+   1222294|00000000||Dann haben wir es nicht nur mit Catriona zu tun. Lass mich raten …. Auf deine Warnung haben die Deserteure nicht gehört?
+   1222296|00000000||Schön wär’s! Sie haben meine Leute ermordet. Nur ich bin entkommen. Bitte hilf mir. Ich kann dich bezahlen. Diese Banditen und dieser böse Geist müssen beseitigt werden.
+   1223059|00000000||Die Eskorte des Priesters. Schnitte und Stiche – Schwerter. Deserteure?
+   1222151|00000000||Was soll ich bloß tun ... Was ist mit den Überlebenden? Ewiges Feuer, steh mir bei ...
+   1222154|00000000||Gib mir ein Zeichen ... Erleuchte die alles verschlingende Dunkelheit!
+   1222271|00000000||Möge das Ewige Feuer deinen Weg erleuchten!
+   1223075|00000000||Rette uns vor dem Bösen, göttliche Flamme ...
+   1223077|00000000||Verbrenne diese ... diese Saat des Bösen und ... ähm ... erleuchte den Weg ... öh ...
+   1223079|00000000||Führe uns durch die Dunkelheit, oh Großes Licht ... Äh, Ewiges Licht ...
+    467274|40b3f5c5||Flüchtling
     574124|00000000||Wir haben sie verwöhnt.
     574263|00000000||Ich muss zugeben, dass wir sie verwöhnt haben.
     574265|00000000||"Wir" haben sie verwöhnt? Ich hab's schon immer gesagt: Ciri braucht eine harte Hand.
@@ -134,6 +344,33 @@
     478433|00000000||Na schön. Aber du kommst nicht rein. Kostenlos kannst du Huren durchs Fenster anglotzen. Das hier sind Künstler.
     478431|00000000||Nein, keine Karte.
     480265|00000000||Brauchst du eine Karte?
+    540303|00000000||Willst du schauen, vielleicht sogar kaufen?
+    540302|00000000||Meinen demütigen Gruß, Herr! Sieh dich nur um!
+    541747|00000000||Grüß dich.
+    540321|00000000||Meinen Gruß. Woher kommst du, wohin gehst du?
+    541748|00000000||Schwer zu sagen. Ich hab viel von der Welt gesehen und will noch mehr sehen.
+    540322|00000000||Genau wie ich, genau wie ich.
+    540386|00000000||Ich seh mich mal um, wenn's dir recht ist.
+    540296|00000000||Was hast du denn zu bieten?
+    540393|00000000||Nette Gegend. Das Geschäft läuft wohl gut?
+    540394|00000000||Es reisen viele Leute nach Norden, auch Flüchtlinge. Sie haben fast gar nichts, also helfe ich ihnen aus.
+    540395|00000000||Und handelst du auch mit Soldaten?
+    540396|00000000||Etwas Handel, etwas Bestechung und Erpressung dann und wann. Aber insgesamt bin ich zufrieden.
+    540298|00000000||Läuft das Geschäft?
+    540397|00000000||So nahe bei Novigrad ... Willst du nicht lieber innerhalb der Stadtmauern handeln?
+    540398|00000000||Die Gilden dort ... deren Mitglieder sprechen die Preise ab, damit kein Wettbewerb aufkommt.
+    546757|00000000||Ich hab hier ein solides Geschäft, niemand belästigt mich, keine Mauern sperren mich ein. Die Weite ist an sich schon herrlich, da wirst du mir zustimmen.
+    540299|00000000||Willst du nicht lieber in der Stadt handeln?
+    540385|00000000||Leb wohl.
+    546750|00000000||Wir sehen uns wieder, das weiß ich.
+    540300|00000000||Bis dann.
+    540297|00000000||Dies ist ein gefährlicher Ort.
+    540387|00000000||Nicht der beste Ort für einen fahrenden Händler.
+    540388|00000000||Profite und Risiko gehören zusammen. Der Krieg bringt manches Elend, das stimmt - aber das Leben geht weiter. Und wo es Leben gibt, gibt es Handel.
+    540389|00000000||Du riskierst für ein paar Münzen dein Leben?
+    540390|00000000||Geld, mein Freund, ist unwichtig. So sehr ich es versuche, ich kann nicht still sitzen. Also ziehe ich durch die Welt.
+    546754|00000000||Ich sehe neue Orte, spreche mit Unbekannten. Das gefällt mir, und das ist das Risiko wert.
+    540384|00000000||Haha. Berge bewegen sich nicht und treffen einander nie, aber Menschen ...
    1050491|7ef171cd||Hund der Wilden Jagd
     307008|103d66e3||Hase
     578399|00000000||Hast du gerade nichts Besseres zu tun?
@@ -152,8 +389,15 @@
    1071628|00000000||Ich möchte noch etwas bei dir bleiben.
    1071433|00000000||Weißt du, Ciri macht's sicher nichts aus, noch etwas zu warten.
    1071435|00000000||Das ist ungehörig. Und außerdem unvernünftig.
-    572370|00018392||Erdgenius
     515498|00307f1b||Ziege
+   1041861|4fe30dd7||Totengräber
+   1222813|00000000||Bitte ... hilf mir ...
+   1222321|00000000||Hm. Klingt schon glaubhaft.
+   1222323|00000000||Könnte aber auch eine Falle sein.
+   1223016|00000000||Eine Notiz?
+   1222319|00000000||Rezept für einen Trank ... mit Schöllkraut? Hmm ...
+   1222791|00000000||Sollte nach diesen Orten suchen.
+   1223162|00000000||Ich hab ein mieses Gefühl hier. Wer bist du?
    1047350|00000000||Hah!
    1047352|00000000||Woho, dem hast du's aber gegeben, Kleine!
    1075155|00000000||Ciri, komm jetzt runter!
@@ -169,6 +413,111 @@
     591841|00000000||Geralt!!!
    1075195|00000000||Lambe...
    1075197|00000000||Ciri …
+   1222670|00000000||Der Junge ist unschuldig.
+   1222672|00000000||Sieh ihn dir an. Ein halbes Kind. Was für Gräueltaten hat er begangen?
+   1223022|00000000||Die Strophe einer Hymne vergessen? Zur Fastenzeit was Süßes gegessen? Sein Verbrechen ist nur, Heuchlern geglaubt zu haben.
+   1222676|00000000||Dieser Junge behandelt Hexer wie Menschen. Das ist selten bei Priestern. Fast schon eine aussterbende Art.
+   1222678|00000000||N-nun, also, es ist ein weit verbreiteter Irrtum, dass die Kirche Mutanten verachtet. Unsere Schriften sagen, ähem: „Ehre und achte jedes Lebewesen.“
+   1223180|00000000||Aha. Ehrfurcht vor dem Leben, wie hier aufgezeigt?
+   1222668|00000000||Reinald hat recht.
+   1222658|00000000||Reinald hat recht. Die Teufelsgrube ist das Werk deiner Kirche. Das Ewige Feuer hat für so viel Leid gesorgt, dass ein Miasma daraus entstand, ein Pestgeist.
+   1222660|00000000||Hast du gehört, Pfaffe? Das ist eure Schuld! Du und alle, die diese verfluchte Flamme verehren!
+   1222662|00000000||Aber ich ... Hexer! Ich ... ich dachte, du hilfst mir!
+   1222865|00000000||Deine Leute haben oft genug versucht, mich umzubringen. Wie der Priester, der mit Fisstech handelte.
+   1222875|00000000||„Was soll ich nur tun? Wo soll ich nur nur hin?“ Hm, also geht es hier um dich? Du bist das Opfer hier?
+   1222883|00000000||Für manche Verbrechen gibt es keine Vergebung.
+   1222899|00000000||Dein Zorn ist verständlich. Das Ewige Feuer hat dich zerstört. Dich und so viele andere Tote hier.
+   1223155|00000000||Was getan wurde, sollte nicht vergessen oder verziehen werden.
+   1223001|00000000||Vergessen? N-niemals! Aber ... ich will hier ein Krankenhaus errichten. Helfen, so gut ich kann.
+   1223166|00000000||Wenn jemand Buße tun will ... oder etwas wiedergutmachen, kann man nicht ... also, man kann nicht ...
+   1222905|00000000||Was tue ich da? Jahrhundertelang widerstehe ich einem roten Miasma, aber ich schaffe es nicht, diesem Jungen zu vergeben? Als ob mich nur mein Hass bei Verstand gehalten hätte.
+   1222907|00000000||Vielleicht hat er das ja. Aber das ist vergangen. Jetzt kannst du dich anders entscheiden.
+   1222911|00000000||Dein Opfer war nicht umsonst. Die Kirche ist nicht mehr mein Zuhause. Ich werde dieses Grab in eine Zuflucht für die Lebenden verwandeln. Dir gewidmet, ehrenwerter Hexer.
+   1222913|00000000||Du hast hier etwas verändert, Reinald. Für ihn und viele andere.
+   1223006|00000000||Ha! Sicher wäre ein anderer Name besser. Ich bin kein Heiliger, kein Wundertäter – nur ein Hexer.
+   1223008|00000000||Und so soll es auch bleiben.
+   1223010|00000000||Es ist vorbei. Zeit zu gehen.
+   1222903|00000000||Lügen! Eigennützige Lügen, um sich zu retten! Niemand ändert sich.
+   1222948|00000000||Reinald, beruhige dich.
+   1222957|00000000||Aaaaaagh!
+   1223018|00000000||Scheiße. So viel zu Katharsis und Seelenfrieden. Verdammt, das hätte ich mir ja denken können.
+   1223164|00000000||Als Hexer gelebt und gestorben, als Rachegeist geendet.
+   1223020|00000000||Ich sollte die Leichen verbrennen und verschwinden.
+   1222895|00000000||Du brauchst keine Kirche, um Gutes zu tun. Das kannst du allein.
+   1222897|00000000||Ah, ja, du hast recht, Hexer. Ich gehe nicht nach Novigrad zurück. Ich werde diesen Ort in eine Zuflucht für die Erkrankten verwandeln, die den Namen auch verdient.
+   1222999|00000000||Schließlich war es mein Ziel, Menschen zu helfen, nicht der Kirche.
+   1222881|00000000||Du kannst auch ohne Kirche Gutes tun, Priester.
+   1222887|00000000||Was würdest du tun, Reinald?
+   1222889|00000000||Du bist ein Held, hast eine Katastrophe abgewendet. Zeit, dich mit deinem Schicksal abzufinden. Was willst du? Was brauchst du dafür?
+   1222891|00000000||Ha, ein Held ... Früher kümmerte mich das Wohl aller. Ich war jung und ehrgeizig – ich wollte für etwas kämpfen. Jetzt bin ich nur noch erschöpft.
+   1222997|00000000||Hab keine Kraft, keinen Wunsch zu philosophieren. Oder mich über die Rettung der Welt zu freuen. Das hat mir die Zeit alles genommen.
+   1223149|00000000||Dir mag die Kraft zu kämpfen fehlen, aber jemand anderem nicht.
+   1222893|00000000||Dein Glaube an andere ist bewundernswert. Aber sobald er weg ist und das Geld der Kirche genießt, erkaltet auch sein warmes Herz wieder. Wie bei allen von denen.
+   1222879|00000000||Na wunderbar. Eine Glaubenskrise. Ist das ein schwacher Moment oder ehrliche Reue? Was wirst du tun, jetzt da du die Wahrheit kennst?
+   1222680|00000000||Wie der Prior sagt ... Oh, verflixt! Mein Leben lang hab ich der Kirche jedes Wort geglaubt, aber jetzt? Jetzt wo ich von dieser Farce weiß?
+   1222682|00000000||Die Kirche muss die Schwachen schützen, Hoffnung schüren. Doch bei dem, was ich hier gesehen habe ... Was soll ich nur tun? Wo soll ich nur hin?
+   1222853|00000000||Du verallgemeinerst wohl gern. Also gibt es für jeden grausamen Priester auch einen gefühllosen Hexer?
+   1222855|00000000||Hexer sperren keine Kranken und Sterbenden ein. Auf wessen Seite stehst du?
+   1222666|00000000||Nicht alle Priester sind so grausam.
+   1223115|00000000||Hab einen Priester gefunden, der sich geopfert hat.
+   1222654|00000000||Hab die Leiche eines Priesters gefunden, der die Leute in Not hier nicht im Stich gelassen hat. Ist er auch ein Krimineller? Ein Heuchler?
+   1222656|00000000||Aha. Und wer hat ihn hier eingesperrt? Ghule, Trolle, das rote Miasma selbst? Nein, dieselbe verfluchte Kirche des Ewigen Drecksfeuers!
+   1222628|00000000||Ich verstehe das nicht. Wie konnten sie das zulassen? All die Leichen, das Blut ... so viel Blut. Das hätte ich nie geahnt.
+   1222630|00000000||Rei... Reinald? Ich habe gehört, wie furchtbar du gelitten hast. Ich wollte helfen ... aber wie kann man eine solche Tragödie wiedergutmachen? Ich bin nur ein einfacher Diakon ...
+   1222632|00000000||Diakon oder Hierarch, ihr seid alle gleich. Das Ewige Feuer kennt nur zwei Arten von Dienern – Kriminelle und Heuchler.
+   1222950|00000000||Beim Ewigen Feuer ... ich glaube, nein, ich weiß, was ich tun muss. Doch diese zwanzig Jahre abzuwerfen, alles, was ich über die Welt wusste ...
+   1222952|00000000||Hier ... Deine Belohnung. Danke für ... für deine Hilfe.
+   1222954|00000000||Du musst vielleicht nicht alles hinter dir lassen. In deinen Worten lag auch Weisheit.
+   1223012|00000000||Vielleicht ... Ja, vielleicht muss ich das wahre Licht des Ewigen Feuers noch finden. Nur irgendwo anders?
+   1223014|00000000||Leb wohl, ehemaliger Diakon. Viel Glück bei der Suche.
+   1222982|00000000||Alles Gute auf deinem Pfad, Hexer.
+   1222980|00000000||Danke, Hexer, im Namen des Ewigen Feuers. Und in meinem.
+   1222987|00000000||Wahres Licht findet ihr nicht im Reichtum des Hierarchen oder den Scheiterhaufen von Novigrad.
+   1222989|00000000||Das Ewige Feuer zerstört nicht die Bosheit um uns herum, sondern versucht, das Gute in uns zu nähren.
+   1223024|00000000||Wer in seinem Namen anderen Leid zufügt, dient nur der Dunkelheit.
+   1223026|00000000||Wer jene in Not im Stich lässt, darf sich nicht Diener des Lichts nennen.
+   1223201|00000000||Wenn ich Osmunds Notizen finde, die Reinald erwähnte, kann ich vielleicht die Rüstung vervollständigen.
+   1223232|00000000||Ich sollte mich nächstes Mal in Kaer Morhen danach umsehen.
+   1223203|00000000||Reinalds Schemas erklären so einiges zu den Notizen, die ich in Kaer Morhen gefunden habe.
+   1223234|00000000||Jetzt sollte ich die neue Rüstung herstellen können.
+   1000357|00000000||Wie's aussieht, wird Ciri deine Hilfe bald nicht mehr brauchen.
+   1000359|00000000||Und deine auch nicht.
+   1000361|00000000||Stimmt. Sie wird tun, was sie will ... und ich unterstütze sie. Was ist mit dir? Bist du bereit, sie ihr eigenes Leben leben zu lassen?
+   1000362|00000000||Ich werde sie zu nichts zwingen, wenn das deine Frage ist.
+   1000123|00000000||Bald wird Ciri deine Hilfe nicht mehr brauchen.
+   1000343|00000000||Nette Welt, die ihr Aen Elle da habt. Man könnte sich glatt in sie verlieben.
+   1000345|00000000||Sag mir ... Wie macht ihr das? Ihr sitzt da und spielt Flöte, malt brünftige Einhörner in prachtvollen Landschaften, baut reich verzierte Türme ...
+   1000347|00000000||Und dann bringt ihr uns um. Ohne mit der Wimper zu zucken. Ohne Schuldgefühle. Wie?
+   1000349|00000000||Fühlt ihr Menschen euch schuldig, wenn ihr Aen Seidhe tötet? Oder Zwerge? Oder Dryaden?
+   1000351|00000000||Wir sind gleich ... weil wir gleichermaßen fest an die Unterlegenheit anderer glauben.
+   1000121|00000000||Ziemlich nett, die Welt der Aen Elle.
+   1000353|00000000||Wahrscheinlich hältst du mich für einen primitiven Menschen ... aber warum töten wir Ge'els nicht einfach?
+   1000337|00000000||Weil es uns kurzfristig nichts nützt ... Und wir leben vielleicht nicht lange genug, um das Langfristige zu erleben.
+   1000339|00000000||Bei Ge'els geht es nicht um das, was er auf dem Schlachtfeld tut, sondern darüber hinaus. Er manipuliert. Er hält die Aen Elle in Schach.
+   1000341|00000000||Wenn man diesen Bauern vom Spielfeld nimmt, ändert sich das Ergebnis nicht. Lässt man ihn aber stehen, könnte man mit ihm vielleicht die Regeln ändern.
+   1000355|00000000||Du hast immer noch nicht erklärt, warum diese List notwendig ist und wir Ge'els nicht einfach töten können.
+   1000122|00000000||Warum Ge'els nicht einfach töten?
+   1000285|00000000||Erzähl mir mehr über Caranthir ... Kennst du ihn gut?
+   1000287|00000000||Ihn kennen? Ich habe ihn gezüchtet.
+   1000289|00000000||Du meinst wohl aufgezogen?
+   1000291|00000000||Nein, Geralt. Ich habe ihn lange vor seiner Geburt geformt.
+   1000293|00000000||Viele Jahrhunderte habe ich fähige Elfenpaare ... zusammengeführt, die Zeit und Raum beeinflussen konnten. Er ist das Ergebnis dieser Mühen. Caranthir, das goldene Kind.
+   1000295|00000000||Das goldene Kind, das zu einem Verbrecher wurde.
+    307750|00000000||Caranthir ... erzähl mir von ihm.
+   1000190|00000000||Finde Zireael ... Die Zeit wird knapp ...
+   1000192|00000000||Leb wohl.
+   1000125|00000000||Leb wohl.
+   1000124|00000000||Warum hilfst du Ciri?
+   1000196|00000000||Du hast Ciri eingesperrt, als du sie zum ersten Mal getroffen hast. Jetzt beschützt du sie ... und bekämpfst deinesgleichen. Ziemliche Kehrtwende.
+   1000198|00000000||Erstens hab ich sie nicht eingesperrt. Sie hat mich gefunden. Es war ihr Schicksal.
+   1000200|00000000||Ja, natürlich. Und zweitens? Warum hilfst du ihr?
+   1000202|00000000||Weil sie eine Gefahr ist. Eine tödliche.
+   1000204|00000000||Du siehst in ihr einen Menschen, einen Schützling, sogar eine Tochter. Ich sehe in ihr das Ältere Blut. Eine Kraft, die die Welt zerstören kann, die unter keinen Umständen in Eredins machtgierige Hände fallen darf.
+   1000206|00000000||Unsere Motive sind verschieden, ja. Und doch verfolgen wir dasselbe Ziel. Es wäre gut, wenn du mir vertraust ... oder es zumindest versuchst.
+   1000194|00000000||Ja, Geralt?
+   1051424|f11e033c||Waffenschmied
+   1031427|775f49f7||Schäfer
+   1028676|f0a697fc||Geist eines Hexers
    1055653|31c17949||Rabe
     591090|00000000||Vogelschädel ... in schwarzem Kristall. Warum glaube ich, dass er Yen gehört?
     577144|00000000||Du weißt, dass ich das nicht lustig finde.
@@ -178,6 +527,9 @@
     577169|00000000||Geh, sonst langweilt Vesemir sie mit den Radierungen zu Tode.
     577154|00000000||Na dann, bis später.
     577155|00000000||Mhm. Bis später.
+    595891|fbee3e23||Bäuerin
+    175619|ea15b01b||Tavernenwirt
+    451163|cc663b8e||Händler
     515166|00000000||Oh, ich hab ein Signal ...
     515165|00000000||Hier ist nichts ...
     515167|00000000||Das Signal wird stärker ...
@@ -186,6 +538,7 @@
    1065315|00000000||Aha ... Schon wärmer ... wärmer ... Heiß.
    1065341|00000000||Ach ... Blöde Katze. Kssschhht!
    1056125|00000000||Scheiße. Das Signal ist weg ...
+   1119611|28cfaa13||Lager
     452929|f373a1e0||Nebling
    1020642|00000000||Leos Grab ... ein sinnloser Tod. Hätte sich vermeiden lassen.
     573897|00000000||"Ghule und Alghule oder die bösen Bewohner der Nekropole" von Jan von Brugge. Spannender Titel, sterbenslangweiliges Buch.
@@ -194,6 +547,15 @@
     573903|00000000||Ciris Notizen. Ganz schön ... chaotisch.
    1045978|00000000||Hmm ... Hier wird schwer gebüffelt.
     573895|00000000||"Bruder Adalberts Bestiarium." Ein Klassiker.
+    590026|00000000||... Francesca zögert auch. Weder sie noch Ida möchten blindlings entscheiden.
+    590027|00000000||Sie werden nicht länger zögern, wenn wir Keira und Fringilla überzeugt haben.
+    590028|00000000||Fringilla steht auf unserer Seite. Sie stößt zu uns, sobald sie einige Angelegenheiten in Nilfgaard geregelt hat.
+    590029|00000000||Perfekt, dann ist nur noch Keira übrig. Leider weiß ich nicht, wo sie steckt.
+    590030|00000000||Was ist mit Yennefer und Triss?
+    590031|00000000||Yennefer hat nie der Loge angehört und Triss ... Wir werden sehen. Ich brauche mein Augenlicht zurück. Ich kann nach Novigrad zu Arthur de Vleester gehen. Triss soll sich auch in der Stadt aufhalten.
+    590032|00000000||Du bestehst drauf? Phil, entschuldige bitte, aber du wirst deine Augen nicht allein zurückgewinnen können.
+    589901|00000000||Vilgefortz hat's geschafft. Ich wende die gleiche Methode an ... Ich lasse Gewebe auf Edelsteinen wachsen.
+    589902|00000000||Das ist Wahnsinn ... brauchst ... Macht ... dich ...roße Gefahr ...
    1075855|00000000||Hm. Beeindruckendes Exemplar.
    1028457|00000000||Ist das der Katakan, mit dem du beauftragt warst?
    1028458|00000000||Mhm. Einen Monat Spurenlesen und Verfolgung, aber dann hab ich das Mistvieh drangekriegt.
@@ -238,6 +600,33 @@
    1056879|00000000||Holst du Ciri?
    1047896|00000000||Mhm. Vesemir will, dass sie trainiert.
    1047898|00000000||Ich komme zu euch, sobald ich den Tisch abgeräumt habe.
+   1222610|00000000||Beweise für die Grausamkeit deines Kults.
+   1222616|00000000||Kratzspuren auf dem Stein. Leichen von Menschen, die qualvoll verendeten. Ein rotes Miasma, das aus diesem Leiden entstand.
+   1222618|00000000||Priester, deine Brüder, sperrten die Kranken in die Mine. Ein grausames Todesurteil.
+   1222620|00000000||Nein ... Nein, du musst etwas missverstanden haben. Meine Brüder würden ihre Prinzipien nie so verraten. Sicherlich wollten sie nur helfen.
+   1222622|00000000||Zunächst ja, danach nicht mehr. Sie heuerten sogar einen Hexer an. Und versiegelten dann die Mine hinter ihm und den Kranken.
+   1222624|00000000||Nun, ich danke dir, auch wenn die schwarze Magie in diesen Höhlen deinem Urteilsvermögen geschadet hat. Ewiges Feuer, erhelle unseren Weg.
+   1222626|00000000||Sollte offensichtlich sein, aber Feuer zerstört immer. Das Licht ist eine Nebenwirkung.
+   1222765|00000000||Für die Leichen muss es eine andere Erklärung geben. Die Kirche wird die Wahrheit herausfinden.
+   1223137|00000000||Hier, deine Belohnung. Ich danke dir.
+   1222767|00000000||Leb wohl, Priester.
+   1222612|00000000||Menschliche Bosheit und ein rotes Miasma. Eins davon konnte ich besiegen.
+   1222614|00000000||Nun gut ... Danke, Hexer. Hier, deine Belohnung. Du hast Velen vor einem schrecklichen Schicksal bewahrt. Oh, und dein Name? Für unsere Chronik, bitte.
+   1222763|00000000||Reinald. Reinald war es, der Velen gerettet hat. Leb wohl, Priester.
+   1222608|00000000||Die Details sind nicht wichtig.
+   1222508|00000000||Die Sache ist geklärt. Die Mine ist sicher.
+   1222606|00000000||Oh, Dank sei dem Ewigen Feuer! Was für eine Erleichterung. Was hast du gefunden?
+    470706|00000000||Wolfsspuren, daneben kleine Fußspuren. Aber keine Kampfspuren ...
+    470708|00000000||Jetzt - nur noch kleine Fußspuren. Nicht gerade typisch für Werwölfe ... Falls es welche sind.
+    470711|00000000||Kleine Fußabdrücke. Interessant.
+    470704|00000000||Wolfsspuren, in der Tat ... aber ... Da stimmt doch was nicht ...
+    470895|00000000||Meine Hühner! Sie haben alle geklaut, diese Rotznasen!
+    470887|00000000||Soll ich ihnen noch mehr Körner hinstreuen, Oma?
+    470889|00000000||Nein, das reicht. Und nenn mich nicht Oma.
+    470891|00000000||Ja, gut, ich denk dran.
+    472440|00000000||Da, das gefleckte Huhn da ... Kann das meins sein, Oma?
+    470893|00000000||*Seufz* Ja, Kind. Kann es.
+    166469|d6a00ba0||Bauer
    1058289|0a09c08e||Sumpfschrulle
    1047842|00000000||Liebe kennt wohl keine Grenzen.
    1047848|00000000||Mhm. Liebe kennt keine Grenzen.
@@ -255,6 +644,25 @@
    1047834|00000000||Ohne dich hätte es noch eine mehr gegeben. Lena ... sie hat überlebt. Mit deinem Trank.
    1047836|00000000||Schön, dass einen Nilfgaarder ein einfaches Nordlingschicksal kümmert. Aber auch überraschend.
    1047838|00000000||An dem Abend, als sie angegriffen wurde ... war sie auf dem Weg zu mir. Wir waren im Wald bei der Garnison verabredet.
+    563532|0030c07e||Hans von Cidaris
+   1038368|00000000||Hm, mit diesen Zähnen beißt er einen Streitkolben durch. Vielleicht sogar eine nilfgaardische Plattenrüstung.
+   1038370|00000000||Wenn das ein Basilisk ist ... was ist dann mit seinem tödlichen Blick?
+   1038372|00000000||Ist der Käfig nicht zu klein? Die Bestie kann sich nicht mal umdrehen.
+   1038366|00000000||Sieht ein wenig wie Korporal Heribert aus, was?
+   1032201|00000000||Tunichtgute! Ihr macht die Pferde scheu!
+   1031788|00000000||Verdammt!
+    579319|00000000||Also schön, wer will noch teilnehmen?
+    579329|00000000||H-h-hüa!
+    579331|00000000||Au-au-aus d-dem W-W-Weg, i-ihr M-M-Maden! M-m-matko k-kommt!
+    579339|00000000||Hey, Hexer! Hat deine Mami dich nicht gewollt?
+    579341|00000000||Ich werde siegen, und wenn ich meinen Klepper auf die Sporen spießen muss!
+    579313|00000000||Bin kein großer Redner. Aber setz mich auf ein Pferd, und hossa! Sieh, wie ich flitze!
+    579337|00000000||Hüüü-aaah!
+    579335|00000000||Schneller, Basti, schneller! Du kriegst einen reifen Apfel, wenn das hier vorbei ist!
+    579311|00000000||B-b-b-bin z-zum R-R-Rennen h-hier, n-n-nicht z-zum Sch-Sch-Schwafeln.
+    579323|00000000||Aufsitzen!
+    579317|00000000||Sprich mit Radko. Der richtet die Rennen aus.
+    579326|00000000||Looos!
    1084448|103d846e||Reh
    1075506|e3976585||Speerspitze
     577747|00000000||Beim Zuschlagen nie den Ellbogen durchstrecken, junge Dame!
@@ -285,8 +693,8 @@
     576842|00000000||Nun, du lernst schnell und bist schlau … schlau, aber auch hinterlistig.
    1058686|00000000||Wir sollten mit den Grundlagen anfangen. Auch erfahrene Meister müssen die perfekt beherrschen ... und Ciri ist gerade mal eine Novizin.
    1058683|00000000||Fangen wir lieber mit den Grundlagen an. [KAMPF-TUTORIAL BEGINNEN.]
-   1058688|00000000||Legen wir mit dem Freistil-Training los. Wozu noch mal die Grundlagen durchkauen?
    1058684|00000000||Legen wir gleich mit dem Freistil-Training los. [TUTORIAL ÜBERSPRINGEN.]
+   1058688|00000000||Legen wir mit dem Freistil-Training los. Wozu noch mal die Grundlagen durchkauen?
     576835|00000000||Also, genug geredet. Geralt und ich. Lambert und Eskel. Ciri und die Attrappe!
     576837|00000000||Schon wieder?
     576838|00000000||Nörgel nicht, nimm dir ein Schwert!
@@ -301,10 +709,158 @@
     573556|00000000||..."durch Zeichnungen ähnlich des in Serrikanien heimischen Panthera tigris sowie durch die kranke Blässe des Gesichts."
     573557|00000000||Hmm. Du hast das Kapitel also gelesen. Du hättest trotzdem fragen müssen, ob ...
     576818|00000000||Aber du hast geschlafen, Onkel Vesemir.
+   1222329|00000000||Hm. Mein Medaillon vibriert. Mal nachsehen ...
+   1223097|00000000||Nicht da lang! Da findest du mich nicht.
+   1222402|00000000||Getrocknet. Eine Art hämorrhagisches Fieber.
+   1223063|00000000||Noch ein Hinweis. Hilft mir jemand?
+   1223110|00000000||Blockiert. Ich muss woanders lang.
+   1222845|00000000||Lass sie zurück! Verschwende keine Zeit! Du musst mich finden! Mich!
+   1223139|00000000||Gut, ja. Genau da lang.
+   1222976|00000000||In diesen Knochen steckt dunkle Energie. Der Geist vielleicht?
+   1222978|00000000||Alles deutet auf eine Pestmaid hin, aber ... Die Symptome ... Eher ein rotes Miasma, ja.
+   1223032|00000000||Ich muss mich vorbereiten.
+   1223174|00000000||Nein, hier nicht. Hier war ich schon.
+   1222966|00000000||Du willst mir gar nicht helfen! Verschwinde!
+   1223168|00000000||Hast du gehört? Kehr um!
+   1223170|00000000||Halt! Nicht da lang!
+   1222964|00000000||Du verschwendest bloß Zeit!
+   1222817|00000000||Ich ... ich höre dich. Findest du mich nicht?
+   1222819|00000000||Befreie mich, ich flehe dich an ...
+   1222815|00000000||Ich halte es nicht mehr aus! Schnell!
+   1223133|00000000||Ganz genau! Weiter unten!
+   1222335|00000000||Andere Hexer waren hier. Aus der Wolfsschule.
+   1222337|00000000||Das Zeichen der Wolfsschule. Alt. Sehr alt.
+   1222339|00000000||War Reinald ... ein Hexer?
+   1223135|00000000||Der rechte Gang, genau! Dort wirst du mich finden.
+   1223129|00000000||Ist das ... War jemand vor mir hier?
+   1223131|00000000||Eines der Wesen, die Reinald erwähnte.
+   1222843|00000000||Nein! Lass mich nicht allein! Bitte!
+   1222343|00000000||Muss was übersehen haben.
+   1222345|00000000||Hier muss doch was sein ...
+   1222341|00000000||Sollte mich mal umsehen.
+   1223069|00000000||Die Kranken haben sich gewehrt. Und wurden dafür bestraft.
+   1223071|00000000||In dem Stuhl wurden Leute gefoltert ... und dann irgendwie wieder zum Leben erweckt. Die muss ich bekämpft haben.
+   1223101|00000000||Verdammt.
+   1223103|00000000||Was zum ...?
+   1223099|00000000||Oh, selber buh, Geist.
+   1223065|00000000||Jemand wurde hier gefoltert.
+   1223067|00000000||Folterwerkzeuge. Ein Hammer, Blut ... Die haben Nägel in sie eingeschlagen.
+   1222398|00000000||Knochen, Blut, getrockneter Schleim. Opfer des Scharlachroten Nebels.
+   1222408|00000000||Ich muss das Miasma finden.
+   1222438|00000000||Kratzer von Fingernägeln an den Wänden ... Lebendig eingemauert.
+   1222488|00000000||Dreckskerle.
+   1223108|00000000||Sackgasse.
+   1223106|00000000||Mehr Blut.
+   1222404|00000000||Die Wände sind zerkratzt – menschliche Fingernägel. Die Kranken wollten hier raus.
+   1223909|00000000||Hm. Interessant.
+   1223911|00000000||Keiras Lampe dürfte hier sehr nützlich sein.
    1050632|002efcee||Hirsch
+    468514|00000000||Dieser Basilisk ist interessant, weil er genauso wie ein Wyvern aussieht. Wenn er jung ist und nicht gut genährt.
+    468516|00000000||Du sprichst wirres Zeug, Herr ... Das hier ist der echteste aller Basilisken!
+    468518|00000000||Richtig, was weiß ich schon. Ich bin ja nur ein Hexer.
+    468520|00000000||Moment mal! Wenn das ein Wyvern ist und kein Basilisk, wofür hab ich dann bezahlt? Gib mir mein Geld zurück, Betrüger!
+    468525|00000000||Tapfere Soldaten, nicht drängeln, sonst ... Vorsicht!
+    468508|00000000||Das ist ein Wyvern, kein Basilisk.
+    468534|00000000||Na schön ... Ich jage seit Jahren Monster, aber ich lerne immer wieder was Neues.
+    468536|00000000||Seht euch das an, Soldaten! Selbst ein Hexer läuft vor dem mächtigen Basilisken davon. Denn alle Bestien fürchten ihn, selbst Drachen ... und Krokodile! Und Krokodile sind wirklich furchterregend!
+    468512|00000000||Bis dann.
+    468510|00000000||Hm? Aus Hahneneiern?
+    468528|00000000||Hahneneier, sagst du ...
+    468530|00000000||Und was für Hähne! Recken ihre Hinterteile anderen Hähnen wie brütende Hennen entgegen! Eier von so einem Hahn müssen von hundertundeins giftigen Vipern ausgebrütet werden! Dann pickt sich der junge Basilisk den Weg ins Freie ...
+    465682|00000000||Einen interessanten Basilisken hast du da.
+    468182|00000000||Klar ist der interessant! So was bekommt man hier nicht zu sehen! Die schlüpfen nur in den Einöden Serrikaniens ... aus Eiern, die von Hähnen gelegt wurden!
+    579262|00000000||Können wir reden?
+   1027615|00000000||Ja, solange du dich kurz fasst. Ich plappere nicht zum Spaß.
+   1027617|00000000||Ich heiße Radko und richte hier die Pferderennen aus. Davon musst du gehört haben. Willst du mitmachen? Sag Bescheid. Willst du nicht? Schieb ab.
+    579272|00000000||Trag mich ein.
+    579273|00000000||Das ist nicht nötig, solange du bei Sonnenuntergang hier bist. Und Gold zum Wetten dabeihast.
+    579270|00000000||Trag mich ein.
+    579265|00000000||Vielleicht später.
+    579271|00000000||Vielleicht später.
+   1027621|00000000||Und? Nimmst du nun teil oder nicht?
+    479120|00000000||Was ist denn passiert?
+    479122|00000000||Als wäre der Krieg nicht genug, Herr. Ich verliere meine Hühner! Wovon soll ich leben, hm?
+    479124|00000000||Hast du die Diebe gesehen?
+    479126|00000000||Welche Diebe? Meine Hühner werden von Monstern gestohlen.
+    479128|00000000||Einen gewöhnlichen Dieb würde ich mir selbst zur Brust nehmen, aber Monster? Was kann ich da tun?
+    479108|00000000||Ich kann dir helfen. Nicht umsonst ... Aber du bist schon im fortgeschrittenen Alter, da nehm ich nicht viel.
+    479110|00000000||Papperlapapp ... "Nicht viel", sagst du jetzt, aber am Ende nimmst du's doch vom Lebendigen. Aber ich hab ja sonst niemanden ...
+    479114|00000000||Meine Hühner verschwinden seit etwa einer Woche. Eins nach dem anderen holen sich die Biester.
+    544130|00000000||Sie holen sie einzeln? Interessant ... Haben die Monster Spuren hinterlassen?
+    544132|00000000||Ja, Wolfsspuren ... nur ... Seltsam, es ist, als wären die Wölfe auf den Hinterläufen gegangen.
+    544134|00000000||Und sag mir nicht wie der Klugscheißer Josip aus Niederwirr, dass ich mich irre. So gut wie ich kennt sich sonst kaum einer mit Spuren aus ... Mein Mann war der beste Wilddieb weit und breit.
+    544136|00000000||Verstehe ... Ich würde mir die Spuren trotzdem gern selbst ansehen.
+    479116|00000000||Ich kann dir helfen.
+    479046|00000000||Bleib wachsam ... Sie versuchen es sicher wieder.
+    479048|00000000||Oh, die sollen nur kommen! Ich warte mit einem Knotenstock auf sie!
+    479052|00000000||Na, na ... Sie sind doch noch Kinder.
+    479054|00000000||Ja, noch. Da werden Banditen draus, wart's nur ab!
+    479057|00000000||Vorsicht ... Sie kommen zurück.
+    479028|00000000||Nimm sie doch bei dir auf. Dann beklauen sie dich nicht.
+    479030|00000000||Ja, aber dann muss ich sie ja durchfüttern! Davon hab ich nichts.
+    479032|00000000||Aber ... Tja, ich denk mal drüber nach.
+    479058|00000000||Lass sie bei dir wohnen. Dann stehlen sie nicht mehr.
+    479070|00000000||Ich habe ein paar Kinder im Wald gefunden. Die hatten deine Hühner gestohlen.
+    479072|00000000||Ah, Kinder, wie? Und sind sie auch auf Wölfen geritten?
+    479074|00000000||Da sind keine Wölfe. Die Kinder sind nur klug ...
+    479076|00000000||Wenn sie ein Gramm Verstand haben, bleiben sie jetzt weg von meinem Hühnerstall!
+    479170|00000000||Ich hab die Diebe gefunden.
+    479173|00000000||Also, bis dann.
+    479171|00000000||Leb wohl.
+    479155|00000000||Und, Hexer? Was gibt's?
    1064995|00000000||So viele Tote ... Dabei hat der Krieg gerade erst begonnen.
    1064997|00000000||Die Narbe ist gut verheilt ...
    1064993|00000000||Scheiße ... Der Bergpass ist schön wie eh und je.
+    579470|00000000||Hübsch, hübsch. Mit Pferden kennst du dich wohl so gut aus wie mit Monstern. Hier ist dein Gold ... und wenn du mal wieder Lust auf ein Rennen hast, komm vorbei.
+    579472|00000000||Übermenschliche Hexersinne ... damit prahlen sie ja immer. Aber du hast gegen einen stinknormalen Soldaten verloren. Dein Gold ist weg. Wenn du mehr hast, kannst du Revanche fordern.
+   1032203|00000000||Wolltest wohl eine Abkürzung nehmen, Klugscheißer? Wir erkennen Kacke dieser Art nicht an. Strecke verlassen - Gold weg. Du musst es zurückgewinnen, wenn du's wiedersehen willst. Bei einem ehrlichen Rennen.
+   1223268|00000000||Es wird wieder stärker! Zusammen ... Yrden und Aard!
+   1222331|00000000||Du wirst diese Mine nicht verlassen.
+   1222333|00000000||Doch, das werde ich. Du bist der schwächere Hexer.
+   1222580|00000000||Ich werde dich töten, deine Eingeweide durchdringen ... und deinen Geist!
+   1222443|00000000||Gib auf, Wolf! Du sehnst dich danach! Ich bin nicht die erste Geißel, die du auf die Welt loslässt!
+   1222582|00000000||Du hast schon einer Pestmaid gedient. Wozu es aufhalten!
+   1222574|00000000||Ich gebe dir den Trank nicht.
+   1222544|00000000||Keine schlechte List. Aber ich bin auch kein Trottel.
+   1222546|00000000||Verstehst du nicht? Es wird die Kontrolle übernehmen! Es wird dich töten und alle, die du …
+   1222548|00000000||Jetzt, vernichte ihn! Trink den Trank! Beende, was ich ... begonnen hab!
+   1222550|00000000||Das werde ich, Reinald. Halte noch etwas durch.
+   1222538|00000000||Hm. Na gut, nimm. Aber ich bin bereit, wenn es Ärger gibt.
+   1222540|00000000||Nein! Du darfst nicht ... die ganze Zeit ... nicht ich!
+   1222542|00000000||Gut, gut ...
+   1222572|00000000||Gut. Trink das.
+   1222560|00000000||Hab deine Briefe gefunden ... an Lambert. Schade, dass er dich verraten hat.
+   1223141|00000000||Gegen die Kraft von zwei Hexern hätte das Miasma nicht viel ausrichten können.
+   1222562|00000000||Ich war töricht ... vor langer Zeit. Lambert, diese Schlange, hatte mein Vertrauen nie verdient.
+   1222564|00000000||Das erzähl ich ihm, wenn ich ihn das nächste Mal sehe. Dein Freund hieß übrigens Osmund, soweit ich weiß.
+   1222566|00000000||Verspottest du mich?!
+   1222568|00000000||Nein. Aber ich denke nicht, dass ich gerade mit Reinald spreche.
+   1222578|00000000||[Reinald testen.] Hab deine Briefe an ... Lambert gefunden.
+   1222576|00000000||Weißt du, wie lange du schon hier bist?
+   1222552|00000000||Du bist schon 'ne Weile hier. Weißt du, wie lange?
+   1222554|00000000||Jahre ... Jahrzehnte. Die Zeit steht hier still. Nichts verändert sich, Bruder. Nichts.
+   1222556|00000000||Viel länger, Reinald. Nach so viel Zeit müsstest du längst tot sein, verstehst du? Das Einzige, was deinen Körper am „Leben“ erhält, ist das Miasma.
+   1222558|00000000||Ein weiterer Grund, das hier zu beenden. Der Trank ... bitte.
+   1222523|00000000||Reinald?!
+   1222525|00000000||Ja, aber ... meine Kraft ... lässt nach. Der Geist ... übernimmt.
+   1223085|00000000||Ich habe uns hier drin eingesperrt... Das Salz … verstehst du? … Es kann nicht entkommen.
+   1223087|00000000||Hm, du hast ihn in eine apotropäische Kammer aus Salz gelockt – perfekt für einen Geist. Clever.
+   1222527|00000000||Aber ... ich spüre ihn noch in mir. Schon so lange ... Hilf mir, Bruder. Gib mir den Trank ... um ihn loszuwerden.
+   1222519|00000000||Du bist endlich hier. Nach all den Jahren ...
+   1223083|00000000||Der Geist ... ein Miasma ... Es ist noch hier.
+   1222521|00000000||Argh. Es übernimmt ... die Kontrolle ... Schnell!
+   1222445|00000000||Mit deiner Stärke werde ich alles auslöschen, was sich mir in den Weg stellt!
+   1222447|00000000||Alle werden in Blut ertrinken und an ihren Säften ersticken. Und das verdanken sie dir!
+   1222480|00000000||Fang uns mit Yrden ... Dann stoß es aus meinem Körper aus!
+   1222484|00000000||Erst Yrden, dann Aard.
+   1222486|00000000||Und jetzt noch das Miasma.
+   1223113|00000000||Die Stalagmiten ... Zerstöre sie und befreie mich.
+   1223192|00000000||Nein, was tust du da? Lass mich nicht hier zurück! Bitte!
+   1223195|00000000||Hahahaha. Endlich. Ich danke dir, Hexer.
+   1223213|00000000||Du bist nicht Reinald.
+   1223215|00000000||Wie aufmerksam. Wenn auch etwas langsam.
+   1223217|00000000||Aaaaaah! Ich hab keine Kontrolle! Schnell! Du musst es ... Aaah!
+   1223260|00000000||Vertreib ihn mit Aard, damit er ... nicht regeneriert!
    1055682|b224b6d2||Verschlinger
    1056946|00000000||Flieder und Stachelbeeren natürlich ...
    1058292|00000000||Geralt ... Hör auf, in meinen Pflegemitteln zu kramen.
@@ -315,6 +871,30 @@
    1056944|00000000||Nur Silber ...
    1058285|00000000||Gold passt nicht zu meinem Teint. Das solltest du wissen.
    1031654|00000000||Der alte Signalturm. Bald nur noch ein Haufen Trümmer.
+    583134|141198a8||Novigrader Wache
+   1055407|06ae3071||Helma
     578398|00000000||Wir reden später.
+   1049066|e9c03715||Dorfältester Bolko
+   1028788|00000000||Ich will mit dir Karten spielen. Gwint, genauer gesagt.
+   1086465|00000000||Gwint - spielen wir.
+    421005|00000000||Leb wohl.
+    420993|00000000||Leb wohl.
+    420991|00000000||Zeige mir deine Waren.
+    421003|00000000||Zeig mir deine Waren.
+    421001|00000000||Wie wär's mit 'nem Krug Apfelwein? Oder etwas Quark? Meine Vorräte sind nicht riesig, aber umso köstlicher.
+    595913|6b1268cb||Bauer
+   1028793|00000000||Hast du Lust auf eine Partie Gwint?
+   1086497|00000000||Gwint - spielst du mit?
+    422120|00000000||Bis dann.
+    422116|00000000||Wiedersehen.
+    422114|00000000||Zeig mir deine Waren.
+    422118|00000000||Was hast du denn da?
+    422112|00000000||Willkommen, willkommen!
     432590|d184d9f7||Erscheinung
+    465664|00000000||Krieger, erfreut euch am Anblick des Basilisken ... des Königs der Schlangen! Ein Tropfen von seinem Gift tötet eine ganze Armee, sogar mit Pferden!
     170811|72cb8ee5||Ertrunkener
+   1222807|00000000||„Zwergenbrand, Schöllkraut, Inhalt der Truhe.“ Meint sicher diese Truhe.
+   1222809|00000000||Gut, dass ich Schöllkraut habe. Die anderen Zutaten scheinen in Ordnung zu sein.
+   1222811|00000000||Offenbar Reinalds eigene Rezeptur. Mal ausprobieren.
+   1222410|00000000||Etwas stimmt nicht. Das Medaillon brodelt. Und dieser Gestank ...
+   1222412|00000000||Verdammt! Was für Abschaum?!

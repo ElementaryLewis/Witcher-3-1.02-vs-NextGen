@@ -43,6 +43,7 @@
     422235|00000000||Ég veled.
     422231|00000000||Mutasd az árudat.
     422237|00000000||Mutasd, mid van eladó.
+    432590|d184d9f7||Lidérc
    1037370|00000000||Most mi a faszt csináljak?! He??! Mit?!
    1037368|00000000||Ötven… évnyi… munka… füstbe ment!
     594289|00000000||Hívom az anyukám!
@@ -98,7 +99,7 @@
    1017042|00000000||Hú! Leégett a bőre. Tudom, hogy nehéz megállapítani, de… Lehet, hogy ez ő?
    1017043|00000000||Hát… Bastien nagydarab, széles vállú. Ez kisebbnek tűnik. De lehet, hogy a tűz miatt…
    1026176|00000000||Nem… Nem is hasonlít rá.
-    477733|3fbb3904||Nilfgaardi hivatalnok
+    477733|3fbb3904||Nilfgaardi tiszt
    1058038|00000000||Hé, mi van veled?
    1058040|00000000||Hallasz?
    1058036|00000000||Megint részeg vagy, mi?
@@ -427,6 +428,7 @@
     549288|00000000||Ennyit a kimaradásról… Gyerünk, menjünk.
    1056370|00000000||Yennefer, hogyan…
    1056372|00000000||Holnap beszélünk erről, rendben? Az audiencia után.
+   1075783|00000000||{Goc'hel!!! } [Vigyázz!!!]
    1056355|00000000||Tudod… Mostanában veled álmodtam.
    1056357|00000000||Téged ismerve biztos valami malackodás volt.
    1056359|00000000||Csak az elején. De aztán…
@@ -1815,7 +1817,6 @@
    1049563|00000000||*Ásííít*
    1049561|00000000||{Va caelm! } [Nyugodj meg!]
    1049567|00000000||{Glaeddyv vort. } [Tedd le a kardod.]
-    432590|d184d9f7||Lidérc
    1043949|00000000||Tűnj el!
    1043951|00000000||Tűnj a szemem elől!
    1043953|00000000||Arrrgh!

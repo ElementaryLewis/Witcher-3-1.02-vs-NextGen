@@ -30,6 +30,7 @@
     546798|00000000||Me la caverò, non temere.
    1076925|00000000||Ves... Non essere arrabbiata.
     572659|00000000||Non è saggio avere qui il regicida.
+    301032|5a979acb||Guerriero della Caccia Selvaggia
     307008|103d66e3||Lepre
     550116|00000000||Non mi interessa.
     550129|00000000||A dire il vero, non lo so e non mi interessa.
@@ -139,10 +140,38 @@
     536186|00000000||Dovrei prenderti a calci per non avere chiesto il mio aiuto. Ma mi sono sfogata con Roche lungo la strada.
    1061994|00000000||Lieto di rivederti.
    1061992|00000000||Diamine, è bello rivederti.
+   1123852|00000000||No... Andiamo, ci stanno aspettando.
+   1123849|00000000||No, andiamo.
+   1123855|00000000||Se per te non è un problema...
+   1123858|00000000||Sembra che l'abbia presa bene.
+   1123860|00000000||O vuole farcelo credere.
+   1123863|00000000||Non vengo qui da un bel pezzo, e tu?
+   1123865|00000000||Da troppo tempo. Com'è la stanza degli ospiti? È cambiato qualcosa?
+   1123867|00000000||Uhm. Il letto, ehm... si è rotto.
+   1123869|00000000||Nessun problema, dormiremo per terra. Stenderemo a terra una pelle e...
+   1123872|00000000||Ehm...
+   1123874|00000000||Meglio andare.
+   1123850|00000000||Solo se davvero non c'è problema...
+   1123843|00000000||Volete stare un momento da soli?
+   1123846|00000000||Mi spiace, non volevamo...
+   1123848|00000000||Lo so, è una domanda semplice... Vuoi che stiamo un po' da soli?
     462992|00000000||Lieto di vederti, Triss.
     522511|00000000||Ringrazia Yennefer. È stata lei a invitarmi.
     549984|00000000||Avremo tempo di parlarne più tardi. Ora dobbiamo discutere.
-    522515|00000000||Fa freddo. Vieni, dobbiamo riunirci in consiglio.
+   1123878|00000000||Io... Forse dovrei lasciarvi un attimo soli.
+   1123880|00000000||Triss, per favore...
+   1123882|00000000||No, no. Avrete sentito moltissimo la mancanza l'uno dell'altra. Un minuto di ritardo non farà male a nessuno.
+   1123889|00000000||D'accordo. Un minuto e poi andiamo, va bene?
+   1123892|00000000||Uhm. È un po' imbarazzante...
+   1123894|00000000||Quarantacinque secondi.
+   1123896|00000000||Eh?
+   1123898|00000000||Mancano quarantacinque secondi. Be', adesso trenta. Poi attaccheremo la Caccia Selvaggia. Quindi usate bene i secondi rimasti.
+   1123901|00000000||Yen, ti adoro.
+   1123903|00000000||Uhm, nessun punto per la creatività. Per la schiettezza, però...
+   1123906|00000000||È ora di andare.
+   1123884|00000000||D'accordo. Un minuto e poi andiamo.
+   1123883|00000000||No. Meglio andare tutti ora.
+   1123886|00000000||No, meglio andare. Ci stanno aspettando.
     522544|00000000||Non restiamo qui.
     520117|00000000||Già. Vieni, riuniamo il consiglio.
    1061996|00000000||Il tempo stringe. La Caccia Selvaggia arriverà presto.
@@ -158,6 +187,7 @@
     522486|00000000||Non sei per niente cambiato. Tutti voi... Siete esattamente come vi ricordavo.
     522488|00000000||Che c'è?
     549628|00000000||Sorellina...
+    522515|00000000||Fa freddo. Vieni, dobbiamo riunirci in consiglio.
    1061976|00000000||Yen, conosci la Caccia Selvaggia meglio di chiunque altro. Puoi parlarci della magia che usano?
    1061978|00000000||I loro navigatori aprono dei portali, squarci che potremmo contrastare con del dimeritium o con la nostra magia.
    1061980|00000000||Inoltre, evocano il gelo presente nel vuoto attraverso cui viaggiano.
@@ -180,7 +210,7 @@
     562205|00000000||Hanno ucciso Lambert!
     532946|00000000||Lambert, dannazione! Resta con noi!
    1074915|00000000||Come sta andando nei boschi?
-   1074919|00000000||Abbiamo chiuso due squarci, poi abbiamo incontrato uno dei tenenti della Caccia.
+   1074919|00000000||Abbiamo chiuso due portali, poi abbiamo incontrato uno dei tenenti della Caccia.
    1076913|00000000||Pronto per la battaglia?
     465103|00000000||Sono nato pronto.
    1076911|00000000||Quando inizierà... Non fare l'eroe, d'accordo?
@@ -259,15 +289,15 @@
     524776|00000000||Ni'l ceim siaar!
     524777|00000000||Trooid'i!
     524775|00000000||Hoinne heets!
+    524355|00000000||Non avrebbe senso aspettare: la guerra con gli Oscuri incombe.
+    524360|00000000||Puoi contare su di me, lo sai? Sempre.
+    524362|00000000||Lo so. Grazie.
+    565580|00000000||Addio.
+    566135|00000000||Addio, Hjalmar.
     524358|00000000||Il dovere chiama.
     524369|00000000||Ma ricorda, Geralt: hai un re per amico. In pochi possono vantarsi di questo.
     524471|00000000||Se tu, o Ciri, o tu e Ciri avrete bisogno di aiuto, le porte di Kaer Trolde saranno sempre aperte per voi.
     565588|00000000||Grazie, lo terrò a mente.
-    565580|00000000||Addio.
-    566135|00000000||Addio, Hjalmar.
-    524355|00000000||Non avrebbe senso aspettare: la guerra con gli Oscuri incombe.
-    524360|00000000||Puoi contare su di me, lo sai? Sempre.
-    524362|00000000||Lo so. Grazie.
     565582|00000000||Tornerai dritto a Skellige?
     565579|00000000||Tornerai dritto a Skellige?
     321589|00000000||Eccoti.
@@ -406,41 +436,6 @@
     520110|00000000||Pensavi che ci saremmo persi questa occasione? Per nulla al mondo!
     520111|00000000||Peccato che Vigi non sia qui.
     541556|00000000||Lieto di vederti!
-   1000357|00000000||A quanto pare, presto Ciri non avrà più bisogno del tuo aiuto.
-   1000359|00000000||Né del tuo.
-   1000361|00000000||Vero. Farà ciò che vorrà, e io la appoggerò. E tu? Sei pronto a lasciare che viva la sua vita?
-   1000362|00000000||Non la costringerò a fare nulla, se è questo che vuoi sapere.
-   1000123|00000000||Presto Ciri non avrà più bisogno del tuo aiuto.
-   1000343|00000000||Affascinante il mondo di voi Aen Elle. Ci si può innamorare di un posto così.
-   1000345|00000000||Dimmi, come ci riuscite? Suonate il flauto, dipingete unicorni al galoppo in paesaggi da sogno, costruite torri finemente decorate...
-   1000347|00000000||E poi ci massacrate senza battere ciglio. Senza il minimo senso di colpa. Come fate?
-   1000349|00000000||Voi umani vi sentite in colpa quando uccidete gli elfi Aen Seidhe? O i nani? O le driadi?
-   1000351|00000000||Siamo uguali. Entrambi crediamo di essere migliori di tutti gli altri.
-   1000121|00000000||Affascinante il mondo degli Aen Elle.
-   1000353|00000000||Forse mi accuserai di essere un umano primitivo, ma perché non uccidiamo Ge'els e basta?
-   1000337|00000000||Perché nel breve termine non otterremmo nulla, e potremmo non arrivare vivi al lungo termine.
-   1000339|00000000||Quanto a Ge'els, non è tanto ciò che fa in battaglia, ma il resto. Manipola, mente, tiene in scacco gli Aen Elle.
-   1000341|00000000||Se togli la sua pedina dalla scacchiera, non cambierà il risultato della partita. Se la tieni in gioco, potrai usarla per cambiare le regole.
-   1000355|00000000||Ancora non mi hai spiegato perché indugiamo in questo sotterfugio anziché uccidere Ge'els.
-   1000122|00000000||Perché non uccidere Ge'els e basta?
-   1000285|00000000||Parlami un po' di Caranthir... Lo conosci bene?
-   1000287|00000000||Se lo conosco? L'ho allevato.
-   1000289|00000000||Intendi che l'hai cresciuto?
-   1000291|00000000||No, Geralt. Gli ho dato forma prima ancora che nascesse.
-   1000293|00000000||Per secoli ho fatto accoppiare elfi che manifestavano abilità speciali, quelli in grado di controllare spazio e tempo. Lui è il risultato dei miei sforzi. Caranthir era il mio pupillo.
-   1000295|00000000||Ma il pupillo si è trasformato in un criminale.
-    307750|00000000||Parlami di Caranthir.
-   1000192|00000000||Arrivederci.
-   1000125|00000000||Arrivederci.
-   1000124|00000000||Perché aiuti Ciri?
-   1000196|00000000||Quando hai incontrato Ciri per la prima volta, l'hai imprigionata. Ora la proteggi e combatti contro la tua stessa razza. Un bel cambio di fronte.
-   1000198|00000000||Per prima cosa, non l'ho imprigionata. Lei ha trovato me, è stato il suo destino.
-   1000200|00000000||Sì, certo... passiamo alla "seconda cosa". Perché la stai aiutando?
-   1000202|00000000||Perché è in pericolo di morte.
-   1000204|00000000||Tu vedi in lei una donna, una protetta, persino una figlia. Io vedo invece il Sangue Ancestrale. Un potere che può distruggere il mondo. Un potere che va tenuto lontano dalle avide mani di Eredin a qualsiasi costo.
-   1000206|00000000||Siamo spinti da motivazioni diverse, ma abbiamo lo stesso obiettivo. Faresti bene a fidarti di me, o almeno a provarci.
-   1000194|00000000||Sì, Geralt?
-   1000190|00000000||Trova Zireael... Il tempo stringe...
     531907|00000000||Questo l'avrà ucciso?
     531908|00000000||Imlerith? Ne dubito.
    1063050|00000000||L'incantesimo di Yennefer sta svanendo! La bufera ha quasi raggiunto la fortezza!
@@ -790,6 +785,28 @@
    1003649|00000000||Non ne dubito... ma Avallac'h sostiene che non abbiano le conoscenze né il talento necessari. Lui ha impiegato quattro secoli per imparare, e nonostante ciò può solo cercare e varcare portali preesistenti.
    1003653|00000000||Io vado dove voglio, quando voglio.
    1003636|00000000||Com'è viaggiare tra i mondi?
+   1127038|00000000||Il segno che ho sul viso... si nota? È brutto a vedersi?
+   1127041|00000000||Tsk... Un po'. Ma non dargli troppo peso.
+   1127044|00000000||Sai, la gente mi fissava la cicatrice sulla guancia, sempre. Mi innervosiva molto.
+   1127046|00000000||E...?
+   1127048|00000000||Ho iniziato a tenere la camicia un po' più sbottonata. Problema risolto.
+   1127049|00000000||Il segno che ho in faccia, è brutto?
+   1127066|00000000||Non so se hai sentito, ma quando tutto sarà finito andrò a Kovir.
+   1127068|00000000||Con Triss.
+   1127070|00000000||Mmmh...
+   1127072|00000000||È una parte del mondo interessante, magari otterrai un contratto per qualche rara bestia delle nevi. Un barbegazi, o un vendigo... O un, ehm, un amarok.
+   1127074|00000000||Oppure finalmente appenderò le spade al chiodo.
+   1127076|00000000||Stai così bene con lei?
+   1127078|00000000||Meglio.
+   1127063|00000000||Quando tutto sarà finito, pensavo di andare a Kovir.
+   1127081|00000000||Mi servirebbe un consiglio... Riguardo a Yennefer.
+   1127083|00000000||Bene, dimmi.
+   1127086|00000000||Ecco, vedi... Vorrei portarla da qualche parte, quando sarà tutto finito. Qualche posto suggestivo, bello, pianeggiante, dove poter riposare.
+   1127088|00000000||Sei stata praticamente ovunque, e conosci benissimo Yen. Qualche idea? Io pensavo a Spalla, oppure a Dol Blathanna...
+   1127090|00000000||Portala nella prima locanda che troverai sulla strada, paga per un mese, chiudi la porta e incidi "Non disturbare".
+   1127092|00000000||Uhm, tutto qui?
+   1127094|00000000||Tutto qui.
+   1127064|00000000||Mi serve un consiglio, riguarda Yennefer.
    1003655|00000000||Eredin ti ha localizzato più volte... Come funziona?
    1003573|00000000||Quando passo da un mondo all'altro creo una specie di onda d'urto. Chiunque sia addestrato può percepirla... O almeno, così dice Avallac'h. Lui può farlo.
    1003666|00000000||Quindi, non dovresti usare il tuo potere...
@@ -827,6 +844,8 @@
     562490|00000000||Devo affrontarli.
     529468|00000000||Dovevi restare dentro!
     529686|00000000||Resisti, Triss!
+   1077974|00000000||Gvaed, gvaed uncym, cym’morth!
+   1077970|00000000||{Emitting a mind-piercing, ear-bleed inducing shriek.}
    1077942|00000000||Geralt... Dov'è? Dobbiamo...
    1077944|00000000||Argh!
    1077946|00000000||Non mi sfuggirai questa volta!
@@ -843,8 +862,6 @@
    1077968|00000000||Noooooooooooooo!
    1077938|00000000||Vieni!
    1077940|00000000||Ah!
-   1077974|00000000||Gvaed, gvaed uncym, cym’morth!
-   1077970|00000000||{Emitting a mind-piercing, ear-bleed inducing shriek.}
    1076935|00000000||Dannazione... Ero meno nervoso prima dello scontro con il drago.
     465190|00000000||Solo tu e io sappiamo che cosa stiamo per affrontare.
     465188|00000000||Li hai sconfitti una volta. Puoi farlo di nuovo.
@@ -896,7 +913,7 @@
     546415|00000000||Geralt, tienili lontani!
     546416|00000000||Devo formare un Circolo della Vitalità!
     575674|00000000||Azar! Anatha! Vellos!
-   1075126|00000000||Il muro sta reggendo! E Hjalmar ha chiuso lo squarcio!
+   1075126|00000000||Il muro sta reggendo! E Hjalmar ha chiuso il portale!
    1075307|00000000||Ottimo lavoro!
     466366|00000000||Il muro li ha fermati!
    1063022|00000000||Dannati cani. Avremmo dovuto riparare quel muro!
@@ -936,7 +953,7 @@
    1076891|00000000||Calmati. Il fattore sorpresa è fondamentale. Resta nascosto e dai a Triss la possibilità di mostrargli cosa sa fare. Poi li attaccheremo.
     543267|00000000||A proposito, ottimo lavoro con queste bombe.
     543268|00000000||Mira con precisione ai portali. Ho finito il dimeritium.
-   1062886|00000000||Yen ha detto di lanciare il Segno Yrden sulle crepe. Dice che potrebbe chiuderle.
+   1062886|00000000||Yen ha detto di lanciare il Segno Yrden sui portali. Dice che potrebbe chiuderli.
     520505|00000000||Quando sarà tutto finito, dovrò ringraziare Yen. Quell'incantesimo è fenomenale.
     561945|00000000||Anche l'invisibilità.
     520508|00000000||I segugi possono fiutarti, perciò non avvicinarti troppo. E tornerai visibile una volta iniziato lo scontro. Ricordatelo.

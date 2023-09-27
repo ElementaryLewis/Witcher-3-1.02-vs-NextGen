@@ -75,7 +75,6 @@
    1070242|00000000||I wonder which of the brave jarls sent that tub against the imperial fleet.
    1070244|00000000||The Skelligers are not so thick. I wager it was a merchant vessel.
     458124|f759b018||Nilfgaardian Soldier
-    166754|68667754||Nilfgaardian Soldier
     557209|00000000||I'd rather verify it now. Otherwise, I'll continue to wonder if he's not about to stab me in the back.
     557211|00000000||You've something of a persecution complex.
     556435|00000000||You needn't come with us.
@@ -200,7 +199,6 @@
    1070238|00000000||I heard Gerben got the dog watch again.
    1070240|00000000||Yes. Rotting in the bilge should teach him not to mock the commander.
    1070405|00000000||True. Though you must admit de Vijver smells a bit like a wet ferret.
-    301010|00330572||Mage
    1065050|00000000||Child of the Elder Blood, do you come to surrender?
    1064980|00000000||No. I come to kill you.
     539896|00000000||Look, Geralt.
@@ -321,6 +319,7 @@
     543823|00000000||Sometimes you really get on my nerves, you know?
     539963|00000000||Herbs. Not very incriminating.
     539964|00000000||Wait. We've not examined the entire laboratory yet.
+    166754|68667754||Nilfgaardian Soldier
     534001|00000000||Cemrae ei iache!
     534002|00000000||Rhane, toriad rhane!
     534003|00000000||Gvaethe ei arwyneb!
@@ -704,11 +703,11 @@
     555025|00000000||She's an adult, Geralt. You keep forgetting. She can decide for herself.
     555071|00000000||So, onward?
     554808|00000000||This deal with Emhyr - it's sorceress business. Pick someone else's brain.
-    554819|00000000||So she's not told you anything.? What about personal plans?
+    554819|00000000||So she's not told you anything? What about personal plans?
     554983|00000000||Has she mentioned anything? A possible advisory position? Beside a young, promising empress?
     554797|00000000||Deal with Emhyr is sorceress business.
     554880|00000000||You'll get to work with the emperor. Not excited?
-    554882|00000000||No. I-I mean, yes, of course I am. Thus far the Lodge has oft banked on weak rulers. It's been one of our biggest mistakes
+    554882|00000000||No. I-I mean, yes, of course I am. Thus far the Lodge has oft banked on weak rulers. It's been one of our biggest mistakes.
     554908|00000000||Hm… So you're impressed Emhyr keeps his mages on a short leash.
     554950|00000000||Yennefer's wise to keep you out of politics. I'm afraid you'd not realize which way the wind was blowing if you pissed straight into it.
     554821|00000000||Not excited to work with the emperor?
@@ -767,54 +766,45 @@
     559413|00000000||Good luck.
     559416|00000000||Plan's missing one important element - what about Ciri?
     559420|00000000||Zireael will wait. At a safe distance from the Naglfar.
-    560345|00000000||Well, can't say you're wrong there.
-    560268|00000000||Can't say you're wrong.
+    560269|00000000||Got no right to give her orders.
     560271|00000000||Don't have the right to order her around.
     560273|00000000||Amusing. Zireael said the same thing, only at much higher volume.
     560274|00000000||I do, in fact, have this right. For only I know how to activate the Sunstone. Which I shall do on my terms - or not at all.
     560343|00000000||Zireael recognized the strength of my argument. I've no doubt you'll do the same.
-    560269|00000000||Got no right to give her orders.
-    560263|00000000||Wild guess - not what you had in mind…
-    560265|00000000||No. I wanted to go with you - that was my idea.
-    560267|00000000||But I won't allow it. Far too great a risk.
-    559421|00000000||Guessing this wasn't Ciri's idea…
-    559422|00000000||Wise.
-    560347|00000000||Makes sense.
-    560338|00000000||Huh. I thought I could at least count on you to treat me seriously.
-    560340|00000000||Never treat you any other way. You know that.
-    560393|00000000||You can't defeat Eredin, don’t stand a chance. Dammit, I don't know if I can. So stay away from him, far away.
-    560395|00000000||Zireael, do you swear to stay on shore?
-    560397|00000000||Do I have a choice?
-    560400|00000000||Where are you going?
-    560403|00000000||For a walk. Or is that not allowed either? Because I could break my leg…
-    560410|00000000||Oh, yes… the Elder Blood can be fiery.
+    559476|00000000||Forbidding Ciri from doing things is pointless.
+    559502|00000000||Telling Ciri she can't do something is counter-productive. Speaking from experience there… Ultimately, she does what she wants.
+    559504|00000000||Let us hope.
+    559506|00000000||Pardon me?
     559477|00000000||She didn't sound convinced.
     559508|00000000||Didn't sound convinced.
     559510|00000000||No. But I can't very well tie her up and teleport her away, can I?
-    559512|00000000||Mhm. Definitely advise against trying that.
-   1056437|00000000||No time to lose. Sooner we get this done, the better.
-   1056439|00000000||Follow me.
-   1056434|00000000||Yeah, let's go.
-   1056441|00000000||Could probably use a few potions. Go. Join you soon.
-   1056443|00000000||Just don't delay too long.
-   1056435|00000000||Join you later.
-   1056433|00000000||Unless you wish to come with me now?
-   1051802|00000000||True, things could get rough.
+    559512|00000000||Hm. Definitely advise against trying that.
+   1123509|00000000||There's a lighthouse not far from here…
+   1123676|00000000||Hm. There's a lighthouse not far from here, you know.
+   1123679|00000000||Geralt! Are you suggesting we--?
+   1123681|00000000||No… well, at least not right now. Just wanted to say…
+   1123684|00000000||Wanted to say that since… since Novigrad, whenever I see the beam of a lighthouse, I feel good. Thinking of you.
+   1123709|00000000||I'll be fine.
+   1123758|00000000||I'll manage.
+   1123760|00000000||You always say that.
+   1123762|00000000||Haven't killed me yet.
+   1126893|00000000||Well, except for that one time.
+   1051794|00000000||Yen? Why're you here?
+   1051796|00000000||To see you.
+   1051798|00000000||Something happen?
+   1051800|00000000||Not yet. But it might soon. We may not survive this. In fact, our chances are slim.
    1051819|00000000||Well, we are here to battle Eredin and the Wild Hunt at full strength. Could be like Sodden. Could be worse.
    1051825|00000000||Nothing could be worse than Sodden was.
-   1051803|00000000||Try not to panic.
+   1051802|00000000||True, things could get rough.
    1051821|00000000||Yen, try not to panic. Just doesn't suit you.
    1051823|00000000||I'm not panicking. Just trying to be realistic. But that's not what I came to discuss.
-   1051836|00000000||Sounds too beautiful.
-   1051870|00000000||I dunno, Yen. Honestly, sounds too beautiful to be possible, even.
-   1051880|00000000||You can always return - if after a month we can't stomach each other's company.
-   1051882|00000000||All right. Willing to try.
-   1051884|00000000||That's good enough for me.
-   1051868|00000000||Go, Geralt, Avallac'h awaits.
-   1056445|00000000||And don't get killed, witcher.
-   1051862|00000000||I'd go anywhere with you.
-   1051864|00000000||The answer I was hoping for.
-   1051835|00000000||Course I'll go.
+   1051803|00000000||Try not to panic.
+   1051801|00000000||Don't worry. It'll be all right.
+   1051805|00000000||We've come a long way, and I'll be damned if we've come to fail. It'll be all right.
+   1051808|00000000||I admire your optimism. Wish I shared it.
+   1051811|00000000||Listen to me. Once it's over, if we survive… I wish to leave, go far away. And I'd like you to come with me.
+   1051813|00000000||Where?
+   1051815|00000000||Wherever. To Poviss, beyond the Dragon Mountains, Zerrikania, even. As far as possible from politics, plots and so-called high society.
    1051837|00000000||You dropping politics? That'll be the day.
    1051840|00000000||You? Dropping plots and politics for good? You're in your element in that world, it's your life.
    1051842|00000000||Time to start anew.
@@ -824,16 +814,49 @@
    1051851|00000000||Why not? If that is what you dream of?
    1051853|00000000||We shall leave together, go where we please, do whatever strikes our fancy.
    1051860|00000000||So. Coming with?
-   1051811|00000000||Listen to me. Once it's over, if we survive… I wish to leave, go far away. And I'd like you to come with me.
-   1051813|00000000||Where?
-   1051815|00000000||Wherever. To Poviss, beyond the Dragon Mountains, Zerrikania, even. As far as possible from politics, plots and so-called high society.
-   1051805|00000000||We've come a long way, and I'll de damned if we've come to fail. It'll be all right.
-   1051808|00000000||I admire your optimism. Wish I shared it.
-   1051801|00000000||Don't worry. It'll be all right.
-   1051794|00000000||Yen? Why're you here?
-   1051796|00000000||To see you.
-   1051798|00000000||Something happen?
-   1051800|00000000||Not yet. But it might soon. We may not survive this. In fact, our chances are slim.
+   1051870|00000000||I dunno, Yen. Honestly, sounds too beautiful to be possible, even.
+   1051880|00000000||You can always return - if after a month we can't stomach each other's company.
+   1051882|00000000||All right. Willing to try.
+   1051884|00000000||That's good enough for me.
+   1051836|00000000||Sounds too beautiful.
+   1051835|00000000||Course I'll go.
+   1051862|00000000||I'd go anywhere with you.
+   1051864|00000000||The answer I was hoping for.
+   1051868|00000000||Go, Geralt, Avallac'h awaits.
+   1056445|00000000||And don't get killed, witcher.
+   1123764|00000000||Ah, Geralt. You're so charming when you try to be funny.
+   1123766|00000000||Try? Take it back. That was a great joke.
+   1123768|00000000||Mhm. Sure.
+   1123771|00000000||I love you, you know.
+   1123780|00000000||You trying to make me cry? Ciri'd never let me forget it. Go on, get.
+   1123783|00000000||Love you too.
+   1123752|00000000||Can't think about that.
+   1123754|00000000||So what am I supposed to think about?
+   1123756|00000000||Emhyr var Emreis. On parade. Completely naked.
+   1123708|00000000||Don't think about that.
+   1123702|00000000||Unbelievable. You said something romantic! You, Geralt of Rivia!
+   1123686|00000000||Moment of weakness.
+   1123707|00000000||Well, none of those during the battle, please. If anything should happen to you…
+   1123688|00000000||All this snow… it makes me think of Kovir.
+   1123690|00000000||And what do you think about?
+   1123692|00000000||That it's like this all year there. Dark and cold.
+   1123694|00000000||And you know what? It won't bother me one bit.
+   1123696|00000000||It won't?
+   1123698|00000000||No. Because the days, yeah, days might be short, but the nights? Nights'll be long.
+   1123700|00000000||I can't wait.
+   1123674|00000000||Can't wait till we leave for Kovir.
+   1123499|00000000||Triss? Everything all right?
+   1123501|00000000||Yes. I just wanted a moment to talk to you. Before… before it begins.
+   1123503|00000000||Chin up. The Hunt's weakened. We've got--
+   1123505|00000000||No. No more about the battle.
+   1123508|00000000||Just hold me. And say something nice.
+   1056437|00000000||No time to lose. Sooner we get this done, the better.
+   1056439|00000000||Follow me.
+   1056434|00000000||Yeah, let's go.
+   1056441|00000000||Could probably use a few potions. Go. Join you soon.
+   1056443|00000000||Just don't delay too long.
+   1056435|00000000||Join you later.
+   1056433|00000000||Unless you wish to come with me now?
     559514|00000000||Time is short. If you wish to do something, brew your substances or whatnot… Do it now.
     559516|00000000||You won't get the chance later. I shall await you by the boats, amongst the soldiers.
     559518|00000000||Never mind.
@@ -841,10 +864,22 @@
     559498|00000000||I beg to differ… Emhyr is a pragmatist, Ciri an idealist.
     559500|00000000||An idealist? What're you talking about?
     559468|00000000||Got her personality from her father.
-    559476|00000000||Forbidding Ciri from doing things is pointless.
-    559502|00000000||Telling Ciri she can't do something is counter-productive. Speaking from experience there… Ultimately, she does what she wants.
-    559504|00000000||Let us hope.
-    559506|00000000||Pardon me?
+    560395|00000000||Zireael, do you swear to stay on shore?
+    560397|00000000||Do I have a choice?
+    560400|00000000||Where are you going?
+    560403|00000000||For a walk. Or is that not allowed either? Because I could break my leg…
+    560410|00000000||Oh, yes… the Elder Blood can be fiery.
+    560338|00000000||Huh. I thought I could at least count on you to treat me seriously.
+    560340|00000000||Never treat you any other way. You know that.
+    560393|00000000||You can't defeat Eredin, don’t stand a chance. Dammit, I don't know if I can. So stay away from him, far away.
+    560345|00000000||Well, can't say you're wrong there.
+    560268|00000000||Can't say you're wrong.
+    560263|00000000||Wild guess - not what you had in mind…
+    560265|00000000||No. I wanted to go with you - that was my idea.
+    560267|00000000||But I won't allow it. Far too great a risk.
+    559421|00000000||Guessing this wasn't Ciri's idea…
+    559422|00000000||Wise.
+    560347|00000000||Makes sense.
     414295|00000000||Wait, there's something here. Feel it?
     414297|00000000||No. My medallion--
     562076|00000000||A ridiculous bauble. Don't make me laugh.
@@ -866,7 +901,7 @@
    1077828|00000000||Avallac'h's muddled your mind with a fortuneteller's fables.
    1077830|00000000||You're wrong. The White Frost truly does approach. Worlds will freeze, one after another, and all life will be eradicated.
    1077832|00000000||Avallac'h gave me a choice. I made the decision. I must stop it.
-   1077806|00000000||You don't have make this sacrifice.
+   1077806|00000000||You don't have to make this sacrifice.
    1077816|00000000||You don't have to make this sacrifice.
    1077818|00000000||You're wrong. The White Frost is inevitable, it will come to freeze the worlds one after the other, eradicating all life.
    1077820|00000000||Only I can stop the destruction. I've given it much thought and made my decision.
@@ -960,15 +995,15 @@
     559342|00000000||And Hjalmar?
     559354|00000000||The lad's led three raids against the imperial fleet. All against Crach's will, all failed. Yet he'll find volunteers for another.
     559356|00000000||Yeah, sounds like Hjalmar.
+   1066633|00000000||Well, Geralt, I see no row can occur in Skellige without your participation.
+   1066635|00000000||Mean and inaccurate, Ermion. Seems to me I've missed quite a few.
+   1070684|00000000||The blood of Crach's blood sits upon the throne, and that is your doing. I'm afraid you've ignited a small civil war.
     559275|00000000||So, Clan Drummond will attack sooner then we expected, it seems.
     559277|00000000||Thought Crach sent you to negotiate an agreement with Lugos.
     559279|00000000||Hah! An agreement! Only Crach believes such a thing possible at this stage.
     559302|00000000||Mean I didn't actually ruin things for you?
     559304|00000000||Not this time. Lugos' death stands to change a great deal. His cousin, who will now be named jarl, is a weak commander, stupid. This war will start soon, end even sooner.
     559219|00000000||But why have you returned to Skellige?
-   1066633|00000000||Well, Geralt, I see no row can occur in Skellige without your participation.
-   1066635|00000000||Mean and inaccurate, Ermion. Seems to me I've missed quite a few.
-   1070684|00000000||The blood of Crach's blood sits upon the throne, and that is your doing. I'm afraid you've ignited a small civil war.
     556499|00000000||{Esse'tilleadh, theervil esse'caen. } [We should turn back while we can.]
     556500|00000000||{Dat esse'croigh a va voot breuk aen orde? Ess ae’iarr--} [To be hanged for disobeying orders? I would rather--]
     556501|00000000||{Gar'ean! Havfrue! } [Watch out! Sirens!]
@@ -1112,16 +1147,16 @@
    1070432|00000000||Mashed potatoes with thick gravy. Or some hard cheese from Gemmera.
    1070452|00000000||Beef stew- that's what I would have. My mother adds roasted onion, you see. The crunchy kind.
    1070454|00000000||Argh… How long can one eat fish and ship's biscuits?
-   1063094|00000000||Follow me. The Naglfar must be nearby.
    1063162|00000000||Silence. It's completely still.
-   1063164|00000000||It's a trap. We must flee. Now.
+   1063164|00000000||It's a trap. We must flee. Now!
    1063166|00000000||Not this time.
    1063168|00000000||No, Zireael. You are not ready. You do not control your powers.
    1063170|00000000||I'll manage. Get out of my way.
    1063172|00000000||Ciri.
    1063174|00000000||Ciri!
-   1063176|00000000||The ice… It's a spell. You must find the mage who cast it, destroy his staff.
+   1063176|00000000||The ice… it's a spell. You must find the mage who cast it, destroy his staff.
    1063178|00000000||I'll not stop with his staff.
+   1063094|00000000||Follow me. The Naglfar must be nearby.
     557050|00000000||Arhaaam shinaaaz!
     557045|00000000||What'd she just say?
     557046|00000000||You're not her type.

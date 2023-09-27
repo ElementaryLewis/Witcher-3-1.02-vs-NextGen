@@ -329,7 +329,7 @@
    1084105|00000000||Ich muss los.
     536390|00000000||Also ... Wie brechen wir Umas Fluch?
     536392|00000000||Wir müssen ihn nach Kaer Morhen bringen.
-    536396|00000000||Das erkläre ich, wenn wir dort sind. Oh, und Geralt... Verzeih, aber ich kann nicht dich, Uma und Plötze teleportieren, deswegen ...
+    536396|00000000||Oh, und Geralt... Verzeih, aber ich kann nicht dich, Uma und Plötze teleportieren, deswegen ...
     536398|00000000||Keine Sorge, wir reiten hin. Ich mochte das Teleportieren noch nie.
     536400|00000000||Pass auf dich auf.
     536332|00000000||Der Fluch - wie brechen wir ihn?
@@ -442,11 +442,6 @@
     518296|00000000||Schön, dich endlich wiederzusehen.
     518290|00000000||Während du im Alter wohl schwerhörig wirst ... Jedes Birkhuhn hätte sich an dich ranschleichen können.
     518292|00000000||Nein, ich hab dich schon seit drei Meilen keuchen hören. Aber ich wollte meinen Aussichtspunkt nicht aufgeben.
-   1028934|00000000||Die alte Bastion. Hier wurden wir Jungs ausgebildet ... vor der Kräuterprobe.
-   1028935|00000000||Sieh einer an, in der Bastion spukt es offenbar.
-   1028941|00000000||Erscheinungen? Irgendwas muss sie an diesen Ort gebunden haben.
-   1028954|00000000||Zeitverschwendung. Ich finde nichts, wenn ich einfach so suche.
-   1043297|00000000||Das Medaillon zuckt, aber ich sehe nichts. Die Lampe dürfte mehr enthüllen.
    1027947|05ac068c||Tschort
    1021681|00000000||Ein Wolfskopf? Ich kenne diesen Ort. Hier fanden die ersten Kräuterproben statt, bevor die Festung gebaut wurde ...
    1021748|00000000||Fast weggewaschen. Noch ein paar Jahrzehnte, und es ist fort ... wie die Hexer.
@@ -935,7 +930,7 @@
     528251|00000000||Uns nach oben schleichen und uns lieben.
     528243|00000000||Okay. Was hab ich dieses Mal angestellt?
     528170|00000000||Was hab ich jetzt getan?
-    528166|00000000||Macht, was ihr wollt. Einen Augenblick noch, Geralt und ich müssen reden.
+    528166|00000000||Macht, was ihr wollt. Aber wartet noch kurz, Geralt und ich müssen reden.
     528169|00000000||Oho, das klingt ernst. Komm, Lambert ... Bis gleich, Geralt.
     524159|00000000||Klingt viel besser als die Dachbalken.
     524161|00000000||Hätte nichts gegen einen Kurzen. Oder zwei.
@@ -1221,6 +1216,7 @@
    1075881|00000000||Verdammt ... Was für ein Traum.
     535230|00000000||[Muttertränen verabreichen.]
     535232|00000000||[Aristidenextrakt verabreichen.]
+    537559|00000000||Aaa ... Aaaaaach! Aaaaaaaaa!!!
     537618|00000000||Ummmmmmamama ... UUUuuu ... Umamama ...
     537620|00000000||Ich hatte gehofft ... ich hatte gehofft, so was nie wieder mit ansehen zu müssen.
     537622|00000000||Warum hast du dann die Folterbank behalten?
@@ -1240,7 +1236,6 @@
     537631|00000000||Öffne den nächsten Regler.
     537592|00000000||Halt. Das ist keine gute Idee.
     535231|00000000||[Queckensaft verabreichen.]
-    537559|00000000||Aaa ... Aaaaaach! Aaaaaaaaa!!!
     535233|00000000||Aaach ... Aaaaaach!
     537594|00000000||Aaa ... Aaa ... Ummmmmmamamamaaaaaa ...
     537596|00000000||Hat die Bärenklau gewirkt?

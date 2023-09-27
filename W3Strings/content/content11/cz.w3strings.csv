@@ -75,7 +75,6 @@
    1070242|00000000||Říkám si, kterej statečnej jarl tu kocábku poslal proti císařský flotile.
    1070244|00000000||Skelližani nejsou tak tupý. Podle mě to byla obchodní bárka.
     458124|f759b018||Nilfgaardský voják
-    166754|68667754||Nilfgaardský voják
     557209|00000000||Radši bych si to ověřila hned. Jinak si pořád budu muset dávat pozor, jestli se mi nechystá vrazit nůž do zad.
     557211|00000000||Nemáš náhodou lehký stihomam?
     556435|00000000||Nemusíš s námi chodit.
@@ -145,7 +144,7 @@
     559846|00000000||Jako za erynii.
     559805|00000000||A tohle je kdo?
     559807|00000000||Nikdo důležitý.
-    559827|00000000||Jak už jsem říkala - podrobnosti probereme později. Jeho Veličenstvo přijímá dokument v jeho aktuální formě.
+    559827|00000000||Jak už jsem říkala - podrobnosti probereme později. Jeho Veličenstvo přijímá spis v jeho stávajícíc podobě.
     559829|00000000||Nikdy bych byl neřekl, že se dožiju něčeho takového…
     559841|00000000||Jsme připraveni zpečetit smlouvu.
     559845|00000000||Kolik bych ti musel zaplatit, abys jí na místě sťal hlavu?
@@ -200,7 +199,6 @@
    1070238|00000000||Gerben prej zase vyfasoval stráž u psů.
    1070240|00000000||Jo. Když bude hnít na dně lodi, to ho naučí, vysmívat se veliteli.
    1070405|00000000||Pravda. Ale je třeba přiznat, že Vijver vážně smrdí jako mokrá fretka.
-    301010|00330572||Mág
    1065050|00000000||Přišla ses vzdát, dítě Starší krve?
    1064980|00000000||Ne. Přišla jsem tě zabít.
     539896|00000000||Podívej, Geralte.
@@ -321,6 +319,7 @@
     543823|00000000||Občas mi jdeš opravdu silně na nervy, víš o tom?
     539963|00000000||Bylinky... nijak zvlášť usvědčující…
     539964|00000000||Počkej. Ještě jsme neprohledali celé laboratorium.
+    166754|68667754||Nilfgaardský voják
     534001|00000000||Cemrae ei iache!
     534002|00000000||Rhane, toriad rhane!
     534003|00000000||Gvaethe ei arwyneb!
@@ -717,8 +716,8 @@
     554859|00000000||Yennefer vždycky kráčela svou vlastní cestou. V podstatě mi lichotí, že se právě teď rozhodla prosazovat zájmy Lóže.
     554897|00000000||Ty jí nevěříš. Takže jakmile porazíme Hon, odejdi a najdi si útočiště někde jinde. V Redanii je prý volné místo.
     554906|00000000||To dřív strčím hlavu zeuglovi přímo do zubaté tlamy. Děkuju, ale mám jiné plány.
-    554713|00000000||Yennefer musí mít na císaře obrovský vliv. Přiměla ho, aby se zaručil za bezpečnost Lóže? Co si o tom myslíš?
-    554721|00000000||Já? Očividně úvodní otázka. Žádné "Geralte, jsem unavená, co takhle si sednout a popovídat si?"
+    554713|00000000||Yennefer musí mít na císaře obrovský vliv. Přiměla ho, aby se zaručil za bezpečí Lóže? Co si o tom myslíš?
+    554721|00000000||Já? Očividně jdeš rovnou k věci. Žádné "Geralte, jsem unavená, co takhle si sednout a popovídat si?"
     554723|00000000||To je pro tebe předehra až tak důležitá?
     521646|00000000||Prosím.
     521639|00000000||Tak, a co teď?
@@ -767,54 +766,45 @@
     559413|00000000||Hodně štěstí.
     559416|00000000||V tom plánu chybí jeden důležitý prvek… A co Ciri?
     559420|00000000||Zireael počká. V bezpečné vzdálenosti od Naglfaru.
-    560345|00000000||No… nemůžu říct, že se v tom pleteš.
-    560268|00000000||Nemůžu říct, že by ses pletl.
+    560269|00000000||Nemáš právo jí rozkazovat.
     560271|00000000||Nemáš právo jí rozkazovat.
     560273|00000000||Úsměvné. Zireael řekla to samé, ačkoliv mnohem hlasitěji.
     560274|00000000||Ve skutečnosti toto právo mám. Neboť jen já vím, jak Sluneční kámen aktivovat. Což udělám podle svého - nebo vůbec.
     560343|00000000||Zireael uznala sílu mého argumentu. Nepochybuji, že ty tak učiníš rovněž.
-    560269|00000000||Nemáš právo jí rozkazovat.
-    560263|00000000||Jen tak hádám - tohles asi na mysli neměla.
-    560265|00000000||Ne. Chtěla jsem jít s vámi - to jsem chtěla.
-    560267|00000000||Ale to já nedovolím. Je to příliš velké riziko.
-    559421|00000000||Hádám, že to nebyl její nápad…
-    559422|00000000||Moudré.
-    560347|00000000||To dává smysl.
-    560338|00000000||Heh. Myslela jsem, že aspoň ty mě budeš brát vážně.
-    560340|00000000||Nikdy tě neberu nijak jinak. To přece víš.
-    560393|00000000||Eredina neporazíš, nemáš šanci… Sakra, ani já si nejsem jistý, jestli to dokážu. Takže se od něj drž daleko, hodně daleko.
-    560395|00000000||Zireael… Přísaháš, že zůstaneš na břehu?
-    560397|00000000||Mám snad na vybranou?
-    560400|00000000||Kam jdeš?
-    560403|00000000||Projít se. Nebo to se taky nesmí? Protože bych si mohla zlomit nohu?
-    560410|00000000||Ach ano… Starší krev dokáže být řevnivá.
+    559476|00000000||Zakazovat Ciri cokoliv nemá smysl.
+    559502|00000000||Říkat Ciri, že něco nesmí, je kontraproduktivní. To ze mě mluví zkušenost…Nakonec si dělá, co chce.
+    559504|00000000||Doufejme.
+    559506|00000000||Pardon?
     559477|00000000||Nezněla moc přesvědčeně.
     559508|00000000||Nezněla moc přesvědčeně.
     559510|00000000||Ne. Ale jen tak ji svázat a teleportovat pryč dost dobře nemohu, že?
     559512|00000000||Hmm. Něco takového nedoporučuju zkoušet.
-   1056437|00000000||Nemáme času nazbyt. Čím dřív se o to postaráme, tím líp.
-   1056439|00000000||Následuj mě.
-   1056434|00000000||Jo, půjdeme.
-   1056441|00000000||Asi by se hodilo pár elixírů. Jen jdi, brzo tě dohoním.
-   1056443|00000000||Ale příliš neotálej.
-   1056435|00000000||Připojím se později.
-   1056433|00000000||Pokud tedy se mnou nechceš jít hned.
-   1051802|00000000||Pravda, může to být drsné.
+   1123509|00000000||Nedaleko odsud je maják...
+   1123676|00000000||Hm. Nedaleko odsud je maják, víš...
+   1123679|00000000||Geralte! Navrhuješ snad, abychom--?
+   1123681|00000000||Ne... no, aspoň ne zrovna teď. Jen jsem chtěl říct...
+   1123684|00000000||Chtěl jsem to říct už od... od Novigradu. Kdykoliv vidím světlo majáku, cítím se dobře. Myslím při tom na tebe.
+   1123709|00000000||Budu v pořádku.
+   1123758|00000000||Já to zvládnu.
+   1123760|00000000||To říkáš vždycky.
+   1123762|00000000||Taky mě ještě nezabili.
+   1126893|00000000||No, akorát jednou tenkrát...
+   1051794|00000000||Yen? Proč jsi přišla?
+   1051796|00000000||Přišla jsem za tebou.
+   1051798|00000000||Něco se stalo?
+   1051800|00000000||Ještě ne. Ale brzo může. Možná to nepřežijeme. Naše šance jsou vlastně dost malé.
    1051819|00000000||No, jsme tady, abychom se Eredinovi a Divokému honu postavili v plné síle. Mohlo by to být jako u Soddenu. Nebo horší.
    1051825|00000000||Nic nemůže být horší než Sodden.
-   1051803|00000000||Nepropadej panice.
+   1051802|00000000||Pravda, může to být drsné.
    1051821|00000000||Yen, nepropadej panice. To ti prostě nesluší.
    1051823|00000000||Já nepanikařím. Jen se snažím být realistická. Ale kvůli tomu jsem nepřišla.
-   1051836|00000000||To zní až příliš krásně.
-   1051870|00000000||Nevím, Yen. Upřímně to zní až moc krásně, aby to byla pravda.
-   1051880|00000000||Vrátit se budeš moct vždycky - když budeme mít po měsíci jeden druhého plné zuby.
-   1051882|00000000||Hmm… Dobrá. Jsem ochoten to zkusit.
-   1051884|00000000||To mi stačí.
-   1051868|00000000||Jdi, Geralte, Avallac'h čeká.
-   1056445|00000000||A nenech se zabít, zaklínači.
-   1051862|00000000||S tebou bych šel kamkoliv.
-   1051864|00000000||V tuhle odpověď jsem doufala.
-   1051835|00000000||Jistě že půjdu.
+   1051803|00000000||Nepropadej panice.
+   1051801|00000000||Neboj se. Bude to v pořádku.
+   1051805|00000000||Ušli jsme dlouhou cestu a já se propadnu, než abych měl selhat. Bude to v pořádku.
+   1051808|00000000||Obdivuju tvůj optimismus. Kéž bych ho sdílela.
+   1051811|00000000||Poslouchej. Až bude po všem, jestli přežijeme… chci odejít, někam daleko. A byla bych ráda, kdybys šel se mnou.
+   1051813|00000000||Kam?
+   1051815|00000000||Kamkoliv. Do Povissu, za Dračí hory, třeba do Zerrikánie. Tak daleko od politiky, pletich a takzvané vyšší společnosti, jak to jen bude možné.
    1051837|00000000||Ty chceš pověsit politiku na hřebík? No páni.
    1051840|00000000||Ty? Abys pověsila politiku na hřebík? V tomhle světě jsi jak ve svém živlu, je to tvůj život.
    1051842|00000000||Je čas začít znovu.
@@ -824,16 +814,49 @@
    1051851|00000000||Proč ne? Pokud jsi o tom snil…
    1051853|00000000||Odejdeme spolu, kamkoliv budeme chtít, a budeme dělat, co se nám zachce.
    1051860|00000000||Takže půjdeš?
-   1051811|00000000||Poslouchej. Až bude po všem, jestli přežijeme… chci odejít, někam daleko. A byla bych ráda, kdybys šel se mnou.
-   1051813|00000000||Kam?
-   1051815|00000000||Kamkoliv. Do Povissu, za Dračí hory, třeba do Zerrikánie. Tak daleko od politiky, pletich a takzvané vyšší společnosti, jak to jen bude možné.
-   1051805|00000000||Ušli jsme dlouhou cestu a já se propadnu, než abych měl selhat. Bude to v pořádku.
-   1051808|00000000||Obdivuju tvůj optimismus. Kéž bych ho sdílela.
-   1051801|00000000||Neboj se. Bude to v pořádku.
-   1051794|00000000||Yen? Proč jsi přišla?
-   1051796|00000000||Přišla jsem za tebou.
-   1051798|00000000||Něco se stalo?
-   1051800|00000000||Ještě ne. Ale brzo může. Možná to nepřežijeme. Naše šance jsou vlastně dost malé.
+   1051870|00000000||Nevím, Yen. Upřímně to zní až moc krásně, aby to byla pravda.
+   1051880|00000000||Vrátit se budeš moct vždycky - když budeme mít po měsíci jeden druhého plné zuby.
+   1051882|00000000||Hmm… Dobrá. Jsem ochoten to zkusit.
+   1051884|00000000||To mi stačí.
+   1051836|00000000||To zní až příliš krásně.
+   1051835|00000000||Jistě že půjdu.
+   1051862|00000000||S tebou bych šel kamkoliv.
+   1051864|00000000||V tuhle odpověď jsem doufala.
+   1051868|00000000||Jdi, Geralte, Avallac'h čeká.
+   1056445|00000000||A nenech se zabít, zaklínači.
+   1123764|00000000||Ach, Geralte. Ty jsi tak roztomilý, když se snažíš být vtipný.
+   1123766|00000000||Snažím? To vezmi zpátky. Byl to skvělý vtip.
+   1123768|00000000||Mhm. To víš, že jo.
+   1123771|00000000||Miluju tě, víš?
+   1123780|00000000||Chceš mě rozbrečet? Ciri by mi to nikdy nezapomněla. No tak, pusť.
+   1123783|00000000||Taky tě miluju.
+   1123752|00000000||Na to nesmíš myslet.
+   1123754|00000000||A na co mám myslet?
+   1123756|00000000||Na Emhyra var Emreis. V průvodu. A je úplně nahatý.
+   1123708|00000000||Na to nemysli.
+   1123702|00000000||Neuvěřitelné. Ty jsi řekl něco romantického! Ty, Geralt z Rivie!
+   1123686|00000000||Chvilková slabost.
+   1123707|00000000||Tak ty si během bitvy prosím odpusť. Kdyby se ti mělo něco stát...
+   1123688|00000000||Všechen ten sníh... Nutí mě myslet na Kovir.
+   1123690|00000000||A na co myslíš?
+   1123692|00000000||Že je tam takhle celý rok. Tma a zima.
+   1123694|00000000||A víš co? Vůbec mi to nebude vadit.
+   1123696|00000000||Nebude?
+   1123698|00000000||Ne. Protože dny, no, dny mohou být krátké, ale noci? Noci budou dlouhé.
+   1123700|00000000||Nemůžu se dočkat.
+   1123674|00000000||Nemůžu se dočkat, až vyrazíme do Koviru.
+   1123499|00000000||Triss? Je všechno v pořádku?
+   1123501|00000000||Ano. Chtěla jsem si s tebou jen na chvíli promluvit. Než... než to začne.
+   1123503|00000000||Hlavu vzhůru. Hon je oslabený. Máme--
+   1123505|00000000||Ne. O bitvě už ne.
+   1123508|00000000||Prostě mě obejmi. A řekni mi něco hezkého.
+   1056437|00000000||Nemáme času nazbyt. Čím dřív se o to postaráme, tím líp.
+   1056439|00000000||Následuj mě.
+   1056434|00000000||Jo, půjdeme.
+   1056441|00000000||Asi by se hodilo pár elixírů. Jen jdi, brzo tě dohoním.
+   1056443|00000000||Ale příliš neotálej.
+   1056435|00000000||Připojím se později.
+   1056433|00000000||Pokud tedy se mnou nechceš jít hned.
     559514|00000000||Čas se krátí. Pokud chceš něco dělat, uvař si nějaké ty své substance či co… Pusť se do toho.
     559516|00000000||Později už nebudeš mít možnost. Budu tě čekat u lodí mezi vojáky.
     559518|00000000||To nic.
@@ -841,10 +864,22 @@
     559498|00000000||Dovoluji si nesouhlasit… Emhyr je pragmatik, Ciri idealistka.
     559500|00000000||Idealistka? O čem to mluvíš?
     559468|00000000||Má osobnost po svém otci.
-    559476|00000000||Zakazovat Ciri cokoliv nemá smysl.
-    559502|00000000||Říkat Ciri, že něco nesmí, je kontraproduktivní. To ze mě mluví zkušenost…Nakonec si dělá, co chce.
-    559504|00000000||Doufejme.
-    559506|00000000||Pardon?
+    560395|00000000||Zireael… Přísaháš, že zůstaneš na břehu?
+    560397|00000000||Mám snad na vybranou?
+    560400|00000000||Kam jdeš?
+    560403|00000000||Projít se. Nebo to se taky nesmí? Protože bych si mohla zlomit nohu?
+    560410|00000000||Ach ano… Starší krev dokáže být řevnivá.
+    560338|00000000||Heh. Myslela jsem, že aspoň ty mě budeš brát vážně.
+    560340|00000000||Nikdy tě neberu nijak jinak. To přece víš.
+    560393|00000000||Eredina neporazíš, nemáš šanci… Sakra, ani já si nejsem jistý, jestli to dokážu. Takže se od něj drž daleko, hodně daleko.
+    560345|00000000||No… nemůžu říct, že se v tom pleteš.
+    560268|00000000||Nemůžu říct, že by ses pletl.
+    560263|00000000||Jen tak hádám - tohles asi na mysli neměla.
+    560265|00000000||Ne. Chtěla jsem jít s vámi - to jsem chtěla.
+    560267|00000000||Ale to já nedovolím. Je to příliš velké riziko.
+    559421|00000000||Hádám, že to nebyl její nápad…
+    559422|00000000||Moudré.
+    560347|00000000||To dává smysl.
     414295|00000000||Počkej, něco tady je. Necítíš to?
     414297|00000000||Ne. Můj medailon...
     562076|00000000||Směšná cetka. Nenech se vysmát.
@@ -903,7 +938,7 @@
     549902|00000000||Bílou zimu může zastavit jen Starší krev. Jen já ji můžu zastavit.
     549883|00000000||Proč to chceš udělat?
     549876|00000000||Nejsem tvůj nepřítel. Jen pomáhám Cirille.
-    549878|00000000||Já ti nevěřím. Nemůžu. Ne po tom všem, co se stalo
+    549878|00000000||Já ti nevěřím. Nemůžu. Ne po tom všem, co se stalo.
     549880|00000000||A mně věřit budeš?
     549882|00000000||Avallac'h říká pravdu. Požádala jsem ho, aby mi pomohl věž otevřít… protože do ní vstoupím.
     549872|00000000||Myslíš, že na to skočím? Tak to se šeredně pleteš.
@@ -960,15 +995,15 @@
     559342|00000000||A co Hjalmar?
     559354|00000000||Ten kluk už vedl tři nájezdy proti císařské flotile. Všechny proti Crachově vůli a všechny neúspěšně. Ale stejně už sbírá dobrovolníky pro další.
     559356|00000000||Ano, to je Hjalmarovi podobné.
+   1066633|00000000||No, Geralte, vidím, že se bez tebe žádná rvačka na Skellige neobejde.
+   1066635|00000000||To je sprosté a nepřesné, Myšilove. Mně přijde, že jsem jich pár vynechal.
+   1070684|00000000||Na trůnu sedí krev Crachovy krve a to je tvoje dílo. Obávám se, že jsi vyvolal malou občanskou válku.
     559275|00000000||Zdá se, že klan Drummond zaútočí dřív, než jsme si mysleli.
     559277|00000000||Myslel jsem, že tě Crach poslal, abys s Lugošem sjednal dohodu.
     559279|00000000||Dohodu! Jen Crach se domníval, že něco takového je teď ještě možné.
     559302|00000000||Takže jsem ti to vlastně zas tak moc nepokazil?
     559304|00000000||Ne, tentokrát ne. Lugošovou smrtí se věci hodně změní. Jeho bratranec, který teď bude jmenován jarlem, není dobrý vůdce, je to hlupák. Tahle válka začne brzy, ale stejně tak i rychle skončí.
     559219|00000000||Proč ses vlastně vrátil na Skellige?
-   1066633|00000000||No, Geralte, vidím, že se bez tebe žádná rvačka na Skellige neobejde.
-   1066635|00000000||To je sprosté a nepřesné, Myšilove. Mně přijde, že jsem jich pár vynechal.
-   1070684|00000000||Na trůnu sedí krev Crachovy krve a to je tvoje dílo. Obávám se, že jsi vyvolal malou občanskou válku.
     556499|00000000||{Esse'tilleadh, theervil esse'caen. } [Měli bychom se vrátit, dokud můžeme.]
     556500|00000000||{Dat esse'croigh a va voot breuk aen orde? Ess ae’iarr.. } [A nechat se oběsit za neposlechnutí rozkazu? Radši bych..]
     556501|00000000||{Gar'ean! Havfrue! } [Pozor! Sirény!]
@@ -1024,7 +1059,7 @@
    1065609|00000000||Můžeš ho použít sama, Ciri. Sejdeme se na Hindarsfjallu.
    1065611|00000000||Jak chceš. Budu u hřbitova.
    1065613|00000000||Postarejte se o to rychle, prosím. A Ciri, vyvaruj se potíží, ano?
-   1067785|00000000||Žádné potíže nemám v plánu. Zatím.
+   1067785|00000000||Žádné potíže nemám v úmyslu. Zatím.
    1067753|00000000||Setkáme se tam.
     565138|00000000||Zajdu tam s tebou.
     565463|00000000||Děkuju.
@@ -1112,7 +1147,6 @@
    1070432|00000000||Šťouchaný brambory s hustou omáčkou. Nebo trochu tvrdýho sejra z Gemmery.
    1070452|00000000||Hovězí guláš - to bych si dal. Moje máma do něj dávala pečenou cibuli, víš. Tu křupavou.
    1070454|00000000||Chjo… Jak dlouho se dá přežít na rybách a námořnickejch sušenkách?
-   1063094|00000000||Za mnou. Naglfar musí být blízko.
    1063162|00000000||Ticho. Je naprostý klid.
    1063164|00000000||Je to past. Musíme zmizet. Hned.
    1063166|00000000||Tentokrát ne.
@@ -1122,6 +1156,7 @@
    1063174|00000000||Ciri!
    1063176|00000000||Ten led… je to kouzlo. Musíš najít mága, který jej seslal, a zlomit mu hůl.
    1063178|00000000||Zlomím mu něco víc než jen hůl.
+   1063094|00000000||Za mnou. Naglfar musí být blízko.
     557050|00000000||Arhaaam shinaaaz!
     557045|00000000||Co to říkala?
     557046|00000000||Že nejsi její typ.

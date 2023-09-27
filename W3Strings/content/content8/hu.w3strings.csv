@@ -30,6 +30,7 @@
     546798|00000000||Menni fog. Ne aggódj.
    1076925|00000000||Ves… ne legyél bolond.
     572659|00000000||Gyenge ítélőképességre vall idehívni a királygyilkost.
+    301032|5a979acb||Vad Falka harcosa
     307008|103d66e3||Nyúl
     550116|00000000||Nem érdekel.
     550129|00000000||Nem tudom és az igazat megvallva nem is érdekel.
@@ -139,10 +140,38 @@
     536186|00000000||Le akartalak hordani, amiért nem kérted a segítségem. De útközben kitöltöttem a dühöm Roche-on.
    1061994|00000000||Jó téged újra látni.
    1061992|00000000||A fenébe is, jó téged újra látni.
+   1123852|00000000||Nem… menjünk. Már várnak.
+   1123849|00000000||Nem, menjünk.
+   1123855|00000000||Ha tényleg nem bánod…
+   1123858|00000000||Úgy tűnik, elég jól viseli.
+   1123860|00000000||Vagy azt akarja, hogy azt higgyük.
+   1123863|00000000||Nem voltál már itt egy ideje, ugye?
+   1123865|00000000||Túl régen. Mi van a vendégszobával? Változott valami?
+   1123867|00000000||Mhm. Az ágy… ööö, eltört.
+   1123869|00000000||Nem gond. Majd alszunk a földön. Leterítünk egy prémet és…
+   1123872|00000000||Ahem.
+   1123874|00000000||Azt hiszem, mennünk kellene.
+   1123850|00000000||Csak ha tényleg nem bánod…
+   1123843|00000000||Szeretnétek tán egy percet kettesben?
+   1123846|00000000||Ne haragudj, nem akartunk…
+   1123848|00000000||Tudom. Csak egy egyszerű kérdés. Akartok egy kis időt együtt?
     462992|00000000||Örülök, hogy látlak, Triss.
     522511|00000000||Köszönd Yennefernek. Ő hívott meg.
     549984|00000000||Lesz még időnk később beszélni. Most kellene tárgyalnunk.
-    522515|00000000||Kezd hűvös lenni. Elkezdhetnénk a tanácskozást.
+   1123878|00000000||Én… Talán adnék kettőtöknek egy percet.
+   1123880|00000000||Triss, kérlek…
+   1123882|00000000||Nem, nem. Biztos nagyon hiányoztatok egymásnak, egy percnyi késedelem nem árt senkinek.
+   1123889|00000000||Jól. Akkor egy perc és utána megyünk, rendben?
+   1123892|00000000||Hm. Ez így egy kicsit kínos…
+   1123894|00000000||Negyvenöt másodperc.
+   1123896|00000000||Huh?
+   1123898|00000000||Negyvenöt másodpercünk maradt. Vagyis hát már csak harminc. Aztán kesztyűt dobunk a Vad Falkának. Úgyhogy kérlek, bölcsen használd ezeket a másodperceket.
+   1123901|00000000||Yen, imádlak.
+   1123903|00000000||Hm. Az ékesszólásért nem jár pont. De az őszinteségedért…
+   1123906|00000000||Ideje indulni.
+   1123884|00000000||Jól van. Egy perc, aztán megyünk.
+   1123883|00000000||Nem. Jobb, ha mind indulunk.
+   1123886|00000000||Nem, mennünk kéne. Már várnak ránk.
     522544|00000000||Ne álljunk itt kinn.
     520117|00000000||Igen. Gyertek, tanácskozzunk.
    1061996|00000000||Kevés az időnk. A Vad Falka hamarosan itt lesz.
@@ -158,6 +187,7 @@
     522486|00000000||Semmit sem változtatok. Egyiktek sem… így emlékeztem rátok.
     522488|00000000||Mi?
     549628|00000000||Kishúgom.
+    522515|00000000||Kezd hűvös lenni. Elkezdhetnénk a tanácskozást.
    1061976|00000000||Yen, te jobban ismered a Vad Falkát, mint bárki. Mesélnél az általuk használt mágiáról…
    1061978|00000000||A navigátoraik portálokat nyitnak, olyan hasadékokat, amik ellen küzdhetünk dimeritiummal vagy a mi mágiánkkal.
    1061980|00000000||Ezen felül megidézhetik a fagyot, ami kitölti a semmit, amin keresztül utaznak.
@@ -259,15 +289,15 @@
     524776|00000000||Ni'l ceim siaar!
     524777|00000000||Trooid'i!
     524775|00000000||Hoinne heets!
+    524355|00000000||Nem lenne helyes tovább időzni… a háború a Feketék ellen nem vár.
+    524360|00000000||Számíthatsz rám, ugye tudod? Mindig.
+    524362|00000000||Tudom és köszönöm.
+    565580|00000000||Minden jót.
+    566135|00000000||Jó utat, Hjalmar.
     524358|00000000||Hív a kötelesség.
     524369|00000000||De Geralt… van egy cimborád, aki király. Ezt kevesen mondhatják el magukról.
     524471|00000000||Ha neked vagy Cirinek… esetleg neked és Cirinek valaha segítségre lesz szükségetek, Kaer Trolde kapuja nyitva áll előttetek.
     565588|00000000||Köszönöm, nem felejtem el.
-    565580|00000000||Minden jót.
-    566135|00000000||Jó utat, Hjalmar.
-    524355|00000000||Nem lenne helyes tovább időzni… a háború a Feketék ellen nem vár.
-    524360|00000000||Számíthatsz rám, ugye tudod? Mindig.
-    524362|00000000||Tudom és köszönöm.
     565582|00000000||Egyenesen visszamész Skelligére?
     565579|00000000||Mész vissza Skelligére?
     321589|00000000||Hát itt vagy.
@@ -406,41 +436,6 @@
     520110|00000000||Azt hitted, kihagyunk egy ilyen lehetőséget? Szó sem lehet róla!
     520111|00000000||Szomorú, hogy Vigi nem lehet itt.
     541556|00000000||Örülök, hogy látlak!
-   1000357|00000000||Ahogy elnézem, Cirinek hamarosan nem lesz szüksége többé a segítségedre.
-   1000359|00000000||A tiédre sem.
-   1000361|00000000||Igaz. Azt tehet majd, amit csak akar – én pedig támogatom. Hát te? Készen állsz, hogy elengedd a kezét?
-   1000362|00000000||Nem fogom semmire sem kényszeríteni, ha erre célzol.
-   1000123|00000000||Cirinek hamarosan nem lesz szüksége a segítségedre.
-   1000343|00000000||Lenyűgöző világotok van nektek Aen Elléknek. Meg tudnám szokni a helyet.
-   1000345|00000000||Mondd csak… hogy csináljátok? Ültök és tilinkóztok, lenyűgöző tájképeket festetek szökellő unikornisokkal, szépen cizellált tornyokat emeltek…
-   1000347|00000000||Aztán csak úgy kilovagoltok legyilkolni minket, szemrebbenés és bűntudat nélkül. Hogy is van ez?
-   1000349|00000000||Nektek embereknek talán van lelkifurdalásotok az Aen Seidhe tündék miatt? Vagy a törpök, vagy épp a driádok miatt?
-   1000351|00000000||Nem különbözünk… egyszerűen azért, mert szilárdan hisszük, hogy mások alacsonyabb rendűek.
-   1000121|00000000||Lenyűgöző ez az Aen Elle világa.
-   1000353|00000000||Valószínűleg az a vád ér majd, hogy tipikusan primitív emberi lény vagyok… de miért nem végzünk a Ge'elssel?
-   1000337|00000000||Mert rövid távon nem nyernénk vele semmit… a hosszabbat pedig jó eséllyel meg sem érnénk.
-   1000339|00000000||Ge'els nem attól igazán veszélyes, amit a harcmezőn tesz. Manipulál. Hazudik. Sakkban tartja az Aen Elle népet.
-   1000341|00000000||Attól, hogy leütsz egy figurát, a játszma kimenetele még nem változik meg. De ha inkább ott tartod, a szabályok megváltoztatására használhatod.
-   1000355|00000000||Ez még mindig nem magyarázat arra, miért vacakolunk ezzel az egésszel ahelyett, hogy megölnénk Ge'elst.
-   1000122|00000000||Miért nem öljük meg Ge'elst?
-   1000285|00000000||Beszélj még erről a Caranthirról… Jól ismered?
-   1000287|00000000||Hogy ismerem-e? Én alkottam.
-   1000289|00000000||Úgy érted, hogy te nevelted?
-   1000291|00000000||Nem, Geralt. Már jóval azelőtt formálni kezdtem, hogy megszületett.
-   1000293|00000000||Századokon át… párosítottam bizonyos tulajdonságú tündéket… Azokat, akik uralkodtak téren és időn. Caranthir, az aranygyermek, ezeknek az erőfeszítéseknek az eredménye.
-   1000295|00000000||Arany gyermek, aki felnőttnek bűnöző lett.
-    307750|00000000||Caranthir – mesélj róla.
-   1000192|00000000||Viszlát.
-   1000125|00000000||Ég veled.
-   1000124|00000000||Miért segítesz Cirinek?
-   1000196|00000000||Mikor először találkoztál Cirivel, rabságba vetetted. Most pedig véded… a saját fajtád ellen. Elég nagy változás.
-   1000198|00000000||Először is, nem vetettem rabságba. Ő talált rám. Ez volt a sorsa.
-   1000200|00000000||Ja, persze. Térjünk át a második pontra. Miért segítesz neki?
-   1000202|00000000||Mert veszélyes. Halálosan.
-   1000204|00000000||Ránézel, és egy embert látsz, egy védencet, lánygyermeket talán. Ha én nézek rá, az Ősi Vérét látom. A hatalmat, ami képes elpusztítani a világot. A hatalmat, ami semmiképp nem juthat az arra leginkább szomjazó Eredin birtokába.
-   1000206|00000000||Kétségtelen, hogy az indítékaink különböznek, a célunk azonban közös. Szóval jobban tennéd, ha megbíznál bennem… vagy legalábbis megpróbálnád.
-   1000194|00000000||Igen, Geralt?
-   1000190|00000000||Keresd meg Zireaelt… Fogytán az idő…
     531907|00000000||Vajon le tudnám szedni?
     531908|00000000||Imlerith-t? Kétlem.
    1063050|00000000||Yennefer varázslata gyengül! A jégvihar már majdnem az erődnél van!
@@ -790,6 +785,28 @@
    1003649|00000000||Biztos vagyok benne… De Avallac'h azt mondja, sem a tudásuk, sem a tehetségük nincs meg hozzá. Ő négy évszázadot töltött azzal, hogy megtanulja, de így is csak a korábbi kapuk nyomán képes haladni.
    1003653|00000000||Én oda és akkor megyek, ahová és amikor csak akarok.
    1003636|00000000||Milyen a világok között utazni?
+   1127038|00000000||A jel az arcomon – feltűnő? Nagyon csúnya?
+   1127041|00000000||Cöcö… egy kicsit. De ez ne rontsa el a kedved.
+   1127044|00000000||Tudod, az emberek állandóan megbámulják a sebhelyet az arcomon. Régebben ez nagyon feldühített.
+   1127046|00000000||És?
+   1127048|00000000||Mostanában eggyel több gombot hagyok nyitva az ingemen. Probléma megoldva.
+   1127049|00000000||A jel az arcomon rosszul néz ki?
+   1127066|00000000||Nem tudom, hallottad-e de… amikor ennek az egésznek vége lesz, Kovirba megyek.
+   1127068|00000000||Triss-szel.
+   1127070|00000000||Mhm.
+   1127072|00000000||Érdekes fertálya a világnak. Talán kapsz majd megbízást valami ritka havasi szörnyre. Barbegazi, vagy egy vendigo… Vagy, öö talán egy amarok.
+   1127074|00000000||Vagy talán végleg szögre akasztom a kardjaim.
+   1127076|00000000||Annyira jó vele?
+   1127078|00000000||Még annál is jobb.
+   1127063|00000000||Tudod… ha vége ennek az egésznek, Kovirba megyek.
+   1127081|00000000||Szóval… a tanácsodat kérném. Yenneferről van szó.
+   1127083|00000000||Jól van. Kérdezz csak.
+   1127086|00000000||A dolog úgy áll… Szeretném elvinni valahová. Ha már ennek vége. Valami… festői, sőt gyönyörű helyre. Ahol pihenhetünk.
+   1127088|00000000||Már szinte mindenfelé jártál. És Yent is jól ismered. Valami ötlet? Lehetne talán Spalla vagy esetleg Dol Blathanna…?
+   1127090|00000000||Az első út menti fogadó, ami mellett elhaladtok. Oda vidd. Fizess ki előre egy hónapot, vésd bele az ajtóba, hogy „Ne zavarj!” és zárd be magatok mögött.
+   1127092|00000000||Huh. Csak ennyi?
+   1127094|00000000||Csak ennyi.
+   1127064|00000000||A tanácsodat kérném. Yenneferről van szó.
    1003655|00000000||Eredin időről időre megtalált. Ez hogyan lehetséges?
    1003573|00000000||Amikor a világok között haladok, egyfajta lökéshullámot keltek. Bárki, aki kellően tanult, érzékelheti. Legalább is Avallac'h így magyarázza. Ő is képes rá.
    1003666|00000000||Tehát valójában soha nem szabadna használnod az erőd…
@@ -827,6 +844,8 @@
     562490|00000000||Szembe kell szállnom velük.
     529468|00000000||Odabent kellene várnod!
     529686|00000000||Tarts ki, Triss!
+   1077974|00000000||Gvaed, gvaed uncym, cym’morth!
+   1077970|00000000||Aaaaaaaaaaaaaaa!!!
    1077942|00000000||Geralt… Hol van…? Meg kell--
    1077944|00000000||Argh!
    1077946|00000000||Most nem menekülsz el!
@@ -843,8 +862,6 @@
    1077968|00000000||Neeeeeeeeeeeee!
    1077938|00000000||Gyere!
    1077940|00000000||Ah!
-   1077974|00000000||Gvaed, gvaed uncym, cym’morth!
-   1077970|00000000||{Emitting a mind-piercing, ear-bleed inducing shriek.}
    1076935|00000000||Francba… Kevésbé voltam ideges a sárkánnyal vívott harc előtt.
     465190|00000000||Csak mi ketten tudjuk igazán, mivel nézünk szembe.
     465188|00000000||Egyszer már legyőzted őket. Tudom, hogy újra képes leszel rá.

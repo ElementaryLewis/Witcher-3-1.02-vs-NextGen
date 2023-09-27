@@ -1,5 +1,6 @@
 ;meta[language=pl]
 ; id      |key(hex)|key(str)| text
+    170811|72cb8ee5||Utopiec
     581146|00000000||Aaaaaa!
     581147|00000000||Litości!
    1061012|00000000||Rozwiąż mnie! Szybko!
@@ -187,7 +188,6 @@
     579083|00000000||Pełko Sambor, lat pięćdziesiąt, dwójka dzieci, poletko żyta i jedna koza...?
     579084|00000000||Jak sobie chcecie. Ale ja mówiłem.
     579046|00000000||Było, jak mówię. Koraborował z Czarnymi, tfu!
-    595889|83463c36||Pomocnik zbrojmistrza
     575034|00000000||Tutaj, panie! To on!
     575055|00000000||Czyś ty oszalał do reszty?
     575023|00000000||Od razu poznałem, że to Nilfgaardczyki! Szpiegi, znaczy. Ukrywa ich od tygodnia!
@@ -230,7 +230,7 @@
    1075529|00000000||Dochodzi do siebie. Nawet zaczyna śpiewać... Ma teraz trochę niższy głos, chropawy... Ale to nawet do niej bardziej pasuje.
    1075546|00000000||Dzięki, że nam wtedy pomogłeś. To wiele dla mnie znaczy... Naprawdę.
    1075548|00000000||Od czego ma się przyjaciół.
-   1075542|00000000||Przepraszam, że wam wtedy nie pomogłem. Musiałem-
+   1075542|00000000||Przepraszam, że wam wtedy nie pomogłem. Musiałem...
    1075544|00000000||Daj spokój. Było, minęło.
    1075550|00000000||Pozdrów ją ode mnie.
    1075552|00000000||Pozdrowię, pozdrowię, nie bój się. Ucałuję nawet!
@@ -310,7 +310,7 @@
    1061579|00000000||Biedny Miłosz.
    1061773|00000000||Ja go tam nie żałuję. Zachciało mu się z Czarnymi trzymać.
    1061777|00000000||Hmm. Teraz już wiem, czemu miesiąc temu tak dziwnie na mnie spojrzał.
-   1061775|00000000||Nilfgaardzkie skarby! A nam ani słoweczka nie powiedział.
+   1061775|00000000||Nilfgaardzkie skarby! A nam ani słóweczka nie powiedział.
    1061779|00000000||Ciekawe, co tam wykopią.
    1061571|00000000||Widziałaś, jak Redańczycy Miłoszowi pole bronują?
    1061573|00000000||Teraz? Całe zboże na marnację pójdzie!
@@ -353,7 +353,7 @@
     578920|00000000||Widzę, że koń jest w dobrych rękach.
    1074799|00000000||W najlepszych. Z powrotem u właściciela... Tęskno ci było, Dukat, co? Tęskno?
    1074801|00000000||Mhm. Jak cię zwietrzył, pognał tak, że mało ludzi nie potratował.
-   1074803|00000000||A... Khem... A słyszałeś może, żeby ktoś za nim wołał "kurważ kostka"?
+   1074803|00000000||A... Khem... A słyszałeś może, żeby ktoś za nim wołał „kurważ kostka”?
    1075628|00000000||Tylko jeden człowiek we wsi tak klnie... Mój sąsiad, Mirko. Dałem mu Dukata w opiekę... Muszę do niego iść, martwi się na pewno.
    1075631|00000000||Macie... To dla was. W podzięce, żeście pobiegli sprawdzić, co z Dukatem.
     578904|00000000||Widzę, że koń jest w dobrych rękach...
@@ -530,7 +530,7 @@
    1061693|00000000||Kiedy chwycisz ich za sakiewki, ich serca i umysły też podążą za tobą.
    1061695|00000000||Czterysta dziesięć, czterysta dwajścia...
    1061697|00000000||Po Nilfgaarczykach też sporo zostało. W tamtej skrzyni znaleźliśmy... ile?
-   1061699|00000000||Czterysta... No kurwa, mówiłem! Albo prz..szestaję pić, abo mi nie przerywasz!
+   1061699|00000000||Czterysta... No kurwa, mówiłem! Albo prz... szestaję pić, abo mi nie przerywasz!
     583007|00000000||Rozpacz toczy cię jak robactwo.
     583009|00000000||Twoje zatrute eliksirami mięso... słodkie od bólu.
     583011|00000000||Ona też cierpiała. Sama, biedna, całkiem sama...
@@ -541,7 +541,7 @@
     578946|00000000||Chcesz śmierci, czuję to, znam smak oddechu samobójcy... Wróżby nie kłamią.
     578947|00000000||Ta mała kurewka, przeklęta krew, zabiła moje siostry. Zostałam sama. Przez ciebie.
     584873|00000000||Mój błysk przebije ciemności [...].
-    584867|00000000||"Dubhenn haern am glâdeal, morc’h am fhean aiesin".
+    584867|00000000||„Dubhenn haern am glâdeal, morc’h am fhean aiesin”.
     584869|00000000||Mój błysk przebije ciemności, moja jasność mroki rozproszy.
     584871|00000000||Zgadza się.
     584855|00000000||Runy w Starszej Mowie, klasycznej. Bez stylizacji, precyzyjne i oszczędne.
@@ -551,7 +551,7 @@
     584863|00000000||Jeśli szukacie zleceń, to słyszałem o strzydze w lesie mariborskim.
     584864|00000000||Dzięki, muszę jeszcze wpaść do karczmy. A później, kto wie.
     584865|00000000||Powodzenia na szlaku, wiedźminie.
-    584895|00000000||"Zireael". Jaskółka.
+    584895|00000000||„Zireael”. Jaskółka.
     584872|00000000||Zireael.
     584875|00000000||Spóźniliście się.
     584877|00000000||Wojacy...
@@ -631,7 +631,7 @@
    1062299|00000000||Gdy jednak upokarzające porażki odarły go z nimbu nieomylności, ukryta do tej pory opozycja przystąpiła do ataku.
    1062301|00000000||Cesarz, który tańczył na kurhanach wrogów, został złożony w grobie przez własnych poddanych.
    1062303|00000000||Podczas gdy kontynent wykrwawiały wojny, Skellige pod rządami Cerys przeżywało rozkwit.
-   1062305|00000000||W przeciwieństw bowiem do swoich poprzedników, młoda królowa zamiast na łupieniu cudzych ziem skupiła się na dbaniu o własne włości.
+   1062305|00000000||W przeciwieństwie bowiem do swoich poprzedników młoda królowa zamiast na łupieniu cudzych ziem skupiła się na dbaniu o własne włości.
    1062307|00000000||Dzięki temu wyspiarski naród znacznie się wzbogacił – ale stracił też przy tym swój dawny pazur.
    1062309|00000000||Choć wojna na kontynencie już się zakończyła, Hjalmar nie złożył broni.
    1062311|00000000||Młody król poprzysiągł, że każdej wiosny będzie łupił brzegi znienawidzonego cesarstwa Nilfgaardu i zamierzał dotrzymać słowa – choćby miał przy tym utopić własny naród we krwi.
@@ -665,7 +665,6 @@
     572807|00000000||Proszę za mną.
     572810|00000000||Najjaśniejszy Pan oczekuje.
     595913|6b1268cb||Chłop
-   1051424|f11e033c||Zbrojmistrz
     583129|00000000||Ej! Brać go!
     583128|00000000||Tak zginą wszyscy zdrajcy. Wypalimy zarzewie buntu do gołej ziemi.
     584088|00000000||Możesz popatrzeć, ale z daleka.
@@ -748,7 +747,7 @@
     579067|00000000||Jaskółka nie żyje, został zamarznięty trupek w lodowej pustce.
     579068|00000000||A ty się boisz... Czujesz strach.
     579069|00000000||Kłamiesz. Ja już nic nie czuję.
-    578824|00000000||Cierpliwości, siostry, czuję, że nadchodzi, dostaniecie jego duszę…
+    578824|00000000||Cierpliwości, siostry, czuję, że nadchodzi, dostaniecie jego duszę...
     578936|00000000||Dostaniecie jego ból, jego lodowate cierpienie i najecie się nim.
     578937|00000000||Już niedługo siostry, już niedługo.
     578958|00000000||Wyłaź!
@@ -787,7 +786,7 @@
     578853|00000000||Wypuśćcie wilczycę.
     578852|00000000||Uderz.
     578835|00000000||Wypuśćcie wilczycę.
-    578848|00000000||Uhh....
+    578848|00000000||Uhh...
     578849|00000000||Żywcem skórę ci zdejmiemy, przybłędo...
     578846|00000000||Uderz.
     578837|00000000||Gdzie wiedźma?
@@ -801,7 +800,7 @@
     578832|00000000||Co z twoim uchem?
     578833|00000000||A co ma być? Nie twój zasrany interes.
     584284|00000000||Pokłońcie się nowemu panu...
-    584286|00000000||... i obrońcy.
+    584286|00000000||...i obrońcy.
     584253|00000000||Od dzisiaj wielmożny Dagborg bierze te ziemie w łaskawe władanie.
     584254|00000000||Wszelkie inne ciężary i obowiązkowe opłaty zostają wielkodusznie zniesione.
     574281|00000000||W związku z wojennymi zniszczeniami od dziś podatki zostają podwojone.
@@ -834,22 +833,12 @@
    1059120|00000000||Damy sobie radę.
    1059115|00000000||Na pewno nie potrzebujecie pomocy?
    1059107|00000000||Ta... Prawdę mówicie.
-   1059109|00000000||Nilfgaardczyków już ni ma, Redańczycy dopiero co przyszli. Co się dziwić - bandyci czują się bezkarni.
-   1059111|00000000||Ledwieśmy im uciekli - ale koło złamane, a konie poszły w las.
+   1059109|00000000||Nilfgaardczyków już ni ma, Redańczycy dopiero co przyszli. Co się dziwić – bandyci czują się bezkarni.
+   1059111|00000000||Ledwieśmy im uciekli – ale koło złamane, a konie poszły w las.
    1059072|00000000||Potrzebujecie pomocy z tym wozem?
    1059074|00000000||Eee... nie.
    1059076|00000000||To nie nasz, tylko... no... zdobyczny, że tak powiem.
    1059078|00000000||Eee... Ludziska porzucili dobytek w pośpiechu i tak trochę szkoda, żeby Redańczycy rozszabrowali.
-    590603|00000000||*Mlask, mlask* Kwaśny cosik. *Ptfu*
-    590605|00000000||Witajcie. *Mff*
-    590607|00000000||Co tam słychać?
-    590609|00000000||Gdzie miecze kują, tam iskry lecą.
-    590619|00000000||U nas samo dobro, nie jakiś szmelc.
-    590611|00000000||Każdy kowalem własnego losu? Prędzej kowadłem.
-    590621|00000000||Warte coś? Te żelaza na plecach?
-    590613|00000000||Mam ci kijem przyp...?
-    590615|00000000||I co dalej? Mam wołać o pomoc?
-    590617|00000000||Ratujcie! Ratujcie mnie!
     573535|00000000||Raportuj.
     573530|00000000||Panie kapitanie!
     573536|00000000||Delegacja z Novigradu jest o pół dnia drogi stąd.
@@ -869,7 +858,7 @@
    1061439|00000000||Hi, hi, hi! A to mi się bohater trafił!
    1061711|00000000||Ty się śmiej, ale gdyby twój Gondek nie wrócił i Nilfgaardczyków nie przepędził...
    1061713|00000000||Ha, ha, ha!
-   1061715|00000000||... mógłby ci w końcu jakiś Cahir albo Johann wianek zerwać!
+   1061715|00000000||...mógłby ci w końcu jakiś Cahir albo Johann wianek zerwać!
    1061717|00000000||Ale tyś na mnie czekała, Manieczko, prawda?
    1061719|00000000||Prawda!
    1061721|00000000||Ahahahahaaa!

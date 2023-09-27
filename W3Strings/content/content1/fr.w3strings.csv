@@ -1,12 +1,41 @@
 ;meta[language=fr]
 ; id      |key(hex)|key(str)| text
     301032|5a979acb||Guerrier de la Chasse Sauvage
+    389411|2ec9fb68||Citoyen
+    590999|00000000||De quoi était-il question, au juste ?
+    591007|00000000||J'ai bien entendu ? Elles parlaient de la Loge ?
+    591009|00000000||Oui, et ensuite, Philippa a parlé de recouvrer la vue…
+    591011|00000000||Tu crois qu'elle a réussi à recouvrer la vue ?
+    591014|00000000||Tu penses que Philippa a réussi ? À recouvrer la vue ?
+    591016|00000000||C'est improbable, mais pas impossible. Elle parlait d'implanter des tissus cultivés sur des pierres précieuses.
+    591018|00000000||Jusqu'ici, seul Vilgefortz y est parvenu. Si jamais elle a réussi… ma foi, elle mériterait des félicitations.
+    591012|00000000||Pourquoi diable parleraient-elles de la Loge ?
+    591019|00000000||Margarita a mentionné Ida et Francesca, puis Keira et Fringilla…
+    591028|00000000||Il apparaît clairement que Philippa compte ressusciter la Loge des Magiciennes.
+    591033|00000000||Elles n'étaient pas sûres pour Triss, et elles t'ont exclue d'emblée…
+    591035|00000000||J'ai toujours refusé d'y entrer. Pour Philippa, seule la Loge est apte à protéger les intérêts des mages. Je ne partage pas cet avis, et préfère agir seule.
+    591036|00000000||En outre, le moment est mal choisi. Reformer la Loge attiserait le courroux de Radovid et de l'empereur. Au plus fort de leur lutte d'influence, ils risqueraient de se liguer contre une troisième faction.
+    591010|00000000||Je me demande quoi faire de ce cristal.
+    591045|00000000||Très bien, garde le cristal.
+    591048|00000000||Yen, je me suis décidé. Je vais donner le cristal à Radovid.
+    591050|00000000||Tu te fourvoies. Mais la décision t'appartient.
+    591046|00000000||Je vais donner le cristal à Radovid.
+    563765|00000000||J'ai accepté un travail, et je compte m'en acquitter au mieux. Le cristal revient à Radovid.
+    563767|00000000||Très mauvaise idée. Cela nuirait à Philippa, mais aussi à Triss, à moi…
+    563761|00000000||Je dois le porter à Radovid.
+    563759|00000000||Tu as raison, garde-le.
+    563763|00000000||Très bien. Il sera en sécurité entre tes mains.
+    591001|00000000||Hmm… Je me demande quoi faire de ce cristal…
+    591003|00000000||Il ne doit en aucun cas tomber dans les mains de Radovid. Tu ferais mieux de me le confier.
+    590998|00000000||Je me demande quoi faire de ce cristal.
+    563787|00000000||Oh… C'est tout ce que je peux en tirer.
     519868|00000000||"Les guerres du Nord : mythes, mensonges et propagande." Traité historique, par Restif de Montholon.
     519879|00000000||Il manque plusieurs pages…
     572808|00000000||Le sorceleur George. On peut dire qu'il a fait son temps.
     572811|00000000||Les sorceleurs montés… La mode n'a jamais pris.
     572812|00000000||Oh… L'isolement des longs hivers suscite d'étranges visions.
     332443|002e3ae9||Livre
+   1031476|00000000||Ralentissez, bande de voyous !
    1012975|00000000||Aucune réaction du Conseil ou du Conclave ?
    1012976|00000000||Ah, vous plaisantez ? Ils ont demandé à Radovid "d'intercéder". Juste après avoir été nommés par lui.
    1012978|00000000||Plus tard, j'ai appris que, dressés au milieu des ruines de l'Académie, les prêtres du Feu Éternel avaient assuré à la populace que le même châtiment attendait tous les mages, et autres félons.
@@ -34,6 +63,8 @@
     408100|00000000||Autant la laisser. Triss s'est sûrement débarrassée de l'autre.
     385303|00000000||[La laisser.]
    1055413|f7a0c879||Guerrier nekker
+   1018000|e223a10b||Chasseur
+    465715|00000000||Hmm… La cage était aussi factice que le basilic.
    1069326|e0351e50||Coffre au trésor
     577727|00000000||Tu as encore bu ? Tu bouges comme une limace.
     577729|00000000||Tu appelles ça frapper fort ?
@@ -41,16 +72,127 @@
     577733|00000000||J'entraîne Ciri demain. Je suis sûr qu'elle me donnera plus de fil à retordre que toi.
     575089|00000000||Il paraît que le vieux s'est endormi pendant son cours.
     575093|00000000||Il y a peut-être de l'orage dans l'air…
+    470780|00000000||Vous survivez, certes, mais en volant… Un jour, ça finira mal. Vous devriez demander de l'aide.
+    470787|00000000||Et qui voudrait nous aider ?
+    544169|00000000||Une fois qu'on aura toutes les poules… on s'enfoncera dans les bois !
+    470791|00000000||Peter dit qu'on pourra chasser, qu'on portera des peaux de bête et qu'on fabriquera une hutte…
+    544171|00000000||Et on grandira jamais !
+    544173|00000000||*Soupir* Hmm… Oui, c'est probable, malheureusement…
+    544175|00000000||Bien… Bonne chance. Faites attention à vous.
+    470768|00000000||Vous devriez chercher de l'aide.
+    470739|00000000||Je dois partir.
+    470763|00000000||Je dois y aller.
+    471842|00000000||Vous allez rien dire à personne, hein ?
+    471844|00000000||Non, mais soyez prudents.
+    470778|00000000||Je dois partir.
+    470766|00000000||D'où viennent les empreintes de loup ?
+    470770|00000000||D'où viennent les empreintes de loup ?
+    470772|00000000||Papa chassait des loups, autrefois. Il nous a donné une patte de loup à chacun, comme porte-bonheur. On les a nouées à nos souliers.
+    470774|00000000||Parce que les loups volent les poules, vous voyez ?
+    470776|00000000||C'est vrai, oui… mais rarement une par une.
+    470747|00000000||Qu'est-ce que vous faites dans les bois ? Où sont vos parents ?
+    470753|00000000||Les soldats les ont attrapés.
+    470755|00000000||On traversait la rivière quand ils nous ont vus. On s'est mis à courir, mais papa et maman avaient des sacs… Ils nous ont dit de fuir.
+    470759|00000000||Et vous vivez seuls dans les bois depuis ?
+    470761|00000000||Ouais. On trouve des tas de trucs, on vole le reste… On se débrouille bien.
+    470737|00000000||Que faites-vous ici ?
+    470733|00000000||Je ne vous veux pas de mal.
+    471039|00000000||Qu'est-ce que vous faites là, alors ? C'est le capitaine à la moustache noire qui vous envoie ?
+    470735|00000000||Je ne connais pas de capitaine. J'ai juste suivi les traces des monstres voleurs de poules.
+    471041|00000000||*Renifle* Pff, pas la peine de faire des histoires pour quelques poules maigrichonnes.
+    470741|00000000||La vieille dame les aime pas, de toute façon. Elle est toujours à leur crier dessus. Et puis on dirait une sorcière.
+    470717|00000000||Attention, Peter, il a une épée !
+    471021|00000000||Un soldat !
+    470719|00000000||Il nous aura pas vivants !
    1074151|00000000||Hmm… Je me demande si les perroquets s'acclimatent à l'air des montagnes…
+   1222348|00000000||Reinald est mort depuis des siècles, mais son corps ne s'est pas décomposé. Le miasmeux a sûrement ralenti le processus.
+   1222585|00000000||Étrange. Je n'avais jamais vu d'armure pareille. Et ce médaillon… Une tête de loup, mais elle est plate.
+   1222350|00000000||Ah… Osmund a enfin envoyé quelqu'un. Les dieux semblent s'être souvenus de cette maudite vallée finalement. Je vous remercie.
+   1222414|00000000||Je n'en reviens pas qu'il soit parti. Par moments… je ne savais plus si j'étais moi ou le miasmeux. J'étais… peut-être les deux… ou bien ni l'un ni l'autre.
+   1222652|00000000||Inutile de me remercier. Je dois quand même préciser que ce n'est pas Osmund qui m'envoie, mais un prêtre du Feu Éternel.
+   1222354|00000000||Votre médaillon est différent.
+   1222386|00000000||Qui êtes-vous, au juste ? Votre médaillon en forme de tête de loup est étrange, il n'a rien à voir avec le mien.
+   1222388|00000000||Comment ça, étrange ? Je l'ai conçu et forgé de mes mains, comme tous les sorceleurs de Kaer Morhen.
+   1222589|00000000||Bel ouvrage. Mais je ne suis pas aussi bon artisan. Je tiens le mien de mon mentor. Comme tous les sorceleurs de Kaer Morhen…
+   1222591|00000000||Ça devait être différent à votre époque… À ce propos, quand êtes-vous arrivé dans cette mine ?
+   1222593|00000000||Hmmm… C'était en 970… Ou en 980… ? Je-Je ne me rappelle plus… Ah, bon sang, mes souvenirs sont confus… décousus.
+   1222595|00000000||Reinald, c'était il y a plus de trois cents ans.
+   1222597|00000000||Trois cents ?… Non, au bout de cinq ans, dix tout au plus, ils auraient envoyé quelqu'un à ma recherche ! Osmund… Osmund m'aurait retrouvé !
+   1222599|00000000||Merde…
+   1222601|00000000||Je suis désolé.
+   1222356|00000000||Le corps d'un sorceleur est parfait pour une possession.
+   1222390|00000000||Le miasmeux a eu de la chance que ce soit vous et pas un simple mortel qui arrive. Grâce à votre immunité, il pouvait posséder votre corps sans risquer de le détruire.
+   1222392|00000000||Quelle cruelle ironie… J'ai dû mobiliser toutes mes forces pour l'empêcher de s'échapper. Jusqu'à ce que je nous enferme dans cette prison de sel, du moins.
+   1223237|00000000||Avant moi, il possédait les malades. Ils étaient vite corrompus… déformés. Ils devenaient des morts immortels, sauvages et stupides.
+   1222466|00000000||Ces voix, ces torches… Ce n'était pas vous, si ?
+   1222603|00000000||Vous vous posez la question ? Le miasmeux voulait vous attirer ici. Moi, j'étais trop faible pour remarquer votre présence. Du moins au début.
+   1222783|00000000||Pourquoi vous a-t-on enfermé dans la mine ?
+   1222394|00000000||Que s'est-il passé ? Comment vous êtes-vous retrouvé piégé avec le miasmeux ?
+   1222396|00000000||Des fidèles m'ont engagé pour le chasser, mais dès qu'ils m'ont soupçonné d'être possédé, ils ont paniqué. Ils m'ont enfermé ici sans la moindre hésitation.
+   1223091|00000000||Ils auraient pu envoyer un exorciste, ou… ou même faire appel à un autre sorceleur !
+   1222454|00000000||Quant à ces pauvres diables dont les os jonchent la mine, ils ont tous été abandonnés pour la gloire du Feu Éternel !
+   1222462|00000000||Hmm. J'ai vu ça.
+   1222380|00000000||Très bien. Mais juste pour échanger quelques mots. C'est tout.
+   1222382|00000000||Je comprends votre ton, mais n'ayez crainte. Je ne lui veux aucun mal. Et… quand bien même, vous seriez là pour le protéger, non ?
+   1222689|00000000||Bien. Je vais chercher le prêtre.
+   1222360|00000000||D'accord. Je vais demander au prêtre de venir.
+   1222378|00000000||Non, désolé. Je ne vais pas risquer la vie de ce garçon. Vous êtes resté ici trop longtemps, seul avec le miasmeux… et vos pensées.
+   1222384|00000000||J'ai tout sacrifié pour sauver les autres, et vous croyez que je renoncerais à mes convictions pour tuer un putain de prêtre ?
+   1222458|00000000||Et vous croyez qu'après des siècles de tourments, échanger quelques mots avec un "putain de prêtre" va vous aider à trouver la paix ?
+   1222460|00000000||Bien, brûlez donc mon corps. Et ne traînez pas. Je me passerai de votre précieux bûcher.
+   1222701|00000000||Je regrette que ça doive se terminer ainsi.
+   1222703|00000000||Contentez-vous d'en finir.
+   1222362|00000000||Non. Je ne prendrai pas ce risque, ça n'en vaut pas la peine.
+   1222691|00000000||Parler au prêtre ne changera rien.
+   1222693|00000000||Pourquoi ? Vous comptez avoir un débat théologique ? Qu'est-ce que cela changerait de lui parler ? Laissez tomber, Reinald.
+   1222695|00000000||Je le regarderais dans les yeux… Je lui demanderais ce que sa religion pense de ceux qui condamnent un homme à la mort et à la damnation…
+   1222697|00000000||Ce garçon n'a rien à voir avec les prêtres qui vous ont enfermé ici il y a des siècles.
+   1222699|00000000||Vous pouvez me les amener à sa place ?… Non ? C'est bien ce que je pensais.
+   1222372|00000000||Vous n'êtes plus sous l'influence du spectre, mais vous m'avez l'air… agité. Je dois m'assurer que vous êtes en paix.
+   1222374|00000000||Vous voulez m'empêcher de devenir ce que nous chassons… Mais il me reste une affaire à régler. Soyez un frère. Aidez-moi, et je trouverai la paix.
+   1222376|00000000||Je pourrais aussi incinérer votre corps. Sur un bûcher, comme l'exige la guilde.
+   1222464|00000000||Vous m'obligeriez à quitter ce monde chargé de douleur et de regrets ? C'est le sort que vous me souhaitez, mon frère ?
+   1222687|00000000||Vous disiez qu'un prêtre vous avait envoyé. Amenez-le ici. J'aimerais lui parler, pour apaiser mon esprit.
+   1222368|00000000||Et maintenant ?
+   1222352|00000000||Vous pouvez me prouver que vous êtes Reinald ?
+   1222364|00000000||Le miasmeux a tenté de se faire passer pour un sorceleur tout à l'heure. Comment être sûr que vous êtes bien le vrai Reinald ?
+   1222366|00000000||Demandez-moi quelque chose que seul un Loup peut savoir, et vous serez fixé.
+   1222370|00000000||Vous êtes sûr d'être de l'École du Loup, au moins ? Votre armure a une certaine ressemblance, mais sa couleur, les clous, les rayures verticales…
+   1222646|00000000||À Kaer Morhen, tous les restes de matériaux étaient pour moi. On disait que tout ce que je touche se transforme en or.
+   1222648|00000000||Je peaufinais cette armure sur la Voie. Elle devait servir de prototype pour toute l'école… mais j'ai eu un "fâcheux contretemps".
+   1222650|00000000||Vous faisiez ça tout seul ? Sans atelier ? Vous avez raté votre vocation. Vous vous seriez forgé une jolie réputation comme tailleur ou armurier.
+   1223207|00000000||Osmund avait aussi quelques idées d'améliorations. Il les notait. Nous devions en discuter à notre retour à Kaer Morhen.
+   1222972|00000000||Je ne demande qu'à vous croire, vraiment. Vous avez des preuves ?
+   1222974|00000000||Fouillez mon corps. Les schémas se trouvent dans la poche gauche. Ils sont à vous.
+    563535|5a32e0f6||Mercenaire
     516508|b0678eeb||Cheval
+   1027682|00000000||Salut, Grison.
+    579355|00000000||Ah, vous voilà ! Bon, les règles sont simples : vous choisissez votre adversaire, vous pariez et ensuite vous faites un aller-retour jusqu'à Noirefutaie. Le premier arrivé gagne, l'autre peut aller pleurer dans les jupes de sa mère. Pigé ?
+   1027684|00000000||Alors, vous choisissez qui ? M-m-matko le B-b-b-b-bègue ? Hans Cul-de-fer ? Ou Bogdan le Noir ?
+    579374|00000000||Hans Cul-de-fer.
+    579383|00000000||J'ai envie de voir si Hans mérite bien son surnom.
+    579381|00000000||J'ai passé la moitié de ma vie à dos de bourrin… et l'autre moitié à dos de poney. Tu me fais pas peur.
+    579384|00000000||Pour cette fois, je vais choisir Bogdan le Noir.
+    579386|00000000||Va falloir t'accrocher, pépé.
+   1027686|00000000||OK, donnez-moi votre pari et… en selle !
+    579378|00000000||Je je je v-vais v-vous b-b-battre à pl-pl-pl… et m-merde !
+    579376|00000000||Je vais choisir Matko le Bègue.
+    579373|00000000||Matko le Bègue.
+    579364|00000000||En fait, j'ai changé d'avis, ça ne m'intéresse plus. Amusez-vous sans moi, messieurs.
+   1021674|00000000||J'ai changé d'avis, ça ne m'intéresse pas.
+    579375|00000000||Bogdan le Noir.
+    470650|00000000||Que la peste emporte ces fils de pute ! Ils m'en ont encore volé une !
+   1223153|e3726633||Victime de la peste
+   1073063|00000000||Merci, sorceleur ! Faut que vous passiez voir ma forge à Valmûrier. Je vous y donnerai quelque chose pour vous remercier.
+    572370|00018392||Élémentaire de terre
     574625|00000000||J'espère bien.
     574640|00000000||J'espère bien. Si tu recommences, Vesemir s'est juré de te faire manger un bol de limaces salées.
     574641|00000000||Ah ah ah ! Berk !
     576732|00000000||Tout à fait. Alors fais un effort.
     576738|00000000||Évidemment. C'est une école de sorceleurs, oui ou non ?
    1058679|00000000||Bien sûr. [COMMENCER LE DIDACTICIEL]
-   1058682|00000000||Pas cette fois. Crois-moi, il vaut mieux ne pas faire attendre Vesemir.
    1058680|00000000||Pas cette fois. [PASSER LE DIDACTICIEL]
+   1058682|00000000||Pas cette fois. Crois-moi, il vaut mieux ne pas faire attendre Vesemir.
     574642|00000000||Viens, on va s'entraîner avec les autres.
     576736|00000000||On passe par les murs ?
     574633|00000000||Les excuses ne suffisent pas.
@@ -98,6 +240,74 @@
    1075064|00000000||Ciri, on surnomme parfois Quen le "bouclier du sorceleur". Maintenant observe, tu comprendras pourquoi.
    1075062|00000000||Tu vois ? Sans le signe de Quen, je brûlerais comme une torche.
    1075060|00000000||Tu as vu, Ciri ? Aard peut à peu près tout déséquilibrer, et briser l'élan.
+   1223186|00000000||Eh, eh, attendez ! Re-Reculez ! Je ne suis pas un guerrier… À l'aide ! Au secours !
+   1222157|00000000||Du calme. Je n'ai pas pour habitude de tuer les prêtres dans le besoin.
+   1222223|00000000||J-Je suis diacre, pas prêtre ! J'ai quitté le séminaire il y a à peine deux mois ! C'est ma première mission, et… on ne tue pas un diacre à sa première mission !
+   1222225|00000000||Une minute, vos yeux… Cette coloration jaune, ces pupilles… J'ai lu quelque chose à ce sujet ! Vous êtes un sorceleur ?
+   1223121|00000000||Eh bien, je ne suis ni un chat de gouttière ni une couleuvre, alors…
+   1223123|00000000||Les couleuvres ont des pupilles rondes et non pas fendues, en fait, mais… Ah, qu'importe ! Je vous en prie, aidez-moi. S'ils forcent la porte, la peste se répandra !
+   1222163|00000000||J'ai aidé l'un des vôtres récemment.
+   1222177|00000000||Votre église aurait une seconde dette envers moi. J'ai aidé un autre prêtre à brûler les morts sur un champ de bataille près d'ici, il n'y a pas longtemps.
+   1222217|00000000||Eh bien, je vous remercie pour votre bonté. C'est une vertu rare par les temps qui courent.
+   1222452|00000000||Hmm, ça, c'est sûr…
+   1222165|00000000||Quelqu'un de votre communauté m'a trompé.
+   1222219|00000000||J'ai rencontré l'un des vôtres récemment. En fait, il a tenté de me tuer, près d'ici. Il n'a pas apprécié que je découvre son trafic de fisstech. Alors, pourquoi devrais-je vous faire confiance ?
+   1222221|00000000||Il me peine d'entendre cela. Je prierai pour qu'il s'en repente. Hélas, même les fidèles de l'Église peuvent commettre des erreurs.
+   1222456|00000000||Ou avoir tendance à minimiser les faits.
+   1222274|00000000||Un prêtre qui demande l'aide d'un mutant ?
+   1222276|00000000||En désespoir de cause, on fait appel à un sorceleur, c'est ça ? Les mutants ne sont pourtant pas bien vus par votre église, non ?
+   1222278|00000000||Beaucoup dans nos rangs commettent cette erreur, hélas. J'en ai discuté longuement avec mon mentor. Chacun peut faire le bien dans ce monde, même les aberrations génétiques.
+   1222285|00000000||Hmm… Vous êtes vraiment prêtre du Feu Éternel ?
+   1222267|00000000||Entendu, je vais vous aider. Mais vous attendez ici… avec l'argent.
+   1222269|00000000||Bien sûr ! Vu la situation, je pense que cet argent ne pourrait pas être mieux dépensé.
+   1222472|00000000||J'y pense, prenez cette clef. Elle ouvre la porte de la mine. Que le Feu Éternel vous guide !
+   1222474|00000000||Hmpf. Je serais curieux de le voir, ce Feu Éternel. Au revoir.
+   1222241|00000000||Je vais vous aider.
+   1222261|00000000||Il pourrait bien vous falloir un sorceleur, mais il va falloir m'en dire plus. Cet "esprit", il occupe cette mine depuis longtemps ? Quelqu'un l'a vraiment vu ?
+   1222280|00000000||Je n'ai pu consulter qu'une partie des archives. À cause de mon rang. Mais… si je me souviens bien, il est apparu il y a longtemps, après l'arrivée des victimes de la première épidémie.
+   1222282|00000000||L'Église a déjà tenté d'exorciser l'esprit, mais… Je… je ne sais pas comment les choses ont tourné.
+   1223125|00000000||Hmpf. Ils sont un peu avares en détails, non ?
+   1223081|00000000||En effet… Nos hospitaliers ont entendu des murmures dans la nuit récemment. Des appels à la miséricorde, mais… du genre étranges et… surnaturels.
+   1223127|00000000||Tout ça est terrifiant. Je n'en sais pas plus, hélas.
+   1222259|00000000||Parlez-moi de l'esprit.
+   1222161|00000000||Une autre fois, peut-être.
+   1222169|00000000||Je ne peux pas m'occuper de ça pour l'instant. Plus tard, peut-être.
+   1222171|00000000||Plus tard ? Il n'y aura peut-être plus personne à sauver "plus tard"…
+   1222257|00000000||Désolé. Ne comptez pas sur moi.
+   1222243|00000000||Parlons de ma récompense.
+   1222245|00000000||Vu les enjeux, j'espère qu'on pourra s'entendre sur une juste récompense.
+   1222247|00000000||Tant que ce que j'ai sur moi vous semble "juste"…
+   1222249|00000000||Non, c'est trop. Ça dépasse largement la somme que m'a allouée l'Église.
+   1222251|00000000||Une demande honnête, mais… ce n'est pas dans mes moyens.
+   1222255|00000000||Combien ? Je suis venu sauver des vies, pas acheter des terres !
+   1222253|00000000||Marché conclu. J'en serai un peu de ma poche, mais avec vous, ce ne sera sûrement pas de l'argent gâché.
+   1222263|00000000||Je me suis occupé des déserteurs. Ils ne causeront plus de problème. Pour le moment, du moins.
+   1222265|00000000||Vraiment ? Excellente nouvelle ! Mais il vaut quand même mieux agir vite. La mine ne restera pas coupée du monde indéfiniment…
+   1222173|00000000||Bon, parlons un peu de votre problème…
+   1222175|00000000||Vous… vous êtes revenu ! Vous allez m'aider, alors ?
+   1222159|00000000||Que s'est-il passé ?
+   1222227|00000000||D'accord, le prêtre, mais j'ai une question. Comment un sorceleur peut-il combattre une peste ?
+   1222229|00000000||Je me suis mal exprimé. C'est sa cause qu'il faut combattre. Cette mine, la Fosse aux diables, sert depuis longtemps de… euh… de lieu de confinement pour les cas désespérés. De… de havre isolé pour les malades…
+   1222469|00000000||Un "mouroir". C'est sûrement ça, le mot que vous cherchez.
+   1222298|00000000||Vous me voyez honteux de l'admettre… Mais… voyez-vous un autre moyen de contenir la Brume écarlate ? Un mal incurable qui se répand comme un brasier déchaîné ?
+   1222308|00000000||Aussi inhumaine que soit votre méthode, elle me paraît sensée. C'est indéniable, hélas.
+   1222302|00000000||Vous n'aviez pas le choix, c'est évident.
+   1222300|00000000||Vous avez condamné ces gens à une mort atroce.
+   1222304|00000000||Pff, désolé, mais ne comptez pas sur ma compassion. Des gens qu'on jette dans un trou, qu'on laisse souffrir et mourir à petit feu… Eux, je peux les plaindre.
+   1222306|00000000||Vous laisseriez les pestiférés infecter leurs voisins, leur famille ? Ils mourraient de toute façon, en emportant d'autres gens avec eux. L'Église cherche à protéger ceux qui ne sont pas affectés.
+   1222290|00000000||Hmm, ce qui est fait est fait. Qu'attendez-vous de moi, au juste ?
+   1222785|00000000||Il y a une grotte de sel hantée au fond de la mine. D'après de vieilles archives, quelqu'un, ou plutôt quelque... quelque "chose", y rôde. Un esprit qui propage la peste et murmure dans les ténèbres…
+   1222292|00000000||Par malheur, des déserteurs se sont emparés de la Fosse. Ils ont massacré les malades. On m'a chargé de les faire partir. S'ils forcent la porte de la mine et s'y enfoncent…
+   1222294|00000000||Nous n'aurons pas que la Catriona à arrêter… Hmm. Et… j'imagine que les déserteurs n'ont pas tenu compte de votre mise en garde ?
+   1222296|00000000||Pire que ça ! Ils ont massacré mon escorte. Moi seul en ai réchappé… Je vous en prie, aidez-moi ! J'ai de quoi vous payer. Il faut éliminer ces bandits, ainsi que… ce… cet immonde esprit.
+   1223059|00000000||L'escorte du prêtre. Ces blessures ont été faites à l'épée. Par les déserteurs ?
+   1222151|00000000||Que faire ? Que faire ? Et que vont devenir les survivants ? Feu Éternel, guide-moi, je t'en conjure…
+   1222154|00000000||Adresse-moi un signe, quel qu'il soit… Éclaire les ténèbres qui veulent nous engloutir !
+   1222271|00000000||Que le Feu Éternel éclaire votre chemin !
+   1223075|00000000||Oh… euh… Délivre-nous du mal, ô Flamme Divine…
+   1223077|00000000||Euh… D-Dévore cette… cette engeance maléfique de tes flammes et, euh… éclaire la voie de… hmm…
+   1223079|00000000||Guide-nous dans les ténèbres, ô Lumière Suprême… Non, hmm… Ô Lumière, euh… Éternelle…
+    467274|40b3f5c5||Réfugié
     574124|00000000||Nous l'avons trop gâtée.
     574263|00000000||Nous l'avons beaucoup trop gâtée.
     574265|00000000||Nous ? J'ai toujours dit que Ciri avait besoin d'une éducation rigoureuse.
@@ -134,6 +344,33 @@
     478433|00000000||Comme vous voulez, mais vous entrez pas, alors. Reluquer une pute par sa fenêtre, c'est gratuit. Ici, on fait de l'art.
     478431|00000000||Pas de billet, merci.
     480265|00000000||Besoin d'un billet ?
+    540303|00000000||Admirez donc, et laissez-vous tenter !
+    540302|00000000||Mes plus humbles salutations ! Jetez donc un œil !
+    541747|00000000||Salutations.
+    540321|00000000||Bonjour. Quel bon vent vous amène, et où vous poussera-t-il ?
+    541748|00000000||Difficile à dire. J'ai déjà beaucoup voyagé, et je compte bien continuer.
+    540322|00000000||Tout comme moi, en somme.
+    540386|00000000||Je voudrais jeter un œil à vos marchandises.
+    540296|00000000||Qu'avez-vous à vendre ?
+    540393|00000000||Belle région. Les affaires vont bien, j'imagine ?
+    540394|00000000||Les voyageurs, dont beaucoup de réfugiés, affluent vers le nord. Comme ils sont à court de tout, je les dépanne.
+    540395|00000000||Et les soldats ?
+    540396|00000000||Négoce un jour, pot-de-vin le lendemain, extorsion à l'occasion… Enfin, l'un dans l'autre, j'ai pas à me plaindre.
+    540298|00000000||Comment vont les affaires ?
+    540397|00000000||Si près de Novigrad… Pourquoi ne pas vous installer en ville ?
+    540398|00000000||Les guildes y font la loi… Et n'hésitent pas à casser les prix pour étouffer la concurrence.
+    546757|00000000||Ici, je fais de bonnes affaires sans personne pour me houspiller, et sans remparts oppressants. J'aime le grand air, comme vous j'imagine.
+    540299|00000000||Le négoce ne serait pas plus florissant en ville ?
+    540385|00000000||Au revoir.
+    546750|00000000||Nous nous reverrons, j'en suis sûr.
+    540300|00000000||Au revoir.
+    540297|00000000||L'endroit est dangereux.
+    540387|00000000||Drôle d'endroit pour un camelot itinérant.
+    540388|00000000||Le profit ne va pas sans risque. La guerre apporte son lot d'épreuves, c'est vrai, mais la vie continue. Et qui dit vie dit commerce.
+    540389|00000000||Vous risquez votre peau pour un peu d'or ?
+    540390|00000000||L'or importe peu, en vérité. J'ai beau faire, l'ami, je ne tiens pas en place. Aussi je sillonne le vaste monde.
+    546754|00000000||Je vois du pays, je fais des rencontres inédites. Telle est ma passion, et le risque en vaut la peine.
+    540384|00000000||Les montagnes ne se rencontrent pas, mais les hommes…
    1050491|7ef171cd||Molosse de la Chasse Sauvage
     307008|103d66e3||Lièvre
     578399|00000000||Tu n'es pas censé faire quelque chose ?
@@ -152,8 +389,15 @@
    1071628|00000000||Je veux rester avec toi encore un peu.
    1071433|00000000||Je me disais que Ciri pourrait patienter un peu…
    1071435|00000000||Ce serait contre-productif. Et pas très raisonnable.
-    572370|00018392||Élémentaire de terre
     515498|00307f1b||Chèvre
+   1041861|4fe30dd7||Fossoyeur
+   1222813|00000000||Pitié… aidez-moi…
+   1222321|00000000||Hmm. Il a l'air plutôt sincère.
+   1222323|00000000||Mais impossible d'en être sûr. Ça pourrait être un piège.
+   1223016|00000000||Une note, ici ?
+   1222319|00000000||La recette d'une potion… à base de chélidoine ? Hmm…
+   1222791|00000000||Je ferais bien de chercher les endroits indiqués.
+   1223162|00000000||Oh, j'ai un mauvais pressentiment… Qui êtes-vous ?
    1047350|00000000||Ah !
    1047352|00000000||Ça par exemple, il a compris la leçon !
    1075155|00000000||Ciri, redescends !
@@ -169,6 +413,111 @@
     591841|00000000||Geralt !
    1075195|00000000||Lambe…
    1075197|00000000||Ciri…
+   1222670|00000000||Ce garçon est innocent.
+   1222672|00000000||Regardez-le. C'est encore un enfant. Quelles atrocités a-t-il commises ?
+   1223022|00000000||Il a oublié un verset dans un hymne ? Mangé un beignet durant un jeûne ? Son seul crime est d'avoir cru des hypocrites.
+   1222676|00000000||Ce garçon, ce prêtre, traite les sorceleurs comme des êtres humains. Ils se font rares, les gens comme lui.
+   1222678|00000000||Euh, e-en fait, c'est une erreur de croire que l'Église méprise les mutants. Nos textes sacrés disent : "Respecte et chéris toutes les créatures vivantes."
+   1223180|00000000||Hmm, on a la preuve de ce respect pour la vie ici, c'est ça ?
+   1222668|00000000||Reinald a raison.
+   1222658|00000000||Reinald marque un point. La Fosse aux diables est l'œuvre de votre église. Le Feu Éternel a causé tant de souffrances qu'elles ont engendré un miasmeux, un esprit de la peste.
+   1222660|00000000||Vous entendez, le prêtre ? C'est votre faute ! Et celle de tous ceux qui vénèrent cette maudite flamme !
+   1222662|00000000||Mais je, je… Sorceleur ! J-Je croyais que vous m'aideriez !
+   1222865|00000000||Les vôtres ont tenté de me tuer plus d'une fois. Comme ce prêtre qui faisait du trafic de fisstech et que j'ai démasqué.
+   1222875|00000000||"Que dois-je faire ? Où vais-je aller ?" Il est question de vous ? C'est vous, la victime ?!
+   1222883|00000000||De tels crimes sont impardonnables.
+   1222899|00000000||Votre colère est légitime. Le Feu Éternel vous a condamné. Comme les innombrables gens qui ont péri ici.
+   1223155|00000000||Ce qu'ils ont fait est impardonnable, il ne faut pas qu'on l'oublie.
+   1223001|00000000||L'oublier ? Ça, jamais ! Je compte fonder un hôpital ici ! Je… je ferai tout ce qui est en mon pouvoir pour arranger les choses.
+   1223166|00000000||Si quelqu'un veut se repentir ou… ou s'amender, on ne peut pas… O-On ne peut pas, euh…
+   1222905|00000000||Qu'est-ce qui me prend ? Je résiste à un miasmeux rouge pendant des siècles, mais je ne trouve pas la force de pardonner à ce garçon ? C'est comme si… la haine m'avait permis de garder la raison toutes ces années…
+   1222907|00000000||C'était peut-être le cas, mais c'est fini. L'important, c'est le choix que vous allez faire maintenant.
+   1222911|00000000||Votre sacrifice n'a pas été vain. Je n'appartiens plus à l'Église. Je vais transformer ce tombeau. En faire un sanctuaire pour les vivants qui vous sera consacré, brave sorceleur.
+   1222913|00000000||Votre rôle a été déterminant, Reinald. Pour lui, et bien d'autres.
+   1223006|00000000||Ha… Un autre nom conviendra bien mieux que le mien. Je ne suis qu'un sorceleur. Pas un saint, ni un faiseur de miracles.
+   1223008|00000000||Et j'aime autant que les choses restent ainsi.
+   1223010|00000000||C'est fini. Il est temps de partir.
+   1222903|00000000||Mensonges… Cet égoïste ment pour sauver sa peau. Les gens ne changent jamais.
+   1222948|00000000||Du calme, Reinald.
+   1222957|00000000||Aaaahh !
+   1223018|00000000||Et merde… C'est foutu pour la catharsis et la recherche de la paix intérieure. J'aurais dû m'y attendre.
+   1223164|00000000||Il a vécu et péri en sorceleur… pour finir en esprit vengeur…
+   1223020|00000000||Je ferais bien de brûler les corps, et de partir.
+   1222895|00000000||Vous n'avez pas besoin du soutien d'une église pour faire le bien. Vous y arriverez seul.
+   1222897|00000000||Oui, c'est vrai. Vous avez raison, sorceleurs. Je ne vais pas rentrer à Novigrad ! Je vais rester ici, transformer cet endroit, en faire un havre digne de ce nom pour les malades !
+   1222999|00000000||Après tout, j'ai rejoint le séminaire pour servir les gens, pas l'Église !
+   1222881|00000000||Vous n'avez pas besoin d'une église pour faire le bien, prêtre.
+   1222887|00000000||Que voulez-vous, Reinald ?
+   1222889|00000000||Vous êtes un héros, vous avez empêché une catastrophe. Il est temps d'accepter votre sort. Que voulez-vous ? Que vous faut-il pour y arriver ?
+   1222891|00000000||Ha, un héros… Autrefois, je me souciais de l'intérêt général. J'étais jeune, ambitieux, avec une forte envie de me battre. Mais aujourd'hui… aujourd'hui, je suis juste fatigué.
+   1222997|00000000||Je n'ai ni la force ni l'envie de philosopher. Et je ne vais pas me réjouir du salut du monde. Le temps m'a privé de tout ça.
+   1223149|00000000||Vous avez peut-être perdu l'envie de vous battre, mais je connais quelqu'un qui l'a toujours.
+   1222893|00000000||Votre foi en lui est admirable, mais quand il partira d'ici, l'argent de l'église refroidira son cœur ardent. Il sera comme tous les autres.
+   1222879|00000000||Fantastique. Une crise de foi. Moment de faiblesse ou regrets sincères ? Qu'allez-vous faire maintenant que vous savez la vérité sur ce qui est arrivé ici ?
+   1222680|00000000||Comme dit le prieur, il… Oh, au diable ! Je me suis fié à leurs paroles toute ma vie, mais maintenant ? Maintenant que je sais leur imposture ?
+   1222682|00000000||L'Église doit protéger les faibles, entretenir l'espoir. Mais… après ce que j'ai vu ici… Oh, que dois-je faire ? Où vais-je aller ?
+   1222853|00000000||Vous aimez les généralisations ? Vu que tous les prêtres sont mauvais, alors tous les sorceleurs sont des monstres insensibles ?
+   1222855|00000000||Vous en connaissez, des sorceleurs qui ont emprisonné des malades et des mourants ? De quel côté êtes-vous, hein ?
+   1222666|00000000||Les prêtres ne sont pas tous aussi mauvais.
+   1223115|00000000||J'ai trouvé un prêtre qui s'est sacrifié.
+   1222654|00000000||J'ai trouvé les restes d'un prêtre dans la mine. Il a clairement choisi de rester, il ne voulait pas abandonner les malades. Est-ce un criminel ? Un hypocrite ?
+   1222656|00000000||Bien, mais qui l'a enfermé ? Des goules ? Des trolls ? Le miasmeux rouge ? Non, c'était cette putain d'Église du Feu Éternel !
+   1222628|00000000||Je… Je ne comprends pas… Comment ont-ils pu laisser faire ? Tous ces corps, tout ce sang… Je… Je n'en savais rien.
+   1222630|00000000||Ah, Reinald ? Je sais les horreurs que vous avez subies. Je pourrais peut-être vous aider… mais comment peut-on s'amender pour une telle tragédie ? Un humble diacre comme moi…
+   1222632|00000000||Diacre ou hiérarque, vous êtes tous pareils. Le Feu Éternel n'accepte que deux types d'individus dans ses rangs : les criminels et les hypocrites.
+   1222950|00000000||Par le Feu Éternel… Je crois… Non, je sais ce que je dois faire. Mais… rejeter ces vingt dernières années, ce que je savais du monde…
+   1222952|00000000||Tenez, votre récompense. Je vous remercie pour… euh… pour votre aide.
+   1222954|00000000||Vous n'êtes pas obligé de tout rejeter d'un bloc. Il y avait une part de sagesse dans ce que vous récitiez.
+   1223012|00000000||Possible… Oui, il ne me reste peut-être qu'à trouver la véritable lumière du Feu Éternel. Je dois peut-être la chercher ailleurs.
+   1223014|00000000||Adieu, ex-diacre. Et bonne chance dans vos recherches.
+   1222982|00000000||Bonne chance sur la Voie, sorceleur !
+   1222980|00000000||Je vous remercie, sorceleur. En mon nom et celui de l'Église du Feu Éternel.
+   1222987|00000000||La véritable lumière ne se trouve pas dans les coffres du hiérarque ou les flammes des bûchers de Novigrad.
+   1222989|00000000||Le Feu Éternel ne détruit pas la malfaisance qui nous entoure. Il cherche plutôt à nourrir le bon en nous.
+   1223024|00000000||Celui qui commet le mal en son nom ne fait que servir les ténèbres.
+   1223026|00000000||Qui abandonne les gens dans le besoin n'est pas digne de se présenter comme un serviteur de la lumière.
+   1223201|00000000||Si je trouve les notes d'Osmund dont parlait Reinald, je devrais pouvoir terminer leur armure.
+   1223232|00000000||Il faudra que je fasse des recherches à la bibliothèque de Kaer Morhen.
+   1223203|00000000||Hmm. Les schémas de Reinald semblent être le lien manquant avec les notes que j'ai trouvées à Kaer Morhen.
+   1223234|00000000||Je dois en savoir assez pour fabriquer l'armure, maintenant.
+   1000357|00000000||Au train où vont les choses, Ciri n'aura bientôt plus besoin de ton aide.
+   1000359|00000000||Ni de la tienne.
+   1000361|00000000||En effet. Elle fera comme bon lui semble, et je la soutiendrai. Et toi ? Résolu à la laisser vivre sa vie ?
+   1000362|00000000||Je ne l'obligerai en rien, si telle est ta question.
+   1000123|00000000||Ciri n'aura bientôt plus besoin de ton aide.
+   1000343|00000000||Délicieux, ce monde des Aen Elle. On pourrait aisément tomber sous le charme.
+   1000345|00000000||Dis-moi… Comment faites-vous ? Vous jouez de la flûte, peignez des licornes en rut dans de somptueux paysages, érigez des tours délicatement sculptées…
+   1000347|00000000||Puis vous nous assassinez. Sans un battement de cil, sans une once de culpabilité. Comment faites-vous ?
+   1000349|00000000||Vous autres humains, vous culpabilisez quand vous tuez des Aen Seidhe ? Ou des nains ? Ou des dryades ?
+   1000351|00000000||Nous sommes pareils… Tout simplement parce que nous tenons les autres pour inférieurs.
+   1000121|00000000||Charmant, ce monde des Aen Elle.
+   1000353|00000000||Tu vas sûrement m'accuser d'être un humain primitif, mais pourquoi ne pas tout bonnement tuer Ge'els ?
+   1000337|00000000||Parce que nous n'y gagnerons rien à court terme… et nous risquerions de ne jamais voir le long terme.
+   1000339|00000000||Ce qui compte avec Ge'els, ce n'est pas ce qu'il fait sur le champ de bataille, mais ce qu'il fait en dehors. Il manipule. Il ment. Contrôle les Aen Elle.
+   1000341|00000000||Retirer cette pièce de l'échiquier ne changera nullement l'issue de la partie. L'y laisser pourrait permettre d'en changer les règles.
+   1000355|00000000||Tu ne m'as toujours pas expliqué pourquoi il faut finasser avec ce subterfuge, au lieu de tuer Ge'els.
+   1000122|00000000||Pourquoi ne pas tuer Ge'els, tout bêtement ?
+   1000285|00000000||Parle-moi un peu de Caranthir, tu le connais bien ?
+   1000287|00000000||Le connaître ? Je l'ai façonné.
+   1000289|00000000||Élevé, tu veux dire ?
+   1000291|00000000||Non, Geralt. J'ai commencé à le concevoir bien avant sa naissance.
+   1000293|00000000||Des siècles durant j'ai… apparié des elfes qui manifestaient certaines aptitudes, à manipuler le temps et l'espace. Il est le fruit de tous ces efforts. Caranthir, l'enfant prodigue.
+   1000295|00000000||Un enfant prodigue qui s'est mué en criminel.
+    307750|00000000||Parle-moi de Caranthir.
+   1000190|00000000||Trouve Zireael… Le temps presse…
+   1000192|00000000||Adieu.
+   1000125|00000000||Adieu.
+   1000124|00000000||Pourquoi aides-tu Ciri ?
+   1000196|00000000||La première fois que tu as vu Ciri, tu l'as emprisonnée. Désormais, tu la protèges… quitte à combattre les tiens. C'est une sacrée volte-face.
+   1000198|00000000||Premièrement, je ne l'ai jamais emprisonnée. Elle m'a trouvée. C'était son destin.
+   1000200|00000000||C'est ça, oui. Passons au "deuxièmement". Pourquoi l'aides-tu ?
+   1000202|00000000||Parce qu'elle représente un danger. Un péril mortel.
+   1000204|00000000||Tu vois en elle une humaine, ta propre fille, même. À mes yeux, elle est le Sang ancien. Un pouvoir qui peut détruire le monde. Qui doit à tout prix échapper aux griffes avides d'Eredin.
+   1000206|00000000||Nos motifs diffèrent, je l'admets. Et pourtant, nous partageons un même but. Tu devrais donc me faire confiance… ou au moins essayer.
+   1000194|00000000||Oui, Geralt ?
+   1051424|f11e033c||Maître forgeron
+   1031427|775f49f7||Berger
+   1028676|f0a697fc||Fantôme de sorceleur
    1055653|31c17949||Corbeau
     591090|00000000||Un crâne d'oiseau… dans un cristal noir. Quelque chose me dit qu'il appartient à Yen…
     577144|00000000||Ça ne m'amuse pas du tout, tu sais.
@@ -178,6 +527,9 @@
     577169|00000000||File, avant que Vesemir la fasse mourir d'ennui avec ses gravures.
     577154|00000000||Bon… à plus tard.
     577155|00000000||Hmm... à plus tard.
+    595891|fbee3e23||Paysanne
+    175619|ea15b01b||Aubergiste
+    451163|cc663b8e||Marchand
     515166|00000000||Ah, un signal…
     515165|00000000||Rien de ce côté…
     515167|00000000||Le signal s'intensifie…
@@ -186,6 +538,7 @@
    1065315|00000000||Aha… Ça chauffe… Ça chauffe… Je brûle.
    1065341|00000000||Ah… Saleté de chat. Ffwsshht !
    1056125|00000000||Merde. J'ai perdu le signal.
+   1119611|28cfaa13||Réserve
     452929|f373a1e0||Brumelin
    1020642|00000000||La tombe de Léo. Une mort inutile… et qui aurait pu être évitée.
     573897|00000000||"Goules et algoules, ou les vils habitants de la Nécropole", par John de Brugge. Le titre est alléchant, mais c'est un vrai pensum.
@@ -194,6 +547,15 @@
     573903|00000000||Les notes de Ciri. Plutôt… chaotiques.
    1045978|00000000||Hmm… Ça bosse dur, à ce que je vois.
     573895|00000000||"Le Bestiaire de Frère Adalbert". Un classique.
+    590026|00000000||…Et Francesca est tout aussi hésitante. Ni elle ni Ida ne veut s'engager à l'aveuglette.
+    590027|00000000||Elles cesseront d'hésiter quand nous aurons convaincu Keira et Fringilla.
+    590028|00000000||Fringilla est avec nous. Elle nous rejoindra dès qu'elle aura conclu une affaire urgente à Nilfgaard.
+    590029|00000000||Formidable, il ne reste que Keira. Seul problème : j'ignore totalement où la trouver.
+    590030|00000000||Et Yennefer et Triss ?
+    590031|00000000||Yennefer n'a jamais appartenu à la Loge... Et Triss, ma foi nous verrons. Je dois déjà recouvrer la vue. Ensuite, j'irai à Novigrad voir Arthur de Vleester. Il paraît que c'est aussi là que Triss fait la noce.
+    590032|00000000||À quoi bon insister ? Phil, pardon de te dire ça, mais tu ne récupéreras jamais tes yeux toute seule.
+    589901|00000000||Vilgefortz l'a bien fait. J'emploie la même méthode : culture de tissus sur pierres précieuses.
+    589902|00000000||C'est de la folie… te falloir… -ouvoir… te placer… -rand danger…
    1075855|00000000||Hmm. Beau spécimen.
    1028457|00000000||C'est le katakan de ton contrat ?
    1028458|00000000||Hin-hin. Ça m'aura pris un mois pour le débusquer, mais j'ai fini par avoir sa peau.
@@ -238,6 +600,33 @@
    1056879|00000000||Tu vas chercher Ciri ?
    1047896|00000000||Hin-hin. Vesemir veut qu'elle s'entraîne.
    1047898|00000000||Je vous rejoins dès que j'aurai fini.
+   1222610|00000000||Des preuves de la cruauté de votre église.
+   1222616|00000000||Des griffures sur des murs de pierre, des corps de gens morts en souffrant, un miasmeux rouge engendré par leurs souffrances collectives…
+   1222618|00000000||Les prêtres ont enfermé les malades dans la mine, en les condamnant à une mort cruelle.
+   1222620|00000000||Non… Non… V-Vous devez mal interpréter les choses. Mes frères n'auraient jamais abandonné leurs enseignements. I-Ils tentaient sûrement d'apporter leur aide.
+   1222622|00000000||Au début, oui. Ils ont engagé un sorceleur, en fait. Mais ensuite, ils ont à nouveau condamné la mine, en le piégeant, lui, avec tous les autres.
+   1222624|00000000||Bien, je vous remercie, mais je crains que la magie noire de ces grottes n'ait altéré votre jugement. Le Feu Éternel éclaire notre chemin.
+   1222626|00000000||Désolé de vous le rappeler, mais la nature du feu est de détruire. La lumière n'est qu'une conséquence.
+   1222765|00000000||Il doit y avoir une autre explication aux corps que vous avez trouvés. Je suis sûr que l'Église aura le fin mot de cette histoire.
+   1223137|00000000||Tenez, votre récompense. Je vous remercie.
+   1222767|00000000||Adieu, prêtre.
+   1222612|00000000||La cruauté humaine et un miasmeux rouge. Je me suis débarrassé du spectre.
+   1222614|00000000||Je vois… Eh bien, merci, sorceleur. Tenez, votre récompense. Vous avez évité un sort terrible à Velen… Oh, pourriez-vous me donner votre nom ? C'est pour nos chroniques.
+   1222763|00000000||Reinald. Indiquez que le sauveur de Velen s'appelle Reinald. Adieu, prêtre.
+   1222608|00000000||Les détails sont sans importance.
+   1222508|00000000||Le problème est réglé. La mine est sûre.
+   1222606|00000000||Oh, le Feu Éternel soit loué ! Quel soulagement ! Puis-je savoir ce que vous avez trouvé ?
+    470706|00000000||Des traces de pas, des petits pieds, juste à côté des empreintes de loup. Mais aucun signe de lutte…
+    470708|00000000||Et maintenant il ne reste plus que des traces de pas… Si s'agit d'un loup-garou, c'est un drôle de phénomène…
+    470711|00000000||De petites traces de pas… Intéressant.
+    470704|00000000||Pas de doute, ce sont bien des empreintes de loups. Mais quelque chose cloche…
+    470895|00000000||Mes poules ! Ces petits morveux ont pris toutes mes poules !
+    470887|00000000||Je peux leur redonner du grain, grand-mère ?
+    470889|00000000||Non, ça suffit. Et m'appelle pas grand-mère.
+    470891|00000000||Oui, oui, d'accord.
+    472440|00000000||T'as vu la poule tachetée ? On peut dire que c'est la mienne, grand-mère ?
+    470893|00000000||*Soupir* Oui, mon enfant, on va dire ça.
+    166469|d6a00ba0||Paysan
    1058289|0a09c08e||Ribaude des marais
    1047842|00000000||L'amour ne connaît pas de frontières.
    1047848|00000000||Je vois… L'amour ne connaît pas de frontières.
@@ -255,6 +644,25 @@
    1047834|00000000||Sans vous, il y en aurait eu un de plus. Lena… Grâce à votre potion, elle a survécu.
    1047836|00000000||C'est rare de voir un soldat du Nilfgaard s'intéresser au sort d'une Nordienne. Rare et plutôt surprenant.
    1047838|00000000||La nuit où le griffon l'a attaquée, elle… elle venait me retrouver, dans les bois près de la garnison.
+    563532|0030c07e||Hans de Cidaris
+   1038368|00000000||Vous avez vu ses dents ? Il pourrait percer une armure nilfgaardienne, je parie.
+   1038370|00000000||Si c'est un basilic… pourquoi qu'on n'est pas tous pétrifiés ?
+   1038372|00000000||Elle est pas trop petite, la cage ? Il peut même pas se retourner.
+   1038366|00000000||Vous trouvez pas qu'il ressemble au caporal Heribert ?
+   1032201|00000000||Bande de sauvages ! Z'avez fait peur à mon canasson !
+   1031788|00000000||Merde !
+    579319|00000000||Bon, il y a d'autres candidats ?
+    579329|00000000||Yaaaa !
+    579331|00000000||Fai-faites place, mi-mi-minables ! M-ma-matko a-arrive !
+    579339|00000000||Hé, sorceleur ! T'as été fini à la pisse ou quoi ?
+    579341|00000000||Je vais gagner, même si je dois labourer les flancs de ma jument avec mes éperons !
+    579313|00000000||Je suis pas un bavard, mais une fois en selle… tu trouveras pas plus rapide que moi !
+    579337|00000000||Yiiih-haaah !
+    579335|00000000||Plus vite, Fayard, plus vite ! J'ai une pomme bien mûre pour toi si on gagne !
+    579311|00000000||Je s… je suis ve-venu p-pou-pour la c-course, p-pas pour di-discuter.
+    579323|00000000||En selle !
+    579317|00000000||Va voir Radko. C'est lui qui organise les courses.
+    579326|00000000||Parteeez !
    1084448|103d846e||Biche
    1075506|e3976585||Vieux Fer-de-lance
     577747|00000000||Ne bloque pas ton coude quand tu frappes, jeune fille !
@@ -285,8 +693,8 @@
     576842|00000000||Tu apprends vite, c'est bien… mais tu es une vraie diablesse.
    1058686|00000000||On devrait revoir un peu les bases. Ça ne fait jamais de mal… et Ciri n'est qu'une novice.
    1058683|00000000||Les fondamentaux, c'est toujours utile. [COMMENCER LE DIDACTICIEL DE COMBAT]
-   1058688|00000000||Assez de révisions… Entraînement libre.
    1058684|00000000||Va pour l'entraînement libre. [PASSER LE DIDACTICIEL]
+   1058688|00000000||Assez de révisions… Entraînement libre.
     576835|00000000||Bon, assez parlé ! Geralt, avec moi. Lambert, avec Eskel ! Ciri, avec le mannequin !
     576837|00000000||Encore ?
     576838|00000000||Cesse de râler et prends une épée !
@@ -301,10 +709,158 @@
     573556|00000000||"L'algoule se caractérise par des rayures similaires à celles de la panthera tigris de Zerrikania et par la pâleur maladive de son visage."
     573557|00000000||Hmm… Tu as donc lu le chapitre, en fin de compte. Mais tu aurais dû me demander la…
     576818|00000000||Tu dormais, oncle Vesemir.
+   1222329|00000000||Hmm. Mon médaillon vibre. Mieux vaut enquêter.
+   1223097|00000000||Pas par là ! Vous ne m'y trouverez pas…
+   1222402|00000000||Il est sec depuis longtemps. Ça doit être dû à une fièvre hémorragique.
+   1223063|00000000||Un autre indice. Quelqu'un cherche à me guider ?
+   1223110|00000000||Impossible de passer. Il doit y avoir un autre chemin.
+   1222845|00000000||Laissez-les ! Vous perdez du temps ! Vous êtes là pour me retrouver, moi !
+   1223139|00000000||Oui, parfait. Par ici.
+   1222976|00000000||Une énergie maléfique émane de ces os… Ce serait l'œuvre du spectre ?
+   1222978|00000000||Tout indique une vierge de la peste. Mais… Ces symptômes… Non, un miasmeux rouge est plus probable.
+   1223032|00000000||Je dois me préparer.
+   1223174|00000000||Non, pas par là. J'y suis déjà passé.
+   1222966|00000000||Vous n'avez jamais voulu m'aider ! Partez !
+   1223168|00000000||Vous êtes sourd ?! Faites demi-tour !
+   1223170|00000000||Stop ! Pas par là !
+   1222964|00000000||Vous ne faites que perdre du temps !
+   1222817|00000000||Je… J-je vous entends. Vous ne me trouvez pas ?
+   1222819|00000000||Libérez-moi… Je vous en supplie !
+   1222815|00000000||Je n'en peux plus ! Dépêchez-vous ! Aah…
+   1223133|00000000||C'est ça ! Descendez !
+   1222335|00000000||Hmm, d'autres sorceleurs sont venus ici. Des membres de l'École du Loup.
+   1222337|00000000||Un insigne de l'École du Loup. Il est très ancien.
+   1222339|00000000||Reinald aurait été un sorceleur ?
+   1223135|00000000||Le couloir de droite, oui ! C'est par là que je me trouve.
+   1223129|00000000||C'est… Quelqu'un m'aurait devancé ici ?
+   1223131|00000000||Un des êtres mentionnés par Reinald.
+   1222843|00000000||Non ! Ne m'abandonnez pas ici ! Je vous en prie !
+   1222343|00000000||J'ai dû rater quelque chose.
+   1222345|00000000||Il doit y avoir quelque chose par ici…
+   1222341|00000000||Mieux vaut fouiller.
+   1223069|00000000||On dirait que les malades se sont rebellés. Et qu'ils l'ont chèrement payé.
+   1223071|00000000||Des gens ont été torturés sur cette chaise… puis ramenés à la vie. C'est sûrement eux que j'ai affrontés.
+   1223101|00000000||Bon sang.
+   1223103|00000000||Bordel…
+   1223099|00000000||Oh, mais quelle trouille j'ai eue.
+   1223065|00000000||On a torturé quelqu'un ici.
+   1223067|00000000||Des instruments de torture. Un marteau, du sang… On dirait qu'ils leur ont planté des clous.
+   1222398|00000000||Des os, du sang, du mucus séché… Sûrement des victimes de la Brume écarlate.
+   1222408|00000000||Il est temps de trouver le miasmeux.
+   1222438|00000000||Des traces d'ongles sur les murs… On les a enterrés vivants.
+   1222488|00000000||Quelle bande d'ordures.
+   1223108|00000000||C'est bloqué.
+   1223106|00000000||Encore du sang.
+   1222404|00000000||Des humains ont gratté ces murs avec leurs ongles. Les malades voulaient sortir. Coûte que coûte.
+   1223909|00000000||Hmm. Intéressant.
+   1223911|00000000||La lampe de Keira me serait bien utile.
    1050632|002efcee||Cerf
+    468514|00000000||Votre basilic est intéressant parce qu'il ressemble étrangement à une wyvern. Jeune et mal nourrie, d'ailleurs…
+    468516|00000000||Détrompez-vous, messire… C'est un basilic, sans le moindre doute !
+    468518|00000000||Si vous le dites… Après tout, je ne suis qu'un sorceleur.
+    468520|00000000||Hé, attendez ! J'ai payé pour voir un basilic, pas une oui-verne ! Remboursez-moi, sale voleur !
+    468525|00000000||Euh… Braves soldats, ne poussez pas, non, vous risquez de… Attention !
+    468508|00000000||C'est une wyvern, pas un basilic.
+    468534|00000000||Eh bien… Moi qui croyais tout savoir sur les monstres…
+    468536|00000000||Ah ! Regardez, soldats ! Même un sorceleur tremble devant le puissant basilic. Toutes les bêtes le craignent, même le dragon… Enfin, que dis-je, même le terrible crocodile ! Et ceux qui ont déjà vu un crocodile savent que c'est une créature effrayante !
+    468512|00000000||Au revoir.
+    468510|00000000||Des œufs de coqs ?
+    468528|00000000||Des œufs pondus par des coqs, vraiment ?
+    468530|00000000||Ça oui, de sacrés coqs, même ! Ils lèvent la croupe devant les autres coqs ! Et une fois pondu, l'œuf doit être couvé par cent une vipères venimeuses pour que le petit basilic perce la coquille…
+    465682|00000000||Il est intéressant, votre basilic…
+    468182|00000000||Et comment ! Un spécimen comme celui-là, vous n'en verrez pas d'autre dans la région ! Ces basilics naissant en Zerrikania… Oui, dans des œufs pondus par des coqs !
+    579262|00000000||On peut parler ?
+   1027615|00000000||Ouais, tant que ça dure pas trop longtemps. J'ai pas que ça à foutre, moi.
+   1027617|00000000||Je m'appelle Radko. J'organise les courses de chevaux par ici. Si ça vous tente, dites-le. Sinon, dégagez, j'ai pas de temps à perdre.
+    579272|00000000||Je voudrais m'inscrire.
+    579273|00000000||Pas besoin d'inscription. Venez ici au coucher du soleil et amenez votre or pour parier, c'est tout.
+    579270|00000000||Inscrivez-moi.
+    579265|00000000||Plus tard, peut-être.
+    579271|00000000||Plus tard, peut-être.
+   1027621|00000000||Alors, vous allez participer ou pas ?
+    479120|00000000||Que s'est-il passé ?
+    479122|00000000||Comme si on n'avait pas assez souffert… Voilà que mes poules disparaissent ! Comment que je vais vivre, hein ?
+    479124|00000000||Vous avez vu les voleurs ?
+    479126|00000000||Quels voleurs ? C'est des monstres qui me chipent mes poules.
+    479128|00000000||Un voleur, je m'en chargerais moi-même… mais que voulez-vous que je fasse contre des bêtes ?
+    479108|00000000||Je peux vous aider. Pas gratuitement, mais… vous n'êtes plus toute jeune, alors je ne vous demanderai pas grand-chose.
+    479110|00000000||Boniments... Pas grand-chose, qu'il dit, et il va finir par me demander un bras. Enfin bon, c'est pas comme si j'avais le choix…
+    479114|00000000||Mes poules ont commencé à disparaître la semaine dernière. Une par une, figurez-vous ça.
+    544130|00000000||Une par une ? Intéressant… Et les monstres ont laissé des traces ?
+    544132|00000000||Oui, j'ai trouvé des empreintes de loup… mais des drôles d'empreintes, comme si que les loups marchaient sur leurs pattes arrière.
+    544134|00000000||Et n'allez pas me dire que j'ai la berlue comme ce crétin de Yosip de Culterrier ! Mon homme était le meilleur braconnier de la région, je m'y connais en empreintes de bêtes.
+    544136|00000000||Je vois… mais j'aimerais tout de même examiner ces empreintes.
+    479116|00000000||Je peux vous aider.
+    479046|00000000||Ouvrez l'œil… À mon avis, ils vont recommencer.
+    479048|00000000||Oh, mais qu'ils y viennent, je les attends ! Je vais les recevoir à coups de trique, ces petits merdeux !
+    479052|00000000||N'y allez pas trop fort… Ce sont des enfants.
+    479054|00000000||De la graine de bandits, voilà ce qu'ils sont !
+    479057|00000000||Méfiez-vous, ils reviendront.
+    479028|00000000||Offrez-leur un toit, un foyer. Ils arrêteront de vous voler.
+    479030|00000000||Ah oui ? Et à part des bouches à nourrir, qu'est-ce que j'y gagnerais ?
+    479032|00000000||Cela dit… Je vais peut-être y réfléchir.
+    479058|00000000||Offrez-leur un toit, ils cesseront de vous voler.
+    479070|00000000||J'ai rencontré des enfants vivant dans les bois. Ce sont eux, vos voleurs de poules.
+    479072|00000000||Quoi, des enfants ? Et ils chevauchaient des loups, peut-être ?
+    479074|00000000||Non, les loups n'ont rien à voir là-dedans. Ces gamins sont juste… malins…
+    479076|00000000||S'ils sont aussi malins, ils feraient mieux de plus s'approcher de mon poulailler !
+    479170|00000000||J'ai trouvé les voleurs.
+    479173|00000000||Prenez soin de vous.
+    479171|00000000||Adieu.
+    479155|00000000||Qu'est-ce que vous voulez, sorceleur ?
    1064995|00000000||Il y a tant de cadavres… Et la guerre ne fait que commencer.
    1064997|00000000||La balafre a bien cicatrisé…
    1064993|00000000||Ça alors… Le col est toujours aussi splendide.
+    579470|00000000||Pas mal… Vous avez l'air de maîtriser les chevaux aussi bien que les monstres. Tenez, voilà votre or. Si vous en voulez encore, revenez me voir.
+    579472|00000000||Ha ! Comme quoi, on peut avoir des sens surhumains et se faire battre par le premier venu ! Vous avez perdu votre or… Si vous voulez une revanche, va falloir allonger la monnaie.
+   1032203|00000000||Monsieur a voulu faire le malin et prendre un raccourci ? On n'aime pas les tricheurs, ici. Pour la peine, je garde votre or. Si vous voulez le revoir, faudra le regagner… à la loyale, cette fois.
+   1223268|00000000||Il reprend des forces ! Yrden et Aard… Utilisez-les ensemble !
+   1222331|00000000||Je ne vous laisserai pas quitter cette mine.
+   1222333|00000000||Bien sûr que si. Ce sorceleur est plus fort que vous.
+   1222580|00000000||Je vais vous tuer, puis me répandre dans vos viscères… infecter votre esprit !
+   1222443|00000000||Renoncez, Loup ! Vous en avez envie ! Ce ne sera pas le premier fléau que vous libérerez dans le monde !
+   1222582|00000000||Vous avez déjà servi une vierge de la peste. Pourquoi vous arrêter en si bon chemin ?
+   1222574|00000000||Je ne vous donnerai pas la potion.
+   1222544|00000000||Bravo pour la ruse, mais ne me prenez pas pour un idiot.
+   1222546|00000000||Vous ne comprenez pas ? Il va s'emparer de moi ! Et vous tuer, ainsi que tous ceux que vous… vous…
+   1222548|00000000||Maintenant ! Détruisez-le ! Buvez la potion ! Finissez ce que… ce que j'ai commencé !
+   1222550|00000000||Je le ferai, Reinald. Tenez bon encore un peu.
+   1222538|00000000||Hmm. Tenez. Mais je vous préviens, je suis prêt à agir au moindre signe de problème.
+   1222540|00000000||Non !… Il… Il ne fallait pas… Depuis le début… ce n'était pas moi !
+   1222542|00000000||Oui, oui…
+   1222572|00000000||Bien. Buvez ça.
+   1222560|00000000||J'ai trouvé vos lettres… pour Lambert. Je suis désolé qu'il vous ait trahi.
+   1223141|00000000||Je crois sincèrement que le miasmeux n'aurait pas fait le poids face à deux sorceleurs.
+   1222562|00000000||J'ai été stupide… mais le passé est le passé. Ce serpent de Lambert ne méritait pas ma confiance.
+   1222564|00000000||Je lui dirai sans faute la prochaine fois que je le verrai. Mais je crois bien que votre ami, lui, s'appelait Osmund.
+   1222566|00000000||Vous osez vous moquer de moi ?
+   1222568|00000000||Non. Mon petit doigt me dit juste qu'à cet instant, je n'ai pas affaire à Reinald.
+   1222578|00000000||[Tester Reinald] J'ai trouvé vos lettres pour… Lambert.
+   1222576|00000000||Vous savez depuis combien de temps vous êtes là ?
+   1222552|00000000||Ça fait un moment que vous êtes là. Vous savez depuis combien de temps ?
+   1222554|00000000||Des années… des décennies. Le temps est figé ici. Rien ne change, mon frère. Absolument rien.
+   1222556|00000000||Ça fait bien plus longtemps, Reinald. Vous êtes sûrement mort, à présent, vous en avez conscience ? Votre corps ne doit rester "en vie" qu'à cause du miasmeux.
+   1222558|00000000||Raison de plus pour en finir. Vous devez le faire. La potion… s'il vous plaît.
+   1222523|00000000||Reinald ?
+   1222525|00000000||Oui, mais… m-mes forces… mes forces diminuent. L'esprit… l'esprit… l'esprit prend le contrôle.
+   1223085|00000000||Je nous ai piégés ici… Le sel, vous comprenez ?… I-Il ne peut pas s'échapper.
+   1223087|00000000||Hum, vous l'avez amené dans une chambre apotropaïque creusée dans le sel. Parfait contre un spectre, c'est plutôt malin.
+   1222527|00000000||Mais je… je le sens toujours en moi… Ça fait si longtemps. Aidez-moi, mon frère. Donnez-moi la potion… pour l'expulser… une fois pour toutes.
+   1222519|00000000||Vous voilà enfin. Après toutes ces années…
+   1223083|00000000||L'esprit… un miasmeux… ! Il est… il est toujours là.
+   1222521|00000000||Aah… I-Il me contrôle… presque… Vite !
+   1222445|00000000||Quelle puissance ! Avec votre force, j'écraserai quiconque se mettra en travers de ma route !
+   1222447|00000000||Ils se noieront dans leur sang, ils s'étoufferont avec leurs fluides ! Et tout ça grâce à vous !
+   1222480|00000000||Piégez-nous avec Yrden… puis expulsez-le de mon corps !
+   1222484|00000000||D'abord Yrden, puis Aard.
+   1222486|00000000||Il ne reste plus qu'à éliminer le miasmeux.
+   1223113|00000000||Les stalagmites… Détruisez-les pour me libérer.
+   1223192|00000000||Attendez ! Qu'est-ce que vous faites ? Ne m'abandonnez pas ici ! Pitié !
+   1223195|00000000||Hahahaha… Enfin. Je vous remercie, sorceleur.
+   1223213|00000000||Hmm… Vous n'êtes pas Reinald.
+   1223215|00000000||Bien observé. Quoiqu'un peu trop tard.
+   1223217|00000000||Aaah ! Je… Je n'ai aucun contrôle ! Vite ! Vous devez le tu… Ah !
+   1223260|00000000||Lancez Aard pour l'expulser… Empêchez-le de se régénérer !
    1055682|b224b6d2||Dévoreur
    1056946|00000000||Lilas et groseille à maquereau, évidemment…
    1058292|00000000||Geralt… Cesse de tripoter mes accessoires de toilette.
@@ -315,6 +871,30 @@
    1056944|00000000||Tout est en argent…
    1058285|00000000||L'or ne sied pas à mon teint. Tu devrais le savoir.
    1031654|00000000||La vieille tour de guet… Ce ne sera bientôt plus qu'un tas de gravats.
+    583134|141198a8||Garde de Novigrad
+   1055407|06ae3071||Helma
     578398|00000000||On parlera plus tard.
+   1049066|e9c03715||Échevin Bolko
+   1028788|00000000||Que dirais-tu d'une honnête partie de gwynt ?
+   1086465|00000000||Jouons au gwynt.
+    421005|00000000||Au revoir.
+    420993|00000000||Au revoir.
+    420991|00000000||Montrez-moi ce que vous avez.
+    421003|00000000||Montrez-moi ce que vous avez.
+    421001|00000000||Une bolée de cidre, un lait caillé ? J'ai pas grand-chose à vous vendre, mais en tout cas, y a que du bon.
+    595913|6b1268cb||Paysan
+   1028793|00000000||Quelques manches de gwynt ?
+   1086497|00000000||Vous voulez m'affronter au gwynt ?
+    422120|00000000||Adieu.
+    422116|00000000||Au revoir.
+    422114|00000000||Montrez-moi votre marchandise.
+    422118|00000000||Que vendez-vous ?
+    422112|00000000||Bienvenue, bienvenue !
     432590|d184d9f7||Spectre
+    465664|00000000||Fiers guerriers, admirez l'effroyable basilic, roi des serpents ! Une goutte de son venin peut tuer toute une armée, chevaux compris !
     170811|72cb8ee5||Noyeur
+   1222807|00000000||"Eau-de-vie naine, chélidoine, contenu de la cassette." Il doit s'agir de cette cassette.
+   1222809|00000000||Ça tombe bien, j'ai la chélidoine. Et… les autres ingrédients ont l'air en bon état.
+   1222811|00000000||On dirait une recette personnelle de Reinald. Je peux toujours l'essayer.
+   1222410|00000000||Ce n'est pas normal. Mon médaillon chauffe. Et cette puanteur…
+   1222412|00000000||Bordel ! Qu'est-ce que vous êtes, saletés ?!

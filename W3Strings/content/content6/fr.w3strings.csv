@@ -90,7 +90,7 @@
     520622|00000000||Du calme, Lambert.
     520624|00000000||T'as entendu ce qu'elle… ?
     520626|00000000||Je ne te le répèterai pas.
-    520614|00000000||Surveille ta langue.
+    520614|00000000||Tout doux, Lambert.
     520615|00000000||[Ne pas réagir.]
     520628|00000000||Euh, excuse-moi... Tu veux en faire un sorceleur ?
     520630|00000000||Bien sûr que non. Comme j'allais m'en expliquer, il ne s'agira que de la première moitié de l'Épreuve, parce que…
@@ -442,11 +442,6 @@
     518296|00000000||Content de te revoir enfin.
     518290|00000000||Toi, en revanche, tu deviens dur d'oreille avec l'âge… Une perdrix caquetante aurait pu t'avoir par surprise.
     518292|00000000||Mais non, une bonne lieue que je t'entends haleter ! Mais, je ne voulais pas quitter mon poste d'observation, c'est tout.
-   1028934|00000000||Le vieux bastion. C'est ici que les enfants s'entraînaient… avant l'Épreuve des Herbes.
-   1028935|00000000||Tiens, tiens… On dirait que le bastion est hanté.
-   1028941|00000000||Des spectres ? Je me demande ce qui les retient ici.
-   1028954|00000000||Je perds mon temps. Je ne trouverai rien en me contentant de regarder.
-   1043297|00000000||Mon médaillon vibre, mais je ne vois rien du tout… Il faudrait que j'utilise la lampe.
    1027947|05ac068c||Tschart
    1021681|00000000||Une tête de loup ? Je connais cet endroit… C'est ici qu'avait lieu l'Épreuve des Herbes avant la construction de la forteresse…
    1021748|00000000||Presque effacé. Dans quelques dizaines d'années, il aura complètement disparu… comme les sorceleurs.
@@ -936,7 +931,7 @@
     528243|00000000||Bon. Qu'ai-je fait, cette fois ?
     528170|00000000||Qu'ai-je encore fait ?
     528166|00000000||Comme il vous plaira… mais dans un instant. Nous avons à parler, Geralt et moi.
-    528169|00000000||Holà, ça paraît sérieux. Viens, Lambert. À toute à l'heure, Geralt.
+    528169|00000000||Holà, ça paraît sérieux. À toute à l'heure, Geralt.
     524159|00000000||C'est toujours plus alléchant que les poutres.
     524161|00000000||Je ne dis pas non à un verre ou deux.
     524163|00000000||Je m'incline devant la majorité. Allons-y.
@@ -1087,7 +1082,7 @@
     519563|00000000||Allons, je ne vais pas te dépouiller. Paye ta tournée à l'occasion, et nous serons quittes.
     519565|00000000||Marché conclu.
     519555|00000000||Je n'ai besoin de rien…
-    519561|00000000||Si vous insistez…
+    519561|00000000||Si tu insistes…
     519567|00000000||Puisque tu insistes…
     519569|00000000||Tiens. Fais-en bon usage.
     519542|00000000||Je t'en rapporte une bouteille la prochaine fois.
@@ -1221,6 +1216,7 @@
    1075881|00000000||Bon sang… Quel rêve.
     535230|00000000||[Administrer les larmes maternelles.]
     535232|00000000||[Administrer la sève de graminée.]
+    537559|00000000||Aaaa… Aaaaah ! Aaaaaaah !
     537618|00000000||Ummmmmmamama… UUUuuu… Umamama…
     537620|00000000||J'espérais… J'espérais ne plus jamais assister à ce spectacle.
     537622|00000000||Alors pourquoi garder la table ?
@@ -1240,7 +1236,6 @@
     537631|00000000||Ouvre la valve suivante.
     537592|00000000||Arrêtez. C'est une mauvaise idée.
     535231|00000000||[Administrer le jus d'elymus.]
-    537559|00000000||Aaaa… Aaaaah ! Aaaaaaah !
     535233|00000000||Aaaah… Aaaaaah !
     537594|00000000||Aaaah… Aaaah… Aaaaaaaaaah ! Aaaaaaaaaaaaaaaaaah !
     537596|00000000||La berce fonctionne ?
@@ -1450,7 +1445,7 @@
     532744|00000000||Cesse de geindre, Eskel. Il y a un temps pour boire une potion et un temps pour passer une… une…
     583656|00000000||Une robe !
     532746|00000000||Euuh… Personne doit savoir, compris ? Ça reste entre nous.
-    532741|00000000||On étouffe, dans ces fanfreluches.
+    532741|00000000||Très bien, allons-y.
     532757|00000000||Bon… C'est moi qui parle, et vous, vous jouez avec les cristaux.
     532759|00000000||Cáed'mil, bloede dh'oine… Hocus-pocus… Abracadabra… Arse blathanna…
     532762|00000000||Mais qu'est-ce que… ? Qui est là ?

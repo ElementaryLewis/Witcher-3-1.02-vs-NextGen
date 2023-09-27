@@ -491,7 +491,7 @@
    1042503|00000000||Zeigst du mir, wie man fliegt?
    1042505|00000000||Ein andermal vielleicht.
    1042507|00000000||Was für Wunder! Bumm! Blitz! Der Turm ist verschwunden und du bist vom Himmel gefallen. Und der Sturm? Er war sofort weg.
-    420952|7643aa11||Diener
+    420952|7643aa11||Dienerin
    1055697|f38c55da||Weißer Wolf
     523302|00000000||Folan! Ich dachte, du wärst tot! Wo bist du gewesen?
     523304|00000000||Cerys ist nach Spikeroog! Allein!
@@ -787,10 +787,10 @@
    1023216|00000000||Also ... es ist so ... in letzter Zeit ... bin ich nicht in Form. Ich hab Schwierigkeiten mit ... weißt du, also ...
    1023218|00000000||Ah, verstehe. Du brauchst einen Liebestrank. Nimm ihn eine Stunde vorm Du-weißt-schon zu dir.
    1055110|231374e3||Skelliger
+    346241|fd7deb62||Abenteurer
    1041758|00000000||Beginne Liquidierung.
    1041762|00000000||Sammlung in Gefahr. Teleportation der Bestien eingeleitet.
    1041756|00000000||Eindringling in der Bibliothek. Vollständigkeit der Sammlung in Gefahr.
-    346241|fd7deb62||Abenteurer
     567560|00000000||Die Luft ist voller Weihrauch.
     567561|00000000||Mir wird schlecht. Es ist als ob ...
     584211|00000000||Pssst! Hörst du das?
@@ -1015,7 +1015,7 @@
    1033703|00000000||Mhm. Und was macht man denn so in einer Kriegerhalle? Man kämpft?
    1033704|00000000||Manchmal passiert es, das jemand Eine in die Fresse abbekommt, das stimmt! Meistens kommen die Leute aber hier um zu speisen, zu trinken, sich beim Feuer zu wärmen und die Geschichten der Skalden zu hören.
    1033705|00000000||Genau wie in einer Taverne.
-   1033706|00000000||Ehh, ihr von dem Kontinekt versteht aber auch nichts. Trink mal ein bisschen von unserem Met, vielleicht wird das dir den Verstand klären!
+   1033706|00000000||Ehh, ihr von dem Kontinent versteht aber auch nichts. Trink mal ein bisschen von unserem Met, vielleicht wird das dir den Verstand klären!
    1028773|00000000||Ich will unbedingt ein paar Partien Gwint spielen. Das würde mir guttun.
    1086469|00000000||Ich will Gwint spielen.
    1033710|00000000||Leb wohl.
@@ -1402,7 +1402,6 @@
     583672|00000000||Verkauf deine Fische erst, wenn du sie im Boot hast, Wolf.
     409992|00000000||Kann losgehen.
     415197|00000000||Gerne.
-    432590|d184d9f7||Erscheinung
     509696|00000000||Warum selten?
     509720|00000000||Selten? Warum denn?
     509721|00000000||Tja, ich verschwende vor Kämpfen nicht gerne die Zeit mit Geschwätz, und hinterher kann keiner mehr reden.
@@ -1960,12 +1959,6 @@
     481226|00000000||Ich denke dran. Bis dann.
    1056448|00000000||Komm mal noch bei uns vorbei! Hier wird wichtiges passieren, du wirst dich noch an meine Worte erinnern!
    1056462|00000000||Ich hoffe das es auch stimmt. Lebt wohl.
-    481190|00000000||Was macht mein Teil der Einnahmen?
-    481206|00000000||Das Geschäft läuft wunderbar, soweit ich sehe ...
-    481207|00000000||Und ob! Alles, was Beine hat, will in der Spuk-Arena kämpfen!
-    481208|00000000||Dann muss mein Teil der Einnahmen ja recht ansehnlich sein ...
-    481209|00000000||Oh ja! Hier.
-    503357|00000000||Geschäfte in Skellige sind doch stets ein Vergnügen.
     503302|00000000||Danke. Bis dann.
     480998|00000000||Was wisst ihr über den Geist? Wann ist er zum ersten Mal aufgetaucht?
     481000|00000000||Mein Großvater hat gesagt, dass die Erscheinung seinem Großvater zufolge Ulle der Unglückswurm hieß. Er verlor jeden Kampf, erholte sich aber immer von seinen Wunden. Ulle konnte nicht einmal sterben wie ein Mann!
@@ -1995,9 +1988,7 @@
     480996|00000000||Ich nehme den Auftrag an.
     480952|00000000||Dafür habe ich keine Zeit. Bis dann.
     481173|00000000||Tut mir leid, kein Interesse. Bis dann.
-    481174|00000000||Aber an dem Ort spuken unreine Mächte, ein verfluchter Geist!
     481175|00000000||Dann geht nicht hin.
-    481176|00000000||Ach, schieb dir den Ratschlag in den Arsch.
     545371|00000000||Aber wenn du es dir noch mal überlegst, wartet eine Belohnung.
     480997|00000000||Kein Interesse.
     480995|00000000||Von welcher Art Erscheinung reden wir?
@@ -2008,6 +1999,12 @@
     481229|00000000||Bei Geistern ist gar nichts einfach.
     481230|00000000||Ja, ich glaube dir, dass es schwierig war. Und dass du eine Belohnung verdient hast.
     480951|00000000||Ich hab den Geist schon besiegt.
+    481190|00000000||Was macht mein Teil der Einnahmen?
+    481206|00000000||Das Geschäft läuft wunderbar, soweit ich sehe ...
+    481207|00000000||Und ob! Alles, was Beine hat, will in der Spuk-Arena kämpfen!
+    481208|00000000||Dann muss mein Teil der Einnahmen ja recht ansehnlich sein ...
+    481209|00000000||Oh ja! Hier.
+    503357|00000000||Geschäfte in Skellige sind doch stets ein Vergnügen.
    1036744|00000000||Oh, Hexer. Hast du es dir überlegt, ja?
     499376|00000000||Sucht ihr ein Nest, ihr Turteltauben? Sucht woanders.
     499377|00000000||Nur für Bedienstete der Burg!
@@ -2097,8 +2094,7 @@
    1032476|00000000||Ich hab doch gesagt, Svanrige zeigt's ihnen!
    1032478|00000000||Wie Bran in seiner Jugend ... Auf Bran!
    1032480|00000000||Auf Bran! Tuirseach!
-    174153|49292af3||Zyklop
-   1047249|baa6fb37||Jessie
+   1047249|baa6fb37||Jesse
    1024067|00000000||Und es tut schrecklich weh. Als ... Als ob mich was von innen heraus zerreißen würde.
    1024069|00000000||Du solltest zu den Druiden gehen.
    1024071|00000000||Da war ich schon. Sie haben gesagt, dass die Kräuter nicht helfen werden und ich nur noch beten kann.
@@ -2329,7 +2325,6 @@
     582884|00000000||Sie war mir von Anfang an lieber.
     582886|00000000||Ich bin froh, dass er gewonnen hat. Er ist mutig und tapfer.
     582890|00000000||Die Art König, die wir brauchen!
-    577863|d84f8157||Mittagserscheinung
     481362|00000000||Ich hab dich besiegt!
    1043937|00000000||Sieht so aus. Ich gratuliere.
     503462|00000000||Aber ... wie? Ich sollte bis ans Ende der Zeit verlieren ...
@@ -2851,6 +2846,7 @@
    1070873|00000000||Drogodar ... der Skalde hat ausgespielt.
    1070877|00000000||Massakriert. Schwer zu sagen, wer das ist ... Steingrim vielleicht?
    1070875|00000000||Otrygg ... Mist, der ist ja noch ein Kind.
+    174153|49292af3||Zyklop
     392478|00000000||Ein Waldschrat. Männlich - sehr alt.
    1074003|00000000||Verdammt. Hat wahrscheinlich einen der Dörfler markiert.
     583699|00000000||Dann bring mir doch jemanden, der nüchtern ist. Kriegst du das hin?
@@ -3337,16 +3333,6 @@
    1087806|00000000||Bist du verrückt, du Spinner?
    1087814|00000000||Verschwinde.
    1087808|00000000||Jetzt rettet dich kein Gebet mehr.
-    572514|00000000||Hast du den weißen Wal gesehen?
-    572516|00000000||Guten Tag!
-    572520|00000000||Du bist nicht aus Nilfgaard, oder?
-    572518|00000000||Weißt du, mein Papa ist weg und kämpft gegen die Schwarzen.
-    572522|00000000||Vorsicht.
-    572524|00000000||Ich hol meinen Papa!
-    572526|00000000||Mama!
-    572528|00000000||Hallo.
-    572530|00000000||Wann bekomm ich meinen Stab zurück?
-    572532|00000000||Ach nee, schon wieder Regen?
     506777|00000000||Sieht aus, als würde Mäussack etwas in die Hand der Statue legen.
     506785|00000000||So, liebe Statue, wie wäre es mit einem Schädel ...?
     506787|00000000||Hm … Du siehst doch nicht nach einem nachdenklichen Prinzen aus.
@@ -3430,6 +3416,30 @@
    1010648|00000000||Wir haben angefangen, über die Vergangenheit zu reden ...
    1010650|00000000||Wurden aber nicht fertig.
    1003299|00000000||Ich will über die Vergangenheit reden, über die Wilde Jagd.
+   1123820|00000000||Yen, darf ich dich kurz sprechen?
+   1123822|00000000||Warum? Um mich zu fragen, ob wir Freunde bleiben können, trotz allem?
+   1123824|00000000||Nein, ich ... ich meine ...
+   1123826|00000000||Ach komm, Geralt. Ich kenne dich. Gut genug, um genau zu wissen, was zwischen dir und Triss läuft.
+   1123829|00000000||Nun, ich kann nicht behaupten, ich wäre nicht versucht, zu ... hm ... intervenieren, aber ... ich glaube, ich werde es nicht tun.
+   1123832|00000000||Wie findest du das? Eigentlich wolltest dich mir ja erklären, doch statt mich über dein Gestammel totzulachen, hab ich dir deine Arbeit abgenommen.
+   1123834|00000000||Sieht ganz so aus.
+   1123836|00000000||Aber genug jetzt der Rührseligkeiten. Wir haben Arbeit vor uns, schon vergessen?
+   1123983|00000000||Yen, ich wollte mit dir über mich und Triss reden ...
+   1123797|00000000||Und? Fühlst du dich anders nach unserer Begegnung mit dem Djinn?
+   1123799|00000000||Ja. Ich fühle ... Bedauern.
+   1123802|00000000||Willst du damit sagen, dass ...?
+   1123805|00000000||Ich bedauere, dass wir es nicht früher versucht haben. Viel früher.
+   1123808|00000000||Hätten wir dann weniger gestritten?
+   1123810|00000000||Ganz im Gegenteil. Aber auch die anderen Momente wären leidenschaftlicher gewesen.
+   1123812|00000000||Momente wie diese.
+   1123984|00000000||Unsere Begegnung mit dem Djinn ... Spürst du etwas?
+   1126970|00000000||Hör zu ... dieses Mal - kannst du etwas dagegen tun?
+   1126973|00000000||Ich könnte kratzen, wenn es juckt, mehr aber auch nicht.
+   1126975|00000000||Ich meine es ernst, Yen.
+   1126977|00000000||Ich auch. Diese Symbole ... das ist uralte, mächtige Magie. Ich wüsste nicht, wie ich sie entfernen sollte.
+   1126979|00000000||Verdammt.
+   1126981|00000000||Du bist noch immer einer der hübschesten Hexer, die ich kenne. Gleich hinter Lambert.
+   1126982|00000000||Dieses Mal ... hilfst du mir, es loszuwerden?
    1002974|00000000||Warum habt ihr beiden mich im Eisvogel gelassen?
    1002977|00000000||Habt Triss und du euch gut amüsiert?
    1002979|00000000||Famos. Wir konnten endlich reden.
@@ -3959,6 +3969,7 @@
     500857|00000000||Bis dann.
     163718|00000000||Alles Gute.
     163716|00000000||Ich möchte, dass du mein Schwert umschmiedest.
+    421430|00000000||Ich möchte etwas anfertigen lassen.
     500823|00000000||Weißer Wolf!
     587236|00000000||Folge der Spur ...
    1055555|770e6af8||Lehrling des Bootsbauers
@@ -3982,8 +3993,8 @@
     577796|00000000||Kannst du mir die Haare schneiden?
     421766|00000000||Wiedersehen.
     421768|00000000||Schau mal wieder rein.
-    421764|00000000||Bis dann.
-    421762|00000000||Ich möchte mal einen Blick auf dein Angebot werfen.
+    421764|00000000||Leb wohl.
+    421762|00000000||Ich schau mir die anderen Waren an.
     421770|00000000||Ich sehe mir gerne mal an, was du hast.
     433871|00000000||Kluger Mann. Bei mir gibt es keine Durchschnittsware.
     409336|00000000||Tag.
@@ -4127,19 +4138,6 @@
     490961|00000000||Ein Nidstang. Ein mächtiger Fluch. An der Stange ist ein Name eingraviert ... Tjalve, Sohn von Lothar.
     432288|00000000||Erdiger Geruch im Bärenmaul. Etwas wie ... Pilze?
     437435|00000000||Die Schüssel ist leer ... aber der Geruch hängt in der Luft, der kommt ... von woanders im Raum.
-    578576|00000000||Spielst du zufällig Gwint?
-    578579|00000000||Oh, ja, das ist meine Leidenschaft. Möchtest du spielen?
-    578594|00000000||Allzeit bereit. Es kann losgehen.
-    578580|00000000||Ja, spielen wir.
-    578595|00000000||Absolut, wenn ich etwas Zeit finde.
-    578581|00000000||Ein andermal.
-    578592|00000000||Lust auf eine Partie Gwint?
-    578593|00000000||Immer, jederzeit.
-    578575|00000000||Ich habe gehört, dass du Gwint spielst.
-    578598|00000000||Bravo! Ein überzeugender Sieg. Glückwunsch!
-    578596|00000000||Was soll ich sagen - ein Sieg wie aus dem Lehrbuch. Nächstes Mal läuft's besser, Hexer.
-    578600|00000000||Hier in Skellige gibt es keine würdigen Gegner. Du solltest dein Können in Velen beweisen.
-   1042494|00000000||Spiel gegen den Baron oder den berühmten Jungen Haddy. Das sind Gegner von deinem Schlag.
     350767|00000000||Hilfe! Hilf meinem Papa! Bitte hilf ihm!
    1038235|00000000||Ich muss weitersuchen ... gut, dass ich wenigstens weiß, wo.
    1038233|00000000||Kein Schwert hier ... aber ein Hinweis. Immerhin.
@@ -4147,7 +4145,6 @@
    1022284|00000000||Jede Frau würde einen Mann wie Udalryk wollen ... den Göttern gefällig, tapfer ...
    1022286|00000000||Das ist keine Tapferkeit, sondern Draufgängertum. Und mit den Göttern hat das auch nicht viel zu tun.
    1022290|00000000||Ich glaube auch. Er war wirklich mal tapfer, aber jetzt führt er sich auf wie ein Irrer.
-    421430|00000000||Ich möchte etwas anfertigen lassen.
     421420|00000000||Ich hätte gern, dass du mir etwas anfertigst.
    1028761|00000000||Ich habe Lust auf ein Wenig Unterhaltung. Eine Partie Gwint wäre mir am liebsten.
    1086482|00000000||Ich habe große Lust auf Gwint. Wir wär's mit einer Runde?
@@ -4542,6 +4539,7 @@
     166803|05b6c502||Druide
     477233|068721d7||Sklave
    1086145|e5e26ccb||Eistroll
+    432590|d184d9f7||Erscheinung
     582939|00000000||Lugos war wütend ...
     582941|00000000||Der ist doch immer wütend ...
     582944|00000000||Selten so sehr und er ist fast immer da.
@@ -4605,7 +4603,6 @@
     422432|00000000||Was Neues? Nein.
     422436|00000000||Wir sind hier nicht auf dem Festland, hier ändert sich die Mode nicht mit jeder Schneeschmelze. Wir leben wie unsere Väter und Großväter - wir fischen, jagen und plündern. Und so werden wir es bis zur Ragh nar Roog halten - und darüber hinaus.
     422414|00000000||Du bist zurück.
-   1055372|ad41ad88||Alghul
     421262|00000000||Womit handelt ihr Druiden denn heutzutage so?
     421258|00000000||Hast du was zu verkaufen?
     421264|00000000||Leb wohl.
@@ -4634,7 +4631,6 @@
    1022689|00000000||Mag sein, aber zuerst müssen wir übers Meer! Und das Ding wird im ersten Sturm sinken!
    1022691|00000000||Mein Reden. Aber Hjalmar will nichts davon wissen. Er sagt: "Ich sterbe entweder ruhmvoll oder kehre als reicher Mann zurück. Beides ist gut."
     374148|7e613e3d||Bjorg
-   1015555|0001853c||Hund
     591192|00000000||Und? Was willst du?
     591193|00000000||Ich will dir helfen, Streuner.
     591194|00000000||Weißt du, wie man entkommt?
@@ -5161,7 +5157,6 @@
     520612|00000000||Ah ja, Nachtigallen singen.
     375497|00000000||Sehen wir uns mal um.
     495747|00000000||Ich frag mich, ob das was gebracht hat. Zeit, zu Udalryk zu gehen.
-    166486|ca49f862||Sjusta
     429005|00000000||Geralt! Komm! Ich glaube, ich hab eine Idee!
     375511|00000000||Geralt!
     585264|00000000||Drei Jahre. Drei verfluchte Jahre mit der Picke in der Hand.
@@ -5349,6 +5344,7 @@
    1054138|00000000||Wir bleiben besser hier und warten ab.
    1054140|00000000||Was? Hier? Hier ist es feucht ... und finster ...
    1054142|00000000||Darum überrascht uns hier auch niemand.
+    376129|00000000||Hat seine Klauen geschärft. Oder nur sein Territorium markiert.
     376131|00000000||Lange Klauen. Sehr beeindruckend.
     376133|00000000||Hat seine Beute erwürgt. Und dann zu fressen begonnen.
     376135|00000000||Ein Würger. Seltsam ... hat seine Beute nicht gefressen.
@@ -5359,9 +5355,8 @@
     379569|00000000||Dünne und tiefe Schnitte. Wie bei einem Rasiermesser ...
     379571|00000000||Hat lange, scharfe Klauen ...
     381774|00000000||Reißt die Beute wie eine Striege entzwei.
-    381776|00000000||Verdammt. In Stücke gerissen.
     411223|00000000||Das Haar ist ganz grau geworden. Wahrscheinlich vor Angst.
-    376129|00000000||Hat seine Klauen geschärft. Oder nur sein Territorium markiert.
+    381776|00000000||Verdammt. In Stücke gerissen.
     382080|00000000||Wo sind die Sirenen hergekommen?
     382086|00000000||Hast du hier schon mal Sirenen gesehen?
     382088|00000000||Ja klar. Sie kommen von Undvik, der götterverfluchten Insel. Verdammte Bestien ...
@@ -5726,7 +5721,7 @@
    1086495|00000000||Gwint - spielst du gegen mich?
    1033637|00000000||Leb wohl. Und danke für die ausgezeichnete Bedienung.
    1033628|00000000||Leb wohl.
-   1033627|00000000||[EN] Lemme see what you're offering.
+   1033627|00000000||Zeig mir, was du anzubieten hast.
    1033638|00000000||Zeig mir was du zu verkaufen hast.
    1033639|00000000||Nur Delikatessen. Aber ein Vagabund vom Kontinent wird es sicher nicht zu schätzen wissen …
    1033636|00000000||Na? Was denn?
@@ -5877,7 +5872,7 @@
     478924|00000000||Celain, celain, davedar!
     478926|00000000||Aaaaaach!
     480134|00000000||Bist du der Feigling von Lofoten?!
-    480136|00000000||Nnn... Neeeiiinnn ... Iiich ... haaabeee ... eeeineeen Naaameeen ... Sssssskjalll! Skjallllll! Iiich biiiiiin Skjaaalll!
+    480136|00000000||Nnn... Neeeiiinnn ... Iiich ... haaabeee ... eeeineeen Naaameeen ... Sssssskjalll!
     478750|00000000||Wir werden uns ein paar Feinde machen.
     478752|00000000||Mich muss nicht jeder mögen. Ich lege nur Wert auf die Meinungen derer, die mir wichtig sind. Deine zum Beispiel.
     478760|00000000||Und? Können wir anfangen?
@@ -6002,7 +5997,6 @@
    1048823|00000000||Keine Sorge. Wenn ich die Prüfung nicht bestehe, hast du mich bald vergessen.
    1048825|00000000||So was darfst du nicht sagen!
    1048827|00000000||Ein Mann, der kein Krieger ist, sollte vergessen werden.
-   1086181|31c0a5d0||Axel
     457303|00000000||Er starb in meinen Armen ... in meinen Armen.
     587993|00000000||Schnapp dir ein Horn, Geralt! Wir müssen trinken!
    1049993|00000000||Hurra! Der Hexer hat das Monster getötet!
@@ -6169,7 +6163,7 @@
    1042263|00000000||Sigo Buntz, Magier und Zauberer am Hof in Pont Vanis. Dieser Turm sollte mein neues Zuhause werden ... Ich habe ihn bei einer Auktion gekauft.
    1042265|00000000||Einen Turm? Bei einer Auktion?
    1042267|00000000||Er gehörte Gottfried Stammfeld, einem bekannten Magier. Als er starb, haben seine Erben den Turm versteigert.
-   1042269|00000000||Sie waren sehr misstrauisch ... Niemand traute sich nachsehen, was Onkel Gottfried in seinen bunten Gläsern aufbewahrte ... also, ob die Inhalte ihn den Geruchssinn und sein linkes Auge gekostet hatten.
+   1042269|00000000||Sie waren sehr misstrauisch ... Niemand traute sich nachzusehen, was Onkel Gottfried in seinen bunten Gläsern aufbewahrte ... also, ob die Inhalte ihn den Geruchssinn und sein linkes Auge gekostet hatten.
    1042271|00000000||Sie wollten den Turm mit allem darin verkaufen. Der Preis war unschlagbar, ich konnte nicht widerstehen.
    1042071|00000000||Endlich ist jemand da, um mich zu befreien! Noch dazu ein berühmter Hexer! Den Göttern sei Dank!
    1042135|00000000||Was für ein Glück, dass du in Kovir bist! Hat dich König Tankred geschickt oder die Gesellschaft für Magie?
@@ -6506,6 +6500,7 @@
     482344|00000000||Erst hier, dann auf Hindarsfjall ... Was wollten sie?
     482391|00000000||Sie suchen nach Ciri.
     482447|00000000||Aber ... warum?
+   1055689|f5e2163f||Schwarzer Troll
     491986|00000000||[Ausziehen.]
     491988|00000000||[Sich in ein Handtuch wickeln.]
     491989|00000000||[Das Handtuch entfernen.]
@@ -7079,6 +7074,7 @@
     502278|00000000||Der Him ist weg. Und damit auch die Stimmen, die dich gequält haben.
     502295|00000000||Keine Angst, das geht vorbei.
     502299|00000000||Du bist verwirrt, aber keine Sorge, das geht vorbei.
+    502328|00000000||Was hast du vor?
     502329|00000000||Leb wohl.
     502331|00000000||Gute Idee. Pass auf dich auf.
    1064951|00000000||Nicht immer, und nicht um jeden Finger. Aber wenn eine Idee gut ist, sehe ich keinen Grund, das zu leugnen. Da spielt das Geschlecht keine Rolle.
@@ -7107,7 +7103,6 @@
     502313|00000000||Ich bleibe ein paar Tage und schaue, dass es ihm gut geht. Und du? Bleibst du auf Spikeroog?
     502315|00000000||Weiß ich noch nicht. Muss drüber nachdenken.
     502317|00000000||Yennefer ist bestimmt schon ungeduldig ...
-    502328|00000000||Was hast du vor?
     502302|00000000||Mir ist, als ... wurde mich etwas abgerissen.
     502303|00000000||Kein Wunder. Der Him war ein Parasit. Die Bindung an den Wirt kann sehr stark sein. Darum fühlst du dich jetzt so leer.
     502305|00000000||In ein paar Tagen oder Wochen geht es dir wieder gut.
@@ -7125,7 +7120,6 @@
     488853|00000000||Wir haben den Him reingelegt. Er dachte, ich hätte dein Kind getötet, und wollte mich besetzen, um sich an meinem Gewissen zu laben.
    1065890|00000000||Aber als er sah, dass das Kind wohlauf ist, musste er gehen. Du bist frei, Jarl!
     488855|00000000||Frei ...
-   1054905|0c236fb5||Barbier
     481363|00000000||Das war sinnlos. Andere vor mir haben Ulle besiegt und er ist immer wieder zurückgekehrt. Ich muss mir was anderes einfallen lassen.
    1024615|00000000||Und was, wenn Feigling die Wahrheit gesagt hat? Wenn er uns nicht verlassen hat, sondern ...
    1024617|00000000||Hör auf. Ich möchte nicht über ihn reden.
@@ -7319,12 +7313,12 @@
    1087818|00000000||Wir dienen ihr, der Jungfrau, Mutter und Muhme.
    1087820|00000000||Weg mit dir.
    1087822|00000000||Pass auf, wohin du gehst!
-   1074372|00000000||Ach, Hexer. Wie ich sehe, folgst du dem Ruf des Windes ...
-   1074374|00000000||*Seufz* Gut. Wenn das so ist, treffen wir uns in Larvik.
    1074364|00000000||Leistest du mir Gesellschaft?
    1074366|00000000||Man kann nie wissen, was tief im dunklen Wald auf einen lauert.
    1074368|00000000||Denkst du, dass mir jemand wehtun will?
    1074370|00000000||Ich sollte lieber jeden warnen, der dumm genug wäre, es zu versuchen.
+   1074372|00000000||Ach, Hexer. Wie ich sehe, folgst du dem Ruf des Windes ...
+   1074374|00000000||*Seufz* Gut. Wenn das so ist, treffen wir uns in Larvik.
     480695|00000000||Ich schätze, du hast einen Plan ...
     480701|00000000||Du hast wohl einen Plan?
     480703|00000000||Ach was, verwesendes Fleisch fasziniert mich einfach!
@@ -8219,77 +8213,6 @@
    1010318|00000000||Götterfürchtige Krieger ...
    1010317|00000000||Die Brüder haben sich der Göttin anvertraut, bevor sie starben.
    1010316|00000000||Freyas Symbol ... mit Blut geschmiert ...
-    427115|00000000||Die Seefahrer blasen im Nebel hinein, um ihre Mannschaft vor Felsen zu warnen.
-    427117|00000000||Ist leider nicht mehr zu gebrauchen.
-    427111|00000000||Das Horn, um die Sirenen zu verjagen. Könnte nützlich sein.
-   1072431|00000000||Hm, sollte wahrscheinlich repariert werden.
-    522396|00000000||Wurde schwer getroffen ...
-    522404|00000000||Ist weiter ... obwohl er kaum noch laufen konnte.
-    524408|00000000||Sie wurde zerstückelt ... wahrscheinlich von zwei Personen.
-    420192|00000000||Sie nennen es das Massaker von Undvik - ist wirklich keine Übertreibung.
-    421298|00000000||Viele alte Spuren ... Der Riese muss hier oft entlanggegangen sein ...
-    524132|00000000||Waren wohl Plünderer.
-    524370|00000000||Der Riese wollte rein ... hat dann anscheinend aufgegeben.
-    422614|00000000||Sirenen haben sich auf sie gestürzt ... und wahrscheinlich von der Brücke gestoßen.
-    416899|00000000||Riesenspuren.
-    309574|00000000||"Seegräber". So begraben die Inselbewohner ihre Gefallenen.
-    518018|00000000||Der Tunnel ist eingestürzt ...
-    524396|00000000||Sauberer Schnitt. Der Kopf ist sicher weit geflogen.
-   1072406|00000000||Hjalmars Mann. Er ist auf der Flucht verblutet. Was mag seinen Leuten passiert sein ...
-    309604|00000000||Kampfspuren.
-    524140|00000000||Gebrochener Rücken. Als ob er aus großer Höhe gestürzt wäre.
-    522462|00000000||Der Bogenschütze hat ihn eingeholt.
-    522521|00000000||Hat hier noch einen zweiten Pfeil abbekommen. Wurde schwer getroffen.
-    522522|00000000||Und wo ist dieser Bogenschütze hin?
-    522437|00000000||Hm. Ist ziemlich weit gekommen ...
-    523591|00000000||Muss einer von Hjalmars Männern sein ...
-    522268|00000000||Ein Pfeil für jeden ... Gutes Auge.
-    522269|00000000||Nekker haben den Verfolger aufgehalten.
-    522317|00000000||Der Bogenschütze wollte ihn töten ... Ich frag mich, warum.
-    522316|00000000||Hier hat jemand Deckung gesucht.
-    524212|00000000||Hjalmars Lager. Sie wurden angegriffen.
-    523532|00000000||Trolle ... sie haben ihn in die Höhle gezogen. Ich frag mich, ob er noch lebt ...
-    309578|00000000||Hier wurde eine Trage gezogen.
-    417761|00000000||Der Riese kam den Berg runter, stürzte ins Dorf ... und hat das Tor von innen eingetreten.
-    522245|00000000||Hat auf ihn geschossen, als er fliehen wollte ...
-    523546|00000000||Hat ihn in die Enge getrieben. Wie ein Jäger.
-    522216|00000000||Er hat seine Pfeile liegen lassen.
-    447356|00000000||Er wurde zu Tode gekocht ...
-    518382|00000000||Verblutet ...
-    309606|00000000||Hier haben sie den Riesen bekämpft.
-    524412|00000000||Die hat den halben Köcher abbekommen.
-    517980|00000000||Hat bis zum bitteren Ende gekämpft.
-    517314|00000000||Der Riese hat sie gejagt ...
-    518017|00000000||Der Rest der Mannschaft ist weiter ... Wie viele mögen da noch übrig gewesen sein?
-    518019|00000000||Hjalmar hat hier viele Männer verloren.
-    309586|00000000||Mehrere Personen ... Haben ein Boot in Richtung Norden gezogen.
-    524139|00000000||Hat viele Wunden ... muss lange gekämpft haben.
-    420302|00000000||Ich muss einen anderen Weg finden.
-    413563|00000000||Ich werd versuchen, durchzubrechen.
-    309580|00000000||Wodurch wurde diese Lawine wohl ausgelöst?
-    524144|00000000||Hat nicht mal sein Schwert ziehen können ...
-    420033|00000000||Zeig mir die Vorratskammer, dann zeig ich dir die Mäuse.
-    522418|00000000||Hat viel Blut verloren ... Hat sicher nicht viel weiter gehen können.
-    309584|00000000||Der Clan an Craite.
-    524087|00000000||Hmm … Da drüben kocht was.
-    524136|00000000||Durchtrennte Arterie ... ist in Sekundenschnelle verblutet.
-    309576|00000000||Das Abzeichen des Clan an Craite. Das muss Hjalmars Langboot sein.
-    310732|00000000||Verdammte Leichenfresser.
-    522372|00000000||Hat schwer geblutet ... ist sicher geschwächt.
-    522373|00000000||Wurde erst hier getroffen ... ist dann aber weiter.
-    417272|00000000||Sie sind zu den Höhlen gerannt ...
-    417278|00000000||Blut. Sehr viel Blut.
-   1072363|00000000||Diese Spuren sind älter. Jemand hat das Lager vor dem Angriff verlassen ...
-    309592|00000000||Hier sind zwei Leute durchgekommen ... einzeln.
-    524131|00000000||Die Kehle wurde von Klauen zerfetzt. Sirenen ...
-    417280|00000000||Die Blutspur führt zur Höhle.
-    417274|00000000||Hier ist jemand gestolpert und gefallen ... konnte aber fliehen.
-    309582|00000000||Haben ihn auf einem Baum aufgespießt ...
-    524409|00000000||Sie haben es nicht rechtzeitig rausgeschafft. Zwei Sirenen weniger.
-    524413|00000000||Zweigeteilt.
-    523664|00000000||Der Bogenschütze war auch verwundet.
-    522209|00000000||Ist direkt im Bau eines Nekkers gelandet, hat ihn aber erledigt. Ganz schön zäh, die Skelliger.
-    524135|00000000||Kämpften barfuß - die Sirenen haben sie wohl überrascht.
     560061|00000000||Eine Falltür unter einem Bärenfell ... Klassisch.
     587468|00000000||Komm schon. Öffne sie.
    1022389|00000000||Einar ist vom Raubzug zurück. Angeblich hat er die Nilfgaarder mit der bloßen Hand zermalmt, nachdem er die Axt verloren hat.

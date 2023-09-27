@@ -24,7 +24,7 @@
     587812|00000000||Máš něco na prodej?
     587825|00000000||Máš něco na prodej?
    1016325|00000000||Mám. Ale je to drahé.
-   1016316|00000000||Co ještě chceš vědět? Naučila jsem tě vše, co umím.
+   1016316|00000000||Co ještě chceš vědět? Naučil jsem tě všemu, co umím.
    1069326|e0351e50||Truhlice
     567932|00000000||Geralte, potřebujeme ho živého!
     567933|00000000||Taky bych řekl. Pomoz mi.
@@ -35,7 +35,7 @@
     583688|00000000||Běž, ale doufám, že si ještě zabojujem.
     425871|00000000||Dám si něco k pití.
     410016|00000000||Dáváš dobrý rány. Tvrdý.
-    478312|dbb86633||Bandita
+    478312|dbb86633||Zbojník
     582904|00000000||Oh, to dopadlo špatně, špatně…
     577289|c10c4bf2||Rybář
     446094|00000000||Nevím, co tady hledáš, poutníče... ale najdeš tady smrt.
@@ -212,7 +212,7 @@
     511064|00000000||Podívám se na to.
    1068423|00000000||Cože?! Tolik bych ti nedal ani za hejno draků!
    1068425|00000000||Žádáš toho trochu moc, pane.
-   1068427|00000000||To je hodně... Ale drak taky není je ntak. Tak budiž, přijímám!
+   1068427|00000000||To je hodně... Ale drak taky není jen tak. Tak budiž, přijímám!
    1068429|00000000||Dost. Ber, co ti nabízím, nebo odejdi v míru! Najdu si chlapa, nebo pár, kdo se drakovi postaví jen kvůli slávě!
     511063|00000000||Promluvme si o odměně... Víš, to, co ty nabízíš za toho draka, to já většinou dostanu za nekkera.
     511065|00000000||Promluvme si o odměně.
@@ -306,7 +306,7 @@
     419143|00000000||Zase ty? Nemůžeš otravovat někoho jiného?
     522371|00000000||Jdi se zeptat Ranteho nebo Javora. Nebo hospodského.
     338912|9f754b64||Kovář
-    332382|00365006||Bandita
+    332382|00365006||Zbojník
     170812|f3248005||Vodnice
    1017971|0687b403||Kovář
    1028266|00000000||Zaklínači!
@@ -787,10 +787,10 @@
    1023216|00000000||No... Hele, jde o to... Poslední dobou je něco špatně. Nejsem ve svý kůži. Mám potíže s... no víš, uh...
    1023218|00000000||Aaah. Chápu. Potřebuješ odvar z libečku. Jednu hodinu před, no víš, tímhle, tamtím, čímkoliv.
    1055110|231374e3||Skelližan
+    346241|fd7deb62||Dobrodruh
    1041758|00000000||Zahajuji zneškodnění.
    1041762|00000000||Sbírka narušena. Zahajuji teleportaci šelem.
    1041756|00000000||Vetřelec v knihovně. Celistvost sbírky narušena.
-    346241|fd7deb62||Dobrodruh
     567560|00000000||Vzduch je ztěžklý vůní kadidla.
     567561|00000000||Zvedá se mi žaludek. Jako by...
     584211|00000000||Pssst... Slyšíš?
@@ -1158,7 +1158,7 @@
    1024572|00000000||A mně by se hodila liščí srst na límec. A co ty, Solve? Co ty od toho svýho chceš?
    1024574|00000000||Chci, aby mě vzal na lov, než abych se tady starala o hrnce. Umím střílet líp než on!
     348006|00000000||Co to bylo?
-    348519|00000000||Hmm... nějaký magický výbuch. Tak silný, že i její ozvěna byla nebezpečná. Vsadím se, že ten les zničil on.
+    348519|00000000||Hmm... nějaký magický výbuch. Tak silný, že i jeho ozvěna byla nebezpečná. Vsadím se, že ten les zničil on.
     498787|00000000||Ale Ciri a jejímu společníkovi neublížil... Viděl jsem je uniknout.
     498790|00000000||Tak zjistíme kam.
     576540|00000000||Připravený jsem se už narodil.
@@ -1402,7 +1402,6 @@
     583672|00000000||Neprodávej ryby, které jsi ještě neulovil, Vlku.
     409992|00000000||Tak pojďme na to.
     415197|00000000||S radostí.
-    432590|d184d9f7||Přízrak
     509696|00000000||Proč jen tak zřídka?
     509720|00000000||Moc často ne? A proč?
     509721|00000000||No, já si na řeči před bojem moc nepotrpím a po boji už si většinou není s kým popovídat.
@@ -1566,7 +1565,7 @@
     515457|00000000||Já s posádkou a sirény mu pomáháme postavit drakkar. Já šiju plachty a čas od času zdrhnu, a pak přiletí sirény a přinesou mě sem zpět.
     515459|00000000||K čemu by mu byla loď?
     515465|00000000||Během Poslední bitvy před Koncem světa vypluje na ní a porazí bohy.
-    515470|00000000||To už je trochu neaktuální.
+    515470|00000000||Hm. Asi si to rozmyslel.
     515453|00000000||Proč tě obr nezabil?
     515385|00000000||Ty jsi jarl z Undviku?
     515481|00000000||Ty jsi Harald Psí Huba, jarl z Undviku? Slyšel jsem, že jsi mrtvý.
@@ -1887,7 +1886,7 @@
    1002475|00000000||Zajímá mě tvůj názor na válku.
    1002477|00000000||Inu... Domnívám se, že si na ni Emhyr vybral špatnou dobu.
    1002479|00000000||Těžko by se hledala lepší, řekl bych, když Severem zmítá chaos.
-   1002481|00000000||Sever je oslabený, pravda. Ale i mám dojem, že císař čelí nějakým vnitřním rozepřím. Až moc na to, aby začal válku.
+   1002481|00000000||Sever je oslabený, pravda. Ale já mám dojem, že císař čelí nějakým vnitřním rozepřím. Až moc na to, aby začal válku.
    1002485|00000000||Radovid je šílenec, ale vychytralý. Určitě toho využije.
    1002408|00000000||Jak dopadne válka?
     168467|00000000||Sbohem.
@@ -1960,12 +1959,6 @@
     481226|00000000||Budu si to pamatovat. Mějte se.
    1056448|00000000||Jakže?! Tady se budou dít velký věci. Dej na mý slova!
    1056462|00000000||Doufám, že budou. Hodně štěstí.
-    481190|00000000||Jak je na tom můj podíl?
-    481206|00000000||Vidím, že obchody jen kvetou...
-    481207|00000000||To si piš! V prokletý aréně chce bojovat každej!
-    481208|00000000||Tak to asi můj podíl pěkně narostl.
-    481209|00000000||To si piš. Tady máš.
-    503357|00000000||Na Skellige je vždycky radost obchodovat.
     503302|00000000||Díky. Mějte se.
     480998|00000000||Víte o tom přeludu něco? Kdy se poprvé objevil?
     481000|00000000||Dědek mi říkal, že jeho dědek vyprávěl, že mu říkali Smolař Ulle. Prohrál každej boj, do kterýho se pustil, ale taky se vždycky nějak vylízal ze zranění. Ani umřít jako chlap neuměl.
@@ -1995,9 +1988,7 @@
     480996|00000000||Tuhle práci beru.
     480952|00000000||Na to nemám čas. Nashle.
     481173|00000000||Promiňte, nemám zájem. Mějte se.
-    481174|00000000||Ale na tom místě řáděj nečistý síly, nějaká prokletá duše!
     481175|00000000||Tak tam nechoďte.
-    481176|00000000||Takovou radu si strč za klobouk.
     545371|00000000||Ale kdyby sis to rozmyslel, odměna čeká.
     480997|00000000||Nemám zájem.
     480995|00000000||Co za přelud to je?
@@ -2008,6 +1999,12 @@
     481229|00000000||S přeludy to není nikdy jednoduché.
     481230|00000000||Je mi jasný, že to dalo práci. A za práci se sluší odměnit.
     480951|00000000||Vyhnal jsem toho ducha.
+    481190|00000000||Jak je na tom můj podíl?
+    481206|00000000||Vidím, že obchody jen kvetou...
+    481207|00000000||To si piš! V prokletý aréně chce bojovat každej!
+    481208|00000000||Tak to asi můj podíl pěkně narostl.
+    481209|00000000||To si piš. Tady máš.
+    503357|00000000||Na Skellige je vždycky radost obchodovat.
    1036744|00000000||Á, zaklínač. Rozmyslel sis to?
     499376|00000000||Hledáte si volné místečko, milenci? Hledejte jinde.
     499377|00000000||Nepovolaným vstup zakázán!
@@ -2097,7 +2094,6 @@
    1032476|00000000||Já vám řikal, že jim Svanrige ukáže!
    1032478|00000000||Stejně jako Bran zamlada... Na Brana!
    1032480|00000000||Na Brana! Tuirseach!
-    174153|49292af3||Kyklop
    1047249|baa6fb37||Jouda
    1024067|00000000||A bolí to, strašně. Jako by... jako by mě něco trhalo zevnitř.
    1024069|00000000||Měla bys s tím zajít za druidy.
@@ -2173,7 +2169,7 @@
     594015|00000000||Pusťte ho. Jestli bude dělat potíže, hodíme ho přes palubu.
     594017|00000000||Na shledanou Jorulfe, synu Rosomákův. Nebo jak to bylo.
     595707|00000000||Takhle vo mně nikdy nevtipkuj. Nikdy.
-    593912|00000000||To je práce pro mě, jestli mi to můžeš zařídit.
+    593912|00000000||To mi vyhovuje, jestli mi to můžeš zařídit.
     593914|00000000||Můžu ti zařídit nůž mezi žebra a potopení až na samý dno zátoky. A teď odprejskni.
     593916|00000000||Nenuť mě, abych ti ublížil. Už takhle mám svých starostí dost.
     593872|00000000||To je práce pro mě, jestli mi to můžeš zařídit.
@@ -2329,7 +2325,6 @@
     582884|00000000||Držel jsem jí palce vod začátku.
     582886|00000000||Jsem rád, že vyhrál. Je statečnej a udatnej.
     582890|00000000||Přesně ten král, kterýho potřebujeme.
-    577863|d84f8157||Půlnočnice
     481362|00000000||Porazil jsem tě!
    1043937|00000000||Vypadá to tak. Gratuluji.
     503462|00000000||Ale... jak to? Měl jsem prohrávat až do skonání věků?
@@ -2585,7 +2580,7 @@
     435364|00000000||Teď nevěříš, ale brzy na má slova vzpomeneš.
     435348|00000000||Díky za věštbu.
     435346|00000000||O tom pochybuju.
-    435350|00000000||Nemám v plánu navštívit Spikeroog.
+    435350|00000000||Nemám v úmyslu navštívit Spikeroog.
     435352|00000000||Člověk není pánem svého osudu.
     413059|00000000||Musím říct, že já nikdy na věštby a předpovědi nevěřil.
     413061|00000000||Jestli věříš, nebo ne, to nic nemění.
@@ -2731,7 +2726,7 @@
     394204|00000000||Skvělé. Vážně jste mi pomohli, všichni...
     385854|00000000||Kdo nebo co je ten Duch lesa?
     385858|00000000||Řeknu ti, co není - není tvoje věc.
-    386679|00000000||Je to obyčejnská potovra. Zavraždí každýho, kdo se odváží na její území.
+    386679|00000000||Je to obyčejnská potvora. Zavraždí každýho, kdo se odváží na její území.
     385848|00000000||Kdo je ten Duch lesa?
     385850|00000000||Jak vypadala těla ostatních obětí?
     386733|00000000||Jeho vnitřnosti rozklovali ptáci... A tady - stopy zubů - velký pes, možná vlk. Takhle zabíjí vždycky?
@@ -2851,6 +2846,7 @@
    1070873|00000000||Drogodar… tenhle skald už dozpíval.
    1070877|00000000||Tělo je zmasakrované. Těžko říct, kdo to byl… možná Steingrim?
    1070875|00000000||Otrygg… Sakra, vždyť to bylo ještě děcko.
+    174153|49292af3||Kyklop
     392478|00000000||Lešij. Samec - velmi starý.
    1074003|00000000||Sakra. Nejspíš si označil jednoho z vesničanů.
     583699|00000000||Tak mi přiveď někoho střízlivého. Myslíš, že někoho najdeš?
@@ -3194,7 +3190,7 @@
     585253|00000000||Na jižním výběžku ostrova bydlí Ingrid, stará léčitelka. Přiveď ji sem – máme tu spoustu zraněných.
     584081|00000000||Zdvojnásobte hlídky, prohledejte hrad a zem kolem! Každou píď! Hned!
    1083137|370dcba4||Chrlič
-   1024504|00000000||Artane, prý jsi viděl to zničené dřevo. Je to tak špatné, jak se říká?
+   1024504|00000000||Artane, prý jsi viděl ten zničený les. Je to tak špatné, jak se říká?
    1024506|00000000||Horší. Stromy jsou suché a zkroucené, půda je jako popel a voda je tak kyselá, že to pálí.
    1024507|00000000||Byla to magie, určitě. Nějaká mnohem mocnější než ta naše.
    1049127|00000000||Vyrážíš ráno na ryby? Tresky se prej vrátily z tření.
@@ -3337,16 +3333,6 @@
    1087806|00000000||Zešílels, ty tupče?
    1087814|00000000||Zmiz.
    1087808|00000000||Tobě už žádné modlitby nepomůžou.
-    572514|00000000||Viděls Bílou velrybu?
-    572516|00000000||Dobrý den!
-    572520|00000000||Ty nejsi z Nilfgaardu, že ne?
-    572518|00000000||Heč, můj táta šel bojovat s Černejma!
-    572522|00000000||Pozor.
-    572524|00000000||Půjdu pro tátu!
-    572526|00000000||Mami!
-    572528|00000000||Zdravím!
-    572530|00000000||Kdy mi vrátíš klacek?
-    572532|00000000||Ughh, už zase prší?
     506777|00000000||Vypadá to, že Myšilov dává něco do ruky té sošce.
     506785|00000000||Tak co, socho, co ta lebka?
     506787|00000000||Hm… zjevně nejsi nerozhodný princ.
@@ -3430,6 +3416,30 @@
    1010648|00000000||Bavili jsme se o minulosti...
    1010650|00000000||Ale nedokončili jsme to.
    1003299|00000000||Chci si promluvit o minulosti, o Divokém honu.
+   1123820|00000000||Yen, můžeme si promluvit?
+   1123822|00000000||Proč? Aby ses mě zeptal, jestli můžeme navzdory všemu zůstat přáteli?
+   1123824|00000000||Ne... Myslel jsem--
+   1123826|00000000||No tak, Geralte, já tě znám. Dost dobře na to, abych věděla, co přesně se děje mezi tebou a Triss.
+   1123829|00000000||Inu, nemůžu říct, že mě neláká se do toho, hm, vložit, ale... myslím, že to tentokrát nechám být.
+   1123832|00000000||No to se podívejme. Přišel jsi sem, abys mi to neohrabaně vysvětlil, ale místo toho, abych si tu podívanou užívala, jsem tu práci udělala za tebe.
+   1123834|00000000||Vypadá to tak.
+   1123836|00000000||Ale uplakaných řečí už bylo dost. Máme práci, pamatuješ?
+   1123983|00000000||Yen, chtěl jsem si promluvit o mně a Triss...
+   1123797|00000000||Takže... cítíš se po našem setkání s džinem jinak?
+   1123799|00000000||Ano. Cítím... lítost.
+   1123802|00000000||Chceš tím říct, že--?
+   1123805|00000000||Že je mi líto, že jsme to nezkusili dřív. Mnohem dřív.
+   1123808|00000000||Myslíš, že bychom se míň hádali?
+   1123810|00000000||Právě naopak. Ale silnější by byly i ty ostatní okamžiky.
+   1123812|00000000||Okamžiky jako tento.
+   1123984|00000000||Cítíš nějaké účinky po tom setkání s džinem?
+   1126970|00000000||Poslyš... mohla bys udělat něco s tímhle znamením?
+   1126973|00000000||Jestli tě svědí, můžu ti ho poškrábat, ale to je asi všechno.
+   1126975|00000000||Nedělám si legraci, Yen.
+   1126977|00000000||Já taky ne. Tyhle symboly... je to pradávná, silná magie. Nemám tušení, jak je odstranit.
+   1126979|00000000||Zatraceně.
+   1126981|00000000||I tak jsi jeden z nejhezčích zaklínačů, které znám. Druhý hned po Lambertovi.
+   1126982|00000000||Pomůžeš mi zbavit se tohohle znamení?
    1002974|00000000||Proč jste mě u Ledňáčka opustily?
    1002977|00000000||Bavily jste se s Triss dobře?
    1002979|00000000||Výborně. Konečně jsme si mohly trochu promluvit.
@@ -3959,6 +3969,7 @@
     500857|00000000||Na shledanou.
     163718|00000000||Opatruj se.
     163716|00000000||Potřeboval bych překovat meč.
+    421430|00000000||Potřebuju něco vyrobit.
     500823|00000000||Bílý vlk!
     587236|00000000||Sledujme stopu...
    1055555|770e6af8||Loďařský učeň
@@ -3979,11 +3990,11 @@
    1077540|00000000||[Vyholená hlava a culík.]
     577797|00000000||Hádám, že to asi umíš s nůžkami. Co kdybys mě ostříhal?
     577798|00000000||No, to obvykle nedělám... Ale což, přece neodmítnu pocestného.
-    577796|00000000||Můžeš mi ostříhat vlasy?
+    577796|00000000||Můžeš mě ostříhat?
     421766|00000000||Na shledanou.
     421768|00000000||Zase někdy se zastav.
-    421764|00000000||Na shledanou.
-    421762|00000000||Rád bych viděl další zboží.
+    421764|00000000||Sbohem.
+    421762|00000000||Podívám se na tvé zboží.
     421770|00000000||Rád se podívám, co mi můžeš nabídnout.
     433871|00000000||Rozumný muž. U mě rozhodně nenajdeš žádný šmejd.
     409336|00000000||Buď zdráv.
@@ -4051,7 +4062,7 @@
     408751|00000000||Díky za informaci.
     408753|00000000||Ne, to já tady děkuji... žes nás všechny zachránil.
     408372|00000000||Děkujeme, zaklínači! Nebýt tebe, co by s námi bylo?
-   1043255|00000000||Počkej, než půjdeš... ten jejich šéf měl v pokoji truhlu. Takovou celkem hezkou, potaženou látkou. Vsadím boty, že v ní neměl rezervní ponožky...
+   1043255|00000000||Počkej, než půjdeš... ten jejich šéf měl v pokoji truhlu. Takovou celkem hezkou, potaženou látkou. Vsadím boty, že v ní neměl náhradní ponožky...
    1047407|00000000||Jste volní. Jděte na západ a narazíte na vesnici.
     330610|00000000||Mísa na každém stole.
     437433|00000000||V tomhle je medovina... a nic než medovina.
@@ -4127,19 +4138,6 @@
     490961|00000000||Nithing. Hodně silná kletba. Na násadě je vyryté jméno. Tjalve, Lotarův syn.
     432288|00000000||Z tlamy tomu medvědovi táhne zemitý pach. Připomíná mi to… houby?
     437435|00000000||Mísa je prázdná… ale ten pach ve vzduchu, jde z… není z této místnosti.
-    578576|00000000||Hraješ občas gwint?
-    578579|00000000||Jo, je to moje velká vášeň. Chceš si zahrát?
-    578594|00000000||Jsem připraven. Pojďme na to.
-    578580|00000000||Jo, zahrajme si.
-    578595|00000000||Určitě, tedy až budu mít trochu času.
-    578581|00000000||Někdy jindy.
-    578592|00000000||Co takhle partičku gwintu?
-    578593|00000000||To kdykoliv.
-    578575|00000000||Slyšel jsem, že hraješ gwint.
-    578598|00000000||Bravo! Skvělá výhra, gratuluji.
-    578596|00000000||No, jak to říct... vítězství šité na míru. Přeju příště víc štěstí, zaklínači.
-    578600|00000000||Tady na Skellige už slušného protihráče nenajdeš. Jestli si chceš pořádně zahrát, zkus to spíš ve Velenu.
-   1042494|00000000||Zahraj si s baronem nebo s tím slavným klukem, Haddym. To jsou protihráči pro tebe.
     350767|00000000||Pomóc! Pomozte mému tátovi, prosím!
    1038235|00000000||Musím hledat dál... teď už aspoň vím kde.
    1038233|00000000||Meč tady není... ale aspoň mám stopu.
@@ -4147,7 +4145,6 @@
    1022284|00000000||Každá by chtěla chlapa jako Udalryk... Oddanej bohům, statečnej...
    1022286|00000000||To není statečnost, ale siláctví. A mně přijde, že se to bohů ani moc netýká.
    1022290|00000000||Já to vidím stejně. Kdysi byl statečný, to ano, ale teď se chová jako šílenec.
-    421430|00000000||Potřebuju něco vyrobit.
     421420|00000000||Potřebuju něco vyrobit.
    1028761|00000000||Rád bych se nějak rozptýlil. Partička gwintu by bodla.
    1086482|00000000||Mám chuť na karty. Nedáme partičku nebo dvě?
@@ -4542,6 +4539,7 @@
     166803|05b6c502||Druid
     477233|068721d7||Otrok
    1086145|e5e26ccb||Ledový troll
+    432590|d184d9f7||Přízrak
     582939|00000000||Lugoš zuřil…
     582941|00000000||Ten zuří pořád…
     582944|00000000||Takhle ale málokdy. A skoro nikdy nevodchází.
@@ -4605,7 +4603,6 @@
     422432|00000000||Nového? Nic.
     422436|00000000||Tady nejsi na pevnině, móda se tu nemění s tajícím sněhem. Žijeme stejně jako naši otcové a vlastně i praotcové. Rybaříme, lovíme a vyrážíme na nájezdy... A budeme tak žít až do Ragh nar Roogu... a po něm taky.
     422414|00000000||Vrátil ses.
-   1055372|ad41ad88||Alghúl
     421262|00000000||Co má takový druid na prodej?
     421258|00000000||Máš něco na prodej?
     421264|00000000||Bohové s tebou.
@@ -4634,7 +4631,6 @@
    1022689|00000000||Jasně, ale nejdřív musíš přeplout moře! A tahle věc se potopí s první bouří!
    1022691|00000000||Říkal jsem to samý. Ale Hjalmar neposlouchal. Prej "Zemřu jako slavnej, nebo se vrátím jako bohatej. Obojí je dobrý."
     374148|7e613e3d||Bjorg
-   1015555|0001853c||Pes
     591192|00000000||Vážně? Tak co chceš?
     591193|00000000||Chci ti pomoct, vagabunde.
     591194|00000000||Víš, jak odsud utéct?
@@ -5161,7 +5157,6 @@
     520612|00000000||No jasně, slavíci hvízdají.
     375497|00000000||Porozhlédněme se.
     495747|00000000||Pořád si říkám, co to změnilo, jestli vůbec něco. Je čas jít za Udalrykem.
-    166486|ca49f862||Sjusta
     429005|00000000||Geralte, pojď sem! Něco mě napadlo!
     375511|00000000||Geralte!
     585264|00000000||Tři roky. Tři zasraný roky s krumpáčem v ruce.
@@ -5349,6 +5344,7 @@
    1054138|00000000||Radši zůstanem tady a přečkáme to.
    1054140|00000000||Co? Tady? Je tady vlhko... a tma...
    1054142|00000000||A právě proto nám sem nikdo nepoleze.
+    376129|00000000||Nabrousil si drápy. Nebo si jen značkuje území.
     376131|00000000||Dlouhé drápy. Velmi působivé.
     376133|00000000||Svou kořist uškrtil. Pak se začal krmit.
     376135|00000000||Škrtič. Zvláštní - ti svou kořist nepožírají.
@@ -5359,9 +5355,8 @@
     379569|00000000||Hluboké a tenké řezné rány. Jako od břitvy...
     379571|00000000||Má dlouhé ostré drápy...
     381774|00000000||Svou oběť roztrhá jako striga.
-    381776|00000000||Sakra. Rozsápaný na kusy.
     411223|00000000||Vlasy naprosto zešedly. Nejspíš byl vyděšen k smrti.
-    376129|00000000||Nabrousil si drápy. Nebo si jen značkuje území.
+    381776|00000000||Sakra. Rozsápaný na kusy.
     382080|00000000||Odkud se tady ty sirény vzaly?
     382086|00000000||Už jsi tady v okolí někdy nějaké sirény viděl?
     382088|00000000||No samo. Lezou sem z toho bohy zavrženého ostrova Undviku. Mrchy jedny hnusné...
@@ -6002,7 +5997,6 @@
    1048823|00000000||Neboj. Jestli zkouškou neprojdu, brzo na mě zapomeneš.
    1048825|00000000||To neříkej!
    1048827|00000000||Muž, který není válečníkem, není hoden zapamatování.
-   1086181|31c0a5d0||Axel
     457303|00000000||Umřel mi v náručí... přímo v náručí...
     587993|00000000||Vem si roh, Geralte! Musíme pít!
    1049993|00000000||Jupí! Zaklínač tu příšeru zabil!
@@ -6287,7 +6281,7 @@
    1025003|00000000||A přines nám nějakej kus žvance! No tak, rychle!
    1025005|00000000||Tohle hulákání vám mohlo projít v hospodách na pevnině, ale tady jste zase doma, takže se koukejte chovat!
    1036620|00000000||"Jak šťastně žít a zemřít: Moderní kritický výklad Lebedy" - co to tady k čertu dělá?
-   1036619|00000000||Kdo je kdo mezi kovirskými čaroději"
+   1036619|00000000||"Kdo je kdo mezi kovirskými čaroději"
    1036621|00000000||"Gottfriedův Otevírací Grimoár". To je ono!
    1036618|00000000||"Alchymie pro nesoulad v domácnosti, svazek 3." To není ono.
    1036617|00000000||"Aplikovaná golemancie" - musím hledat dál.
@@ -6506,6 +6500,7 @@
     482344|00000000||Nejdřív tady, pak na Hindarsfjallu... Co tady chtějí?
     482391|00000000||Hledají Ciri.
     482447|00000000||Ale... proč?
+   1055689|f5e2163f||Černý troll
     491986|00000000||[Svléknout se.]
     491988|00000000||[Zabalit se do osušky.]
     491989|00000000||[Sundat osušku.]
@@ -7079,6 +7074,7 @@
     502278|00000000||Hym je pryč. A spolu s ním i hlasy, které tě mučily.
     502295|00000000||Neboj se, to přejde.
     502299|00000000||Jsi dezorientovaný, ale zachovej klid, to přejde.
+    502328|00000000||Co budeš dělat?
     502329|00000000||Hodně štěstí.
     502331|00000000||Dobrý nápad. Opatruj se.
    1064951|00000000||Ne každý popud a ne pokaždé. Ale když má někdo dobrý nápad, nevidím důvod mu ho upírat - a pohlaví s tím nemá nic společného.
@@ -7107,7 +7103,6 @@
     502313|00000000||Pár dní tady zůstanu. Ujistím se, že je v pořádku. A ty? Zůstaneš na Spikeroogu?
     502315|00000000||Ještě nevím. Musím si to srovnat v hlavě.
     502317|00000000||Yennefer už je určitě netrpělivá...
-    502328|00000000||Co budeš dělat?
     502302|00000000||Mám pocit, jako by ze mě někdo něco vyrval...
     502303|00000000||To je normální. Hym byl parazit, a ti si s obětí vytvářejí silné pouto. Proto teď cítíš prázdnotu.
     502305|00000000||Dej tomu pár dní, možná týdnů, a budeš zase zdráv.
@@ -7125,9 +7120,8 @@
     488853|00000000||Hyma jsme oklamali. Myslel si, že jsem tvé dítě zabil, opustil tě, aby strašil mě a živil se na mém svědomí.
    1065890|00000000||Ale když viděl, že je dítě celé, nezraněné, musel odejít. Jsi volný, jarle!
     488855|00000000||Volný?
-   1054905|0c236fb5||Holič
     481363|00000000||To je k ničemu. Ulleho už porazili jiní a vždycky se vrátil. Budu muset vymyslet něco jiného.
-   1024615|00000000||A co když měl Craven pravdu? Co když nás neopustil, ale...
+   1024615|00000000||A co když měl Zbabělec pravdu? Co když nás neopustil, ale...
    1024617|00000000||Přestaň. Nebudu o něm mluvit.
    1024619|00000000||Byl to náš pokrevní bratr. Pluli jsme na stejným drakkaru, seděli jsme veslo vedle vesla. Spolu jsme najížděli na Černý.
    1024621|00000000||Ale když zaútočili, zdrhnul. Opustil svou mámu a ségru. Opustil nás všechny.
@@ -7184,11 +7178,11 @@
    1056452|00000000||Jak říkala Filippa Eilhart, megaskop a kartáček na zuby - velmi osobní majetek...
    1066783|00000000||To určitě... Něco takového bych si neoblékl. Ále, co bych neudělal pro svou--
    1069168|00000000||Hm... Co je ona vlastně moje?
-   1087851|00000000||Seveřanka?
+   1087851|00000000||Seveřan?
    1087853|00000000||Nemám čas.
    1087855|00000000||Vandrák.
    1087857|00000000||Hoří!
-   1087859|00000000||Seveřanka?
+   1087859|00000000||Seveřan?
    1087861|00000000||Hlava prošedivělá, ale meč má velký.
    1087863|00000000||Jak to chodíš?
     460024|00000000||Ty jsi Kurisu?
@@ -7288,7 +7282,7 @@
    1057752|00000000||Pojď, Geralte.
     422292|00000000||Vítej, Bílý vlku. Tušil jsem, že se objevíš. No, vlastně jsem to věděl jistě.
     422294|00000000||Vážně?
-    422296|00000000||Každý ví, že ten nejlépe zásobená zbrojnice na celém Skellige je tady na hradě Kaer Trolde.
+    422296|00000000||Každý ví, že ta nejlépe zásobená zbrojnice na celém Skellige je tady na hradě Kaer Trolde.
     422298|00000000||Rád se přesvědčím.
     422300|00000000||Jen do toho, času dost, všechno si pořádně prohlédni.
     422306|00000000||Ukaž mi zboží.
@@ -7319,12 +7313,12 @@
    1087818|00000000||Sloužíme té, jež je Pannou, Matkou a Babicí.
    1087820|00000000||Jdi pryč.
    1087822|00000000||Dávej pozor, kam jdeš!
-   1074372|00000000||Ech, zaklínači. Vidím, že máte nutkání odpovídat na volání divočiny...
-   1074374|00000000||Dobrá. V tom případě se sejdeme v Larviku.
    1074364|00000000||Rozhodl ses mi dělat společnost?
    1074366|00000000||Nikdy nevíš, co na tebe může vyskočit hluboko v temném lese.
    1074368|00000000||Myslíš, že by mi někdo chtěl ublížit?
    1074370|00000000||Myslím, že bych měl varovat každého, kdo by byl tak hloupý, aby to zkusil.
+   1074372|00000000||Ech, zaklínači. Vidím, že máte nutkání odpovídat na volání divočiny...
+   1074374|00000000||Dobrá. V tom případě se sejdeme v Larviku.
     480695|00000000||Hádám, že máš nějaký plán.
     480701|00000000||Hádám, že máš nějaký plán.
     480703|00000000||Ne, jen se ráda koukám na hnijící mrtvoly!
@@ -7466,7 +7460,7 @@
     497442|00000000||Budeš mi chybět.
     480437|00000000||Budeš mi chybět.
     480439|00000000||Geralte, nech toho... není nic ubožejšího než brečící čarodějka.
-    480441|00000000||Čarodějka snad nesmí dát najevo emoce?
+    480441|00000000||Čarodějka snad nesmí dát najevo city?
     480443|00000000||O nic víc než zaklínač.
     480445|00000000||Nikdo se nedívá.
     480452|00000000||Taky bych měla jít. Obávám se, že po rozhovoru se Skjallem už tady nebudeme vítáni.
@@ -7558,7 +7552,7 @@
     583764|00000000||Neváháš mezi Hjalmarem a Cerys?
     583782|00000000||Neváháš mezi Hjalmarem a Cerys?
     583784|00000000||Myslíš, jestli někomu z nich dávám přednost? Ne. Liší se od sebe tak jako oheň a voda. Ale v obou z nich koluje krev an Craitů.
-    583786|00000000||Není Hjalmar na krále příliš horkorevný?
+    583786|00000000||Není Hjalmar na krále příliš horkokrevný?
     439896|00000000||Jen tak mezi námi, není Hjalmar na krále příliš horkokrevný?
     439898|00000000||To záleží na tom, jakého krále máš na mysli. Jestli si krále představuješ tak, že bude vypravovat poselstva, přesouvat figurky po mapě a vypočítávat tu nejvýhodnější možnost, pak ano, v tom případě je příliš horkokrevný.
     439900|00000000||Ale Skellige chce jiného vládce. Takového, který utopí Nilfgaard v krvi a radši skočí do ohně, než aby se vzdal. A takový Hjalmar je.
@@ -8219,77 +8213,6 @@
    1010318|00000000||Bohabojní válečníci...
    1010317|00000000||Než umřeli, svěřili se bratři do rukou bohyně.
    1010316|00000000||Freyin symbol nakreslený krví.
-    427115|00000000||Na tenhle roh námořníci troubili v mlze, aby varovali posádku, když spatřili skály.
-    427117|00000000||Teď mi to k ničemu není.
-    427111|00000000||Roh na zahánění sirén. Mohl by se hodit.
-   1072431|00000000||Hm, nejspíš měl v plánu to opravit.
-    522396|00000000||Pořádně to schytal...
-    522404|00000000||Šel dál... ačkoliv už se sotva plazil.
-    524408|00000000||Rozsekali ji... zřejmě byli dva.
-    420192|00000000||Říkají tomu Undvický masakr. A nepřehánějí.
-    421298|00000000||Spousta starých stop... Obr tady zřejmě chodí často.
-    524132|00000000||Tohohle už našli mrchožrouti.
-    524370|00000000||Obr se snažil dostat dovnitř... ale asi to vzdal.
-    422614|00000000||Přepadly je sirény... a nejspíš je shodily z mostu.
-    416899|00000000||Obří stopy.
-    309574|00000000||"Mořské hroby." Takhle ostrované pohřbívají své padlé.
-    518018|00000000||Strop tunelu se propadl...
-    524396|00000000||Čistý řez. Hlava nejspíš vyletěla nahoru.
-   1072406|00000000||Hjalmarův muž. Vykrvácel, když se pokoušel o únik. Copak se asi stalo s jeho kohortou…
-    309604|00000000||Známky boje.
-    524140|00000000||Zlomená záda. Jako by spadl z velké výšky.
-    522462|00000000||Lučištník ho konečně dostal.
-    522521|00000000||Tady dostal druhý šíp. A tentokrát se strefili dobře.
-    522522|00000000||Kam zmizel ten lučištník?
-    522437|00000000||Tady je... Vydržel dlouho.
-    523591|00000000||Určitě jeden z Hjalmarových mužů...
-    522268|00000000||Jeden šíp na každého... dobrá muška.
-    522269|00000000||Nekkeři zpomalili pronásledovatele.
-    522317|00000000||Zajímalo by mě, proč ho lučištník chtěl zabít...
-    522316|00000000||Někdo se tady kryl před střelami.
-    524212|00000000||Hjalmarův tábor. Přepadli je.
-    523532|00000000||Trolové... odtáhli ho do jeskyně. Jestlipak ještě žije...
-    309578|00000000||Někdo tudy táhl nosítka.
-    417761|00000000||Obr sešel z hor, vpadl do vsi... a pak vykopl bránu zevnitř.
-    522245|00000000||Střelil ho, když utíkal...
-    523546|00000000||Zahnal ho do rohu... jako na lovu.
-    522216|00000000||Nevrátil se posbírat šípy.
-    447356|00000000||Uvařil se...
-    518382|00000000||Vykrvácel.
-    309606|00000000||Tady bojovali s obrem.
-    524412|00000000||Vystřílel do ní půl toulce.
-    517980|00000000||Bojoval až do hořkého konce.
-    517314|00000000||Obr je pronásledoval...
-    518017|00000000||Zbytek posádky šel dál... kolik jich asi zbylo?
-    518019|00000000||Hjalmar tady ztratil spoustu mužů.
-    309586|00000000||Několik lidí... táhli loďku na sever.
-    524139|00000000||Spousta zranění... musel bojovat dlouho.
-    420302|00000000||Musím najít jinou cestu.
-    413563|00000000||Zkusím se probít.
-    309580|00000000||Co asi způsobilo tu lavinu?
-    524144|00000000||Ani nestačil vytasit meč...
-    420033|00000000||Jaká spižírna, takové myši.
-    522418|00000000||Spousty krve... daleko už určitě nedošel.
-    309584|00000000||Klan an Craite.
-    524087|00000000||Hmm... něco se tam vaří.
-    524136|00000000||Přervaná tepna... vykrvácel po pár sekundách.
-    309576|00000000||Znak klanu an Craite. Je to Hjalmarův drakar.
-    310732|00000000||Zatracení mrchožrouti.
-    522372|00000000||Silně krvácel... už mu asi docházely síly.
-    522373|00000000||Tady dostal první zásah... ale šel dál.
-    417272|00000000||Běželi k jeskyním...
-    417278|00000000||Krev. Spousta krve.
-   1072363|00000000||Tyhle stopy jsou starší. Někdo z tábora odešel před útokem…
-    309592|00000000||Šli tudy dva lidé... ale každý sám.
-    524131|00000000||Hrdlo roztržené pařáty. Sirény...
-    417280|00000000||Krvavé stopy vedou do jeskyně.
-    417274|00000000||Někdo zakopl a upadl... ale podařilo se mu uprchnout.
-    309582|00000000||Nabodl ho na strom...
-    524409|00000000||Nestačily se vyprostit. O dvě méně.
-    524413|00000000||Rozseknutá vejpůl.
-    523664|00000000||I lučištník byl zraněný.
-    522209|00000000||Přistál přímo do doupěte nekkera, ale dostal ho. Lidi ze Skellige jsou tvrďáci.
-    524135|00000000||Bojoval bosý... sirény je přepadly nečekaně.
     560061|00000000||Padací dveře pod medvědí kůží – klasika.
     587468|00000000||Tak je otevři.
    1022389|00000000||Einar se vrátil z nájezdu. Prej že když ztratil sekeru, začal drtit Nilfgaarďany holýma rukama.
@@ -8392,7 +8315,7 @@
    1006715|00000000||Jednoho už se nám přece chytit podařilo. Pamatuješ?
    1006717|00000000||Jistě. Marigold tenkrát málem přišel o hlas.
     581064|00000000||Jaké štěstí, že ho tvé "vymítání" zachránilo. Doslova poetické.
-   1013869|00000000||Jo… Jak jsem měl vědět, že to zaříkání znamená "Táhni a jdi se vysrat"?
+   1013869|00000000||Jo… Jak jsem měl vědět, že to zaříkání znamená "Táhni pryč a vyhoň si ho"?
    1013871|00000000||Měl ses učit cizí jazyky.
    1013873|00000000||Budeš mi to připomínat po zbytek života?
    1013875|00000000||Jistě. Tvoje poslední přání to dokonale pojistilo.

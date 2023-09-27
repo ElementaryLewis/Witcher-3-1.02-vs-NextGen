@@ -1,5 +1,6 @@
 ;meta[language=cz]
 ; id      |key(hex)|key(str)| text
+    170811|72cb8ee5||Topivec
     581146|00000000||Aaaaaa!
     581147|00000000||Milost!
    1061012|00000000||Rozvaž mě! Rychle!
@@ -187,7 +188,6 @@
     579083|00000000||Pelko Sambor, padesát let, dvě děti, políčko žita a jedna koza...?
     579084|00000000||Dělejte jak chcete. Já to jen nahlásil.
     579046|00000000||Bylo to, jak říkám. Donášel Černým, fuj!
-    595889|83463c36||Zbrojířův učeň
     575034|00000000||Támhle, pane! To je on.
     575055|00000000||Zbláznil ses?
     575023|00000000||Hned jsem věděl, že je to Nilfgaarďan! Chci říct špeh. Schovává je už týden.
@@ -381,7 +381,7 @@
     583263|00000000||Tož ja, investýrujeme do movitostí. Bo dneska vážně jinak nevíš…
     583265|00000000||Ten zlatý pohár navíc se bude hodit... jasně, chápu.
     583267|00000000||Co jste s ním udělali?
-    583268|00000000||Eh, no už ho nemáme. Kupčík sa našel. Akýsi pan Zrcadélko, či tak cosyk. Ale dobré prachy cáloval, to jo.
+    583268|00000000||Eh, no už ho nemáme. Kupčík sa našel. Akýsi Zrcadlák, či tak cosyk. Ale dobré prachy cáloval, to jo.
     583274|00000000||Bysme sa s tebů aj podělili, ale ty si od ksichtu takový ten, co zisky z čórky bere ako cosyk špinavého.
     583276|00000000||Ja ja, máš takový ten spravedlivě nasratý kukuč, no fakt.
     583286|00000000||Vaše peníze nechci.
@@ -547,7 +547,7 @@
     584855|00000000||Runy v klasické starší mluvě. Žádná stylizace, prosté a přesné.
     584857|00000000||Mohu?
     584859|00000000||Je tvůj. Pokud si ho chceš vyzkoušet... nechal jsem pomocníky připravit výcvikovou figurínu.
-    584861|00000000||Hmm. Tady je tvá odměna. Samé drahokamy, jak jsi chtěl
+    584861|00000000||Hmm. Tady je tvá odměna. Samé drahokamy, jak jsi chtěl.
     584863|00000000||Jestli hledáš práci, v Mariborském lese prý řádí striga.
     584864|00000000||Díky. Nejdřív se chci stavit v hospodě, ale pak... kdo ví.
     584865|00000000||Hodně štěstí na Stezce, zaklínači.
@@ -665,7 +665,6 @@
     572807|00000000||Pán půjde za mnou.
     572810|00000000||Jeho císařská výsost čeká...
     595913|6b1268cb||Osadník
-   1051424|f11e033c||Mečíř
     583129|00000000||Hej! Chopte se ho!
     583128|00000000||Takhle skončí všichni zrádci. Vypálíme vzpouru i s kořeny.
     584088|00000000||Můžeš se dívat, ale z dálky.
@@ -840,16 +839,6 @@
    1059074|00000000||Errr... n-ne.
    1059076|00000000||Ona není tak úplně naše, je to spíš zabraný vozidlo. Kořist, by se dalo říct.
    1059078|00000000||Lidi ji museli opustit ve spěchu - kam spěchali, to netuším. Byla by škoda, kdyby ji Redanský vyplenili.
-    590603|00000000||Ah, už je to kyselý.
-    590605|00000000||Ahoj, ty tam.
-    590607|00000000||Co je novýho?
-    590609|00000000||Jestli nesneseš to vedro, tak se kliď z kovárny.
-    590619|00000000||Tady je jen prvotřídní zboží, žádný rezavý šméčko.
-    590611|00000000||Že si každej svůj osud tvoří sám? Pff. Spíš si ho každej sám posere.
-    590621|00000000||Má to nějakou cenu? Ty tvoje meče na zádech?
-    590613|00000000||Chceš dostat nakládačku?
-    590615|00000000||A co jako? Mám zavolat pro pomoc?
-    590617|00000000||Pomoc! Zachraňte mě!
     573535|00000000||Podej hlášení.
     573530|00000000||Kapitáne!
     573536|00000000||Novigradská delegace je odsud půl dne cesty.

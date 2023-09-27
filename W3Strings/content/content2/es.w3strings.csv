@@ -43,6 +43,7 @@
     422235|00000000||Adiós.
     422231|00000000||Enséñame el género.
     422237|00000000||A ver qué me puedes ofrecer.
+    432590|d184d9f7||Aparición
    1037370|00000000||¿Qué cojones hago ahora? ¿Eh? ¿Qué?
    1037368|00000000||Cincuenta años de trabajo... ¡perdidos!
     594289|00000000||¡Llamaré a mi mamá!
@@ -331,7 +332,7 @@
    1031579|00000000||¡Recemos por nuestros valientes cazadores de magos! Ojalá limpien el mundo de toda esa basura.
     572015|00000000||No olvidéis vuestro diezmo para la iglesia, queridos creyentes. Así expresaréis vuestra fe.
     572017|00000000||Todo niño necesita amor. ¡Recordad esto, mis fieles!
-    593289|05df9919||Ganso
+    593289|05df9919||Oca
    1046142|00000000||¡Basta, por favor! ¡Basta!
    1046145|00000000||¡Piedad! ¡Por favor!
    1046139|00000000||¡Aaah!
@@ -427,6 +428,7 @@
     549288|00000000||Esto nos pasa por meternos donde no nos llaman... Venga, vámonos.
    1056370|00000000||Yennefer, ¿cómo han...?
    1056372|00000000||Hablaremos de esto mañana, ¿de acuerdo? Después de la audiencia.
+   1075783|00000000||{¡Goc'hel! } [¡Cuidado!]
    1056355|00000000||¿Sabes? Hace poco soñé contigo.
    1056357|00000000||Conociéndote, seguro que fue algo obsceno.
    1056359|00000000||Solo al principio. Pero después...
@@ -1342,7 +1344,7 @@
     170686|00000000||Hasta luego.
     170684|00000000||Llevamos ya medio año en la Senda.
     170692|00000000||¿Eres consciente de que ha pasado medio año desde que acabamos con aquel diablo en Vorune?
-    170694|00000000||Sí. Aunque era más que un diablo. ¿Cómo se llamaba aquel cabrón? ¿Drugan? Que su tumba le traiga la luz.
+    170694|00000000||Sí. Aunque era más que un diablo. ¿Cómo se llamaba aquel cabrón? ¿Drugan? Que la tierra le sea leve.
     596142|00000000||Las cosas eran más sencillas. Los monstruos eran malos, los humanos buenos. Ahora... todo es confuso.
    1007652|00000000||Eran exactamente igual que ahora. Es solo que lo has olvidado, anciano.
     353292|00000000||¡Eh! Harías bien en no destacar mi edad, que tú ya estás cerca de cumplir un siglo.
@@ -1724,7 +1726,7 @@
     578242|00000000||Y... has perdido. ¿Un pañuelo para las lágrimas?
     578243|00000000||Has ganado, pero no lloraré por ello. Aunque puede que sí hagas llorar a ese constructor de barcos de Velen. Parecía un tipo sensible.
    1042523|00000000||O prueba con el zapatero que merodea por el campamento nilfgaardiano. Toma una carta, por si te metes en líos.
-    543165|72eeb4b2||Botánico
+    543165|72eeb4b2||Herborista
    1046203|00000000||¡Aaah!
    1046205|00000000||¡Escondeos!
    1046207|00000000||¡Aaah!
@@ -1815,7 +1817,6 @@
    1049563|00000000||{Bostezo}
    1049561|00000000||{Va caelm! } [¡Cálmate!]
    1049567|00000000||{Glaeddyv vort. } [Depón la espada.]
-    432590|d184d9f7||Aparición
    1043949|00000000||Vete.
    1043951|00000000||Fuera de mi vista.
    1043953|00000000||¡Arrrgh!

@@ -30,6 +30,7 @@
     546798|00000000||Poradzę sobie. Nie bój się.
    1076925|00000000||Ves... Nie wściekaj się.
     572659|00000000||Źle zrobiłeś, sprowadzając tu królobójcę.
+    301032|5a979acb||Wojownik Dzikiego Gonu
     307008|103d66e3||Zając
     550116|00000000||Nie interesuje mnie to.
     550129|00000000||Nie wiem i szczerze mówiąc, nie bardzo mnie to interesuje.
@@ -80,7 +81,7 @@
     550115|00000000||Oświeć mnie.
     549156|00000000||Geralt! Geeeraaalt!
     549157|00000000||Wstawaj!
-    549160|00000000||C… co? Co się dzieje?
+    549160|00000000||C... co? Co się dzieje?
     549162|00000000||Wstawaj, musimy ruszać. Konie już osiodłane.
     549197|00000000||Ciri... Ledwo świta... Dokąd chcesz jechać?
     547528|00000000||Do Velen, za parę dni na Łysej Górze będzie sabat czarownic.
@@ -139,10 +140,38 @@
     536186|00000000||Miałam zamiar urządzić awanturę za to, że nie poprosiłeś mnie o pomoc. Ale po drodze wyżyłam się już na Roche’u.
    1061994|00000000||Dobrze was znów widzieć.
    1061992|00000000||Dobrze was znów widzieć.
+   1123852|00000000||Nie... Chodźmy. Czekają na nas.
+   1123849|00000000||Nie. Chodźmy.
+   1123855|00000000||Jeśli naprawdę nie masz nic przeciwko...
+   1123858|00000000||Nieźle to przyjęła.
+   1123860|00000000||Albo chce, żebyśmy tak myśleli.
+   1123863|00000000||Długo cię tu nie było, co?
+   1123865|00000000||Za długo. Jak komnata gościnna? Coś się zmieniło?
+   1123867|00000000||Mhm. Łóżko... Łóżko się popsuło.
+   1123869|00000000||Nie szkodzi. Możemy spać na podłodze. Rozłożymy sobie skóry i...
+   1123872|00000000||Ekhem.
+   1123874|00000000||Lepiej już chodźmy.
+   1123850|00000000||Jeśli naprawdę nie masz nic przeciwko...
+   1123843|00000000||Chcecie chwilę dla siebie?
+   1123846|00000000||Przepraszam, nie chcieliśmy cię...
+   1123848|00000000||Wiem. Po prostu pytam. Chcecie chwilę dla siebie?
     462992|00000000||Cieszę się, że jesteś, Triss.
     522511|00000000||Podziękuj Yennefer. To ona mnie zaprosiła.
     549984|00000000||Później będzie czas na rozmowy. Teraz chodźmy się naradzić.
-    522515|00000000||Robi się chłodno, chodźcie. Musimy się naradzić.
+   1123878|00000000||Ja... Zostawię was może na chwilę.
+   1123880|00000000||Triss, daj spokój...
+   1123882|00000000||Nie, nie... Na pewno się za sobą stęskniliście, a minuta w tę czy wewtę nikogo nie zbawi.
+   1123889|00000000||Dobrze... To minuta i idziemy, zgoda?
+   1123892|00000000||Hm. Trochę to krępujące...
+   1123894|00000000||Czterdzieści pięć sekund.
+   1123896|00000000||Co?
+   1123898|00000000||Mamy jeszcze czterdzieści pięć sekund we dwoje... Teraz to już trzydzieści. A potem rzucimy wyzwanie Dzikiemu Gonowi. Więc błagam... Wykorzystaj je jakoś.
+   1123901|00000000||Uwielbiam cię, Yen.
+   1123903|00000000||Cóż... Punktów za oryginalność to nie dostaniesz. Ale za szczerość...
+   1123906|00000000||Chodźmy już.
+   1123884|00000000||Dobrze... To minuta i idziemy.
+   1123883|00000000||Nie, lepiej chodźmy od razu.
+   1123886|00000000||Nie, chodźmy lepiej od razu... Czekają na nas.
     522544|00000000||Nie stójmy tutaj.
     520117|00000000||Tak, chodźmy. Musimy się naradzić.
    1061996|00000000||Nie mamy zbyt dużo czasu. Niebawem zjawi się tu Dziki Gon.
@@ -151,13 +180,14 @@
     462858|00000000||Są już wszyscy, których poprosiłeś o pomoc. Avallac’h wypoczywa w wieży – nadal z nim źle.
     522469|00000000||No już, już. Wszystko w porządku.
     522472|00000000||Co...
-    522475|00000000||Witaj, maleńka…
+    522475|00000000||Witaj, maleńka...
     522478|00000000||Ciri! Ciri!
     522481|00000000||Córeczko! Ależ ty wypiękniałaś.
     522484|00000000||Nie stójmy tak, chodźcie przywitać się z innymi.
-    522486|00000000||Nic się nie zmieniliście. Wszyscy… Takich was zapamiętałam.
+    522486|00000000||Nic się nie zmieniliście. Wszyscy... Takich was zapamiętałam.
     522488|00000000||Co?
     549628|00000000||Siostrzyczko.
+    522515|00000000||Robi się chłodno, chodźcie. Musimy się naradzić.
    1061976|00000000||Yen... Znasz Dziki Gon jak nikt inny. Wiesz coś o magii, którą się posługują?
    1061978|00000000||Nawigatorzy potrafią otwierać portale, które można kontrować magią lub dwimerytem.
    1061980|00000000||Wykorzystują też zimno pochodzące z pustki, przez którą podróżują.
@@ -259,15 +289,15 @@
     524776|00000000||Ni’l ceim siaar!
     524777|00000000||Trooid’i!
     524775|00000000||Choinne chic!
+    524355|00000000||Nie ma co zwlekać – wojna z Czarnymi nie zaczeka.
+    524360|00000000||Wiesz, że zawsze możesz na mnie liczyć?
+    524362|00000000||Wiem i dziękuję.
+    565580|00000000||Bywaj.
+    566135|00000000||Bywaj.
     524358|00000000||Obowiązki wzywają.
     524369|00000000||Słuchaj, Geralt, masz przyjaciela króla. Nie każdy może się tym pochwalić.
     524471|00000000||Jeśli kiedykolwiek ty lub Ciri będziecie potrzebowali pomocy, to wrota Kaer Trolde stoją przed wami otworem.
     565588|00000000||Dziękuję, będę pamiętał.
-    565580|00000000||Bywaj.
-    566135|00000000||Bywaj.
-    524355|00000000||Nie ma co zwlekać – wojna z Czarnymi nie zaczeka.
-    524360|00000000||Wiesz, że zawsze możesz na mnie liczyć?
-    524362|00000000||Wiem i dziękuję.
     565582|00000000||Wracasz prosto na Ard Skellig?
     565579|00000000||Wracasz prosto na Skellige?
     321589|00000000||Jesteś.
@@ -367,7 +397,7 @@
     466091|00000000||Psiakrew.
     466093|00000000||Uch!
    1074926|00000000||Ten skurwiel chce się przebić siłą do środka!
-   1063029|00000000||Następnym razem strzel mnie w łeb, zanim zdenerwuję Merigold.
+   1063029|00000000||Następnym razem daj mi w łeb, zanim zdenerwuję Merigold.
     520509|00000000||Nie, żebym nie wierzył w tę niewidzialność, ale trzymajmy się z dala od tych stworzeń.
    1074961|00000000||Ona jest jedną z nas, Geralt. Nie pozwolimy jej zabrać.
     464404|00000000||Chodź no.
@@ -406,41 +436,6 @@
     520110|00000000||Mielibyśmy przepuścić taką okazję? Niedoczekanie.
     520111|00000000||Aż żal, że nie ma z nami Vigiego.
     541556|00000000||Dobrze cię widzieć!
-   1000357|00000000||Wygląda na to, że Ciri już wkrótce nie będzie potrzebowała twojej pomocy.
-   1000359|00000000||Ani twojej.
-   1000361|00000000||Zgadza się. Będzie mogła zrobić, co zechce – i ja ją w tym wesprę. A ty? Jesteś gotów dać jej wreszcie żyć własnym życiem?
-   1000362|00000000||Do niczego jej nie zmuszę, jeśli o to pytasz.
-   1000123|00000000||Wkrótce Ciri nie będzie potrzebowała twojej pomocy.
-   1000343|00000000||Uroczy ten wasz świat. Można się zakochać.
-   1000345|00000000||Powiedz mi... Jak wy to robicie? Gracie tu sobie na flecikach, malujecie landszafty z jednorożcem na rykowisku, stawiacie wieżyczki rzeźbione w różne esy-floresy.
-   1000347|00000000||A potem nas mordujecie. Bez mrugnięcia okiem. Bez wyrzutów sumienia. Jak?
-   1000349|00000000||A czy ludzie mają wyrzuty sumienia, gdy zabijają elfy Aen Seidhe? Krasnoludy? Driady?
-   1000351|00000000||Jesteśmy tacy sami... Bo równie gorąco wierzymy, że inni są gorsi od nas.
-   1000121|00000000||Uroczy ten świat elfów Aen Elle.
-   1000353|00000000||Pewnie mnie posądzisz o to, że jestem prymitywny – ale czemu po prostu nie zabijemy Ge’elsa?
-   1000337|00000000||Bo w krótkiej perspektywie nic nam to nie da... A dalszej możemy nie dożyć.
-   1000339|00000000||W przypadku Ge’elsa nie liczy się, co robi na polu bitwy, tylko poza nim. Manipuluje. Kłamie. Trzyma Aen Elle w ryzach.
-   1000341|00000000||Można usunąć pionek z szachownicy, tylko że to nie zaważy na wyniku partii. Ale można też go użyć, by zmienić zasady.
-   1000355|00000000||Wciąż mi nie wytłumaczyłeś, czemu nie zabijemy Ge’elsa, tylko bawimy się w jakieś podchody.
-   1000122|00000000||Czemu nie zabijemy Ge’elsa?
-   1000285|00000000||Powiedz coś więcej o tym Caranthirze... Dobrze go znasz?
-   1000287|00000000||Czy go znam? Ja go wyhodowałem.
-   1000289|00000000||Chyba wychowałeś.
-   1000291|00000000||Nie, Geralt. Zacząłem go kształtować na długo przed tym, zanim się urodził.
-   1000293|00000000||Całe wieki kojarzyłem w pary elfy, które przejawiały szczególne zdolności... Które potrafiły manipulować czasem i przestrzenią. Efektem tych starań jest właśnie Caranthir. Złote dziecko.
-   1000295|00000000||Złote dziecko, które wyrosło na zbrodniarza.
-    307750|00000000||Opowiedz mi o Caranthirze.
-   1000192|00000000||Bywaj.
-   1000125|00000000||Bywaj.
-   1000124|00000000||Czemu pomagasz Ciri?
-   1000196|00000000||Kiedy spotkałeś Ciri po raz pierwszy, uwięziłeś ją. Teraz ją chronisz... walcząc przeciw swoim. Niezła wolta.
-   1000198|00000000||Po pierwsze, nie uwięziłem jej. Sama mnie znalazła. Takie było jej przeznaczenie.
-   1000200|00000000||Mhm, pewnie. Przejdźmy lepiej do „po drugie”. Czemu jej pomagasz?
-   1000202|00000000||Bo jest niebezpieczna. Śmiertelnie niebezpieczna.
-   1000204|00000000||Ty widzisz w niej człowieka. Uczennicę, może nawet córkę. Ja widzę Starszą Krew. Siłę, która może zniszczyć świat. Którą za wszelką cenę trzeba trzymać z dala od pijanego władzą Eredina.
-   1000206|00000000||Działamy z różnych pobudek, przyznaję. Mimo to mamy wspólny cel, więc dobrze by było, gdybyś mi zaufał... Albo chociaż spróbował.
-   1000194|00000000||Tak, Geralt?
-   1000190|00000000||Znajdź Zireael... Czas goni...
     531907|00000000||Ciekawe, czy trafił go szlag?
     531908|00000000||Imleritha? Wątpię.
    1063050|00000000||Zaklęcie Yennefer słabnie! Zamieć zaraz dotrze do twierdzy!
@@ -476,10 +471,10 @@
     566164|00000000||„Wyczekiwanie na dogodną okazję”.
     566166|00000000||Po naradzie dam ci amulet. Jeśli go użyjesz, w miejsce, w którym stoisz, spadnie kula ognia. To tak na wszelki wypadek.
     566168|00000000||Musimy współpracować.
-    566172|00000000||Pamiętajcie - jest nas mało i musimy sobie wzajemnie pomagać.
+    566172|00000000||Pamiętajcie – jest nas mało i musimy sobie wzajemnie pomagać.
     566174|00000000||Jeśli coś pójdzie nie tak, Gon zepchnie nas do defensywy. W takim wypadku będziemy musieli wycofać się pod bramę twierdzy.
     566176|00000000||Wewnętrzny dziedziniec jest ostatnią linią obrony. Jeśli nie zatrzymamy tam wroga, to przegramy.
-   1062490|00000000||Zbierz wszyskich. Zaczynamy naradę.
+   1062490|00000000||Zbierz wszystkich. Zaczynamy naradę.
     524316|00000000||Dziękuję, że jesteście.
     549991|00000000||Niebawem zjawi się tutaj Dziki Gon. Przyjdą zabrać Ciri, a my ich powstrzymamy.
     524318|00000000||Skąd pewność, że Gon się zjawi?
@@ -627,14 +622,14 @@
     550513|00000000||A teraz wybacz, chcę porozmawiać z córką.
     550557|00000000||Tędy, panie.
     581800|00000000||Dzięki.
-    581803|00000000||Geralt…
+    581803|00000000||Geralt...
     581806|00000000||Dziesięć...
    1069330|00000000||Dwadzieścia...
    1069332|00000000||Trzydzieści...
     581809|00000000||Czterdzieści...
    1069334|00000000||Pięćdziesiąt...
-   1069336|00000000||Sześćdziesiąt…
-    581811|00000000||Siedemdziesiąt…
+   1069336|00000000||Sześćdziesiąt...
+    581811|00000000||Siedemdziesiąt...
    1069338|00000000||Osiemdziesiąt...
    1069340|00000000||Dziewięćdziesiąt...
     581814|00000000||...I zaokrąglam do pełnej setki. To wszystko. Tu pokwitować... Proszę.
@@ -643,7 +638,7 @@
     550487|00000000||Zawsze dotrzymuję słowa.
     550490|00000000||Ja też.
     550485|00000000||Zawsze dotrzymuję słowa.
-    550471|00000000||Wasza Cesarska Mość, Geralt z Rivii i…
+    550471|00000000||Wasza Cesarska Mość, Geralt z Rivii i...
     550473|00000000||Cirilla Fiona Elen Riannon, królowa Cintry, księżna Brugge i diuszesa na Sodden, dziedziczka Inis Ard Skellig i Inis An Skellig, suzerenka Attre i Abb Yarra.
     550477|00000000||Przyzwyczajaj się. Niedługo będą przed tobą klękać wszyscy od Nilfgaardu po Góry Smocze.
     550480|00000000||Nie sądziłem, że dotrzymasz słowa, wiedźminie.
@@ -678,9 +673,9 @@
     548632|00000000||Hmm... Nie wiem, jak budyń waniliowy, ale mnie zawsze dobrze robił słynny bimber Lamberta...
     548634|00000000||Nic mi już nie zaszkodzi...
     547453|00000000||Odpuść sobie, nie musisz być we wszystkim dobra.
-    584090|00000000||Hmm... Jest pewna stara metoda... Nauczył mnie jej Vesemir, a jego nauczył Barmin…
+    584090|00000000||Hmm... Jest pewna stara metoda... Nauczył mnie jej Vesemir, a jego nauczył Barmin...
     584092|00000000||Wyprowadzisz mnie w góry i każesz pić napar z szaleju?
-    584095|00000000||To pradawna metoda skelligijskich druidów, zawsze działa…
+    584095|00000000||To pradawna metoda skelligijskich druidów, zawsze działa...
     584098|00000000||Heeej!
     584101|00000000||Czekaj, pożałujesz!
     547454|00000000||Wiem, co cię rozśmieszy.
@@ -719,7 +714,7 @@
    1075245|00000000||Przywiozłeś ze sobą warsztat?
    1074867|00000000||Pomyślałem sobie, że przed bitwą trzeba będzie naostrzyć miecze i wyklepać pancerze.
    1074869|00000000||Dobry pomysł. Dzięki, Zoltan.
-   1074871|00000000||Prócz tego zamierzam przygotować moją specjalność. Mahakamski koktail - bardzo wybuchowy i bardzo przydatny podczas oblężeń.
+   1074871|00000000||Prócz tego zamierzam przygotować moją specjalność. Mahakamski koktail – bardzo wybuchowy i bardzo przydatny podczas oblężeń.
    1074883|00000000||Porozmawiamy później.
    1074881|00000000||Porozmawiamy później.
    1074880|00000000||Czy możesz coś dla mnie wykonać.
@@ -787,9 +782,31 @@
    1003643|00000000||To trudne?
    1003645|00000000||Z początku było, ale z czasem stało się oczywiste jak jazda konna.
    1003647|00000000||Założę się, że wielu czarodziejów chciałoby się tego nauczyć...
-   1003649|00000000||Pewnie tak... Ale Avallac’h twierdzi, że nie mają odpowiedniej wiedzy ani umiętności. On sam uczył się tego czterysta lat, a i tak umie tylko wykrywać istniejące portale i przenosić się przez nie.
+   1003649|00000000||Pewnie tak... Ale Avallac’h twierdzi, że nie mają odpowiedniej wiedzy ani umiejętności. On sam uczył się tego czterysta lat, a i tak umie tylko wykrywać istniejące portale i przenosić się przez nie.
    1003653|00000000||Ja mogę iść, gdzie chcę i kiedy chcę.
    1003636|00000000||Jak to jest podróżować między światami?
+   1127038|00000000||Bardzo się rzuca w oczy to znamię na mojej gębie?
+   1127041|00000000||Trochę. Ale nie przejmuj się.
+   1127044|00000000||Wiesz, ja kiedyś strasznie przeżywałam, że ludzie gapią się na tę moją bliznę na policzku.
+   1127046|00000000||I co?
+   1127048|00000000||Rozpięłam sobie guzik w koszuli. I po problemie.
+   1127049|00000000||Bardzo rzuca się to znamię na mojej gębie?
+   1127066|00000000||Nie wiem, czy słyszałaś... Jak już będzie po wszystkim, jadę do Koviru.
+   1127068|00000000||Z Triss?
+   1127070|00000000||Mhm.
+   1127072|00000000||Ciekawa okolica. Może trafi ci się kontrakt na jakiegoś śnieżnego potwora. Barbegazi, wendigo... Albo te, amaroki.
+   1127074|00000000||A może wreszcie zawieszę miecze na kołku.
+   1127076|00000000||Aż tak ci z nią dobrze?
+   1127078|00000000||Aż tak.
+   1127063|00000000||Wiesz... Jak już będzie po wszystkim, jadę do Koviru.
+   1127081|00000000||Wiesz... Chcę cię poprosić o radę. W sprawie Yennefer.
+   1127083|00000000||Dobra. Dajesz.
+   1127086|00000000||No więc... Chciałbym ją gdzieś zabrać, jak już będzie po wszystkim. W jakieś ładne miejsce... Gdzie odpoczniemy.
+   1127088|00000000||Tyle podróżowałaś, dobrze ją znasz... Może masz jakiś pomysł? Ja zastanawiałem się nad Spallą albo Dol Blathanna...
+   1127090|00000000||Pojedź z nią do pierwszego lepszego zajazdu. Zapłać za miesiąc z góry. I wywieś tabliczkę „nie przeszkadzać".
+   1127092|00000000||Tak po prostu?
+   1127094|00000000||Tak po prostu.
+   1127064|00000000||Chcę cię prosić o radę. W sprawie Yennefer.
    1003655|00000000||Jak to się dzieje, że Eredin potrafi cię zlokalizować?
    1003573|00000000||Kiedy przenoszę się ze świata do świata, wywołuję jakby falę, którą może wyczuć ktoś odpowiednio wyszkolony. Tak przynajmniej twierdzi Avallac’h. I on też to potrafi.
    1003666|00000000||Czyli w zasadzie nie powinnaś korzystać ze swojej mocy...
@@ -827,6 +844,8 @@
     562490|00000000||Muszę stawić im czoła.
     529468|00000000||Miałaś czekać wewnątrz!
     529686|00000000||Trzymaj się, Triss!
+   1077974|00000000||Gvaed, gvaed uncym, cym’morth!
+   1077970|00000000||{Emitting a mind-piercing, ear-bleed inducing shriek.}
    1077942|00000000||Geralt... Gdzie on jest... Musimy...
    1077944|00000000||Aach!
    1077946|00000000||Tym razem mi nie umkniesz!
@@ -843,8 +862,6 @@
    1077968|00000000||Nieeeeeeeeee!
    1077938|00000000||Chodź!
    1077940|00000000||Ach...!
-   1077974|00000000||Gvaed, gvaed uncym, cym’morth!
-   1077970|00000000||{Emitting a mind-piercing, ear-bleed inducing shriek.}
    1076935|00000000||Cholera... Nawet przed walką ze smokiem się tak nie denerwowałem.
     465190|00000000||Tylko my tak naprawdę wiemy, z czym przyjdzie się nam zmierzyć.
     465188|00000000||Już raz ich pokonałeś. Wiem, że znów ci się uda.
@@ -906,7 +923,7 @@
    1075110|00000000||Pomóż mi! Jestem przy wahadle!
    1075112|00000000||Idę!
    1075130|00000000||Geralt! Dłużej ich nie zatrzymam!
-   1075132|00000000||Nacierają na plac przy głównej branie!
+   1075132|00000000||Nacierają na plac przy głównej bramie!
    1075102|00000000||Geralt! Nadchodzą od strony wyłomu Savolii!
    1075104|00000000||Wszyscy do Eskela!
     565955|00000000||Uratowałaś nas.
@@ -915,7 +932,7 @@
     465711|00000000||Musimy przygotować pogrzeb Vesemira, chodźcie.
     571205|00000000||Nie wiesz, jak to jest... Widzieć, jak umiera ktoś, kogo kochasz. Przez ciebie...
     571207|00000000||Wszyscy wiedzieliśmy, na co się piszemy.
-    571209|00000000||Tak… I uratowaliście mnie. Na jak długo? Tydzień? Miesiąc?
+    571209|00000000||Tak... I uratowaliście mnie. Na jak długo? Tydzień? Miesiąc?
     575122|00000000||Ukryjemy cię, zatrzemy ślady...
     575124|00000000||Nie. Nie będę już uciekać.
     571203|00000000||Nie obwiniaj się. Żaden wiedźmin nie zmarł dotąd we własnym łóżku.
@@ -961,7 +978,7 @@
     573759|00000000||Na początku nie miałam takiego zamiaru, ale zawróciłam.
     573761|00000000||Dlaczego zmieniłaś zdanie?
     573763|00000000||Z pewnych rzeczy kobieta nigdy nie powinna się tłumaczyć. A czarodziejka w szczególności.
-    573754|00000000||Myslałem, że będziesz wcześniej.
+    573754|00000000||Myślałem, że będziesz wcześniej.
    1062992|00000000||Robisz się na bóstwo dla Dzikiego Gonu?
    1062994|00000000||Kobieta nakłada makijaż i czesze się tylko dla siebie.
     572599|00000000||Cieszę się, że jesteś.

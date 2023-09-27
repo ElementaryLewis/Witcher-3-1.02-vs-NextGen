@@ -75,7 +75,6 @@
    1070242|00000000||Me pregunto qué valiente jarl enviaría esa bañera a luchar contra la flota imperial.
    1070244|00000000||Los de Skellige no son tan idiotas. Apuesto a que fue un velero mercante.
     458124|f759b018||Soldado nilfgaardiano
-    166754|68667754||Soldado nilfgaardiano
     557209|00000000||Prefiero comprobarlo ahora. Caso contrario, seguiré preguntándome si no me está por apuñalar por la espalda.
     557211|00000000||Tienes una especie de manía persecutoria.
     556435|00000000||No hace falta que nos acompañes.
@@ -200,7 +199,6 @@
    1070238|00000000||Me han dicho que a Gerben le ha vuelto a tocar la guardia del cuartillo.
    1070240|00000000||Sí. El agua podrida le enseñará a no burlarse del comandante.
    1070405|00000000||Cierto. Aunque tienes que admitir que de Vijver huele un poco a hurón mojado.
-    301010|00330572||Mago
    1065050|00000000||¿Vienes a rendirte, hija de la Vieja sangre?
    1064980|00000000||No. Vengo a matarte.
     539896|00000000||Mira, Geralt.
@@ -321,6 +319,7 @@
     543823|00000000||A veces me pones de los nervios, ¿sabes?
     539963|00000000||Hierbas... Nada muy incriminatorio...
     539964|00000000||Espera. Aún no hemos examinado todo el laboratorio.
+    166754|68667754||Soldado nilfgaardiano
     534001|00000000||¡Cemrae ei iache!
     534002|00000000||¡Rhane, toriad rhane!
     534003|00000000||¡Gvaethe ei arwyneb!
@@ -767,54 +766,45 @@
     559413|00000000||Buena suerte.
     559416|00000000||En el plan falta un elemento importante... ¿Qué pasa con Ciri?
     559420|00000000||Zireael se quedará a la espera. A distancia segura del Naglfar.
-    560345|00000000||Bueno... No digo que no tengas razón.
-    560268|00000000||Admito que tienes razón.
+    560269|00000000||No tienes derecho a darle órdenes.
     560271|00000000||No tienes derecho a darle órdenes.
     560273|00000000||Qué gracioso. Zireael me dijo lo mismo, pero gritando bastante más.
     560274|00000000||En realidad, sí tengo derecho. Soy el único que sabe activar la Piedra solar. Lo haré como crea conveniente o no lo haré.
     560343|00000000||Zireael reconoció la validez de mi razonamiento. No me cabe duda de que tú harás lo mismo.
-    560269|00000000||No tienes derecho a darle órdenes.
-    560263|00000000||Presiento que no era lo que tenías en mente...
-    560265|00000000||No. Yo quería acompañarlos. Esa era mi idea.
-    560267|00000000||Pero yo no voy a permitirlo. Correría un peligro excesivo.
-    559421|00000000||Supongo que no habrá sido idea de Ciri...
-    559422|00000000||Muy sensato.
-    560347|00000000||Tiene sentido.
-    560338|00000000||Uh. Creí que al menos tú me tomarías en serio.
-    560340|00000000||Siempre ha sido así, y lo sabes.
-    560393|00000000||No puedes derrotar a Eredin, no tienes ninguna oportunidad... Mierda, ni siquiera sé si yo seré capaz. Procura mantener las distancias.
-    560395|00000000||Zireael... ¿Juras quedarte en la orilla?
-    560397|00000000||¿Acaso tengo otro remedio?
-    560400|00000000||¿Adónde vas?
-    560403|00000000||A dar un paseo. ¿O tampoco me dejarás? ¿Por si me rompo una pierna?
-    560410|00000000||Ah, sí... La Vieja sangre es indómita.
+    559476|00000000||Prohibirle algo a Ciri no sirve de nada.
+    559502|00000000||Decirle a Ciri que no puede hacer algo es contraproducente. Te lo dice la voz de la experiencia... Al final, hace lo que se le antoja.
+    559504|00000000||Esperemos.
+    559506|00000000||¿Cómo?
     559477|00000000||No parecía convencida.
     559508|00000000||No parecía convencida.
     559510|00000000||No. Pero tampoco voy a maniatarla y a teletransportarla lejos de aquí ¿no?
     559512|00000000||Ajá. No te aconsejo que lo intentes.
-   1056437|00000000||No hay tiempo que perder. En cuanto terminemos con esto, mejor.
-   1056439|00000000||Sígueme.
-   1056434|00000000||Sí, vamos.
-   1056441|00000000||No me vendrían mal unas pociones. Vete. Te veré pronto.
-   1056443|00000000||No te retrases demasiado.
-   1056435|00000000||Te veré luego.
-   1056433|00000000||A no ser que quieras venir conmigo ahora.
-   1051802|00000000||Cierto, las cosas pueden ponerse feas.
+   1123509|00000000||Hay un faro cerca de aquí...
+   1123676|00000000||Umm. Hay un faro no muy lejos de aquí, ¿sabes?
+   1123679|00000000||¡Geralt! ¿Estás insinuando que...?
+   1123681|00000000||No... Bueno, ahora mismo no. Solo quería decir...
+   1123684|00000000||Quería decir que desde... Desde Novigrado, cada vez que veo la luz de un faro, me siento bien. Pienso en ti.
+   1123709|00000000||No me pasará nada.
+   1123758|00000000||Me las arreglaré.
+   1123760|00000000||Siempre dices lo mismo.
+   1123762|00000000||Todavía no me han matado.
+   1126893|00000000||Bueno, excepto aquella vez.
+   1051794|00000000||¿Yen? ¿Qué haces aquí?
+   1051796|00000000||He venido a verte.
+   1051798|00000000||¿Pasa algo?
+   1051800|00000000||Todavía no. Pero quizás pase pronto. Puede que no sobrevivamos. De hecho, es probable que no.
    1051819|00000000||Bueno, estamos aquí para enfrentarnos a Eredin y a la Cacería salvaje a pleno rendimiento. Podría ser como en Sodden. O peor.
    1051825|00000000||No puede haber nada peor que Sodden.
-   1051803|00000000||No te pongas nerviosa.
+   1051802|00000000||Cierto, las cosas pueden ponerse feas.
    1051821|00000000||No te pongas nerviosa, Yen. No te queda bien.
    1051823|00000000||No estoy nerviosa. Solo intento ser realista. Pero no he venido a hablar de eso.
-   1051836|00000000||Suena demasiado bonito.
-   1051870|00000000||No sé, Yen. La verdad es que suena demasiado bonito para ser verdad.
-   1051880|00000000||Siempre puedes volver, si ves que después de un mes no nos soportamos el uno al otro.
-   1051882|00000000||Mmm... Está bien. Estoy dispuesto a intentarlo.
-   1051884|00000000||Con eso me alcanza.
-   1051868|00000000||Ve, Geralt. Avallac'h te espera.
-   1056445|00000000||Procura que no te maten, brujo.
-   1051862|00000000||Iría a cualquier lado contigo.
-   1051864|00000000||Es la respuesta que esperaba.
-   1051835|00000000||Claro que iré contigo.
+   1051803|00000000||No te pongas nerviosa.
+   1051801|00000000||No te preocupes, todo estará bien.
+   1051805|00000000||Hemos recorrido un largo camino, y sería una desgracia fracasar. Todo estará bien.
+   1051808|00000000||Admiro tu optimismo. Ojalá lo compartiera.
+   1051811|00000000||Escúchame. Cuando todo esto termine, si sobrevivimos... quiero irme lejos. Y que tú vengas conmigo.
+   1051813|00000000||¿Adónde?
+   1051815|00000000||A cualquier sitio. A Poviss, más allá de las Montañas del Dragón, incluso a Zerrikania. Lo más lejos posible de políticos, conspiradores y la supuesta alta sociedad.
    1051837|00000000||¿Tú quieres dejar la política? No me lo creo.
    1051840|00000000||¿Tú? ¿Alejarte de la política y las conspiraciones? Te mueves como un pez en el agua en ese mundo, es tu vida.
    1051842|00000000||Es hora de empezar de nuevo.
@@ -824,16 +814,49 @@
    1051851|00000000||¿Por qué no? ¿Ese es tu sueño?
    1051853|00000000||Nos iremos juntos, haremos lo que queramos, solo lo que tengamos ganas de hacer.
    1051860|00000000||Bueno, ¿vienes conmigo?
-   1051811|00000000||Escúchame. Cuando todo esto termine, si sobrevivimos... quiero irme lejos. Y que tú vengas conmigo.
-   1051813|00000000||¿Adónde?
-   1051815|00000000||A cualquier sitio. A Poviss, más allá de las Montañas del Dragón, incluso a Zerrikania. Lo más lejos posible de políticos, conspiradores y la supuesta alta sociedad.
-   1051805|00000000||Hemos recorrido un largo camino, y sería una desgracia fracasar. Todo estará bien.
-   1051808|00000000||Admiro tu optimismo. Ojalá lo compartiera.
-   1051801|00000000||No te preocupes, todo estará bien.
-   1051794|00000000||¿Yen? ¿Qué haces aquí?
-   1051796|00000000||He venido a verte.
-   1051798|00000000||¿Pasa algo?
-   1051800|00000000||Todavía no. Pero quizás pase pronto. Puede que no sobrevivamos. De hecho, es probable que no.
+   1051870|00000000||No sé, Yen. La verdad es que suena demasiado bonito para ser verdad.
+   1051880|00000000||Siempre puedes volver, si ves que después de un mes no nos soportamos el uno al otro.
+   1051882|00000000||Mmm... Está bien. Estoy dispuesto a intentarlo.
+   1051884|00000000||Con eso me alcanza.
+   1051836|00000000||Suena demasiado bonito.
+   1051835|00000000||Claro que iré contigo.
+   1051862|00000000||Iría a cualquier lado contigo.
+   1051864|00000000||Es la respuesta que esperaba.
+   1051868|00000000||Ve, Geralt. Avallac'h te espera.
+   1056445|00000000||Procura que no te maten, brujo.
+   1123764|00000000||Oh, Geralt. Eres un encanto cuando intentas hacerte el gracioso.
+   1123766|00000000||¿Intentar? Retira eso. Ha sido una broma muy buena.
+   1123768|00000000||Ajá. Claro.
+   1123771|00000000||Te quiero, ¿sabes?
+   1123780|00000000||¿Intentas hacerme llorar? Ciri me lo recordaría toda la vida. Vamos, vamos.
+   1123783|00000000||Yo también te quiero.
+   1123752|00000000||No pienses en eso.
+   1123754|00000000||¿Y en qué pienso entonces?
+   1123756|00000000||En Emhyr var Emreis desfilando. Completamente desnudo.
+   1123708|00000000||No pienses en eso.
+   1123702|00000000||Increíble. ¡Has dicho algo romántico! ¡Tú, Geralt de Rivia!
+   1123686|00000000||Un momento de debilidad.
+   1123707|00000000||Bueno, pero nada de debilidades durante la batalla, por favor. Si te llega a pasar algo...
+   1123688|00000000||Toda esta nieve... me hace pensar en Kovir.
+   1123690|00000000||¿Y qué es lo que piensas?
+   1123692|00000000||Que allí todo el año es igual. Oscuro y frío.
+   1123694|00000000||¿Y sabes qué? No me importa en absoluto.
+   1123696|00000000||¿No?
+   1123698|00000000||No. Porque sí, los días pueden ser cortos, pero las noches... Las noches serán largas.
+   1123700|00000000||No veo la hora...
+   1123674|00000000||No veo la hora de que nos vayamos a Kovir.
+   1123499|00000000||Triss, ¿estás bien?
+   1123501|00000000||Sí. Solo quería hablar contigo un momento. Antes... de que todo empiece.
+   1123503|00000000||Anímate. La Cacería está debilitada. Tenemos...
+   1123505|00000000||No. No quiero hablar más de la batalla.
+   1123508|00000000||Solo abrázame. Y dime algo bonito.
+   1056437|00000000||No hay tiempo que perder. En cuanto terminemos con esto, mejor.
+   1056439|00000000||Sígueme.
+   1056434|00000000||Sí, vamos.
+   1056441|00000000||No me vendrían mal unas pociones. Vete. Te veré pronto.
+   1056443|00000000||No te retrases demasiado.
+   1056435|00000000||Te veré luego.
+   1056433|00000000||A no ser que quieras venir conmigo ahora.
     559514|00000000||Andamos escasos de tiempo. Si quieres hacer algo, preparar sustancias o lo que sea... Hazlo ahora.
     559516|00000000||Luego no tendrás oportunidad. Te esperaré junto a los barcos, entre los soldados.
     559518|00000000||No importa.
@@ -841,10 +864,22 @@
     559498|00000000||No estoy de acuerdo... Emhyr es pragmático, Ciri es una idealista.
     559500|00000000||¿Idealista? ¿De qué estás hablando?
     559468|00000000||Heredó el carácter de su padre.
-    559476|00000000||Prohibirle algo a Ciri no sirve de nada.
-    559502|00000000||Decirle a Ciri que no puede hacer algo es contraproducente. Te lo dice la voz de la experiencia... Al final, hace lo que se le antoja.
-    559504|00000000||Esperemos.
-    559506|00000000||¿Cómo?
+    560395|00000000||Zireael... ¿Juras quedarte en la orilla?
+    560397|00000000||¿Acaso tengo otro remedio?
+    560400|00000000||¿Adónde vas?
+    560403|00000000||A dar un paseo. ¿O tampoco me dejarás? ¿Por si me rompo una pierna?
+    560410|00000000||Ah, sí... La Vieja sangre es indómita.
+    560338|00000000||Uh. Creí que al menos tú me tomarías en serio.
+    560340|00000000||Siempre ha sido así, y lo sabes.
+    560393|00000000||No puedes derrotar a Eredin, no tienes ninguna oportunidad... Mierda, ni siquiera sé si yo seré capaz. Procura mantener las distancias.
+    560345|00000000||Bueno... No digo que no tengas razón.
+    560268|00000000||Admito que tienes razón.
+    560263|00000000||Presiento que no era lo que tenías en mente...
+    560265|00000000||No. Yo quería acompañarlos. Esa era mi idea.
+    560267|00000000||Pero yo no voy a permitirlo. Correría un peligro excesivo.
+    559421|00000000||Supongo que no habrá sido idea de Ciri...
+    559422|00000000||Muy sensato.
+    560347|00000000||Tiene sentido.
     414295|00000000||Espera, hay algo aquí. ¿Lo sientes?
     414297|00000000||No. Mi medallón...
     562076|00000000||Qué adorno ridículo. No me hagas reír...
@@ -960,15 +995,15 @@
     559342|00000000||¿Y Hjalmar?
     559354|00000000||El muchacho dirigió tres asaltos contra la flota imperial sin la autorización de Crach y fracasó en los tres. Pero encontrará voluntarios para otro más.
     559356|00000000||Sí, típico de Hjalmar.
+   1066633|00000000||Vaya, Geralt. Veo que no hay lío en Skellige en el que no estés metido.
+   1066635|00000000||Eso me parece injusto e inexacto, Armiño. Me parece que no me he metido en bastantes.
+   1070684|00000000||La sangre de la sangre de Crach se sienta en el trono, y es por tu culpa. Me temo que has iniciado una pequeña guerra civil.
     559275|00000000||Parece que el clan Drummond atacará antes de lo esperado.
     559277|00000000||Creía que Crach te había enviado para negociar un acuerdo con Lugos.
     559279|00000000||¡Un acuerdo! A estas alturas, solo Crach cree que algo así es posible.
     559302|00000000||¿Quieres decir que no te he estropeado el plan?
     559304|00000000||Esta vez no. La muerte de Lugos va a cambiar muchas cosas. Su primo, al que ahora llamarán jarl, es un comandante débil y estúpido. Esta guerra empezará pronto y terminará más pronto todavía.
     559219|00000000||Pero ¿por qué has vuelto a Skellige?
-   1066633|00000000||Vaya, Geralt. Veo que no hay lío en Skellige en el que no estés metido.
-   1066635|00000000||Eso me parece injusto e inexacto, Armiño. Me parece que no me he metido en bastantes.
-   1070684|00000000||La sangre de la sangre de Crach se sienta en el trono, y es por tu culpa. Me temo que has iniciado una pequeña guerra civil.
     556499|00000000||{Esse'tilleadh, theervil esse'caen. } [Deberíamos dar media vuelta mientras podamos].
     556500|00000000||{¿Dat esse'croigh a va voot breuk aen orde? Ess ae’iarr... } [¿Para que nos ahorquen por desobedecer órdenes? Preferiría...].
     556501|00000000||{¡Gar'ean! ¡Havfrue! } [¡Cuidado! ¡Sirenas!].
@@ -1112,7 +1147,6 @@
    1070432|00000000||Puré de patatas y salsa de carne. O un queso fuerte de Gemmera.
    1070452|00000000||Estofado, eso es lo que comería yo. Mi madre le pone cebolla asada, ¿sabes? La que queda crujiente.
    1070454|00000000||Ag... ¿Cuánto tiempo puede comer uno pescado y galletas de barco?
-   1063094|00000000||Sígueme. El Naglfar tiene que estar cerca.
    1063162|00000000||Silencio. Hay calma total.
    1063164|00000000||Es una trampa. Tenemos que irnos ya mismo.
    1063166|00000000||Esta vez, no.
@@ -1122,6 +1156,7 @@
    1063174|00000000||¡Ciri!
    1063176|00000000||El hielo... es un hechizo. Tienes que encontrar al mago que lo lanzó y destruir su bastón.
    1063178|00000000||Destruiré algo más que su bastón.
+   1063094|00000000||Sígueme. El Naglfar tiene que estar cerca.
     557050|00000000||¡Arhaaam shinaaaz!
     557045|00000000||¿Qué ha dicho?
     557046|00000000||Que no eres su tipo.

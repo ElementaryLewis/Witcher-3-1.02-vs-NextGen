@@ -181,7 +181,7 @@
    1056468|00000000||Need to add anything else?
    1056458|00000000||Don't have any onion…
    1056456|00000000||No peppers…
-   1056454|00000000||No mushrooms…
+   1056454|00000000||No mushrooms.
    1056460|00000000||Hmm… No eggs…
    1064514|00000000||Edible… I think.
    1064510|00000000||Good enough.
@@ -442,11 +442,6 @@
     518296|00000000||Good to finally see you again.
     518290|00000000||Whereas you're getting hard of hearing in your old age… Squawking grouse could've snuck up on you.
     518292|00000000||Nah, heard you panting from three miles away. Just didn't wanna give up that vantage point.
-   1028934|00000000||The old bastion. We trained here as boys… Before the Trial of the Grasses.
-   1028935|00000000||How about that… Seems the bastion's haunted.
-   1028941|00000000||Wraiths? Something must've bound them to this place.
-   1028954|00000000||Waste of time. Never find anything here by just looking.
-   1043297|00000000||Medallion's hopping, but I can't see a thing… Maybe the lamp'll reveal more.
    1027947|05ac068c||Chort
    1021681|00000000||A wolf head? I know this place. They held the first Trials of the Grasses here, before they built the fortress…
    1021748|00000000||Almost washed away. A few more decades and it'll be gone… Just like the witchers.
@@ -574,7 +569,7 @@
     531119|00000000||Whine about it to Eskel later.
     527517|00000000||Just… a few steps more… and we're there.
     531122|00000000||Oo, that's some serious panting. Out of breath, out of shape.
-    531124|00000000||Nah… Just a bit… hung over.
+    531124|00000000||Nah… Just a bit… hungover.
     531126|00000000||Been hitting the hooch with Eskel again?
     531128|00000000||No… Been hitting it alone…
     530652|00000000||How'd it go? Water, then earth… then air?
@@ -773,7 +768,7 @@
    1027409|00000000||Handwriting looks familiar… Berengar's. Papers've been lying here for years.
    1027416|00000000||How about that. He was working on a sword… And not just any sword, judging by his notes."Tor'haerne."
    1043331|00000000||Oughta talk to Vesemir. Berengar consulted him. Vesemir might remember how far he got.
-   1055702|5ec210eb||Drowner
+   1055702|5ec210eb||Drowned Dead
     527356|00000000||Dammit… Moored it right here, I swear.
     527357|00000000||Line must've come loose.
     529052|00000000||Really? Here I thought the boat untied itself, to go for jaunt on its own. Dammit, in this fog we'll never--
@@ -1221,6 +1216,7 @@
    1075881|00000000||Damn… What a dream.
     535230|00000000||[Administer Mother's Tears.]
     535232|00000000||[Administer Speargrass Sap.]
+    537559|00000000||Aaaa… Aaaaach! Aaaaaaa!!!
     537618|00000000||Ummmmmmamama… UUUuuu… Umamama….
     537620|00000000||I had hoped… I'd hoped I would never have to watch this again.
     537622|00000000||Why'd you keep the table, then?
@@ -1240,7 +1236,6 @@
     537631|00000000||Open the next valve.
     537592|00000000||Stop. This is a bad idea.
     535231|00000000||[Administer Wildrye Juice.]
-    537559|00000000||Aaaa… Aaaaach! Aaaaaaa!!!
     535233|00000000||Aaaach… Aaaaaach!
     537594|00000000||Aaaa…. Aaaa…. Ummmmmmamamamaaaaa…
     537596|00000000||The hookweed work?
@@ -1316,7 +1311,7 @@
     378715|00000000||No. Not about to bring him back.
     378701|00000000||Out of my way.
     332382|00365006||Bandit
-   1064467|00000000||Forgotten already? An omelet with peppers, mushrooms and onion. Thank you.
+   1064467|00000000||Forgotten already? An omelet with peppers, mushroom and onion. Thank you.
    1056926|00000000||Not quite what I asked for… But it looks appetizing enough.
     538508|00000000||Oh, decided to put in the effort… Thank you.
     538510|00000000||I get a gratuity for that?
@@ -1505,7 +1500,7 @@
     529613|00000000||Don't like what you're hearin', huh? Witchers shouldn't talk like that.
     529615|00000000||Know what else you won't like? After the Trial of the Medallion, I rode straight home. To thank my daddy for everything. Wanna hear what I did to him?
     529617|00000000||Lambert… Please.
-    529619|00000000||Thought we were opening up, having an honest talk… But fine, let's continue pretending everything's just peechy.
+    529619|00000000||Thought we were opening up, having an honest talk… But fine, let's continue pretending everything's just peachy.
     529621|00000000||The road beckons, my good man! Our companions await!
    1059646|00000000||Need to get our swords. Witcher with no sword's like a man without an arm.
    1060316|00000000||Sure thing, brother.
@@ -1585,7 +1580,7 @@
     532044|00000000||To a degree. Agnes de Glanville's incantation combined with Eldar's Triangle - inverted, of course - they are your only possible recourse. But I cannot guarantee that even they will suffice.
     545965|00000000||Thank you, Aen Saevherne. Va fail.
     545967|00000000||That does not conclude our conversation.
-    532009|00000000||Heard the words before, haven't you.
+    532009|00000000||Heard the words before, haven't you?
     532036|00000000||Know the dialect?
     532046|00000000||Recognize the dialect?
     532048|00000000||Laith aen Undod.

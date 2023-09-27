@@ -43,6 +43,7 @@
     422235|00000000||Na shledanou.
     422231|00000000||Ukaž mi své zboží.
     422237|00000000||Ukaž, co nabízíš na prodej.
+    432590|d184d9f7||Přízrak
    1037370|00000000||Co mám kurva robiť?! Eh??! Co?!
    1037368|00000000||Padesát... rokůch... šichty... Všecko v luftu!
     594289|00000000||Zavolám mamku!
@@ -122,7 +123,7 @@
     554447|00000000||{Evan, vedrai. Esse'cuir an prop ar'ne teanga esse'nag. } [Evane, drž ho. A dej mu roubík, ať si neuhryzne jazyk.]
    1031893|00000000||Goidemare! Pozvedneš se mnou číši?
    1031895|00000000||Teď jsem Dervan. D-e-r-v-a-n. Ne Goidemar.
-   1031897|00000000||Ale… Co to má znamenat? Vím, jak tě pojmenovali u obřízky! A vůbec, co je to za jméno - "Dervan"?
+   1031897|00000000||Ale… Co to má znamenat? Vím, jak tě pojmenovali během postřižin! A vůbec, co je to za jméno - "Dervan"?
    1031899|00000000||Nilfgaardský. Moje bába byla z Nazairu.
    1031901|00000000||Aaah, tak takhle to je. Tak to je pak jiná, pane Dervane. Kéž tě zlaté slunce provází - někam hodně daleko odsud!
     572345|00000000||Blít, či neblít, to je, oč tu... blech!
@@ -139,7 +140,7 @@
     548517|00000000||Proč tě to zajímá?
     548543|00000000||Proč tě to zajímá?
     548545|00000000||No, víte...
-    548511|00000000||Dobrý nápad. Zvlášť když potřebuješ ošetřit.
+    548511|00000000||Dobrý nápad. Zvlášť když potřebuješ vyčistit tu ránu.
     548513|00000000||Pche, je to jen škrábnutí. Ale... trocha piva by bodla. Dobré, vychlazené, rovnou ze sklepa...
     548515|00000000||Tak pojďme.
     548509|00000000||A hostinská je moje sestřenice. Řekněte jí, že vás poslal Bram, bude se k vám chovat jako k rodině.
@@ -224,7 +225,7 @@
     577844|00000000||K věci.
     577846|00000000||Viděl ji jeden nilfgaardský zvěd z místní posádky.
     577853|00000000||Kde?
-    577854|00000000||V jejich táboře. Přijela tam uprostřed noci, černá a bílá, angrešt a... jasně, já vím. Chvíli mluvila s velitelem posádky a zas odjela.
+    577854|00000000||V jejich táboře. Přijela tam uprostřed noci, černá a bílá, angrešt a... jistě, já vím. Chvíli mluvila s velitelem posádky a zas odjela.
     577848|00000000||Kam?
     577850|00000000||Nejsem vševědoucí. Zeptej se na posádce.
     580188|00000000||Díky.
@@ -237,9 +238,9 @@
     577298|00000000||Na tvé zdraví.
     577016|00000000||Víš, kdo jsem?
     577719|00000000||Čím se živíš? Kdo jsi?
-    577720|00000000||Špinavej tulák. Gaunter O'Dim, k službám.
+    577720|00000000||Špinavý tulák. Gaunter O'Dimm, k službám.
     577721|00000000||Tulák? To je teď povolání?
-    577722|00000000||Kdysi jsem obchodoval se zrcadly. Lidi mi říkali Pan Zrcadlo nebo Skleněný muž.
+    577722|00000000||Kdysi jsem obchodoval se zrcadly. Lidi mi říkali Zrcadelník nebo Skleněný muž.
     577010|00000000||Kdo jsi?
     577008|00000000||Jak znáš Yen?
     577048|00000000||Odkud znáš Yennefer?
@@ -427,6 +428,7 @@
     549288|00000000||Hlavně že jsme se do toho nechtěli plést… No tak, pojďme.
    1056370|00000000||Yennefer, jak nás--
    1056372|00000000||Promluvíme si o tom zítra, ano? Po slyšení.
+   1075783|00000000||{Goc'hel!!! } [Pozor!!!]
    1056355|00000000||Víš... nedávno se mi o tobě zdálo.
    1056357|00000000||Jak tě znám, nejspíš to byly nějaké sprosťárny.
    1056359|00000000||Jen zpočátku. Ale pak--
@@ -445,7 +447,7 @@
    1071808|00000000||A co lidi udělali?
    1071810|00000000||No hlavu mu zpátky přišít nemohli! Prej jeho mrtvolu uložili k odpočinku - hezky tiše v kryptě…
     522516|00000000||Hledám spoluhráče. Dal bych si partičku gwintu.
-    522519|00000000||Tak to jsi na správném místě. Jestli máš chuť si zahrát, vsadím unikátní kartu ze své sbírky.
+    522519|00000000||Tak to jsi na správném místě. Jestli máš chuť si zahrát, vsadím jedinečnou kartu ze své sbírky.
     522535|00000000||Zahrajeme si někdy jindy.
     522402|00000000||Někdy jindy.
     522401|00000000||Pojďme hrát.
@@ -546,7 +548,7 @@
    1034135|00000000||Promiň, mám na práci důležitější věci. Dokonce důležitější než tvoje pánev.
    1034133|00000000||Na tohle nemám čas.
    1038752|00000000||Nad ránem do toho domu přijel ještě jeden vašnosta... jenže ráno pak odjel jen ten první. Zamknul dveře na klíč, sedl na koně a už jsem neviděla ani jeho, ani svoji pánev! Byla stará, zčernalá od sazí, za moc asi nestála... jenže jinou nemám!
-   1038754|00000000||Pomůžeš mi, drahoušku? Přineseš starý bábě její pánev? Já ty dveře sama nevyrazím... A stejně bych se tam bála lízt. Za těma dveřma to tak smrdí, že mě napadlo, jestli... no, že tam ten druhý asi leží.
+   1038754|00000000||Pomůžeš mi, drahoušku? Přineseš starý bábě její pánev? Já ty dveře sama nevyrazím... A stejně bych se tam bála lízt. Za těma dveřma to tak smrdí, že mě napadlo, jestli... no, že tam ten druhej asi leží.
    1038747|00000000||Kouzelný příběh. A doufám, že už bude končit.
    1038744|00000000||Vážně kouzelný příběh.
    1034141|00000000||Ten dům byl vždycky pustý, ani noha tam nevkročila. Ale tehdy v noci před bitvou přijel nějakej vašnosta a nakráčel si to tam, jak kdyby mu to patřilo. Stál u okna a koukal, co se děje... Pak si mě asi všiml, páč najednou koukám, že jde ke rovnou ke mně!
@@ -676,7 +678,7 @@
     344174|00000000||Úplně naopak. Pronásleduji ji. Mířím na frontu.
     344176|00000000||Už tě omrzel život?
     344178|00000000||Hledám vědomosti. A cením si jich víc než samotného života. Mám hlad, který žádné staré knihy nemohou uspokojit.
-    558259|00000000||Přeji si vidět Nilfgaardskou invazi na vlastní oči, pochopit ji a celou ji zaznamenat do své kroniky, do svého veledíla.
+    558259|00000000||Přeju si vidět nilfgaardský vpád na vlastní oči, pochopit ho a celý ho zaznamenat do své kroniky, do svého veledíla.
     344190|00000000||Dej na mě – vrať se ke knihám, dokud ještě můžeš. Válka není hra.
     572912|00000000||Nejsou tam žádné vědecké schůze a žádné tituly, nepíší se tam elaboráty. První voják, kterého potkáš, tě zabije.
     344192|00000000||Proč by to dělal? Mě, neutrálního civilistu a učence?
@@ -703,7 +705,7 @@
     576350|00000000||Co si radši zahrát válku? Než mi tu svou hru naleješ do palice, bude svítat.
     578723|00000000||Kdybys někdy byl v Oxenfurtu a měl chuť si zahrát se skutečným mistrem, ptej se po Štěpánovi. Živí se jako obyčejný hospodský, ale pokud jde o gwint, je to pravý mistr.
     578725|00000000||Budu si to pamatovat. Díky.
-    578722|00000000||Máš pro tu hru talent, to se musí nechat.
+    578722|00000000||Máš pro tu hru nadání, to se musí nechat.
     578797|00000000||Zajímavá hra. Kdybys měl chuť na odvetu, dej mi vědět.
     578721|00000000||No, dobrá. Ona to není hra pro každého, vyžaduje analytické myšlení.
     546640|00000000||Zem je stále nasáklá krví. Gryf na ty Nilfgaarďany zaútočil zde.
@@ -716,7 +718,7 @@
    1009946|00000000||Zdravím tě.
    1009944|00000000||Hej!
    1030336|00000000||Ano, našel jsem tvou cennou truhličku... A taky šíp v boku chudáka Šedáka.
-   1030777|00000000||V těchto lesích dryády nežijí a pokud vím, topivci ani rusalky nestřílejí z luku. Víc podezřelých tady jaksi nemáme, takže předpokládám, že...
+   1030777|00000000||V těchto lesích dryády nežijí a pokud vím, topivci ani vodnice nestřílejí z luku. Víc podezřelých tady jaksi nemáme, takže předpokládám, že...
    1030779|00000000||Pozor! Za tebou!
    1030781|00000000||Nic za mnou není. Jsem zaklínač, slyšel bych to. Stejně jako slyším splašeně bít tvoje srdce. Které tluče o překot... jako srdce lháře.
    1030784|00000000||Podíváme se, jestli umíš jezdit na koni líp, než umíš lhát.
@@ -767,7 +769,7 @@
    1058202|00000000||Deník...? Ten by se mohl hodit.
    1058217|00000000||Musím zjistit, co se tu stalo.
    1058672|00000000||Stopy od krve... Sotva viditelné. Někoho tudy táhli. Někoho, kdo byl stále naživu.
-   1058656|00000000||Stopy od krve... Téměř zašlé. Ale čára je... Něco tu nesedí.
+   1058656|00000000||Krvavé skvrny... Téměř zašlé. Ale ta čára je jasná... Něco tu nesedí.
    1058305|00000000||Něco tu polednici váže k tomuto místu. Nějaký předmět... něco, co potřebuje, než odejde z tohoto světa.
    1058224|00000000||Polednice? Copak tady asi dělá...
    1058210|00000000||Všechno ukazuje na polednici.
@@ -981,14 +983,14 @@
     594286|00000000||...
     580019|05b6c5a4||Opilý muž
    1062204|59c422e7||Ožrala
-   1039475|00000000||Rozhodl jsem se ti přece jen pomoci. Tady máš svojí pánev.
+   1039475|00000000||Rozhodl jsem se ti přece jen pomoci. Tady je ta tvoje pánev.
    1058263|00000000||Ten muž potřeboval jen ty saze. Seškrábal je, udělal z nich inkoust.
    1057779|00000000||Mrtvý. Sežeň pár chlapů a pohřběte ho za vesnicí. Hluboko, aby ho nevyhrabali nekrofágové. A dám ti radu... Nilfgaarďanům o tom neříkej.
    1035315|00000000||Počkej, počkej! Zasluhuješ výslužku! Tady, synku, na cestu.
    1034525|00000000||Uškrcený. Musel to udělat znalec. Vezmi pár chlapů a pohřběte ho za vesnicí. Hluboko, aby se k němu nedostali mrchožrouti. A dej na mě... o ničem z toho se nezmiňujte Černým.
    1034524|00000000||A... co ten druhý?
    1034523|00000000||Ten muž potřeboval saze, ne pánev. Oškrabal je a udělal z nich inkoust. Nejspíš potřeboval nutně napsat dopis... a nějaké jiné papíry naopak rychle spálit.
-   1034522|00000000||Moji? Ta přece byla celá černá od sazí! A tuhle bych mohla používat místo zrcadla, ale ty roky jsou už pryč...
+   1034522|00000000||Moje? Ta přece byla celá černá od sazí! A tuhle bych mohla používat místo zrcadla, ale ty roky jsou už pryč...
    1034521|00000000||Tady máš. Tvoje pánev.
    1074113|00000000||…a kéž válka konečně skončí. Kéž se Tomáš a Bert vrátí domů, živí a zdraví…
     421043|00000000||Sbohem.
@@ -1208,7 +1210,7 @@
     167198|00000000||Hledáme ženu...
     574969|00000000||Je na toho gryfa nějaká odměna?
     574997|00000000||Ne, zatím ne.
-    574999|00000000||Jo, bejvávalo. Když se tady dřív usídlila nějaká příšera, zorganizoval rychtář sbírku nebo požádal o pomoc pána.
+    574999|00000000||Jo, bejvávalo. Když se tady dřív usídlila nějaká příšera, uspořádal rychtář sbírku nebo požádal o pomoc pána.
     575001|00000000||Jenže teď si rychtář nedojde bez svolení Černých ani na záchod. A pána nejspíš pověsili... takže žádná zakázka.
     575003|00000000||Smůla. Šli bychom do toho, ale zadarmo ne.
     574966|00000000||Je za toho gryfa odměna?
@@ -1341,8 +1343,8 @@
     170696|00000000||Uvidíme se později, Vesemire.
     170686|00000000||Zatím.
     170684|00000000||Už jsem na Stezce půl roku.
-    170692|00000000||Dochází ti, že už je to půl roku, co jsme ulovili toho ďábla ve Vorune?
-    170694|00000000||Ano. Ačkoliv to bylo něco víc než nějaký ďábel. Jak se ten parchant jmenoval? Drugan? Kéž je mu země lehká.
+    170692|00000000||Dochází ti, že už je to půl roku, co jsme ulovili toho běsa ve Vorune?
+    170694|00000000||Ano. Ačkoliv to bylo něco víc než nějaký běs. Jak se ten parchant jmenoval? Drugan? Kéž je mu země lehká.
     596142|00000000||Věci bývaly jednodušší. Příšery byly zlé, lidé dobří. Teď... je všechno pomíchané.
    1007652|00000000||Bývalo to naprosto stejné. Jen už si to nepamatuješ.
     353292|00000000||Ha! O můj věk se radši neotírej. Samotnému ti táhne na stovku.
@@ -1612,10 +1614,10 @@
     561911|00000000||Dodáte třicet, to bude stačit. Domluvíme se takhle… A rád bych převoz viděl co nejrychleji.
     561913|00000000||Děkuju, pane! Mockrát děkuju!
    1044734|00000000||Poslal jsem pouze pro rychtáře a kováře Willise... Ale říká se, že je to trpaslík. Ty jsi na něj moc velký.
-   1044742|00000000||Máš plánu mu taky něco zrekvírovat?
+   1044742|00000000||Máš v plánu mu taky něco zrekvírovat?
    1044744|00000000||Pokud to bude nezbytné - ano, jistě. Jsme ve válce, pokud sis nevšiml.
    1044746|00000000||Kdo jsi? Mluv.
-   1044738|00000000||Máš plánu mu taky něco zrekvírovat?
+   1044738|00000000||Máš v plánu mu taky něco zrekvírovat?
    1044737|00000000||S tím nelze než souhlasit.
    1044740|00000000||To je od tebe velmi bystré.
    1044736|00000000||Geralt z Rivie. Zaklínač.
@@ -1786,7 +1788,7 @@
     563570|00000000||Souhlasil jsem, že toho gryfa zabiju. Pak už další oběti nebudou.
     563574|00000000||Ech, samozřejmě, že budou. Když tady nebude gryf, budou místo něj zabíjet jiní. Příšery… nebo lidi.
     563602|00000000||Tak co bych podle tebe měl dělat?
-    563604|00000000||To, co umíš. Ale nemyslím, že bys tím mohl něco změnit.
+    563604|00000000||To, co umíš. Ale nemysli si, že tím něco změníš.
     563301|00000000||Jdu nevhod?
     563303|00000000||Ale vůbec ne. Podej mi dvouzubec. To je ten…
     563306|00000000||…červený květ. No vida. Tady se někdo vyzná v bylinkách…
@@ -1815,7 +1817,6 @@
    1049563|00000000||...
    1049561|00000000||{Va caelm! } [Uklidni se!]
    1049567|00000000||{Glaeddyv vort. } [Odlož ten meč.]
-    432590|d184d9f7||Přízrak
    1043949|00000000||Běž pryč.
    1043951|00000000||Jdi mi z očí.
    1043953|00000000||Arrrgh!

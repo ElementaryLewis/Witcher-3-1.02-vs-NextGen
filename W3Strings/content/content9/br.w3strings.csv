@@ -380,6 +380,7 @@
     563583|00000000||... Precisamos ir a Skellige para encontrar a Pedra Solar.
     563585|00000000||Avallac'h nos aguarda no porto.
     563593|00000000||... Vamos pegar um ar fresco.
+   1086304|00000000||[EN] I won't let you take her and do what only you see fit.
    1062046|00000000||Quem te ensinou a lutar assim?
    1062048|00000000||O bruxo que você matou.
     581320|00000000||Agh...
@@ -785,51 +786,119 @@
     579899|00000000||Quase tropeçaram e caíram com os próprios pés!
     579849|00000000||Obrigada, Geralt. Foi esplêndido!
    1055188|e87aca57||Governador da prisão
+   1124126|00000000||Deu bastante certo, você não acha?
+   1124128|00000000||Do que você está falando?
+   1124130|00000000||Você e Triss. Nunca imaginei, pra ser sincera.
+   1124132|00000000||A vida é cheia de surpresas.
+   1124134|00000000||Então, como que vocês dois...?
+   1124136|00000000||Acabamos juntos?
+   1124138|00000000||Hmm. Com a Yen, era sem parar, muitas discussões, drama... não digo que era ruim, mas...
+   1124158|00000000||Mas o quê?
+   1124141|00000000||Acabou sendo cansativo. Com a Triss, não é. Finalmente sinto... harmonia. Uma calma. Como se as coisas são como devem ser.
+   1124145|00000000||Sabe... talvez não seja da minha conta, mas... eu fico feliz que você e a Yennefer ficaram juntos.
+   1124147|00000000||Eu também.
+   1124149|00000000||Demoraram pra decidir.
+   1124151|00000000||Hm. Nós precisávamos de um tempo pra pensar.
+   1124153|00000000||E então, como foi? Sabe, quando o feitiço deixou de valer. O que você sentiu?
+   1124161|00000000||Hmm. Bem, estávamos lá, nós dois, no topo da montanha. Eu olhei pra ela e...
+   1124162|00000000||E senti que eu estava exatamente onde eu devia estar. Finalmente.
+    537215|00000000||Mais vinho?
+    537216|00000000||Brigado.
+    537217|00000000||Ainda bem que ficamos.
+    537218|00000000||Também acho.
+    537219|00000000||Gostam de você por aqui.
+    537224|00000000||Gosto deles também. Ah, adoraria me juntar a eles...
+    558985|00000000||Beber e correr. Viajar de cidade em cidade. E sem me importar com nada.
     558989|00000000||O que te preocupa agora?
     559015|00000000||O que está te preocupando agora?
     559018|00000000||*suspiro* O que nos aguarda…
+    559034|00000000||Derrotar a Caçada não vai ser fácil, mas com a ajuda da Estada e do Avallac'h... A gente consegue.
+    559006|00000000||Bom plano. Acho que vou com você.
+    559021|00000000||Então nosso futuro está decidido.
+    559044|00000000||Se, é claro, houver mais do que cinzas para nós quando isto acabar.
+    558988|00000000||Ótimo plano.
     558990|00000000||Primeiro, preciso derrotar a Caçada.
     559020|00000000||Hmm... A vida dos contos de fadas, mas temos que derrotar a Caçada Selvagem antes.
-    559051|00000000||Uma coisa de cada vez.
+    559025|00000000||Temo que lutar contra a Caçada será apenas o começo, pelo menos para mim.
     559065|00000000||Não se preocupe com isso por enquanto. Uma coisa de cada vez.
     559058|00000000||Sabe que pode contar comigo não importa o que acontecer, não é?
     559062|00000000||Eu sei. Obrigada, Geralt.
-    559052|00000000||O que será, será.
+    559051|00000000||Uma coisa de cada vez.
     559064|00000000||Você se preocupa demais. O que será, será.
-    559144|00000000||Quer dizer...?
+    559052|00000000||O que será, será.
+    559050|00000000||Como assim?
+    559056|00000000||Como assim?
+    559084|00000000||Ha, ha, ha!
+    559132|00000000||Você prometeu!
+    559134|00000000||De brincadeira!
+    559074|00000000||Às vezes, gostaria de ser como eles.
     559185|00000000||Ou seja...?
     559194|00000000||Comum.
-    559145|00000000||Eu entendo.
+    559144|00000000||Quer dizer...?
     559187|00000000||Eu também. Ser um bruxo é, às vezes, um fardo.
     559282|00000000||A minha "herança" também. Gostaria tanto de ser comum.
-    559281|00000000||Você escolhe quem você é.
+    559145|00000000||Eu entendo.
+    559143|00000000||Bêbada?
+    559183|00000000||Bêbada ou aos risos? Seja qual for o caso, hoje é o dia.
+    559189|00000000||*Ri* Não é o que quis dizer.
+    559197|00000000||Eu gostaria de ser comum.
     559287|00000000||A sua vida é sua, e só sua. Você escolhe quem é.
     559289|00000000||Geralt, você sabe que isso nunca foi verdade.
-    559459|00000000||Dons podem ser renunciados...
+    559281|00000000||Você escolhe quem você é.
+    559280|00000000||Você nasceu para a grandeza.
+    559285|00000000||O problema é que não o é. Você nasceu para a grandeza.
+    559293|00000000||É o que ouço desde que nasci.
+    559261|00000000||Tudo por causa do maldito Sangue Ancestral! O meu dom. A minha maldição.
+    559270|00000000||Ele me deu todos esses poderes, mas também foi por causa dele que passei a vida fugindo, me escondendo.
     559461|00000000||Você sempre pode renunciar um dom, recusá-lo...
     559462|00000000||Não é tão fácil. Eu já tentei, lembra?
     559475|00000000||Além do mais, mesmo que isso me libertasse do Eredin, sempre haverá aqueles com algum plano me incluindo.
-    559309|00000000||Não seja ingênua.
+    559459|00000000||Dons podem ser renunciados...
+    559380|00000000||Derrotaremos Eredin, e você será livre.
+    559290|00000000||Então é hora de acabar com isso. Quando derrotarmos Eredin, você será livre.
+    559207|00000000||Sério? Eredin não é o único. Há outros com planos para mim.
+    559300|00000000||Já foram as feiticeiras da Estada, agora o meu pai, até mesmo a Yennefer...
+    559306|00000000||Está esquecendo do Avallac'h...
+    559307|00000000||Avallac'h é diferente...
+    559324|00000000||Ele não quer que o meu dom caia nas mãos erradas, que não saia de controle. É por isso que ele me ensina e me protege.
     559328|00000000||Quanto antes se livrar dessa ilusão, melhor.
     559329|00000000||Como assim?
-    579397|00000000||Não.
+    559309|00000000||Não seja ingênua.
+    559308|00000000||Espero que tenha razão.
+    559321|00000000||Se você diz...
+    559326|00000000||Duvida?
+    559344|00000000||Um dia, Avallac'h irá pedir um favor.
+    559348|00000000||Talvez... Mas se for, será daqui a muito, muito tempo...
+    559350|00000000||E tenho certeza que, seja o que for, ele me dará uma escolha. Terei a opção de recusar.
+    559351|00000000||Espero que tenha razão...
+    577174|00000000||Esse é o Pablo. Pretendo aprender a fazer malabares um dia.
+    579351|00000000||Uma habilidade incrivelmente útil.
+    579395|00000000||Finalmente encontrei vocês! Estão se divertindo?
     579404|00000000||Estávamos. Até alguém nos interromper.
     579423|00000000||Meio irritadiço esse seu amigo.
     579428|00000000||Vocês têm muito em comum.
     579430|00000000||Como foi com o comerciante?
-    579398|00000000||Conseguiu os cavalos?
+    579397|00000000||Não.
     579406|00000000||Prefiro saber como você se deu com o comerciante. Conseguiu alguns cavalos?
-    585949|00000000||Eu os compro para você.
-    586015|00000000||Deve haver outro jeito de resolver isso...
-    586070|00000000||Por coincidência, tenho um dinheiro que posso te emprestar.
-    586017|00000000||Não teríamos como pagar de volta.
-    586019|00000000||Não precisariam.
-    586063|00000000||É uma pena o imperador não ter outra filha. Poderíamos comprar todos os cavalos de Novigrad.
-    586026|00000000||É uma oferta generosa, mas não vai resolver esta situação.
-    586028|00000000||O comerciante não negou o nosso dinheiro, ele nos negou. "Não venderei para lixo". Acredito que essas foram as palavras.
-    586094|00000000||E se ele não vai vender, não temos escolha além de roubar.
-    586100|00000000||Não sei. Não parece ser a melhor ideia.
-    586098|00000000||Não gosto dessa ideia.
+    579398|00000000||Conseguiu os cavalos?
+    579396|00000000||Sim.
+    579402|00000000||Fogueiras, vinho, malabaristas... O que mais se pode querer?
+    579426|00000000||Posso mencionar algumas coisas pelas quais eu trocaria, mas é uma vida...
+    579455|00000000||Algo está lhe preocupando. As coisas não foram bem com o comerciante?
+    579478|00000000||Ah. É uma causa perdida. O homem se recusou a negociar. Disse que compraria, mas ele pediu três braços e uma série de pernas por um animal saudável.
+    579495|00000000||Precisamos de cavalos, mas precisamos encontrar outro jeito de consegui-los.
+    579530|00000000||Ehhh. Pressinto problemas.
+    579532|00000000||Sabia que perceberia.
+    579541|00000000||Queremos entrar no estábulo principal do sujeito. Com trinta cabeças, umas a mais ou a menos não farão diferença.
+    579547|00000000||Quer vir?
+    579554|00000000||Mas é claro!
+    579579|00000000||Não dá para comprá-los?
+    579581|00000000||Compre os cavalos. Por que não podem?
+    579583|00000000||Com que dinheiro?
+    579598|00000000||Ciri lhe deu um bolso cheio...
+    579600|00000000||É o suficiente para um, no máximo. Considerando que, no mínimo, precisamos de quatro.
+    579602|00000000||Geralt, pare de complicar. Não vamos roubar tudo do comerciante, e é uma chance de fazer algo além de fugir da Caçada Selvagem!
+    579618|00000000||Não nos faça implorar!
     586097|00000000||Você me convenceu.
     577198|00000000||Ah, o que posso fazer? Tenho que ajudar quem precisa...
     577199|00000000||Isso, isso!
@@ -843,69 +912,17 @@
    1058981|00000000||Se Ciri deseja andar conosco, ela deveria. Ela não é sua propriedade.
    1058983|00000000||Eu não deixarei ela arriscar o pescoço com ladrões.
     577196|00000000||Não pretendo roubar.
-    579579|00000000||Não dá para comprá-los?
-    579581|00000000||Compre os cavalos. Por que não podem?
-    579583|00000000||Com que dinheiro?
-    579598|00000000||Ciri lhe deu um bolso cheio...
-    579600|00000000||É o suficiente para um, no máximo. Considerando que, no mínimo, precisamos de quatro.
-    579602|00000000||Geralt, pare de complicar. Não vamos roubar tudo do comerciante, e é uma chance de fazer algo além de fugir da Caçada Selvagem!
-    579618|00000000||Não nos faça implorar!
-    579478|00000000||Ah. É uma causa perdida. O homem se recusou a negociar. Disse que compraria, mas ele pediu três braços e uma série de pernas por um animal saudável.
-    579495|00000000||Precisamos de cavalos, mas precisamos encontrar outro jeito de consegui-los.
-    579530|00000000||Ehhh. Pressinto problemas.
-    579532|00000000||Sabia que perceberia.
-    579541|00000000||Queremos entrar no estábulo principal do sujeito. Com trinta cabeças, umas a mais ou a menos não farão diferença.
-    579547|00000000||Quer vir?
-    579554|00000000||Mas é claro!
-    579402|00000000||Fogueiras, vinho, malabaristas... O que mais se pode querer?
-    579426|00000000||Posso mencionar algumas coisas pelas quais eu trocaria, mas é uma vida...
-    579455|00000000||Algo está lhe preocupando. As coisas não foram bem com o comerciante?
-    579396|00000000||Sim.
-    577174|00000000||Esse é o Pablo. Pretendo aprender a fazer malabares um dia.
-    579351|00000000||Uma habilidade incrivelmente útil.
-    579395|00000000||Finalmente encontrei vocês! Estão se divertindo?
-    559344|00000000||Um dia, Avallac'h irá pedir um favor.
-    559348|00000000||Talvez... Mas se for, será daqui a muito, muito tempo...
-    559350|00000000||E tenho certeza que, seja o que for, ele me dará uma escolha. Terei a opção de recusar.
-    559351|00000000||Espero que tenha razão...
-    559321|00000000||Se você diz...
-    559326|00000000||Duvida?
-    559308|00000000||Espero que tenha razão.
-    559300|00000000||Já foram as feiticeiras da Estada, agora o meu pai, até mesmo a Yennefer...
-    559306|00000000||Está esquecendo do Avallac'h...
-    559307|00000000||Avallac'h é diferente...
-    559324|00000000||Ele não quer que o meu dom caia nas mãos erradas, que não saia de controle. É por isso que ele me ensina e me protege.
-    559290|00000000||Então é hora de acabar com isso. Quando derrotarmos Eredin, você será livre.
-    559207|00000000||Sério? Eredin não é o único. Há outros com planos para mim.
-    559380|00000000||Derrotaremos Eredin, e você será livre.
-    559261|00000000||Tudo por causa do maldito Sangue Ancestral! O meu dom. A minha maldição.
-    559270|00000000||Ele me deu todos esses poderes, mas também foi por causa dele que passei a vida fugindo, me escondendo.
-    559285|00000000||O problema é que não o é. Você nasceu para a grandeza.
-    559293|00000000||É o que ouço desde que nasci.
-    559280|00000000||Você nasceu para a grandeza.
-    559183|00000000||Bêbada ou aos risos? Seja qual for o caso, hoje é o dia.
-    559189|00000000||*Ri* Não é o que quis dizer.
-    559197|00000000||Eu gostaria de ser comum.
-    559143|00000000||Bêbada?
-    559084|00000000||Ha, ha, ha!
-    559132|00000000||Você prometeu!
-    559134|00000000||De brincadeira!
-    559074|00000000||Às vezes, gostaria de ser como eles.
-    559056|00000000||Como assim?
-    559050|00000000||Como assim?
-    559025|00000000||Temo que lutar contra a Caçada será apenas o começo, pelo menos para mim.
-    559034|00000000||Derrotar a Caçada não vai ser fácil, mas com a ajuda da Estada e do Avallac'h... A gente consegue.
-    559006|00000000||Bom plano. Acho que vou com você.
-    559021|00000000||Então nosso futuro está decidido.
-    559044|00000000||Se, é claro, houver mais do que cinzas para nós quando isto acabar.
-    558988|00000000||Ótimo plano.
-    537215|00000000||Mais vinho?
-    537216|00000000||Brigado.
-    537217|00000000||Ainda bem que ficamos.
-    537218|00000000||Também acho.
-    537219|00000000||Gostam de você por aqui.
-    537224|00000000||Gosto deles também. Ah, adoraria me juntar a eles...
-    558985|00000000||Beber e correr. Viajar de cidade em cidade. E sem me importar com nada.
+    585949|00000000||Eu os compro para você.
+    586015|00000000||Deve haver outro jeito de resolver isso...
+    586070|00000000||Por coincidência, tenho um dinheiro que posso te emprestar.
+    586017|00000000||Não teríamos como pagar de volta.
+    586019|00000000||Não precisariam.
+    586063|00000000||É uma pena o imperador não ter outra filha. Poderíamos comprar todos os cavalos de Novigrad.
+    586026|00000000||É uma oferta generosa, mas não vai resolver esta situação.
+    586028|00000000||O comerciante não negou o nosso dinheiro, ele nos negou. "Não venderei para lixo". Acredito que essas foram as palavras.
+    586094|00000000||E se ele não vai vender, não temos escolha além de roubar.
+    586098|00000000||Não gosto dessa ideia.
+    586100|00000000||Não sei. Não parece ser a melhor ideia.
     172316|3a2616f8||Caçador de bruxas
     528874|00000000||Para trás! Vocês todos vão poder olhar em breve!
     528875|00000000||Aquela vadia vai ficar lá até apodrecer!

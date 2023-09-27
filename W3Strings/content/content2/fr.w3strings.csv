@@ -43,6 +43,7 @@
     422235|00000000||Adieu.
     422231|00000000||Montrez-moi vos articles.
     422237|00000000||Montrez-moi ce que vous proposez.
+    432590|d184d9f7||Spectre
    1037370|00000000||Qu'est-ce que je vous ai fait, moi, bordel ?! Hein ?! Qu'est-ce que je vous ai fait ?!
    1037368|00000000||Cinquante… années… de travail… Parties en fumée !
     594289|00000000||Je vais appeler ma mère !
@@ -215,12 +216,12 @@
     576887|00000000||La trouver, voilà ce qui me remonterait le moral.
     576888|00000000||Vous avez l'air hagard. Une petite goutte de schnaps vous fera le plus grand bien, croyez-moi.
     577342|00000000||Avez-vous vu Yennefer ?
-    577343|00000000||Pardonnez-moi, mais je dois vous poser la question : faites-vous cela par amour ?
+    577343|00000000||Pardonnez-moi mais, je dois vous poser la question : faites-vous cela par amour ?
     577757|00000000||Bien sûr que c'est par amour.
     577770|00000000||Par amour, oui. Pour quelle autre raison ?
     577786|00000000||J'en étais sûr.
     577841|00000000||Dites-moi tout ce que vous savez.
-    577843|00000000||C'est amusant… Avant de vous rencontrer, je n'aurais jamais imaginé qu'il puisse s'agir de Yennefer.
+    577843|00000000||C'est amusant, avant de vous rencontrer, je n'aurais jamais imaginé qu'il puisse s'agir de Yennefer.
     577844|00000000||Venez-en au fait.
     577846|00000000||Un éclaireur nilfgaardien l'a aperçue il y a quelques jours.
     577853|00000000||Où ça ?
@@ -243,13 +244,13 @@
     577010|00000000||Qui êtes-vous ?
     577008|00000000||Comment connaissez-vous Yen ?
     577048|00000000||Comment connaissez-vous Yennefer ?
-    577049|00000000||Quelle question ! Par les ballades de maître Jaskier, bien sûr ! Le seul moyen pour un simple marchand d'approcher la grandeur. À moins qu'il soit aussi chanceux que moi…
+    577049|00000000||Quelle question ! Par les ballades de maître Jaskier, bien sûr ! C'est le seul moyen pour un simple marchand d'approcher la grandeur. À moins qu'il soit aussi chanceux que moi…
     577050|00000000||Et qu'il rencontre un sorceleur très patient ?
     577051|00000000||Le célèbre Geralt de Riv, le Boucher de Blaviken en personne.
     576869|00000000||Bon écoutez, je suis pressé. Vous l'avez vue, oui ou non ?
     576870|00000000||Yennefer de Vengerberg ?
     576920|00000000||Je ne vous ai pas donné son nom.
-    576921|00000000||Certes, mais vous l'avez décrite à la perfection. Je n'oublie jamais rien, c'est mon petit talent.
+    576921|00000000||Certes mais, vous l'avez décrite à la perfection, je n'oublie jamais rien, c'est mon petit talent.
     576865|00000000||Très bien, trinquons.
     576821|00000000||Très bien, trinquons.
     576785|00000000||Je cherche une femme.
@@ -427,6 +428,7 @@
     549288|00000000||Pour ne pas s'en mêler, c'est raté… Partons d'ici.
    1056370|00000000||Yennefer, comment ont-ils… ?
    1056372|00000000||Nous parlerons de ça demain, d'accord ? Après l'audience.
+   1075783|00000000||{Goc'hel ! } [Attention !]
    1056355|00000000||Tu sais… J'ai rêvé de toi, il n'y a pas longtemps.
    1056357|00000000||Te connaissant, ça devait être un rêve salace.
    1056359|00000000||Au début, oui. Mais ensuite…
@@ -619,7 +621,7 @@
    1030288|00000000||Hé, sorceleur !
    1011712|00000000||On m'a dit que tu aimais jouer aux cartes… c'est vrai ?
    1011713|00000000||Je suis un joueur dans l'âme. Cartes, dés, échecs… Ça me détend. Tu poses la question juste pour faire du bruit ou tu veux jouer ?
-   1011719|00000000||Très bien, jouons… mais n'oublie pas : seules les cartes rares m'intéressent.
+   1011719|00000000||Oui, je veux jouer… mais n'oublie pas : seules les cartes rares m'intéressent.
    1011693|00000000||Jouons.
    1011718|00000000||Pas pour l'instant… mais ça viendra.
    1011694|00000000||Pas maintenant.
@@ -627,7 +629,7 @@
    1011717|00000000||À tout ce qu'on veut bien me proposer. Une partie de cartes, ça te tente ?
    1011691|00000000||Une petite partie de cartes ?
    1011721|00000000||Par le con putride de Melitele ! Tu sais combien de temps j'ai mis à assembler ce putain de jeu ?
-   1011722|00000000||Tu joues depuis un moment… Tu dois connaître d'autres joueurs, non ? Des joueurs possédant de bonnes cartes, bien sûr.
+   1011722|00000000||Ah, tu joues depuis longtemps, ça se voit… Tu dois connaître d'autres joueurs possédant de bonnes cartes, non ?
    1076883|00000000||Par la chatte purulente de Melitele ! Tu sais combien de temps il m'a fallu pour réunir ce putain de jeu ?
    1076885|00000000||Non. Dis-moi, tu connais d'autres joueurs sérieux qui pourraient posséder de bonnes cartes ?
    1076456|00000000||Dernièrement, j'ai entendu parler d'un certain Lambert. Paraît que ce couillon a un jeu de tous les diables. Tu le connais p'têt, d'ailleurs, il est sorceleur.
@@ -944,7 +946,7 @@
     522289|00000000||Et comment !
     522258|00000000||Jouons au gwynt.
     522341|00000000||Je crois que j'ai gagné.
-    522342|00000000||Ouais… et vu ton jeu pourri, c'est un vache de miracle. Tiens, prends cette carte, tu en as bien besoin.
+    522342|00000000||Ouais… et vu ton jeu pourri, c'est un putain de miracle. Tiens, prends cette carte, tu en as bien besoin.
    1076510|00000000||Tu ferais bien de renforcer un peu ton jeu, il est bigrement mou du genou. Inutile de chercher à m'humilier, j'ai déjà Jaskier pour ça. Tu pourrais peut-être délester ton ami Roche ? Paraît qu'il a de bonnes cartes.
     522340|00000000||Ah, mon pauvre Geralt ! Reviens me voir quand tu veux, je crois que tu as encore besoin d'entraînement.
     522344|00000000||Tu devrais aller l'essayer sur Vimme Vivaldi… Avec ta veine, tu pourrais peut-être lui piquer une carte unique.
@@ -1815,7 +1817,6 @@
    1049563|00000000||*Bâillement*
    1049561|00000000||{Va caelm ! } [Du calme !]
    1049567|00000000||{Glaeddyv vort. } [Rengainez votre épée.]
-    432590|d184d9f7||Spectre
    1043949|00000000||Fichez-moi le camp.
    1043951|00000000||Hors de ma vue.
    1043953|00000000||Arrrgh !

@@ -1,5 +1,6 @@
 ;meta[language=it]
 ; id      |key(hex)|key(str)| text
+    170811|72cb8ee5||Drowner
     581146|00000000||Aaaaah!
     581147|00000000||Pietà!
    1061012|00000000||Slegami! Presto!
@@ -187,7 +188,6 @@
     579083|00000000||Pelko Sambor, cinquant'anni, due figli, un campo di segale e una capra...?
     579084|00000000||Fate come volete. Io ve l'ho detto.
     579046|00000000||È come ho detto. Lavorava con gli Oscuri.
-    595889|83463c36||Apprendista dell'armaiolo
     575034|00000000||Quaggiù, signore! È lui!
     575055|00000000||Sei impazzito?
     575023|00000000||L'ho capito subito che erano nilfgaardiani! Spie, intendo. Li nasconde da una settimana.
@@ -665,7 +665,6 @@
     572807|00000000||Mi segua.
     572810|00000000||Sua altezza imperiale attende.
     595913|6b1268cb||Paesano
-   1051424|f11e033c||Forgiatore di spade
     583129|00000000||Ehi! Prendetelo!
     583128|00000000||È così che finiscono i traditori. Elimineremo il seme della ribellione.
     584088|00000000||Puoi osservare da lontano.
@@ -840,16 +839,6 @@
    1059074|00000000||Ehm... N-no...
    1059076|00000000||Non è esattamente nostro, è più un veicolo trovato. Un bottino, potremmo dire.
    1059078|00000000||La gente deve averlo abbandonato nella fretta di andare... Dove, non so. Sarebbe un peccato lasciarlo ai redaniani.
-    590603|00000000||Ehi, è andato a male.
-    590605|00000000||Ehilà!
-    590607|00000000||Che succede?
-    590609|00000000||Se non sopporti il caldo, esci dalla forgia.
-    590619|00000000||Qui c'è solo merce di qualità, non robaccia arrugginita.
-    590611|00000000||Ogni uomo forgia il proprio destino? Tz! Al massimo lo manda a puttane!
-    590621|00000000||Vale qualcosa il metallo che hai sulla schiena?
-    590613|00000000||Vuoi una martellata?
-    590615|00000000||E ora? Devo chiamare aiuto?
-    590617|00000000||Aiuto! Salvatemi!
     573535|00000000||Rapporto.
     573530|00000000||Capitano!
     573536|00000000||La delegazione di Novigrad è a mezza giornata di viaggio da qui.

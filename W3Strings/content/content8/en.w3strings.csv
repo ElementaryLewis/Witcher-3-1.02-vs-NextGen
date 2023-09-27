@@ -30,6 +30,7 @@
     546798|00000000||I'll manage. Don't you fret.
    1076925|00000000||Ves… don't be mad.
     572659|00000000||Poor judgment bringing the kingslayer here.
+    301032|5a979acb||Wild Hunt Warrior
     307008|103d66e3||Hare
     550116|00000000||Don't care.
     550129|00000000||Don't know and don't really care, to tell you the truth.
@@ -139,10 +140,38 @@
     536186|00000000||I ought to give you a hiding for not asking my help. But I took it all out on Roche along the way.
    1061994|00000000||Good to see you again.
    1061992|00000000||Damn, it's good to see you again.
+   1123852|00000000||No… let's go. They're waiting.
+   1123849|00000000||No, let's go.
+   1123855|00000000||Long as you really don't mind…
+   1123858|00000000||Seemed to take that pretty well.
+   1123860|00000000||Or wants us to think she did.
+   1123863|00000000||Haven't been here in a while, have you?
+   1123865|00000000||Too long. How's the guest room? Anything changed?
+   1123867|00000000||Mhm. The bed… it, uh, broke.
+   1123869|00000000||Not a problem. We'll sleep on the floor. Spread out a hide and…
+   1123872|00000000||Ahem.
+   1123874|00000000||Guess we should go.
+   1123850|00000000||Only if you really don't mind…
+   1123843|00000000||Would you like a moment to yourselves?
+   1123846|00000000||Sorry, we didn't mean to--
+   1123848|00000000||I know. It's a simple question. Do you want some time alone?
     462992|00000000||Glad to see you, Triss.
     522511|00000000||Thank Yennefer. She's the one who invited me.
     549984|00000000||There'll be time to talk later. We should confer now.
-    522515|00000000||It's grown cool. Come. We should hold council.
+   1123878|00000000||I-- Maybe I'll give you two a moment.
+   1123880|00000000||Triss, please…
+   1123882|00000000||No, no. You must've missed each other terribly, A minute's delay won't hurt anyone.
+   1123889|00000000||Fine. So a minute, then we go, all right?
+   1123892|00000000||Hm. This is just a little awkward…
+   1123894|00000000||Forty-five seconds.
+   1123896|00000000||Huh?
+   1123898|00000000||We've forty-five seconds left. Well, thirty, now. And then we throw the gauntlet at the Wild Hunt. So I beg you, use these seconds well.
+   1123901|00000000||Yen, I adore you.
+   1123903|00000000||Hm. No points for creativity. But for your candor…
+   1123906|00000000||Time to go.
+   1123884|00000000||Fine. A minute, then we go.
+   1123883|00000000||No. We'd better all go now.
+   1123886|00000000||No, we should get going. They're waiting for us.
     522544|00000000||Let's not stand out here.
     520117|00000000||Yes. Come, we should hold council.
    1061996|00000000||Time's short. Wild Hunt'll be here soon.
@@ -158,6 +187,7 @@
     522486|00000000||You've not changed a bit. Any of you… All just like I remembered.
     522488|00000000||What?
     549628|00000000||Little sis!
+    522515|00000000||It's grown cool. Come. We should hold council.
    1061976|00000000||Yen, you know the Wild Hunt better than anyone else. Tell us about the magic they use.
    1061978|00000000||Their navigators open portals, rifts that we might counter with dimeritium or our own magic.
    1061980|00000000||They also summon the frost that occupies the voids through which they travel.
@@ -259,15 +289,15 @@
     524776|00000000||Ni'l ceim siaar!
     524777|00000000||Trooid'i!
     524775|00000000||Hoinne heets!
+    524355|00000000||Wouldn't be right to tarry - war with the Black Ones won't wait.
+    524360|00000000||You can count on me, you know? Always.
+    524362|00000000||I know. Thanks.
+    565580|00000000||Farewell.
+    566135|00000000||So long, Hjalmar.
     524358|00000000||Duty calls.
     524369|00000000||But listen, Geralt, you've a king for a mate. Rare's the man who can claim that.
     524471|00000000||If you, or Ciri, or you and Ciri… if yous ever need help, the gates of Kaer Trolde stand open.
     565588|00000000||Thanks, I'll remember that.
-    565580|00000000||Farewell.
-    566135|00000000||So long, Hjalmar.
-    524355|00000000||Wouldn't be right to tarry - war with the Black Ones won't wait.
-    524360|00000000||You can count on me, you know? Always.
-    524362|00000000||I know. Thanks.
     565582|00000000||Heading straight back to Skellige?
     565579|00000000||Straight back to Skellige?
     321589|00000000||There y'are.
@@ -406,41 +436,6 @@
     520110|00000000||Imagine we'd miss a chance like this? Not on your life!
     520111|00000000||Grief grips me that Vigi's not here.
     541556|00000000||Good to see you!
-   1000357|00000000||From the look of things, pretty soon Ciri won't need your help anymore.
-   1000359|00000000||Nor yours.
-   1000361|00000000||True. She'll do whatever she wants - and I'll support her. What about you? Ready to let her live her own life?
-   1000362|00000000||I shan't force her to do anything, if that's your question.
-   1000123|00000000||Soon Ciri won't need your help anymore.
-   1000343|00000000||Charming world you Aen Elle have got. Could easily fall in love with the place.
-   1000345|00000000||Tell me, how do you do it? Sit around playing flute, painting rutting unicorns in gorgeous landscapes, building ornately sculpted towers…
-   1000347|00000000||And then you murder us, without batting an eye, without a hint of guilt. How?
-   1000349|00000000||Do you humans feel guilt when you murder Aen Seidhe elves? Or dwarves? Or dryads?
-   1000351|00000000||We are the same… simply because we both firmly believe others are inferior.
-   1000121|00000000||Charming, this world of the Aen Elle.
-   1000353|00000000||Probably accuse me of being a typically primitive human - but why don't we just kill Ge'els?
-   1000337|00000000||Because we would gain nothing in the short term… and we might not live to see the long term.
-   1000339|00000000||With Ge'els, it is not what he does on the battlefield, but beyond it. He manipulates, lies, keeps the Aen Elle in check.
-   1000341|00000000||Remove that pawn from the board, and you won't change the outcome of the match. Keep it there, and you could use it to change the rules.
-   1000355|00000000||Still haven't explained why we need to mess around with this subterfuge instead of just killing Ge'els.
-   1000122|00000000||Why don't we just kill Ge'els?
-   1000285|00000000||Tell me something more about Caranthir. Know him well?
-   1000287|00000000||Know him? I reared him.
-   1000289|00000000||Raised, don't you mean?
-   1000291|00000000||No, Geralt. I began shaping him long before he was born.
-   1000293|00000000||For centuries I… brought together pairs of elves manifesting certain abilities - those able to manipulate time and space. He is the result of these efforts. Caranthir, a golden child.
-   1000295|00000000||Golden child who grew up to be a criminal.
-    307750|00000000||Caranthir - tell me about him.
-   1000192|00000000||So long.
-   1000125|00000000||So long.
-   1000124|00000000||Why're you helping Ciri?
-   1000196|00000000||You imprisoned Ciri the first time you met her. Now you protect her while fighting against your own kind. Quite an about-face.
-   1000198|00000000||First of all, I did not imprison her. She found me. It was her destiny.
-   1000200|00000000||Yeah, sure. Get to the "second of all." Why're you helping her?
-   1000202|00000000||Because she is a danger. A mortal one.
-   1000204|00000000||You look at her and see a human, a ward, a daughter, even. I look and see the Elder Blood - a power that can destroy the world, a power that must be kept from Eredin's power-addled hands at all costs.
-   1000206|00000000||Admittedly, our motives differ. Yet in spite of that we share a goal. So you would be wise to trust me… or at least try.
-   1000194|00000000||Yes, Geralt?
-   1000190|00000000||Find Zireael… Time is dwindling…
     531907|00000000||Wonder if it took him out?
     531908|00000000||Imlerith? Doubt it.
    1063050|00000000||Yennefer's spell is waning! Blizzard's almost at the fortress!
@@ -790,6 +785,28 @@
    1003649|00000000||I'm certain they would… but Avallac'h claims they've neither the knowledge nor talent. He's spent four centuries learning to do it, yet can still only find and pass through preexisting portals.
    1003653|00000000||I go wherever I please, whenever I please.
    1003636|00000000||What's it like to travel between worlds?
+   1127038|00000000||The mark on my face - is it noticeable? Hard on the eyes?
+   1127041|00000000||Tsk… a bit. But you can't let it bother you.
+   1127044|00000000||You know, folk would stare at the scar on my cheek, always. It used to upset me greatly.
+   1127046|00000000||And?
+   1127048|00000000||I started undoing one shirt button more. Problem solved.
+   1127049|00000000||The mark on my face look bad?
+   1127066|00000000||Not sure if you've heard, but… once it's all over, I'm going to Kovir.
+   1127068|00000000||With Triss.
+   1127070|00000000||Mhm.
+   1127072|00000000||Interesting part of the world. Perhaps you'll get a contract for some rare snow beast. A barbegazi, or a vendigo… Or a, uh, an amarok.
+   1127074|00000000||Or maybe I'll finally hang up my swords.
+   1127076|00000000||It's that good with her?
+   1127078|00000000||Better.
+   1127063|00000000||You know… once it's all over, I'm going to Kovir.
+   1127081|00000000||So… need your advice. About Yennefer.
+   1127083|00000000||Very well. Ask away.
+   1127086|00000000||Thing is… I'd like to take her somewhere. Once it's over. Someplace… picturesque, beautiful, even. Where we can rest.
+   1127088|00000000||You've been almost everywhere. Also know Yen well. Any ideas? I was thinking Spalla, or maybe Dol Blathanna…?
+   1127090|00000000||The first roadside inn you pass. Take her there. Pay for a month in advance, carve "Do not disturb" into the room door and shut it behind you.
+   1127092|00000000||Huh. Just like that?
+   1127094|00000000||Just like that.
+   1127064|00000000||Need your advice. It's about Yennefer.
    1003655|00000000||Eredin's located you time and again. How's that work?
    1003573|00000000||When I pass between worlds, I create a kind of shockwave. Anyone properly trained can sense it. That's how Avallac'h explains it, at any rate. He can do it, too.
    1003666|00000000||So you shouldn't actually ever use your power.
@@ -827,6 +844,8 @@
     562490|00000000||I must confront them.
     529468|00000000||You were meant to wait inside!
     529686|00000000||Hold on, Triss!
+   1077974|00000000||Gvaed, gvaed uncym, cym’morth!
+   1077970|00000000||{Emitting a mind-piercing, ear-bleed inducing shriek.}
    1077942|00000000||Geralt… Where is he…? We must--
    1077944|00000000||Argh!
    1077946|00000000||You shan't escape me this time!
@@ -843,8 +862,6 @@
    1077968|00000000||Noooooooooooooo!
    1077938|00000000||Come!
    1077940|00000000||Ah!
-   1077974|00000000||Gvaed, gvaed uncym, cym’morth!
-   1077970|00000000||{Emitting a mind-piercing, ear-bleed inducing shriek.}
    1076935|00000000||Damn… I was less nervous before that fight with the dragon.
     465190|00000000||Only you and I truly know what all of us will soon face.
     465188|00000000||You defeated them once. I know you can do it again.

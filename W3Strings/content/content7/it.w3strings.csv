@@ -296,20 +296,18 @@
     439424|00000000||Non entrerai finché non avrai riportato qui i miei compagni.
     560360|00000000||Eheheh, uno zoccolo nel sedere...
     560361|00000000||Eheheh. Smettila di scorrazzare, burlone!
+    560359|00000000||Vattene! Vattene, potere oscuro!
     560371|00000000||È più forte di me, mi dispiace...
     560372|00000000||Mi sento un po' sonnacchioso...
     560370|00000000||Sto andando! Tra poco... ZZZ.
-    575935|00000000||Svegliati.
-    575937|00000000||Sono sveglio, sveglissimo...
-    576364|00000000||Forza, muoviamoci.
-    575922|00000000||Svegliati.
-    575924|00000000||Sì, sì... Solo un momentino...
-    576360|00000000||Alzati.
+    560379|00000000||Svegliati.
+    560380|00000000||Non voglio andare a scuola!
     575925|00000000||Forza, in piedi.
     575927|00000000||Oh, Mordicchio! Sei un gattino cattivo, eh?
     576362|00000000||Va bene! Mi alzo!
-    560379|00000000||Svegliati.
-    560380|00000000||Non voglio andare a scuola!
+    575922|00000000||Svegliati.
+    575924|00000000||Sì, sì... Solo un momentino...
+    576360|00000000||Alzati.
    1074031|00000000||Sai molte cose su quest'isola?
    1074033|00000000||Quasi nulla.
    1074552|00000000||Lo sai che non compare su alcuna mappa...
@@ -322,7 +320,9 @@
    1074562|00000000||Mmmh-mmmh. Diciamo che è finita così...
    1074564|00000000||Non hai molta voglia di parlarne, eh?
    1074566|00000000||Non proprio.
-    560359|00000000||Vattene! Vattene, potere oscuro!
+    575935|00000000||Svegliati.
+    575937|00000000||Sono sveglio, sveglissimo...
+    576364|00000000||Forza, muoviamoci.
     370828|00000000||Chi siete?
     370830|00000000||Io sono Geralt. Voi chi siete?
     370832|00000000||Ma è quel witcher! Ho sentito una ballata su di lui e su una maga... Com'è che si chiama?

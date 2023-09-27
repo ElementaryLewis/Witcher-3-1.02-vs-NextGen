@@ -286,7 +286,7 @@
     522189|00000000||Divoké škubání v prstech, oči nereagují na světlo… viděl jsem to mnohokrát. Zbytečně mnohokrát.
     522191|00000000||Toxiny trvale poškodily jeho nervovou soustavu. I kdyby přežil… Rozumíš?
     522129|00000000||Snažil jsem se ji ochránit… ale kletba…
-    522131|00000000||Hon Ostrově nenašel. Zatím. Je to jen otázka času… Ale když odejde… najdou ji. Okamžitě.
+    522131|00000000||Hon Ostrov nenašel. Zatím. Je to jen otázka času… Ale když odejde… najdou ji. Okamžitě.
     522137|00000000||Dost, Geralte. Pořád je jen krůček od smrti.
     522107|00000000||Ostrov mlh, kde je?
     522109|00000000||Všude… a nikde.
@@ -442,11 +442,6 @@
     518296|00000000||Jsem rád, že tě zase vidím.
     518290|00000000||Zato ty už ve svém zřejmě moc dobře neslyšíš, co? Připlížil jsem se k tobě tak snadno jako k tokajícímu tetřevovi.
     518292|00000000||Ale houby. Slyšel jsem tě funět na tři míle daleko. Ale nechtěl jsem vylézat z toho křoví.
-   1028934|00000000||Stará bašta. Jako mladí kluci jsme tady cvičili. Ještě před Zkouškou trav.
-   1028935|00000000||No podívejme se... Vypadá to, že v baště straší.
-   1028941|00000000||Přeludy? Něco je s tím místem musí spojovat.
-   1028954|00000000||Škoda času. Když tu budu jen tak okounět, nic nenajdu.
-   1043297|00000000||Medailon se cuká, ale nevidím ani ň. Možná by pomohla lampa.
    1027947|05ac068c||Čert
    1021681|00000000||Vlčí hlava? Tohle místo znám. Konaly se tady první Zkoušky trav, než postavili pevnost...
    1021748|00000000||Kresba už skoro zmizela. Za pár desetiletí zmizí... stejně jako zaklínači.
@@ -610,8 +605,8 @@
     534095|00000000||Savollův průlom... Vy jste to ještě nezazdili?
     534985|00000000||Vesemir by rád. Ale mě to netrápí.
     534987|00000000||Nemyslím, že nás bude někdo obléhat... a chodím tudy zkratkou k rybníku.
-    534989|00000000||Škoda, že nám ti zabijáci ze Salamandry neudělaly ještě pár děr v hradbách, co?
-    534991|00000000||Nebo tu práci nedodělaly a nesrovnaly tu zříceninu se zemí...
+    534989|00000000||Škoda, že nám ti zabijáci ze Salamandry neudělali ještě pár děr v hradbách, co?
+    534991|00000000||Nebo tu práci nedodělali a nesrovnali tu zříceninu se zemí...
     534101|00000000||A co Vesemir – už spolu vycházíte líp?
     534994|00000000||Vypadá to tak... Starouš nám přestal kázat o morálce a já se ho na oplátku snažím moc nenasírat...
     535008|00000000||Ehm. A jak ti to jde?
@@ -967,7 +962,7 @@
     532247|00000000||Já si to myslel. Proto si myslím, že nejdříve zkusíme jiný, méně otřesný postup.
     532250|00000000||Poslouchejte. Všechno je na místě… můžeme začít.
     529561|00000000||Vykoupeme se později.
-    530511|00000000||Vykoupat se můžeme později.
+    530511|00000000||Pokochat se můžeme později.
     530513|00000000||Jasně… nejdřív povinnosti, pak zábava.
     530515|00000000||Pamatuješ, jak se to s tím kruhem dělá? Už je to nějaká doba, co jsem si aktivoval svůj medailon.
     530517|00000000||V pohodě, staříku, nemusíš se vymlouvat. Zapálíš louče a položíš filakterium na oltář… já se postarám o zbytek.
@@ -1221,12 +1216,13 @@
    1075881|00000000||Sakra… To byl ale sen.
     535230|00000000||[Podat Matčiny slzy.]
     535232|00000000||[Podat Ostrávovou mízu.]
+    537559|00000000||…
     537618|00000000||Ummmmmmamama… UUUuuu… Umamama….
     537620|00000000||Doufal jsem... Doufal jsem, že tohle už nikdy neuvidím.
     537622|00000000||Tak proč sis nechal ten stůl, co?
     537665|00000000||Geralte… další elixír.
    1059214|00000000||Eskele, promiň... Dovolíš...?
-   1059216|00000000||Chceš se oblíct? Jasně.
+   1059216|00000000||Mám dojít pro hadr? Jasně.
     535265|00000000||…
     535277|00000000||Oesi, caefyn!
     537758|00000000||Co teď?
@@ -1240,7 +1236,6 @@
     537631|00000000||Otevřete další záklopku.
     537592|00000000||Dost. Tohle je špatný nápad.
     535231|00000000||[Podat Divožitnou šťávu.]
-    537559|00000000||…
     535233|00000000||…
     537594|00000000||Aaaa…. Aaaa…. Ummmmmmamamamaaaaa…
     537596|00000000||Zabírá ten hákorost?
@@ -1315,7 +1310,7 @@
    1075413|00000000||Otevři ty dveře. Hned.
     378715|00000000||Ne. Nehodlám ho přivést zpátky.
     378701|00000000||Jdi mi z cesty.
-    332382|00365006||Bandita
+    332382|00365006||Zbojník
    1064467|00000000||To už jsi zapomněl? Omeleta s paprikou, houbami a cibulí. Děkuju.
    1056926|00000000||Něco takového jsem nežádala... ale vypadá to docela chutně.
     538508|00000000||Oh, snažil ses... Díky.
@@ -1487,7 +1482,7 @@
     530431|00000000||Dej mi ještě chvilku času.
     530763|00000000||No prosím. Pán se uráčil vrátit.
     569290|05f7bcd0||Ifrít
-    530323|00000000||Axie tě zachránila? Jak?
+    530323|00000000||Axie tě zachránilo? Jak?
     530333|00000000||Cítím v tom dobrý příběh.
     530335|00000000||Jeden z nejlepších. Zastavil mě párek zbojníků, jeden na mě namířil samostříl a druhý se mi začal hrabat ve věcech.
     530337|00000000||Nejdřív jsem donutil kušníka zastřelit svého kámoše… a pak se oběsit.

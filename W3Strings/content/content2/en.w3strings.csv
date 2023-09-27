@@ -43,6 +43,7 @@
     422235|00000000||Farewell.
     422231|00000000||Show me your wares.
     422237|00000000||Show me what you got on offer.
+    432590|d184d9f7||Wraith
    1037370|00000000||What the fuck am I to do?! Eh?! What?!
    1037368|00000000||Fifty… years… of work… up in smoke!
     594289|00000000||I'll call my mum!
@@ -126,7 +127,7 @@
    1031899|00000000||Nilfgaardian. My gran was from Nazair.
    1031901|00000000||O-oh, so that's how it is. Then by my leave, Master Dervan, may the gold sun guide you - far away from my land!
     572345|00000000||To puke or not to puke, that is the… bleugh!
-    572353|00000000||Got so fucked up once blood came out me ears.
+    572353|00000000||Got so fucked up once, blood came out me ears.
     572347|00000000||Where you walkin'?!
     572349|00000000||C'mon, you fuck, try it!
     572351|00000000||Lebioda wept…
@@ -237,7 +238,7 @@
     577298|00000000||To your health.
     577016|00000000||Know who I am?
     577719|00000000||What do you do? Who are you?
-    577720|00000000||A mangy vagrant. Gaunter O'Dim, at your service.
+    577720|00000000||A mangy vagrant. Gaunter O'Dimm, at your service.
     577721|00000000||Vagrant - that a profession now?
     577722|00000000||Ah, once a merchant of mirrors. The madding crowd dubbed me Master Mirror, or the Man of Glass.
     577010|00000000||Who might you be?
@@ -427,6 +428,7 @@
     549288|00000000||So much for not getting involved. Come on, let's go.
    1056370|00000000||Yennefer, how'd they--
    1056372|00000000||We shall talk of this tomorrow, all right? After the audience.
+   1075783|00000000||{Goc'hel!}[Watch out!]
    1056355|00000000||You know… had a dream about you recently.
    1056357|00000000||Knowing you, it was probably filthy.
    1056359|00000000||Just the beginning. But then--
@@ -613,7 +615,7 @@
    1046180|00000000||Aaaaah!
     594486|00000000||Oh boy, oh boy!
     594488|00000000||Show me your sword?
-    594490|00000000||Ha ha ha ha!
+    594490|00000000||Hahahahaha!
     313590|acc55a20||Bandit
    1030291|00000000||Hey! Help a fellow traveler!
    1030288|00000000||Whoa! Master witcher!
@@ -747,7 +749,7 @@
    1015217|00000000||It's not too late to repent!
    1052074|00000000||Were it hard, slayin' that horror?
     351604|00000000||Please, master witcher. Just go.
-    571801|00000000||*Cough* Yes?
+    571801|00000000||Akh. Yeah?
     571803|00000000||Brrr… Got the shivers.
     571805|00000000||Think I'm comin' down with a fever.
     303055|0037c652||Wolf
@@ -800,7 +802,7 @@
     571934|00000000||Our world will burn! Burn in the Eternal Fire!
     571936|00000000||Fall upon your knees before the Eternal Fire!
     472898|00306a9c||Girl
-    571783|00000000||Oy-oy-oy.
+    571783|00000000||Oi-oi-oi.
     571785|00000000||A day like all others…
     571787|00000000||Me bones're achin' again.
     571881|00000000||Convert, brother.
@@ -910,7 +912,7 @@
     576094|00000000||Took you for a traditionalist.
     576097|00000000||A witcher with a crossbow? We breaking with tradition?
     576105|00000000||Stop talking. Got a griffin to kill.
-    451163|cc663b8e||Trader
+    451163|cc663b8e||Merchant
    1049576|00000000||{N'ees tedd a thu. } [I've no time for you.]
    1049574|00000000||{Hael Ker'zaer. } [Long live the emperor.]
    1049578|00000000||{Bu'rac. } [Bumpkin.]
@@ -976,7 +978,7 @@
     173631|00000000||Radovid's pledged to restore the old borders - soon as he wins the war.
     173633|00000000||Believe that?
     331583|00000000||Hmph. Gotta believe something. It's what keeps us going.
-    594282|00000000||Heehee!
+    594282|00000000||Heeheehee!
     594284|00000000||Once there was a little frog… Ribbity-rok-rok, ribbity-rok….
     594286|00000000||Achoo!
     580019|05b6c5a4||Drunk
@@ -1658,7 +1660,7 @@
    1010723|00000000||I'm gonna be a mutant when I grow up, too!
    1010721|00000000||Why does he need two swords? Does he tend to lose them?
    1010717|00000000||Yeah, right.
-   1010719|00000000||Ooooo...!
+   1010719|00000000||Ooooo! Booooo-hooo…. Oooo….
    1032089|00000000||Lucky not to come up empty-handed. A bracelet… with an inscription. "To Claer - from Volker."
    1057989|00000000||Bracelet must've belonged to the woman in the well.
    1057987|00000000||Bracelet was on an arm bone. Wonder where the rest of the body is.
@@ -1815,7 +1817,6 @@
    1049563|00000000||Yaaawn…
    1049561|00000000||{Va caelm! } [Calm down!]
    1049567|00000000||{Glaeddyv vort. } [Set your sword down.]
-    432590|d184d9f7||Wraith
    1043949|00000000||Go away.
    1043951|00000000||Out of my sight.
    1043953|00000000||Arrrgh!

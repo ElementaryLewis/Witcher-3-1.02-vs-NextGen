@@ -380,6 +380,7 @@
     563583|00000000||… musíme jet na Skellige, najít Sluneční kámen.
     563585|00000000||Avallac'h na nás čeká dole v přístavu.
     563593|00000000||… bychom snad už mohli jít na čerstvý vzduch.
+   1086304|00000000||Nedovolím ti, abys ji sebral a dělal s ní, co se ti zlíbí.
    1062046|00000000||Kdo tě naučil takhle bojovat?
    1062048|00000000||Ten zaklínač, kterého jsi zabil.
     581320|00000000||Ugh…
@@ -394,7 +395,7 @@
     565837|00000000||Najdeme tam Imleritha? Jseš si jistá?
     565839|00000000||Avallac'h mi řekl o bytostech, které komunikují s elfy Aen Elle. Můžeš je najít na každém rohu našeho světa. Ve Velenu to dělají Ježibaby.
     565841|00000000||Jak se zdá, Imlerith sem přišel na Eredinův popud, aby Ježibabám nařídil mít uši nastražené a oči na stopkách. Pro případ, že by se Avallac'h chtěl ukrýt ve své velenské skrýši.
-    576464|00000000||Podle těch uší, co po lese visí, soudím, že ten příkaz vzal doslova. Myslíš, že tady Imlerith pořád je?
+    576464|00000000||Podle těch uší, co po lese visí, soudím, že ten příkaz vzaly doslova. Myslíš, že tady Imlerith pořád je?
     565843|00000000||Baží po tělesných rozkoších - víno, sex… Ježibaby si ho hýčkají, lichotí jeho sebevědomí. Jsem si jistá, že takovou příležitost si ujít nenechá a že na sabatu na Lysé hoře bude.
     565161|00000000||Ty vážně víš, že tam Imlerith bude? Jak to?
     565162|00000000||Znáš to tady?
@@ -425,7 +426,7 @@
    1061337|00000000||Takže, řekneš mi, proč jsi tady?
    1061331|00000000||Podařilo se mi zjistit, kde je Margarita - ve vězení v Oxenfurtu.
    1061327|00000000||Taky se mi podařilo najít jednoho člověka, který odtamtud utekl. Měl by sem za chvíli přijít.
-   1061329|00000000||Triss a já jsme ji našli a osvobodili. Ukázalo se, že ji držel Dijkstra. Ale situace je pod už kontrolou.
+   1061329|00000000||Triss a já jsme ji našli a osvobodili. Ukázalo se, že ji držel Dijkstra. Ale situace už je pod kontrolou.
    1061339|00000000||To se mi ulevilo.
    1061335|00000000||To brzo zjistíš. Mezitím mi vyprávěj o Filippě.
     560619|00000000||Hm. Hezké místo. Proč jsi tady?
@@ -785,51 +786,119 @@
     579899|00000000||Div že nezakopávali o vlastní boty!
     579849|00000000||Děkuju, Geralte, to bylo skvělé!
    1055188|e87aca57||Správce věznice
+   1124126|00000000||Vyřešilo se to hezky, nemyslíš?
+   1124128|00000000||O čem to mluvíš?
+   1124130|00000000||S tebou a Triss. Vůbec jsem to nečekala, abych se přiznala.
+   1124132|00000000||Život je plný překvapení.
+   1124134|00000000||Takže, jak jste se vy dva--
+   1124136|00000000||Dali dohromady?
+   1124138|00000000||Hmm. S Yen to byla hádka za hádkou, spousta rozepří, drama... Neříkám, že to bylo špatné, ale...
+   1124158|00000000||Ale co?
+   1124141|00000000||Je to vyčerpávající. S Triss to tak není. Konečně cítím... soulad. Klid. Mám pocit, že je všechno tak, jak to být má.
+   1124145|00000000||Víš... možná mi do toho nic není, ale... jsem ráda, že jste s Yennefer skončili zase spolu.
+   1124147|00000000||Já taky.
+   1124149|00000000||Že sis ale dal načas.
+   1124151|00000000||Hm. Asi jsme se s tím oba potřebovali trochu porvat.
+   1124153|00000000||Takže jaké to bylo? Víš co, když přestalo účinkovat to přání. Co jsi cítil?
+   1124161|00000000||Hmm. No, prostě jsme tam byli, jen my dva, na vrcholku hory. Podíval jsem se na ni a...
+   1124162|00000000||A cítil jsem, že jsem přesně tam, kde mám být. Konečně.
+    537215|00000000||Ještě víno?
+    537216|00000000||Díky.
+    537217|00000000||Jsem ráda, že jsme tady zůstali.
+    537218|00000000||Já taky.
+    537219|00000000||Mají tě tady rádi.
+    537224|00000000||Taky je mám ráda. Ach, tak ráda bych se k nim přidala…
+    558985|00000000||Pít, závodit, jezdit od města k městu. S ničím si nedělat starosti...
     558989|00000000||A s čím si děláš starosti teď?
     559015|00000000||Máš starosti? Co tě trápí?
     559018|00000000||To, co nás čeká...
+    559034|00000000||Porazit Divoký hon nebude snadné, ale s pomocí Lóže a Avallac'ha... My to zvládneme.
+    559006|00000000||To je dobrý plán. Asi bych se přidal.
+    559021|00000000||Pak je o naší budoucnosti rozhodnuto.
+    559044|00000000||Tedy aspoň pokud z nás zbude něco víc, než jen popel, až tohle všechno skončí.
+    558988|00000000||Dobrý plán.
     558990|00000000||Nejdřív musíme porazit Divoký hon.
     559020|00000000||Jo... život jako v pohádce. Ale nejdřív musíme porazit Divoký hon.
-    559051|00000000||Jedno po druhém.
+    559025|00000000||Bojím se, že boj proti Divokému honu bude jenom začátek. Aspoň pro mě.
     559065|00000000||S tím si zatím nedělej starosti. Jedno po druhém.
     559058|00000000||Víš, že se na mě můžeš vždycky spolehnout, ať už se stane cokoliv, že ano?
     559062|00000000||Vím. Děkuju ti, Geralte.
-    559052|00000000||Co se stane, stane se.
+    559051|00000000||Jedno po druhém.
     559064|00000000||Děláš si příliš velké starosti. Budeme ty věci řešit, až nastanou.
-    559144|00000000||Jak to myslíš?
+    559052|00000000||Co se stane, stane se.
+    559050|00000000||Jak to myslíš?
+    559056|00000000||Jak to myslíš?
+    559084|00000000||Hahaha!
+    559132|00000000||Slíbila jsi to!
+    559134|00000000||Ale v žertu!
+    559074|00000000||Někdy si přeju, abych mohla být jako oni.
     559185|00000000||Jak to myslíš?
     559194|00000000||Tak, jak to říkám.
-    559145|00000000||Rozumím ti.
+    559144|00000000||Jak to myslíš?
     559187|00000000||Já taky. Být zaklínačem je občas těžké...
     559282|00000000||Stejně jako moje "dědictví". Jak já bych si přála být obyčejná...
-    559281|00000000||Budeš tím, čím se rozhodneš být.
+    559145|00000000||Rozumím ti.
+    559143|00000000||Opilá?
+    559183|00000000||Chceš se opít, nebo hihňat? Tak nebo tak, dneska máš šanci.
+    559189|00000000||Ne, tak jsem to nemyslela.
+    559197|00000000||Chtěla bych být prostě... obyčejná holka.
     559287|00000000||Tvůj život patří jen tobě. Sama se rozhodni, čím chceš být.
     559289|00000000||Geralte, ty víš, že tohle nikdy neplatilo.
-    559459|00000000||Nechtěného daru se můžeš zříct...
+    559281|00000000||Budeš tím, čím se rozhodneš být.
+    559280|00000000||Narodila ses, abys vykonala velké věci.
+    559285|00000000||Jenže ty obyčejná nejsi. Narodila ses pro velké věci.
+    559293|00000000||A poslouchám to už od kolébky.
+    559261|00000000||Všechno kvůli té zatracené Starší krvi! Můj dar, a taky moje prokletí.
+    559270|00000000||Díky ní mám všechny tyhle schopnosti, ale díky ní taky trávím větší část života na útěku.
     559461|00000000||Dárek nemůžeš vždycky vrátit, odmítnout ho...
     559462|00000000||To není tak snadné. Už jsem to zkusila, pamatuješ?
     559475|00000000||A kromě toho, i kdybych se tím zbavila Eredina, vždycky tu budou další, kteří se mnou mají nějaké plány.
-    559309|00000000||Nebuď naivní.
+    559459|00000000||Nechtěného daru se můžeš zříct...
+    559380|00000000||Až porazíme Eredina, budeš volná.
+    559290|00000000||Tak je na čase to skončit. Až porazíme Eredina, budeš volná.
+    559207|00000000||Opravdu? Jako by byl Eredin jediný. Vždycky tu budou další, kteří se mnou mají své plány.
+    559300|00000000||Nejdřív to byly čarodějky z Lóže, teď můj otec, dokonce i Yennefer...
+    559306|00000000||Zapomínáš na Avallac'ha...
+    559307|00000000||Avallac'h je jiný...
+    559324|00000000||Tomu jde o to, aby můj dar nepadl do nepravých rukou, aby se nevymkl kontrole. Proto se mě snaží něco učit a ochraňovat mě.
     559328|00000000||Čím dřív té iluzi přestaneš věřit, tím líp pro tebe.
     559329|00000000||Co tím myslíš?
-    579397|00000000||Ne.
+    559309|00000000||Nebuď naivní.
+    559308|00000000||Doufám, že máš pravdu.
+    559321|00000000||Když to říkáš....
+    559326|00000000||Ty o tom snad pochybuješ?
+    559344|00000000||Časem přijde den, kdy tě Avallac'h požádá o laskavost.
+    559348|00000000||Možná... Ale i kdyby, bude to trvat ještě hodně, hodně dlouho...
+    559350|00000000||A jsem si jistá, že ať už bude chtít cokoli, že mi dá na vybranou. Že budu mít možnost odmítnout.
+    559351|00000000||Doufám, že máš pravdu...
+    577174|00000000||To je Pablo. Jednou se taky chci naučit žonglovat.
+    579351|00000000||Nesmírně užitečná schopnost.
+    579395|00000000||Konečně jsem vás dva našel! Bavíte se dobře?
     579404|00000000||Bývávalo. Dokud nám do toho někdo nezačal kecat.
     579423|00000000||Ten tvůj kamarád je nějaký kousavý...
     579428|00000000||Jo, v tomto směru jste si hodně podobní...
     579430|00000000||Jak se ti vedlo u toho handlíře?
-    579398|00000000||Máš ty koně?
+    579397|00000000||Ne.
     579406|00000000||Radši nám pověz, jak jsi pochodil u toho handlíře. Podařilo se ti sehnat nějaké koně?
-    585949|00000000||Já vám je koupím.
-    586015|00000000||Určitě by se to dalo udělat i nějak jinak...
-    586070|00000000||Náhodou mám trochu peněz, mohl bych vám půjčit.
-    586017|00000000||No jo, ale my bychom ti to pak neměli z čeho vracet.
-    586019|00000000||Však byste nemuseli...
-    586063|00000000||Škoda, že císař nemá ještě jednu dceru. Mohli bychom vykoupit všechny koně v celém Novigradu.
-    586026|00000000||To je od tebe štědrá nabídka, ale nám by to nepomohlo.
-    586028|00000000||Ten handlíř neměl problém s našimi penězi, ale s námi samotnými. Víš, co mi řekl? Že prý s takovou lůzou obchodovat nebude.
-    586094|00000000||No, takže když nechce prodat, nedá se nic dělat a budeme mu je muset ukrást.
-    586100|00000000||Já nevím... Nepřipadá mi to jako dobrý nápad...
-    586098|00000000||Stejně se mi to nechce líbit.
+    579398|00000000||Máš ty koně?
+    579396|00000000||Ano.
+    579402|00000000||Táborák, víno, žongléři... co víc by mohl člověk chtít, co?
+    579426|00000000||Vím o pár věcech, za které bych to vyměnil, ale je to náš život...
+    579455|00000000||Zdá se mi to, nebo máš starosti? Nedařilo se ti s tím handlířem?
+    579478|00000000||Ále, ztracený případ. Nechtěl handlovat, tak říkám, že koně koupím, ale chtěl za jednoho zdravého tři pracky a ještě pár hnátů navrch.
+    579495|00000000||Ty koně potřebujeme. Budeme je muset sehnat nějak jinak.
+    579530|00000000||Čuchám, čuchám potíže...?
+    579532|00000000||Já věděl, že se ti ten nápad zalíbí.
+    579541|00000000||Budeme se muset vplížit k tomu chlápkovi do stájí. Má tam těch kusů třicet, o pár víc nebo míň ho nerozhází.
+    579547|00000000||Jdeš s námi?
+    579554|00000000||Jasně!
+    579579|00000000||Nemůžete si je prostě koupit?
+    579581|00000000||Tak ty koně prostě kupte. To by nešlo?
+    579583|00000000||A za co asi?
+    579598|00000000||Vždyť ti Ciri právě dala plný měšec...
+    579600|00000000||To by stačilo nanejvýš na jednoho. Jenže my bychom potřebovali aspoň čtyři.
+    579602|00000000||Nedělej vlny, Geralte. Vždyť toho obchodníka neobereme o poslední pětník. Konečně nějaká změna oproti utíkání před Divokým honem!
+    579618|00000000||Nenech se prosit!
     586097|00000000||Přesvědčil jsi mě.
     577198|00000000||Eh, co se dá dělat. Člověk by měl pomáhat potřebným...
     577199|00000000||Ano, ano, ano!
@@ -843,69 +912,17 @@
    1058981|00000000||Pokud s námi Ciri chce jet, měla by jet. Není tvůj majetek.
    1058983|00000000||Nenechám ji riskovat vlastní krk kvůli zlodějům.
     577196|00000000||Krást nebudu.
-    579579|00000000||Nemůžete si je prostě koupit?
-    579581|00000000||Tak ty koně prostě kupte. To by nešlo?
-    579583|00000000||A za co asi?
-    579598|00000000||Vždyť ti Ciri právě dala plný měšec...
-    579600|00000000||To by stačilo nanejvýš na jednoho. Jenže my bychom potřebovali aspoň čtyři.
-    579602|00000000||Nedělej vlny, Geralte. Vždyť toho obchodníka neobereme o poslední pětník. Konečně nějaká změna oproti utíkání před Divokým honem!
-    579618|00000000||Nenech se prosit!
-    579478|00000000||Ále, ztracený případ. Nechtěl handlovat, tak říkám, že koně koupím, ale chtěl za jednoho zdravého tři pracky a ještě pár hnátů navrch.
-    579495|00000000||Ty koně potřebujeme. Budeme je muset sehnat nějak jinak.
-    579530|00000000||Čuchám, čuchám potíže...?
-    579532|00000000||Já věděl, že se ti ten nápad zalíbí.
-    579541|00000000||Budeme se muset vplížit k tomu chlápkovi do stájí. Má tam těch kusů třicet, o pár víc nebo míň ho nerozhází.
-    579547|00000000||Jdeš s námi?
-    579554|00000000||Jasně!
-    579402|00000000||Táborák, víno, žongléři... co víc by mohl člověk chtít, co?
-    579426|00000000||Vím o pár věcech, za které bych to vyměnil, ale je to náš život...
-    579455|00000000||Zdá se mi to, nebo máš starosti? Nedařilo se ti s tím handlířem?
-    579396|00000000||Ano.
-    577174|00000000||To je Pablo. Jednou se taky chci naučit žonglovat.
-    579351|00000000||Nesmírně užitečná schopnost.
-    579395|00000000||Konečně jsem vás dva našel! Bavíte se dobře?
-    559344|00000000||Časem přijde den, kdy tě Avallac'h požádá o laskavost.
-    559348|00000000||Možná... Ale i kdyby, bude to trvat ještě hodně, hodně dlouho...
-    559350|00000000||A jsem si jistá, že ať už bude chtít cokoli, že mi dá na vybranou. Že budu mít možnost odmítnout.
-    559351|00000000||Doufám, že máš pravdu...
-    559321|00000000||Když to říkáš....
-    559326|00000000||Ty o tom snad pochybuješ?
-    559308|00000000||Doufám, že máš pravdu.
-    559300|00000000||Nejdřív to byly čarodějky z Lóže, teď můj otec, dokonce i Yennefer...
-    559306|00000000||Zapomínáš na Avallac'ha...
-    559307|00000000||Avallac'h je jiný...
-    559324|00000000||Tomu jde o to, aby můj dar nepadl do nepravých rukou, aby se nevymkl kontrole. Proto se mě snaží něco učit a ochraňovat mě.
-    559290|00000000||Tak je na čase to skončit. Až porazíme Eredina, budeš volná.
-    559207|00000000||Opravdu? Jako by byl Eredin jediný. Vždycky tu budou další, kteří se mnou mají své plány.
-    559380|00000000||Až porazíme Eredina, budeš volná.
-    559261|00000000||Všechno kvůli té zatracené Starší krvi! Můj dar, a taky moje prokletí.
-    559270|00000000||Díky ní mám všechny tyhle schopnosti, ale díky ní taky trávím větší část života na útěku.
-    559285|00000000||Jenže ty obyčejná nejsi. Narodila ses pro velké věci.
-    559293|00000000||A poslouchám to už od kolébky.
-    559280|00000000||Narodila ses, abys vykonala velké věci.
-    559183|00000000||Chceš se opít, nebo hihňat? Tak nebo tak, dneska máš šanci.
-    559189|00000000||Ne, tak jsem to nemyslela.
-    559197|00000000||Chtěla bych být prostě... obyčejná holka.
-    559143|00000000||Opilá?
-    559084|00000000||Hahaha!
-    559132|00000000||Slíbila jsi to!
-    559134|00000000||Ale v žertu!
-    559074|00000000||Někdy si přeju, abych mohla být jako oni.
-    559056|00000000||Jak to myslíš?
-    559050|00000000||Jak to myslíš?
-    559025|00000000||Bojím se, že boj proti Divokému honu bude jenom začátek. Aspoň pro mě.
-    559034|00000000||Porazit Divoký hon nebude snadné, ale s pomocí Lóže a Avallac'ha... My to zvládneme.
-    559006|00000000||To je dobrý plán. Asi bych se přidal.
-    559021|00000000||Pak je o naší budoucnosti rozhodnuto.
-    559044|00000000||Tedy aspoň pokud z nás zbude něco víc, než jen popel, až tohle všechno skončí.
-    558988|00000000||Dobrý plán.
-    537215|00000000||Ještě víno?
-    537216|00000000||Díky.
-    537217|00000000||Jsem ráda, že jsme tady zůstali.
-    537218|00000000||Já taky.
-    537219|00000000||Mají tě tady rádi.
-    537224|00000000||Taky je mám ráda. Ach, tak ráda bych se k nim přidala…
-    558985|00000000||Pít, závodit, jezdit od města k městu. S ničím si nedělat starosti...
+    585949|00000000||Já vám je koupím.
+    586015|00000000||Určitě by se to dalo udělat i nějak jinak...
+    586070|00000000||Náhodou mám trochu peněz, mohl bych vám půjčit.
+    586017|00000000||No jo, ale my bychom ti to pak neměli z čeho vracet.
+    586019|00000000||Však byste nemuseli...
+    586063|00000000||Škoda, že císař nemá ještě jednu dceru. Mohli bychom vykoupit všechny koně v celém Novigradu.
+    586026|00000000||To je od tebe štědrá nabídka, ale nám by to nepomohlo.
+    586028|00000000||Ten handlíř neměl problém s našimi penězi, ale s námi samotnými. Víš, co mi řekl? Že prý s takovou lůzou obchodovat nebude.
+    586094|00000000||No, takže když nechce prodat, nedá se nic dělat a budeme mu je muset ukrást.
+    586098|00000000||Stejně se mi to nechce líbit.
+    586100|00000000||Já nevím... Nepřipadá mi to jako dobrý nápad...
     172316|3a2616f8||Lovec čarodějnic
     528874|00000000||Ustupte! Držte se zpátky! Brzy se vynadíváte do sytosti!
     528875|00000000||Zůstane tam, dokud neshnije!
@@ -1058,10 +1075,10 @@
     553517|00000000||Ve městě jsou vyvěšené Radovidovy barvy. A cestou jsme narazili na větší oddíl lovců čarodějnic...
     553541|00000000||Novigrad už je ztracený případ. Pokud se města nějakým zázrakem nezmocní císař.
     554344|00000000||Hmm, neřekl bych, že by čarodějové měli Emhyra nějak zvlášť v lásce...
-    554345|00000000||Lepší předvidatelný Emhyr a jeho předstíraná svoboda než šílený Radovid spalovaný záští vůči všemu, co byť i jen vzdáleně souvisí s magií.
+    554345|00000000||Lepší předvídatelný Emhyr a jeho předstíraná svoboda než šílený Radovid spalovaný záští vůči všemu, co byť i jen vzdáleně souvisí s magií.
     570839|00000000||Narazili jsme cestou na hranice s upalovanými kacíři. Samí nelidé.
     570840|00000000||Narazili jsme cestou do města na hranice s upalovanými kacíři. Samí nelidé.
-    570849|00000000||Je to čím dál, tím horší. Ve městě už nezůstali žádní čarodějové, a tak si lovci čarodějnic museli najít nějakou jinou oběť.
+    570849|00000000||Je to čím dál tím horší. Ve městě už nezůstali žádní čarodějové, a tak si lovci čarodějnic museli najít nějakou jinou oběť.
     570853|00000000||Musíme všechno vyřídit tak rychle, jak jen to bude možné, a vypadnout z Novigradu.
     552869|00000000||Podařilo se vám sehnat některé čarodějky z Lóže?
     552892|00000000||Podařilo se ti spojit s někým z Lóže? Bude nám někdo ochoten pomoct?
@@ -1154,7 +1171,7 @@
     555358|00000000||Dobrý nápad. Jdeme.
    1042034|00000000||Chcípni, mutante!
    1074624|00000000||Imlerith je na vrcholku, určitě.
-    332382|00365006||Bandita
+    332382|00365006||Zbojník
    1074087|00000000||Poslední z vyvolených nyní vystoupí na vrcholek hory, aby se setkal s Dámami!
    1074089|00000000||Nechť oslavy započnou! A ať trvají až do rozbřesku!
    1060975|00000000||Není to hotové. Musíš počkat.
@@ -1494,7 +1511,7 @@
    1011355|00000000||Co tady děláš?
    1011356|00000000||Co tady vůbec děláš? Když jsme se viděli naposledy, s Ježibabama jsi nebyl zrovna zadobře.
    1011357|00000000||Dostal jsem pozvánku, kterou jsem nemohl odmítnout - jako každej rok. Svým zvláštním způsobem Ježibaby mou přítomnost trpěj a chtěj mě na svým sabatu…
-   1011358|00000000||Tak jsem tady, toulám se kolem a se západem slunce půjdu domů. Co vy?
+   1011358|00000000||Tak jsem tady, toulám se kolem a s východem slunce půjdu domů. Co vy?
    1011354|00000000||Hledáme cestu na vrchol.
    1011359|00000000||Musíme vyšplhat na tu horu. Pomůžeš?
    1011360|00000000||Radši bych vás od toho odradil, ale je mi jasný, že by to bylo zbytečný. Je ta holka tak paličatá jako ty?

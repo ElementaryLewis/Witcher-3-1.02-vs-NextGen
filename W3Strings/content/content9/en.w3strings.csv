@@ -260,7 +260,7 @@
     564652|00000000||What he said about the guards - could prove handy.
     564654|00000000||True. Things will go more smoothly if we can get even a few of them drunk.
     564658|00000000||Zoltan oughta manage it. I'll ask him.
-    561710|00000000||Let's meet on the Oxenfurt bridge.
+    561710|00000000||Let's meet on the Oxenfurt Bridge.
     564671|00000000||What our friend said about the guards was interesting…
     564673|00000000||Drinking on duty? Zoltan could make sure they have plenty of hooch.
     564676|00000000||Good idea. I'll search for the entrance to the ruins.
@@ -380,6 +380,7 @@
     563583|00000000||…We need to go to Skellige, find the Sunstone.
     563585|00000000||Avallac'h awaits down at the port.
     563593|00000000||…Let's get some fresh air.
+   1086304|00000000||I won't let you take her and do what only you see fit.
    1062046|00000000||Who taught you to fight like this?
    1062048|00000000||The witcher you slew.
     581320|00000000||Ugh…
@@ -693,7 +694,7 @@
     555539|00000000||What's that?
     550339|00000000||Uhh… nothing. A preliminary image.
     555568|00000000||What?
-    555570|00000000||Stop interrupting. I need to focus.
+    555570|00000000||Stop interrupting! I have to focus.
    1048266|00000000||You mentioned Kovir in the lighthouse. I understand why, now…
     550355|00000000||That was the recent past. Anything might happen to her in Dijkstra's hands. Let's go.
     550356|00000000||Not so fast. The first image… What was that?
@@ -785,51 +786,119 @@
     579899|00000000||Almost tripped over their own boots!
     579849|00000000||Thanks, Geralt, that was splendid!
    1055188|e87aca57||Prison Warden
+   1124126|00000000||Worked out nicely, don't you think?
+   1124128|00000000||What're you talking about?
+   1124130|00000000||You and Triss. Never expected it, to be honest.
+   1124132|00000000||Life's full of surprises.
+   1124134|00000000||So, how did the two of you--?
+   1124136|00000000||End up together?
+   1124138|00000000||Hmm. With Yen it was fight after fight, lots of arguments, drama… Not saying it was bad, but…
+   1124158|00000000||But what?
+   1124141|00000000||Got to be exhausting. With Triss, it's not. I finally feel…  harmony. A calm. Feel like things are the way they're supposed to be.
+   1124145|00000000||You know… perhaps it's not my concern, but… I'm glad you and Yennefer have ended up together.
+   1124147|00000000||Me too.
+   1124149|00000000||You took your time.
+   1124151|00000000||Hm. Guess we both needed a while to grapple with it.
+   1124153|00000000||So what was it like? You know, when the wish lost its hold. What did you feel?
+   1124161|00000000||Hmm. Well, there we were, the two of us, on the mountain top. I looked at her, and…
+   1124162|00000000||And felt like I was exactly where I was supposed to be. At long last.
+    537215|00000000||More wine?
+    537216|00000000||Thanks.
+    537217|00000000||I'm glad we stayed.
+    537218|00000000||Me too.
+    537219|00000000||They like you here.
+    537224|00000000||I like them, too. Ahh, I'd love to join them…
+    558985|00000000||Drink and race, travel from town to town. Not worry a whit about anything…
     558989|00000000||What's worrying you now?
     559015|00000000||Something worrying you now?
     559018|00000000||Ahh… What awaits us.
+    559034|00000000||Defeating the Hunt won't be easy, but with the Lodge's support, Avallac'h's… We can do this.
+    559006|00000000||Good plan. Think I'll go with you.
+    559021|00000000||Then our future's settled.
+    559044|00000000||If, that is, there's more than ash left of us once this is over.
+    558988|00000000||Good plan.
     558990|00000000||Need to defeat the Hunt first.
     559020|00000000||Hmm… Fairytale life… but we gotta defeat the Wild Hunt first.
-    559051|00000000||One thing at a time.
+    559025|00000000||I fear fighting the Hunt will only be the beginning. For me, at least.
     559065|00000000||Don't worry about that yet. One thing at a time.
     559058|00000000||You do know you can always count on me, whatever happens?
     559062|00000000||I do. Thank you, Geralt.
-    559052|00000000||What will be will be.
+    559051|00000000||One thing at a time.
     559064|00000000||You worry too much. What will be, will be.
-    559144|00000000||Meaning?
+    559052|00000000||What will be will be.
+    559050|00000000||What do you mean?
+    559056|00000000||What do you mean?
+    559084|00000000||Hahaha!
+    559132|00000000||You promised!
+    559134|00000000||In jest!
+    559074|00000000||Sometimes I wish I could be like them.
     559185|00000000||Meaning?
     559194|00000000||Ordinary.
-    559145|00000000||I get you.
+    559144|00000000||Meaning?
     559187|00000000||Me too. Being a witcher's a burden sometimes…
     559282|00000000||As is my "inheritance." I'd so like to be ordinary.
-    559281|00000000||You choose who you are.
+    559145|00000000||I get you.
+    559143|00000000||Drunk?
+    559183|00000000||Drunk or giggly? Whichever it is, today's your chance.
+    559189|00000000||Haha, not what I meant.
+    559197|00000000||I'd like to be ordinary.
     559287|00000000||Your life is yours, exclusively. You choose who you are.
     559289|00000000||Geralt, you know that's never been true.
-    559459|00000000||Gifts can be renounced…
+    559281|00000000||You choose who you are.
+    559280|00000000||You were born to great things.
+    559285|00000000||Problem is, you're not. You were born to greatness.
+    559293|00000000||As I've been hearing since I was born.
+    559261|00000000||All because of this damned Elder Blood! My gift - my curse.
+    559270|00000000||It granted me all of these powers, but it's also why I've spent my life fleeing, hiding.
     559461|00000000||Can always renounce a gift, turn it down…
     559462|00000000||It's not that easy. I tried once, remember?
     559475|00000000||Besides, even if doing that were to free me of Eredin, there will always be those with some kind of plan that includes me.
-    559309|00000000||Don't be naive.
+    559459|00000000||Gifts can be renounced…
+    559380|00000000||We'll defeat Eredin. You'll be free.
+    559290|00000000||Then it's time to end this. Once we defeat Eredin, you'll be free.
+    559207|00000000||Really? Eredin's hardly alone. There are others, they have plans for me.
+    559300|00000000||It was the sorceresses of the Lodge once, now it's my father, even Yennefer…
+    559306|00000000||You're forgetting Avallac'h…
+    559307|00000000||Avallac'h's different…
+    559324|00000000||He is intent on my gift not falling into the wrong hands, not spinning out of control. It's why he teaches me, protects me.
     559328|00000000||The sooner you get rid of that illusion, the better.
     559329|00000000||What do you mean?
-    579397|00000000||No.
+    559309|00000000||Don't be naive.
+    559308|00000000||Hope you're right.
+    559321|00000000||If you say so…
+    559326|00000000||You doubt it?
+    559344|00000000||There'll come a day when Avallac'h will ask you for a favor.
+    559348|00000000||Perhaps… But if so, it will be a very, very long time from now…
+    559350|00000000||And I'm certain whatever it is, he'll give me a choice. I will have the option to refuse.
+    559351|00000000||Hope you're right…
+    577174|00000000||That's Pablo. I plan to learn how to juggle one day.
+    579351|00000000||Incredibly useful skill.
+    579395|00000000||Finally found you two! Enjoying yourselves?
     579404|00000000||We were. Until someone interrupted us.
     579423|00000000||Rather prickly, this friend of yours.
     579428|00000000||You've much in common.
     579430|00000000||How did you fare with the merchant?
-    579398|00000000||Get the horses?
+    579397|00000000||No.
     579406|00000000||I'd rather know how you fared with the merchant. Manage to get some horses?
-    585949|00000000||Buy 'em for you.
-    586015|00000000||Gotta be another way to solve this…
-    586070|00000000||Just so happens I got some coin I could lend you.
-    586017|00000000||We'd have no way to repay you.
-    586019|00000000||Wouldn't have to.
-    586063|00000000||Shame the emperor doesn't have another daughter. We could buy all the horses in Novigrad.
-    586026|00000000||A generous offer, but not one to resolve this situation.
-    586028|00000000||The merchant didn't object to our coin, he objected to us. "I'll not trade with such scum" - believe those were his words.
-    586094|00000000||And if he'll not trade, we've no choice but to steal from him.
-    586100|00000000||I dunno. Doesn't seem like the best idea…
-    586098|00000000||Don't like this idea.
+    579398|00000000||Get the horses?
+    579396|00000000||Yes.
+    579402|00000000||Bonfires, wine, jugglers… What more could you ask for?
+    579426|00000000||I can name a few things I'd trade it for, but it's a life…
+    579455|00000000||You seem concerned. Things not go well with the merchant?
+    579478|00000000||Bah, lost cause. The man refused to trade, I said I'd buy, he asked three arms and a host of legs for one healthy animal.
+    579495|00000000||We need horses. But we'll have to find another way to get them…
+    579530|00000000||Ho-ho, I sense trouble…
+    579532|00000000||I knew you'd warm to the notion.
+    579541|00000000||We mean to sneak into the man's stable. With thirty head, a few more or less won't make a difference in his life.
+    579547|00000000||Coming with?
+    579554|00000000||Of course!
+    579579|00000000||Can't just buy them?
+    579581|00000000||Just buy the horses. Why can't you?
+    579583|00000000||With what coin?
+    579598|00000000||Ciri gave you a full pouch…
+    579600|00000000||Enough for one at most. Whereas at the least we need four.
+    579602|00000000||Geralt, stop fussing. We'll not strip the merchant bare, and it's finally a chance to do something other than run from the Wild Hunt!
+    579618|00000000||Don't make us beg!
     586097|00000000||You've convinced me.
     577198|00000000||Ehh, what can I do? Gotta help those in need…
     577199|00000000||Yes, yes, yes!
@@ -843,69 +912,17 @@
    1058981|00000000||If Ciri wishes to ride with us, she should. She's not your property.
    1058983|00000000||I won't let her risk her neck for thieves.
     577196|00000000||Not about to steal.
-    579579|00000000||Can't just buy them?
-    579581|00000000||Just buy the horses. Why can't you?
-    579583|00000000||With what coin?
-    579598|00000000||Ciri gave you a full pouch…
-    579600|00000000||Enough for one at most. Whereas at the least we need four.
-    579602|00000000||Geralt, stop fussing. We'll not strip the merchant bare, and it's finally a chance to do something other than run from the Wild Hunt!
-    579618|00000000||Don't make us beg!
-    579478|00000000||Bah, lost cause. The man refused to trade, I said I'd buy, he asked three arms and a host of legs for one healthy animal.
-    579495|00000000||We need horses. But we'll have to find another way to get them…
-    579530|00000000||Ho-ho, I sense trouble…
-    579532|00000000||I knew you'd warm to the notion.
-    579541|00000000||We mean to sneak into the man's stable. With thirty head, a few more or less won't make a difference in his life.
-    579547|00000000||Coming with?
-    579554|00000000||Of course!
-    579402|00000000||Bonfires, wine, jugglers… What more could you ask for?
-    579426|00000000||I can name a few things I'd trade it for, but it's a life…
-    579455|00000000||You seem concerned. Things not go well with the merchant?
-    579396|00000000||Yes.
-    577174|00000000||That's Pablo. I plan to learn how to juggle one day.
-    579351|00000000||Incredibly useful skill.
-    579395|00000000||Finally found you two! Enjoying yourselves?
-    559344|00000000||There'll come a day when Avallac'h will ask you for a favor.
-    559348|00000000||Perhaps… But if so, it will be a very, very long time from now…
-    559350|00000000||And I'm certain whatever it is, he'll give me a choice. I will have the option to refuse.
-    559351|00000000||Hope you're right…
-    559321|00000000||If you say so…
-    559326|00000000||You doubt it?
-    559308|00000000||Hope you're right.
-    559300|00000000||It was the sorceresses of the Lodge once, now it's my father, even Yennefer…
-    559306|00000000||You're forgetting Avallac'h…
-    559307|00000000||Avallac'h's different…
-    559324|00000000||He is intent on my gift not falling into the wrong hands, not spinning out of control. It's why he teaches me, protects me.
-    559290|00000000||Then it's time to end this. Once we defeat Eredin, you'll be free.
-    559207|00000000||Really? Eredin's hardly alone. There are others, they have plans for me.
-    559380|00000000||We'll defeat Eredin. You'll be free.
-    559261|00000000||All because of this damned Elder Blood! My gift - my curse.
-    559270|00000000||It granted me all of these powers, but it's also why I've spent my life fleeing, hiding.
-    559285|00000000||Problem is, you're not. You were born to greatness.
-    559293|00000000||As I've been hearing since I was born.
-    559280|00000000||You were born to great things.
-    559183|00000000||Drunk or giggly? Whichever it is, today's your chance.
-    559189|00000000||Haha, not what I meant.
-    559197|00000000||I'd like to be ordinary.
-    559143|00000000||Drunk?
-    559084|00000000||Hahaha!
-    559132|00000000||You promised!
-    559134|00000000||In jest!
-    559074|00000000||Sometimes I wish I could be like them.
-    559056|00000000||What do you mean?
-    559050|00000000||What do you mean?
-    559025|00000000||I fear fighting the Hunt will only be the beginning. For me, at least.
-    559034|00000000||Defeating the Hunt won't be easy, but with the Lodge's support, Avallac'h's… We can do this.
-    559006|00000000||Good plan. Think I'll go with you.
-    559021|00000000||Then our future's settled.
-    559044|00000000||If, that is, there's more than ash left of us once this is over.
-    558988|00000000||Good plan.
-    537215|00000000||More wine?
-    537216|00000000||Thanks.
-    537217|00000000||I'm glad we stayed.
-    537218|00000000||Me too.
-    537219|00000000||They like you here.
-    537224|00000000||I like them, too. Ahh, I'd love to join them…
-    558985|00000000||Drink and race, travel from town to town. Not worry a whit about anything…
+    585949|00000000||Buy 'em for you.
+    586015|00000000||Gotta be another way to solve this…
+    586070|00000000||Just so happens I got some coin I could lend you.
+    586017|00000000||We'd have no way to repay you.
+    586019|00000000||Wouldn't have to.
+    586063|00000000||Shame the emperor doesn't have another daughter. We could buy all the horses in Novigrad.
+    586026|00000000||A generous offer, but not one to resolve this situation.
+    586028|00000000||The merchant didn't object to our coin, he objected to us. "I'll not trade with such scum" - believe those were his words.
+    586094|00000000||And if he'll not trade, we've no choice but to steal from him.
+    586098|00000000||Don't like this idea.
+    586100|00000000||I dunno. Doesn't seem like the best idea…
     172316|3a2616f8||Witch Hunter
     528874|00000000||Stand back! You'll all get a look soon enough!
     528875|00000000||Slag'll stay there till she rots!
@@ -1772,7 +1789,7 @@
     536822|00000000||Several. Nearest is through a well not far from here.
     562532|00000000||Did you arrange any help?
     562609|00000000||Here we are.
-   1059926|00000000||This is it? Hmm… Boulder was plugging the well ring until recently.
+   1059926|00000000||This is it? Hmm… Boulder was plugging the well until recently.
    1059928|00000000||Due to an edict Hemmelfart issued some years ago. But I managed to find two brawny and obliging passers-by who agreed to remove the impediment. For a modest fee, naturally.
    1059930|00000000||Here.
     562611|00000000||What is this?
@@ -1818,7 +1835,7 @@
    1061304|00000000||I'm glad you agree. Besides, you'd be worthless to us dead.
    1061314|00000000||So… you shan't hurt me?
     561395|00000000||No. You're gonna tell us your story, then be on your way.
-   1061316|00000000||Hm… so be it. But we really ought to go back to Kate's. It's, uh, unwise to linger in the street.
+   1061316|00000000||Hm… oh, so be it. But we, uh, really ought to go back to Kate's. It's unwise to linger in the street.
    1061319|00000000||Hm… No… Not really.
    1021996|00000000||What creatures enter the world 'neath a human veil - ye can never know.
    1021997|00000000||We, each one, use that veil as we will, how we will.

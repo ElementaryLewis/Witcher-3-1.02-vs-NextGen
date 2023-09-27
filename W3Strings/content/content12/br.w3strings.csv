@@ -1,5 +1,6 @@
 ;meta[language=cleartext]
 ; id      |key(hex)|key(str)| text
+    170811|72cb8ee5||Afogador
     581146|00000000||Aaaaaa!
     581147|00000000||Tenha piedade!
    1061012|00000000||Me solta! Rápido!
@@ -187,7 +188,6 @@
     579083|00000000||Pelko Sambor, cinquenta anos, dois filhos, um campo de centeio, e uma cabra...?
     579084|00000000||Faça o que quiser. Só tô falando.
     579046|00000000||Foi como eu disse. Ele tava trabalhando com os Cavaleiros Negros. *Cospe*
-    595889|83463c36||Ajudante de armeiro
     575034|00000000||Por aqui, senhor! É ele!
     575055|00000000||Você perdeu a cabeça?
     575023|00000000||Eu sabia logo de cara que eram de Nilfgaard! Espiões, quero dizer. Ele esconde eles já faz uma semana.
@@ -613,9 +613,9 @@
    1062268|00000000||Ambos pareciam invencíveis, mas ambos sofreram derrotas. O invasor de Nilfgaard, vindo do sul, foi afugentado no campo, enquanto o "líder supremo" do norte foi morto por assassinos.
    1062270|00000000||Na Redânia vitoriosa, um homem que, até esse momento, havia operado nas sombras, tomou as rédeas do poder. Esse homem era Sigismund Dijkstra.
    1062254|00000000||A 3ª Guerra do Norte terminou com o invasor do sul alcançando vitória total.
-   1062256|00000000||Sem a genialidade tática de Radovid, os Reinos do Norte não conseguiram resistir às incontáveis legiões do Emhyr.
+   1062256|00000000||Sem a genialidade tática de Radovid, os Reinos do Norte não conseguiram resistir às incontroláveis legiões do Emhyr.
    1062258|00000000||Bandeiras negras surgiram em Novigrad, assim como em toda a Redânia.
-   1062273|00000000||Com a vitória na guerra contra Nilfgaard, Radovid considerou essa a hora ideal para completar sua caça às bruxas.
+   1062273|00000000||Com a vitória na guerra contra Nilfgaard, Radovid considerou essa a hora ideal para a sua caça às bruxas.
    1062275|00000000||Como já acontecera em Novigrad, as piras queimavam em Teméria e Aedirn, terras "libertadas" pelo monarca da Redânia. A fim de uma renovação moral, herbalistas, curandeiros, não-humanos (todos supostamente hereges) foram assassinados.
    1062277|00000000||Para muitos, a liberdade sob o cetro de Radovid foi mais trágica do que a servidão perante outro.
    1062279|00000000||Após firmar-se como chanceler, Dijkstra reinou o norte vitorioso com sua maneira notoriamente cínica e cruel.
@@ -665,7 +665,6 @@
     572807|00000000||O cavalheiro irá seguir.
     572810|00000000||Vossa Majestade Imperial o aguarda...
     595913|6b1268cb||Camponês
-   1051424|f11e033c||Forjador
     583129|00000000||Ei! Segurem ele!
     583128|00000000||É assim que todos os traidores terminam. Vamos queimar as sementes da rebelião.
     584088|00000000||Pode assistir, de longe.
@@ -840,16 +839,6 @@
    1059074|00000000||Err... n-não.
    1059076|00000000||Não é exatamente nossa, tá mais pra um veículo capturado. Pode-se dizer que é um saque.
    1059078|00000000||Devem ter abandonado na pressa, pra onde, eu não sei. Seria uma pena se os redanianos o pegassem, pilhassem.
-    590603|00000000||*Mastiga mastiga mastiga morde morde* Ah, azedou. *Cospe*
-    590605|00000000||Olá. *Sniff*
-    590607|00000000||O que há de novo?
-    590609|00000000||Se não consegue aguentar o calor, sai da fornalha.
-    590619|00000000||Somente mercadorias de qualidade aqui, nenhum trapo velho.
-    590611|00000000||Todo homem forja seu próprio destino? Pff. Tá mais pra fode seu próprio destino.
-    590621|00000000||Vale alguma coisa? Essa espada nas suas costas?
-    590613|00000000||Procurando confusão?
-    590615|00000000||E agora? Preciso chamar ajuda?
-    590617|00000000||Socorro! Me ajudem!
     573535|00000000||Relatório.
     573530|00000000||Capitão!
     573536|00000000||A delegação de Novigrad está a meio dia de viagem daqui.

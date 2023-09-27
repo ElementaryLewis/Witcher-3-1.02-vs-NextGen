@@ -1,5 +1,6 @@
 ;meta[language=cleartext]
 ; id      |key(hex)|key(str)| text
+    170811|72cb8ee5||Ahogado
     581146|00000000||¡Aaaaah!
     581147|00000000||¡Piedad!
    1061012|00000000||¡Desátame! ¡Rápido!
@@ -187,7 +188,6 @@
     579083|00000000||¿Pelko Sambor, cincuenta años, dos hijos, un campo de centeno y una cabra?
     579084|00000000||Hagan lo que quieran. Yo les cuento lo que hay.
     579046|00000000||Es como les conté. Trabajaba con los Oscuros. *Escupe*
-    595889|83463c36||Ayudante de armero
     575034|00000000||¡Por aquí, señor! ¡Es él!
     575055|00000000||¿Estás mal de la cabeza?
     575023|00000000||¡Desde el principio supe que eran nilfgaardianos! Espías, quiero decir. Lleva una semana escondiéndolos.
@@ -665,7 +665,6 @@
     572807|00000000||El caballero debe seguirme, por favor.
     572810|00000000||Su Majestad Imperial aguarda.
     595913|6b1268cb||Campesino
-   1051424|f11e033c||Armero
     583129|00000000||¡Eh! ¡Atrápenlo!
     583128|00000000||Así es como terminan todos los traidores. Acabaremos con la rebelión de cuajo.
     584088|00000000||Puedes mirar desde lejos.
@@ -840,16 +839,6 @@
    1059074|00000000||Ehh... n-no.
    1059076|00000000||No es nuestro, exactamente. Es un vehículo capturado. Botín, podría decirse.
    1059078|00000000||Alguien debe haberlo abandonado en su huida, no sé a dónde. Sería una lástima que los redanianos se lo quedaran.
-    590603|00000000||Ñam, ñam, ñam, chup, chup, chup. Oh, se ha agriado. *Escupe*
-    590605|00000000||Eh, hola. *Snif*
-    590607|00000000||¿Qué hay de nuevo?
-    590609|00000000||Si no aguantas el calor, no te acerques a la forja.
-    590619|00000000||Aquí solo hay calidad, no mierda oxidada.
-    590611|00000000||¿Que cada hombre forja su destino? Pff. Lo jode, más bien.
-    590621|00000000||¿Vale algo? ¿El metal que llevas encima?
-    590613|00000000||¿Quieres un martillazo?
-    590615|00000000||¿Y ahora, qué? ¿Debo pedir ayuda?
-    590617|00000000||¡Ayuda! ¡Socorro!
     573535|00000000||Informa.
     573530|00000000||¡Capitán!
     573536|00000000||La delegación de Novigrado tardará medio día en llegar aquí.

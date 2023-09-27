@@ -29,7 +29,7 @@
     567932|00000000||Geralt, we need him alive.
     567933|00000000||Figured as much. Help me.
     583682|00000000||Just warmin' up. Well, what're you waiting for? Go call the next one.
-    425869|00000000||Let' go, next.
+    425869|00000000||Let's go, next.
     410018|00000000||A witcher, eh? Ye fight more like a little bitch. Get outta my sight, drifter.
     583686|00000000||Throat's dry… Going for a drink.
     583688|00000000||Go. But I hope to fight you again.
@@ -206,7 +206,7 @@
     591025|00000000||If dogs have figured it out, think I'll manage as well.
     581321|00000000||I need bait.
     511072|00000000||Witchers don't usually kill dragons, but I'll look into it. You said something about victims, right?
-   1034968|00000000||Two brothers, Askel and Nilas. Went out to hunt, turned into prey. Wounds so horrible even I went weak in the knees when they brought them in. And I've seen my share of bodily harm - been on thirty-two raids, from Poviss to the mountains of--
+   1034968|00000000||Two brothers, Askel and Nilas. Went out to hunt, turned into prey. Wounds so horrible even I went weak in the knees when they brought them in. And I've seen my share of bloody harm - been on thirty-two raids, from Poviss to the mountains of--
    1034970|00000000||Fascinating story, I'm sure, but I'm more interested in these wounds. Can you describe them?
    1034972|00000000||Look for yourself. Family's only now preparin' the boys' funeral. Their corpses still lie in their home, at the village's northern end. But treat the bodies with respect, mind ye. As tradition demands.
     511064|00000000||I'll look into it.
@@ -787,10 +787,10 @@
    1023216|00000000||So… See, thing is… Somethin's off, of late. I'm not on form. Havin' trouble with… ye know, uh…
    1023218|00000000||Aaah. I understand. You must make a brew of lovage. One hour before, you know, this, that, the other.
    1055110|231374e3||Skelliger
+    346241|fd7deb62||Adventurer
    1041758|00000000||Commencing annihilation.
    1041762|00000000||Collection compromised. Commencing beast teleportation.
    1041756|00000000||Intruder in library. Collection integrity compromised.
-    346241|fd7deb62||Adventurer
     567560|00000000||Air's thick with incense.
     567561|00000000||I'm gonna puke. It's as though--
     584211|00000000||Shh. Hear that?
@@ -1094,7 +1094,7 @@
     481053|00000000||Oh, come on, I was just teasing. Fool. I need you - period. Better?
     481055|00000000||Mhm. Better.
     480926|00000000||See you later.
-    478808|00000000||You won't help me track him… So I don't see any reason for you to go down there.
+    478808|00000000||You can't help me track him… So I don't see any reason for you to go down there.
     491935|00000000||You're right… Besides, trudging through mud in these heels would be murder.
     480897|00000000||Craven was here. Look… the impression - kneeled down on one knee… And cut himself to make the offering. Bloodstains… see them?
     480899|00000000||No… I may be inhumanly beautiful, but I don't have superhuman senses. Not like you.
@@ -1402,7 +1402,6 @@
     583672|00000000||Don't sell your fish till they're in the boat, Wolf.
     409992|00000000||Let's do this.
     415197|00000000||Gladly.
-    432590|d184d9f7||Wraith
     509696|00000000||Why rarely?
     509720|00000000||Rarely? Why?
     509721|00000000||Well, I don't like to waste time chattin' before fights, and after them I've none left to talk to.
@@ -1910,7 +1909,7 @@
    1002438|00000000||Betting he'll listen to his father's counsel. And probably sink any possible accord with Nilfgaard.
    1002444|00000000||That is certain. As long as any an Craite sits the throne of Skellige, there is no hope for peace with Nilfgaard.
    1002448|00000000||Can we talk?
-   1055702|5ec210eb||Drowner
+   1055702|5ec210eb||Drowned Dead
     557059|00000000||Arhaaam shinaaaz!
     557061|00000000||Hm... Geralt. Nice to meet you.
     557065|00000000||Ashk'harr ondh'daw!
@@ -1960,12 +1959,6 @@
     481226|00000000||I'll remember that. So long.
    1056448|00000000||Come again, eh?! Great things're bound to happen 'ere. Mark my words!
    1056462|00000000||I hope they do. Good luck.
-    481190|00000000||How's my cut of the earnings doing?
-    481206|00000000||Business is booming, far as I can see…
-    481207|00000000||Better believe it! Every man and his hound wants to fight in the Cursed Arena!
-    481208|00000000||My cut of the proceeds must've grown sizeable…
-    481209|00000000||And how! Here.
-    503357|00000000||Always a pleasure doing business in Skellige.
     503302|00000000||Thanks. So long.
     480998|00000000||Know anything about this specter? When'd it first appear?
     481000|00000000||Me grandda told me his grandda said the wraith was called Ulle the Unlucky. Lost every bout he entered, yet always recovered from his wounds. Ulle weren't even able to die like a man!
@@ -1995,9 +1988,7 @@
     480996|00000000||I'll take the job.
     480952|00000000||Don't have time for this. So long.
     481173|00000000||Sorry, not interested. So long.
-    481174|00000000||But unclean powers haunt the place, an accursed ghost!
     481175|00000000||So don't go in there.
-    481176|00000000||Aww, you can shove that advice up yer arse.
     545371|00000000||But if ye change your mind, a reward awaits.
     480997|00000000||Not interested.
     480995|00000000||What kind of wraith're we talking about?
@@ -2008,6 +1999,12 @@
     481229|00000000||Nothing's ever easy with specters.
     481230|00000000||Aye, I believe it took effort… And effort deserves compensation.
     480951|00000000||Got rid of the ghost.
+    481190|00000000||How's my cut of the earnings doing?
+    481206|00000000||Business is booming, far as I can see…
+    481207|00000000||Better believe it! Every man and his hound wants to fight in the Cursed Arena!
+    481208|00000000||My cut of the proceeds must've grown sizeable…
+    481209|00000000||And how! Here.
+    503357|00000000||Always a pleasure doing business in Skellige.
    1036744|00000000||Oh, witcher. Changed your mind, have ye?
     499376|00000000||Lookin' for a nook, lovebirds? Look elsewhere.
     499377|00000000||Castle staff only!
@@ -2097,8 +2094,7 @@
    1032476|00000000||I told ye Svanrige would show 'em!
    1032478|00000000||Just like Bran in his youth… To Bran!
    1032480|00000000||To Bran! Tuirseach!
-    174153|49292af3||Cyclops
-   1047249|baa6fb37||Jessie
+   1047249|baa6fb37||Jesse
    1024067|00000000||And it hurts, horrible. As if… As if somethin' was tearin' me apart from inside.
    1024069|00000000||You should go see the druids.
    1024071|00000000||I been already. They said their herbs can't help, and all that's left is to pray.
@@ -2329,7 +2325,6 @@
     582884|00000000||Favored her from the start.
     582886|00000000||I'm glad he won. Brave and valiant, that one.
     582890|00000000||The kind of king we need!
-    577863|d84f8157||Noonwraith
     481362|00000000||I defeated ye!
    1043937|00000000||Seems so. Congratulations.
     503462|00000000||But… but how? I was to lose till the end o' time…
@@ -2796,7 +2791,7 @@
    1018380|00000000||Truly?
    1018382|00000000||But… how is that possible? I still feel the same, you should too, I don't understand… What does this mean?
    1018384|00000000||Means the djinn granted your wish…
-   1007278|00000000||Right. Fine. Good. Glad we've got that over with. We know where we stand, at the least.
+   1007278|00000000||Right. Fine. Good. Glad we've got that over with. We know where we stand, at least.
    1007279|00000000||Naught left for us here, let's go.
    1018389|00000000||Wait.
    1018392|00000000||Magic's gone, true, but that doesn't mean I don't like spending time with you.
@@ -2810,7 +2805,7 @@
    1022543|00000000||Ow! What was that?
    1022545|00000000||It can't all be sweetness and light.
    1018415|00000000||Strange… Done that so many times, but… it felt like our first kiss to me.
-   1018417|00000000||It was in a way. Besides… Once you say "I love you," a kiss must taste differently.
+   1018417|00000000||It was, in a way. Besides… once you say "I love you," a kiss has to taste differently.
    1007230|00000000||Djinn mighta cheated us after all…
    1007231|00000000||Why?
    1008957|00000000||Cause I don't feel that anything's changed, either.
@@ -2846,11 +2841,12 @@
    1018400|00000000||We should get back.
    1018403|00000000||I'll take us to Kaer Trolde.
    1070867|00000000||Fang marks, claw marks, broken bones… Hard to say what exactly killed him.
-   1070869|00000000||So many wounds… No wonder Halbjorn bled to death.
+   1070869|00000000||So many wounds… No wonder Hjalborn bled to death.
    1070871|00000000||Young Lugos… Bears took him by surprise. Didn't have a chance to defend himself.
    1070873|00000000||Drogodar… Skald's played his last.
    1070877|00000000||Body's massacred. Hard to tell who it is… Steingrim, maybe?
    1070875|00000000||Otrygg… Shit, no more'n a kid.
+    174153|49292af3||Cyclops
     392478|00000000||A leshen. Male - very old.
    1074003|00000000||Dammit. Probably marked one of the villagers.
     583699|00000000||Then bring on someone sober. Think you can find one?
@@ -3104,7 +3100,7 @@
     585545|00000000||Your gold. Take it and get outta my sight.
     594818|00000000||What's this ab--?
     594820|00000000||My father sent a messenger. You were bound by honor to help me. Yet you demanded payment.
-    594822|00000000||Take your gold, go, and keep far away from our lands.
+    594822|00000000||Take your gold, go, and keep away from our lands.
     585539|00000000||Get up, Geralt.
     421428|00000000||Farewell.
     421422|00000000||Farewell.
@@ -3337,16 +3333,6 @@
    1087806|00000000||Are you mad, you twit?
    1087814|00000000||Begone.
    1087808|00000000||No amount of prayer can help you now.
-    572514|00000000||Seen the White Whale?
-    572516|00000000||Good day!
-    572520|00000000||You ain't from Nilfgaard, are youse?
-    572518|00000000||Well, my da's off fightin' the Black Ones.
-    572522|00000000||Watch it.
-    572524|00000000||I'll fetch me da!
-    572526|00000000||Mummy!
-    572528|00000000||Cheers!
-    572530|00000000||When will ye gimme my rod back?
-    572532|00000000||Ughh, rainin' again?
     506777|00000000||Looks like Ermion places something in the statue's hand.
     506785|00000000||So, statue, how about a skull…?
     506787|00000000||Hm… Guess you're no indecisive prince.
@@ -3430,6 +3416,30 @@
    1010648|00000000||We started talking about the past…
    1010650|00000000||But didn't finish.
    1003299|00000000||I wanna talk about the past, the Wild Hunt.
+   1123820|00000000||Yen, can we talk?
+   1123822|00000000||Why, so you can ask me if we can remain friends, despite all?
+   1123824|00000000||No, I-- I mean--
+   1123826|00000000||Come, now, Geralt. I know you. Well enough to know exactly what's going on with you and Triss.
+   1123829|00000000||Now, I cannot say I'm not tempted to, hm, intervene, but… I believe I'll let it lie this time.
+   1123832|00000000||How about that? You came here to fumble your way through an explanation, yet instead of enjoying the show, I went and did your job for you.
+   1123834|00000000||Seems so.
+   1123836|00000000||But now, enough of this maudlin business. We've something to do, remember?
+   1123983|00000000||Yen, wanted to talk about me and Triss…
+   1123797|00000000||So, feel any different after our encounter with the djinn?
+   1123799|00000000||Yes. Now I feel… regret.
+   1123802|00000000||Mean to say that--?
+   1123805|00000000||That I regret we didn't try that earlier. Much earlier.
+   1123808|00000000||Think we would've argued less?
+   1123810|00000000||Quite the opposite. But the other moments would have been more intense as well.
+   1123812|00000000||Moments like this.
+   1123984|00000000||Our encounter with the djinn - feeling any effects?
+   1126970|00000000||Listen… this mark - can you do anything about it?
+   1126973|00000000||I can scratch it if it itches, but I fear that's all.
+   1126975|00000000||I'm not joking, Yen.
+   1126977|00000000||Neither am I. These symbols… it's ancient, powerful magic. I've no notion how to remove them.
+   1126979|00000000||Dammit.
+   1126981|00000000||You're still one of the prettiest witchers around in my book. Second only to Lambert.
+   1126982|00000000||This mark - help me get rid of it?
    1002974|00000000||Why'd you two leave me at the Kingfisher?
    1002977|00000000||You and Triss have a good time?
    1002979|00000000||Splendid. We finally got the chance to talk.
@@ -3799,7 +3809,7 @@
    1050127|00000000||You've got our gratitude, Geralt.
     354109|00000000||This mead's clean.
     456844|00000000||Nothing here, either.
-    456846|00000000||Blood and mushrooms… Think we can find out where this barrel came from? Looks different…
+    456846|00000000||Blood and mushrooms… Think we can find out where this barrel came from? Looks different.
     582906|00000000||An Craite lasses got more spunk then their men!
     582908|00000000||Good on her! That's a queen I understand!
    1069978|00000000||Long live Hjalmar! Long live our new king!
@@ -3959,6 +3969,7 @@
     500857|00000000||See you.
     163718|00000000||Take care.
     163716|00000000||I'd like to reforge my sword.
+    421430|00000000||Need something crafted.
     500823|00000000||White Wolf!
     587236|00000000||Follow the thread…
    1055555|770e6af8||Boatwright's Apprentice
@@ -3978,12 +3989,12 @@
    1077543|00000000||Farewell.
    1077540|00000000||[Shaved head and ponytail.]
     577797|00000000||Take it you're good with scissors. Give me a haircut?
-    577798|00000000||Tain't somethin' I usually do… But it wouldn't be right to turn down a traveler.
+    577798|00000000||Tain't somethin' I usually do… but it wouldn't be right to turn down a traveler.
     577796|00000000||Can you cut my hair?
     421766|00000000||So long.
     421768|00000000||Come see me again some time.
     421764|00000000||Farewell.
-    421762|00000000||I'll look at your other goods.
+    421762|00000000||Let me look at your goods.
     421770|00000000||Gladly look at what you got.
     433871|00000000||Wise man. No common rags among my wares.
     409336|00000000||Greetings.
@@ -4057,7 +4068,7 @@
     437433|00000000||Mead in this one… Mff. And only mead.
    1070456|00000000||Mead… Untainted.
     303086|062190ab||Leshen
-   1074145|00000000||Sky cells… nice idea for a prison without bars. Shame he didn't how to fly.
+   1074145|00000000||Sky cells - nice idea for a prison without bars. Shame he didn't know how to fly.
     166193|00000000||My Gotten died a hero's death. Faced three Black Ones alone. They cut his arm off at the shoulder.
     171618|00000000||Holte slit his own throat - wouldn't let hisself be took prisoner.
     384682|00000000||Crach's sure to see that you're cared for.
@@ -4125,21 +4136,8 @@
     580584|00000000||Geralt, over here.
     371481|c38af1d3||Old Man
     490961|00000000||A Nithing. A powerful curse. Name carved on the shaft… Tjalve, son of Lothar.
-    432288|00000000||Mff. Earthy scent from the bear's maw. Something towards… mushrooms?
+    432288|00000000||*Sniff* Earthy scent from the bear's maw. Something towards… mushrooms?
     437435|00000000||Bowl's empty… but the scent's in the air, coming from… mff… somewhere else in this room.
-    578576|00000000||Any chance you play gwent?
-    578579|00000000||Oh, aye, it's a great passion. Wanna play?
-    578594|00000000||I'm ready. Let's do this.
-    578580|00000000||Yeah, let's play.
-    578595|00000000||Definitely, once I find some time.
-    578581|00000000||Some other time.
-    578592|00000000||Care for a game of gwent?
-    578593|00000000||Always, anytime.
-    578575|00000000||Heard you play gwent.
-    578598|00000000||Bravo! A grand win - congratulations!
-    578596|00000000||What can I say - a tailor-made victory. Better luck next time, witcher.
-    578600|00000000||You'll not find any worthy opponents here in Skellige. Skills like that you oughta test in Velen.
-   1042494|00000000||Play the baron, or that famous lad Haddy. Now those are opponents for you!
     350767|00000000||Help! Help me pa! Help him, please!
    1038235|00000000||Gotta keep looking… Good thing I at least know where.
    1038233|00000000||No sword here… Got a lead, though - there's that.
@@ -4147,7 +4145,6 @@
    1022284|00000000||Every lass would want a man like Udalryk… Devoted to the gods, brave…
    1022286|00000000||That's not bravery, that's bravado. And to my eye it's not got much to do with the gods.
    1022290|00000000||I think so, too. He was brave once, true, but now he acts like a madman.
-    421430|00000000||Need something crafted.
     421420|00000000||Need you to craft something for me.
    1028761|00000000||In the mood for some diversion. A game of gwent'd be best.
    1086482|00000000||Hankering to play cards. Up for a round or two?
@@ -4243,9 +4240,9 @@
     434490|00000000||Clearly what Destiny wanted - not for us to judge.
     439683|00000000||I piss on Destiny. We're talkin' about the Isles, not some sword in a pond!
    1050105|00000000||Gotta admit, I didn't think you could help us…
-    422532|00000000||Greetings. Care for a glance at our stock?
+    422532|00000000||Greetings. Wanna look over our stock?
     422534|00000000||Take it everything here's for sale?
-    422536|00000000||Arms shouldn't lie around, collecting dust. Certainly not if one comes around who'll put them to good use.
+    422536|00000000||Sure, if you can afford it. The Jarl's a stickler for quality so we keep no rubbish here.
     422538|00000000||Zerrikanian zefhars, Mahakam battle axes, Viroledan short swords… Where'd you get so many Continental goods?
     434397|00000000||The sea provides.
     434401|00000000||And if it doesn't provide on its own, you hack off hands that hold swords in a death grip?
@@ -4542,6 +4539,7 @@
     166803|05b6c502||Druid
     477233|068721d7||Slave
    1086145|e5e26ccb||Ice Troll
+    432590|d184d9f7||Wraith
     582939|00000000||Lugos was furious…
     582941|00000000||That one's always furious…
     582944|00000000||Rarely like that, and he's rare to leave.
@@ -4561,7 +4559,7 @@
     416092|103ab9ab||Bear
     585757|00000000||We…. We killed the King of the Wild Hunt!
    1001592|00000000||Nothin' to celebrate. Bugger always comes back.
-   1001474|00000000||See it? The razorback…. clear up high?
+   1001474|00000000||See it? The razorback... clear up high?
    1001475|00000000||Eh, too big for a razorback. That's a blue.
    1001476|00000000||A blue? With that short a snout? Herbs've robbed you of your senses!
    1001482|00000000||Hey, look! Flying fish!
@@ -4605,7 +4603,6 @@
     422432|00000000||New? Nothin'.
     422436|00000000||This ain't the Continent, fashions don't change with the meltin' snows. We live like our fathers and grandfathers lived - fishin', huntin', and raidin'… And so shall we live, to Ragh nar Roog and beyond.
     422414|00000000||You're back.
-   1055372|ad41ad88||Alghoul
     421262|00000000||What do you druids deal in these days?
     421258|00000000||Got anything to sell?
     421264|00000000||Farewell.
@@ -4615,7 +4612,7 @@
     499335|00000000||Then you're looking for Gremist. Never heard of anyone who would know more about plants and their attributes than he.
     499337|00000000||Where can I find him?
     499339|00000000||Here, in the grove. He's got a grotto. But Gremist's… well, he's a tad eccentric. And he stopped taking on apprentices ages ago.
-    421256|00000000||Welcome to the sacred grove.
+    421256|00000000||Welcome to the Sacred Grove.
     574713|00000000||Stead o' chattin', pray to the goddess. Ask her to grant ye victory… or at least let ye survive.
     574715|00000000||Freya smiled upon another today. Not surprisin'… she rarely looks kind on outlanders.
     574718|00000000||Make Freya an offerin' in gratitude. A black mare'd be best. Or a foal with a blaze on its muzzle.
@@ -4634,7 +4631,6 @@
    1022689|00000000||Sure, but you gotta cross the sea first! And this thing'll sink come the first storm!
    1022691|00000000||I said the same. But Hjalmar wouldn't listen. He says, "I'll die famous, or come back a rich man. Either way's good."
     374148|7e613e3d||Bjorg
-   1015555|0001853c||Dog
     591192|00000000||Well? What do you want?
     591193|00000000||To help you, drifter.
     591194|00000000||Know how to escape?
@@ -5161,7 +5157,6 @@
     520612|00000000||Ah, right. Nightingales croon.
     375497|00000000||Let's look around.
     495747|00000000||Can't help wondering what that accomplished, if anything. Time to see Udalryk.
-    166486|ca49f862||Sjusta
     429005|00000000||Geralt! Come! Think I've got an idea!
     375511|00000000||Geralt!
     585264|00000000||Three years. Three fuckin' years, pickaxe in hand.
@@ -5349,6 +5344,7 @@
    1054138|00000000||We'd do better to stay here, wait things out.
    1054140|00000000||Wha? 'Ere? It's damp… and dark…
    1054142|00000000||Which is why no one'll come crashin' in on us.
+    376129|00000000||Sharpened its claws. Or just marked off its territory.
     376131|00000000||Long claws. Downright impressive.
     376133|00000000||Strangled its prey. Then started feeding.
     376135|00000000||A strangler. Strange - didn't consume its prey.
@@ -5359,9 +5355,8 @@
     379569|00000000||Thin and deep cuts. Not unlike a razor…
     379571|00000000||Long, sharp claws, this one…
     381774|00000000||Rips apart its prey like a striga.
-    381776|00000000||Damn. Ripped to shreds.
     411223|00000000||Hair turned completely gray. Scared witless, probably.
-    376129|00000000||Sharpened its claws. Or just marked off its territory.
+    381776|00000000||Damn. Ripped to shreds.
     382080|00000000||Where'd the sirens come from?
     382086|00000000||Seen sirens around here before?
     382088|00000000||Aye, 'course. They fly in from Undvik, the isle cursed by the gods. Damned she-beasties…
@@ -6002,7 +5997,6 @@
    1048823|00000000||Don't fret. If I don't pass the trial, you'll soon forget about me.
    1048825|00000000||Don't say that!
    1048827|00000000||A man who's not a warrior ain't worth rememberin'.
-   1086181|31c0a5d0||Axel
     457303|00000000||He died in my arms… In my arms.
     587993|00000000||Grab a horn, Geralt! We've to drink!
    1049993|00000000||Yippee! The witcher killed the monster!
@@ -6012,7 +6006,7 @@
     349579|00000000||No, haven't met 'em.
     349581|00000000||If you do, tread careful. They're quick to stick a knife in a man's gut - often just by way of greetin'.
     452239|00000000||Doubt they'd try that with a witcher.
-    393484|00000000||Ye never know with that lot. Right, well, I head south soon. Haven't looked there yet. Fare ye well. We might could meet again someday.
+    393484|00000000||Ye never know with that lot. Right, well, I head south soon. Haven't looked there yet. Fare ye well. We might meet again someday.
     393463|00000000||I'll bite. What's the famous Djenge Frett need a witcher for?
     393479|00000000||I'm guessin' you're a man of the world. Perhaps you've come across the Grossbart brothers in your travels?
     393481|00000000||You hunting them?
@@ -6506,6 +6500,7 @@
     482344|00000000||First here, then on Hindarsfjall. What did they want?
     482391|00000000||They're looking for Ciri.
     482447|00000000||But… why?
+   1055689|f5e2163f||Black Troll
     491986|00000000||[Undress.]
     491988|00000000||[Wrap yourself in towel.]
     491989|00000000||[Remove towel.]
@@ -6830,7 +6825,7 @@
     587355|00000000||Let's look around. Could be nearby.
     458978|00000000||Arise! Arise and drink of the blood!
     349116|00000000||Greetings again. See - I had no intention of cheatin' you. Your coin.
-    349118|00000000||You're lucky. I'm not exactly known to be forgiving.
+    349118|00000000||You're lucky. I'm not exactly known for being forgiving.
     451492|00000000||Still, take my advice - find a new profession.
    1050135|00000000||For you, it must just be another dead beast. But for us - well, ye saved our lives!
     578452|00000000||Gwent - ever play the game?
@@ -6884,7 +6879,7 @@
     393307|00000000||What is it?
     393305|00000000||Sorry to trouble you, but I really have no choice…
     577812|00000000||Can you trim my hair? Way it is now, it gets in my eyes.
-   1067240|00000000||What can I do you for, traveler?
+   1067240|00000000||What can I do for ye, traveler?
     587217|00000000||*Sniffs* Wait. Same scent of incense… wafting down from above.
     580684|00000000||What's this?
     580685|00000000||Piece of cloth.
@@ -7040,7 +7035,7 @@
    1073942|00000000||No desire to be king yourself?
     522445|00000000||Cerys intend to lift Udalryk's curse?
     522460|00000000||Take it Cerys wants to lift the curse.
-    522527|00000000||There's no curse to speak of. Cerys has decided she must match Hjalmar and has sought out a deed worthy of a queen.
+    522527|00000000||There's no curse to speak of. Cerys has decided she must match Hjalmar and sought out a deed worthy of a queen.
     522762|00000000||Think she might need my help? You did plan to ask me for it. Why?
     522764|00000000||The thing is, I don't trust Udalryk further than I can spit. Cerys won't listen to me or her brother. Yet confronted by a professional who will explain why she's mistaken, she just might come to her senses.
     522766|00000000||So, yes, I ask that you explain things to her and bring her back.
@@ -7066,7 +7061,7 @@
     436017|00000000||No specific reason. She and Cerys - they're of a similar age. But we'll speak of my children later. First, let's speak of yours. Yennefer claims Ciri's in trouble, and you seek her.
     436019|00000000||That's right.
     376536|00000000||If you require aid - gold, ships, anything - merely say the word. I'll give you all I can.
-    435862|00000000||And I know the lass lives. I'm sure of it. When the blood of Rhiannon's daughters is shed, the sea grows white with fury. I'd mark such a storm.
+    435862|00000000||And I know the lass lives. I'm sure of it. When the blood of Riannon's daughters is shed, the sea grows white with fury. I'd mark such a storm.
     376540|00000000||How was it, Geralt, when Ciri was nearing womanhood?
     435866|00000000||I remember well her nan, her mother… what they were like. They say the apple doesn't fall far from the tree…
     521459|00000000||Ciri was impossible to control. No telling her what to do. Had to have things her own way, almost always. Why do you ask?
@@ -7079,6 +7074,7 @@
     502278|00000000||The hym's gone. So are the voices that tortured you.
     502295|00000000||Don't worry, it'll pass.
     502299|00000000||You're disoriented, but don't worry, it'll pass.
+    502328|00000000||What will you do?
     502329|00000000||Farewell.
     502331|00000000||Good idea. Take care of yourself.
    1064951|00000000||Generalize much? I'd say when someone's got a good idea, there's no reason to deny it - and whether they're man, woman or dwarf doesn't come into play.
@@ -7107,7 +7103,6 @@
     502313|00000000||I'll stay a few days, make sure he's healthy. And you? Gonna stay on Spikeroog?
     502315|00000000||Don't know yet. Gotta gather my thoughts.
     502317|00000000||I'm sure Yennefer must be growin' impatient…
-    502328|00000000||What will you do?
     502302|00000000||I feel… as if someone's torn something from me.
     502303|00000000||That's normal. The hym was a parasite. Bonds between parasites and hosts can be strong. That's why you feel empty now.
     502305|00000000||Give it a few days, weeks, you'll be fine.
@@ -7125,7 +7120,6 @@
     488853|00000000||We tricked the hym. It thought I'd killed your child, abandoned you to haunt me, feed on my conscience.
    1065890|00000000||But when it saw the babe was whole, unharmed, it had to go. You're free, Jarl!
     488855|00000000||Free…
-   1054905|0c236fb5||Barber
     481363|00000000||That was useless. Others've defeated Ulle before me, and he's always come back. Gotta think of something else.
    1024615|00000000||And what if Craven told the truth? What if he didn't abandon us, but was--
    1024617|00000000||Stop. I won't speak of him.
@@ -7319,12 +7313,12 @@
    1087818|00000000||We serve Her who is Virgin, Mother and Crone.
    1087820|00000000||Away with you.
    1087822|00000000||Watch your strut!
-   1074372|00000000||Ugh, witchers. I see you're inclined to respond to the call of the wild…
-   1074374|00000000||Ah, fine. In that case, meet me at Larvik.
    1074364|00000000||Decided to keep me company?
    1074366|00000000||Never know what might come at you deep in a dark forest.
    1074368|00000000||You think someone may wish to hurt me?
    1074370|00000000||Think I should warn off anyone who'd be dumb enough to try.
+   1074372|00000000||Ugh, witchers. I see you're inclined to respond to the call of the wild…
+   1074374|00000000||Ah, fine. In that case, meet me at Larvik.
     480695|00000000||I'm guessing you have a plan…
     480701|00000000||Take it you've got a plan?
     480703|00000000||No, I just like to stare at rotting flesh!
@@ -7602,7 +7596,7 @@
     172132|00000000||So maybe the gods do exist?
     172134|00000000||Find me a king who'll kill a god and plough a goddess, and I'm his man.
     551352|00000000||Soothsayers augured the truth…
-    550947|00000000||A fine beauty, golden-haired and ruddy -cheeked…
+    550947|00000000||A fine beauty, golden-haired and ruddy-cheeked…
     550949|00000000||And her mum went and gave her up to Freya!
     550951|00000000||If you're gonna talk rubbish, best not talk at all.
     550960|00000000||Mmm… Mm… Maybe just... invite her for a snifter? At the inn?
@@ -8219,77 +8213,6 @@
    1010318|00000000||God-fearing warriors…
    1010317|00000000||Brothers entrusted themselves to the goddess before they died.
    1010316|00000000||Freya's symbol… scrawled in blood…
-    427115|00000000||Sailors sound this in fog, to warn their crews about rocks they spot.
-    427117|00000000||No use to me now.
-    427111|00000000||The horn to drive away the sirens. Might come in handy.
-   1072431|00000000||Hm, probably planned to repair it.
-    522396|00000000||Got hit good…
-    522404|00000000||Kept going… though he could barely walk.
-    524408|00000000||Sliced her up… Two men, looks like.
-    420192|00000000||The Undvik Massacre, they call it - no exaggeration there.
-    421298|00000000||Lots of old tracks. Giant must've come through here often…
-    524132|00000000||Scavengers got to this one.
-    524370|00000000||Giant tried to get inside… Looks like he gave up.
-    422614|00000000||Sirens swooped down on 'em… probably knocked them off the bridge.
-    416899|00000000||Giant tracks.
-    309574|00000000||"Sea graves." How the islanders bury their fallen.
-    518018|00000000||Tunnel caved in…
-    524396|00000000||Clean cut. Head probably went flying.
-   1072406|00000000||Hjalmar's man. Bled to death while trying to escape. Wonder what happened to his cohorts…
-    309604|00000000||Signs of a battle.
-    524140|00000000||Broken back. As if he fell from a height.
-    522462|00000000||Archer finally caught up to him.
-    522521|00000000||Took a second arrow here. Got him good this time.
-    522522|00000000||Now where'd that archer go?
-    522437|00000000||Hm. Made it quite a ways…
-    523591|00000000||Must be one of Hjalmar's men…
-    522268|00000000||One arrow in each… Good eye.
-    522269|00000000||Nekkers slowed the pursuer.
-    522317|00000000||Archer was determined to kill him… Wonder why.
-    522316|00000000||Someone used this as cover.
-    524212|00000000||Hjalmar's encampment. They were attacked.
-    523532|00000000||Trolls dragged him into the cave. Wonder if he's still alive.
-    309578|00000000||Someone dragged a litter through here.
-    417761|00000000||Giant came down the mountain, barged into the village… then kicked the gate down from the inside.
-    522245|00000000||Shot him as he fled…
-    523546|00000000||Cornered him. Like a hunter.
-    522216|00000000||Didn't come back for his arrows.
-    447356|00000000||Boiled to death…
-    518382|00000000||Bled to death…
-    309606|00000000||They fought the giant here.
-    524412|00000000||Shot half a quiver into her.
-    517980|00000000||Fought to the bitter end.
-    517314|00000000||Giant chased them…
-    518017|00000000||Rest of the crew went on… Wonder how many were left.
-    518019|00000000||Hjalmar lost a lot of men here.
-    309586|00000000||Several men… Dragged a boat north.
-    524139|00000000||Many wounds, must've fought for a long time.
-    420302|00000000||Need to find another way.
-    413563|00000000||Try to break through.
-    309580|00000000||Wonder what caused the avalanche.
-    524144|00000000||Didn't even manage to draw his sword…
-    420033|00000000||Show me a pantry, and I'll show you the mice.
-    522418|00000000||Lost a lot of blood, couldn't have gone much further.
-    309584|00000000||Clan an Craite.
-    524087|00000000||Hmm... something cooking over there.
-    524136|00000000||Severed artery, bled to death in seconds.
-    309576|00000000||Clan an Craite emblem. Must be Hjalmar's longboat.
-    310732|00000000||Damn corpse-eaters.
-    522372|00000000||Bleeding heavily… strength probably waning.
-    522373|00000000||Got hit here first, but kept going.
-    417272|00000000||They ran towards the caves…
-    417278|00000000||Blood. Lots of it.
-   1072363|00000000||These tracks're older. Somebody left the camp before the attack…
-    309592|00000000||Two people came through here… Separately.
-    524131|00000000||Throat torn open by claws. Sirens…
-    417280|00000000||Blood trail leads to the cave.
-    417274|00000000||Someone tripped and fell - but managed to get away.
-    309582|00000000||Impaled him on a tree…
-    524409|00000000||Didn't make it out in time. Two sirens less.
-    524413|00000000||Split her in two.
-    523664|00000000||Archer was wounded, too.
-    522209|00000000||Landed smack in a nekker's lair and cut the beast down. Hardy folk, these Skelligers.
-    524135|00000000||Fought barefoot - sirens caught them by surprise.
     560061|00000000||Trapdoor under a bearskin rug… Classic.
     587468|00000000||C'mon. Open it.
    1022389|00000000||Einar's back from a raid. They say when he lost his axe, he went to smashin' Nilfgaardians with his bare hands.
@@ -8365,7 +8288,7 @@
    1006948|00000000||You're getting better at this.
    1006949|00000000||Go even quicker if you helped me down there.
    1008033|00000000||I prefer to observe matters from up here, most definitely.
-   1017442|00000000||Yeah, like when we were looking for the dragon and an avalanche swept us off the trail?
+   1017442|00000000||Yeah, like when we were looking for the golden dragon and an avalanche swept us off the trail?
    1017443|00000000||Me clinging to the remains of a bridge for dear life, you gripping my waist, admiring the view. Remember?
    1017480|00000000||Chasm below us was breathtaking - rustling trees, a lazily flowing stream…
    1017444|00000000||I remember… Though I found myself admiring what I had right in front of me.

@@ -1,5 +1,6 @@
 ;meta[language=de]
 ; id      |key(hex)|key(str)| text
+    170811|72cb8ee5||Ertrunkener
     581146|00000000||Aaaaaa!
     581147|00000000||Gnade!
    1061012|00000000||Binde mich los! Schnell!
@@ -187,7 +188,6 @@
     579083|00000000||Pelko Sambor, fünfzig Jahre, zwei Kinder, ein Roggenfeld und eine Ziege ...?
     579084|00000000||Mach, was du willst. Ich hab's jedenfalls erzählt.
     579046|00000000||Ich sag euch, wie's ist. Er hat den Schwarzen geholfen. *Spuckt*
-    595889|83463c36||Gehilfe des Schmieds
     575034|00000000||Da drüben, Herr! Das ist er!
     575055|00000000||Bist du verrückt geworden?
     575023|00000000||Ich wusste gleich, dass es Nilfgaarder sind! Spione, meine ich. Er versteckt sie jetzt seit einer Woche bei sich.
@@ -665,7 +665,6 @@
     572807|00000000||Folge er mir bitte.
     572810|00000000||Seine Kaiserliche Majestät wartet ...
     595913|6b1268cb||Bauer
-   1051424|f11e033c||Waffenschmied
     583129|00000000||Hey! Ergreift ihn!
     583128|00000000||So werden alle Verräter enden. Wir werden die Rebellion im Keim ersticken.
     584088|00000000||Und du kannst uns aus der Ferne dabei zusehen.
@@ -840,16 +839,6 @@
    1059074|00000000||Äh ... nein.
    1059076|00000000||Das ist eigentlich nicht direkt unserer, eher ein gekapertes Fahrzeug. Beute, könnte man sagen.
    1059078|00000000||Die Leute haben ihn offenbar in der Eile zurückgelassen - wohin sie geeilt sind, weiß ich nicht. Aber es wäre doch eine Schande, wenn er den Roten in die Finger fiele.
-    590603|00000000||*Kau, mampf, schmatz* Ah, sauer geworden. *Spuck*
-    590605|00000000||Grüß dich. *Schnupper*
-    590607|00000000||Was gibt's Neues?
-    590609|00000000||Wenn du Hitze nicht verträgst, geh aus der Schmiede.
-    590619|00000000||Hier gibt es nur Qualitätsware, keinen rostigen Schrott.
-    590611|00000000||Jeder ist seines Schicksals Schmied? Pff. Eher sein Henker.
-    590621|00000000||Ist das was wert, das Metall auf deinem Rücken?
-    590613|00000000||Paar kräftige Schläge gefällig?
-    590615|00000000||Und nun? Soll ich um Hilfe rufen?
-    590617|00000000||Hilfe! Rettet mich!
     573535|00000000||Sprich.
     573530|00000000||Hauptmann!
     573536|00000000||Die Abordnung aus Novigrad ist eine halbe Tagesreise von hier.

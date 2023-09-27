@@ -43,6 +43,7 @@
     422235|00000000||Passar bem.
     422231|00000000||Me mostre suas mercadorias.
     422237|00000000||Me mostre o que você tem aí.
+    432590|d184d9f7||Aparição
    1037370|00000000||Que porra eu vou fazer agora?! Ein?! O quê?!
    1037368|00000000||Cinquenta... anos... de trabalho... Em chamas!
     594289|00000000||Vou chamar a minha mãe!
@@ -98,7 +99,7 @@
    1017042|00000000||Ahn. A pele tá queimada. Pode ser difícil dizer, eu sei, mas... será que esse é ele?
    1017043|00000000||Eu... Bastien era grande, com ombros largos. Esse aqui parece menor. Mas talvez o fogo fez isso...
    1026176|00000000||Não... não parece em nada com ele.
-    477733|3fbb3904||Oficial nilfgaardiano
+    477733|3fbb3904||Oficial de Nilfgaard
    1058038|00000000||Ei, qual é o seu problema?
    1058040|00000000||Tá me ouvindo?
    1058036|00000000||Bêbado de novo, hein?
@@ -427,6 +428,7 @@
     549288|00000000||E não queríamos nos envolver... Venha, vamos embora.
    1056370|00000000||Yennefer, como eles...
    1056372|00000000||Falaremos sobre isso amanhã, tudo bem? Após a audiência.
+   1075783|00000000||{Goc'hel!!! } [Cuidado!!!]
    1056355|00000000||Sabe... sonhei com você recentemente.
    1056357|00000000||Conhecendo você, provavelmente foi indecente.
    1056359|00000000||Só o começo. Mas depois...
@@ -910,7 +912,7 @@
     576094|00000000||Achava que você era tradicionalista.
     576097|00000000||Um bruxo com uma besta? Vamos quebrar a tradição?
     576105|00000000||Para de falar. Tenho um grifo para matar.
-    451163|cc663b8e||Varejista
+    451163|cc663b8e||Comerciante
    1049576|00000000||{N'ees tedd a thu. } [Não tenho tempo para você.]
    1049574|00000000||{Hael Ker'zaer. } [Vida longa ao imperador.]
    1049578|00000000||{Bu'rac. } [Caipira.]
@@ -1815,7 +1817,6 @@
    1049563|00000000||*Boceeeeeja*
    1049561|00000000||{Va caelm! } [Acalme-se!]
    1049567|00000000||{Glaeddyv vort. } [Abaixe a sua espada.]
-    432590|d184d9f7||Aparição
    1043949|00000000||Vai embora.
    1043951|00000000||Saia da minha frente.
    1043953|00000000||Arrgh!

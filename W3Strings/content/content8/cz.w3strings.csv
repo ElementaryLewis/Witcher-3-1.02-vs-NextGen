@@ -30,6 +30,7 @@
     546798|00000000||Já to zvládnu, neboj se.
    1076925|00000000||Ves… nezlob se.
     572659|00000000||Přitáhnout sem královraha nebylo chytré.
+    301032|5a979acb||Válečník Divokého honu
     307008|103d66e3||Zajíc
     550116|00000000||Nezájem.
     550129|00000000||Nevím a je mi to docela jedno, abych se přiznal.
@@ -139,10 +140,38 @@
     536186|00000000||Chtěla jsem ti vynadat, žes mě nepožádal o pomoc. Ale už to po cestě schytal tady Roche.
    1061994|00000000||Rád tě zase vidím.
    1061992|00000000||Sakra, rád tě zase vidím.
+   1123852|00000000||Ne... pojďme. Čekají na nás.
+   1123849|00000000||Ne, pojďme.
+   1123855|00000000||Pokud ti to opravdu nevadí...
+   1123858|00000000||Zdá se, že to vzala dost dobře.
+   1123860|00000000||Nebo chce, abychom si to mysleli.
+   1123863|00000000||Už jsi tu nějakou dobu nebyla, že?
+   1123865|00000000||Až moc dlouho. Jak se má pokoj pro hosty? Nějaká změna?
+   1123867|00000000||Mhm. Postel... eh, rozbila se.
+   1123869|00000000||To nevadí. Budeme spát na zemi. Natáhneme kožešinu a...
+   1123872|00000000||Ehm.
+   1123874|00000000||Asi bychom měli jít.
+   1123850|00000000||Jen pokud ti to opravdu nevadí...
+   1123843|00000000||Chcete chvilku o samotě?
+   1123846|00000000||Promiň, nechtěli jsme--
+   1123848|00000000||Já vím. Je to prostý dotaz. Chcete být nějaký čas sami?
     462992|00000000||Rád tě vidím, Triss.
     522511|00000000||Poděkuj Yennefer. To ona mě pozvala.
     549984|00000000||Popovídáme si později. Teď bychom se měli poradit.
-    522515|00000000||Nějak se ochladilo. Pojďme. Musíme svolat poradu.
+   1123878|00000000||Asi... vás dva na chvilku opustím.
+   1123880|00000000||Triss, prosím...
+   1123882|00000000||Ne, ne. Museli jste si strašně chybět. Minuta navíc nikomu neublíží.
+   1123889|00000000||Dobrá, tak minutu, pak půjdeme. Ano?
+   1123892|00000000||Hm. Je to trošičku trapné...
+   1123894|00000000||Čtyřicet pět sekund.
+   1123896|00000000||Hm?
+   1123898|00000000||Zbývá nám čtyřicet pět sekund. No, teď už třicet. A pak Divokému honu hodíme rukavici. Takže tě prosím, dobře těch sekund využij.
+   1123901|00000000||Yen, já tě zbožňuju.
+   1123903|00000000||Hm. Nula bodů za tvůrčí přístup. Ale za tu upřímnost...
+   1123906|00000000||Je čas jít.
+   1123884|00000000||Dobrá, tak tedy minutu, pak půjdeme.
+   1123883|00000000||Ne. Radši bychom měli všichni jít.
+   1123886|00000000||Ne, měli bychom jít. Čekají na nás.
     522544|00000000||Pojďme, ať nestojíme tady venku.
     520117|00000000||Ano, pojďme, měli bychom se poradit.
    1061996|00000000||Času je málo. Divoký hon tu brzy bude.
@@ -158,6 +187,7 @@
     522486|00000000||Ty ses vůbec nezměnila. Ani jeden z vás... pořád jste takoví, jaké si vás pamatuju.
     522488|00000000||Cože?
     549628|00000000||Sestřičko moje.
+    522515|00000000||Nějak se ochladilo. Pojďme. Musíme svolat poradu.
    1061976|00000000||Yen, ty znáš Divoký hon líp než kdokoliv jiný. Pověz nám, jakou magii používají.
    1061978|00000000||Jejich navigátoři otevírají portály, trhliny, které můžeme ničit dwimeritem nebo naši vlastní magií.
    1061980|00000000||Také vyvolávají mráz, který se nachází v prázdnotách, kterými procházejí.
@@ -259,15 +289,15 @@
     524776|00000000||Ni'l ceim siaar!
     524777|00000000||Trooid'i!
     524775|00000000||Hoinne heets!
+    524355|00000000||Neměl bych to odkládat – čeká mě válka proti těm černým parchantům.
+    524360|00000000||Na mě se můžeš spolehnout, víš? Vždycky.
+    524362|00000000||Já vím. Díky.
+    565580|00000000||Sbohem.
+    566135|00000000||Měj se dobře, Hjalmare.
     524358|00000000||Povinnost volá.
     524369|00000000||Ale poslyš, Geralte, máš teď za přítele krále. To o sobě nemůže tvrdit jen tak někdo.
     524471|00000000||Kdybys ty, nebo Ciri, nebo ty a Ciri... prostě kdybyste někdy potřebovali pomoc, brány Kaer Trolde jsou pro vás otevřené.
     565588|00000000||Díky, budu si to pamatovat.
-    565580|00000000||Sbohem.
-    566135|00000000||Měj se dobře, Hjalmare.
-    524355|00000000||Neměl bych to odkládat – čeká mě válka proti těm černým parchantům.
-    524360|00000000||Na mě se můžeš spolehnout, víš? Vždycky.
-    524362|00000000||Já vím. Díky.
     565582|00000000||Vracíš se rovnou zpátky na Skellige?
     565579|00000000||Vracíš se rovnou na Skellige?
     321589|00000000||Tady jsi.
@@ -406,41 +436,6 @@
     520110|00000000||A propásnout takovou příležitost? Ani nápad!
     520111|00000000||Jenom je mi líto, že tady s námi nemůže být i Vigi.
     541556|00000000||Já jsem tak rád, že tě vidím!
-   1000357|00000000||Jak to vypadá, za chviličku už Ciri tvou pomoc potřebovat nebude.
-   1000359|00000000||Tvou také ne.
-   1000361|00000000||Pravda. Bude si dělat, co bude chtít - a já ji budu podporovat. A co ty? Jsi připraven nechat ji žít její život?
-   1000362|00000000||Nebudu ji do ničeho nutit, jestli ti jde o toto.
-   1000123|00000000||Brzy už Ciri tvou pomoc potřebovat nebude.
-   1000343|00000000||Hezký svět to vy Aen Elle máte. Snadno bych se do toho místa zamiloval.
-   1000345|00000000||Řekni mi... Jak to děláte? Různě posedáváte a hrajete na flétnu, malujete jednorožce v říji s nádhernými krajinkami, stavíte zdobně tesané věže...
-   1000347|00000000||A pak nás vyrazíte vyvraždit. Ani nehnete brvou. Bez jediného náznaku viny. Jak?
-   1000349|00000000||Cítíte vy lidé lítost, když vraždíte elfy Aen Seidhe? Nebo trpaslíky? Nebo dryády?
-   1000351|00000000||Jsme stejní... Už jen proto, že všichni pěvně věříme tomu, že ostatní jsou podřadní.
-   1000121|00000000||Překrásný, tenhle svět Aen Elle.
-   1000353|00000000||Možná mě obviníš, že jsem typicky primitivní člověk - ale proč Ge'else prostě nezabijeme?
-   1000337|00000000||Protože bychom z toho v krátkém důsledku nic neměli... A toho dlouhého bychom se nemuseli dožít.
-   1000339|00000000||U Ge'else nejde o to, co provádí na bojišti, ale mimo něj. Manipuluje. Lže. Udržuje Aen Elle v šachu.
-   1000341|00000000||Když ze šachovnice odebereš pěšáka, výsledek zápasu nezměníš. Ale když ho tam necháš, můžeš s jeho pomocí změnit pravidla.
-   1000355|00000000||Pořád jsi mi nevysvětlil, proč se s tím lstivým Ge'elsem pářeme místo toho, abychom ho prostě zabili.
-   1000122|00000000||Proč Ge'else prostě nezabijeme?
-   1000285|00000000||Pověz mi ještě něco o Caranthirovi. Znáš ho dobře?
-   1000287|00000000||Jestli ho znám? Já ho stvořil.
-   1000289|00000000||Nemyslíš vychoval?
-   1000291|00000000||Ne, Geralte. Začal jsem ho utvářet dlouho předtím, než se narodil.
-   1000293|00000000||Po staletí jsem... dával dohromady páry elfů, již vykazovali jisté vlastnosti... Ty se schopností ohýbat čas a prostor. On je výsledkem toho snažení. Caranthir, zlaté dítě.
-   1000295|00000000||Zlaté dítě, ze kterého vyrostl zločinec.
-    307750|00000000||Caranthir - pověz mi o něm.
-   1000192|00000000||Sbohem.
-   1000125|00000000||Sbohem.
-   1000124|00000000||Proč pomáháš Ciri?
-   1000196|00000000||Když jsi poprvé Ciri potkal, uvěznil jsi ji. Teď ji chráníš... zatímco bojuješ proti vlastnímu druhu. Tos teda pěkně otočil.
-   1000198|00000000||Zaprvé, já ji neuvěznil. Ona našla mě. Byl to její osud.
-   1000200|00000000||Jo, jasně. Dostaň se k "zadruhé". Proč jí pomáháš?
-   1000202|00000000||Protože představuje hrozbu. Smrtelnou.
-   1000204|00000000||Ty se na ni díváš a vidíš člověka, chráněnku, dokonce dceru. Já se na ni dívám a vidím Starší krev. Moc, která dokáže zničit svět. Moc, kterou je třeba bránit před Eredinovýma mocichtivýma rukama za každou cenu.
-   1000206|00000000||Připouštím, že naše důvody se různí. Ale přesto je náš cíl společný. Takže uděláš dobře, pokud mi budeš věřit... nebo to alespoň zkusíš.
-   1000194|00000000||Ano, Geralte?
-   1000190|00000000||Najdi Zireael... Čas je neúprosný...
     531907|00000000||Zajímalo by mě, jestli ho to sejmulo.
     531908|00000000||Imleritha? Pochybuju.
    1063050|00000000||Yennefeřino kouzlo slábne! Vichřice už je skoro u pevnosti!
@@ -769,7 +764,7 @@
     563001|00000000||Nechci do toho zatahovat Lóži.
     563003|00000000||Lóže je roztříštěná.
     563005|00000000||Většina členek Lóže už je po smrti a zbytek se někde schovává.
-    563007|00000000||Filippa Eilhart, Margarita Laux-Antille a Fringilla Vigo jsou s nejspíš ještě naživu.
+    563007|00000000||Filippa Eilhart, Margarita Laux-Antille a Fringilla Vigo jsou nejspíš ještě naživu.
     563009|00000000||A co Francesca a Ida? Myslíš, že by se nechaly přemluvit?
     563011|00000000||Bude je třeba přesvědčit. Promluvila bys s Keirou raději sama?
     579417|00000000||Asi by to bylo lepší.
@@ -790,6 +785,28 @@
    1003649|00000000||To určitě. Ale Avallac'h tvrdí, že na to nemají ani znalosti ani schopnosti. On se to učil čtyři století, a stejně umí jen hledat a používat existující portály.
    1003653|00000000||Já můžu jít, kam chci a kdy chci.
    1003636|00000000||Jaké to je, cestovat mezi světy?
+   1127038|00000000||To znamení, co mám na obličeji - je to vidět? Nebije to moc do očí?
+   1127041|00000000||Ts… trošku. Ale tím se nesmíš trápit.
+   1127044|00000000||Víš, lidi pořád zírají na tu mou jizvu, co mám na tváři. Dřív mě to hodně štvalo.
+   1127046|00000000||A?
+   1127048|00000000||Začala jsem si na haleně rozepínat o jeden knoflík víc. A bylo vyřešeno.
+   1127049|00000000||Vypadá to znamení na mé tváři hrozně?
+   1127066|00000000||Nevím, jestli se ti to doneslo, ale... až bude po všem, půjdu do Koviru.
+   1127068|00000000||S Triss.
+   1127070|00000000||Mhm.
+   1127072|00000000||Zajímavá část světa. Možná tam obdržíš zakázku na nějakou vzácnou sněžnou příšeru. Na barbegazi, vendiga… nebo, hm, na amaroka.
+   1127074|00000000||Nebo možná konečně pověsím meče na hřebík.
+   1127076|00000000||To je to s ní až tak dobré?
+   1127078|00000000||Lepší.
+   1127063|00000000||Víš... až to tady skončí, půjdu do Koviru.
+   1127081|00000000||No... potřeboval bych poradit. Ohledně Yennefer.
+   1127083|00000000||Nuže dobrá. Ptej se.
+   1127086|00000000||Věc se má tak... rád bych ji někam vzal. Až bude po všem. Na nějaké... malebné místo. Někam, kde je krásně. Kde budeme moct odpočívat.
+   1127088|00000000||Tys byla skoro všude. A taky Yen dobře znáš. Napadá tě něco? Mě napadá Spalla nebo možná Dol Blathanna...
+   1127090|00000000||Do první hospody u cesty, na kterou narazíš. Tam ji vezmi. Zaplať na měsíc dopředu, na dveře pokoje vyryj "Nerušit" a zavři je za sebou.
+   1127092|00000000||He. Prostě jen tak?
+   1127094|00000000||Prostě jen tak.
+   1127064|00000000||Potřebuju poradit. Ohledně Yennefer.
    1003655|00000000||Jak je možné, že tě Eredin umí najít?
    1003573|00000000||Když přecházím mezi světy, vytvoří to jakousi energetickou vlnu. Každý s trochou cviku ji dokáže zachytit. Tak to alespoň vysvětluje Avallac'h. On to umí taky.
    1003666|00000000||Takže bys své schopnosti vlastně neměla používat...
@@ -819,7 +836,7 @@
     562491|00000000||Taky si chci zabojovat.
     562497|00000000||Nemůžu tady jen tak nečinně sedět, když pro mě ostatní riskují život.
     562499|00000000||Mazej zpátky dovnitř!
-    575678|00000000||Tojflšajze!
+    575678|00000000||Duvvelsheyss!
     562501|00000000||Ne! Geralt v lese odpálil znamení, ale Triss neseslala žádné kouzlo!
     562503|00000000||Zatraceně! Utíkej za ní!
     562493|00000000||Nemůžu se schovávat pořád! Musím se jim postavit!
@@ -827,6 +844,8 @@
     562490|00000000||Musím se jim postavit tváří v tvář.
     529468|00000000||Měla jsi počkat uvnitř!
     529686|00000000||Vydrž, Triss!
+   1077974|00000000||Gvaed, gvaed uncym, cym’morth!
+   1077970|00000000||Aaaaaaaaaaaaaaa!!!
    1077942|00000000||Geralte… Kde je? Musíme--
    1077944|00000000||…
    1077946|00000000||Tentokrát mi neunikneš!
@@ -843,8 +862,6 @@
    1077968|00000000||Neeeeeeeeee!
    1077938|00000000||Pojď!
    1077940|00000000||…
-   1077974|00000000||Gvaed, gvaed uncym, cym’morth!
-   1077970|00000000||{Emitting a mind-piercing, ear-bleed inducing shriek.}
    1076935|00000000||Sakra… Takhle nervózní jsem nebyl ani před bojem s tím drakem.
     465190|00000000||Jen ty a já opravdu víme, čemu budeme brzy čelit.
     465188|00000000||Jednou jsi je porazil. Vím, že to dokážeš znovu.

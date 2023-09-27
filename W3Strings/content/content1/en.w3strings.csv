@@ -1,12 +1,41 @@
 ;meta[language=en]
 ; id      |key(hex)|key(str)| text
     301032|5a979acb||Wild Hunt Warrior
+    389411|2ec9fb68||Townsman
+    590999|00000000||What exactly were they talking about?
+    591007|00000000||I hear right? They mention the Lodge?
+    591009|00000000||Yes, and later Philippa said something about vision regeneration…
+    591011|00000000||Think she was able to get her eyesight back?
+    591014|00000000||Think Philippa pulled it off? Restored her eyesight?
+    591016|00000000||It would be reckless, but not impossible. They seemed to say she was planning to implant tissue grown on precious stones.
+    591018|00000000||Till now only Vilgefortz has ever managed. If she succeeded… well, I suppose congratulations would be in order.
+    591012|00000000||Why would they talk about the Lodge?
+    591019|00000000||Margarita mentioned Ida and Francesca, then Keira and Fringilla…
+    591028|00000000||I've little doubt Philippa means to revive the Lodge of Sorceresses.
+    591033|00000000||They weren't sure about Triss, excluded you right away…
+    591035|00000000||I'd never agree to rejoin. Philippa believes only the Lodge can look after mages' interests effectively. I disagree and prefer to act alone.
+    591036|00000000||Besides, the moment's inopportune. Reviving the Lodge would enrage both Radovid and the emperor. They're at a critical stage of their duel for influence, and neither would welcome a new player.
+    591010|00000000||Wondering what to do with the crystal.
+    591045|00000000||Fine, keep the crystal.
+    591048|00000000||Yen, I've decided. I'll give the crystal to Radovid.
+    591050|00000000||You're making an error. But it is your decision.
+    591046|00000000||I'll give the crystal to Radovid.
+    563765|00000000||I accepted a job, plan to finish it as best I can. Crystal needs to go to Radovid.
+    563767|00000000||Very, very bad idea. You could harm not only Philippa, but Triss, me…
+    563761|00000000||Gotta take it to Radovid.
+    563759|00000000||Yeah, you keep it.
+    563763|00000000||Right. It'll be safer with you.
+    591001|00000000||Hm… Wonder what I should do with the crystal…
+    591003|00000000||It cannot fall into Radovid's hands, not under any circumstances. You'd better leave it with me.
+    590998|00000000||Wondering what to do with the crystal.
+    563787|00000000||Dammit! That's it - I can't recover any more.
     519868|00000000||"The Northern Wars: Myths, Lies and Distortions." Historical treatise by Restif de Montholon.
     519879|00000000||Missing some pages.
     572808|00000000||Witcher George. High time we painted over that.
     572811|00000000||Mounted witchering just never took off.
     572812|00000000||Long, lonely winters breed some pretty strange ideas.
     332443|002e3ae9||Book
+   1031476|00000000||Slow down! Rogues!
    1012975|00000000||No reaction from the Council, the Conclave?
    1012976|00000000||Do you jest? They asked Radovid to "intervene." Just after he'd appointed them.
    1012978|00000000||Later I learned priests of the Eternal Fire stood amidst the academy's ruins, promising the rabble that such a punishment awaited all mages and traitors.
@@ -34,6 +63,8 @@
     408100|00000000||Might as well leave it. Triss must've thrown the other one away by now.
     385303|00000000||[Leave it.]
    1055413|f7a0c879||Nekker Warrior
+   1018000|e223a10b||Hunter
+    465715|00000000||Guess the cage was as fake as the basilisk.
    1069326|e0351e50||Treasure Chest
     577727|00000000||Been drinking again? Moving like a fly in tar.
     577729|00000000||Call that a strong blow?
@@ -41,16 +72,127 @@
     577733|00000000||Think I'm training Ciri tomorrow. She's likely to be more of a challenge.
     575089|00000000||Hear the old man fell asleep while teaching.
     575093|00000000||Maybe a storm's comin'.
+    470780|00000000||You survive by stealing from others. This can't end well. You should ask someone for help.
+    470787|00000000||Who'd help us? Who'd take us?
+    544169|00000000||Once we've got all the hens, we'll go deep in the woods!
+    470791|00000000||Petey says we's gonna hunt, wear animal hides, sew a tent outta leaves…
+    544171|00000000||And never grow up!
+    544173|00000000||Hmm. Last bit's most likely.
+    544175|00000000||Good luck, I guess. And watch out for yourselves.
+    470768|00000000||You should look for help.
+    470739|00000000||Gotta go.
+    470763|00000000||Time I was on my way.
+    471842|00000000||You'll not tell anyone we's here?
+    471844|00000000||I won't, but you be careful.
+    470778|00000000||Time for me to go.
+    470766|00000000||Where'd the wolf prints come from?
+    470770|00000000||Where'd the wolf prints come from?
+    470772|00000000||Da once hunted down a wolf, gave each of us a paw for good luck. We tied 'em to our shoes.
+    470774|00000000||Cause wolves steal hens, right?
+    470776|00000000||Sure, usually not one at a time, though.
+    470747|00000000||Why're you in the woods? Where are your parents?
+    470753|00000000||Soldiers caught 'em.
+    470755|00000000||We was crossin' the river, but they spotted us. We ran, but mum and dad had bags. Told us to flee.
+    470759|00000000||Lived in the woods alone ever since?
+    470761|00000000||Sure. Find a lot of things, steal a few others… we get by just fine.
+    470737|00000000||Why are you kids here?
+    470733|00000000||Not gonna hurt you.
+    471039|00000000||Then why're you here? That captain with the black mustache send you?
+    470735|00000000||Don't know any captain. Followed the tracks of the hen-stealing monsters here.
+    471041|00000000||Pff, you're a lot of fuss over a few skinny hens.
+    470741|00000000||The old lady didn't like 'em much anyway. She were always yellin' at 'em. And she looks like a witch.
+    470717|00000000||Watch out, Petey! He's got a sword!
+    471021|00000000||A soldier!
+    470719|00000000||He won't take us alive!
    1074151|00000000||Hm… Wonder if parrots do all right in mountain air.
+   1222348|00000000||Reinald died centuries ago. Body didn't decompose, though. Likely slowed by the miasmal.
+   1222585|00000000||Strange. Never seen armor like this before. And the medallion... a wolf’s head, but flat.
+   1222350|00000000||Ah... Osmund finally sent someone. Seems the gods remember this damned vale after all. And you – you have my thanks.
+   1222414|00000000||Can’t believe it’s gone. There were moments when I didn’t know if I was me or the miasmal. Maybe I was both... maybe neither.
+   1222652|00000000||No need for thanks. Should mention, though – wasn’t Osmund who sent me. Priest of the Eternal Fire did.
+   1222354|00000000||Your medallion’s different.
+   1222386|00000000||Who are you, exactly? Got a wolf's head medallion, but it’s strange – looks nothing like mine.
+   1222388|00000000||Strange, how? Designed and forged it myself, like all witchers at Kaer Morhen.
+   1222589|00000000||Quite the craftsman. Not me, though – got mine from my mentor. Like all witchers at Kaer Morhen do...
+   1222591|00000000||Must’ve been different in your day... Speaking of, when exactly did you arrive here, in this mine?
+   1222593|00000000||Hmm... It was nine hundred seventy... Or, no, eighty...? I... I can’t recall... Damn memories are foggy... fractured.
+   1222595|00000000||Reinald, that's more than three hundred years past.
+   1222597|00000000||Three hund--?! No... No! They’d have sent another to find me after five. Ten at most! Osmund himself would've come!
+   1222599|00000000||Shit...
+   1222601|00000000||I’m sorry.
+   1222356|00000000||A witcher’s body is ideal for possession.
+   1222390|00000000||Miasmal got lucky you showed, not some mere mortal. Witcher’s immunity meant it could possess you without destroying your body.
+   1222392|00000000||A cruel irony... Had to focus all my strength to prevent it from escaping. Till I locked us in this prison of salt, that is.
+   1223237|00000000||Before that, it possessed the sick. Quickly corrupted... deformed them. Turned them into the undying dead – feral and mindless.
+   1222466|00000000||All those voices, torches... Wasn’t you, was it?
+   1222603|00000000||You gotta ask? The miasmal aimed to lure you here. I was too weak to even notice your presence. At least at first.
+   1222783|00000000||Why'd they trap you in the mine?
+   1222394|00000000||How’d it happen? That you came to be trapped with the miasmal?
+   1222396|00000000||Those cultists hired me to expel it. First sign I might become possessed, though, they panicked – sealed me in here without a second thought.
+   1223091|00000000||Could’ve sent an exorcist, or-- or called for another witcher – anything!
+   1222454|00000000||And those poor souls whose bones litter the mine – all forsaken for the glory of the Eternal Fire.
+   1222462|00000000||Mhm. I saw.
+   1222380|00000000||So be it. But a few words. Nothing more.
+   1222382|00000000||Your tone – understandable but unwarranted. No bad intentions on my part. And even if there were, you'd be here to protect him, right?
+   1222689|00000000||Fine. I’ll get you the priest.
+   1222360|00000000||Fine. I’ll get the priest.
+   1222378|00000000||No, sorry, can't risk the boy's life. You been here too long. Alone with the miasmal... and your own thoughts.
+   1222384|00000000||I sacrificed all to save others. Believe I'd abandon my convictions to come down hard on one fucking cleric?
+   1222458|00000000||And you believe, after centuries of torment, that a few words with "one fucking cleric" will bring you peace?
+   1222460|00000000||Burn it, then – my body. Be quick about it. And spare me your precious pyre.
+   1222701|00000000||Sorry it has to end this way.
+   1222703|00000000||Just be done with it.
+   1222362|00000000||No. Not worth the risk.
+   1222691|00000000||Speaking with the priest'll change nothing.
+   1222693|00000000||Why? Aim to have a theological debate? What'll a few words change? Let it go, Reinald.
+   1222695|00000000||No, aim to look him in the eyes... ask him how his religion looks upon those who condemn a man to death and damnation...
+   1222697|00000000||This kid, he's got no ties to the clerics who sealed you in here centuries ago.
+   1222699|00000000||Can you offer me them in his stead? No? Hmph. Thought not.
+   1222372|00000000||You're free of the specter, but you seem... agitated. Need to make sure you'll find lasting peace.
+   1222374|00000000||Hah. Mean to prevent me from becoming what we hunt... Well, still got a matter I need to settle. Be a brother, help me. Then I'll find peace.
+   1222376|00000000||Could also cremate your body. On a pyre, as the guild ordains.
+   1222464|00000000||You'd see me leave this world burdened with pain and regret? This is the fate you wish for me, wolf brother?
+   1222687|00000000||A priest sent you, or so you said. Bring him here. I’d like a word – for my peace of mind.
+   1222368|00000000||What now?
+   1222352|00000000||Can you prove you’re Reinald?
+   1222364|00000000||Miasmal tried to impersonate a witcher earlier. You the real Reinald? How can I be sure?
+   1222366|00000000||Ask me something only a wolf could know. Come on, let's get this over with.
+   1222370|00000000||Sure you're from the School of the Wolf? Your armor – can't say there's no resemblance, but the color, studs, vertical stripes...
+   1222646|00000000||Back at Kaer Morhen, they'd always toss gear my way. "Whatever you touch turns to gold," they'd say.
+   1222648|00000000||This particular suit I refined on the Path. Supposed to be a prototype for the whole school... till my time ran out.
+   1222650|00000000||On your own? No workshop? Missed your calling, sounds like. Could've made a name for yourself as a fine armorer, or at least a tailor.
+   1223207|00000000||Osmund had ideas of his own, for improvements. Scribbled 'em down. We were gonna discuss them when we met at Kaer Morhen.
+   1222972|00000000||I'd like to believe you, really. Got any proof?
+   1222974|00000000||Search my corpse – left-hand pocket of the tunic. Diagrams are there, and yours to keep.
+    563535|5a32e0f6||Mercenary
     516508|b0678eeb||Horse
+   1027682|00000000||Good day, Gray One.
+    579355|00000000||Ah. Finally here. Rules are simple. Choose who you're gonna run against, make your wager, then ride to Blackbough and back. First's the winner, second's a bleedin' cunt. Got it?
+   1027684|00000000||So who you gonna race? Stutterin' M-m-matko? Iron-Arse Hans? Or Black Bogdan?
+    579374|00000000||Iron-Arse Hans.
+    579383|00000000||Let's see how that iron arse holds up. C'mon, Hans.
+    579381|00000000||Spent half my life on horseback. Other half on the backs of ponies. You can't beat me.
+    579384|00000000||Ride against Black Bogdan this time.
+    579386|00000000||Take you for a ride, all right.
+   1027686|00000000||C'mon, let's set the wager… and get racin'.
+    579378|00000000||Y-y-y-y-you'll s-s-s-see I-i-i-i-i'll b-b-b-b-b-b-b… ehhh, fuck it.
+    579376|00000000||I'll take Stuttering Matt.
+    579373|00000000||Stuttering Matko.
+    579364|00000000||Changed my mind, don't really wanna race. Have fun without me, gents.
+   1021674|00000000||Changed my mind. Not gonna race.
+    579375|00000000||Black Bogdan.
+    470650|00000000||May they rot in shallow graves, the whoresons! They've nicked another!
+   1223153|e3726633||Plague Victim
+   1073063|00000000||Thank ye, witcher! Ye ought to come by Mulbrydale, see me forge. I'll have somethin' for ye. A gesture of gratitude.
+    572370|00018392||Earth Elemental
     574625|00000000||Better not.
     574640|00000000||Better not. Vesemir said if it does, he'll make you eat a bowl of slugs. Covered in salt.
     574641|00000000||Hahaha. Eeewwwww!
     576732|00000000||Exactly. So you'd best behave.
     576738|00000000||Of course. This a witcher school or an elven bathhouse?
    1058679|00000000||Of course. [BEGIN TUTORIAL]
-   1058682|00000000||Not this time. Believe me, you don't want to keep Vesemir waiting.
    1058680|00000000||Not this time. [SKIP TUTORIAL]
+   1058682|00000000||Not this time. Believe me, you don't want to keep Vesemir waiting.
     574642|00000000||Come on. We'll practice with the others down below.
     576736|00000000||Shall we run the walls?
     574633|00000000||Sorry's not good enough.
@@ -98,6 +240,74 @@
    1075064|00000000||Ciri, Quen is sometimes called the "witcher's shield." Now watch carefully to see why.
    1075062|00000000||See? If not for the Quen Sign, I'd be aflame by now.
    1075060|00000000||See that, Ciri? Aard will knock anyone or anything off balance, destroy their rhythm.
+   1223186|00000000||Ah, you, wait! S-step back! I-I'm no warrior... Help! Anyone, help!
+   1222157|00000000||Easy, now. Not in the habit of murdering priests in need.
+   1222223|00000000||No priest – I'm a deacon! Just two months out of seminary. On me first mission. I-i--'t wouldn't be right to kill a deacon on his first mission!
+   1222225|00000000||Oh my, your eyes… Yellow, and those... pupils… Aye, I've read about this! You're a witcher!
+   1223121|00000000||Well, clearly no feral cat or grass snake, so…
+   1223123|00000000||In point of fact, a grass snake's pupils are circular not slitted... But never mind that! Please help me. If they breach the gate, a pestilence will be upon us!
+   1222163|00000000||Helped one of you recently.
+   1222177|00000000||This debt'd be the second your church'd owe me. Recently helped another of your kind burn the dead on a battlefield. Not far from here.
+   1222217|00000000||Then you've a kind heart. I thank you. A rare virtue in these times.
+   1222452|00000000||Mhh, right…
+   1222165|00000000||One of your fold deceived me.
+   1222219|00000000||Met another of your fold recently. Tried to kill me, actually, near here. Didn't much like that I discovered he was trading in fisstech. So, why would I trust you?
+   1222221|00000000||It grieves me to hear this. I shall pray he repents. Alas, even the Church's devoted err occasionally.
+   1222456|00000000||And some show a penchant for understatement.
+   1222274|00000000||A priest asking a mutant for help?
+   1222276|00000000||Desperate times call for a witcher, huh? Thought your church frowned upon our kind, mutants.
+   1222278|00000000||A mistake common in our ranks, alas. I discussed it at length with my mentor. All are capable of doing good in this world – genetic aberrations or not.
+   1222285|00000000||Hmm... You sure you're a priest of the Eternal Fire?
+   1222267|00000000||So be it, I'll help. And you wait for me here... coin in hand.
+   1222269|00000000||Of course! Under the circumstances, I can't imagine how it might be better spent.
+   1222472|00000000||Ah, the key. It unlocks the gate to the mine. Eternal Fire guide you, witcher!
+   1222474|00000000||Yeah. Knock yourself out, Eternal Fire. Farewell.
+   1222241|00000000||I'll help.
+   1222261|00000000||Could be this calls for a witcher, but I'll need more to go on. This "spirit" – been in the mine long? Anyone actually seen it?
+   1222280|00000000||I've seen but some of the records. Above my station, you see. As I recall, it appeared long past, after the first plague victims were brought here.
+   1222282|00000000||The Church attempted once to exorcise the ghost, but… well, I'd like to see for meself what came of it.
+   1223125|00000000||Not exactly generous with details, were they?
+   1223081|00000000||No... Our wards recently reported hearing whispers in the night. Pleas for mercy, but ghostly, strange.
+   1223127|00000000||Altogether frightening. I'm afraid that's all I know.
+   1222259|00000000||Tell me more about the spirit.
+   1222161|00000000||Another time.
+   1222169|00000000||Listen, this isn't something I can handle just now. Maybe later.
+   1222171|00000000||Later? There may be none left to save "later"...
+   1222257|00000000||Sorry. Won't do it.
+   1222243|00000000||Let's discuss my reward.
+   1222245|00000000||Stakes're high, can't deny it. Hope we can agree on a fair reward.
+   1222247|00000000||So long as you see what I have now as "fair"...
+   1222249|00000000||Oh no, too much. Far more than my stipend from the Church's coffers.
+   1222251|00000000||A reasonable request, but not one I can afford, alas.
+   1222255|00000000||What?! I came to save lives, not acquire estates!
+   1222253|00000000||Very well, agreed. I'll need to take some from me own purse, but... I believe you're worth it.
+   1222263|00000000||Already dealt with, those deserters. Shouldn't be a problem. At least for now.
+   1222265|00000000||Truly? W-why, splendid! Still, we'd be fools to delay. The mine will not remain shut forever...
+   1222173|00000000||So, this problem of yours, let's talk…
+   1222175|00000000||You've returned! Does this mean you'll help?
+   1222159|00000000||What happened?
+   1222227|00000000||All right, but got a question first, priest. How's a witcher fight a plague?
+   1222229|00000000||I misspoke. Not the plague – its source. The Devil's Pit, this mine, has long been used as a... well, a place to sequester the hopelessly sick, an isolated haven for the afflicted...
+   1222469|00000000||"A den to die in" – believe those're the words you're looking for.
+   1222298|00000000||I'm not proud to admit it... But how else is the scarlet fog to be withstood? An incurable pestilence that spreads with the fury of wildfire?
+   1222308|00000000||Callous as your method is... there’s sense in it. Undeniably, unfortunately.
+   1222302|00000000||Had no choice, that's clear.
+   1222300|00000000||You condemned these people to a horrible death.
+   1222304|00000000||Pff, sorry, no comparison. Not about to sympathize. Getting tossed in a hole, left to slowly rot and suffer... Now there's a fate I can pity.
+   1222306|00000000||You would leave the plague-stricken to infect their kin, neighbors? They'd die all the same and take others with them. The Church seeks to protect the unafflicted.
+   1222290|00000000||Mhh, what's done is done. Now where do I fit in?
+   1222785|00000000||Deep within the mine lies a salt cavern, haunted. Someone-- that is, some...thing lurks there, so ancient records show. A spirit that breeds pestilence and whispers in the dark...
+   1222292|00000000||Alas, a band of deserters has seized the Pit. They butchered the afflicted. I was sent to urge their departure. Should they force open the mine’s gate, descend into its depths...
+   1222294|00000000||We'll have more than just Catriona to stop... Lemme guess, your warning – deserters didn’t take it to heart?
+   1222296|00000000||If only! They slew my retinue, I alone escaped... Please, you must help! I've coin to offer. They must be dealt with, the bandits and this... this vile spirit.
+   1223059|00000000||Priest's escort. Cuts and punctures – swords at work. Deserters?
+   1222151|00000000||What to do, what to do… And what of survivors? Eternal Fire guide me, I implore you...
+   1222154|00000000||A sign, any sign... Illumine the dark that seeks to consume us!
+   1222271|00000000||The Eternal Fire light your path.
+   1223075|00000000||Uh... uh... Deliver us from evil, o Flame Divine. This--
+   1223077|00000000||Uh... This-- th-th-this seed of evil devour in flames, and er… light the way for, umm...
+   1223079|00000000||Oh, uh... Th-through darkness guide us, o Great Light-- Wait, er, o... o Light Eternal…
+    467274|40b3f5c5||Refugee
     574124|00000000||We've spoiled her.
     574263|00000000||Gotta admit we've spoiled her.
     574265|00000000||"We've" spoiled her? I've been saying it from the start - Ciri needs a firm hand.
@@ -134,6 +344,33 @@
     478433|00000000||So be it. But you'll not get in. Whores through a window - them you can watch gratis. These here're artistes.
     478431|00000000||No. Don't want a ticket.
     480265|00000000||Need a ticket?
+    540303|00000000||Have a look, perhaps even procure?
+    540302|00000000||Humblest greetings, sir! Care to peruse!
+    541747|00000000||Greetings.
+    540321|00000000||Salutations. Wither do you come from, and where will you go?
+    541748|00000000||Hard to say. Seen a lot of the world and plan to see more.
+    540322|00000000||As have I, as do I.
+    540386|00000000||Take a peek, if you don't mind.
+    540296|00000000||What're you offering?
+    540393|00000000||Nice area. Business booming, I guess?
+    540394|00000000||Travelers stream north, many refugees among them. They lack for near everything, so I make ends meet.
+    540395|00000000||Any dealings with soldiers?
+    540396|00000000||A bit of trade, a bit of bribery, extortion, too, at times. But all in all, I finish ahead.
+    540298|00000000||Business booming?
+    540397|00000000||So close to Novigrad… Wouldn't you rather trade inside the city walls?
+    540398|00000000||The guilds entrenched there… why, their members fix prices to stifle any competition.
+    546757|00000000||I do a robust trade here, with none to pester me, no walls to ring me in. The open's a pleasure in itself, I'm certain you agree.
+    540299|00000000||Wouldn't you rather trade in the city?
+    540385|00000000||Farewell.
+    546750|00000000||We'll meet again, I know this.
+    540300|00000000||Farewell.
+    540297|00000000||Dangerous place, this.
+    540387|00000000||Not the best place for a traveling peddler.
+    540388|00000000||Profits lie amidst risk. True, the war's brought strife and hardship - but folk live on. And where there is life, there is trade.
+    540389|00000000||Prepared to risk your life for a bit of coin?
+    540390|00000000||Coin, my friend, is of little import. Hard as I try, I simply cannot remain still. So I wander, and wander, the world.
+    546754|00000000||I see new places, speak with folk I've never known. It's what I like, and that's worth the risk.
+    540384|00000000||Hahah. Mountains don't move and thus never meet, but men…
    1050491|7ef171cd||Hound of the Wild Hunt
     307008|103d66e3||Hare
     578399|00000000||Isn't there something you ought to be doing?
@@ -152,8 +389,15 @@
    1071628|00000000||Wanna stay with you a little longer.
    1071433|00000000||See, I thought Ciri could stand to wait a little longer.
    1071435|00000000||It's uninstructive. Not to mention unreasonable.
-    572370|00018392||Earth Elemental
     515498|00307f1b||Goat
+   1041861|4fe30dd7||Gravedigger
+   1222813|00000000||Please... help me...
+   1222321|00000000||Hm. Sounds sincere enough.
+   1222323|00000000||Can't be too sure, though. Could be a trap.
+   1223016|00000000||A note?
+   1222319|00000000||Potion recipe... brewed with celandine. Hmm...
+   1222791|00000000||Should look for the places mentioned.
+   1223162|00000000||Got a bad feeling about this... Who are you?
    1047350|00000000||Hah!
    1047352|00000000||Whooaa, you really showed him, kid!
    1075155|00000000||Ciri, get down here!
@@ -169,15 +413,123 @@
     591841|00000000||Geralt!
    1075195|00000000||Lamber--
    1075197|00000000||Ciri…
+   1222670|00000000||Boy's innocent.
+   1222672|00000000||Look at him. He's a child. What crimes has he committed?
+   1223022|00000000||Forgot the verse of a hymn? Snuck a sweet roll while fasting? Believing the word of hypocrites – his sole transgression.
+   1222676|00000000||This kid, this priest treats witchers like humans. A rare specimen. More – an endangered species.
+   1222678|00000000||W-well, in fact, the Church holding mutants in low regard, it's an error, a misconception. Scripture states – ahem – "Respect and cherish every living creature."
+   1223180|00000000||Mh, respect for life as demonstrated here?
+   1222668|00000000||Reinald’s right.
+   1222658|00000000||Reinald's got it right. Devil’s Pit is the work of your church. Hmph, Eternal Fire gave rise to suffering so great a miasmal, a plague specter was born from it.
+   1222660|00000000||Hear that, cleric?! Fault is yours, yours and anyone's who worships that damned flame!
+   1222662|00000000||But I... Witcher! I-- I thought you'd help me!
+   1222865|00000000||They've tried to kill me, your ilk, your brethren. Last example was the priest I caught trading in fisstech.
+   1222875|00000000||"What shall I do? Where shall I go?" This about you? Are you the victim?!
+   1222883|00000000||Crimes like these can't be forgiven.
+   1222899|00000000||Got the right to be angry. Eternal Fire destroyed you. And the countless others who died here.
+   1223155|00000000||Shit like that shouldn't be forgotten, shouldn't be forgiven.
+   1223001|00000000||F-forgotten, never! But-- but I shall establish a hospital here – fix whatever is in my power.
+   1223166|00000000||One who repents or-- or means to make amends, you can't just... you can't, er...
+   1222905|00000000||What am I doing? Resisted a red miasmal for centuries, dammit. Now I can't find the strength to forgive this boy? As if hatred kept me sane all these years...
+   1222907|00000000||Maybe it did. But that was then. What matters is your choice now.
+   1222911|00000000||Your sacrifice was not in vain, sir. The Church is my home no more. This tomb I will transform. Into a sanctuary for the living, dedicated in your name, good witcher.
+   1222913|00000000||Made a difference here, Reinald. For him and many more.
+   1223006|00000000||Hah... I'm sure another name would suit it better. I'm no saint, no miracle worker – just a witcher.
+   1223008|00000000||And I'd rather it stayed that way.
+   1223010|00000000||We're done here. Time we were on our way.
+   1222903|00000000||Lies... selfish lies to save your skin. Folk don't change, not ever!
+   1222948|00000000||Reinald, calm down.
+   1222957|00000000||Aaaaghh!
+   1223018|00000000||Shit... So much for catharsis, fucking finding inner peace. Dammit... Shoulda seen that coming.
+   1223164|00000000||Lived a witcher, died a witcher, departed a vengeful spirit...
+   1223020|00000000||Need to burn the bodies, be on my way.
+   1222895|00000000||Don't need a church at your back to do good. Can do that on your own.
+   1222897|00000000||Aye, true. So right, witche-- er, witchers, heh. I shan't be returning to Novigrad. I'll stay here, transform this place, create a haven for the afflicted true to its name!
+   1222999|00000000||I enrolled at the seminary to serve folk, not the Church!
+   1222881|00000000||Don't need a church to do good, priest.
+   1222887|00000000||What would you do, Reinald?
+   1222889|00000000||You're a hero, prevented a catastrophe. Time to come to terms with things, your fate. What do you want? What do you need to do that?
+   1222891|00000000||Hah, a hero... Used to care about the greater good. Young, ambitious – the will to fight burned strong in me. Now? Now, I'm just tired.
+   1222997|00000000||Don't have the strength, no desire to philosophize. And I won't rejoice about the world's salvation. Time took that from me.
+   1223149|00000000||You may lack the will to fight, but I know one who doesn't.
+   1222893|00000000||Admirable, your faith in others. But as soon as he leaves, his warmed heart will cool at the touch of church coin. Same as all those fuckers.
+   1222879|00000000||Fantastic. A crisis of faith. You just weak or is this real regret? Truths you've learned here – what'll you do with them?
+   1222680|00000000||As-- as the prior says, he says... Oh, confound it! I've hung on their every word me whole life, but-- but now? Knowing of this travesty?
+   1222682|00000000||The Church must protect the weak, foster hope. Yet what I've witnessed here is... What shall I do? Where shall I go?
+   1222853|00000000||Sheesh, the generalizations... Clerics're evil, one and all – that make all witchers emotionless ghouls?
+   1222855|00000000||Ever known a witcher to imprison the sick and dying? Whose side you on anyway?
+   1222666|00000000||Not all priests are wicked.
+   1223115|00000000||Found a priest who sacrificed his life.
+   1222654|00000000||Found the remains of a priest down here. Clearly chose to stay, didn't abandon the sick in their time of need. Is he a criminal? A hypocrite?
+   1222656|00000000||Mhhh, and who sealed him inside? Ghouls, trolls, the red miasmal itself? No, the very same Church of the Eternal fucking Fire!
+   1222628|00000000||I fail to fathom... How could they let this happen? The bodies, the blood, so much blood... I... I had no idea.
+   1222630|00000000||Rei-- Reinald? I know of the horror you suffered. I thought perhaps I could help. But how does one make amends for such a tragedy? A humble deacon like me...
+   1222632|00000000||Deacon, hierarch – you're all the same. Eternal Fire accepts two types into their fold – criminals and hypocrites.
+   1222950|00000000||By the Eternal Fire... I must think-- No, I know what I must do. Yet to cast aside these twenty years, what I learned of the world…
+   1222952|00000000||Here... Your reward, witcher. You've my thanks for, er... for your help.
+   1222954|00000000||Might not need to cast it all aside, not entirely. There was wisdom in some of what you recited.
+   1223012|00000000||Perhaps... Yes, perhaps I've yet to find the Eternal Fire's true light... Perhaps I must seek it elsewhere...
+   1223014|00000000||Farewell, former deacon. And good luck with your search.
+   1222982|00000000||Fare thee well on the Path, witcher!
+   1222980|00000000||Many thanks, witcher. On behalf of the Church of the Eternal Fire... and meself.
+   1222987|00000000||True light ye shall not find in the hierarch's coffers or the flames of Novigrad's pyres.
+   1222989|00000000||The Eternal Fire destroys not the wickedness around us. It seeks instead to nourish the good within.
+   1223024|00000000||Should any exact harm in its name, they serve only the darkness.
+   1223026|00000000||He who abandons those in need stands unworthy to call himself a servant of the light.
+   1223201|00000000||Now to find Osmund's scribblings, the ones Reinald mentioned. Could complete the armor then.
+   1223232|00000000||Worth a look around next time I'm at Kaer Morhen.
+   1223203|00000000||Hmm, those notes I found at Kaer Morhen... Seems Reinald's diagrams are the missing link.
+   1223234|00000000||Should know enough to craft that armor now.
+   1000357|00000000||From the look of things, pretty soon Ciri won't need your help anymore.
+   1000359|00000000||Nor yours.
+   1000361|00000000||True. She'll do whatever she wants - and I'll support her. What about you? Ready to let her live her own life?
+   1000362|00000000||I shan't force her to do anything, if that's your question.
+   1000123|00000000||Soon Ciri won't need your help anymore.
+   1000343|00000000||Charming world you Aen Elle have got. Could easily fall in love with the place.
+   1000345|00000000||Tell me, how do you do it? Sit around playing flute, painting rutting unicorns in gorgeous landscapes, building ornately sculpted towers…
+   1000347|00000000||And then you murder us, without batting an eye, without a hint of guilt. How?
+   1000349|00000000||Do you humans feel guilt when you murder Aen Seidhe elves? Or dwarves? Or dryads?
+   1000351|00000000||We are the same… simply because we both firmly believe others are inferior.
+   1000121|00000000||Charming, this world of the Aen Elle.
+   1000353|00000000||Probably accuse me of being a typically primitive human - but why don't we just kill Ge'els?
+   1000337|00000000||Because we would gain nothing in the short term… and we might not live to see the long term.
+   1000339|00000000||With Ge'els, it is not what he does on the battlefield, but beyond it. He manipulates, lies, keeps the Aen Elle in check.
+   1000341|00000000||Remove that pawn from the board, and you won't change the outcome of the match. Keep it there, and you could use it to change the rules.
+   1000355|00000000||Still haven't explained why we need to mess around with this subterfuge instead of just killing Ge'els.
+   1000122|00000000||Why don't we just kill Ge'els?
+   1000285|00000000||Tell me something more about Caranthir. Know him well?
+   1000287|00000000||Know him? I reared him.
+   1000289|00000000||Raised, don't you mean?
+   1000291|00000000||No, Geralt. I began shaping him long before he was born.
+   1000293|00000000||For centuries I… brought together pairs of elves manifesting certain abilities - those able to manipulate time and space. He is the result of these efforts. Caranthir, a golden child.
+   1000295|00000000||Golden child who grew up to be a criminal.
+    307750|00000000||Caranthir - tell me about him.
+   1000190|00000000||Find Zireael… Time is dwindling…
+   1000192|00000000||So long.
+   1000125|00000000||So long.
+   1000124|00000000||Why're you helping Ciri?
+   1000196|00000000||You imprisoned Ciri the first time you met her. Now you protect her while fighting against your own kind. Quite an about-face.
+   1000198|00000000||First of all, I did not imprison her. She found me. It was her destiny.
+   1000200|00000000||Yeah, sure. Get to the "second of all." Why're you helping her?
+   1000202|00000000||Because she is a danger. A mortal one.
+   1000204|00000000||You look at her and see a human, a ward, a daughter, even. I look and see the Elder Blood - a power that can destroy the world, a power that must be kept from Eredin's power-addled hands at all costs.
+   1000206|00000000||Admittedly, our motives differ. Yet in spite of that we share a goal. So you would be wise to trust me… or at least try.
+   1000194|00000000||Yes, Geralt?
+   1051424|f11e033c||Swordsmith
+   1031427|775f49f7||Shepherd
+   1028676|f0a697fc||Witcher's Ghost
    1055653|31c17949||Raven
     591090|00000000||Bird skull… in black crystal. Why do I think this is Yen's?
     577144|00000000||You know I don't find that amusing.
-    577145|00000000||It wasn't meant to amuse, but to prod you to hurry. It's midday, already.
+    577145|00000000||It wasn't meant to amuse, but to prod you to hurry. It's midday already.
    1059264|00000000||Pfff…
    1059266|00000000||You promised Ciri you'd train with her.
     577169|00000000||Go, before Vesemir bores her to death with those etchings.
     577154|00000000||So… later, then?
     577155|00000000||Mmh. See you later.
+    595891|fbee3e23||Peasant
+    175619|ea15b01b||Innkeep
+    451163|cc663b8e||Merchant
     515166|00000000||Oh, got a signal…
     515165|00000000||Nothing here…
     515167|00000000||Signal's growing stronger…
@@ -186,6 +538,7 @@
    1065315|00000000||Aha… Getting warmer… warmer… Hot.
    1065341|00000000||Ugh… Damn cat. Ffwsshht!
    1056125|00000000||Shit. Lost the signal…
+   1119611|28cfaa13||Stash
     452929|f373a1e0||Foglet
    1020642|00000000||Leo's grave… A senseless death, could've been avoided.
     573897|00000000||"Ghouls and Alghouls, or the Vile Denizens of the Necropolis," by John of Brugge. Intriguing title, boring as shit.
@@ -194,6 +547,15 @@
     573903|00000000||Ciri's notes. Pretty… chaotic.
    1045978|00000000||Hmm… Some intense studying going on here.
     573895|00000000||"Brother Adalbert's Bestiary." A classic.
+    590026|00000000||…Francesca's equally hesitant. Neither she nor Ida wishes to decide blindly.
+    590027|00000000||They'll stop hesitating as soon as we convince Keira and Fringilla.
+    590028|00000000||Fringilla's on our side. She'll join us as soon as she's finished some business in Nilfgaard.
+    590029|00000000||Wonderful, that leaves Keira. The problem is, I've still no notion where she could be.
+    590030|00000000||What about Yennefer and Triss?
+    590031|00000000||Yennefer's never belonged to the Lodge, and Triss… Well, we shall see. I must regain my vision. I can go to Novigrad then to see Arthur de Vleester. The word is Triss is also carousing about the city.
+    590032|00000000||You still insist? Phil, pardon my saying so, but you will never regenerate your eyes on your own.
+    589901|00000000||Vilgefortz did it. I'm employing the same method - cultivating tissue on precious stones.
+    589902|00000000||It's madness… …need… ...ower… ...ut your…. …reat dange…
    1075855|00000000||Hm. Impressive specimen.
    1028457|00000000||This the katakan you had a contract for?
    1028458|00000000||Mh. A month of tracking, stalking, but I finally dropped the son of a bitch.
@@ -238,6 +600,33 @@
    1056879|00000000||Going to get Ciri?
    1047896|00000000||Mhm. Vesemir wants her to practice.
    1047898|00000000||I'll join you. Soon as I clear the table.
+   1222610|00000000||Proof of your cult’s cruelty.
+   1222616|00000000||Scratch marks on rock walls, the bodies of folk who died in agony, a red miasmal born of their collective suffering...
+   1222618|00000000||Priests, your brethren, trapped the afflicted in the mine, condemned them to a cruel death.
+   1222620|00000000||No... why, no, you must have misunderstood. My brothers would never abandon their teachings. They came here to help, most certainly.
+   1222622|00000000||They did, then they didn't. Hired a witcher once, in fact. Then sealed the mine again with him and the rest inside.
+   1222624|00000000||Well, you've my gratitude, of course. Though I fear the dark magic in the caverns twisted your judgment. The Eternal Fire illumines our path.
+   1222626|00000000||Hate to state the obvious, but it's a fire's nature to destroy. Light's just a side effect.
+   1222765|00000000||The bodies you found, there's another explanation. The Church will get to the bottom of it, I'm sure.
+   1223137|00000000||Here, your reward. You've my thanks.
+   1222767|00000000||Godspeed, priest.
+   1222612|00000000||Human wickedness and a red miasmal. Managed to remove the latter.
+   1222614|00000000||I see... Well, many thanks, witcher. Here, your reward. You’ve spared Velen a horrible fate... Oh, will you give me your name? For our chronicle, please.
+   1222763|00000000||Reinald. It should say Reinald saved Velen. Godspeed, priest.
+   1222608|00000000||Details aren’t important.
+   1222508|00000000||Matter’s settled. Mine's safe.
+   1222606|00000000||Eternal Fire be praised! It's a relief to hear it, witcher! Might I know what you found?
+    470706|00000000||Wolf prints, and small footprints next to them. But no signs of struggle…
+    470708|00000000||Now just little footprints. Not your typical werewolves - if that's what this is.
+    470711|00000000||Little footprints… Interesting.
+    470704|00000000||Wolf prints, all right. Though something's not right…
+    470895|00000000||Me hens! Took 'em all, the little snots!
+    470887|00000000||Do I throw 'em more seed, gran?
+    470889|00000000||No, that's enough. And don't call me gran.
+    470891|00000000||Aye, aye, I'll remember.
+    472440|00000000||That there spotted hen - can that one be mine, gran?
+    470893|00000000||Ugh. A-- Aye, child. She can.
+    166469|d6a00ba0||Peasant
    1058289|0a09c08e||Bilge Hag
    1047842|00000000||Love knows no bounds, I guess.
    1047848|00000000||Mhm. Love knows no bounds.
@@ -255,6 +644,25 @@
    1047834|00000000||There'd have been one more if not for you. Lena… she survived, thanks to your potion.
    1047836|00000000||Nice to see a Nilfgaardian soldier so concerned about the fate of some simple Nordling. But kind of surprising, too.
    1047838|00000000||That night, when the griffin attacked her… she was on her way to meet me. In the woods near the garrison.
+    563532|0030c07e||Hans of Cidaris
+   1038368|00000000||Hm, Could chew through a mace with them choppers. Maybe even Nilfgaardian plate.
+   1038370|00000000||If it's a basilisk… then where's it's deadly gaze?
+   1038372|00000000||That cage not a bit small? Beast can't even turn around.
+   1038366|00000000||Looks a bit like Corporal Heribert in the mug, eh?
+   1032201|00000000||Good-for-nothin's! Done spooked me horse!
+   1031788|00000000||Dammit!
+    579319|00000000||All right, who else is racin'?
+    579329|00000000||G-g-g-gee u-u-up!
+    579331|00000000||Ou-ou-outta the w-w-way, m-m-maggots! M-m-matko's c-c-comin'!
+    579339|00000000||Oi, witcher! Your mum not want you?
+    579341|00000000||I'll be first, if I have to skewer my mare with my spurs!
+    579313|00000000||I'm not much for talkin'. But put me on a horse… whoo, watch me run!
+    579337|00000000||Yeeeeh-haaah!
+    579335|00000000||Faster, Beecher, faster! Got a ripe apple for you when we're through!
+    579311|00000000||C-c-c-c-came t-t-t-o r-r-r-race, not ch-ch-ch-atter.
+    579323|00000000||Mount up!
+    579317|00000000||Talk to Radko. He's the one sets the races.
+    579326|00000000||Goooo!
    1084448|103d846e||Doe
    1075506|e3976585||Old Speartip
     577747|00000000||Never lock your elbow when striking, young lady!
@@ -285,8 +693,8 @@
     576842|00000000||Well, you're a quick study. Quick, but mischievous.
    1058686|00000000||Should work on the basics. Even skilled masters need to hone the fundamentals… and Ciri's barely a novice.
    1058683|00000000||Let's start with the fundamentals. [BEGIN COMBAT TUTORIAL]
-   1058688|00000000||Let's skip straight to free training. No point going over the basics again.
    1058684|00000000||Let's go straight to free training. [SKIP TUTORIAL]
+   1058688|00000000||Let's skip straight to free training. No point going over the basics again.
     576835|00000000||Fine, we've talked enough. Geralt, you're with me. Lambert with Eskel. Ciri with the dummy.
     576837|00000000||Huh… Again?
     576838|00000000||Stop groaning and grab a sword!
@@ -301,10 +709,158 @@
     573556|00000000||…"by markings, like unto the panthera tigris that in Zerrikania dwells, and by the sickly paleness of its visage."
     573557|00000000||Hmm. So you did read the chapter. Still, you should've asked if…
     576818|00000000||But you were asleep, Uncle Vesemir.
+   1222329|00000000||Hm. Medallion’s humming. Better investigate.
+   1223097|00000000||Not that way! Won't find me there...
+   1222402|00000000||Long dry. Hemorrhaging fever of some sort.
+   1223063|00000000||Another hint. Someone guiding me?
+   1223110|00000000||Blocked. Need a way around.
+   1222845|00000000||Leave 'em! You're wasting time! You're here to find me! Me!
+   1223139|00000000||Good, yes. This way.
+   1222976|00000000||Dark energy emanating from these bones... Specter's doing?
+   1222978|00000000||All the signs scream plague maiden. But... the symptoms... More likely a red miasmal, yeah.
+   1223032|00000000||Need to prepare.
+   1223174|00000000||Been here already. Not the way.
+   1222966|00000000||Didn't come here to help me! Leave! Go!
+   1223168|00000000||You deaf?! Turn back!
+   1223170|00000000||Stop! Not that way!
+   1222964|00000000||You're wasting time!
+   1222817|00000000||I... I can hear you. Can't you find me?
+   1222819|00000000||Free me... I beg you!
+   1222815|00000000||I can’t bear it! Hurry! Agh...!
+   1223133|00000000||That's it! Down there!
+   1222335|00000000||Hm, witchers came here. School of the Wolf.
+   1222337|00000000||Wolf School insignia. Old. Very old.
+   1222339|00000000||Was Reinald... a witcher?
+   1223135|00000000||Corridor to the right, yes! That's where you'll find me.
+   1223129|00000000||Is that...? Someone beat me here?
+   1223131|00000000||One of the beings Reinald mentioned.
+   1222843|00000000||No! Don't leave me here! Please!
+   1222343|00000000||Might’ve missed something.
+   1222345|00000000||Gotta be something here...
+   1222341|00000000||Should look around.
+   1223069|00000000||The sick rebelled. Then paid dearly for it.
+   1223071|00000000||Folk were tortured to death in this chair. Then brought back to life somehow. Must've been them I fought.
+   1223101|00000000||Dammit.
+   1223103|00000000||What the--?
+   1223099|00000000||Oh, boo yourself, ghost.
+   1223065|00000000||Someone was tortured here.
+   1223067|00000000||Signs of torture. Hammer, blood... like they drove nails into them.
+   1222398|00000000||Bones, dried blood and mucus... Victims of the scarlet fog. Gotta be.
+   1222408|00000000||Time to find the miasmal.
+   1222438|00000000||Fingernail scratches... Folk were buried alive here.
+   1222488|00000000||Bastards.
+   1223108|00000000||Dead end.
+   1223106|00000000||More blood.
+   1222404|00000000||Walls're scarred – human fingernails. The sick wanted out. Badly.
+   1223909|00000000||Hm. Interesting.
+   1223911|00000000||Keira's lamp oughta prove really handy here.
    1050632|002efcee||Deer
+    468514|00000000||This basilisk is interesting because it looks exactly like a wyvern. Young one, and ill-fed at that.
+    468516|00000000||You talk nonsense, sir. This here's the most truest of basilisks!
+    468518|00000000||Right, what do I know. I'm just a witcher.
+    468520|00000000||Hold on, now! If that's no basilisk, but some weevern, what did I pay for? Give me back my coin, cheat!
+    468525|00000000||Brave soldiers, don't push, or it'll-- Whoa, watch out!
+    468508|00000000||That's a wyvern, not a basilisk.
+    468534|00000000||Well, well… Spent years hunting monsters, and yet I'm still learning.
+    468536|00000000||Look on, soldiers! Even a witcher scurries from the mighty basilisk. For all beasts fear it, even dragons… what'm I sayin', crocodiles! And crocodiles are inconceivably terrifyin', as anyone who's seen one will attest!
+    468512|00000000||See ya.
+    468510|00000000||Huh? From cockerel eggs?
+    468528|00000000||Cockerel eggs, you say…
+    468530|00000000||And what cocks they are! Lift their rumps like brood hens to other cocks! Eggs laid by such a cockerel must be brought to hatchin' by a hundred and one venomous vipers! Then the young basilisk pecks its way out…
+    465682|00000000||Interesting basilisk you've got there.
+    468182|00000000||Course it's interestin'! Won't see a beast like this anywhere near here! They spawn only in the wild wastes of Zerrikania - from eggs laid by cockerels!
+    579262|00000000||Can we talk?
+   1027615|00000000||Aye, long as it's short and to the point, 'cause I don't wag me tongue for jollies.
+   1027617|00000000||They call me Radko. I arrange the horse races here. You must've heard talk. Wanna try? Say the word. Don't? Sod off.
+    579272|00000000||Wanna sign up.
+    579273|00000000||Don't need no signin'. Long as you're here come sunset. And bring gold for the bettin'.
+    579270|00000000||Sign me up.
+    579265|00000000||Maybe later.
+    579271|00000000||Maybe later.
+   1027621|00000000||So what'll it be? Gonna race or not?
+    479120|00000000||What happened, ma'am?
+    479122|00000000||As if the war weren't enough, sir. I'm losin' me hens! How'm I to live? Eh?
+    479124|00000000||Get a look at the thieves?
+    479126|00000000||What thieves?! It's monsters takin' me chickens.
+    479128|00000000||An ordinary thief I'd nab on me own, but beasts? What'm I to do?
+    479108|00000000||I can help you. Not for free… But, you're advanced in years, so I won't ask too much.
+    479110|00000000||Poppycock. "Not much," he says, but you'll take me liver come the end. Well, no one else's linin' up to help me…
+    479114|00000000||Me hens started disappearin' about a week past. Always take one at a time, the vermin.
+    544130|00000000||One at a time? Interesting… Monsters leave any tracks?
+    544132|00000000||Aye, prints of wolf paws, but… strange-like, as if the wolves walked on their hind legs.
+    544134|00000000||And don't you be like that wise-arse Yosip from Downwarren. Tells me I'm mistaken. But few know beast tracks like I do - me man were the best poacher for miles around.
+    544136|00000000||I see. I'd still like to examine the prints myself.
+    479116|00000000||I can help you.
+    479046|00000000||Keep watch - kids are likely to try again.
+    479048|00000000||Oh, I'll be waitin' for 'em! With a stout branch to smack the little shits with!
+    479052|00000000||Easy, they're just kids.
+    479054|00000000||Aye, for now. But they'll grow into bandits, you wait!
+    479057|00000000||Watch out… They'll be back.
+    479028|00000000||Take them in, give 'em a home. Won't steal from you, then.
+    479030|00000000||Sure, but I'll be feedin' the whelps! I gain nothin' from it.
+    479032|00000000||But… Suppose I'll give it some thought.
+    479058|00000000||Give 'em a home. Likely to stop stealing, then.
+    479070|00000000||Found a group of kids in the woods. They were the ones stealing your hens.
+    479072|00000000||Oh, children, eh? Ridin' on the backs of wolves, were they?
+    479074|00000000||Never any wolves here. The kids are just… clever…
+    479076|00000000||If they've anythin' in their noggins, they'll stay away from me hen house now!
+    479170|00000000||I found the thieves.
+    479173|00000000||Take care, now.
+    479171|00000000||Farewell.
+    479155|00000000||Eh, witcher? What is it?
    1064995|00000000||So many corpses… And the war's just started.
    1064997|00000000||Scar's healed nicely.
    1064993|00000000||Shit - mountain pass is beautiful as ever.
+    579470|00000000||Nice, nice. You seem to know horses as well as you do monsters. Here's your gold… And if the urge to race again grabs you, come see me.
+    579472|00000000||Unearthly witcher senses - they prattle on about them. Yet you just got outrun by a common grunt. Lost your gold… but get some more, and I'll arrange a rematch.
+   1032203|00000000||Felt like takin' a shortcut, clever boy? We don't tolerate none of that shite. You left the course, you lose your gold. Gotta win it back if you wanna see it again. You gotta race… honest this time.
+   1223268|00000000||It's regaining strength! Yrden and Aard – together!
+   1222331|00000000||Not about to let you leave this mine.
+   1222333|00000000||Oh, but I will. You are the weaker witcher.
+   1222580|00000000||I'll kill you, then spread through your viscera... invade your mind!
+   1222443|00000000||Give up, wolf! This is what you want! Won't be the first scourge you released upon the world!
+   1222582|00000000||You served a plague maiden already. Why stop there?!
+   1222574|00000000||Not giving you the potion.
+   1222544|00000000||Not half bad, your ruse. But don't take me for a fool.
+   1222546|00000000||But don’t you understand?! It will take control of me! It will kill you and all those you--you...
+   1222548|00000000||Now! Destroy it! Drink the potion! Finish what I... what I started!
+   1222550|00000000||Oh, I will, Reinald. Just hold on a little longer.
+   1222538|00000000||Hm. Take it, then. Just know I'll be ready at the first sign of trouble.
+   1222540|00000000||No! You-you can’t... Entire time... it wasn’t me!
+   1222542|00000000||Yes, yes...
+   1222572|00000000||Fine. Drink this.
+   1222560|00000000||Found your letters... to Lambert. Was sorry to read he betrayed you.
+   1223141|00000000||Can’t help thinking the miasmal wouldn’t have bowed before the strength of two witchers.
+   1222562|00000000||I was a fool... but what’s past is past. Lambert, the snake, never deserved my trust.
+   1222564|00000000||I'll be sure to pass the message along when I see him. Though, your friend – believe Osmund was his name.
+   1222566|00000000||You dare mock me?!
+   1222568|00000000||No. Just got the sneaking suspicion I’m not talking to Reinald right now.
+   1222578|00000000||[Test Reinald] Found your letters to... Lambert.
+   1222576|00000000||Know how long you’ve been here?
+   1222552|00000000||Been down here a while. Have any idea how long?
+   1222554|00000000||Years... decades. Time stands still here. Nothing ever changes, brother. Nothing.
+   1222556|00000000||Longer than that, Reinald, lots. Gotta understand you should be dead by now, right? Only thing keeping your body “alive” is the miasmal?
+   1222558|00000000||All the more reason to end this. You can do that. The potion... please.
+   1222523|00000000||Reinald?
+   1222525|00000000||Yes, but... m-my strength... fading. The spirit... taking control.
+   1223085|00000000||I trapped us in here... The salt, wondrous, understand? ...It can't escape.
+   1223087|00000000||Hmm, led it into an apotropaic chamber organically carved into salt – perfect for a specter. Clever.
+   1222527|00000000||But I... I feel it in me still... so long now. Help me, brother. Give me the potion... to expel it at last.
+   1222519|00000000||Finally, you're here. After all these years...
+   1223083|00000000||The spirit... a miasmal...! It's still... here.
+   1222521|00000000||Hnngh... It almost... almost has control... Rrrgh... Hurry! Agh...
+   1222445|00000000||What power! With your strength, I'll crush any who stand in my way!
+   1222447|00000000||All will drown in blood, choke on their juices! With none but you to thank!
+   1222480|00000000||Trap us with Yrden... then force it from my body!
+   1222484|00000000||Yrden first, then Aard.
+   1222486|00000000||Now to deal with the miasmal.
+   1223113|00000000||The stalagmites... destroy them, free me.
+   1223192|00000000||Wait, what're you doing? Don't leave me here! Please!
+   1223195|00000000||Hahahaha... at last! You have my thanks, witcher.
+   1223213|00000000||You're not Reinald.
+   1223215|00000000||My, observant. Albeit a tad slow.
+   1223217|00000000||Aaagh! I have no control! Hurry! You have to cut it dow-- Agh!
+   1223260|00000000||Cast Aard to expel it... stop it regenerating!
    1055682|b224b6d2||Devourer
    1056946|00000000||Lilac and gooseberries, of course.
    1058292|00000000||Geralt, stop fingering my toiletries.
@@ -315,6 +871,30 @@
    1056944|00000000||Nothing but silver…
    1058285|00000000||Gold clashes with my complexion. You should know that.
    1031654|00000000||The old signal tower. It'll be nothing but a pile of rubble soon.
+    583134|141198a8||Novigrad Guard
+   1055407|06ae3071||Helma
     578398|00000000||We'll talk later.
+   1049066|e9c03715||Ealdorman Bolko
+   1028788|00000000||How about a few rounds of cards? Gwent, specifically.
+   1086465|00000000||Gwent - let's play.
+    421005|00000000||Farewell.
+    420993|00000000||Farewell.
+    420991|00000000||Show me what you got.
+    421003|00000000||Like to take a look.
+    421001|00000000||A spot o' cider for ye? Or a bit o' dry curd? Me larder's not exactly burstin', but what I've got's sure to please.
+    595913|6b1268cb||Peasant
+   1028793|00000000||Up for a few rounds of gwent?
+   1086497|00000000||Gwent - would you play me?
+    422120|00000000||So long.
+    422116|00000000||Farewell.
+    422114|00000000||Show me your wares.
+    422118|00000000||What've you got there?
+    422112|00000000||Welcome, welcome!
     432590|d184d9f7||Wraith
+    465664|00000000||Feast your eyes, brave warriors, upon the basilisk - king of the serpents! One drop of his venom will kill an army, horses and all!
     170811|72cb8ee5||Drowner
+   1222807|00000000||“Dwarven spirit, celandine, contents of chest.” Must mean this chest.
+   1222809|00000000||Got some celandine on me, good thing. Other ingredients seem in decent condition.
+   1222811|00000000||Reinald’s own recipe, looks like. Worth a try.
+   1222410|00000000||Something’s not right. Medallion’s seething. And that stench...
+   1222412|00000000||Dammit! What are you, filth?!

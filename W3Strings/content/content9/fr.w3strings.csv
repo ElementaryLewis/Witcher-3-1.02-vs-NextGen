@@ -340,7 +340,7 @@
     563097|00000000||C'est sans importance, Phil. Il l'apprendra, de toute façon.
     563102|00000000||Très bien. Tant qu'il ne m'interrompt pas…
     563234|00000000||Je reste, à moins que Ciri n'en décide autrement.
-    563218|00000000||Ce n'est pas toi de décider.
+    563218|00000000||Ce n'est pas à toi de décider.
     563217|00000000||Je suis tout ouïe.
     563219|00000000||Faites comme si je n'étais pas là.
     563104|00000000||La Loge avait autrefois de grands projets pour toi, Ciri. J'imagine que tu n'as pas oublié.
@@ -380,6 +380,7 @@
     563583|00000000||Rallions Skellige pour trouver la Pierre de Soleil.
     563585|00000000||Avallac'h nous attend au port.
     563593|00000000||Allons prendre un peu d'air frais.
+   1086304|00000000||[EN] I won't let you take her and do what only you see fit.
    1062046|00000000||Qui vous a appris à vous battre ainsi ?
    1062048|00000000||Le sorceleur que vous avez tué.
     581320|00000000||Haaa…
@@ -785,51 +786,119 @@
     579899|00000000||Ah ah ah ! Oui… Ils se sont bien emmêlés les pinceaux !
     579849|00000000||Merci, Geralt, c'était parfait !
    1055188|e87aca57||Gouverneur de la prison
+   1124126|00000000||Ça se termine plutôt bien, tu trouves pas ?
+   1124128|00000000||De quoi parles-tu ?
+   1124130|00000000||Toi et Triss. Pour être franche, je m'y attendais pas.
+   1124132|00000000||La vie est pleine de surprises.
+   1124134|00000000||Alors, comment avez-vous…
+   1124136|00000000||Fini ensemble ?
+   1124138|00000000||Hmm. Avec Yen, c'était une succession de combats, de disputes… Ça ne me déplaisait pas, mais…
+   1124158|00000000||Mais quoi ?
+   1124141|00000000||C'était épuisant. Avec Triss, ça ne l'est pas. J'ai enfin trouvé… l'harmonie, le calme. Tout semble couler de source.
+   1124145|00000000||Tu sais… ça me regarde peut-être pas, mais… je suis contente que Yennefer et toi soyez enfin ensemble.
+   1124147|00000000||Moi aussi.
+   1124149|00000000||Vous avez pris votre temps.
+   1124151|00000000||Hmm. Je crois qu'il nous fallait du temps pour nous faire à l'idée.
+   1124153|00000000||Alors, ça t'a fait quoi quand la magie du vœu s'est dissipée ? Qu'as-tu ressenti ?
+   1124161|00000000||Hmm. Eh bien, on se trouvait sur une cime, rien que tous les deux. Je l'ai regardée et…
+   1124162|00000000||Et j'ai senti que je me trouvais exactement où il fallait. Enfin.
+    537215|00000000||Un peu de vin ?
+    537216|00000000||Merci.
+    537217|00000000||Je suis contente d'être restée.
+    537218|00000000||Moi aussi.
+    537219|00000000||Je crois qu'ils t'aiment bien.
+    537224|00000000||Oui, moi aussi je les aime. Ah, si je pouvais me joindre à eux…
+    558985|00000000||Boire, faire la course et voyager de ville en ville, sans jamais penser à l'avenir…
     558989|00000000||L'avenir te fait peur ?
     559015|00000000||L'avenir te fait peur ?
     559018|00000000||Oui, tout ce qui nous attend…
+    559034|00000000||Vaincre la Chasse ne sera pas facile, c'est vrai… mais avec la Loge et Avallac'h à nos côtés, je suis confiant.
+    559006|00000000||Ça me plairait bien, à moi aussi.
+    559021|00000000||Parfait, alors. Notre avenir est tout tracé.
+    559044|00000000||Il ne reste plus qu'à survivre assez longtemps pour en profiter…
+    558988|00000000||Bonne idée.
     558990|00000000||Il faut d'abord vaincre la Chasse.
     559020|00000000||Hmm… C'est un beau rêve, mais il faut d'abord vaincre la Chasse Sauvage.
-    559051|00000000||Chaque chose en son temps.
+    559025|00000000||J'ai bien peur ce que ne soit que le début… pour moi, en tout cas.
     559065|00000000||N'y pense pas pour l'instant. Chaque chose en son temps.
     559058|00000000||Tu sais que tu pourras toujours compter sur moi, quoi qu'il arrive.
     559062|00000000||Oui, je sais. Merci, Geralt.
-    559052|00000000||On verra bien.
+    559051|00000000||Chaque chose en son temps.
     559064|00000000||Ne t'en fais pas. Demain est un autre jour.
-    559144|00000000||Comment ça ?
+    559052|00000000||On verra bien.
+    559050|00000000||Que veux-tu dire ?
+    559056|00000000||Que veux-tu dire ?
+    559084|00000000||Ha ha ha !
+    559132|00000000||Tu avais promis !
+    559134|00000000||Et tu y as cru ?
+    559074|00000000||Parfois, j'aimerais être comme eux.
     559185|00000000||Comment ça ?
     559194|00000000||Normale.
-    559145|00000000||Je te comprends.
+    559144|00000000||Comment ça ?
     559187|00000000||Moi aussi. La vie de sorceleur est parfois un lourd fardeau…
     559282|00000000||Oui. Tout comme mon... "héritage". J'aimerais tellement être ordinaire.
-    559281|00000000||Tu peux choisir ton destin.
+    559145|00000000||Je te comprends.
+    559143|00000000||Ivre ?
+    559183|00000000||Tu veux dire ivre ? Si c'est le cas, c'est le moment ou jamais.
+    559189|00000000||Ah… Non, c'est pas ce que je voulais dire.
+    559197|00000000||Je voudrais... être normale.
     559287|00000000||Ta vie n'appartient qu'à toi. Tu peux forger ta propre destinée.
     559289|00000000||Tu sais que ce n'est pas vrai, Geralt.
-    559459|00000000||Tu peux refuser ta destinée…
+    559281|00000000||Tu peux choisir ton destin.
+    559280|00000000||Tu es née pour accomplir de grandes choses.
+    559285|00000000||Tu es tout sauf ordinaire, Ciri. Tu es née pour accomplir de grandes choses.
+    559293|00000000||Oui, c'est ce qu'on me répète depuis ma naissance.
+    559261|00000000||Tout ça à cause du Sang ancien ! C'est une vraie malédiction !
+    559270|00000000||Sans lui, je n'aurais pas tous ces pouvoirs… mais je pourrais mener une vie tranquille.
     559461|00000000||Tu n'es pas obligée de te plier à ta destinée…
     559462|00000000||Facile à dire. J'ai déjà essayé de lutter, tu t'en souviens ?
     559475|00000000||Et puis si ce n'est pas Eredin, je parie que quelqu'un d'autre se chargera de faire de ma vie un enfer.
-    559309|00000000||Ne sois pas naïve.
+    559459|00000000||Tu peux refuser ta destinée…
+    559380|00000000||Quand nous aurons vaincu Eredin, tu seras libre.
+    559290|00000000||Une fois que nous aurons vaincu Eredin, tu seras libre.
+    559207|00000000||Vraiment ? Eredin n'est pas le seul à vouloir se servir de moi, tu sais.
+    559300|00000000||La Loge des Magiciennes, mon père, Yennefer… La liste est longue.
+    559306|00000000||Sans oublier Avallac'h…
+    559307|00000000||Avallac'h est différent des autres…
+    559324|00000000||Il veut avant tout éviter que mon don n'échappe à mon contrôle. C'est pour ça qu'il veille sur moi et qu'il m'enseigne son savoir.
     559328|00000000||Il serait temps d'ouvrir les yeux, tu ne crois pas ?
     559329|00000000||Que veux-tu dire ?
-    579397|00000000||Non.
+    559309|00000000||Ne sois pas naïve.
+    559308|00000000||J'espère que tu as raison.
+    559321|00000000||Si tu le dis…
+    559326|00000000||Quoi, tu en doutes ?
+    559344|00000000||Un jour, tôt ou tard, Avallac'h te demandera une faveur.
+    559348|00000000||Peut-être… Mais certainement pas avant très, très longtemps.
+    559350|00000000||Et de toute manière, je suis sûre qu'il me laissera le choix. Je pourrai refuser si je veux.
+    559351|00000000||J'espère que tu as raison…
+    577174|00000000||C'est Pablo. Un jour, j'apprendrai à jongler comme lui.
+    579351|00000000||Quel talent…
+    579395|00000000||Ah, vous êtes là ! Alors, vous vous amusez bien ?
     579404|00000000||Jusqu'à votre arrivée, oui.
     579423|00000000||Il est toujours aussi désagréable, ton ami ?
     579428|00000000||Vous avez beaucoup de choses en commun.
     579430|00000000||Comment ça s'est passé avec le marchand ?
-    579398|00000000||Vous avez trouvé des chevaux ?
+    579397|00000000||Non.
     579406|00000000||Alors, vous avez vu le marchand ? Vous avez réussi à lui acheter des chevaux ?
-    585949|00000000||Je peux les acheter pour vous.
-    586015|00000000||Il doit bien y avoir un autre moyen…
-    586070|00000000||Écoutez, j'ai un peu d'argent de côté. Je pourrais vous faire une avance.
-    586017|00000000||Nous ne pourrions jamais vous rembourser une telle somme.
-    586019|00000000||Ce n'est pas grave.
-    586063|00000000||Dommage que l'empereur n'ait qu'une seule fille. On pourrait acheter tous les chevaux de Novigrad.
-    586026|00000000||C'est très généreux, mais ça ne change rien à la situation.
-    586028|00000000||Le problème, c'est que le marchand ne voulait pas faire affaire avec nous. Il m'a gentiment expliqué qu'il ne traitait pas avec la vermine.
-    586094|00000000||S'il refuse de vendre, nous n'avons pas d'autre choix que de le voler.
-    586100|00000000||Je comprends, mais ça reste une mauvaise idée…
-    586098|00000000||Je n'aime pas cette idée.
+    579398|00000000||Vous avez trouvé des chevaux ?
+    579396|00000000||Oui.
+    579402|00000000||Un feu de camp, du vin, des jongleurs… Que demander de plus ?
+    579426|00000000||J'ai bien une idée ou deux, mais il y a pire, oui…
+    579455|00000000||T'as l'air soucieux. Ça s'est mal passé avec le marchand ?
+    579478|00000000||Bah, ne m'en parlez pas ! Il a refusé mon offre d'échange et quand j'ai proposé d'acheter une bête, il m'en a demandé un bras.
+    579495|00000000||Pourtant nous avons besoin de chevaux. Il va falloir trouver un autre moyen…
+    579530|00000000||Ho ho ! Ça sent les ennuis…
+    579532|00000000||J'étais sûr que ça te plairait.
+    579541|00000000||L'idée, c'est de nous glisser dans l'écurie du marchand. Il possède plus de trente bêtes, alors quelques têtes de plus ou de moins…
+    579547|00000000||Tu m'accompagnes ?
+    579554|00000000||Bien sûr !
+    579579|00000000||Vous ne pouvez pas les acheter ?
+    579581|00000000||Pourquoi ne pas acheter les chevaux ?
+    579583|00000000||Avec quel argent ?
+    579598|00000000||Ciri vous a donné une bourse pleine…
+    579600|00000000||De quoi acheter un cheval, tout juste. Et il nous en faut au moins quatre.
+    579602|00000000||Ne fais pas ton rabat-joie, Geralt ! Le marchand ne sera pas ruiné, et puis ça nous détournera un peu les idées de la Chasse Sauvage.
+    579618|00000000||Allez, s'il te plaît !
     586097|00000000||Vous m'avez convaincu.
     577198|00000000||Très bien. S'ils ont besoin de notre aide…
     577199|00000000||Formidable !
@@ -843,69 +912,17 @@
    1058981|00000000||Si Ciri veut chevaucher avec nous, c'est son droit. Elle ne t'appartient pas.
    1058983|00000000||Pas question qu'elle risque sa peau pour une bande de chapardeurs.
     577196|00000000||Tu ne vas pas voler, tout de même ?
-    579579|00000000||Vous ne pouvez pas les acheter ?
-    579581|00000000||Pourquoi ne pas acheter les chevaux ?
-    579583|00000000||Avec quel argent ?
-    579598|00000000||Ciri vous a donné une bourse pleine…
-    579600|00000000||De quoi acheter un cheval, tout juste. Et il nous en faut au moins quatre.
-    579602|00000000||Ne fais pas ton rabat-joie, Geralt ! Le marchand ne sera pas ruiné, et puis ça nous détournera un peu les idées de la Chasse Sauvage.
-    579618|00000000||Allez, s'il te plaît !
-    579478|00000000||Bah, ne m'en parlez pas ! Il a refusé mon offre d'échange et quand j'ai proposé d'acheter une bête, il m'en a demandé un bras.
-    579495|00000000||Pourtant nous avons besoin de chevaux. Il va falloir trouver un autre moyen…
-    579530|00000000||Ho ho ! Ça sent les ennuis…
-    579532|00000000||J'étais sûr que ça te plairait.
-    579541|00000000||L'idée, c'est de nous glisser dans l'écurie du marchand. Il possède plus de trente bêtes, alors quelques têtes de plus ou de moins…
-    579547|00000000||Tu m'accompagnes ?
-    579554|00000000||Bien sûr !
-    579402|00000000||Un feu de camp, du vin, des jongleurs… Que demander de plus ?
-    579426|00000000||J'ai bien une idée ou deux, mais il y a pire, oui…
-    579455|00000000||T'as l'air soucieux. Ça s'est mal passé avec le marchand ?
-    579396|00000000||Oui.
-    577174|00000000||C'est Pablo. Un jour, j'apprendrai à jongler comme lui.
-    579351|00000000||Quel talent…
-    579395|00000000||Ah, vous êtes là ! Alors, vous vous amusez bien ?
-    559344|00000000||Un jour, tôt ou tard, Avallac'h te demandera une faveur.
-    559348|00000000||Peut-être… Mais certainement pas avant très, très longtemps.
-    559350|00000000||Et de toute manière, je suis sûre qu'il me laissera le choix. Je pourrai refuser si je veux.
-    559351|00000000||J'espère que tu as raison…
-    559321|00000000||Si tu le dis…
-    559326|00000000||Quoi, tu en doutes ?
-    559308|00000000||J'espère que tu as raison.
-    559300|00000000||La Loge des Magiciennes, mon père, Yennefer… La liste est longue.
-    559306|00000000||Sans oublier Avallac'h…
-    559307|00000000||Avallac'h est différent des autres…
-    559324|00000000||Il veut avant tout éviter que mon don n'échappe à mon contrôle. C'est pour ça qu'il veille sur moi et qu'il m'enseigne son savoir.
-    559290|00000000||Une fois que nous aurons vaincu Eredin, tu seras libre.
-    559207|00000000||Vraiment ? Eredin n'est pas le seul à vouloir se servir de moi, tu sais.
-    559380|00000000||Quand nous aurons vaincu Eredin, tu seras libre.
-    559261|00000000||Tout ça à cause du Sang ancien ! C'est une vraie malédiction !
-    559270|00000000||Sans lui, je n'aurais pas tous ces pouvoirs… mais je pourrais mener une vie tranquille.
-    559285|00000000||Tu es tout sauf ordinaire, Ciri. Tu es née pour accomplir de grandes choses.
-    559293|00000000||Oui, c'est ce qu'on me répète depuis ma naissance.
-    559280|00000000||Tu es née pour accomplir de grandes choses.
-    559183|00000000||Tu veux dire ivre ? Si c'est le cas, c'est le moment ou jamais.
-    559189|00000000||Ah… Non, c'est pas ce que je voulais dire.
-    559197|00000000||Je voudrais... être normale.
-    559143|00000000||Ivre ?
-    559084|00000000||Ha ha ha !
-    559132|00000000||Tu avais promis !
-    559134|00000000||Et tu y as cru ?
-    559074|00000000||Parfois, j'aimerais être comme eux.
-    559056|00000000||Que veux-tu dire ?
-    559050|00000000||Que veux-tu dire ?
-    559025|00000000||J'ai bien peur ce que ne soit que le début… pour moi, en tout cas.
-    559034|00000000||Vaincre la Chasse ne sera pas facile, c'est vrai… mais avec la Loge et Avallac'h à nos côtés, je suis confiant.
-    559006|00000000||Ça me plairait bien, à moi aussi.
-    559021|00000000||Parfait, alors. Notre avenir est tout tracé.
-    559044|00000000||Il ne reste plus qu'à survivre assez longtemps pour en profiter…
-    558988|00000000||Bonne idée.
-    537215|00000000||Un peu de vin ?
-    537216|00000000||Merci.
-    537217|00000000||Je suis contente d'être restée.
-    537218|00000000||Moi aussi.
-    537219|00000000||Je crois qu'ils t'aiment bien.
-    537224|00000000||Oui, moi aussi je les aime. Ah, si je pouvais me joindre à eux…
-    558985|00000000||Boire, faire la course et voyager de ville en ville, sans jamais penser à l'avenir…
+    585949|00000000||Je peux les acheter pour vous.
+    586015|00000000||Il doit bien y avoir un autre moyen…
+    586070|00000000||Écoutez, j'ai un peu d'argent de côté. Je pourrais vous faire une avance.
+    586017|00000000||Nous ne pourrions jamais vous rembourser une telle somme.
+    586019|00000000||Ce n'est pas grave.
+    586063|00000000||Dommage que l'empereur n'ait qu'une seule fille. On pourrait acheter tous les chevaux de Novigrad.
+    586026|00000000||C'est très généreux, mais ça ne change rien à la situation.
+    586028|00000000||Le problème, c'est que le marchand ne voulait pas faire affaire avec nous. Il m'a gentiment expliqué qu'il ne traitait pas avec la vermine.
+    586094|00000000||S'il refuse de vendre, nous n'avons pas d'autre choix que de le voler.
+    586098|00000000||Je n'aime pas cette idée.
+    586100|00000000||Je comprends, mais ça reste une mauvaise idée…
     172316|3a2616f8||Chasseur de sorcières
     528874|00000000||Reculez, reculez ! Pas la peine de vous presser !
     528875|00000000||Cette putain restera là jusqu'à ce qu'elle pourrisse !
