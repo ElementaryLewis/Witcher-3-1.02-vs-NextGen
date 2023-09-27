@@ -1,0 +1,418 @@
+;meta[language=hu]
+; id      |key(hex)|key(str)| text
+    569503|00000000||Egy witcher! Ó, ez tökéletes!
+    569499|00000000||Azt mondták, én leszek az első ma reggel – és már dél is elmúlt!
+    569502|00000000||Nyugodj meg.
+    569915|00000000||Micsodaaaa? Tudod te, kivel beszél, katona? II. Herevard vagyok, Ellander hercege!
+    569917|00000000||Mégis csak váratnak itt, mintha közönséges kérelmező volnék, és miféle társaságban? Egy kelmefestővel!
+    569919|00000000||Tímárral. A tímárcéh mesterével.
+    569921|00000000||Mintha lenne bármi különbség, az istenit! Követelem…
+    569923|00000000||Nyugodj meg.
+    569925|00000000||A császár csendet parancsolt. Akik megtörik, kemény büntetést kapnak. Származástól függetlenül.
+    569487|00000000||Az úriember kövessen, ha nincs ellene kifogása.
+    569488|00000000||Kérlek, maradj mellettem! Sok a rangos vendég a palotában, akiket az úriember…
+    569489|00000000||…undorít.
+    569961|00000000||…jobb, ha elkerül.
+    570594|00000000||Ha az úriember végzett, visszatérhet hozzám a holmijáért.
+    570583|00000000||Az úriember nem siet viszontlátni a varázslónőt?
+    570581|00000000||Mintha azt kértem volna…
+   1044413|00000000||Az úriembernek később lesz majd ideje sétálni. Kérlek maradj velem.
+    570571|00000000||Vajon az úriember nem érti? Nem tettem elég világossá, hogy meg kell hajolnia a császár előtt?
+    570573|00000000||Lazulj el. Semmi gond.
+    570575|00000000||Az úriembernek. De nekem bűnhődnöm kell.
+    570577|00000000||Hogyan?
+    570579|00000000||Kérlek, maradj mellettem és ne zavarj senkit! Mára elég az etikettsértésből.
+   1048792|00000000||Ez a támadás Kaedwent meglepetésként érte. Még mindig a királyuk elvesztését gyászolták. Vezetőjüket és lelkesedésüket vesztve letették a fegyvert néhány elvesztett csetepaté után – és csatlakoztak Radovidhoz.
+   1048383|00000000||Mi van Kovirral?
+   1048389|00000000||Mi van Kovirral?
+   1048391|00000000||Kovir sokra tartja a semlegességét. Eléggé ahhoz, hogy ne biztosítson sereget, és ami még fontosabb, pénzt bármelyik oldalnak.
+   1048393|00000000||Visszatérve a háborúhoz… Ezen a tavaszon nagy csata volt Velen mocsaraiban. Nagy, de semmit sem döntött el. Mindkét oldalnak komoly veszteségei voltak. Példa nélkül álló.
+   1048396|00000000||Radovid visszavonult a Pontaron át. Most biztonságban van… Amíg erősítés nem érkezik délről. Akkor Emhyr var Emreis császár leszámol vele, egyszer s mindenkorra.
+   1048398|00000000||Nem lehet, hogy egyszerűen hazamentek? Mindenkit megkímélnétek egy csomó meneteléstől. Nem is beszélve néhány életről.
+   1048400|00000000||Attól tartok, a tét már túl magas a visszalépéshez. Már csak előre mehetünk.
+   1048385|00000000||Tiszteletet hallok ki a hangodból?
+   1048387|00000000||Radovid az ellenségünk… De nem tagadhatom, hogy okos. A keményfejű fajtából. Teljesen hülyére vett.
+   1048375|00000000||Tiszteletet hallok ki a hangodból?
+   1048819|00000000||Így tavaszra két gyenge ellenfél helyett egyetlen erőssel kellett szembenéznünk.
+   1048790|00000000||Kaedwent teljesen meglepték. Henselt király az első sorban harcolt, mint mindig… És ott is halt meg. A katonái elvesztették a harci kedvüket. Csatlakoztak Radovid seregéhez.
+   1048684|00000000||Hogy halad a háború? Úgy értem eltekintve attól, hogy Nilfgaard végső győzelme a küszöbön áll.
+   1048687|00000000||Felteszem, ez most egy magánbeszélgetés. Nincsenek tanúk. Szóval hagyjuk a propagandát, még ha iróniába is csomagoljuk.
+   1048690|00000000||Az offenzívánk kiválóan haladt – egészen a tél beálltáig. Aedirn annyira rendezetlen volt, hogy nem találtunk ellenállást. Elértük a Pontart az első hó előtt.
+   1048692|00000000||Csak a legyengült Kaedwen maradt… És Radovid Redaniája, ami szó nélkül hagyta észak többi népének segítségkérését. Azt hittük, békekötést javasolnak, esetleg talán vazallus államként megadják magukat. Tavaszig vártunk, bízva a győzelemben.
+   1048695|00000000||Radovid? Megadja magát?
+   1048697|00000000||Igen. Szerintem is hiú remény. Radovid nem küldött békekövetet, de nem is nyomult előre az állásaink felé. Ehelyett átverekedte magát a hófödte Kestrel hegységen… És megtámadta Kaedwent. A szövetségesét.
+   1048342|00000000||Hogy halad a háború?
+   1041275|00000000||Bármi újság Novigradból? A szabad város még mindig szabad?
+   1048488|00000000||Igen. Bár mindenki tudja, hogy már nem sokáig. Radovid Oxenfurtban van, a császár pedig itt, Vizimában. Mindketten Novigrad küszöbén. Mindkettőnek pénz kell és hajók… és Novigradban bőségesen van ezekből.
+   1048490|00000000||Éppen ezért a hangulat a városban… hát, nem valami fényes.
+   1048492|00000000||Az mit jelent?
+   1048494|00000000||Hogyan birkóznak meg az emberek a félelemmel? Biztonságot keresnek… és bűnbakokat. Az Örök Tűz egyháza tökéletesen tisztában van ezzel. És azt ígéri, hogy jobbá teszi a nyája életét, rámutatva a bűnösökre.
+   1048496|00000000||Ki kezdte a háborút? Ki nyer rajta? Persze, nyilvánvaló: mágusok, tündék, törpök. Egyszóval minden deviáns.
+   1048498|00000000||Tizenhárom éven át állomásoztam Novigradban. Először konzulként, aztán nagykövetként. Sokat láttam. Kegyetlenséget, cinizmust, kapzsiságot. De ami most ott folyik, attól engem is kiráz a hideg.
+   1041259|00000000||Mi újság Novigradban?
+   1041283|00000000||Mi hír van Skelligéről?
+   1048519|00000000||Semmi. A szigetlakók éppen erre büszkék, ugye. Mindent a hagyományok szerint csinálnak. Ahogy az őseik is tették.
+   1048521|00000000||És ahogy az őseik, ők is egymással csatároznak. Fosztogatnak. Időnként megtámadják egy szállítmányunkat. Ez kellemetlen… De semmi több. Skellige mindig is csak egy lábjegyzet volt a történelemben. És az is marad.
+   1048523|00000000||Rettentően magabiztosnak hangzik. Mi van, ha Bran királynak sikerül egyesítenie a jarlokat? A klánokat a flottátok ellen vezeti?
+   1048525|00000000||Bran király egy gyenge öregember. Amennyire tudom, a saját vazallusai nevére is alig emlékszik… Az összes egyesítése igencsak nehéz lenne.
+   1041260|00000000||Mi hír van Skelligéről?
+   1041293|00000000||Köszönöm a segítséged.
+   1048344|00000000||Ugyan, semmiség. A Hatalmas Nap ragyogja be utadat.
+   1041261|00000000||Köszönöm a segítséged.
+   1041258|00000000||Mi a helyzet Velenben?
+   1041263|00000000||Hogy mennek a dolgok Velenben?
+   1041269|00000000||Éppolyan rosszul, mint máskor… vagy rosszabbul.
+   1041271|00000000||Ez a vidék sosem volt tejjel-mézzel folyó kánaán… Most viszont vér folyik. Többször is feldúlták a hadseregek, letarolva a vetést, kifosztva a magtárakat, felégetve a falvakat. Éhínség sújtja a lakosságot.
+   1048476|00000000||Mhm. Szóval hogy megy ennek a földi paradicsomnak az irányítása?
+   1048481|00000000||Őszintén szólva nem jól. Az erőink szétszórva, Velen pedig főleg mocsaras erdőségekből áll, amit nehéz ellenőrizni. Volt már néhány őrjárat, ami nem tért vissza.
+   1048483|00000000||Így inkább ideiglenesen átadtuk a kormányzást a területen egy bizonyos északinak. Egy korábbi altiszt a temeri hadseregből, egy bizonyos Philip Stenger… Bár ismertebb a háborús nevén, mint Véres Báró.
+   1048485|00000000||Azt tanácsolom, kerüld el őt.
+   1041253|00000000||Var Attre nagykövet?
+   1048334|00000000||Yennefer azt javasolta, kérdezzelek az eseményekről. A háborúról meg mindenről.
+   1048336|00000000||Hát persze. A császár szolgáinak ne legyenek titkaik egymás előtt. Ha megengeded… menjünk a térképhez.
+   1041257|00000000||Igen, Geralt? Még valami?
+   1041255|00000000||Az vagyok. Te pedig bizonyára Geralt. A witcher, akit Fehér Farkasként ismernek… vagy némelyek Blaviken mészárosaként.
+   1048332|00000000||A Geralt igazán elegendő.
+   1077546|0aa7b54a||Gárdista
+   1048536|00000000||Ki van hegyezve az a penna? Igen? Akkor jegyezd.
+   1048538|00000000||Novigrad valódi vezetője nem a városi tanács vagy a kereskedők céhe, hanem az Örök Tűz egyháza és a bűnözői alvilág.
+   1048546|00000000||Időnként nehéz megkülönböztetni őket egymástól. Mindkettő hasonló kegyetlenséget és cinizmust mutat, ami…
+   1048548|00000000||Kérlek, várj, excellenciás uram… lemaradtam.
+   1048550|00000000||Tudod mit, magam írom meg ezt a jelentést. Akkor csak egyszer kell leírnod... Három példányban.
+    420952|7643aa11||Szolga
+    569516|00000000||Bocsáss meg, uram. Dolgunk van.
+    569512|00000000||{Ess’va dearf? } [Biztos vagy benne?]
+    570796|00000000||{Evelienn. Katte áth, tve gláeddyven. Essa vatt’ghern. } [Teljesen. Macskaszem, két kard… Witcher.]
+    569513|00000000||{Esse ma a strigean aep Foltest aen carnnan. } [Lehet, hogy a katakombákhoz kell. Kipucolni a Foltest idejéből maradt strigákat.]
+    569515|00000000||{Caen vyos? Ae’vyos que’ess imbael. Essa ssant. Ess’va Nordling. } [Talán. Ki tudja, hányat nemzett? Úgy hírlik, a végletekig kicsapongó volt. Tipikus északi.]
+    570811|00000000||{Allaidh. } [Barbárok.]
+   1050605|00000000||{Esse clytie… Hyn vrae breinne gardd? } [Ezek a virágágyások… ezt hívják királyi kertnek?]
+   1050607|00000000||{En celfyd daen garddvrae esse plenten aep Nord, marche. } [Úgy tűnik a kertművelés művészete még gyerekcipőben jár itt északon.]
+   1050634|00000000||{En celfyd daen sychiad hefyd, cassve caen gvelede tu meve. } [A takarítás művészete is, annak alapján, amit bent láttam.]
+   1050609|00000000||{Ymherodr caisse hvandre slafie aep caer’den duges Vicovaro. Glaenne esse plasse. } [A császár hamarosan száz rabszolgát hozat Vicovaro hercegnő udvarából. Ők majd rendbe hozzák a helyet.]
+   1050611|00000000||{Hvandr gallu esse nac’gvasse… } [Száz nem lesz elég…]
+   1050636|00000000||Nincs szükségünk úriember kíséretére.
+   1055186|3a515643||Nilfgaardi arisztokrata
+    571107|00000000||Miben állhatok az úr rendelkezésére?
+    571108|00000000||Azzal, hogy visszaadod a holmimat.
+    571110|00000000||Citrus és a szegfűszeg. Az illat jó időre kellemetesebbé teszi az úriember öltözékét.
+    571468|00000000||Mhm. Hálás köszönetem.
+   1047735|00000000||A császárt nem a türelméről ismerik. Vissza akarja kapni a lányát, épen és egészségesen. Amilyen gyorsan csak lehet.
+   1047737|00000000||Egen… Említett valami ilyesmit. Ég veled.
+    571470|00000000||Az Arany Nap világoljon néked mindörökké.
+   1069326|e0351e50||Kincsesláda
+   1001508|00000000||A beszélgetésnek vége.
+   1001510|00000000||Megkaptad a parancsokat – elég egyértelműek.
+   1001506|00000000||Ha beszédünk van veled, majd kéretünk.
+   1028795|00000000||Nem bánnék néhány partit.
+   1086498|00000000||Gwynt – játssz velem!
+    492362|00000000||Viszlát.
+    492353|00000000||Viszlát.
+    492349|00000000||Hm?
+   1054906|cd8f7b8e||var Attre nagykövet
+   1043973|00000000||Rendben.
+   1044089|00000000||Rendben… És aztán? Megcsinálod a körmeimet is?
+   1044091|00000000||Ha az idő engedi. Sajnos a nap rövid, míg a higiéniai és kozmetikai kezelések sora, amelyen egy úriembernek át kell esnie, meglehetősen hosszú.
+   1041386|00000000||Megkíméltem az életét. Elmenekült.
+   1041398|00000000||Ellenségekként harcoltunk, igaz… Aztán ugyanabban a katakombában kötöttünk ki. Aryan elmenekült. Kifelé menet felgyújtotta a várat.
+   1041400|00000000||Ahh, szóval így kezdődött a tűz. A jelentéseink szerint egy sárkány volt a felelős.
+   1041314|00000000||Iorvethhez csatlakoztam, ő segített.
+   1041374|00000000||Iorveth társaságában jutottam ki Flotsamból. Ő egy Scoia'tael egység parancsnoka.
+   1041376|00000000||A szörnyek gyilkosa és az emberek gyilkosa… Érdekes szövetségeket köttök.
+   1041324|00000000||Roche-nak segítettem megmenteni Anaïst.
+   1041370|00000000||Én nem így látom a dolgot. Segítettem egy barátnak… Megmenteni egy gyereket.
+   1041372|00000000||Anaïs nem csak egyszerű gyerek volt. Gyalog volt egy játékban, amit te nem érthetsz. Te és Roche egyáltalán nem mentettétek meg őt… Legjobb esetben is a szakadék egyik pereméről a másikra löktétek. Felszítva a konfliktus lángját.
+   1047296|00000000||Segítettem Iorveth-nek a Saskiát fogva tartó varázst levenni.
+   1047299|00000000||Egyáltalán nem. Személyes ügyben jártam ott. Segítettem Iorveth-nek a Saskiát fogva tartó varázst levenni.
+   1047301|00000000||Igen. És ezzel okot adtál Radovidnak, hogy elkezdje a boszorkányüldözést. Gratulálok.
+   1041334|00000000||Azt kapta, amit megérdemelt.
+   1041348|00000000||Inkább csak egy régi ismerős. Nem olyan közeli, hogy sajnáltam volna. De ahhoz elég közeli, hogy tudjam, megérdemelte.
+   1041350|00000000||„Úgy hiszi, ő egymaga tudja, mi jó és mi gonosz. És ez feljogosítja arra, hogy igazságot szolgáltasson.”
+   1047303|00000000||A bajtársad, Guleti Letho, Jellemzett így téged. Eléggé pontosan, úgy vélem.
+   1044184|00000000||A bajtársam. Az ügynököd.
+   1041346|00000000||Az a szövetség még él? Mi történt Lethoval?
+   1041352|00000000||Ez a szövetség még tart? Mire készül Letho?
+   1041354|00000000||Azt reméltem, ezt a kérdést te válaszolod meg.
+   1041356|00000000||Ah. Szóval Letho bujkál előletek… Biztos jó oka van rá. Biztos változtak a nemzeti érdekek és amiatt.
+   1044186|00000000||Nem t'om hol van. De ha tudnám, se mondanám el. Akár van penge a torkom előtt, akár nincs.
+   1047765|00000000||Hogy megy? Az előkészületek az audienciára a tervek szerint haladnak?
+   1047767|00000000||Igen, tábornok. Az úr többé-kevésbé szalonképes lesz.
+   1047769|00000000||Ki ez a fickó? Ő is borbély?
+   1047771|00000000||Nem. Morvran Voorhis. Az Alba osztag parancsnoka. Yennefer kísérete – mind az én embereim voltak, egytől egyig.
+   1047773|00000000||Valóban… „voltak.” Mert egy sem tért vissza Vizimába, ugye? Igazán kíváncsi vagyok, mi történt tegnap az úton. Talán te felvilágosíthatnál? Van időd… és egy borotva a torkodon.
+   1047787|00000000||A Vad Falka ölte meg őket.
+   1047789|00000000||Egy csapat lidérc, ahogy átvágtat az éjszakai égbolton? A háború ómenjei, amiről a parasztok locsognak? Azt várod, hogy ezt elhiggyem?
+   1047791|00000000||Őszintén… egyáltalán nem érdekel.
+   1047779|00000000||A Vad Falka ölte meg őket.
+   1047778|00000000||Az embereid harcban estek el. Katonákhoz méltón.
+   1047781|00000000||Az embereid harcban estek el. Ahogy a katonák szoktak.
+   1047783|00000000||Látom, hogy a sorsuk nem zavar téged… nagyon.
+   1047785|00000000||Igaz. De azt hiszem, őket sem zavarta nagyon azok sorsa, akiknek a hazáját meghódították.
+   1047802|00000000||Északiak. Megfürdethetünk, megborotválhatunk és felöltöztethetünk, de hogy jó modort tanítsunk… na az már komoly kihívás.
+   1047804|00000000||Én is örültem a találkozásnak.
+   1047806|00000000||Kész. Megborotváljam még egyszer, az ellenkező irányból?
+   1047808|00000000||Ne. Ő maga az ellenkező irány – ez épp elég. Ég veled, witcher… Vagy inkább a mielőbbi viszontlátásra.
+    569662|00000000||Jó. Az úriember felöltözhet.
+    569664|00000000||Sajnos, nem kaptam pontos méreteket. Ha a ruha lötyög, a szabó majd igazít rajta.
+    569386|00000000||Hol a cuccom?
+    569389|00000000||Hol a saját ruhám?
+    569674|00000000||Ahol régóta nem járt: a mosónőnél.
+    569676|00000000||Visszakapod az audiencia után. Tisztán és keményítve.
+    569391|00000000||Az úriember jelezze, ha sikerült ruhát választania.
+    569387|00000000||A fekete, a fekete és a fekete közül?
+    569388|00000000||Nilfgaardban nem szeretik a rikító színeket.
+    569385|00000000||Mindegy milyen színű, csak fekete legyen?
+   1041358|00000000||Azt hiszem, ez minden. Az aláírásodat kérem, hogy csak az igazságot, a teljes igazságot vallottad bebörtönzés vagy halálbüntetés terhe mellett satöbbi, satöbbi. Itt… és itt.
+   1041362|00000000||Most, hogy ezekkel a formalitásokkal végeztél, megkérlek tábornok, hogy hagyd el a szobát. Ki kell választanunk az úriember öltözékét. Fontos kérdés, de olyasmi, ami nem igényli egy tábornok segítségét.
+   1041364|00000000||Kár… Adhattam volna némi tanácsot. Ég veled, Geralt. Sok sikert az audienciához.
+   1044195|00000000||Sokkal inkább olyan, mintha egy esküvőre készítenének fel…
+   1044202|00000000||Ha így lenne, akkor frakkot vagy szmokingot, esetleg díszmentét készítettem volna elő. Valójában egy úriember ezek közül választ.
+   1041366|00000000||Hát az a szövetség feloszlott. Végérvényesen. Megöltem Lethót Loc Muinne-nál.
+   1041368|00000000||Mi is így hallottuk… Jó, hogy megtetted. Megkímélted az ügynökeinket egy nehéz és zűrös feladattól.
+   1041345|00000000||Ez a szövetség halott. Tudod, megöltem Lethot.
+   1044191|00000000||Hát… A nemzeti érdekek időnként különös szövetségeket hívnak életre. Szövetséget witcherekkel.
+   1041336|00000000||Láttam, ahogy bekerül a megaszkópba… De végül megmentettem… a csapdából, amit a ti emberetek, Guleti Letho állított. Írd csak le. Biztosra akarok menni, hogy a papírmunka rendben lesz.
+   1041333|00000000||Síle elmenekült.
+   1044122|00000000||Nilfgaard nemrégiben háborút indított. Ok nélkül. Szóval tedd meg azt a szívességet, hogy nem papolsz erkölcsről.
+   1044189|00000000||Az úrnak nyugton kell ülnie. Már majdnem végeztem.
+   1044124|00000000||Attól tartok, ezt nehezen hihetőnek találom. Mert ahogy én tudom, nem sokkal az után láttad, hogy egy hibás megaszkóp cafatokra robbantja a barátodat, Síle de Tansarville-t.
+   1041326|00000000||A hatalmasok bebörtönözték Triss Merigoldot. Tudhatták volna, hogy fontos nekem… És hajlamos vagyok megmenteni azokat, akik fontosak nekem.
+   1041328|00000000||És meg is tetted. Átadva eközben Radovidnak az irányítást a Mágusok Konklávéja és Tanácsa fölött.
+   1041323|00000000||Meg kellett mentsem Trisst.
+   1044114|00000000||Valami azt súgja, a legérdekesebb rész még hátra van. Folytasd a következő kérdéssel, mielőtt visszanő a szakállam.
+   1044116|00000000||Majd újra megborotválunk, ha úgy esne. Nos hát… A Loc Muinne-i hírhedt találkozó. Ott voltál. És megint csak a hatalmasok dolgaiba ártottad magad.
+   1041316|00000000||Vernon Roche társaságában jutottam ki Flotsamból. A Kéksávosok parancsnoka és…
+   1041318|00000000||…A másfajúak gyilkosa. Jól ismerjük azt az urat, witcher. Különös szövetségeket kötsz.
+   1041313|00000000||Flotsamból Vernon Roche társaságában jöttem el.
+   1044110|00000000||Folytassuk… Ezután a festői Flotsamban találtál menedékre, és onnan Vergen felé folytattad utad. A kérdésem az, „hogyan”?
+   1041378|00000000||Foltest parancsolta, hogy tisztítsam meg az utat. A fiú az utamba állt.
+   1041380|00000000||A la Valette örökös levágása – nem volt rád semmilyen hatással? Bár azt hiszem, nem… Mit számít egy báró a királyok gyilkosának?
+   1041385|00000000||Aryant az ostrom alatt öltem meg. Így jött ki a lépés.
+   1044077|00000000||És készülj fel néhány kérdés megválaszolására.
+   1044079|00000000||Tábornok… Nem hiszem, hogy ez az alkalmas időpont.
+   1041390|00000000||Nem tudok ennél jobb időpontot. Az emberek őszinték lesznek, ha egy penge van a torkuk előtt.
+   1047100|00000000||Morvran Voorhis, az Alba osztag parancsnoka. Mielőtt a császár színe elé visznek, witcher, van néhány információ, amit meg kellene erősíts. Csak formalitás, de ezt is meg kell tennünk.
+   1041392|00000000||Hát persze. A papírmunkának rendben kell lennie.
+   1044081|00000000||Szóval… Ríviai Geralt. Születési helye: ismeretlen, szülők: ismeretlen, kora: ismeretlen… Csupa lényegtelen részlet. Lépjünk tovább a közelmúlt eseményeihez. A La Valette vár ostroma. A védők parancsnokának, Aryannak sorsa.
+   1041388|00000000||Döntsd hátra a fejed, kérlek. És ülj nyugodtan.
+   1044083|00000000||Mi a baj a szakállammal? Mindig úgy gondoltam, hogy méltóságot kölcsönöz.
+   1044085|00000000||Ez így van. Ugyanakkor levon az eleganciádból. Nilfgaardban a szakállat kellemtelen viseletnek tartjuk… Különösen a tetves szakállat.
+   1044087|00000000||Úton vagyok már egy ideje… Rendben. Tedd a dolgod.
+   1043972|00000000||Valami gond van a szakállammal?
+    569648|00000000||Az úriember azon a zsámolyon fog ülni.
+    569650|00000000||Hogy min?
+    569652|00000000||Ezen a… széken.
+    569655|00000000||Cledwyn. Kérlek, borotváld meg az úriembert. Pajeszhossz fél hüvelyk.
+    569642|00000000||Hmm. Megjárja.
+    569644|00000000||Gondolod, hogy Emhyrt érdekli a tisztaságom?
+    569646|00000000||Az úriember használja ő császári felsége teljes titulusát… vagy ne emlegesse egyáltalán.
+    570205|00000000||Császári felség.
+    570207|00000000||{Areir aep tho orde… } [Ahogy felséged kívánta…]
+    570209|00000000||{Evelienn namyn vatt’ghern va vort. } [Mindenki kifelé. Kivéve a witchert.]
+    570185|00000000||[Nem hajolsz meg.]
+    570333|00000000||Azt hittük, nem hajolsz meg senki előtt.
+    570335|00000000||Nem akarok csalódást okozni a kamarásnak. Jó cimbora.
+    566880|00000000||Csak Ciriért teszem.
+    566901|00000000||Tartogassa a nagylelkűségét azoknak, akiknek otthonát a seregei felperzselték.
+    566903|00000000||Megteszem, de Ciriért. Nem az aranyért.
+    566905|00000000||Az indíttatásod nem érdekel. Csak az eredmény.
+   1047320|00000000||Yennefer majd elmondja a részleteket.
+    566899|00000000||Az audienciának vége. Mererid!
+    570367|00000000||Vidd a varázslónőhöz.
+    577657|00000000||Információ kell, nem motiváció. Ciri… nemigen hagy nyomot maga után. Nehéz lesz megtalálni.
+    577674|00000000||A kémeink segítenek. Számíthatsz rájuk, és a seregeinkre is, ha szükséges.
+    566878|00000000||Információ kell, nem motiváció.
+    566888|00000000||Hány ember van a seregben? Húszezer? Harmincezer?
+    577718|00000000||Akkor miért én?
+   1044571|00000000||Tudod miért. Mert benned megbízik.
+    577410|00000000||Bízik bennem, igen. Mondja hát el, miért keresi. Kétlem, hogy az elvesztegetett évekért akarja kárpótolni…
+    577412|00000000||Államérdekből kifolyólag. Mint mindig.
+   1047316|00000000||Elég ebből az élcelődésből. Mindenképpen beleegyezel.
+   1047318|00000000||Ha más okból nem is, azért, mert fizetek. Többet, mint amennyit egy megbízásért általában kapsz. Lényegesen többet.
+    577209|00000000||Miért én?
+    577210|00000000||Visszajött? Ez biztos?
+    577321|00000000||Biztos ez? Ciri… eltávozott. Nagyon, nagyon messzire.
+    577417|00000000||Azt képzeled, iderángattunk volna a háború kellős közepén, ha csak pletyka lenne?
+    577709|00000000||Azt képzelem, hogy bárki tévedhet, még egy császár is.
+   1047312|00000000||Elfelejtettük, milyen arcátlan tudsz lenni.
+   1047314|00000000||Nincs időnk meggyőzni téged. És kedvünk sincs. Yennefer majd megteszi – a kihallgatás után.
+    566763|00000000||De gondolom nem azért vagyok itt, hogy a régi szép időkről diskuráljunk, szóval…
+    566770|00000000||Csendet.
+    566784|00000000||Leányunk, Cirilla… visszatért. És veszélyben van. A Vad Falka üldözi.
+    577208|00000000||Meg fogod találni őt. És visszahozod hozzánk.
+    570337|00000000||Szóval a Foltest udvarában töltött hónapok alatt se sikerült elsajátítanod az etikett alapjait.
+    570339|00000000||Tudja felség, hogy szól a mondás: öreg farkasnak nem taníthatsz új kunsztokat.
+    570184|00000000||[Meghajolsz.]
+    570177|00000000||{Ym’grymie aep Aard Ker’zaer, Deithwen Addan yn Carn aep Morvudd, Emhyr var Emreis! } [Hajolj meg Ő császári felsége, a Fehér Láng, Mely Ellenségei Sírhalmán Táncol, Emhyr var Emreis előtt!]
+    570180|00000000||Meghajlás!
+    582353|00000000||Megbocsáss, uram. Biztos voltam benne, hogy nem fogok…
+    582355|00000000||Tudod, ki vagyok?
+    582357|00000000||Igen.
+    582359|00000000||Emhyr var Emreis, Nilfgaard császára, a Fehér Láng, Mely Ellenségei Sírhalmán Táncol.
+    582361|00000000||Foltest szolgája vagy?
+    582363|00000000||Az voltam, igen. És felség… tényleg azt csinálja?
+    582365|00000000||Mit?
+    582367|00000000||Táncol az ellenségei sírján?
+    582369|00000000||{Őrség!
+    582351|00000000||Soha senki nem kérdezett bennünket erről.
+    582405|00000000||{Gàrracaer ess mëot leeg caer. } [Úgy hittük, senki nincs a kertben.]
+    582407|00000000||{A’ess, Aard Ker'zaer. N’evellien am caed… } [Nem is volt, császári felség. Senki sem volt…]
+    582410|00000000||Könyörüljön, uram… Csak a fát gondozom… Azt hittem, senki sem…
+    582412|00000000||Csend, temeri! Ne beszélj, míg meg nem szólít.
+    582414|00000000||{Ax. } [Fejszét.]
+    582416|00000000||Igenis, császári felség.
+    582418|00000000||Ez nem Temeria többé. Sem a kert, sem a palota, sem az ország. Ez már Nilfgaard.
+    582420|00000000||Akkor legyen Nilfgaard… Már Medell, Foltest apja idejében is én gondoztam a fát.
+    582422|00000000||Tudod, hogyan halt meg Foltest?
+    582426|00000000||Meggyilkolták a La Valette kastélyban.
+    582428|00000000||Hol volt az udvari testőrség?
+    582430|00000000||A király egyedül volt. Azt mondják… a gyilkos az imaházban csapott le rá.
+    582434|00000000||Magányosan, igen. Halálos csapda lehet, ha valaki nem elég éber.
+   1002205|b352eb18||Nilfgaardi udvaronc
+    569510|00000000||{Vissean ess’va aen Novigrad? } [Visszatértek a követek Novigradból?]
+    569511|00000000||{Yeá… An neen. Raadsliden ae’enect, es Tunn esse saor an neenphàir. } [Igen… üres kézzel. A tanács szerint a város továbbra is független és semleges marad.]
+    569998|00000000||{Esse'sidh avside aep feansa neen math theenk. Neen cofhurtail an ennv pa vall. } [A kerítésen egyensúlyozni – bolond dolog. Nem csak kényelmetlen, leesni is könnyű.]
+    570000|00000000||{Ess vraag, que’ss side… } [A kérdés az, melyik oldalra…]
+    570001|00000000||{Dùth. Visse var Attre ess pa’as aep. } [A jobbikra. Var Attre nagykövet majd tesz róla.]
+    570030|00000000||És mégis érdemes.
+    570054|00000000||Mégis érdemes próbálkozni.
+    570056|00000000||Miért?
+    570122|00000000||Mert kevés ügy érdemes a szolgálatra. És még kevesebb ember.
+    570124|00000000||De ennyit erről. Nem beszélhetnénk másról?
+    570048|00000000||Arról tudnék mesélni.
+    570050|00000000||Kifejtenéd?
+    570052|00000000||Mindig ugyanaz. Próbálok kimaradni a dolgokból, félrehúzódni… Aztán jön egy sürgős hívás. És egy ajánlat, amire nem lehet nemet mondani.
+    570029|00000000||Erről tudnék mesélni.
+    575870|00000000||{Tedd a’taeghane, en’ca land n’ees a evelloë saor. Aep Toussaint… } [Manapság nem bölcs dolog a kis államoktól a függetlenség szajkózása. Itt van például Toussaint…]
+    569522|00000000||Zavarhatok?
+    570024|00000000||Miért nem csatlakozol inkább?
+    570026|00000000||A semlegességről beszélünk. Hogy milyen bajos megőrizni.
+    570028|00000000||Igen, Geralt?
+    570120|00000000||Beszéltem a császárral.
+    570139|00000000||Nos, beszéltem a császárral.
+    570141|00000000||Mhm. Miért kéretett?
+    570143|00000000||Tehát még te sem tudod.
+    570146|00000000||Nem, de fogadok, hogy közönséges witcher megbízás.
+    570148|00000000||Mhm. Egy falkányi vérbúbó.
+    570062|00000000||Ég veled.
+    570058|00000000||Viszlát.
+    570060|00000000||Hamarabb, mint hinnéd.
+   1055163|e128b05b||Nifgaardi nemes
+   1047371|00000000||Igen… felnőtt.
+   1047420|00000000||Mit szólsz hozzá… felnőtt.
+   1047422|00000000||Sok éve már annak, hogy Kaer Morhenben együtt gyakoroltatok.
+   1058728|00000000||Sok minden megváltozott.
+   1049513|00000000||Te nem, egy cseppet sem.
+   1049515|00000000||Már hiányoztak ezek a kínos bókjaid…
+   1058726|00000000||De koncentráljunk Cirire, rendben?
+   1047689|00000000||Attól tartok, ezt azt jelenti, megint elválnak útjaink… Nem kedvemre való… De megértem. Az óra ketyeg.
+   1047710|00000000||Ketyeg bizony… Szóval el is teleportálhatnálak egyből Velenbe, hogy rögtön ott légy.
+   1047712|00000000||Az nem fog menni. Lóháton megyek. Amint át tudtam öltözni.
+   1047714|00000000||Ahogy akarod. Oh, és… Igazán vadítóan nézel ki fekete bársonyban.
+   1047716|00000000||Úgy gondolod? Talán majd azzal szegetem be a vértemet… sok sikert, Yen.
+   1047722|00000000||Neked is. És ha kíváncsi vagy, mi történt a világban, amíg te és Vesemir a rengeteget jártátok, beszélj var Attre nagykövettel. Ő az, ott.
+   1049543|00000000||ÉS Geralt… tudom, hogy háború van, meg minden. De ne próbálj hősködni, jó? Csak ellenőrizd a nyomokat és gyere el hozzám. Egy darabban.
+   1065014|00000000||Várok rád.
+   1047686|00000000||Ideje indulni.
+   1047687|00000000||Mielőtt elválunk… miért nem keresetél korábban?
+   1047691|00000000||Még valami, mielőtt indulunk… Miért nem kerestél? Nem volt rám szükséged, vagy látni sem akartál?
+   1047693|00000000||Nem akartam elrontani a dolgokat. Úgy hallottam, te és Triss szép pár voltatok.
+   1047704|00000000||Yen… elvesztettem az emlékezetem.
+   1048306|00000000||Tényleg? Ez a mentséged?
+   1047706|00000000||Hagyjuk a témát, rendben? „Nem az, aminek gondolod” vagy „segített megérteni, mennyire szeretlek” – nem akarom hallani egyiket sem.
+   1047652|00000000||Szóval pontosan hol látták Cirit?
+   1047654|00000000||Két helyen. Velenben és Novigradban.
+   1047656|00000000||A veleni nyom ígéretes. Az lehetne az első állomásod. Keress egy Hendrik nevű kereskedőt a fogadóban a keresztútnál. A császár egyik ügynöke kapcsolatba fog lépni veled.
+   1047658|00000000||Ennyi? Semmi jelszó, titkos kézfogás?
+   1047660|00000000||Nincs. Bocs, hogy lelombozlak, de azok csak kamaszfiúk képzeletében léteznek.
+   1047662|00000000||Novigradból csak meg nem erősített jelentések, pletykák jöttek… De ott közös ismerősünk a segítségedre lesz.
+   1058730|00000000||Triss Merigold. Úgy tűnik, kényelmes lakása van a főtéren.
+   1047664|00000000||Biztosan örül majd, hogy lát… és te? Te mit fogsz csinálni?
+   1047666|00000000||Elhajózom Skelligére. Volt ott egy mágikus robbanás nemrég, a fél erdőt letarolta… Azt hiszem, ennek köze van Cirihez. Kaer Troldéban leszek. Ott csatlakozz hozzám, ha megtudtál valamit.
+   1047626|00000000||Szóval hol látták Cirit?
+   1047435|00000000||Mit akarnak a Vadak Ciritől?
+   1047628|00000000||A Vad Falka – mit akarhatnak Ciritől?
+   1047630|00000000||Fogalmam sincs, Geralt. Írhattam volna nekik, hogy megkérdezzem, de nem tudom a címet.
+   1047635|00000000||Én is csak annyit tudok, mint te. A származásával lehet kapcsolatos. Az… adottságával.
+   1047638|00000000||Hogy aztán a Vad Falka mit kezd ezzel az adottsággal… azt nehéz megmondani. Még rá gondolni is nehéz.
+   1047432|00000000||Rendben… Emhyr azt mondta, a Vad Falka üldözi. Ezt nehezen hittem volna el – a tegnap történtek előtt. Hogyan jutottak a nyomunkra?
+   1047440|00000000||Miattam. Tudod… hónapokat töltöttem Ciri keresésével. Kutasz varázsok, haruspexia, geomancia, tényleg minden. Tudtam, hogy a Vad Falka talán megérzi, Talán még meg is találnak… De azt hittem, átvertem őket.
+   1047442|00000000||Hát, azt hiszem, tévedtél.
+   1047623|00000000||Mhm. Éreztem, hogy a nyomomban vannak, vadásznak rám, egy ideje már… Ha te és Emhyr katonái nem vagytok, megkapták volna, amiért jöttek.
+   1049521|00000000||Nem kockáztathatok meg még egy ilyen találkozást. Ideje félretenni a mágiát és hagyományos módszerekhez folyamodni… A legjobb nyomkövetőhöz, akit ismerek.
+   1049529|00000000||Meg kell találnod őt, Geralt. Mielőtt a Vad Falka találja meg.
+   1047373|00000000||Hm, most már a „mi” ügynökeink? Ajaj… gyorsan alkalmazkodtál.
+   1047375|00000000||Geralt… ne forgasd ki a szavaimat.
+   1047418|00000000||Tudom, hogy kicsoda Emhyr. Ő kezdte ezt a háborút és a vérontást. Megölte a barátaimat. De nincs más választásom, szóval, kérlek… az érvek mérlegelése helyett összpontosítsunk inkább Ciri megtalálására. Rendben?
+   1047370|00000000||Szóval most már a mi ügynökeink?
+   1047264|00000000||Geralt! Ez a tunika – Nagyon ütősen nézel ki…
+   1047358|00000000||Ugh, alig várom, hogy levegyem.
+   1049500|00000000||Ezt más körülmények között ajánlatnak venném… olyanak, amit el is fogadnék. De most más dolgunk van.
+   1047361|00000000||Érted most már, hogy miért vagyok Emhyr udvarában?
+   1047363|00000000||Mhm. És úgy tűnik mostantól egy csónakban evezünk.
+   1047366|00000000||Ciri valóban visszatért? Nem lehet, hogy tévedés?
+   1047368|00000000||Nézd… Most valahogy így nézhet ki, legalább is az ügynökeink szerint. A mi kis witcherünk ifjú hölggyé cseperedett.
+    569369|00000000||Ez az a hely.
+    454415|00000000||Amint beléptünk, addig nem jöhetünk vissza, amíg oda nem érünk Ge'elshez. Kész vagy?
+    584738|00000000||Egy portál, itt?
+    584744|00000000||Egy portál, itt?
+    586024|00000000||Ez az átjáró a Szférák együttállása óta létezik. És még jóval azután is létezni fog rendszeres időközönként megnyílva, hogy mindnyájan meghaltunk már.
+    584746|00000000||Sok-sok évszázaddal ezelőtt itt állt egy templom, amit a holdnak szenteltek. Azelőtt pedig monolitok alkotta kör volt ezen a helyen. Most egy várost találni rajta.
+    584748|00000000||Kísértetjárta helyeken, az erő kereszteződésein szokás építkezni. Aztán elfelejtkezünk az okáról. Az ősi mágia ettől függetlenül nem szűnik meg létezni.
+   1009438|00000000||Ennyi elég, ez kielégítette a kíváncsiságodat? Most már készen állsz?
+    454417|00000000||Menjünk!
+    454421|00000000||Igen, menjünk.
+    536464|00000000||Emlékezz, akárhol is lyukadsz ki, keress ehhez hasonló helyeket. Előbb vagy utóbb találkozunk.
+    536466|00000000||Vagyis akkor elszakadunk egymástól?
+    584740|00000000||Leheteséges. Belőlem sajnálatos módon hiányzik a védenced tehetsége. Zireael az Idő és Tér Úrnője, nekem csak arról vannak korlátozott ismereteim, miként lehet ezt a titkos tudást felhasználni.
+    584753|00000000||Itt az idő.
+   1063659|00000000||Gyűlölöm a portálokat.
+   1024688|00000000||Az átjáró itt van, a fal mögött.
+    536475|00000000||Csak egy percet várj, kérlek!
+    454425|00000000||Szeretnélek emlékeztetni rá, hogy dolgunk van. Siess!
+   1027690|00000000||Itt van.
+    569851|00000000||Az úriember csak akkor szól a császárhoz, ha engedélyt kap rá, és a megfelelő titulust használja.
+    569478|00000000||Az ő-főfőméltóságát?
+    569479|00000000||Látom, az úriember szereti a tréfát… Félek, a császárból hiányzik az efféle hajlandóság.
+   1047305|00000000||A „felség” is elegendő lesz. Hangosan, tisztán és tisztelettel ejtve.
+    569856|00000000||Deithwen Addan yn Carn aep Morvudd – ez a mi legkegyesebb uralkodónk teljes címe.
+    569858|00000000||De a császár nem szereti hallani, ahogy nyelvünket kerékbe törik. Az úriembertől a „felség” is elegendő lesz.
+    569773|00000000||Derékban kissé szűk… de azért megteszi.
+    569771|00000000||És még azt mondják, nem a ruha teszi az embert.
+    569404|00000000||Nem vagyok tuskó. Tudom, hogy kell meghajolni.
+    569407|00000000||Nem vagyok tuskó. Tudom, hogy kell meghajolni.
+    569408|00000000||Mutasd, kérlek.
+    569763|00000000||Ez a meghajlás, uram, megfelelhet egy sarki kéjnőnek, de Nilfgaard császárának nem.
+    569472|00000000||Ez abszurd.
+    569473|00000000||Ez nem lehet igaz.
+    569474|00000000||Egyáltalán nem. Halálosan komolyan gondolom.
+    569843|00000000||Vajh tudja az úriember, mi a császár színe előtt elkövetett etikettsértés büntetése? Kétszáz korbácsütés.
+    569845|00000000||Nem kívánom, hogy ilyen sorsra jusson, úgyhogy nem engedem el, amíg biztos vagyok benne, hogy tud viselkedni.
+    569468|00000000||Hmf, hiányzik a folyamatosság és a kellem… De ez is szép teljesítmény egy északitól.
+    569469|00000000||Jöjj velem.
+    569459|00000000||[Bal láb elől jobb kéz a mellkason.]
+    569465|00000000||Kérlek. Sem az idő, sem hely nem megfelelő a bohóckodásra.
+    569836|00000000||Az úriember jól figyeljen.
+    569461|00000000||[Bal láb hátul, kezek oldalt.]
+    569460|00000000||[Jobb láb elől, bal kéz a mellkason.]
+    569463|00000000||Rossz, rossz, rossz!
+    569832|00000000||Még egyszer.
+    569470|00000000||Láb kinyújtva, karok a test mellett, fej leszegve, áll a mellhez.
+    569471|00000000||Az úriember gyakorolja.
+    569451|00000000||Kérlek, figyelj.
+    569405|00000000||Csak tessék.
+    569403|00000000||Csak tessék.
+    569397|00000000||A szegecses mellény és a kardok a hátamon – az felelne meg. De ha Nilfgaardban jársz…
+    569751|00000000||Igen…?
+    569753|00000000||Csak egy szólás. És most mi jön? Alapozás az orromra?
+    569755|00000000||Nincs rá szükség. Az úriember arcszíne elég világos.
+    569757|00000000||Az úriember észak és dél urának színe elé járul. Meg kell győződnöm róla, hogy ért a meghajláshoz.
+    569393|00000000||Vegyük úgy.
+    569395|00000000||Felpróbálnék inkább valami mást.
+    569396|00000000||Csak nyugodtan. Van időnk.
+    569394|00000000||Mutass valami mást is.
+    569775|00000000||Megfelel az öltözék az úriember számára?
+    569769|00000000||A fekete jól áll az úriembernek.
+    569686|00000000||Meglehet, ez újdonság lesz az úriember számára, de egy derékra tekert törölköző nem megfelelő öltözet az audienciához.
+    569767|00000000||Az úriember lesz szíves felöltözni.
+    578772|00000000||Az úriember megfeledkezett valamiről, úgy hiszem.

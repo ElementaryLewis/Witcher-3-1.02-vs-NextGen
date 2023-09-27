@@ -1,0 +1,321 @@
+;meta[language=es]
+; id      |key(hex)|key(str)| text
+   1025017|00000000||¡Fuera!
+   1047646|00000000||¡No paran de llegar!
+   1047648|00000000||¡No podemos derrotarlos a todos!
+   1047650|00000000||¡En cuanto se abra el portal, métete detrás de mí!
+    569327|00000000||¡Madre mía!
+    569320|00000000||¿Hay alguien en casa?
+    572535|00000000||¿Quiénes sois?
+    569322|00000000||Amigos. ¿Están tus padres en casa?
+    569323|00000000||Sí, pero están ocupados. Mamá está persiguiendo a papá con una sartén. ¿Porque él se ha... pirado a una chica?
+    572546|00000000||Ejem. Tirado.
+    569324|00000000||Ya veo. No les molestaremos. ¿Podemos pasar?
+    572548|00000000||Sí.
+    454814|00000000||Por fin.
+    538457|00000000||¿Esto es Tir ná Lia?
+    454816|00000000||El Palacio del Despertar, antiguamente conocido como el Palacio de la Luna. El cuartel general de Ge'els.
+    569351|00000000||¡Mamá!
+    454824|00000000||{¿Que aynimm rhovir'le? } [¿Cómo lo titularás?]
+    312001|00000000||{No rhovir'le. } [No lo haré.]
+    312005|00000000||{Ledwedd varlledu cyall, no ghar. } [Los cuadros deben transmitir emociones, no palabras.]
+    312007|00000000||{Emw a ledwedd... Es dallistro thrbíoch, que déacum'le elaine. } [Titular un cuadro... es destruir la diversidad de significados en los que radica su belleza.]
+   1069326|e0351e50||Cofre del tesoro
+    170734|00017dcc||Chico
+   1008086|00000000||¿Avallac'h?
+   1009442|00000000||Genial. Me las tendré que arreglar solo para encontrar el siguiente pasadizo.
+   1008085|00000000||¿Otro desierto?
+    538231|00000000||¿Qué es este mundo?
+    538345|00000000||¿Qué es esto? ¿El mundo de los Aen Elle?
+    538428|00000000||No. Es Tedd Deireadh, el fin de los tiempos. Este es el mundo que destruyó el Frío Blanco.
+    538429|00000000||Nos espera a todos, aunque en distintas fases de nuestra existencia.
+    584026|00000000||Qué tranquilo lo dices...
+    584028|00000000||Eredin supo de este apocalipsis y sucumbió a ese conocimiento. Ahora lo domina el miedo. No cometeré el mismo error.
+    584030|00000000||¿Me lo aclaras?
+    584032|00000000||Aquí no, y menos aún ahora.
+    585952|00000000||¿Por qué importa tanto Ge'els?
+    585954|00000000||Ir a por Ge'els está siendo toda una aventura, pero aún no sé por qué es tan importante.
+    585956|00000000||Eredin no se parece al rey al que asesinó. Le interesa el poder en sí mismo, pero no soporta la burocracia.
+    585958|00000000||Se pasa gran parte del tiempo a lomos de su corcel, dirigiendo a los jinetes rojos. Así que, ¿qué necesita en la capital? A un buen virrey.
+    585960|00000000||Ge'els es un excelente administrador, y un conspirador aún mejor. Es el individuo más peligroso de todos los Aen Elle.
+    585962|00000000||¿Tiene algún punto débil?
+    585964|00000000||Sí. Es honrado.
+    513363|00000000||Te ha llevado un buen rato. ¿Alguna dificultad?
+    538207|00000000||Er, no. Estaba admirando el paisaje.
+   1010785|00000000||¿Qué es este lugar? Creo que ya he estado aquí.
+   1010787|00000000||Así es. Aquí luchaste contra la proyección de Eredin. Y antes de eso, Ciri luchó aquí. Por ti.
+   1010788|00000000||¿De qué estás hablando?
+   1010789|00000000||¿Nunca te has preguntado cómo escapaste de los jinetes rojos?
+   1010790|00000000||Muchas veces, pero no me acuerdo de nada.
+   1010865|00000000||Ciri vino a por ti. Percibió que estabas en peligro, te libró de las garras de la cacería y te dejó en el bosque cerca de Kaer Morhen.
+   1010867|00000000||¿Por eso empezó a perseguirla Eredin? ¿Por mí? ¿Por qué nunca me dijo nada?
+   1010869|00000000||¿Acaso habría cambiado algo?
+   1010905|00000000||¿Adónde te ha llevado tu periplo?
+   1010907|00000000||Esperaba que no nos separáramos.
+   1010909|00000000||Te advertí que podía suceder.
+    538234|00000000||¿Adónde te llevó tu periplo?
+    538356|00000000||A un mundo cuyo sol acababa de morir. A duras penas llegué al siguiente pasadizo a tiempo.
+   1026260|00000000||¿Fuiste tú el que puso la luz en la cumbre?
+   1026261|00000000||La luz de la cumbre, ¿fuiste tú?
+   1026262|00000000||Pensé que te serviría de ayuda. Al fin y al cabo, para eso sirven los faros, para orientar.
+    538230|00000000||Vamos.
+    584900|00000000||Aquí tampoco parece que estemos muy seguros. Vamos.
+    538442|00000000||Por aquí.
+   1042827|00000000||¿Cuándo se abrirá el pasadizo?
+   1023398|00000000||Pronto.
+    582346|00000000||Yennefer, si esto no es verdad...
+    584241|00000000||Lo es.
+    454427|00000000||Estamos cerca.
+    454717|00000000||¿Listo para viajar a otro mundo?
+    548834|00000000||¿Encontraste el pasadizo?
+    548836|00000000||Sí, ven por aquí.
+    568595|00000000||Conozco esta casa.
+    568597|00000000||En teoría tenía que echar a una criaña de aquí.
+    572896|00000000||¿En teoría?
+    572898|00000000||Decidí que era inofensiva.
+    568596|00000000||Aquí había una criaña que se hacía pasar por fantasma. La eché.
+    568635|00000000||Mmm, entonces puede que nos encontremos con ella. Y con la persona que ha accedido a ayudarnos.
+    454120|00000000||¿Y entonces? ¿Qué haremos con Ge'els?
+    534847|00000000||¿Quieres hablar con él y ya está?
+    534849|00000000||Las palabras no bastarán para convencerlo, pero la oniromancia de la señorita Tilly sí.
+    582438|00000000||Le veo envejecido...
+    582439|00000000||Los brujos no envejecen.
+    584650|00000000||Pero parece más serio, más adusto.
+    584652|00000000||Tiene muchas preocupaciones...
+    584654|00000000||Chist, ahí viene.
+   1009380|00000000||Vamos, no te entretengas.
+    582466|00000000||Estamos todos. Solo faltabas tú. ¿Zarpamos?
+    582469|00000000||Levemos anclas.
+    582467|00000000||Sí, vamos.
+    582470|00000000||Espera, he olvidado algo.
+    582468|00000000||Dame un segundo.
+    570282|00000000||No me apetece ahora.
+    570345|00000000||No hemos venido a tomar el té.
+    312230|00000000||No, pero da igual.
+    312238|00000000||No. Pero la honradez no es una cualidad de vuestra raza. Así que deja de vomitar bilis, no te servirá de nada.
+    312240|00000000||Cierra el pico o te amordazo.
+    312099|00000000||Por aquí, por favor.
+    312103|00000000||Más te vale creerlo. Por aquí, por favor.
+    312220|00000000||El brujo Geralt, un hombre de acción... ¿Puedo saber adónde vamos?
+    312242|00000000||Al mundo de los Aen Seidhe.
+    570724|00000000||Esta vez directamente.
+    570584|00000000||Vamos antes de que vengan guardias.
+    312101|00000000||Estoy cansado de tu cortesía seudosofisticada. Andando.
+    312218|00000000||¿Adónde, si puedo saberlo?
+    312097|00000000||Ya hemos hablado bastante. Vámonos.
+    570360|00000000||Detecto cierta impaciencia en vuestros rostros. Bueno, ¿qué os trae por aquí?
+    312074|00000000||He venido a decirte quién mató a nuestro rey.
+    570363|00000000||Mmm... Te has tomado muchas molestias para llegar aquí...
+    570566|00000000||Así que imagino que habrás puesto el mismo empeño en preparar esta mentira...
+    312082|00000000||Verás la verdad. La soñarás.
+    312084|00000000||¿Tienes a un oniromante?
+   1084781|00000000||Mi intuición no me ha fallado. Esto va a ser interesante.
+    312234|00000000||Creo que incluso entre los elfos Aen Elle hay algunos capaces de ser decentes.
+    312236|00000000||La inocencia es la bendición de los tontos...
+    312228|00000000||Sí, es honesto.
+    570347|00000000||Mmm... Reconozco que tu llegada me ha sorprendido, brujo.
+    570356|00000000||Es una elección de aliados interesante. ¿Crees que Avallac'h es honesto contigo? Tengo esa duda...
+    570329|00000000||¿Tienes vodka?
+    570344|00000000||Ah, sí. Olvidaba que tú no tocas esa basura, qué vergüenza.
+    570281|00000000||Un trago suena bien.
+    312072|00000000||Crevan Espane aep Caomhan Macha y el brujo de Rivia. Ceádmil.
+    312224|00000000||¿Os gusta mi nueva modelo? Tiene algo de Lara Dorren. ¿No te parece, Crevan?
+    570188|00000000||Su altura, quizás. Nada más.
+    570212|00000000||Vaya, veo que he tocado un tema delicado... Bueno, hablemos de otra cosa. ¿Queréis algo de beber?
+    570111|00000000||¡Oh! ¿Quiénes son? ¿Y por qué están aquí?
+    568674|00000000||Creo que hemos terminado por hoy, tulipán mío. Sé buena y déjanos solos.
+    570150|00000000||Porque estamos de acuerdo en que nos incumbe solo a nosotros, ¿verdad?
+   1041855|00000000||Um... Bonita ciudad.
+   1041857|00000000||Me alegro de que lo aprecies. La arquitectura élfica es más sofisticada que la vuestra.
+    569347|00000000||No sé por qué mamá está tan enfadada con papá...
+    572674|00000000||Papá es genial.
+    572676|00000000||A veces apesta a ginebra y meados.
+    572678|00000000||Pero hoy me ha traído juguetes nuevos.
+    572680|00000000||Bloques de madera y un carrito de tres ruedas...
+    572682|00000000||Una pena que le falten las ruedas...
+   1074542|00000000||Podría estar marcándose un farol. A lo mejor lo dijo para que lo dejásemos marchar.
+   1074544|00000000||Maldita sea. Deberíamos haberlo presionado.
+   1074546|00000000||Cálmate. Avallac'h lo conoce mejor. Hablaremos con él cuando regrese.
+   1074548|00000000||Si antes lo dices...
+   1074550|00000000||Geralt está preocupado. Cree que dejamos marchar a Ge'els con demasiada facilidad.
+   1074652|00000000||Uno nunca es demasiado precavido.
+   1074654|00000000||Estoy de acuerdo. Pero creo que Ge'els cumplirá su palabra, y conservará el apoyo de Eredin.
+   1074650|00000000||Solo quiero ser precavido.
+   1074649|00000000||No me fío de él.
+    585866|00000000||Fue fácil que se soltase... Nos dio un par de consejos, nos contó una historia sobre una piedra solar...
+    305315|00000000||Nos aseguró que no va a apoyar a Eredin. Y eso ya es mucho.
+   1074656|00000000||Parece que tienes un plan. ¿Quieres compartirlo con nosotros?
+   1074658|00000000||En cuanto encontremos la piedra solar, con la ayuda de tu hechicera y su magia, atraeremos a Eredin hasta una bahía de Undvik.
+   1074660|00000000||Le tenderemos una emboscada, una trampa. Cuando llegue el rey de la cacería, saldremos y lo mataremos.
+   1074662|00000000||¿Así, sin más?
+   1074664|00000000||Acabar con Eredin es toda una hazaña, pero lo lograremos.
+    305293|00000000||Supongo que no necesito presentarte a nuestra invitada.
+    305301|00000000||Saludos, Zireael. Entonces es cierto: la golondrina se ha hecho amiga del zorro.
+    305303|00000000||No puedes hacer nada para enfrentarnos, por mucho que lo intentes.
+    305305|00000000||Avallac'h te chantajeó, ¿no lo recuerdas? ¿Intentó obligarte a calentar la cama de nuestro rey?
+    570793|00000000||Trató tu cuerpo como si fuese un trozo de carne.
+    312716|00000000||Lo recuerdo. Pero también recuerdo lo que le aconsejaste a Eredin que hiciera conmigo cuando me capturaseis. Y recuerdo lo que los jinetes rojos hicieron en Kaer Morhen.
+    312743|00000000||No he venido aquí a discutir. La prueba que me prometisteis, ¿dónde está?
+    312745|00000000||Pronto la verás. En tus sueños.
+    312747|00000000||Ah, sí, el oniromante. Las visiones no se pueden falsificar. ¿Quieres mostrarme cómo asesinó Eredin a nuestro rey?
+    539115|00000000||¿Y después qué? ¿Voy a levantar a los Aen Elle contra Eredin? ¿A llamar a la revolución y proclamar a Avallac'h nuestro nuevo rey?
+    313048|00000000||Harás lo que quieras. Si decides continuar apoyando un regicidio, hazlo. De hecho, no me sorprendería.
+    312763|00000000||Harás lo que quieras.
+    312755|00000000||No. Desafiar a Eredin, nada más.
+    313046|00000000||No te hagas el importante. Lo único que tienes que hacer es desafiar a Eredin.
+    313086|00000000||Muy bien. Que vuestro oráculo invoque sueños de los últimos momentos de mi rey.
+    313088|00000000||Todos los soñaremos, para evitar equívocos de cualquier tipo.
+    313090|00000000||Por qué no.
+    312654|00000000||El rey ha muerto. Larga vida al rey.
+    539127|00000000||Tenéis que enfrentaros a él según vuestras condiciones. En este mundo, en el lugar que elijáis vosotros. Es vuestra única oportunidad.
+    539195|00000000||Id a Skellige y encontrad la piedra solar. Con ella invocaréis el Naglfar. Eredin vendrá también.
+    585868|00000000||Si Eredin pide refuerzos, ningún Aen Elle acudirá.
+   1063146|00000000||Has hecho lo que era más justo.
+   1074534|00000000||Se abrirá un nuevo portal a Tir ná Lia. Lo estabilizaré y tú regresarás. Ven conmigo.
+    539374|00000000||Encuentra a las hechiceras de la Logia y nos reuniremos en el puerto. Después navegaremos a Skellige.
+    313080|00000000||Reúne a todo el mundo y nos veremos en el puerto. Después navegaremos a Skellige.
+   1005844|00000000||Bienvenido al desierto de Ddiddiwedht.
+   1009406|00000000||¿Esto está en nuestro mundo?
+   1009408|00000000||¿Alguna vez has visto un cañón así en tu mundo?
+   1009410|00000000||Ven, hay que irse.
+   1022644|00000000||Ah, el portal.
+   1022645|00000000||Parecen unas ruinas.
+   1022646|00000000||Las apariencias engañan.
+   1042745|00000000||Entonces, ¿a qué esperamos?
+   1042747|00000000||A que se abra. Será cosa de unos instantes.
+   1047393|00000000||¿Qué ocurre?
+   1047395|00000000||Los gusanos de arena nos han detectado.
+   1022647|00000000||Espléndido.
+   1022665|00000000||Tres, dos, uno... Muy bien. Puntual.
+   1042783|00000000||Qué alivio.
+   1047402|00000000||¡Rápido! ¡Salta!
+   1047404|00000000||¡Deprisa, Geralt!
+   1022657|00000000||¿Qué es esto?
+   1042751|00000000||Un mundo muy antiguo, esquilmado y destruido.
+   1042753|00000000||¿Hay seres vivos?
+   1042755|00000000||Sobre todo criaturas desérticas capaces de sobrevivir meses sin agua.
+   1042757|00000000||Ah, y cangrejos de arena gigantes en el subsuelo.
+   1047389|00000000||Hay que procurar que no nos detecten.
+   1042759|00000000||¿Y antes? ¿Aquí vivía... gente? ¿O elfos?
+   1042761|00000000||¿Crees que los humanoides tienen el monopolio de la destrucción de mundos?
+   1042763|00000000||¿Quiénes vivían aquí? ¿Eran monstruos inteligentes?
+   1042765|00000000||Mira esos riscos. ¿Te recuerdan a algo?
+   1042767|00000000||Um... Se parecen un poco al cauce de un río gigante.
+   1042769|00000000||O al fondo del mar.
+   1042773|00000000||Entonces, ¿aquí vivían criaturas acuáticas?
+   1042775|00000000||Criaturas, no. Solo un mar.
+   1042771|00000000||¿Insinúas que...?
+   1042777|00000000||Que hay muchos mundos distintos e incluso otras formas de vida.
+   1042779|00000000||Muchas de ellas son inteligentes, bastante más que los humanos.
+   1042781|00000000||Pero resulta que ni siquiera eso les impidió agotar todos los recursos de su planeta. Hasta la última gota.
+   1005828|00000000||¿Dónde estamos?
+    584372|00000000||¿El emperador te lo ocultó?
+    584417|00000000||Mmm... Doy por hecho que al emperador se le olvidó contártelo, ¿no?
+    584363|00000000||No me gusta. Ese no era el trato. Cuanto todo esto termine, creo que tendré una conversación sincera con él.
+    584365|00000000||Vamos, nos están esperando.
+    584360|00000000||¿Cómo lo sabe Rita? Si acaba de salir de prisión.
+    584362|00000000||Habló con Fringilla antes de que la encarcelasen. Ella dijo que el emperador la había llamado y que le explicaría el motivo tras la reunión.
+    584408|00000000||Nadie ha sabido de ella desde entonces.
+    584410|00000000||Pensaba que estas cosas solo pasaban con Radovid.
+    584371|00000000||¿Cómo lo sabía Rita?
+    584301|00000000||¿Qué has dicho de Fringilla? Triss me contó que no pudiste ponerte en contacto con ella.
+    584356|00000000||Tal vez porque está pudriéndose en una mazmorra del emperador encadenada con dimerita.
+    584358|00000000||O eso es lo que sugirió Rita.
+    584289|00000000||¿Qué decías de Fringilla?
+    584290|00000000||¿Amnistía? ¿En serio?
+    584292|00000000||¿He oído bien? ¿Convenciste al emperador para que los perdonase?
+    584294|00000000||Si nos ayudaban a defender a Ciri.
+    584296|00000000||Mmm... Me resulta difícil creer que el emperador haya accedido a eso.
+    584298|00000000||Si no puedes creerlo, no lo hagas. No hace falta que tú lo creas.
+    584243|00000000||Si ayudáis a proteger a Ciri de la cacería salvaje, el emperador os concederá la amnistía.
+    584250|00000000||Espero que podamos confiar en ti.
+    584252|00000000||Podéis.
+    582347|00000000||¿Y qué hay de Fringilla?
+    582348|00000000||Eso no lo sé... pero se lo comentaré.
+    582394|00000000||Apenas os habéis saludado y ya estáis maquinando algo.
+    582395|00000000||Está en nuestra naturaleza.
+   1045380|00000000||La nieve llega hasta los tejados. A saber desde cuándo sopla esta ventisca.
+    532897|00000000||¿Te traigo un pañuelo? La verdad es que no me esperaba esto de ti...
+    532899|00000000||Los humanos tenéis... mmm... unos gustos muy curiosos...
+    532901|00000000||¿Cómo te fue en la Montaña Calva?
+    532903|00000000||¿Necesitas preguntarlo? Eres un sabio.
+    532905|00000000||Lo pregunto por cortesía. Un concepto que claramente has olvidado, puesto que te fuiste sin decir palabra.
+    550887|00000000||Ciri tenía prisa.
+    550888|00000000||Lo sé, lo decía en su carta. Pero eso no es lo que me preocupa. Acabaste con Imlerith con pericia. Tanta que podría decirse que me inspiraste...
+    533892|00000000||No me apetece jugar a las adivinanzas. Estoy cansado.
+    532907|00000000||Habla claro.
+    532906|00000000||¿Qué tienes en mente?
+    533890|00000000||¿Qué quieres decir?
+    533895|00000000||La pérdida de uno de sus grandes generales ha debilitado a Eredin. Gravemente. Quedan otros dos...
+    533923|00000000||¿Cómo nos libramos de ellos?
+    534030|00000000||Caranthir es leal, pero Ge'els... es otro cantar.
+    539031|00000000||Era un seguidor devoto de nuestro antiguo rey...
+    534033|00000000||Y fue Eredin quien envenenó a nuestro amado monarca.
+    539044|00000000||¿Cómo sabes que fue Eredin?
+    539046|00000000||¿Cómo lo sabes? ¿O te lo estás inventando?
+    539047|00000000||Eredin se aseguró de que muy pocas personas conociesen su traición. Casi todas están muertas.
+    539092|00000000||No has respondido a mi pregunta.
+    539059|00000000||Lo de menos es el cómo. Lo importante es que lo sé, y que tengo una idea para aprovecharnos de ello.
+    565519|00000000||Haces que suene importante. Así que supongo que no es exactamente vox pópuli...
+    565521|00000000||Yo incluso diría que es un secreto.
+    565546|00000000||¿Cómo consiguió ocultar algo así?
+    565548|00000000||Ah, te aseguro que sabe perfectamente cómo cubrirse las espaldas... Aunque no es especialmente sutil.
+    565554|00000000||Entonces yo se las descubriré.
+    534144|00000000||¿Quién está al corriente?
+    534121|00000000||¿Crees que Ge'els podría traicionar a Eredin?
+    534152|00000000||Un regicidio es un tema muy serio. ¿Entiendo que esto lo sabe poca gente?
+    565525|00000000||Solo lo saben dos personas vivas: Eredin y yo.
+    565526|00000000||Mi duda es: ¿podrás conseguir que Ge'els te crea?
+    534154|00000000||No te preocupes por eso.
+    565572|00000000||¿Crees que podrás hacer un trato con Ge'els?
+    565583|00000000||No hemos hablado de matar a Ge'els...
+    565584|00000000||Una medida tan drástica no siempre es necesaria.
+    565585|00000000||¿Entonces vas a proponerle un trato...?
+    565592|00000000||Brillante deducción, bravo.
+    534472|00000000||¿Qué pretendes hacer?
+    534473|00000000||Prefiero matar a Ge'els que negociar.
+    539106|00000000||¿Cómo estás seguro de que Ge'els te creerá?
+    534478|00000000||¿Quieres hacer un trato con él, hablar con él, confiar en él? Yo lo mataría sin más.
+    534479|00000000||Esa es precisamente una de las razones por las que Ge'els odia tu mundo. Por vuestra brutalidad irracional.
+    534705|00000000||En ocasiones hay que usar la razón en lugar de las espadas.
+    534334|00000000||Bueno, entonces, ¿qué propones?
+    534474|00000000||Pues traer aquí a Ge'els y contarle la verdad sobre lo que sucedió.
+    534475|00000000||Un plan fabuloso... Si supiésemos dónde está.
+    565596|00000000||Lo sabemos. En la tierra de los Aen Elle.
+    565597|00000000||¿La tierra de los Aen Elle? ¿Qué es eso?
+    565607|00000000||¿La tierra de los Aen Elle?
+    565609|00000000||¿No te acuerdas? Al fin y al cabo, viajaste con Eredin una temporada.
+    565614|00000000||La tierra de la gente de los alisos. El mundo al que llegamos hace siglos, y que ahora es nuestro hogar.
+    583984|00000000||Los jinetes rojos vienen de allí. Y allí es donde encontraremos a Ge'els.
+    565605|00000000||¿Cómo pretendes llegar allí?
+   1042836|00000000||Creo que se os olvida algo: puede que Ciri y tú sepáis viajar entre mundos, pero a mí no se me da tan bien.
+    534476|00000000||Como bien sabes, hay muchos otros mundos aparte de este en el que estamos ahora.
+    565632|00000000||Están conectados por pasadizos, puertas ocultas que permiten viajar de uno a otro.
+    534514|00000000||Obviamente, pocos conocen esas puertas, y son menos aún los que pueden localizarlas.
+    534483|00000000||¿Los sabios elfos pueden?
+    534484|00000000||Por ejemplo. Casualmente, un pasadizo de ese tipo se abrirá pronto, cerca de donde estamos. Entre este noble edificio y el Corral de los Carniceros.
+    565798|00000000||Es nuestra oportunidad. ¿Vamos?
+    456130|00000000||Nos vemos allí. Tengo que hacer algo por el camino.
+    534746|00000000||Rápido. No quiero estar en la calle más tiempo del necesario.
+    534734|00000000||Nos vemos allí.
+    534671|00000000||Vámonos ya.
+    534749|00000000||Vamos.
+    569341|00000000||¿Qué tiene ella que no tenga yo, eh? ¿Barre mejor? ¿Te gusta su comida?
+    569342|00000000||¡Me gusta su culo! ¡Eso me gusta!
+    572758|00000000||¡Idiota! ¡Picha floja!
+    572760|00000000||¡Eh, sabes bien que de eso nada! ¿Por qué has dicho eso? ¿Te he insultado yo?
+    572762|00000000||¡Que... Que sepas que fingía siempre! ¡Siempre!
+   1074573|8e4585b4||Cangrejo de arena
+   1021842|00000000||Esos vapores no me inspiran mucha confianza.
+   1022597|00000000||Un poco más y me habría asfixiado.
+   1041891|00000000||Debería evitar las nubes o cruzarlas deprisa.
+   1021840|00000000||*Tos, tos* Tengo que aguantar la respiración.
+   1042817|00000000||Si no me resguardo, me moriré de frío.
+   1024251|00000000||Y he de encontrar deprisa el pasadizo.
+   1024253|00000000||Si encuentro la forma de resguardarme por el camino, podría llegar al pasadizo.
+   1024260|00000000||¿Luz en un lugar así? La ha tenido que encender alguien.
+   1042824|00000000||Con suerte habrá sido un sabio elfo cascarrabias.
+   1026259|00000000||Por fin. Toca calentarse.
+   1047428|00000000||Por supuesto... ¿Cómo no? Debí imaginármelo.
+   1047430|00000000||Una oleada más...
+   1024247|00000000||Brrr... Qué frío.

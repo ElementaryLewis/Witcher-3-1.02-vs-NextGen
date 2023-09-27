@@ -1,0 +1,884 @@
+;meta[language=pl]
+; id      |key(hex)|key(str)| text
+    581146|00000000||Aaaaaa!
+    581147|00000000||Litości!
+   1061012|00000000||Rozwiąż mnie! Szybko!
+    581145|00000000||Pomocy!
+    581222|00000000||Dziękuję...
+    584339|00000000||Trzeba cię opatrzyć?
+    581225|00000000||Poradzę sobie.
+    584342|00000000||Łowcy mogą wrócić...
+    584344|00000000||Mnie już tu nie znajdą.
+    584346|00000000||Powodzenia.
+    584348|00000000||Przyda się.
+    584658|00000000||Odwrót? Przecież nie przegraliśmy wojny.
+    584660|00000000||Cicho.
+    584662|00000000||Mieliśmy całą Północ jak na talerzu. I co się niby stało?
+    584712|00000000||Zamknij się, bo dostaniesz czapę z paragrafu o podżeganiu do buntu.
+    580688|00000000||Redańczycy zaraz tu będą.
+    577580|00000000||Decyzję trzeba podjąć natychmiast. A jeśli nie zrobi tego cesarz, zajmie się tym ktoś inny.
+    577582|00000000||Jak śmiesz?!
+    577589|00000000||Jego Wysokość byłby już zimnym trupem, gdyby dziś w nocy moi ludzie nie zatrzymali skrytobójcy.
+    577591|00000000||I myślisz, że to daje ci prawo do takiej arogancji?
+    577593|00000000||Myślę, że następny zamach to kwestia czasu, i nie wiem, czy znów nam się uda.
+    577597|00000000||Co z hierarchą Novigradu?
+    577599|00000000||A co ma być?
+    577613|00000000||Przejście na zasłużony odpoczynek czy od razu do Darn Ruach?
+    577615|00000000||W jego wieku podróż byłaby niewskazana. I kosztowna.
+    577617|00000000||Mhm.
+   1068673|00000000||No dobra. Chodźmy.
+    578175|00000000||A ciebie kto nauczył tej sztuczki?
+    553330|00000000||Vesemir. Dawno temu.
+    562382|00000000||Jak dawno?
+    553331|00000000||Bardzo dawno. Kiedy jeszcze na serio rozważałem przedstawianie się jako Geralt Roger Eryk du Haute-Bellegarde.
+    572394|00000000||Co? Ha, ha.
+    578177|00000000||Opowiem ci o tym wieczorem.
+   1068675|00000000||I o tym, jak się założyłeś, że wskoczysz na grzbiet konia z dachu Kaer Morhen, i złamałeś nogę?
+   1068677|00000000||Hm, a ty skąd to wiesz?
+   1068679|00000000||Eskel mi opowiedział. Ale chciałabym też usłyszeć twoją wersję. Na pewno jakoś to wyjaśnisz.
+    584083|00000000||Świeży trop... Medalion drży. Może by tak wypróbować...
+    172329|52a3f146||Chłop
+    577437|00000000||Męczy się już...
+    577438|00000000||Stara wadera.
+    578820|00000000||Jeszcze walczy.
+    578821|00000000||Wie, że zdechnie.
+   1030982|d9a6387b||Temerski żołnierz
+   1051892|00000000||Ślady kransoluda...
+    579138|00000000||Ktoś na mnie czeka.
+    579129|00000000||Ktoś na mnie czeka.
+    579130|00000000||Triss Merigold? Nie bój się, nie zamierzam jej ścigać.
+    579126|00000000||Yennefer mnie potrzebuje. Nie zostawię jej.
+    579127|00000000||Rozumiem.
+    579897|00000000||Nie twoja sprawa.
+    579901|00000000||To nie twoja sprawa. Już nie.
+    580118|00000000||Hmmm.
+    579142|00000000||Nie wypadłeś za dobrze w roli ojca...
+    579144|00000000||Nie wypadłeś za dobrze w roli ojca. Ciri uważała cię za zagrożenie.
+    580462|00000000||Jeśli nawet chciałaby ci coś przekazać, nie sądzę, żebyś chciał to zapamiętać jako jej ostatnie słowa do ciebie.
+    579145|00000000||Rozumiem.
+    579143|00000000||Wcale o tobie nie mówiła.
+    579148|00000000||Nie rozmawialiśmy o tobie.
+    580471|00000000||Rozumiem.
+    579135|00000000||Jeśli to wszystko, pójdę już.
+    577341|00000000||Nie wszystko. Ale możesz odejść.
+    579136|00000000||Wiedźminie. Nie chcę was... Nie chcę cię więcej widzieć.
+    579146|00000000||Żałowała, że nie może się z tobą pożegnać.
+    579147|00000000||Naprawdę sama ci to powiedziała?
+    580421|00000000||Nie musiała. Wiem, że chciała się z tobą pogodzić.
+    579141|00000000||Żałowała, że nie może się pożegnać.
+    579140|00000000||Czy Cirilla mówiła coś... Chciała mi coś przekazać?
+    579123|00000000||Po wojnie zawsze jest dużo pracy dla wiedźmina. Pojadę na wschód, a może na północ...
+    579137|00000000||Po wojnie jest dużo roboty.
+    576114|00000000||Gdzie ciało?
+    576122|00000000||Nie sądzę, aby kiedykolwiek udało się je odnaleźć.
+    577275|00000000||Kto jeszcze wie?
+    577277|00000000||Avallac’h, elfi wiedzący... Ale raczej go nie znajdziesz.
+    579115|00000000||A Yennefer?
+    576167|00000000||Postanowiła zostać na Północy. Jeśli nie masz nic przeciwko.
+    579116|00000000||Nie mam. A co z tobą?
+    573735|00000000||Mów.
+    575807|00000000||Ciri nie żyje.
+    575833|00000000||Jak to się stało?
+    576006|00000000||Znasz przepowiednię o Białym Zimnie. Ciri próbowała zapobiec zagładzie świata. I udało się, ale zapłaciła najwyższą cenę.
+   1058925|00000000||Dość.
+    582651|00000000||Krasnoludy chowają się w krzakach.
+    582644|00000000||Gdzie krasnoludy?
+    583360|00000000||Jakie krasnoludy?
+    583362|00000000||Nie mamy czasu na takie gierki. Komendant musi odzyskać kielich, który mu ukradły.
+    583364|00000000||Mów, gdzie są złodzieje, bo...
+    582653|00000000||Krasnoludów tu nie ma.
+    582638|00000000||Nie ma tu krasnoludów.
+    582645|00000000||Gdzie krasnoludy?
+    583424|00000000||Jakie krasnoludy?
+    583425|00000000||Nie pogrywaj ze mną, wiedźminie. Ukradły złoty kielich wielmożnego Dagborga.
+    583437|00000000||A kto to taki?
+    583438|00000000||Nowy zarządca tych terenów.
+    583442|00000000||Kielich musi się znaleźć. Mów, co wiesz, albo to z ciebie wyciągniemy.
+    582654|00000000||Wiedziałem! Niech ci Wieczny Ogień wynagrodzi. Brać ich!
+    583472|00000000||Nie wierzę! Co za skurwiel z tego wiedźmina!
+    582656|00000000||Dzięki, wiedźminie. Brać ich!
+    582655|00000000||Dzięki, wiedźminie. Brać ich!
+    582641|00000000||Krasnoludy chowają się w krzakach.
+    583340|00000000||Grozicie mi?
+    583336|00000000||Grozicie mi?
+    583366|00000000||Wiedźmin nie chce współpracować. Brać go.
+    583358|00000000||Grozicie mi?
+    583445|00000000||Widzę, że nie ma co prosić po dobroci.
+    583447|00000000||Brać go!
+    583348|00000000||Nie podoba mi się twój ton, odmieńcu. Nie zmuszaj mnie, żebym nauczył cię szacunku do sług Wiecznego Ognia.
+    583350|00000000||Spróbuj.
+    583439|00000000||Grozicie mi?
+    582642|00000000||Nie ma tu krasnoludów.
+    582661|00000000||Chcesz mi wmówić, że to twoje obozowisko? Pięć kubków, pięć derek? To wszystko twoje?
+    583410|00000000||Tropię te krasnoludy od dawna. Wyprzedzają mnie o jakieś dwa dni. Opuściły to obozowisko w pośpiechu. Coś musiało je wypłoszyć.
+    583413|00000000||A czemu je tropisz?
+    583415|00000000||Coś mi ukradły.
+    583417|00000000||Cwane sztuki, żeby wiedźmina podejść.
+    583419|00000000||Idziemy. Jeśli je dorwiesz... a zresztą. Jutro wymarsz.
+    582662|00000000||Chcesz mi wmówić, że to twoje obozowisko? Pięć kubków, pięć derek? To wszystko twoje?
+    583450|00000000||Tropię te krasnoludy od dawna. Wyprzedzają mnie o jakieś dwa dni. Opuściły to obozowisko w pośpiechu. Coś musiało je wypłoszyć.
+    583452|00000000||A czemu je tropisz?
+    583454|00000000||Mnie też coś ukradły.
+    583456|00000000||Cwane sztuki, wiedźmina podejść.
+    583458|00000000||Dobra, idziemy. Jeszcze je dorwiemy.
+    583421|00000000||Chcesz mi wmówić, że to twoje obozowisko? Pięć kubków, pięć derek? To wszystko twoje?
+    582660|00000000||Tropię te krasnoludy od dawna. Wyprzedzają mnie o jakieś dwa dni. Opuściły to obozowisko w pośpiechu. Coś musiało je wypłoszyć.
+    583344|00000000||Hm...
+    583346|00000000||Może usłyszały o gniewie wielebnego Michelisa.
+    583407|00000000||Idziemy. A ty lepiej nie wchodź nam w drogę, mutancie.
+    582640|00000000||Nie ma tu krasnoludów.
+    582639|00000000||Krasnoludy chowają się w krzakach.
+    582637|00000000||Krasnoludy chowają się w krzakach.
+    583321|00000000||Kto to ten wielebny Michelis?
+    583323|00000000||Kto to ten wielebny Michelis?
+    583325|00000000||Świątobliwy wędrowny kaznodzieja, namaszczony przez samego hierarchę. Uwolnił już tysiące dusz.
+    583327|00000000||Przez uwolnienie rozumiesz... hm, wyzwalający ogień stosu?
+    583329|00000000||A da się jakoś inaczej?
+    582643|00000000||Gdzie krasnoludy?
+    583297|00000000||Jakie krasnoludy?
+    583299|00000000||Nie udawaj, że nie wiesz. Ścigamy ich od wczoraj. Ukradli złoty kielich wielebnego Michelisa.
+    583300|00000000||Każdy, kto pomaga przestępcom, stanie przed Świętym Trybunałem Wiecznego Ognia.
+    170734|00017dcc||Chłopiec
+   1061202|7baad1c6||Temerski żołnierz
+    583647|00000000||Srebrny wiedźmiński miecz...
+    583648|00000000||I jak?
+    583649|00000000||Cudo. Mogę?
+    583650|00000000||Lepiej nie tutaj. Niedługo będziesz miała dość okazji, wiedźminko.
+    583651|00000000||Co to za inskrypcja?
+    583652|00000000||Stare wiedźmińskie motto. Też miałem kiedyś podobny miecz. Ale ten jest lepszy... O wiele lepszy.
+   1077577|00000000||No, to trzeba go wypróbować.
+    583641|00000000||Wiedźmiński miecz... Jaskółka.
+    583642|00000000||Uuuuuu.
+    583643|00000000||Cudo. Mogę?
+    583644|00000000||Lepiej nie tutaj. Niedługo będziesz miała dość okazji, wiedźminko.
+    575132|00000000||Załatwione?
+    575133|00000000||Tak.
+    576809|00000000||Uwierzył ci?
+    576811|00000000||Nie mam pojęcia.
+    576799|00000000||To za tego kuroliszka. I mamy nowe zlecenie. Kiepsko płacą, ale chyba i tak warto.
+    576801|00000000||Widzę, że nie próżnowałaś.
+    583639|00000000||Jest twój.
+    579151|00000000||Triss czeka w Ellander.
+    579152|00000000||Jeśli się uwiniemy, spotkamy się z nią za dwa dni.
+    579149|00000000||Yen czeka w Ellander.
+    579150|00000000||Jeśli się uwiniemy, spotkamy się z nią za dwa dni.
+   1077618|00000000||Ruszajmy w drogę!
+    579054|00000000||Sługi Wiecznego Ognia oczerniał, majestat królewski obrażał?
+    579055|00000000||A jeszcze jak!
+    574781|00000000||Szwagier mój nilfgaardzkich szpiegów ukrywa.
+    582006|00000000||Hmmm...
+    582008|00000000||Tylko nie mówcie mojej siostrze, że to ja powiedziałem...
+    582010|00000000||Siostrą też się zajmiemy.
+    582015|00000000||Trzeba to będzie sprawdzić.
+    582025|00000000||Pewno, pewno.
+    582027|00000000||Możesz odejść, wiemy, która to chata.
+    582029|00000000||A bo ja żem słyszał... że podobno jakasik nagroda jest za informacje... Pieniądze jakieś...
+    582031|00000000||Źle słyszałeś. Chodziło o nowe podatki.
+    574783|00000000||Wiem, com widziała. Całą zimę z Nilfgaardczykami się prowadzała.
+    582046|00000000||Cyryś też widział. No, powiedz, Cyryś.
+    582043|00000000||No.
+    582072|00000000||Oddawała cześć nilfgaardzkim bałwanom i bożkom?
+    582074|00000000||Ja tam nie wiem, ja jestem porządna kobieta.
+    582076|00000000||Ale jak ją przysmażycie rozpalonym żelazem, sama wam powie.
+    582047|00000000||Nilfgaardczycy odeszli.
+    582051|00000000||Ale ona została! Rózgami trzeba ją ze wsi przepędzić!
+    579073|00000000||Nie mamy go na liście. Co on niby zrobił? Tak konkretnie.
+    579075|00000000||Konkretnie się z Czarnymi skumał! Intrygował! Knuł... przeciwko królowi.
+    579083|00000000||Pełko Sambor, lat pięćdziesiąt, dwójka dzieci, poletko żyta i jedna koza...?
+    579084|00000000||Jak sobie chcecie. Ale ja mówiłem.
+    579046|00000000||Było, jak mówię. Koraborował z Czarnymi, tfu!
+    595889|83463c36||Pomocnik zbrojmistrza
+    575034|00000000||Tutaj, panie! To on!
+    575055|00000000||Czyś ty oszalał do reszty?
+    575023|00000000||Od razu poznałem, że to Nilfgaardczyki! Szpiegi, znaczy. Ukrywa ich od tygodnia!
+    575025|00000000||Pewny jesteś?
+    575026|00000000||O taak, z tego Skaro zawsze był przechera. Kiedyś to mi miedzę zaorał, złodziej. Ja zara pokażę, który to. Tędy!
+    577991|00000000||A teraz chodź, pokażę ci coś.
+    572153|00000000||Chciałbym coś kupić.
+    572421|00000000||Bywaj.
+    572154|00000000||Bywaj.
+    572152|00000000||Co myśmy wczoraj pili?
+    572155|00000000||Co myśmy wczoraj pili? Po przepalance, bo nie pamiętam?
+    572156|00000000||Moją potrójnie destylowaną śliwowicę. Ledwie co odczopowałem beczkę, a już wszyscy we wsi o niej mówią.
+    572644|00000000||Będziesz miał jeszcze więcej gości.
+    572647|00000000||Już i wy byście mi starczyli. Ale to prawda, że u nas pod wieczór zawsze pełno.
+    572862|00000000||Pojęcia nie mam, czemu poprzednia karczmarka przeniosła się do Rdzanki.
+    572151|00000000||Kwaśne mleko się skończyło.
+    577752|00000000||Hmm.
+    577753|00000000||Chyba mamy pecha.
+    577751|00000000||To stare ślady, ale...
+   1044165|002e13b4||Niedźwiedź
+    575125|00000000||Teraz żeś tego hrabiego wymyślił? Aż dziwne, że na trzeźwo.
+    575503|00000000||Geralt, ty możesz potwierdzić: przecież zawsze mówiłem, że jestem hrabią.
+    575505|00000000||Zgadza się. Zawsze mówiłeś.
+    575507|00000000||Tylko nikt tego nigdy nie sprawdził, he, he.
+    575509|00000000||A co cię tak nagle naszło z tym hrabiowaniem?
+    575527|00000000||Kiedy wreszcie wyjedziemy z tej zabitej dechami dziury, będę w końcu musiał upomnieć się o należne mi ziemie i tytuły.
+    575588|00000000||I co zrobisz z tymi tytułami?
+    575590|00000000||I co zrobisz z tymi ziemiami i tytułami?
+    575592|00000000||No wezmę w posiadanie. Jest też oczywiście sprawa progenitury...
+    575594|00000000||A co? Masz już na oku jakąś godną kandydatkę?
+    575595|00000000||Drogi druhu, moje serce należy wszak do jednej jedynej – Priscilli zwanej Cyraneczką.
+    575617|00000000||Serce to i może... Ale reszta anatomii...
+    575619|00000000||A wypraszam sobie te insynuacje! Przypominam ci, że rozmawiasz z hrabią!
+   1075523|00000000||Niech hrabia się nie unosi, tylko powie, co słychać u lubej.
+   1075532|00000000||Dochodzi do siebie, dziękuję.
+   1075534|00000000||Dochodzi...? Nie rozumiem.
+   1075536|00000000||No tak... Ty przecież nie słyszałeś...
+   1075538|00000000||Ktoś ją napadł. Wtedy, jak też byłeś w mieście. Była ranna... Poważnie.
+   1075540|00000000||Ale, jak mówię, jest coraz lepiej. Wznowiła już nawet występy. Bogom niech będą dzięki...
+   1075529|00000000||Dochodzi do siebie. Nawet zaczyna śpiewać... Ma teraz trochę niższy głos, chropawy... Ale to nawet do niej bardziej pasuje.
+   1075546|00000000||Dzięki, że nam wtedy pomogłeś. To wiele dla mnie znaczy... Naprawdę.
+   1075548|00000000||Od czego ma się przyjaciół.
+   1075542|00000000||Przepraszam, że wam wtedy nie pomogłem. Musiałem-
+   1075544|00000000||Daj spokój. Było, minęło.
+   1075550|00000000||Pozdrów ją ode mnie.
+   1075552|00000000||Pozdrowię, pozdrowię, nie bój się. Ucałuję nawet!
+    570444|00000000||Idę na polowanie.
+    571969|00000000||Idę polować na króliki. Jaskier, może dołączysz?
+    571971|00000000||Potrawkę z królika to bym zjadł, nie powiem. Ale nie ja obiecywałem, że sobie rzyć z tej okazji odmrożę.
+    571973|00000000||Zajmę się zbieraniem ziół. Nie ma dobrej potrawki z królika bez wygrzanego letnim słońcem tymianku i aromatycznego rozmarynu...
+    571975|00000000||Pewno, tuż przed Yule rozmaryn rośnie na łąkach jak dziki.
+    571977|00000000||Dlatego pójdę zbierać zioła w kuchni.
+    575654|00000000||Ech, bywaj.
+   1061558|00000000||Bez serca jesteście! To już nawet Nilfgaardczyki bardziej ludzkie były!
+   1061560|00000000||He, he. Czarni to pewnie ci jeszcze płacili, co? Najbrzydsza nie jesteś...
+   1061562|00000000||Chodź do domu, stara. Nie awanturuj się.
+   1061564|00000000||He, he.
+   1061553|00000000||Dwa worki ziarna, jeden worek kaszy, trzy kurczaki, jedna chuda koza.
+   1061702|00000000||I to wszystko?
+   1061704|00000000||Tak. Dwa razy sprawdzałem, czy nic nie pochowali.
+   1061555|00000000||To sprawdźcie trzeci raz. No, jazda!
+    574465|00000000||Znaczy się, wiedźmy palić będą.
+    574466|00000000||A gdzie oni tu wiedźmy znajdą?
+    574485|00000000||Znajdą, znajdą, ty się nie bój.
+    584377|00000000||A ten wielmożny Dagborg to niby kto? Krewniak jakisik tamtego poprzedniego dziedzica?
+    584379|00000000||Ja tam nie wim.
+    575975|00000000||Co un mówi?
+   1008572|00000000||Że nowe podatki będą.
+    578012|00000000||Naprawdę cię to interesuje?
+    578015|00000000||Naprawdę cię to interesuje?
+    578018|00000000||No jasne. Sam mówiłeś, że gryf królewski trafia się rzadko.
+    578020|00000000||Nie aż tak rzadko. Zanim wrócimy do Kaer Morhen, ubijemy pewnie ze dwa. Ale jeśli chcesz zobaczyć gniazdo, to jest tu na pagórku...
+    578025|00000000||Chodźmy!
+    578022|00000000||Powinniśmy pozbierać sidła.
+    578031|00000000||Mysław sam pozbiera pułapki. A my może coś upolujemy po drodze.
+    578065|00000000||Jeszcze dzisiaj rano króliki były sprawą życia i śmierci.
+    578067|00000000||Tak naprawdę to chciałam po prostu iść z tobą na spacer.
+    578069|00000000||No to chodźmy. Gniazdo jest tu, na pagórku. Możliwe, że truchło gryfa cały czas tam jest.
+    578071|00000000||Mmm, cudownie!
+    578011|00000000||Musimy pozbierać pułapki.
+    577994|00000000||Odechciało ci się polować na króliki?
+    577996|00000000||Trochę tak.
+    577998|00000000||To co teraz?
+    578000|00000000||Nic. Siedzę sobie i czekam na ciebie. Ładnie tu.
+    578002|00000000||Poczekaj, aż zobaczysz Dol Blathanna zimą. I Góry Sine.
+    578010|00000000||Poczekamy do odwilży i ruszymy na wschód. Chyba za bardzo się tu zasiedzieliśmy...
+    578004|00000000||Miałeś mi pokazać to gniazdo gryfa, zanim wyjedziemy. Chodźmy teraz!
+   1061583|00000000||Panie... Moje zboże...
+   1061585|00000000||Nie przeszkadzaj, trwają działania wojskowe.
+   1061726|00000000||Na moim polu? Wy wiecie, ile to zboże warte?
+   1061587|00000000||Na pewno mniej niż skrzynka nilfgaardzkiego złota, którąśmy wykopali tuż przy miedzy.
+   1061728|00000000||I coś mi się widzi, że jak dobrze pokopiemy, to znajdzie się więcej.
+   1061730|00000000||Ale...
+   1061732|00000000||Wynocha mi stąd! Ale nie oddalaj się od wioski.
+   1061581|00000000||Głębiej kopać, głębiej!
+   1061724|00000000||Macie sprawdzić każdy skrawek, jasne? I każdą zasraną krecią norę!
+    458124|f759b018||Nilfgaardzki żołnierz
+    577129|00000000||Wilkołak...
+    552365|00000000||Brr, ale zimno.
+    563748|00000000||Chodźmy.
+    579546|00000000||Hm?
+    578145|00000000||Dobra, dość tego. Chodźmy na ryby.
+    578135|00000000||Ciri, o co ci chodzi?
+    578138|00000000||Przepraszam. To po prostu... nie jest dobry moment.
+    578141|00000000||Chcesz wracać do karczmy?
+    578125|00000000||No co?
+    577573|00000000||Gdyby był odrobinę szybszy, rozprułby ci ramię.
+    577574|00000000||Ale nie był. Zabiliśmy go. O co ci chodzi?
+    577575|00000000||Chciałaś się wyżyć. Jeśli będziesz tak nieostrożna, następnym razem...
+    577576|00000000||Nie będzie następnego razu! Jasne!?
+    577680|00000000||Będę improwizował. Poczekaj tu.
+    577682|00000000||Petardami.
+    577676|00000000||A niech mnie.
+    577677|00000000||Wycofujemy się?
+    577678|00000000||Nie ma mowy.
+    578161|00000000||Dobrze wybraliśmy – w tym jeziorze muszą być szczupaki, leszcze albo klenie. Zjadłabyś klenia?
+    578165|00000000||Mogłabym zjeść, ale co: chcesz czekać, aż on tu skończy?
+    578167|00000000||Nie, wypłoszymy go.
+    578171|00000000||Jak?
+   1061579|00000000||Biedny Miłosz.
+   1061773|00000000||Ja go tam nie żałuję. Zachciało mu się z Czarnymi trzymać.
+   1061777|00000000||Hmm. Teraz już wiem, czemu miesiąc temu tak dziwnie na mnie spojrzał.
+   1061775|00000000||Nilfgaardzkie skarby! A nam ani słoweczka nie powiedział.
+   1061779|00000000||Ciekawe, co tam wykopią.
+   1061571|00000000||Widziałaś, jak Redańczycy Miłoszowi pole bronują?
+   1061573|00000000||Teraz? Całe zboże na marnację pójdzie!
+   1061575|00000000||Pfff, zboże! Ponoć Nilfgaardczyki coś na tym polu zakopali i kazali pszenicą obsiać dla niepoznaki.
+   1061769|00000000||Aaa!
+   1061771|00000000||Chodź, popatrzymy, jak kopią.
+    575860|00000000||Tam, w chacie...!
+    575853|00000000||Pomocy, rozwiążcie mnie...
+   1059138|00000000||Zatrzymajcie się! Proszę!
+   1059141|00000000||O co chodzi?
+   1059143|00000000||Żołnierze ich związali! W chacie!
+   1062036|00000000||Kogo?
+   1062038|00000000||Mojego ojca mają! I wuja Boguta! I Klimka! Poratujcie!
+    578973|00000000||Jakbyś mi pokazał batystowe hajdawery z monogramem, może bym ci i uwierzył.
+    578986|00000000||Albo byś powiedział, że je ukradłem.
+    578988|00000000||He, he, he.
+    578975|00000000||Głąby.
+    578978|00000000||A ty nie miałeś przypadkiem gdzieś iść?
+    578980|00000000||Miałem.
+    578983|00000000||No dobra.
+    579026|00000000||Gdzie się umówiliście?
+    579028|00000000||Przy chacie myśliwego.
+    579007|00000000||Jakbyś mi pokazał batystowe hajdawery z monogramem, może bym ci i uwierzył.
+    579009|00000000||Albo byś powiedział, że je ukradłem.
+    579011|00000000||He, he, he.
+    579013|00000000||Głąby.
+    579016|00000000||A ty nie miałeś przypadkiem gdzieś iść?
+    579018|00000000||Miałem.
+    579021|00000000||No dobra.
+    579030|00000000||Gdzie się umówiliście?
+    579032|00000000||Przy chacie myśliwego.
+    579035|00000000||Podać jeszcze tej przepalanki, co żeście ją tak wczoraj chwalili?
+    579037|00000000||Nie, muszę iść. Powiedziałem, że będę przy chacie myśliwego z samego rana.
+    579039|00000000||Ano tak, pamiętam: polowanie na króliki.
+    579041|00000000||Mhm.
+    578990|00000000||Jakbyś mi pokazał batystowe hajdawery z monogramem, może bym ci i uwierzył.
+    578992|00000000||Albo byś powiedział, że je ukradłem.
+    578994|00000000||He, he, he.
+    578996|00000000||Głąby.
+    578920|00000000||Widzę, że koń jest w dobrych rękach.
+   1074799|00000000||W najlepszych. Z powrotem u właściciela... Tęskno ci było, Dukat, co? Tęskno?
+   1074801|00000000||Mhm. Jak cię zwietrzył, pognał tak, że mało ludzi nie potratował.
+   1074803|00000000||A... Khem... A słyszałeś może, żeby ktoś za nim wołał "kurważ kostka"?
+   1075628|00000000||Tylko jeden człowiek we wsi tak klnie... Mój sąsiad, Mirko. Dałem mu Dukata w opiekę... Muszę do niego iść, martwi się na pewno.
+   1075631|00000000||Macie... To dla was. W podzięce, żeście pobiegli sprawdzić, co z Dukatem.
+    578904|00000000||Widzę, że koń jest w dobrych rękach...
+    578951|00000000||A na koniec i tak ten pomyleniec Radowid górą. Nawet prości żołnierze wiedzą, że czegoś mu nie dostaje.
+   1075606|00000000||Ale może teraz będzie coś lepiej. Mówią, że kanclerz Dijkstra to mądry władca...
+   1075608|00000000||Mądry. Cwany, nawet.
+    578953|00000000||No, ale ciekawe, co sam w domu zastanę.
+    578955|00000000||Zajęcia Novigradu przez cesarza nie widziałem, ale nie żałuję. Piękne miasto...
+    578910|00000000||Długo cię nie było?
+    578912|00000000||Rok niecały. Ale wydaje się, jakby to było dłużej.
+    578924|00000000||Wcielili cię siłą do armii?
+    578914|00000000||A skąd. Zachciało mi się wojowania. Myślałem, że przywiozę do domu coś więcej niż blizny na grzbiecie.
+    578922|00000000||No, ale kawał świata zobaczyłem. Wielkie bitwy. Paru sławnych generałów z daleka. I dużo skurwysyństwa.
+    578903|00000000||Długo cię nie było?
+    578902|00000000||Po czyjej stronie walczyłeś?
+    578906|00000000||Po czyjej stronie walczyłeś?
+    578908|00000000||Jak większość: po swojej. Byle nie dać się zabić.
+    578918|00000000||Za redańskiego orła czy cesarskie słońce tak samo się zdycha: w brudzie i smrodzie. Nie ma w tym żadnej chwały.
+    578885|00000000||Pomyśleć, że ta szkapa poznała mnie po tych wszystkich latach...
+    578899|00000000||Niegłupie są, przywiązują się. Zresztą ludzie też. Widziałem, jak oficerowie płakali po padłych koniach.
+    578901|00000000||Ale wrzask bab i dzieci to ich jakoś nie wzruszał.
+    578957|00000000||Czasem to aż we łbie się nie mieści. Cesarz własną armię ponoć wytruł. Ot, polityka.
+    582809|00000000||Dzięki, żeś nas wyratował. Od początku chłopakom mówiłem, żeś jest równy gość i żeby ci tej łódki nie brać.
+    583261|00000000||Podobno zajmujecie się teraz inwestycjami...
+    583263|00000000||Tak, i postanowiliśmy zainwestować w majątek ruchomy. W dzisiejszych czasach...
+    583265|00000000||...każdy złoty kielich się przyda, jasne.
+    583267|00000000||Co z nim zrobiliście?
+    583268|00000000||Już go nie mamy. Nadarzył się kupiec. Śmiesznie się nazywał, pan Zwierciadełko, czy jakoś tak. Ale płacił uczciwie.
+    583274|00000000||Podzielilibyśmy się z tobą pieniędzmi, ale kradzionego byś pewnie nie tknął.
+    583276|00000000||Nie tknąłby, zgadza się. Zdecydowanie.
+    583286|00000000||Nie chcę waszych pieniędzy.
+    583287|00000000||Ale się nadął, patrzcie. Urażony! Jakbyśmy mu gołe baby w oknach podglądać kazali.
+    583290|00000000||Wiedźmini swój kodeks mają. Cudzego nie biorą, bab w karczmach nie podszczypują, na podróżnych nie napadają.
+    583292|00000000||Zdarzają się wyjątki. W kwestii podróżnych.
+    583294|00000000||Bywaj, wiedźminie.
+    583278|00000000||Nie chcę waszych pieniędzy.
+    583277|00000000||Skoro tak nalegacie, wezmę te pieniądze.
+    583279|00000000||Skoro tak mnie namawiacie, to wezmę te pieniądze. Druhom nie odmówię.
+    583281|00000000||Wiedźmińska etyka, tfu. Świat na psy schodzi, zaraza.
+    583284|00000000||Dobrze, że chociaż tę krypę mu buchnęliśmy.
+    582142|00000000||Kryć się! Idą po nas!
+   1059837|00000000||Hrrr... Hę?
+    583252|00000000||Co się dzieje?
+    582143|00000000||O nas ani słowa!
+    583244|00000000||Co tu robicie?
+    583246|00000000||Przyjechaliśmy w interesach. Wiesz, ciężkie czasy. Wszędzie trzeba szukać zarobku.
+    583249|00000000||W okolicy poszukiwali geodetów?
+    583255|00000000||Przekwalifikowaliśmy się. Teraz jesteśmy inwestorami.
+    583258|00000000||To znaczy?
+    583179|00000000||Co tu robicie?
+    583180|00000000||Ukradliście tę łódkę.
+    583184|00000000||Ukradliście tę łódkę.
+    583189|00000000||Pożyczyliśmy tylko. Przecież wiedzieliśmy, że to twoja. Myślisz, że byśmy druha tak bez mydła wychędożyli?
+   1059839|00000000||Hrrrr... Hm? A to dobre... He, he. Hrrr...
+    583192|00000000||Czyli teraz mi ją oddacie?
+    583236|00000000||Bój się bogów, wiedźminie, po co ci łódka w tych chaszczach?
+    583238|00000000||Dobra, nie było tematu.
+    583996|00000000||Dobra. Wyłazić.
+    583166|00000000||I jak tam, popływaliście sobie?
+    582136|00000000||A ty dalej o tej dziurawej krypie z Wyspy Mgieł? Miałeś szczęście, że ty i ta mała nie chcieliście z nami płynąć.
+    583171|00000000||Sami ledwo dotarliśmy do brzegu, taka była obciążona. I tak byście się nie zmieścili.
+    583173|00000000||I śmierdziała rybim łajnem.
+   1059835|00000000||Hrrrr...
+    579282|00000000||Hehe! Ty nigdy nie nosiłeś mnie na barana w Kaer Morhen, pamiętasz? Tylko Vesemirowi się chciało.
+    579280|00000000||Uhh!
+    579284|00000000||Naprawdę musieliśmy zaczekać z nadrabianiem tego, aż tak przytyjesz?
+    579287|00000000||Ha, ha.
+    579289|00000000||Ha, ha.
+    579292|00000000||Ciri?
+    579294|00000000||Powinniśmy wracać.
+    569886|00000000||Wielkie dzięki! Ja bym go za nic nie dogonił.
+   1074807|00000000||Kurważ kostka! Kogo ja widzę? Hubrecht! No, to już wiem, czemu Dukat brykał, jakby go giez ugryzł!
+   1074809|00000000||Dobrze cię widzieć, Mirko. Nic się nie zmieniłeś. Nic a nic.
+   1074811|00000000||Wchodź do środka, rozdziej się, przy piecu usiądź! A ja Dukata przywiążę i skoczę po buteleczkę!
+    578096|00000000||Poszła już.
+    577477|00000000||Złościła się, że musi na mnie czekać?
+    577478|00000000||Nie, ale już ją ciągnęło na pola. Sama naszykowała witerunek i nasmarowała sidła.
+    577479|00000000||Byłby z niej dobry myśliwy, co?
+    577480|00000000||A skąd. Za bardzo niecierpliwa.
+    578109|00000000||Najchętniej pewnie gołymi rękami chwytałaby króliki i pchała do sideł, bo same to za wolno się łapią.
+    577481|00000000||Gdzie poszła?
+    578103|00000000||A tu, niedaleko.
+    578106|00000000||Bywaj.
+    574033|00000000||Wszystko jasne?
+    574039|00000000||Nie interesuje mnie, czy to będzie wasz brat, czy przyjaciel.
+    578814|00000000||Każdy dezerter ma zostać stracony. Bez sądu.
+    574037|00000000||Samowolne rabowanie po drodze świątyń i dzieł sztuki będzie karane śmiercią.
+    578858|00000000||Wszystko ma zostać oficjalnie opieczętowane i wyjechać prosto do Nilfgaardu.
+    578861|00000000||Dodatek do żołdu będzie przyznawany proporcjonalnie, po powrocie.
+    172334|06c10782||Skelligijka
+    568547|00000000||Pomóżcie!
+    568544|00000000||Heeee! Sakramencki! Aauuuuaaa! Kurważ kostka...
+    595891|fbee3e23||Chłopka
+   1061290|00000000||Wymarsz za dwie godziny!
+   1061734|00000000||Każdy, kto się nie stawi w pełnym rynsztunku, zostanie uznany za dezertera.
+   1061736|00000000||Rozleniwiliście się, gamonie, przy temerskim pszenicznym!
+   1061738|00000000||Już ja wam przypomnę, jak maszeruje cesarska armia!
+    577221|00000000||Co ci zrobiła? Wiedźma...
+    577308|00000000||Ukradła mojej córce medalion.
+    577310|00000000||Dam ci radę. Wiedźma będzie walczyć jak zaszczuty rosomak. Może okaleczyć, zabić nawet...
+    583061|00000000||Po co ryzykować? Kup dziewczynie nowy wisior. Czas leczy rany, przejdzie jej smutek.
+    577312|00000000||Nie przejdzie. Córka nie żyje.
+    577218|00000000||Niech będzie.
+    577223|00000000||Mów.
+    577224|00000000||Niedaleko stąd jest wilcza jama, znajdziesz po drodze. W jamie są szczenięta. Wynieś je z bagien.
+    577225|00000000||Czemu?
+    577226|00000000||Tu nie przeżyją albo zmienią się w coś... złego.
+    578819|00000000||Postaram się.
+    578948|00000000||Nie.
+    577217|00000000||Nie.
+    577141|00000000||Nie ma. Ilu ludzi zabiłeś? Ilu jeszcze zabijesz?
+    577142|00000000||Nie wiem. Czasem nie ma wyjścia, paskudny czas nastał.
+    577143|00000000||Paskudny.
+    577182|00000000||Ostatnie życzenie?
+    577139|00000000||Nie ma.
+    577212|00000000||Jest. Znajdziesz dla mnie wiedźmę i przeprowadzisz przez bagno.
+    577213|00000000||A potem?
+    577214|00000000||A potem zobaczymy.
+    577215|00000000||Uh... Co ci zrobiła? Ta wiedźma.
+    577216|00000000||Ukradła mojej córce medalion.
+    577304|00000000||Jeśli mogę... Po co ryzykować? Wiedźma będzie walczyć jak zaszczuty rosomak. Może cię okaleczyć, nawet zabić...
+    583084|00000000||Kup dziewczynie nowy wisiorek. Z czasem przejdzie jej smutek.
+    577305|00000000||Nie przejdzie. Córka nie żyje.
+    577307|00000000||Ruszaj.
+    577140|00000000||Jest.
+    577130|00000000||Kim jesteś?
+    577131|00000000||Wiesz, kim jestem. I po co tu jestem.
+    577132|00000000||Uhm. Nie musisz... Nie jestem zagrożeniem. Głoduję, bagna są zatrute. Nie poluję już na ludzi.
+    577133|00000000||Wiedźma cię przyzwała?
+    577134|00000000||W snach, kiedyś śniłem wilcze sny... Teraz tylko głód i ból, krew...
+    577135|00000000||Gdzie ona jest?
+    577136|00000000||Gdzieś na bagnach.
+    577181|00000000||Nie ma innego wyjścia?
+    573702|00000000||To tylko pogłoski. Cesarz nie ma teraz powodu ograbiać Novigradu. To tak, jakby przesypywał monety z jednej kieszeni do drugiej.
+    573703|00000000||Mój ojciec mówi, że cały skarbiec świątyni Wiecznego Ognia ma pójść na opłacenie najemników.
+    573704|00000000||To co innego. Novigradzcy kupcy słowa nie pisną, kiedy cesarz rozpędzi kapłanów na cztery wiatry.
+    516508|b0678eeb||Koń
+   1061683|00000000||Im dalej od świętego kaganka jedynej wiary, tym więcej ciemnoty.
+   1061362|00000000||Tu na prowincji nawet nie wiedzą, że przeciwko Świętemu Ogniowi bluźnią.
+   1061684|00000000||Pewno, że tu lepiej. W Novigradzie już się heretyki wycwaniły.
+   1061686|00000000||Ty do nich z rozpalonym żelazem, a ci dysputy etyczne chcą urządzać, psie krwie.
+   1061366|00000000||Po mojemu tu na wsi więcej drewna na stosy. Dobrze trafiliśmy, nie ma co.
+    577544|00000000||Mieliśmy trochę potrenować.
+    577545|00000000||Aha.
+    577546|00000000||Może jutro z samego rana?
+   1068722|00000000||Przeczołgam cię jak za starych dobrych czasów.
+   1068724|00000000||Chyba dawno nikt ci nie pokazał, ile się jeszcze musisz nauczyć.
+    577547|00000000||Mhm.
+   1068727|00000000||Ekhm. No, już prawie jesteśmy na miejscu.
+    553394|00000000||A pamiętasz, jak ćwiczyłam na Wahadle?
+   1068716|00000000||I jak się bałam, że nie dam rady, ale ty nie pozwoliłeś mi zrezygnować?
+   1068718|00000000||Chodziłam potem cała posiniaczona. Wahadło to był prawdziwy koszmar.
+    553397|00000000||Pamiętam dobrze. Wierz mi.
+    553398|00000000||Tamte miesiące w Kaer Morhen minęły tak szybko.
+    562408|00000000||Żałuję, że nie spędziliśmy wtedy więcej czasu razem.
+    578869|00000000||Jak ci na imię, wilkołaku?
+    578870|00000000||Berem.
+    578871|00000000||Prowadź do wiedźmy, Berem.
+    577227|00000000||Może kiedyś, w innym czasie... Mógłbym pomóc.
+   1065298|00000000||Nie mogę na to patrzyć... Zabije cię...
+   1065300|00000000||Nie wtrącaj się!
+    579153|00000000||Szczeniak, jeden jeszcze żyje...
+    579154|00000000||Chodź, nie ma czasu.
+    579155|00000000||Nie przeżyje sam.
+    579156|00000000||Prowadź do wiedźmy.
+    578938|00000000||Jest blisko. Gdzieś tutaj...
+    578939|00000000||Wracaj do swoich wilczych snów, Berem. Uratuj szczeniaka. Odejdź gdzieś daleko, znajdź jakąś niebrzydką wilkołaczycę. Żyj.
+    578940|00000000||Pomogę ci.
+    578941|00000000||Nie.
+    578942|00000000||Pamiętaj: zaszczuty rosomak. Możesz tego nie przeżyć.
+    578943|00000000||Wiem. Idź już.
+   1061689|00000000||Na polityce to ja się nie wyznaję, ale zawsze pierwsze co, to aktywa.
+   1061691|00000000||Trzysta pińdziesiąt, trzysta szejśdziesiąt...
+   1061693|00000000||Kiedy chwycisz ich za sakiewki, ich serca i umysły też podążą za tobą.
+   1061695|00000000||Czterysta dziesięć, czterysta dwajścia...
+   1061697|00000000||Po Nilfgaarczykach też sporo zostało. W tamtej skrzyni znaleźliśmy... ile?
+   1061699|00000000||Czterysta... No kurwa, mówiłem! Albo prz..szestaję pić, abo mi nie przerywasz!
+    583007|00000000||Rozpacz toczy cię jak robactwo.
+    583009|00000000||Twoje zatrute eliksirami mięso... słodkie od bólu.
+    583011|00000000||Ona też cierpiała. Sama, biedna, całkiem sama...
+    583013|00000000||Nigdy się od tego nie uwolnisz.
+    579063|00000000||Już nie.
+    582987|00000000||Chcesz śmierci, wiedźminie? Chcesz przestać cierpieć?
+    578944|00000000||Jesteś inny... Cierpisz.
+    578946|00000000||Chcesz śmierci, czuję to, znam smak oddechu samobójcy... Wróżby nie kłamią.
+    578947|00000000||Ta mała kurewka, przeklęta krew, zabiła moje siostry. Zostałam sama. Przez ciebie.
+    584873|00000000||Mój błysk przebije ciemności [...].
+    584867|00000000||"Dubhenn haern am glâdeal, morc’h am fhean aiesin".
+    584869|00000000||Mój błysk przebije ciemności, moja jasność mroki rozproszy.
+    584871|00000000||Zgadza się.
+    584855|00000000||Runy w Starszej Mowie, klasycznej. Bez stylizacji, precyzyjne i oszczędne.
+    584857|00000000||Mogę?
+    584859|00000000||Jest wasz. Jeśli chcecie wypróbować... Kazałem wystawić pachołkom kukłę treningową.
+    584861|00000000||Mhm. Oto wasza zapłata. Zgodnie z umową tylko kamienie szlachetne.
+    584863|00000000||Jeśli szukacie zleceń, to słyszałem o strzydze w lesie mariborskim.
+    584864|00000000||Dzięki, muszę jeszcze wpaść do karczmy. A później, kto wie.
+    584865|00000000||Powodzenia na szlaku, wiedźminie.
+    584895|00000000||"Zireael". Jaskółka.
+    584872|00000000||Zireael.
+    584875|00000000||Spóźniliście się.
+    584877|00000000||Wojacy...
+    584879|00000000||...blokują trakty. Wiem. Nie szkodzi. Macie, o co prosiłem?
+    584881|00000000||Wszystko zgodnie z umową.
+    584883|00000000||Długość klingi trzydzieści osiem i pół cala, waga poniżej czterdziestu uncji, trzpień z syderytowej stali, okuty srebrem. Glify i znaki runiczne na jelcu i całej długości klingi.
+    584885|00000000||Piękny.
+    584887|00000000||Pracuję w tym fachu od trzydziestu lat. Na moje wyroby stać tylko najlepszych fechmistrzów i szermierzy.
+    584889|00000000||I ręczę, że lepszej broni nie ma i nie miał jeszcze żaden wiedźmin.
+    584891|00000000||Znam waszą renomę, mistrzu Ort, i nie wątpię.
+    584893|00000000||Do tego, jak chcieliście, inskrypcja...
+    575206|00000000||Staruszek zawsze miał do mnie słabość. Wyczuwał we mnie człowieka zgodnego, rodzinnego, takiego jak on sam.
+    575224|00000000||I gdyby nie ta jędza, „moja siostra”, nigdy by mu nie przyszło do głowy mnie wydziedziczać.
+    575226|00000000||Jeszcze raz, jak to było? Hrabia Julian Alfons de co?
+    575232|00000000||Julian Alfred Pankratz wicehrabia de Lettenhove.
+    575233|00000000||He, he, he.
+    575234|00000000||Nie wierzysz mi? Zobaczysz, jeszcze ci oko zbieleje, jak pojedziemy do moich posiadłości.
+    575467|00000000||He, he, he.
+    577548|00000000||Teraz uważaj.
+    577549|00000000||Tylko nie rób mi tu całego wykładu.
+    577550|00000000||Ciri, czekaj. W tym gnieździe coś-
+    577551|00000000||Daj spokój, nie musimy bawić się w podchody.
+    577552|00000000||Ciri!
+    581646|00000000||Jeśli się teraz przyznasz i nam ich wydasz, może wyjdziesz z tego żywy.
+    581648|00000000||On tak naopowiadał?
+    584960|00000000||Możecie przeszukać moją chatę. Nikogo tam nie znajdziecie.
+    581649|00000000||Sprawdzimy to.
+    576003|00000000||Litości, panie...
+    576004|00000000||Dość tego!
+    584988|00000000||Ja? Przenigdy! On tak naopowiadał?
+    581635|00000000||Pójdziesz z nami.
+    584991|00000000||He, he.
+    584993|00000000||Ty draniu!
+    585004|00000000||Brać go.
+    575076|00000000||Podobno ukrywasz w domu nilfgaardzkich szpiegów.
+   1059136|00000000||Ej, ty! Wypierdalaj stąd! W imieniu króla!
+    575878|00000000||Ponoć księgi bezbożne tu ukrywacie.
+    575867|00000000||Panie... jj-ja nawet czytać nie umim.
+    575879|00000000||To się sprawdzi.
+    575871|00000000||Klnę się na bogi, że...
+    575884|00000000||Aha, bluźnierca! Dawnośmy nikogo końmi nie włóczyli.
+    575883|00000000||Litości!
+    575971|00000000||Wynocha.
+    575986|00000000||Trzeba by tu posprzątać.
+    575987|00000000||I to szybko.
+    172316|3a2616f8||Łowca czarownic
+   1055084|06691856||Chłop
+    578825|00000000||Czuję ludzi i wilka...
+    578826|00000000||Ilu ludzi?
+    578827|00000000||Nie więcej niż dziesięciu.
+    578828|00000000||Nie wtrącaj się.
+    585744|00000000||Coś go musiało zatrzymać.
+   1059036|00000000||Mistrzu Ort!
+   1061386|00000000||Hmm...
+   1062260|00000000||Radowid miał wiele wad. Był okrutny, porywczy, chorobliwie ambitny.
+   1062262|00000000||Ale nie można  było mu odmówić taktycznego geniuszu. Dysponując znacznie mniejszymi siłami, pokonał najeźdźcę z południa.
+   1062264|00000000||Redański orzeł wziął pod swoje skrzydła całą Północ, włącznie z Novigradem.
+   1062266|00000000||W III wojnie z Nilfgaardem stanęli przeciw sobie dwaj wielcy stratedzy: Radowid V Srogi i Emhyr var Emreis.
+   1062268|00000000||Każdy wydawał się niepokonany – lecz obaj ponieśli porażkę. Najeźdźca z południa został odparty w polu, hegemon Północy zaś – skrytobójczo zamordowany.
+   1062270|00000000||Władzę nad zwycięską Redanią przejął człowiek, który dotąd skrywał się w cieniu. Sigismund Dijkstra.
+   1062254|00000000||Wojna z Nilfgaardem zakończyła się całkowitym zwycięstwem najeźdźcy z południa.
+   1062256|00000000||Bez taktycznego geniuszu Radowida królestwa Nordlingów nie były w stanie oprzeć się niezliczonym legionom Emhyra.
+   1062258|00000000||Czarne sztandary zawisły nad Novigradem i Redanią.
+   1062273|00000000||Po zwycięskiej wojnie z Nilfgaardem przyszła pora na dokończenie łowów na czarownice.
+   1062275|00000000||Tak, jak wcześniej w Novigradzie, teraz stosy zapłonęły w zajętych przez Radowida Temerii i Aedirn.  W ramach odnowy moralnej zamordowano tysiące prostych czarowników i znachorów, nieludzi, rzekomych heretyków.
+   1062277|00000000||Wolność pod berłem Radowida dla wielu okazała się gorsza niż niewola.
+   1062279|00000000||Po objęciu urzędu kanclerza Dijkstra przystąpił do sprawowania rządów nad zwycięską Północą – z właściwym sobie cynizmem i bezwzględnością.
+   1062281|00000000||Dijkstra wiedział, że jeśli chce pokoju, musi szykować się do wojny i, wzorem Nilfgaardu, wzmocnić swe włości poprzez szeroko zakrojony program osadnictwa i zakładania manufaktur.
+   1062283|00000000||Wszystko to dla dobra poddanych – choć wbrew ich woli.
+   1062285|00000000||Zmęczony nieustannymi podjazdami temerskich partyzantów, Emhyr var Emreis przystał na restytucję ich królestwa na prawach lennika.
+   1062287|00000000||Zbuntowani żołnierze złożyli broń, a cesarz mógł dzięki temu skupić swe siły na innych frontach.
+   1062289|00000000||I tak, dzięki zwycięstwu Nilfgaardu, Temerczycy odzyskali swój kraj – a historia po raz kolejny dowiodła, że lubi płatać figle.
+   1062291|00000000||Rozprawiwszy się z Radowidem, Emhyr var Emreis rozliczył się z wrogiem wewnętrznym.
+   1062293|00000000||Wierni cesarzowi szpiedzy wskazali imiona spiskujących przeciw niemu kupców i arystokratów.
+   1062295|00000000||Choć ich bunt nigdy nie wyszedł poza fazę mglistych planów, cesarz nie znał litości. Jak zwykle.
+   1062297|00000000||Tak długo, jak jego wojska odnosiły zwycięstwa, Emhyr cieszył się bezgranicznym wręcz posłuszeństwem poddanych.
+   1062299|00000000||Gdy jednak upokarzające porażki odarły go z nimbu nieomylności, ukryta do tej pory opozycja przystąpiła do ataku.
+   1062301|00000000||Cesarz, który tańczył na kurhanach wrogów, został złożony w grobie przez własnych poddanych.
+   1062303|00000000||Podczas gdy kontynent wykrwawiały wojny, Skellige pod rządami Cerys przeżywało rozkwit.
+   1062305|00000000||W przeciwieństw bowiem do swoich poprzedników, młoda królowa zamiast na łupieniu cudzych ziem skupiła się na dbaniu o własne włości.
+   1062307|00000000||Dzięki temu wyspiarski naród znacznie się wzbogacił – ale stracił też przy tym swój dawny pazur.
+   1062309|00000000||Choć wojna na kontynencie już się zakończyła, Hjalmar nie złożył broni.
+   1062311|00000000||Młody król poprzysiągł, że każdej wiosny będzie łupił brzegi znienawidzonego cesarstwa Nilfgaardu i zamierzał dotrzymać słowa – choćby miał przy tym utopić własny naród we krwi.
+   1062313|00000000||Wielu wyspiarzy myślało, że Svanrige będzie marionetką w rękach swej ambitnej matki. Młody król szybko jednak udowodnił, że będzie rządził samodzielnie – i to twardą ręką.
+   1062315|00000000||Zmęczony wiecznymi swarami z jarlami, postanowił wprowadzić na wyspach jedynowładztwo na wzór kontynentalnych monarchii.
+   1062317|00000000||Udało mu się to osiągnąć – ale dopiero po przelaniu krwi wielu swoich rodaków.
+   1062319|00000000||Cirilla Fiona Ellen Rianon, dziedziczka nilfgaardzkiego tronu, wybrała życie na wiedźmińskim szlaku.
+   1062321|00000000||Geralt nauczył ją wszystkiego, co sam umiał – a potem każde ruszyło w swoją stronę.
+   1062323|00000000||Wkrótce potem o wyczynach popielatowłosej wiedźminki głośno było od Jarugi po góry Koviru…
+   1062325|00000000||Po latach tułaczki Ciri wróciła do swojego prawdziwego domu – Nilfgaardu. Zapowiadało się, że Emhyr uczyni ją swoją następczynią.
+   1062327|00000000||Trzeba powiedzieć, że dziewczyna miała ku temu wszelkie predyspozycje. Po ojcu odziedziczyła bowiem godny cesarza zmysł do polityki, a po Geralcie przejęła zwykłą, ludzką przyzwoitość.
+   1062329|00000000||Te cechy rzadko idą w parze u monarchów – a szkoda…
+   1062331|00000000||A Ciri… Ciężko powiedzieć. Nie widziano jej od czasu wydarzeń na Undvik.
+   1062333|00000000||Ale to nie znaczy, że jeszcze do nas nie wróci.
+   1062335|00000000||Geralt, choć ciężko w to uwierzyć, wreszcie zapuścił korzenie – w dalekim Kovirze.
+   1062337|00000000||Razem z Triss stworzyli tam ciepły dom, w którym zawsze pachniało świeżo upieczonym ciastem, a goście byli mile widziani niezależnie od dnia czy godziny.
+   1062339|00000000||Wiedźmin brał jeszcze czasem jakieś zlecenie – z przyzwyczajenia raczej, niż potrzeby, bo jako królewska doradczyni, Triss zarabiała istną fortunę.
+   1062341|00000000||A co z Geraltem, zapytacie? A cóż mogłoby z nim się dziać?
+   1062343|00000000||Wrócił do swojego fachu, żył od zlecenia do zlecenia, wiecznie w drodze, wiecznie bez pieniędzy.
+   1062345|00000000||Czasem spotykaliśmy się przy kieliszku czegoś mocniejszego, by powspominać dawne czasy i podumać, co by było gdyby…
+   1062347|00000000||Podczas gdy królowie przesuwali granice, Geralt i Yennefer wiedli spokojne życie z dala od wielkiej polityki.
+   1062349|00000000||Dni upływały im na leniwych spacerach i długich rozmowach, śniadanie jedli dobrze po południu, oczywiście najczęściej w łóżku.
+   1062351|00000000||Nuda, powiecie? Może. Ale oboje nie pragnęli niczego bardziej.
+   1052050|00000000||Mistrzu wiedźminie. Tu można wypróbować miecz, jeśli wola.
+   1061302|00000000||Szybciej z tym kołem!
+   1061741|00000000||Czy może wolicie tu zostać i Radowidowych powitać?
+    574752|00000000||Następny!
+    574757|00000000||Ktoś jeszcze chce coś zgłosić?
+   1062041|00000000||Koniec na dziś! Rozejść się!
+    574758|00000000||Ty! Tak, ty.
+    572807|00000000||Proszę za mną.
+    572810|00000000||Najjaśniejszy Pan oczekuje.
+    595913|6b1268cb||Chłop
+   1051424|f11e033c||Zbrojmistrz
+    583129|00000000||Ej! Brać go!
+    583128|00000000||Tak zginą wszyscy zdrajcy. Wypalimy zarzewie buntu do gołej ziemi.
+    584088|00000000||Możesz popatrzeć, ale z daleka.
+    171353|39b3095b||Redański żołnierz
+    577981|00000000||To stary wiedźmiński sposób na ciężką zimę. Nieszczególnie subtelny, ale...
+    577983|00000000||...skuteczny.
+    577985|00000000||Aha. Pamiętaj, nigdy tego nie rób.
+    577987|00000000||To po co mi to pokazujesz?
+    577989|00000000||No wiesz, na wszelki wypadek. Nigdy nie wiadomo, co ci się przyda na szlaku.
+    578288|00000000||Musimy.
+    578689|00000000||Musimy.
+    578692|00000000||Mógłbyś jechać ze mną.
+    578694|00000000||Nie, Ciri. Dobrze wiesz, że to nie jest życie dla mnie.
+    578696|00000000||Wiem, ale myślałam, że...
+    578698|00000000||Podjęłaś decyzję. Ja mojego wyboru dokonałem już dawno.
+    578700|00000000||Teraz, po wojnie, będę miał sporo do zrobienia, włócząc się po zapadłych wsiach.
+    578703|00000000||Kiedy ruszasz?
+    578709|00000000||Od razu.
+    578764|00000000||Daj chociaż Yennefer trochę czasu na spakowanie się.
+    578711|00000000||Daj chociaż trochę czasu Triss na spakowanie się.
+    578714|00000000||A więc to jest...
+    578338|00000000||Oczywiście, że się nie żegnamy.
+    578347|00000000||Nie wiem, kiedy się zobaczymy.
+    578349|00000000||Wiesz, gdzie mnie szukać.
+    578353|00000000||Przecież nie będziesz siedzieć cały czas w Kaer Morhen.
+    578355|00000000||Znajdziesz jakiś sposób.
+    578375|00000000||To prawda.
+    578361|00000000||Pamiętaj, czego cię nauczyłem. Tam też może ci się to przydać.
+    578286|00000000||Oczywiście, że się nie żegnamy.
+    578248|00000000||Tego właśnie chcesz?
+    578258|00000000||Tak.
+    578261|00000000||Nie będziesz mnie zatrzymywać? Nie wywieziesz mnie siłą w Góry Sine?
+    578775|00000000||Nie po to zjeździłem za tobą pół świata, żeby cię do czegokolwiek zmuszać.
+    578283|00000000||Wiem.
+    578781|00000000||Poradzisz sobie, jesteś wiedźminką.
+    578285|00000000||Nie musimy się żegnać.
+    578219|00000000||Tego właśnie chcesz?
+    578750|00000000||Jeśli pytasz, czy Yennefer maczała w tym palce, to nie.
+    578754|00000000||Niesamowite. A wie w ogóle?
+    578756|00000000||Nie. Chyba lepiej, żeby tym razem się w to nie mieszała.
+    578761|00000000||Sama jej to powiedz.
+    578752|00000000||Jeśli pytasz, czy Emhyr zagroził, że naśle na ciebie całą dywizję „Alba”, jak się nie zgodzę, to nie.
+    578767|00000000||W takim razie ten list musiał być piekielnie przekonujący.
+    578769|00000000||Był.
+    578748|00000000||Sama podjęłaś tę decyzję?
+    578739|00000000||Sama podjęłaś tę decyzję?
+    578223|00000000||Mogłaś powiedzieć mi wcześniej.
+    578221|00000000||Mogłaś powiedzieć mi wcześniej.
+    578222|00000000||Chciałam ci powiedzieć, ale... nie wiedziałam jak. Byłam tu szczęśliwa i bałam się, że wszystko zepsuję. Chciałam nacieszyć się każdą chwilą.
+    578777|00000000||Czyli o to chodziło tam, przy gnieździe gryfa.
+    578779|00000000||Wolałem nic z ciebie na siłę nie wyciągać, pomyślałem, że przecież mamy czas. Dużo czasu.
+    578706|00000000||Geralt, oni przyjechali po mnie. Jadę do Nilfgaardu. Do Emhyra.
+    578728|00000000||Wiem, że nie tego się spodziewałeś, ale...
+    578730|00000000||Wtedy, w Wyzimie, odbyliśmy długą rozmowę... Burzliwą. Potem... Potem przysłał mi list przez posłańca. Na początku ci nie mówiłam, bo nie byłam jeszcze zdecydowana, a potem...
+    578738|00000000||Zrozumiałam, że nie mogę od tego uciekać. Że jeśli chcę coś zmienić, to nie uganiając się za potworami po zapadłych wsiach... Tylko tam.
+    578687|00000000||Prawie udało mi się zapomnieć, że to już dzisiaj.
+    574832|00000000||Mariella! Będziesz na mnie czekać?
+    574833|00000000||Będę.
+    574827|00000000||Tak tylko gadasz.
+    574828|00000000||Wrócę po ciebie, przysięgam!
+    574830|00000000||Taa! Żebyś z połowę tego zrobił, cożeś naobiecywał!
+    582400|00000000||Wrócę i zabiorę cię ze sobą do Nilfgaardu.
+    582402|00000000||Miałeś zostać tutaj!
+    175619|ea15b01b||Karczmarz
+    552440|00000000||Co to, mistrzu wiedźminie, jakieś nowe zlecenie? Myślałem, żeście całą okolicę oczyścili już ostatnim razem.
+    552441|00000000||Ech... Idę zapolować na króliki.
+    552971|00000000||Aaa, to chyba że tak.
+    552972|00000000||Może zajdziecie do nas pod wieczór? Verka nasmaży placków z blachy.
+    552979|00000000||Hm, nie wiem, czy...
+    552984|00000000||No, jak chcecie. My wam zawsze radzi.
+    586286|00000000||Widzisz ich wszystkich? Przyszli na ucztę! Nakarmię ich twoim bólem!
+    586287|00000000||Niech wracają, skąd przybyli, jeśli im życie miłe. Przyszedłem po ciebie.
+    586288|00000000||Wiedzą, że im nie darujesz... Jesteś wiedźminem, mordercą. Będziesz tropił i zabijał.
+    586289|00000000||Już mi się nie chce.
+    586290|00000000||Możecie odejść, ale za chwilę nikt stąd nie wyjdzie żywy.
+    586291|00000000||Zabić go!
+    579064|00000000||Czuję twój ból, widzę strach...
+    579065|00000000||Rozejrzyj się. Czujesz ich nienawiść? Zabijałeś ich braci za garść srebrników. Chcą twojego cierpienia, a ty już nie jesteś groźny.
+    579066|00000000||Wróżby nie kłamią... Nie przeżyjesz tej walki.
+    579067|00000000||Jaskółka nie żyje, został zamarznięty trupek w lodowej pustce.
+    579068|00000000||A ty się boisz... Czujesz strach.
+    579069|00000000||Kłamiesz. Ja już nic nie czuję.
+    578824|00000000||Cierpliwości, siostry, czuję, że nadchodzi, dostaniecie jego duszę…
+    578936|00000000||Dostaniecie jego ból, jego lodowate cierpienie i najecie się nim.
+    578937|00000000||Już niedługo siostry, już niedługo.
+    578958|00000000||Wyłaź!
+    576137|00000000||Jeno zabierzcie wszystkie swoje rupiecie. Żeby mi ani jedna zawszawiona szmata nie została.
+    576139|00000000||Tfu! I tak ściany trzeba będzie pobielić.
+    576147|00000000||Nilfgaardzkie psy.
+    581876|00000000||Tera tu znowu Temeria jest, jasne?
+    581878|00000000||Jeszcze zobaczymy.
+    582555|00000000||Mahakamski dwójniak. Ciekawe, skąd go zwinęli.
+    582569|00000000||Nagotowali tej potrawki jak dla wojska.
+    582586|00000000||Ciekawe, czy ich złapią.
+    582538|00000000||Niezły tupet, żeby obozować tak blisko traktu.
+    582556|00000000||Kielicha nie ma.
+    582557|00000000||Czyli zaczęli inwestować w majątek ruchomy.
+    581194|00000000||Złe oko! To kamrat wiedźmy, brać go!
+    581170|00000000||Czarownicy żyć nie dozwolisz, plugastwo wszeteczne świętym ogniem wyplenisz...
+    581188|00000000||Milcz, wiedźmo!
+   1068563|00000000||Ffff! No chodźże!
+    578847|00000000||Nie chcę was zabijać.
+    578850|00000000||Spokojnie. Nie musimy walczyć.
+    578851|00000000||Idźcie już sobie. Ostawcie Panią z bagien...
+    578836|00000000||Zgoda, nie mój.
+    578841|00000000||Zgoda, nie mój.
+    578842|00000000||Idźcie już sobie, zabawę psujecie.
+    578843|00000000||Uderz.
+    578854|00000000||Pora na mnie.
+   1065296|00000000||Idę. Mam coś do zrobienia.
+    578845|00000000||Idę.
+    578844|00000000||Wypuśćcie wilczycę.
+    578863|00000000||Wypuśćcie wilczycę.
+    578864|00000000||Jeszcze wystarczająco nie osłabła.
+    578865|00000000||Wściekła jest, wie, że zdechnie, ale jeszcze się nie pogodziła...
+    578866|00000000||Zabierajcie się stąd.
+    578867|00000000||Co? Zgłupieliście? Bydło nam ubiła i dalej będzie polować. To wilk, taka jego mać! Wróg chędożony! Albo my, albo on!
+    578868|00000000||Lepiej bym tego nie ujął.
+    578853|00000000||Wypuśćcie wilczycę.
+    578852|00000000||Uderz.
+    578835|00000000||Wypuśćcie wilczycę.
+    578848|00000000||Uhh....
+    578849|00000000||Żywcem skórę ci zdejmiemy, przybłędo...
+    578846|00000000||Uderz.
+    578837|00000000||Gdzie wiedźma?
+    578838|00000000||Odejdź! Precz! Wynoś się z naszej ziemi.
+    578839|00000000||Jeszcze nie. Niebawem. Ale najpierw wiedźma.
+    578840|00000000||Sam jesteś. Nas dziesięciu i psy mamy, chcesz skończyć jak ta wadera?
+    578834|00000000||Gdzie wiedźma?
+    578829|00000000||Czego tu szukacie?
+    578830|00000000||Wadera polowała w okolicy od kilku dni. Zabiła krowę i zraniła człowieka. Tośmy żelaza rozstawili.
+    578831|00000000||Złapała się głupia, heh... Poczekamy, aż się zmęczy i popatrzymy se, jak walczy z psami.
+    578832|00000000||Co z twoim uchem?
+    578833|00000000||A co ma być? Nie twój zasrany interes.
+    584284|00000000||Pokłońcie się nowemu panu...
+    584286|00000000||... i obrońcy.
+    584253|00000000||Od dzisiaj wielmożny Dagborg bierze te ziemie w łaskawe władanie.
+    584254|00000000||Wszelkie inne ciężary i obowiązkowe opłaty zostają wielkodusznie zniesione.
+    574281|00000000||W związku z wojennymi zniszczeniami od dziś podatki zostają podwojone.
+    574282|00000000||Za wszystkie opłaty na rzecz państwa ludność otrzyma ich równowartość w talonach.
+    574278|00000000||Czarownice, fałszywi uzdrowiciele, handlarze amuletami i parszywi nieludzie wyjęci są spod prawa.
+    574279|00000000||Każdy, kto udziela im schronienia, będzie osądzony i stracony z woli Świętego Trybunału Wiecznego Ognia.
+    584266|00000000||To znaczy, że co?
+    584268|00000000||To znaczy, że odtąd podatki płacić będziecie wielmożnemu Dagborgowi.
+   1058998|00000000||Znowu idą zmiany.
+   1059080|00000000||Potrzebujecie pomocy z tym wozem?
+   1059082|00000000||Damy sobie radę.
+   1059084|00000000||Ale... Dzięki za troskę.
+   1059086|00000000||Bo wiecie, na kołodzieja to wy raczej nie wyglądacie.
+   1059088|00000000||Potrzebujecie pomocy z tym wozem?
+   1059090|00000000||Damy radę, he he, he...
+   1059092|00000000||Ha, a juści, że damy radę.
+   1059094|00000000||Beczułki owszem, są spore, ale zaraz ujmiemy im wagi.
+   1059102|00000000||Ta... Prawdę mówicie.
+   1059104|00000000||Nilfgaardczyki się wycofują, a zdawałoby się, że nic ich stąd nie ruszy.
+   1059112|00000000||Grunt, że zostawili wino.
+   1059096|00000000||Ech... Myśmy już przywykli.
+   1059098|00000000||Czarni odeszli, teraz przyjdą łowcy czarownic, a życie toczy się dalej. Trzeba chwytać dzień.
+   1059100|00000000||Prawda! Bierzmy się tedy do roboty, zanim noc nas zaskoczy!
+   1059116|00000000||Bywajcie, na mnie już czas.
+   1059122|00000000||Powodzenia. Na mnie już czas.
+    584839|00000000||Powodzenia.
+   1059013|00000000||A wam dokąd droga? He, he, pewnikiem do karczmy?
+   1059114|00000000||Tak. Ale najpierw muszę się z kimś spotkać w dawnym obozie nilfgaardzkim. Bywajcie.
+   1059118|00000000||Na pewno nie potrzebujecie pomocy?
+   1059120|00000000||Damy sobie radę.
+   1059115|00000000||Na pewno nie potrzebujecie pomocy?
+   1059107|00000000||Ta... Prawdę mówicie.
+   1059109|00000000||Nilfgaardczyków już ni ma, Redańczycy dopiero co przyszli. Co się dziwić - bandyci czują się bezkarni.
+   1059111|00000000||Ledwieśmy im uciekli - ale koło złamane, a konie poszły w las.
+   1059072|00000000||Potrzebujecie pomocy z tym wozem?
+   1059074|00000000||Eee... nie.
+   1059076|00000000||To nie nasz, tylko... no... zdobyczny, że tak powiem.
+   1059078|00000000||Eee... Ludziska porzucili dobytek w pośpiechu i tak trochę szkoda, żeby Redańczycy rozszabrowali.
+    590603|00000000||*Mlask, mlask* Kwaśny cosik. *Ptfu*
+    590605|00000000||Witajcie. *Mff*
+    590607|00000000||Co tam słychać?
+    590609|00000000||Gdzie miecze kują, tam iskry lecą.
+    590619|00000000||U nas samo dobro, nie jakiś szmelc.
+    590611|00000000||Każdy kowalem własnego losu? Prędzej kowadłem.
+    590621|00000000||Warte coś? Te żelaza na plecach?
+    590613|00000000||Mam ci kijem przyp...?
+    590615|00000000||I co dalej? Mam wołać o pomoc?
+    590617|00000000||Ratujcie! Ratujcie mnie!
+    573535|00000000||Raportuj.
+    573530|00000000||Panie kapitanie!
+    573536|00000000||Delegacja z Novigradu jest o pół dnia drogi stąd.
+    573537|00000000||Pospieszyli się...
+    577531|00000000||Wracaj na posterunek.
+    577533|00000000||Tak jest.
+    573538|00000000||Czwarty szwadron „Cate”... I cała dywizja „Frundsberg”... Zdezerterowali.
+    573539|00000000||Generał Voorhis już wie?
+    577540|00000000||Jest na naradzie, nikogo tam nie wpuszczają...
+    577542|00000000||Bzdury. Natychmiast idź mu o tym zameldować.
+    581879|00000000||Apsik!
+    581883|00000000||O kurwa, wiedźmin!
+    574700|00000000||Pewno myśleli Czarni, że tu już na zawsze zostaną.
+    584444|00000000||Nilfgaardczycy, Redańczycy... jeden chuj.
+    574684|00000000||A myśmy na cesarskich narzekali...
+   1061437|00000000||Gdyby nie my, Czarni by tu kamieniem siedzieli do Yule albo jeszcze dłużej.
+   1061439|00000000||Hi, hi, hi! A to mi się bohater trafił!
+   1061711|00000000||Ty się śmiej, ale gdyby twój Gondek nie wrócił i Nilfgaardczyków nie przepędził...
+   1061713|00000000||Ha, ha, ha!
+   1061715|00000000||... mógłby ci w końcu jakiś Cahir albo Johann wianek zerwać!
+   1061717|00000000||Ale tyś na mnie czekała, Manieczko, prawda?
+   1061719|00000000||Prawda!
+   1061721|00000000||Ahahahahaaa!
+    577594|00000000||Jeśli przyniesiemy tłustego szczupaka, Jaskier może odżałuje tę potrawkę z królików.
+    577595|00000000||Mhm.
+   1068729|00000000||Szkoda, że nie wybrał się z nami.
+   1068731|00000000||Przydałoby mu się trochę ruchu.
+   1068733|00000000||No.
+    578152|00000000||Lód na tym jeziorku nie powinien być zbyt gruby.
+    578154|00000000||Aha.
+    578150|00000000||A właściwie jak chcesz złowić te ryby?
+    578157|00000000||Zobaczysz.

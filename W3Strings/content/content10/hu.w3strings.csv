@@ -1,0 +1,321 @@
+;meta[language=hu]
+; id      |key(hex)|key(str)| text
+   1025017|00000000||Kifelé!
+   1047646|00000000||Egyre csak jönnek!
+   1047648|00000000||Nem tudjuk mindőjüket legyőzni!
+   1047650|00000000||Amint a portál megnyílik, be kell ugranod utánam!
+    569327|00000000||Ajjaj!
+    569320|00000000||Van itthon valaki?
+    572535|00000000||Kik vagytok?
+    569322|00000000||Barátok. Szüleid itthon vannak?
+    569323|00000000||Igen, de dolguk van. Anya apát keresi a serpenyővel. Mert apa, ööö… megbukott egy nénit?
+    572546|00000000||Khöm. Megdugta.
+    569324|00000000||Értem. Akkor nem is zavarjuk őket. Beengedsz?
+    572548|00000000||Igen.
+    454814|00000000||Végre.
+    538457|00000000||Ez itt Tir ná Lia?
+    454816|00000000||Az Ébredés Palotája, a korábbi Holdpalota. Ge'els főhadiszállása.
+    569351|00000000||Anyu!
+    454824|00000000||{Que aynimm rhovir'le? } [Mi lesz a címe?]
+    312001|00000000||{No rhovir'le. } [Semmi.]
+    312005|00000000||{Ledwedd varlledu cyall, no ghar. } [A festményeknek érzéseket kell közvetíteniük, nem szavakat.]
+    312007|00000000||{Emw a ledwedd… Es dallistro thrbíoch, que déacum'le elaine. } [Címet adni egy festménynek… ezzel tönkre tennénk a jelentés sokféleségét, ami olyan széppé teszi.]
+   1069326|e0351e50||Kincsesláda
+    170734|00017dcc||Fiú
+   1008086|00000000||Avallac'h?
+   1009442|00000000||Remek. A következő átjárót egyedül kell megtalálnom.
+   1008085|00000000||Még egy sivatag?
+    538231|00000000||Mi ez a világ?
+    538345|00000000||Hol vagyunk? Az Aen Elle világán?
+    538428|00000000||Nem. Ez Tedd Deireadh, a Végső Kor. A világ, amelyet elpusztított a Fehér Fagy.
+    538429|00000000||Ez vár hát mindannyiunkra, bár létezésünk különböző szakaszaiban.
+    584026|00000000||Ezt olyan higgadtan mondod…
+    584028|00000000||Eredint legyűrték a világvégéről szóló ismeretei. Most már a félelem uralja. Én nem követem el ugyanezt a hibát.
+    584030|00000000||Kifejtenéd ezt?
+    584032|00000000||Nem itt és nem most.
+    585952|00000000||Miért olyan fontos Ge'els?
+    585954|00000000||Ge'els üldözése elég nehéz menet, de még mindig nem tudom, hogy miért olyan fontos ő.
+    585956|00000000||Eredin más, mint a király, akit megölt. Őt az öncélú hatalom érdekli, az állam irányítása nem.
+    585958|00000000||Ideje nagy részét a hátasán tölti, úgy vezeti a vörös lovasokat. Miért kell neki akkor főváros? Egy jó alkirály.
+    585960|00000000||Ge'els kitűnő hivatalnok és még annál is jobb cselszövő. Ő a legveszedelmesebb az aen ellék között.
+    585962|00000000||Van valamilyen gyengesége?
+    585964|00000000||Igen. Becsületes.
+    513363|00000000||Beletelt egy kis időbe. Volt valami gond?
+    538207|00000000||Öhm, nem, csak nézelődtem kissé.
+   1010785|00000000||Mi ez a hely? Úgy érzem, már jártam itt korábban.
+   1010787|00000000||Jártál is. Eredin képmásával küzdöttél itt meg. Azelőtt Ciri harcolt itt. Érted.
+   1010788|00000000||Miről beszélsz?
+   1010789|00000000||Elgondolkodtál már rajta valaha, hogyan hagytad ott a Vörös lovasokat?
+   1010790|00000000||Sokszor, de semmire sem emlékszem.
+   1010865|00000000||Ciri eljött érted. Megérezte, hogy veszélyben vagy, kiszakított a Vad Falka markából, aztán ott hagyott az erdőben Kaer Morhen közelében.
+   1010867|00000000||Eredin ezért kezdett rá vadászni? Miattam? Miért nem mondott erről semmit?
+   1010869|00000000||*Sóhajt* Min változtatott volna az?
+   1010905|00000000||Merre vitt az utad?
+   1010907|00000000||Reméltem, hogy nem válunk külön.
+   1010909|00000000||Figyelmeztettelek, hogy megtörténhet.
+    538234|00000000||A te utazásod merre vezetett téged?
+    538356|00000000||Olyan világon át, amelynek nemrégiben meghalt a napja. Éppen csak sikerült időben elérnem a következő átjárót.
+   1026260|00000000||A fény a csúcson – a te műved?
+   1026261|00000000||A fény azon a csúcson – te gyújtottad?
+   1026262|00000000||Gondoltam, segít majd az áthaladásban. Végül is erre valók a világítótornyok – hogy mutassák az utat.
+    538230|00000000||Menjünk!
+    584900|00000000||Ez a hely se látszik valami biztonságosak. Menjünk!
+    538442|00000000||Erre.
+   1042827|00000000||A következő átjáró – mikor nyílik meg?
+   1023398|00000000||Hamarosan.
+    582346|00000000||Yennefer, ha ez nem igaz…
+    584241|00000000||Igaz.
+    454427|00000000||Közel járunk már.
+    454717|00000000||Készen állsz átmenni egy másik világba?
+    548834|00000000||Megtaláltad az átjárót?
+    548836|00000000||Igen. Lépj csak ide.
+    568595|00000000||Ismerem ezt a házat.
+    568597|00000000||Úgy volt, hogy elhajtok innen egy angyalfit.
+    572896|00000000||Úgy volt?
+    572898|00000000||Úgy döntöttem, ártalmatlan.
+    568596|00000000||Találkoztam itt egy angyalfival, aki úgy tett, mintha kísértet lenne. Elkergettem.
+    568635|00000000||Hmm, akkor lehet, hogy belefutunk. Akárcsak abba, aki beleegyezett, hogy segítsen nekünk.
+    454120|00000000||És aztán? Mit csinálunk majd Ge'elsszel?
+    534847|00000000||Csak annyi a terved, hogy beszélsz vele, és ezzel vége?
+    534849|00000000||Csak szavakkal soha nem lehetne meggyőzni. De azt hiszem, Tilly kisasszony álomfejtésével igen.
+    582438|00000000||Mintha megöregedett volna.
+    582439|00000000||A witcherek nem öregszenek.
+    584650|00000000||Da valahogy sokkal komolyabbnak, vagy inkább komorabbnak tűnik.
+    584652|00000000||Kijutott neki a gondokból.
+    584654|00000000||Csst, jön!
+   1009380|00000000||Nincs okunk késlekedni, gyere.
+    582466|00000000||Mindenki itt van. Te érkeztél utolsóként. Vitorlát bonthatunk?
+    582469|00000000||Horgonyt fel!
+    582467|00000000||Igen, induljunk.
+    582470|00000000||Várj itt, valamit elfelejtettem.
+    582468|00000000||Egy perc.
+    570282|00000000||Nem.
+    570345|00000000||Nem teázni jöttünk.
+    312230|00000000||Nem, de ez nem is érdekes.
+    312238|00000000||Nem. De az őszinteség nem jellemző a fajotokra. Úgyhogy elég itt az epés megjegyzésekből, mert semmit sem érsz el velük.
+    312240|00000000||Fogd be a szád vagy kipeckelem!
+    312099|00000000||Erre menjünk, kérlek.
+    312103|00000000||Jobb, ha elhiszed. Kérlek, gyere erre.
+    312220|00000000||Geralt witcher, a tettek embere… Megtudhatom, merre megyünk?
+    312242|00000000||Az aen seidhék világába
+    570724|00000000||Ez alkalommal kerülők nélkül.
+    570584|00000000||Menjünk. Mielőtt még felbukkan valamelyik őr.
+    312101|00000000||Elég ebből a kifinomultságban tetszelgő udvariaskodásból. Menjünk!
+    312218|00000000||Mégis hová, ha kérdezhetem?
+    312097|00000000||Elég a beszédből. Menjünk!
+    570360|00000000||Türelmetlenség árnyát látom az arcotokon… Hát akkor ki vele, mi hozott ide titeket?
+    312074|00000000||Azért jöttem, hogy közöljem, ki ölte meg királyunkat.
+    570363|00000000||Hmm… Nagyon komoly erőfeszítéseket tettél, csak hogy eljuss hozzám…
+    570566|00000000||Úgyhogy fel kell tételeznem, ugyanilyen komoly erőfeszítéseket tettél ennek a hazugságnak az előkészítésére…
+    312082|00000000||Meglátod majd magad is az igazságot. Álmodban.
+    312084|00000000||Van egy álommágusod?
+   1084781|00000000||Úgy helyes volt a megérzésem: ez igazán érdekes lesz.
+    312234|00000000||Azt hittem, még az aen elle tündék között is akad olyan, aki képes tisztességesen viselkedni.
+    312236|00000000||Az ártatlanság a bolondok adománya…
+    312228|00000000||Igen, őszinte.
+    570347|00000000||Hmm… Be kell vallanom, igencsak meglepő a megjelenésed errefelé, witcher.
+    570356|00000000||Ami azt illeti, érdekesen választasz szövetségeseket. Szerinted Avallac'h őszinte veled? Csak kérdem…
+    570329|00000000||Van vodkád?
+    570344|00000000||Valóban, mindig megfeledkezem arról, hogy soha egy ujjal se nyúltok ahhoz a mocsokhoz, hisz' oly' szégyenletes.
+    570281|00000000||Megköszönöm.
+    312072|00000000||Crevan Espane aep Caomhan Macha és a Ríviai witcher. Ceádmil.
+    312224|00000000||Tetszik az új modellem? Van benne valami Lara Dorrenből, nem gondolod, Crevan?
+    570188|00000000||Legfeljebb a magasságuk azonos. Más nemigen.
+    570212|00000000||Á, látom érzékeny pontra tapintottam… Hát akkor váltsunk témát, rendben? Kértek inni?
+    570111|00000000||Ó! Ki az? És miért van itt?
+    568674|00000000||Azt hiszem, mára végeztünk, virágom. Légy olyan drága, és hagyj magunkra minket.
+    570150|00000000||Mert, azt hiszem, megegyezhetünk abban, hogy ez az ügy ránk és csakis ránk tartozik. Jól mondom?
+   1041855|00000000||Hm… gyönyörű város.
+   1041857|00000000||Örülök, hogy tetszik. A tünde építészet valamivel kifinomultabb a tiéteknél.
+    569347|00000000||Nem tudom, anya miért haragszik ennyire apára…
+    572674|00000000||Apa nagyon menő.
+    572676|00000000||Néha pálinka- meg pisiszagú.
+    572678|00000000||De ma hozott új játékokat.
+    572680|00000000||Fa építőkockákat meg egy háromkerekű kocsit…
+    572682|00000000||Csak sajnos hiányoznak a kerekek…
+   1074542|00000000||Az is lehet, hogy blöfföl. Tán csak azért mondta, hogy elengedjük.
+   1074544|00000000||A fenébe. Meg kellett volna szorongatnunk.
+   1074546|00000000||Nyugalom. Avallac'h jobban ismeri. Kikérdezzük, ha visszajön.
+   1074548|00000000||Emlegetett… szamár.
+   1074550|00000000||Geralt aggódik. Szerinte túl könnyen elengedtük Ge'elset.
+   1074652|00000000||Sose lehet elég óvatos az ember.
+   1074654|00000000||Így igaz. Mégis azt hiszem, Ge'els szavának áll, és nem támogatja Eredint.
+   1074650|00000000||Csak biztosra akarok menni.
+   1074649|00000000||Nem bízom benne.
+    585866|00000000||Nagyon könnyen meglépett… Beetetett pár jótanáccsal, egy kis Napkő-történettel…
+    305315|00000000||Biztosított minket arról, hogy nem támogatja majd Eredint. És ez igen nagy dolog.
+   1074656|00000000||Úgy látom, tervezel valamit. Esetleg megosztod velünk?
+   1074658|00000000||Ha megtaláljuk a Napkövet a varázslónők és mágiájuk segítségével, egy öbölbe csaljuk Eredin hajóját Undvik partjainál.
+   1074660|00000000||Rajtaütünk. Csapdát állítunk neki. Mikor a Vad Falka Királya megérkezik, elkapjuk, és megöljük.
+   1074662|00000000||Csak így?
+   1074664|00000000||Eredint legyőzni nem kis dolog, de véghezvisszük.
+    305293|00000000||Feltehetően nem szükséges bemutatnom a vendégünket.
+    305301|00000000||Üdvözletem, Zireael! Ezek szerint igaz: a fecske barátságot kötött a rókával.
+    305303|00000000||Semmivel sem tudsz minket egymás ellen fordítani.
+    305305|00000000||Avallac'h megzsarolt. Hát nem emlékszel? Megpróbált arra kényszeríteni, hogy légy királyunk ágyának melegítője.
+    570793|00000000||Úgy bánt a testeddel, akár egy darab szalonnával.
+    312716|00000000||Emlékszem. De emlékszem arra is, mit tanácsoltál Eredinnek, hogy miként bánjon velem, ha fogságba estem. És emlékszem arra is, mit tettek a vörös lovasok Kaer Morhenben.
+    312743|00000000||Nem vitatkozni jöttem. Hol a bizonyíték, amiről beszéltetetek?
+    312745|00000000||Hamarosan meglátod. Álmodban.
+    312747|00000000||Ó, igen, az álommágus. Oly' látomások, miket lehetetlenség meghamisítani. Azt kívánod megmutatni, miként ölte meg Eredin királyunkat?
+    539115|00000000||S aztán? Tán Eredin ellen kellene fordítanom az aen ellét? Forradalmat szítani és Avallac'hot kiáltani ki új királyunknak?
+    313048|00000000||Azt teszel, amit akarsz. Ha úgy határozol, továbbra is a királygyilkos szolgálatában maradsz, legyen. Még csak meg se lepődnék rajta.
+    312763|00000000||Azt teszel, amit akarsz.
+    312755|00000000||Nem. Csak szegülj ellen Eredinnek, semmi több.
+    313046|00000000||Ne álltasd magadat! Szállj szembe Eredinnel, ennél többet nem kell tenned.
+    313086|00000000||Legyen! Idézzen hát a látnokod királyom utolsó perceiről szóló álmot.
+    313088|00000000||Mindnyájan ugyanazt álmodjuk majd. Hogy biztos legyen, senki nem ért félre semmit.
+    313090|00000000||Mért is ne?
+    312654|00000000||Meghalt a király. Éljen soká a király!
+    539127|00000000||Ebben a világban, a magatok választotta helyen, magatok kialakította körülmények között kell szembeszállnotok vele. Ez az egetlen esélyetek.
+    539195|00000000||Hajózzatok el Skelligére és keressétek meg a Napkövet! A segítségével megidézhetitek a Naglfart. Eredin is eljön.
+    585868|00000000||Ha erősítést kér, egyetlen aen elle sem válaszol majd a hívására.
+   1063146|00000000||A leghelyesebb dolgot tetted.
+   1074534|00000000||Új portál nyílik Tir ná Liához. Stabilizálni fogom, és te visszatérsz. Gyere velem.
+    539374|00000000||Keressétek meg a Szövetség varázslónőit, és a kikötőben találkozunk. Aztán irány Skellige!
+    313080|00000000||Gyűjtsetek össze mindenkit és találkozzunk a kikötőben! Aztán irány Skellige!
+   1005844|00000000||Üdv a Ddiddiwedht sivatagban.
+   1009406|00000000||Ez valahol a mi világunkon van?
+   1009408|00000000||Láttál valaha is efféle kanyonokat a világodon?
+   1009410|00000000||Gyere, mennünk kell.
+   1022644|00000000||Ah, a portál.
+   1022645|00000000||Inkább romnak tűnik.
+   1022646|00000000||A látszat néha csal.
+   1042745|00000000||Akkor mire várunk?
+   1042747|00000000||Hogy megnyíljon. Nem lehet több pár percnél.
+   1047393|00000000||Mi történik?
+   1047395|00000000||A homokférgek megérezték a jelenlétünket.
+   1022647|00000000||Csodás.
+   1022665|00000000||Három, kettő, egy… Nagyon jó. Épp időben.
+   1042783|00000000||Micsoda megkönnyebbülés.
+   1047402|00000000||Gyorsan! Ugorj!
+   1047404|00000000||Gyorsabban, Geralt!
+   1022657|00000000||Mi ez a hely?
+   1042751|00000000||Egy nagyon öreg világ, amit teljesen kizsigereltek és elpusztítottak.
+   1042753|00000000||Él itt bármi?
+   1042755|00000000||Jobbára sivatagi élőlények, amelyek akár hónapokig is bírják víz nélkül.
+   1042757|00000000||Oh, és óriási homokférgek, mélyen a felszín alatt.
+   1047389|00000000||Óvatosnak kell lennünk, nehogy észrevegyenek.
+   1042759|00000000||És korábban? Voltak itt… emberek? Vagy tündék?
+   1042761|00000000||Gondolod, hogy csak az emberszabásúak kiváltsága a világok elpusztítása?
+   1042763|00000000||Hát akkor mi élt itt? Valamiféle érzékeny szörnyek?
+   1042765|00000000||Nézd azokat a sziklákat. Emlékeztet valamire?
+   1042767|00000000||Hmm… Kicsit olyan, mintha egy óriási folyam medre lenne.
+   1042769|00000000||Vagy tengerfenék.
+   1042773|00000000||Úgy érted itt vízi élőlények voltak?
+   1042775|00000000||Nem élőlények. Csak egy tenger.
+   1042771|00000000||Ezzel arra célzol…?
+   1042777|00000000||Hogy rengeteg különböző világ van, és még több féle életforma.
+   1042779|00000000||Számos közülük intelligens, sőt intelligensebb, mint ti emberek.
+   1042781|00000000||De mint kiderült, ez sem tartotta vissza őket attól, hogy a világuk erőforrásait kisajtolják. Az utolsó cseppig.
+   1005828|00000000||Hol vagyunk?
+    584372|00000000||A császár ezt eltitkolta előled?
+    584417|00000000||Hmm… lehet, hogy a császár elfelejtett neked említést tenni róla?
+    584363|00000000||Nem tetszik ez nekem. Nem így egyeztünk meg. Ha ennek az egésznek vége, lesz egy őszinte beszélgetésem a császárral.
+    584365|00000000||Gyere, már várnak ránk.
+    584360|00000000||Rita honnan tudja?
+    584362|00000000||Beszélt Fringillával, mielőtt börtönbe zárták. Fringilla azt mondta, a császár hívatta, és majd a találkozó után elmondja, miért.
+    584408|00000000||Azóta senki nem hallott róla.
+    584410|00000000||Azt hittem, efféle drámák csak Radovid környezetében történnek.
+    584371|00000000||Rita honnan tudja?
+    584301|00000000||Ez a dolog Frangillával… mi volt? Triss azt mondta, nem tudtál kapcsolatba lépni vele.
+    584356|00000000||Talán mert a császár tömlöcében ül, dimeritiumba láncolva.
+    584358|00000000||Legalábbis Rita erre utalgatott.
+    584289|00000000||Mi volt ez a dolog Fringillával?
+    584290|00000000||Kegyelmet kapnak? Valóban?
+    584292|00000000||Jól hallottam? Meggyőzted a császárt, hogy bocsásson meg nekik?
+    584294|00000000||Feltéve, hogy segítenek megvédeni Cirit.
+    584296|00000000||Hm… nehéz elképzelni, hogy a császár belement egy ilyen alkuba.
+    584298|00000000||Ha nem tudod elhinni, legyen. Nincs szükségem a bizalmadra.
+    584243|00000000||Segíts megvédeni Cirit a Vad falkától, és a császár kegyelemben részesít.
+    584250|00000000||Remélem bízhatunk benned.
+    584252|00000000||Bízhattok.
+    582347|00000000||Mi van Fringillával?
+    582348|00000000||Azt nem tudom… De megemlítem neki.
+    582394|00000000||Alig köszöntél, és máris tervezgetsz valamit.
+    582395|00000000||Valószínűleg ilyen a természetünk.
+   1045380|00000000||A hó már a háztetőkig ér, vajon mióta tombol ez a hóvihar?
+    532897|00000000||Zsebkendő kell? Be kell vallanom, ezt soha nem gondoltam volna rólad…
+    532899|00000000||Nektek, embereknek olyan… hmmm… szokatlan az ízlésetek…
+    532901|00000000||Hogy ment a Kopasz hegyen?
+    532903|00000000||Miért kérded? Te vagy a bölcs.
+    532905|00000000||Udvariasságból kérdeztem. Láthatóan elfelejtkeztél erről a fogalomról, amikor elmentél, és még annyit se mondtál, hogy fapapucs.
+    550887|00000000||Cirinek sietnie kellett.
+    550888|00000000||Tudom, megírta a levelében. De nem ez foglalkoztatott. Imlerith-tel nagyon ügyesen bántál el. Olyan ügyesen, hogy mondhatjuk, megihlettél…
+    533892|00000000||Hagyjuk abba a találgatást. Fáradt vagyok.
+    532907|00000000||Elég a szócséplésből
+    532906|00000000||Mit forgatsz a fejedben?
+    533890|00000000||Ez mit jelent?
+    533895|00000000||Eredin meggyengült nagyszerű tábornokai egyikének elvesztésétől. Méghozzá jelentősen. Még kettő maradt…
+    533923|00000000||Hogyan szabadulhatunk meg tőlük?
+    534030|00000000||Caranthir hűséges, viszont Ge'els… Na ő már másik történet…
+    539031|00000000||Egykori királyunk elkötelezett hívének számított…
+    534033|00000000||És úgy tűnik, Eredin mérgezte meg szeretett uralkodónkat.
+    539044|00000000||Honnan tudod, hogy Eredin tette?
+    539046|00000000||Honnan tudod? Vagy csak találgatsz?
+    539047|00000000||Eredin ügyelt rá, hogy nagyon kevesen tudjanak az árulásáról. A legtöbbjük mostanra halott már.
+    539092|00000000||Ez nem válasz a kérdésemre.
+    539059|00000000||A „honnan” nem érdekes. Csak az számít, hogy tudom: és van egy ötletem arra, hogyan használhatnánk ezt az ismeretet.
+    565519|00000000||Úgy beszélsz róla, mint valami fontos dologról. Ezek szerint nem egészen köztudomású mindez…
+    565521|00000000||Még akár titoknak is nevezhetjük.
+    565546|00000000||Hogy sikerült eltitkolnia?
+    565548|00000000||Ó, biztosíthatlak, remekül ért a nyomai eltüntetéséhez… Bár nem éppen óvatos és körmönfont.
+    565554|00000000||Csakhogy én még ügyesebb vagyok a feltárásukban.
+    534144|00000000||Ki tud erről?
+    534121|00000000||Szerinted Ge'els elárulná Eredint?
+    534152|00000000||Királygyilkosság: komoly dolog… Feltételezem, nem sokan tudnak erről?
+    565525|00000000||Az élők közül? Csak én. És persze Eredin.
+    565526|00000000||A kérdés az, el tudod-e érni, hogy Ge'els higgyen neked?
+    534154|00000000||Emiatt ne fájdítsd a fejedet.
+    565572|00000000||Szerinted meg tudsz állapodni Ge'elsszel?
+    565583|00000000||Nem említetted Ge'els megölését…
+    565584|00000000||Nincs mindig szükség ilyesfajta szélsőséges eszközökre.
+    565585|00000000||… vagyis feltehetően azt tervezed, hogy megalkuszol vele.
+    565592|00000000||Zseniális következtetés. Bravó!
+    534472|00000000||Mit tervezel?
+    534473|00000000||Inkább megölném Ge'elst, mint hogy megállapodjak vele.
+    539106|00000000||Honnan vagy olyan biztos benne, hogy Ge'els hisz majd neked?
+    534478|00000000||Alkudozni akarsz, beszélni vele, megbízni benne? Én inkább egyszerűen megölném.
+    534479|00000000||Épp ez az egyik oka annak, amiért Ge'els gyűlöli a világotokat. Az értelmetlen durvaságotok miatt.
+    534705|00000000||Van úgy, hogy kardok helyett érveket kell használni.
+    534334|00000000||Jó, és mit javasolsz?
+    534474|00000000||Hát azt, hogy hozzuk ide Ge'elst, mutassuk meg neki, mi is történt valójában.
+    534475|00000000||Mesés terv… csak tudnunk kellene, hol találjuk meg.
+    565596|00000000||Tudjuk is. Az aen ellék földjén.
+    565597|00000000||Az aen ellék földje? Az mi?
+    565607|00000000||Az aen ellék földje?
+    565609|00000000||Nem emlékszel rá? Pedig egy ideig együtt utaztál Eredinnel.
+    565614|00000000||Az ősi nép földje. A világ, ahová évszázadokkal ezelőtt megérkeztünk, a világ, amelyet most otthonunknak nevezünk.
+    583984|00000000||A Vörös lovasok onnan jönnek. És ott találjuk majd Ge'elst.
+    565605|00000000||Hogy akarsz eljutni oda?
+   1042836|00000000||Azt hiszem, valamit elfelejtesz – te és Ciri lehet, hogy tudjátok, hogyan kell világok közt utazni, de én nem annyira.
+    534476|00000000||Nyilván tudod, számos másik világ létezik még a mellett, amelyiken most állunk.
+    565632|00000000||Átjárók kapcsolják össze őket, olyan rejtett kapuk, amelyek lehetővé teszik az utazást egyik világból a másikba.
+    534514|00000000||Persze kevesen tudnak a kapuk létezéséről, és még kevesebben tudják megtalálni ezeket.
+    534483|00000000||Például a tünde bölcsek képesek rá?
+    534484|00000000||Például ők. Az egyik ilyen átjáró hamarosan megnyílik, szerencsénkre nem is messze innen. A Mészárszék Udvara és e között a nemes épület között.
+    565798|00000000||Ez a lehetőségünk. Mehetünk?
+    456130|00000000||Ott találkozunk. Út közben még el kell intéznem valamit.
+    534746|00000000||Siess! Nem kívánok a szükségesnél hosszabb ideig az utcán őgyelegni.
+    534734|00000000||Ott találkozunk.
+    534671|00000000||Menjünk most.
+    534749|00000000||Menjünk!
+    569341|00000000||Mije van neki, ami nekem nincs, mi? Jobban bánik a seprűvel? Ízlik a főztje?
+    569342|00000000||A segge! Az, ami jobb!
+    572758|00000000||Te puha pöcsű barom!
+    572760|00000000||Na de kérlek! Miért mondasz egyáltalán ilyent? Megsértettelek volna?
+    572762|00000000||Te… te… színleltem! Mindig!
+   1074573|8e4585b4||Homokféreg
+   1021842|00000000||Ezek a gőzök nem tűnnek valami hívogatónak.
+   1022597|00000000||Még egy kicsi és megfulladok.
+   1041891|00000000||El kell kerülnöm azokat a felhőket. Vagy át kell rohanjak rajtuk.
+   1021840|00000000||*Köhög köhög* A francba, vissza kell tartanom a lélegzetem.
+   1042817|00000000||Halálra fagyok, ha nem bújok be valahova.
+   1024251|00000000||És gyorsan meg kell találnom a következő átjárót.
+   1024253|00000000||Ha találnék menedéket út közben, akkor elérném a következő átjárót.
+   1024260|00000000||Fény, egy ilyen helyen? Valaki meg kellett gyújtsa.
+   1042824|00000000||Ha van egy kis szerencsém, egy bizonyos zsémbes tünde bölcs volt.
+   1026259|00000000||Végre. Egy kicsit átmelegedhetek.
+   1047428|00000000||Persze… Mi más? Számíthattam volna erre.
+   1047430|00000000||Csak még egy hullám…
+   1024247|00000000||Brrr… Hideg van.

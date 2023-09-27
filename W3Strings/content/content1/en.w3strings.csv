@@ -1,0 +1,320 @@
+;meta[language=en]
+; id      |key(hex)|key(str)| text
+    301032|5a979acb||Wild Hunt Warrior
+    519868|00000000||"The Northern Wars: Myths, Lies and Distortions." Historical treatise by Restif de Montholon.
+    519879|00000000||Missing some pages.
+    572808|00000000||Witcher George. High time we painted over that.
+    572811|00000000||Mounted witchering just never took off.
+    572812|00000000||Long, lonely winters breed some pretty strange ideas.
+    332443|002e3ae9||Book
+   1012975|00000000||No reaction from the Council, the Conclave?
+   1012976|00000000||Do you jest? They asked Radovid to "intervene." Just after he'd appointed them.
+   1012978|00000000||Later I learned priests of the Eternal Fire stood amidst the academy's ruins, promising the rabble that such a punishment awaited all mages and traitors.
+   1012973|00000000||If you're here, what's become of Aretuza?
+   1012974|00000000||The day I arrived in Novigrad, I received a message from Biruta Icarti. A short, curt note - "School overrun by Redanians. The libraries burn. Handful of pupils fled with Nina Vivero, the rest are dead. It is over."
+   1012963|00000000||Aretuza, the school - what happened to it?
+   1012980|00000000||Farewell, Rita.
+   1012964|00000000||Farewell.
+   1012962|00000000||How'd the witch hunters nab you?
+   1012965|00000000||Thought Margarita Laux-Antille'd be among the last to get nabbed by witch hunters.
+   1012966|00000000||Were it dependent solely on me, of course I would have. But you forget I had my students to consider.
+   1012967|00000000||I knew the hunters would eventually reach Aretuza - it was but a matter of time. So when I heard Triss was organizing escapes to Kovir, I saw no reason to hesitate.
+   1012968|00000000||I gathered my novices and we rode here to Novigrad. Sadly, we were caught and thrown in Deireadh before I could contact Triss.
+   1012969|00000000||Didn't see any other sorceresses in there with you…
+   1012970|00000000||Because they'd already been executed. Burned… alive… one after the other. The most talented girls in the North. Radovid was saving me for last.
+   1012958|00000000||How're you feeling?
+   1012959|00000000||Better, I thank you. If you'd not arrived in time, things might have ended considerably worse. I am your debtor.
+   1028937|00000000||Thank Yennefer. It was her idea, her plan.
+   1012961|00000000||Geralt. What can I do for you?
+   1031674|00000000||Was chasing something when it fell. Probably sensed things could end badly, but the bloodlust was just too strong.
+    385297|00000000||Triss' earring?
+    444237|00000000||Good thing I found it…
+    408102|00000000||Get it back to Triss.
+    385301|00000000||[Take it.]
+    408100|00000000||Might as well leave it. Triss must've thrown the other one away by now.
+    385303|00000000||[Leave it.]
+   1055413|f7a0c879||Nekker Warrior
+   1069326|e0351e50||Treasure Chest
+    577727|00000000||Been drinking again? Moving like a fly in tar.
+    577729|00000000||Call that a strong blow?
+    577731|00000000||Strong enough to break your guard.
+    577733|00000000||Think I'm training Ciri tomorrow. She's likely to be more of a challenge.
+    575089|00000000||Hear the old man fell asleep while teaching.
+    575093|00000000||Maybe a storm's comin'.
+   1074151|00000000||Hm… Wonder if parrots do all right in mountain air.
+    516508|b0678eeb||Horse
+    574625|00000000||Better not.
+    574640|00000000||Better not. Vesemir said if it does, he'll make you eat a bowl of slugs. Covered in salt.
+    574641|00000000||Hahaha. Eeewwwww!
+    576732|00000000||Exactly. So you'd best behave.
+    576738|00000000||Of course. This a witcher school or an elven bathhouse?
+   1058679|00000000||Of course. [BEGIN TUTORIAL]
+   1058682|00000000||Not this time. Believe me, you don't want to keep Vesemir waiting.
+   1058680|00000000||Not this time. [SKIP TUTORIAL]
+    574642|00000000||Come on. We'll practice with the others down below.
+    576736|00000000||Shall we run the walls?
+    574633|00000000||Sorry's not good enough.
+    574635|00000000||You're gonna read "Ghouls and Alghouls" in its entirety. Appendices included.
+    574637|00000000||No, please… I'd rather clean the stables!
+    574639|00000000||End of discussion.
+    574619|00000000||Apology's not enough.
+    574605|00000000||You've got work to do. Your reflexes are still slow.
+    574607|00000000||Maybe for a witcher.
+    574609|00000000||Think drowners or strigas will go easy on you because you haven't undergone the mutations?
+    574610|00000000||Though in your shoes I'd fear Vesemir more than any striga. Disobeying his instructions… Unwise.
+    574614|00000000||Well, yes, but… that book was horribly dull!
+    574616|00000000||I know. And you know that's no excuse.
+    574618|00000000||Ugh. I'm sorry. It won't happen again.
+    546852|00000000||Wrong.
+    546854|00000000||Now I see why you were so eager to practice. Strike!
+    576696|00000000||Ha!
+    576698|00000000||You're not in the circus. Pirouette!
+    546856|00000000||Wrong. Footwork!
+    576700|00000000||Enough. Get down.
+    546858|00000000||With a flip?
+    546860|00000000||What do you think?
+    576702|00000000||All right, take off the blindfold.
+    312802|05e75e62||Harpy
+    432580|00000000||Now - parrying. Ciri, see how Geralt holds his sword? Its angle?
+    432582|00000000||Dodge!
+    577761|00000000||Strong strikes, now. Give it all you got!
+    577759|00000000||Quick cuts. One, two, three!
+    546723|00000000||What the blazes are you doing?
+    546725|00000000||Tomfoolery! Enough!
+    546721|00000000||Stop showing off, Geralt.
+    577969|00000000||Riposte. Strike, counter-strike!
+   1057722|00000000||Fine, enough. Continue training at will!
+   1058454|00000000||Draw your sword, Geralt.
+   1058458|00000000||Now, young lady, to bring the day to a close, we'll go over a few witcher's Signs. Let's start with Quen.
+   1058460|00000000||Cast Igni, Geralt. I wanna see sparks fly!
+   1058462|00000000||Aard, Geralt! Come on!
+   1070598|00000000||Slow as a fly trapped in amber today… Do it again.
+   1071561|00000000||Good!
+   1071477|00000000||Yrden, now. Show her, Geralt.
+   1071479|00000000||Time for Axii. Dammit, I hate this feeling…
+   1071481|00000000||Throw a bomb. Don't worry, Ciri, Quen'll dampen the blow.
+   1075088|00000000||Ugh… Axii can really muddle your mind.
+   1075066|00000000||See this, Ciri? Couldn't move if I wanted to.
+   1075064|00000000||Ciri, Quen is sometimes called the "witcher's shield." Now watch carefully to see why.
+   1075062|00000000||See? If not for the Quen Sign, I'd be aflame by now.
+   1075060|00000000||See that, Ciri? Aard will knock anyone or anything off balance, destroy their rhythm.
+    574124|00000000||We've spoiled her.
+    574263|00000000||Gotta admit we've spoiled her.
+    574265|00000000||"We've" spoiled her? I've been saying it from the start - Ciri needs a firm hand.
+    574267|00000000||Been saying that, true. But you let her walk all over you just like the rest of us do.
+   1044455|00000000||Hm. Fine, I suppose I'm partly to blame. But this has to end. Now.
+   1048566|00000000||Killing monsters is not something to be taken lightly. Ciri must understand that if she's to become one of us.
+    574270|00000000||I'll see you below.
+    574257|00000000||Don't get mad at her.
+    574259|00000000||Why the hell not? The whippersnapper refuses to do as she's told.
+    574261|00000000||You like that about her.
+    574117|00000000||Don't get mad at her.
+    578211|00000000||Old witcher's fast asleep… Ciri's disappeared somewhere, of course.
+    573920|00000000||Guess she prefers practice to theory…
+    574106|00000000||Hm? What?
+    573954|00000000||Time to wake up, master.
+    573935|00000000||These lessons so boring they put you to sleep, too?
+    573936|00000000||Dammit… Had her taking notes on "Ghouls and Alghouls"… Wanted to rest my eyes a bit.
+    574098|00000000||Huh. Making her slog through that brick? No wonder she took off.
+    574100|00000000||John of Brugge lacks flair, true, but he's reliable. Not like the hogwash they print nowadays.
+    574126|00000000||She's tackling the pendulums, right?
+    574102|00000000||How many times do I have to tell her? Don't train alone, it only embeds your errors.
+    574104|00000000||Bring our young damsel to the lower courtyard. She wants to practice? She'll get to practice.
+    478419|00000000||Where's you goin'? That's a place o' culture, not a trough for swine to trudge to…
+    478437|00000000||Door on the left.
+   1064835|00000000||This where Madame Irina's troupe performs?
+    492248|00000000||Yeah. But you can only enter with a ticket. There's no performance now, mummers're just rehearsin'. Process is interestin' to observe, though.
+   1040331|00000000||So. Want a ticket?
+   1040310|00000000||No performance, said so yourself.
+   1040312|00000000||You can still get a ticket. What'll it be?
+    478435|00000000||Yeah, one.
+    478436|00000000||Here. Just stay outta sight, eh? Awful bashful, these mummers in rehearsal.
+    478430|00000000||Yeah, I'll take one.
+    478432|00000000||No. No need.
+    478433|00000000||So be it. But you'll not get in. Whores through a window - them you can watch gratis. These here're artistes.
+    478431|00000000||No. Don't want a ticket.
+    480265|00000000||Need a ticket?
+   1050491|7ef171cd||Hound of the Wild Hunt
+    307008|103d66e3||Hare
+    578399|00000000||Isn't there something you ought to be doing?
+    578620|00000000||Not now. Ciri awaits.
+   1071630|00000000||You're right. I should go see Ciri.
+   1071640|00000000||Ahh, yeah. Better go see Ciri.
+   1071629|00000000||Let's be unreasonable.
+   1071632|00000000||I don't wanna be reasonable.
+   1071634|00000000||Aha! So that's the way the wind blows…
+   1071642|00000000||Go and train with her. Then come back. It'll give me a chance to put my face on.
+   1071644|00000000||Of all the women I've known, you're the only one who does that before…
+   1071646|00000000||You've known many?
+   1071648|00000000||What's it matter? Only ever thought of you…
+   1071636|00000000||I missed you. A lot.
+   1071638|00000000||And I missed you. But we'll have plenty of time to make up for that.
+   1071628|00000000||Wanna stay with you a little longer.
+   1071433|00000000||See, I thought Ciri could stand to wait a little longer.
+   1071435|00000000||It's uninstructive. Not to mention unreasonable.
+    572370|00018392||Earth Elemental
+    515498|00307f1b||Goat
+   1047350|00000000||Hah!
+   1047352|00000000||Whooaa, you really showed him, kid!
+   1075155|00000000||Ciri, get down here!
+   1075157|00000000||Huh, the little she-devil.
+   1075159|00000000||Soon as she's back, we'll set her to polishing all the swords at Kaer Morhen.
+   1075161|00000000||Find that helmet?!
+   1075163|00000000||Ciri?!
+   1075165|00000000||Ugh, I'll make sure to find every last blade for you.
+   1075167|00000000||What the…?
+   1075169|00000000||Vesemir!
+   1075199|00000000||I've long awaited this, and you, White Wolf.
+   1075203|00000000||No!!
+    591841|00000000||Geralt!
+   1075195|00000000||Lamber--
+   1075197|00000000||Ciri…
+   1055653|31c17949||Raven
+    591090|00000000||Bird skull… in black crystal. Why do I think this is Yen's?
+    577144|00000000||You know I don't find that amusing.
+    577145|00000000||It wasn't meant to amuse, but to prod you to hurry. It's midday, already.
+   1059264|00000000||Pfff…
+   1059266|00000000||You promised Ciri you'd train with her.
+    577169|00000000||Go, before Vesemir bores her to death with those etchings.
+    577154|00000000||So… later, then?
+    577155|00000000||Mmh. See you later.
+    515166|00000000||Oh, got a signal…
+    515165|00000000||Nothing here…
+    515167|00000000||Signal's growing stronger…
+    515168|00000000||Can't be far now.
+    515169|00000000||Ah, there you are…
+   1065315|00000000||Aha… Getting warmer… warmer… Hot.
+   1065341|00000000||Ugh… Damn cat. Ffwsshht!
+   1056125|00000000||Shit. Lost the signal…
+    452929|f373a1e0||Foglet
+   1020642|00000000||Leo's grave… A senseless death, could've been avoided.
+    573897|00000000||"Ghouls and Alghouls, or the Vile Denizens of the Necropolis," by John of Brugge. Intriguing title, boring as shit.
+    573899|00000000||A drowner… with a mustache and glasses. Ciri at work.
+    573901|00000000||Illustrated atlas of insectoids - from "arachas" to "Zerrikanian Xanthogramma."
+    573903|00000000||Ciri's notes. Pretty… chaotic.
+   1045978|00000000||Hmm… Some intense studying going on here.
+    573895|00000000||"Brother Adalbert's Bestiary." A classic.
+   1075855|00000000||Hm. Impressive specimen.
+   1028457|00000000||This the katakan you had a contract for?
+   1028458|00000000||Mh. A month of tracking, stalking, but I finally dropped the son of a bitch.
+   1028502|00000000||Congratulations. Can't help wondering, though - why'd you keep the corpse? Aim to stuff it, hang it above the mantle?
+   1047877|00000000||Hm, not a bad idea. Gotta finish the autopsy first, though.
+   1047879|00000000||This one was quicker than most. Quicker and stronger. Wanna examine it thoroughly.
+   1047921|00000000||Open its gut.
+   1047932|00000000||So? Anything interesting?
+   1047934|00000000||Errr, bits of undigested food. A few decades worth, looks like. Human hair, a belt buckle, a few coppers… and a gold ring.
+   1049082|00000000||Want to give it to Yennefer? Oughta be as good as new once you polish it a bit.
+   1047936|00000000||No, thanks. She only wears silver.
+   1047938|00000000||It's her loss. Rest is perfectly normal - except for its gnarled liver. Seems it had a penchant for the blood of drunkards.
+   1047887|00000000||Open up its gut.
+   1075859|00000000||Not sure I'd 'ave managed without the alchemist's help.
+   1047950|00000000||So how'd you take it down?
+   1047952|00000000||Heh, long story. Tell you another time.
+   1047940|00000000||Nice claws. Fifteen inches, I'd say.
+   1047942|00000000||They grow its whole life. This one was about a hundred, hundred ten years old.
+   1047946|00000000||Pretty muscular legs. Calves and feet especially.
+   1047948|00000000||Lemme tell you, this sucker was fast. One second here, there the next, always in the shadows. Could barely see it.
+   1047888|00000000||Let's look at those claws.
+   1047956|00000000||Think I've seen enough for now. This was an old one. Experienced.
+   1047963|00000000||Hm. It'd be nice to figure out a way to determine a katakan's age based on its tracks. Avoid running across one like this unprepared.
+   1047965|00000000||It would, I agree. But later.
+   1075857|00000000||See you, Eskel.
+   1047889|00000000||That's enough for now.
+   1047886|00000000||Let's examine its head.
+   1047913|00000000||Let's examine its head.
+   1047915|00000000||Long whiskers… Protruding frontal lobe, but that's normal. Long ears… and an earring?
+   1047917|00000000||Mhm. Seen that before. Some of them like shiny objects. Like magpies.
+   1047919|00000000||And in the maw… yellowed, dulled teeth. Missing its upper front teeth, lower incisors…
+   1047924|00000000||Clearly not a flosser. Fine, let's move on.
+   1047900|00000000||Mind if I have a look?
+   1047902|00000000||Wanna do the honors?
+   1047904|00000000||No, thanks. You cut, I'll grab a bite to eat.
+   1047880|00000000||Lemme have a look.
+   1047894|00000000||Right, leave you to it, then.
+   1047881|00000000||Leave you to it.
+   1075861|00000000||Change your mind? I was just about to start.
+   1028500|00000000||Hey there, Geralt.
+   1028505|00000000||Mind if we talk later? Need to clean up before we train.
+   1056879|00000000||Going to get Ciri?
+   1047896|00000000||Mhm. Vesemir wants her to practice.
+   1047898|00000000||I'll join you. Soon as I clear the table.
+   1058289|0a09c08e||Bilge Hag
+   1047842|00000000||Love knows no bounds, I guess.
+   1047848|00000000||Mhm. Love knows no bounds.
+   1047850|00000000||Not so. Her parents told her that if they saw her with a Nilfgaardian, they would shave her head, cut out her tongue and banish her from their home.
+   1047852|00000000||Listen, Lena… she has not fully recovered. I took her with me when I was transfered, thought she might get better. But no - she says nothing, recognizes no one, sleeps most of the day.
+   1047854|00000000||I warned Tomira. Witcher potions have powerful, usually permanent side effects. Can't do anything to help now. Maybe a mage could.
+   1047856|00000000||I don't know whether to thank you, or curse you for not letting her die with dignity.
+   1047860|00000000||Trust me - choice I had to make was harder.
+   1047844|00000000||Lousy spot for a romantic encounter. If the griffin hadn't gotten her, something else would've.
+   1047846|00000000||I know… but I could only ever get away between watches. Those woods, they were close.
+   1047839|00000000||Lousy spot for a rendez-vous.
+   1047276|00000000||Hey, you! Halt!
+   1047278|00000000||Geralt of Rivia, correct? You were in White Orchard recently? Near Vizima?
+   1047284|00000000||Mhm. Charming village. If you don't mind rotting corpses.
+   1047834|00000000||There'd have been one more if not for you. Lena… she survived, thanks to your potion.
+   1047836|00000000||Nice to see a Nilfgaardian soldier so concerned about the fate of some simple Nordling. But kind of surprising, too.
+   1047838|00000000||That night, when the griffin attacked her… she was on her way to meet me. In the woods near the garrison.
+   1084448|103d846e||Doe
+   1075506|e3976585||Old Speartip
+    577747|00000000||Never lock your elbow when striking, young lady!
+    577739|00000000||Hahaha. And ooone!
+    577741|00000000||Take that! Sliced your jugular!
+    577749|00000000||Position, Ciri! Footwork! Remember!
+    577743|00000000||What am I supposed to parry? I'm fighting a stupid dummy!
+    577745|00000000||Pretend now, live later!
+    574766|00000000||What did I tell you about breathing? Through your mouth, in rhythm with your steps.
+    577080|00000000||Huhhhh… Huhhhh… Huhhh…
+    577082|00000000||Ciri. Cut it out.
+    577084|00000000||Oh no… Vesemir's got that look.
+    577086|00000000||What'd you expect?
+   1056855|00000000||Geralt, what is it? Come on!
+   1059615|00000000||Run into trouble? Should I turn back and help you?!
+   1059617|00000000||First! Hehe. Na-na-na-na-naaa!
+   1059619|00000000||I win.
+   1059621|00000000||Your legs are longer! I'll show you yet - just need to grow a bit!
+   1059611|00000000||Hey! You said we weren't allowed to do that!
+   1059613|00000000||I said you weren't allowed to do it.
+    574750|00000000||Beat you to the bottom!
+    577077|00000000||Hah. Maybe if you fall.
+   1028700|00000000||Don't bother me, Geralt! I'll trip and fall!
+    346241|fd7deb62||Adventurer
+    576828|00000000||Could've said you did the exercise while Vesemir was asleep.
+    576840|00000000||So you did the reading. Why not admit it right off?
+    576841|00000000||"Never pounce on an advantage as soon as it appears. Wait till it stands to have maximum effect." Uncle Vesemir's words.
+    576842|00000000||Well, you're a quick study. Quick, but mischievous.
+   1058686|00000000||Should work on the basics. Even skilled masters need to hone the fundamentals… and Ciri's barely a novice.
+   1058683|00000000||Let's start with the fundamentals. [BEGIN COMBAT TUTORIAL]
+   1058688|00000000||Let's skip straight to free training. No point going over the basics again.
+   1058684|00000000||Let's go straight to free training. [SKIP TUTORIAL]
+    576835|00000000||Fine, we've talked enough. Geralt, you're with me. Lambert with Eskel. Ciri with the dummy.
+    576837|00000000||Huh… Again?
+    576838|00000000||Stop groaning and grab a sword!
+   1058717|00000000||What do you think - should we start by reviewing the fundamentals, or go right to free training?
+    576830|00000000||Don't try to weasel your way out of this.
+    577037|00000000||"A witcher must know how to trick his opponent." You said so yourself.
+    577039|00000000||Might've. But don't use my words of wisdom on Vesemir, got it? That's playing with fire.
+    576819|00000000||Won't weasel out of this.
+    573553|00000000||Anything to say for yourself, young lady?
+    573554|00000000||I'm very sorry, Uncle Vesemir.
+   1044494|00000000||Young blood craves action, I understand that. But when you fight a beast, knowledge counts as much as your silver sword. At the very least, you ought to be able to tell a ghoul from an alghoul…
+    573556|00000000||…"by markings, like unto the panthera tigris that in Zerrikania dwells, and by the sickly paleness of its visage."
+    573557|00000000||Hmm. So you did read the chapter. Still, you should've asked if…
+    576818|00000000||But you were asleep, Uncle Vesemir.
+   1050632|002efcee||Deer
+   1064995|00000000||So many corpses… And the war's just started.
+   1064997|00000000||Scar's healed nicely.
+   1064993|00000000||Shit - mountain pass is beautiful as ever.
+   1055682|b224b6d2||Devourer
+   1056946|00000000||Lilac and gooseberries, of course.
+   1058292|00000000||Geralt, stop fingering my toiletries.
+   1056954|00000000||You're running out of juice.
+   1058286|00000000||I know. You might bring me some more once you're done training.
+   1056956|00000000||Got any clothes that aren't black or white?
+   1058288|00000000||Mhm. Undergarments.
+   1056944|00000000||Nothing but silver…
+   1058285|00000000||Gold clashes with my complexion. You should know that.
+   1031654|00000000||The old signal tower. It'll be nothing but a pile of rubble soon.
+    578398|00000000||We'll talk later.
+    432590|d184d9f7||Wraith
+    170811|72cb8ee5||Drowner

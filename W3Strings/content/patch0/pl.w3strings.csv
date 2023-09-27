@@ -1,0 +1,1206 @@
+;meta[language=pl]
+; id      |key(hex)|key(str)| text
+   1075376|00000000||Możesz wyprowadzić silny atak, trzymając <<PCAlternate>> oraz wciskając <<AttackWithAlternateLight_mod>><br><br>Silny atak jest wolniejszy od szybkiego, ale zadaje większą ilość obrażeń. Silny atak sprawdza się najlepiej w walce przeciwko wytrzymałym przeciwnikom, słabsi zaś nie będą w stanie go sparować.<br><br>Jeżeli masz przypisany klawisz do <font color="#CD7D03  ">Modyfikacji Rodzaju Ataku</font> oraz <font color="#CD7D03  ">szybkiego ataku</font>, możesz również wyprowadzić silny atak, przytrzymując jednocześnie klawisz Modyfikacji Rodzaju Ataku i klawisz szybkiego ataku.
+   1075370|00000000||Aby wyprowadzić szybki atak, wciśnij <<AttackWithAlternateLight>><br><br>Jeżeli masz przypisane klawisze do <font color="#CD7D03">Modyfikacji Rodzaju Ataku</font> oraz <font color="#CD7D03">silnego ataku</font>, możesz również wykonać szybki atak, przytrzymując jednocześnie klawisz Modyfikacji Rodzaju Ataku oraz klawisz silnego ataku.
+   1075726|00000000||Wciśnij<<ThrowItem>>aby oddać szybki strzał z kuszy. Możesz też wycelować w konkretny punkt - przytrzymaj <<ThrowItem>>wyceluj i puść <<ThrowItem>><br><br>W panelu ekwipunku możesz załadować specjalną amunicję lub korzystać z amunicji podstawowej. Kusza jest bronią taktyczną, nie tak potężną jak miecz i Znaki.
+   1075722|00000000||Aby rzucić znak, wciśnij <<CastSign>>.<br><br>Znaki i niektóre inne akcje zużywają twoją wytrzymałość – aby ponownie rzucić Znak, poczekaj, aż wytrzymałość się zregeneruje.<br>Aby wybrać Znak, możesz skorzystać ze skrótów klawiaturowych <<SelectAard>> - <<SelectAxii>>
+   1075983|00000000||Aby przywołać swojego konia, wciśnij <<SpawnHorse>>
+   1076214|9dae9bd8||Enter
+   1076231|2e8ae8a7||- (Num Pad)
+   1076228|7520233b||* (Num Pad)
+   1076229|751eaa83||+ (Num Pad)
+   1076232|a7b9fc6a||. (Num Pad)
+   1076233|2ee0a1b4||/ (Num Pad)
+   1076379|b4c7ffbf||Czyraki jak leczyć: studyum naukowe. Z przyżeganiem
+   1076377|b4c7ffbe||Wesołe przygody Muriel Pięknej Łotrzycy uciesznymi rycinami opatrzone
+   1076503|00000000||Używając <<Mouse>> wybierz punkt docelowy i kliknij na nim, aby aby odbyć podróż.
+   1076495|b4c7ffbd||Tyromancja czyli wróżenie z sera
+   1076492|b4c7ffbc||Moribunda. Ostatnia podobizna wampira
+   1076545|00000000||Wybierz i rozwiń jedną z umiejętności, klikając na niej <<IK_RightMouse>>
+   1076659|00000000||Zaznacz <font color="#CD7D03">Znak Yrden</font> używając <<Mouse>> i wciśnij  <<IK_LeftMouse>> aby go wybrać.
+   1076657|00000000||Zaznacz <font color="#CD7D03">Znak Igni</font> używając <<Mouse>> i wciśnij  <<IK_LeftMouse>>aby go wybrać.
+   1076655|00000000||Zaznacz <font color="#CD7D03">Znak Aksji</font> używając <<Mouse>>i wciśnij <<IK_LeftMouse>> aby go wybrać.
+   1076767|00000000||Wciśnij <<AttackWithAlternateLight>> aby sprowokować przeciwnika do natychmiastowego ataku.
+   1076769|00000000||Przytrzymaj <<PCAlternate>> oraz <<AttackWithAlternateLight_mod>> aby wykonać szarżę.<br><br>Im dłużej przytrzymasz przycisk, tym szarża będzie miała większy zasięg.
+   1076984|dfefb296||Klucz do kryjówki katakana
+   1076985|b2a52dd0||Lekko zardzewiały klucz.
+   1073412|00000000||Zaatakuj Vesemira atakiem silnym – trzymając <<PCAlternate>> wciśnij <<AttackWithAlternateLight_mod>>
+   1073410|00000000||Zaatakuj Vesemira ciosem szybkim, wciskając <<AttackWithAlternateLight>>
+   1081267|785213d1||Eliksir do Próby Traw.
+   1078814|1f43e321||Stronica: Wyśmienity olej przeciw istotom magicznym
+   1078812|1f43e31f||Stronica: Olej przeciw istotom magicznym
+   1078813|1f43e320||Stronica: Ulepszony olej przeciw istotom magicznym
+   1069036|0b5e880d||O tyromancji słów kilkoro
+   1065078|40309801||Wiwerna
+   1066868|c5548b42||Moc Aksji
+   1057444|b450a286||Korzeń mandragory
+   1057686|6d911aa9||Spodnie wiedźmińskiego cechu wilka
+   1057687|6d911aaa||Ulepszone spodnie wiedźmińskiego cechu wilka
+   1057691|a2143e0d||Ulepszone spodnie wiedźmińskiego cechu gryfa
+   1058637|05ba7c56||Wykaz przestępców osadzonych w Deireadh<br>strona 258<br><br>Blaix de Villmon<br>Osadzony 3 dnia Birke za stosowanie magii.<br>Mimo intensywnych przesłuchań nie przyznaje się do winy.<br>7 dnia Blathe zmarł podczas przesłuchań.<br><br>Artur de Vleester<br>Osadzony 5 dnia Birke za stosowanie magii.<br>10 dnia Birke przyznał się do winy.<br>Skazany na śmierć przez spalenie na stosie.<br>Wyrok wykonano 11 dnia Birke<br><br>Margarita Laux-Antille<br>Osadzona 6 dnia Birke za stosowanie magii.<br>Nie przyznaje się do winy.<br>Zalecenie: zintensyfikować przesłuchania.<br><br>Keth<br>Osadzony 6 dnia Birke za pokątne wróżbiarstwo.<br>Nie przyznaje się do winy.<br>Skazany na śmierć przez spalenie na stosie.<br><br>Undomiel<br>Elfia wiedźma z lasu, osadzona 6 dnia Birke.<br>Skazana na śmierć przez spalenie na stosie, za przeklęcie mieszkańców miasta Oxenfurt, nie przyznaje się do winy.<br><br>Zielona<br>Prawdziwe imię nieznane, czarodziejka. Osadzona 7 dnia Birke za praktykowanie magii i pomoc innym poszukiwanym.<br><br>Skazana na śmierć przez spalenie na stosie.<br><br>Szypek<br>Osadzony 7 dnia Birke za publikowanie pamfletów wymierzonych w Lud Redanii.<br>Przyznał się do winy. Skazany na śmierć przez powieszenie.<br><br>Vatt<br>Krasnolud, osadzony 7 dnia Birke za zrywanie listów gończych za czarownicami.<br><br>Przyznał się do winy, skazany na obcięcie prawicy.<br><br>Gregski<br>Osadzony 8 dnia Birke za ukrywanie ściganych przez prawo.<br><br>Przyznał się do winy. Skazany na śmierć przez powieszenie.<br><br>Dona<br>Osadzona 8 dnia Birke za chiromancję.<br>Nie przyznała się do winy. Należy zintensyfikować przesłuchania.<br><br>Dragonbird<br>Prawdziwe imię nieznane, osadzona 9 dnia Birke.<br>Oskarżona o praktykowanie numerologii, przyznaje się do winy.<br><br>Skazana na śmierć na stosie.<br><br>Drugie Dziecko<br>Szalona elfia wieszczka, osadzony 9 dnia Birke za sianie fermentu i podburzanie przeciw Kościołowi<br>Nie można się z nią porozumieć. Zalecenie: przetrzymać ją.<br><br>Corylea<br>Osadzona 10 dnia Birke za przynależność do komanda Scoia'tael.<br>Przyznała się do winy obelżywymi słowy. Skazana na śmierć przez powieszenie.<br><br>"Tommy z Wyżyn"<br>Nie chce zdradzić nazwiska. Osadzony 11 dnia Birke za rozbój z mieczem.<br>Przyznał się do winy, skazny na ścięcie głowy toporem.<br><br>"Poszukiwacz"<br>Prawdziwe imię nieznane. Osadzony 11 dnia Birke, podejrzany o szpiegostwo. Zaleca się dalsze przesłuchania z użyciem rozżarzonego żelaza.<br>W szczególności należy dowiedzieć się dla kogo szpieguje.<br><br>Człowiek z N'vah<br>Osadzony 12 dnia Birke. Skazany za liczne i zuchwałe włamania.<br>Twierdzi, że jest niewinny i zdecydował się na głodówkę. Zastosować.<br><br>Petra Silie<br>Osadzona 12 dnia Birke. Skazana za zielarstwo i publikowanie zakazanych treści.<br>Przyznała się do winy. Skazana na śmierć przez spalenie na stosie.<br><br>Sidspyker<br>Osadzony 13 dnia Birke na podstawie donosu sąsiada. Oskarżony o praktykowanie magii.<br>Został uznany za niewinnego i zwolniony.<br>br>Tak zwany "Człowiek Jaszczur"<br>Prawdziwe imię nieznane. Osadzony 13 dnia Birke za liczne krwawe bójki. Ze względu na obrażenia głowy pozostaje nieprzytomny.<br>Hospitalizować.<br><br>"Sardukhar"<br>Nilfgaardczyk o nieznanym imieniu. Osadzony 13 dnia Birke, jako wróg Królestwa i żołnierz elitarnej gwardii Cesarza Nilfgaardu.<br><br>Przetrzymywany pod specjalnym nadzorem czeka przedstawicieli wywiadu wojskowego.<br><br>Nars<br>Niziołek z Rdestowej Łąki, osadzony 14 dnia Birke za oszustwa podatkowe i wyłudzenia. Nie przyznaje się do winy.<br>Zalecenia: zintensyfikować przesłuchania.<br><br>Momotek<br>Osadzony 14 dnia Birke, słabuje na umyśle. Oskarżony o posiadanie i używanie amuletów magicznych.<br>Zalecenie: nadaje się do pomocy przy nadzorowaniu osadzonych. Nie powierzać mu ostrych narzędzi.
+   1063514|4200e333||Kochana Matko,<br><br>To być może mój ostatni list. Piszę go z wielkim wstydem, bowiem okryłem hańbą naszą rodzinę. Zawiodłem moich towarzyszy broni. Zabrakło mi odwagi w godzinie próby. Nie proszę o wybaczenie, bom na nie nie zasłużył. Błagam Ciebie jeno o modlitwę za mnie. <br><br>Pozostań w zdrowiu. <br>-H.
+   1063800|4e7d0cd6||Trofeum z wiwerny
+   1063956|fc921508||Znacząco zmniejsza czas trwania efektów powalenia, hipnozy, oszołomienia i ślepoty.
+   1063965|fc921527||O świcie i o zmierzchu nakłada efekt zwiększający moc losowego Znaku. Ma dłuższy czas działania niż inne odwary.
+   1063947|e71d7c8e||Jeśli wytrzymałość jest większa od zera, silne ataki zużywają ją całą i prócz normalnych obrażeń, obniżają żywotność przeciwnika o 10%
+   1064031|3a84c32a||Efekty zatrucia leczą zamiast zadawać obrażenia. Wydłużony czas trwania.
+   1062564|d7dd1caa||Zaginęli żołnierze – nagroda
+   1049787|6c3c7e75||Wiwerna
+   1053056|00000000||Przemierzając Skellige, Geralt natknął się na załamanego mężczyznę o imieniu Lotar. Ktoś rzucił potężną klątwę na jego syna, która z dnia na dzień wysysała z niego życie. Wiedźmin wiedział, że jeśli szybko nie odczyni uroku, chłopak skona na rękach rodziców.<br>
+   1108103|8cf8564b||[DEBUG] Silver Locket
+   1108106|509924d1||[DEBUG] A silver locket with a picture of Andree Bourbeau and a man inside.
+   1108370|6c1f0631||Dziennik Chirda, asystenta maga Hieronymusa
+   1108371|e5632e7b||Piszę w wielkim pośpiechu. Zabarykadowałem się w pracowni, bo Warownię zaatakował tłum chłopów uzbrojonych chyba we wszystko, czym da się wywijać. Byłem zajęty pracą nad recepturą genialnego srebrnego miecza wiedźmińskiego i nie zauważyłem, że nadciąga tłuszcza.  Mam nadzieję, że wiedźmin Varin przyjdzie po mnie i wyciągnie mnie stąd. <br>Varin ma ze sobą stalowy miecz, drugi z kompletu, na szczęście przekazałem mu recepturę parę dni temu. Jego uczniowie z Bastionu są razem z nim. Jestem pewny, że dadzą sobie radę z bandą kmieci z kosami na sztorc. Jednak boję się o mojego mistrza, od wielu dni nie wychodził z wieży, pracuje w natchnieniu nad schematem zbroi, mógł w ogóle nie zauważyć tego, co tu się dzieje.<br>Dlaczego nie skończyłem pracy wcześniej i zgodnie z poleceniem mojego mistrza nie pojechałem badać śladów Elgara, legendarnego wiedźmina Wilka? Gdybym to zrobił choćby wczoraj, byłbym już w bezpiecznej odległości od Kaer Morhen. Hieronymus dał mi mapę, na której zaznaczył miejsca, gdzie Elgar ukrył ulepszenia wiedźmińskiego rynsztunku.
+   1108368|c23f81d8||Zaatakowała rozwścieczona tłuszcza. Tłum wdarł się do wieży. Odcięli mi drogę po drugi kryształ. Musiałem się ratować. Zdążyłem jeszcze chwycić schematy uzbrojenia Szkoły Wilka. Może dzięki nim będę wystarczająco cenny dla Varina, żeby zechciał mnie obronić, gdyby przyszło mi walczyć z chłopami. Skoczyłem. Portal nie zadziałał. Jak podejrzewałem, z jednym kryształem szansa była marna, ale i tak większa niż w przypadku walki z setką żądnych krwi chłopów. Chyba mam złamany kręgosłup i pękniętą wątrobę lub śledzionę. Nie mogę się ruszać.
+   1108358|9e0d83d3||Elgar ukrył ulepszenia do rynsztunku Szkoły Wilka, chcąc żeby posłużyły temu wiedźminowi z Kaer Morhen, który będzie ich potrzebował. Ze względów bezpieczeństwa postanowił użyć kryjówek w trzech różnych miejscach. Jedne z nich są w zatopionej pieczarze pod kasztelem, który wznosi się na wyspie w centralnym Velen. Inne - w jaskiniach na północ od Oxenfurtu, a kolejne w elfich ruinach na południu Velen.
+   1108366|cdf610b9||Znalazłem dzisiaj coś, co ma szanse uratować Szkołę Wilka przed degrengoladą i rozsypką, w jaką wpędzają nas te żałosne chłystki, które przychodzi mi szkolić. Odkryłem kompletny pancerz i ekwipunek Elgara, wiedźmina, który zapoczątkował Szkołę Wilka. Cały sprzęt w doskonałym stanie przeleżał dziesiątki lat w zamurowanej kawernie w zbrojowni. Podmyte mury skruszały i Hieronymus stękał, że w dziurze lęgną się szczury wielkości kotów. Mówiłem, żeby się pofatygował do zbrojowni i sam załatwił sprawę piorunem kulistym, czy tam inną magiczną bombą, w końcu od czego jest czarownikiem? Ale on potrafi tylko bełkotać o etyce i moralności.<br>Dzięki temu to ja znalzłem pancerz i ekwipunek Elgara, legendarnego Wilka, w którego istnienie niejeden z nas już zwątpił! Jestem pewien, że możemy zrobić z tego uzbrojenia użytek.
+   1108367|6c494cb4||Notatka napisana drżącą ręką
+   1108364|098ed2f4||Część ulepszeń do wyposażenia Szkoły Wilka ukryta jest na wyspach Skellige. Elgar pozostawił je w centralnej części Ard Skellig, oraz w ruinach dwóch strażnic: na Undvik i Spikeroog. Chciał, żeby dobrze posłużyły wiedźminowi, który ich może potrzebować i będzie na tyle sprytny, żeby je odnaleźć.
+   1108365|6c3b3533||Notatki Hieronymusa
+   1108362|d4a897b3||Elgar rozmieścił ulepszenia do wieźmińskiego ekwipunku według prawideł Szkoły Wilka w trzech różnych jaskiniach w południowej części Kaer Morhen. Chciał, aby posłużyły wiedźminowi, który zrobi z nich odpowiedni użytek.
+   1108363|f7ebecc2||Elgar schował ulepszenia wyposażenia z wiedźmińskiej Szkoły Wilka w różnych stronach świata, żeby mogli z nich korzystać wiedźmini na szlaku. Niektóre z nich zostawił w elfickich ruinach i w zatopionym wraku statku na południu Velen. Inne - w specjalnej kryjówce daleko na południe od Oxenfurtu.
+   1108360|9fc25c72||Ulepszenia do ekwipunku wiedźmina ze Szkoły Wilka zostały ukryte przez Elgara wokół Kaer Morhen. Część z nich w najgłębszej jaskinii, jaką odkrył w północnej części doliny Kaer Morhen. Część - w nieużywanej, zrujnowanej strażnicy, w tejże północnej części doliny. Zaś pozostałe umieścił wśród skał przy brzegu jeziora, również w dolinie Kaer Morhen.
+   1108361|f6371423||Dalsze ulepszenia do wyposażenia wiedźmina ze Szkoły Wilka Elgar rozlokował w różnych rejonach na Wyspach Skellige. Pozostawił je częściowo w drewnianym forcie na południu Ard Skellig, częściowo zaś w ruinach na zachodzie wyspy Hindersfjall. Jeszcze jedna część ukryta jest w kurhanach na zachodzie Ard Skellig.
+   1108420|003652cd||[DEBUG] Czas
+   1108540|b5848ed1||[DEBUG] Sharley Matriarch Trophy
+   1108538|c7c6cfc6||[DEBUG] A lure recipe designed to attract the attention of Sharley Matriarch's. The lure is a scent which closely matches that given off by Sharley's when their young are in distress.
+   1108539|c4f6b48b||[DEBUG] Sharley Matriarch Lure
+   1108537|447db501||[DEBUG] Sharley Matriarch Lure Recipe
+   1108551|883a0a0b||[DEBUG] A trophy taken from the corpse of a Sharley Matriarch.
+   1108630|69587240||Mistrzowskie legendarne buty cechu niedźwiedzia
+   1108631|f4dd4159||Schemat: Legendarne buty cechu niedźwiedzia
+   1108628|6958723e||Ulepszone legendarne buty cechu niedźwiedzia
+   1108629|6958723f||Wyśmienite legendarne buty cechu niedźwiedzia
+   1108626|a8383957||Schemat: Legendarna zbroja cechu niedźwiedzia
+   1108627|6958723d||Legendarne buty cechu niedźwiedzia
+   1108624|3972483c||Wyśmienita legendarna zbroja cechu niedźwiedzia
+   1108625|3972483d||Mistrzowska legendarna zbroja cechu niedźwiedzia
+   1108638|35fdbf99||Ulepszone legendarne spodnie cechu niedźwiedzia
+   1108639|35fdbf9a||Wyśmienite legendarne spodnie cechu niedźwiedzia
+   1108636|cd0fc0be||Schemat: Legendarne rękawice cechu niedźwiedzia
+   1108637|35fdbf98||Legendarne spodnie cechu niedźwiedzia
+   1108634|2a7f26a4||Wyśmienite legendarne rękawice cechu niedźwiedzia
+   1108635|2a7f26a5||Mistrzowskie legendarne rękawice cechu niedźwiedzia
+   1108632|2a7f26a2||Legendarne rękawice cechu niedźwiedzia
+   1108633|2a7f26a3||Ulepszone legendarne rękawice cechu niedźwiedzia
+   1108623|3972483b||Ulepszona legendarna zbroja cechu niedźwiedzia
+   1108620|80b9cac9||Legendarna zbroja cechu niedźwiedzia
+   1108617|d65f831f||test
+   1108656|f44177a7||Wyśmienity legendarny stalowy miecz niedźwiedzia
+   1108657|f44177a8||Mistrzowski legendarny stalowy miecz niedźwiedzia
+   1108646|dcbc44f2||Ulepszony legendarny srebrny miecz niedźwiedzia
+   1108647|dcbc44f3||Wyśmienity legendarny srebrny miecz niedźwiedzia
+   1108645|34f98940||Legendarny srebrny miecz cechu niedźwiedzia
+   1108642|4b36faff||Legendarna kusza cechu niedźwiedzia
+   1108643|84371e0d||Schemat: Legendarna kusza cechu niedźwiedzia
+   1108640|35fdbf9b||Mistrzowskie legendarne spodnie cechu niedźwiedzia
+   1108641|963903b4||Schemat: Legendarne spodnie cechu niedźwiedzia
+   1108654|19d3d8f4||Legendarny stalowy miecz niedźwiedzia
+   1108655|f44177a6||Ulepszony legendarny stalowy miecz niedźwiedzia
+   1108652|e68a0f41||Schemat: Wyśmienity legendarny srebrny miecz niedźwiedzia
+   1108653|e68a0f42||Schemat: Mistrzowski legendarny srebrny miecz niedźwiedzia
+   1108651|e68a0f40||Schemat: Ulepszony legendarny srebrny miecz niedźwiedzia
+   1108648|dcbc44f4||Mistrzowski legendarny srebrny miecz niedźwiedzia
+   1108649|4cb18f0e||Schemat: Legendarny srebrny miecz niedźwiedzia
+   1108758|6e746588||[DEBUG] Sharley Matriarch
+   1108918|c7bda820||Schemat: Legendarne buty cechu gryfa
+   1108919|91c7c1bb||Legendarne rękawice cechu gryfa
+   1108916|85739006||Wyśmienite legendarne buty cechu gryfa
+   1108917|85739007||Mistrzowskie legendarne buty cechu gryfa
+   1108914|85739004||Legendarne buty cechu gryfa
+   1108915|85739005||Ulepszone legendarne buty cechu gryfa
+   1108912|558d6604||Mistrzowska legendarna zbroja cechu gryfa
+   1108913|7b18a01e||Schemat: Legendarna zbroja cechu gryfa
+   1108926|5218dd61||Wyśmienite legendarne spodnie cechu gryfa
+   1108927|5218dd62||Mistrzowskie legendarne spodnie cechu gryfa
+   1108924|5218dd5f||Legendarne spodnie cechu gryfa
+   1108925|5218dd60||Ulepszone legendarne spodnie cechu gryfa
+   1108922|91c7c1be||Mistrzowskie legendarne rękawice cechu gryfa
+   1108923|563c32d7||Schemat: Legendarne rękawice cechu gryfa
+   1108920|91c7c1bc||Ulepszone legendarne rękawice cechu gryfa
+   1108921|91c7c1bd||Wyśmienite legendarne rękawice cechu gryfa
+   1108910|558d6602||Ulepszona legendarna zbroja cechu gryfa
+   1108911|558d6603||Wyśmienita legendarna zbroja cechu gryfa
+   1108908|778670f6||Schemat: Mistrzowski legendarny stalowy miecz niedźwiedzia
+   1108909|06bfae50||Legendarna zbroja cechu gryfa
+   1108906|778670f4||Schemat: Ulepszony legendarny stalowy miecz niedźwiedzia
+   1108907|778670f5||Schemat: Wyśmienity legendarny stalowy miecz niedźwiedzia
+   1108905|ad02cdc2||Schemat: Legendarny stalowy miecz niedźwiedzia
+   1108944|ff70c34f||Schemat: Mistrzowski legendarny stalowy miecz gryfa
+   1108956|199db191||Schemat: Ulepszone legendarne rękawice cechu gryfa
+   1108957|199db192||Schemat: Wyśmienite legendarne rękawice cechu gryfa
+   1108954|35261565||Schemat: Wyśmienite legendarne buty cechu gryfa
+   1108955|35261566||Schemat: Mistrzowskie legendarne buty cechu gryfa
+   1108953|35261564||Schemat: Ulepszone legendarne buty cechu gryfa
+   1108934|dd770d95||Schemat: Legendarny srebrny miecz gryfa
+   1108935|5bea0807||Schemat: Ulepszony legendarny srebrny miecz gryfa
+   1108932|e2303a7a||Wyśmienity legendarny srebrny miecz gryfa
+   1108933|e2303a7b||Mistrzowski legendarny srebrny miecz gryfa
+   1108930|402b3487||Legendarny srebrny miecz gryfa
+   1108931|e2303a79||Ulepszony legendarny srebrny miecz gryfa
+   1108928|69196a7b||Schemat: Legendarne spodnie cechu gryfa
+   1108929|77dfe25b||Schemat: Legendarny stalowy miecz gryfa
+   1108942|ff70c34d||Schemat: Ulepszony legendarny stalowy miecz gryfa
+   1108943|ff70c34e||Schemat: Wyśmienity legendarny stalowy miecz gryfa
+   1108940|4f453540||Wyśmienity legendarny stalowy miecz gryfa
+   1108941|4f453541||Mistrzowski legendarny stalowy miecz gryfa
+   1108938|09ac28cd||Legendarny stalowy miecz gryfa
+   1108939|4f45353f||Ulepszony legendarny stalowy miecz gryfa
+   1108936|5bea0808||Schemat: Wyśmienity legendarny srebrny miecz gryfa
+   1108937|5bea0809||Schemat: Mistrzowski legendarny srebrny miecz gryfa
+   1108982|24c58cec||Legendarna zbroja cechu kota
+   1108983|09960d9e||Ulepszona legendarna zbroja cechu kota
+   1108980|f737bfaf||Schemat: Wyśmienite legendarne spodnie cechu niedźwiedzia
+   1108981|f737bfb0||Schemat: Mistrzowskie legendarne spodnie cechu niedźwiedzia
+   1108978|1a61e158||Schemat: Mistrzowska legendarna zbroja cechu niedźwiedzia
+   1108979|f737bfae||Schemat: Ulepszone legendarne spodnie cechu niedźwiedzia
+   1108976|1a61e156||Schemat: Ulepszona legendarna zbroja cechu niedźwiedzia
+   1108977|1a61e157||Schemat: Wyśmienita legendarna zbroja cechu niedźwiedzia
+   1108990|397c37a3||Mistrzowskie legendarne buty cechu kota
+   1108991|f1e2f3bc||Schemat: Legendarne buty cechu kota
+   1108988|397c37a1||Ulepszone legendarne buty cechu kota
+   1108989|397c37a2||Wyśmienite legendarne buty cechu kota
+   1108986|a53debba||Schemat: Legendarna zbroja cechu kota
+   1108987|397c37a0||Legendarne buty cechu kota
+   1108984|09960d9f||Wyśmienita legendarna zbroja cechu kota
+   1108985|09960da0||Mistrzowska legendarna zbroja cechu kota
+   1108966|7d7b0927||Schemat: Mistrzowska legendarna zbroja cechu gryfa
+   1108967|5d82e1ff||Schemat: Ulepszone legendarne spodnie cechu gryfa
+   1108964|7d7b0926||Schemat: Wyśmienita legendarna zbroja cechu gryfa
+   1108963|7d7b0925||Schemat: Ulepszona legendarna zbroja cechu gryfa
+   1108961|199db193||Schemat: Mistrzowskie legendarne rękawice cechu gryfa
+   1108974|b68489c3||Schemat: Wyśmienite legendarne rękawice cechu niedźwiedzia
+   1108975|b68489c4||Schemat: Mistrzowskie legendarne rękawice cechu niedźwiedzia
+   1108972|cedaf315||Schemat: Mistrzowskie legendarne buty cechu niedźwiedzia
+   1108973|b68489c2||Schemat: Ulepszone legendarne rękawice cechu niedźwiedzia
+   1108970|cedaf313||Schemat: Ulepszone legendarne buty cechu niedźwiedzia
+   1108971|cedaf314||Schemat: Wyśmienite legendarne buty cechu niedźwiedzia
+   1108968|5d82e200||Schemat: Wyśmienite legendarne spodnie cechu gryfa
+   1108969|5d82e201||Schemat: Mistrzowskie legendarne spodnie cechu gryfa
+   1109012|ecb1d831||Schemat: Legendarny srebrny miecz kota
+   1109013|0daf2600||Schemat: Ulepszony legendarny srebrny miecz kota
+   1109011|cc3d6117||Mistrzowski legendarny srebrny miecz kota
+   1109020|93c5e7b1||Legendarny stalowy miecz kota
+   1109021|4f13543f||Schemat: Legendarny stalowy miecz kota
+   1109016|0daf2601||Schemat: Wyśmienity legendarny srebrny miecz kota
+   1109017|0daf2602||Schemat: Mistrzowski legendarny srebrny miecz kota
+   1108998|062184fc||Ulepszone legendarne spodnie cechu kota
+   1108999|062184fd||Wyśmienite legendarne spodnie cechu kota
+   1108996|70c05abb||Schemat: Legendarne rękawice cechu kota
+   1108997|062184fb||Legendarne spodnie cechu kota
+   1108994|5ed40da1||Wyśmienite legendarne rękawice cechu kota
+   1108995|5ed40da2||Mistrzowskie legendarne rękawice cechu kota
+   1108992|5ed40d9f||Legendarne rękawice cechu kota
+   1108993|5ed40da0||Ulepszone legendarne rękawice cechu kota
+   1109006|cc3d6116||Wyśmienity legendarny srebrny miecz kota
+   1109004|f9495223||Legendarny srebrny miecz kota
+   1109005|cc3d6115||Ulepszony legendarny srebrny miecz kota
+   1109002|483cad62||Legendarna kusza cechu kota
+   1109003|57b770b0||Schemat: Legendarna kusza cechu kota
+   1109000|062184fe||Mistrzowskie legendarne spodnie cechu kota
+   1109001|933eb617||Schemat: Legendarne spodnie cechu kota
+   1109046|530e8b80||Schemat: Wyśmienite legendarne rękawice cechu kota
+   1109047|530e8b81||Schemat: Mistrzowskie legendarne rękawice cechu kota
+   1109044|a25b45b8||Schemat: Mistrzowskie legendarne buty cechu kota
+   1109045|530e8b7f||Schemat: Ulepszone legendarne rękawice cechu kota
+   1109042|a25b45b6||Schemat: Ulepszone legendarne buty cechu kota
+   1109043|a25b45b7||Schemat: Wyśmienite legendarne buty cechu kota
+   1109041|d78f4c33||Schemat: Mistrzowski legendarny stalowy miecz kota
+   1109052|cab81252||Schemat: Wyśmienite legendarne spodnie cechu kota
+   1109053|cab81253||Schemat: Mistrzowskie legendarne spodnie cechu kota
+   1109050|b6ebe315||Schemat: Mistrzowska legendarna zbroja cechu kota
+   1109051|cab81251||Schemat: Ulepszone legendarne spodnie cechu kota
+   1109048|b6ebe313||Schemat: Ulepszona legendarna zbroja cechu kota
+   1109049|b6ebe314||Schemat: Wyśmienita legendarna zbroja cechu kota
+   1109028|b9eacb24||Wyśmienity legendarny stalowy miecz kota
+   1109029|b9eacb25||Mistrzowski legendarny stalowy miecz kota
+   1109027|b9eacb23||Ulepszony legendarny stalowy miecz kota
+   1109034|d78f4c31||Schemat: Ulepszony legendarny stalowy miecz kota
+   1109035|d78f4c32||Schemat: Wyśmienity legendarny stalowy miecz kota
+   1109214|5ba47484||Legendarne spodnie cechu wilka
+   1109215|067511f8||Legendarne buty cechu wilka
+   1109212|c6c10041||Legendarny pancerz cechu wilka
+   1109213|90c38de6||Legendarne rękawice cechu wilka
+   1109246|5b74eff5||Schemat: Legendarna zbroja cechu wilka
+   1109244|37e67cda||Wyśmienita legendarna zbroja cechu wilka
+   1109245|37e67cdb||Mistrzowska legendarna zbroja cechu wilka
+   1109242|514e8ee7||Legendarna zbroja cechu wilka
+   1109243|37e67cd9||Ulepszona legendarna zbroja cechu wilka
+   1109223|f0fe2466||Schemat: Mistrzowskie legendarne rękawice cechu wilka
+   1109220|f0fe2465||Schemat: Wyśmienite legendarne rękawice cechu wilka
+   1109218|23527c33||Schemat: Mistrzowskie legendarne buty cechu wilka
+   1109219|f0fe2464||Schemat: Ulepszone legendarne rękawice cechu wilka
+   1109216|23527c31||Schemat: Ulepszone legendarne buty cechu wilka
+   1109217|23527c32||Schemat: Wyśmienite legendarne buty cechu wilka
+   1109231|9d7d4d3a||Liczebność postaci tła
+   1109228|4baf48cd||Schemat: Wyśmienite legendarne spodnie cechu wilka
+   1109229|4baf48ce||Schemat: Mistrzowskie legendarne spodnie cechu wilka
+   1109226|54db7bfa||Schemat: Mistrzowska legendarna zbroja cechu wilka
+   1109227|4baf48cc||Schemat: Ulepszone legendarne spodnie cechu wilka
+   1109224|54db7bf8||Schemat: Ulepszona legendarna zbroja cechu wilka
+   1109225|54db7bf9||Schemat: Wyśmienita legendarna zbroja cechu wilka
+   1109270|fa9185c6||Wyśmienite legendarne rękawice cechu wilka
+   1109271|fa9185c7||Mistrzowskie legendarne rękawice cechu wilka
+   1109268|fa9185c4||Legendarne rękawice cechu wilka
+   1109269|fa9185c5||Ulepszone legendarne rękawice cechu wilka
+   1109278|f79dc0de||Legendarny srebrny miecz wilka
+   1109279|87310d10||Ulepszony legendarny srebrny miecz wilka
+   1109276|3471f439||Mistrzowskie legendarne spodnie cechu wilka
+   1109277|4975ba52||Schemat: Legendarne spodnie cechu wilka
+   1109274|3471f437||Ulepszone legendarne spodnie cechu wilka
+   1109275|3471f438||Wyśmienite legendarne spodnie cechu wilka
+   1109272|8169dde0||Schemat: Legendarne rękawice cechu wilka
+   1109273|3471f436||Legendarne spodnie cechu wilka
+   1109254|4a42c120||Notatki Hieronymusa
+   1109255|67cca6dc||Ulepszone legendarne buty cechu wilka
+   1109253|67cca6db||Legendarne buty cechu wilka
+   1109249|e0764a9e||Dziennik Chirda
+   1109260|67cca6de||Mistrzowskie legendarne buty cechu wilka
+   1109261|a819f7f7||Schemat: Legendarne buty cechu wilka
+   1109258|7f28fc61||Notatka napisana drżącą ręką
+   1109256|67cca6dd||Wyśmienite legendarne buty cechu wilka
+   1109257|6259f0ec||Dzięki pancerzowi Elgara opracowałem nowe stopy metali i udało mi się zwiększyć przewodnictwo magii drugiego kryształu. To może być przełom w pracach nad teleportem, który przyda się zwiadowcom. Skalibrowałem teleport próbnie na jaskinię u stóp wieży. Muszę tylko naładować kryształ energią słoneczną, więc umieściłem go na zewnętrznej ścianie wieży, od strony rusztowania. Odliczam godziny potrzebne do całkowitego naładowania kryształu. <br>Skończyłem prace nad recepturą, dzięki której będziemy mogli powielać pancerz i w ten sposób uzbroimy całą Szkołę Wilka. Wiedźmin Varin, nasz nauczyciel fechtunku puszy się, że to on znalazł ekwipunek Elgara, ale to przecież ja, rozumując logicznie i tylko w niewielkim stopniu posiłkując się magią, odkryłem komnatę, w której musiał mieszkać Elgar. Komnata była zamaskowana prymitywną iluzją, naprawdę wystarczyło wytężyć wzrok, żeby ją przeniknąć. Znalazłem zapiski, z których wynika, że Elgar dysponował ulepszeniami rynsztunku, i że poukrywał je na całym świecie, do użytku innych wiedźminów ze Szkoły Wilka.  Skończyłem sporządzanie mapy, na której zaznaczyłem wszystkie ulepszenia. Mapę i dalsze prace nad ulepszeniami przekazałem Chirdowi w Starej Strażnicy. Gdy skończy przygotowywać recepturę miecza srebrnego, ma wyruszyć, żeby zebrać wszystkie ulepszenia. Wiem, że receptura stalowego miecza jest już gotowa i Varin ma sporządzić kilka mieczy dla młodych wiedźminów. Być może nowe miecze choć trochę wyrównają szanse tych chłopców w regularnych masakrach, jakie Varin im urządza, nazywając to szkoleniem.<br> <br> Bogowie, zauważyłem właśnie ogień na horyzoncie. To chyba płonie Stara Strażnica! Słyszę tumult wokół wieży. Ścieżka w dół jest odcięta! Co się dzieje?!
+   1109296|ec67d1f4||Schemat: Wyśmienity legendarny stalowy miecz wilka
+   1109308|ec67d1f5||Schemat: Mistrzowski legendarny stalowy miecz wilka
+   1109284|873be93c||Schemat: Wyśmienity legendarny srebrny miecz wilka
+   1109282|4677abc9||Schemat: Legendarny srebrny miecz wilka
+   1109283|873be93b||Schemat: Ulepszony legendarny srebrny miecz wilka
+   1109280|87310d11||Wyśmienity legendarny srebrny miecz wilka
+   1109281|87310d12||Mistrzowski legendarny srebrny miecz wilka
+   1109294|30766281||Schemat: Legendarny stalowy miecz wilka
+   1109295|ec67d1f3||Schemat: Ulepszony legendarny stalowy miecz wilka
+   1109292|862433c9||Wyśmienity legendarny stalowy miecz wilka
+   1109293|862433ca||Mistrzowski legendarny stalowy miecz wilka
+   1109290|201b3596||Legendarny stalowy miecz wilka
+   1109291|862433c8||Ulepszony legendarny stalowy miecz wilka
+   1109289|873be93d||Schemat: Mistrzowski legendarny srebrny miecz wilka
+   1109334|7c1d1828||Legendarny stalowy miecz żmii
+   1109332|1a90875a||Schemat: Legendarny srebrny miecz żmii
+   1109333|0e7d9bf6||Schemat: Legendarny stalowy miecz żmii
+   1109331|1bd8308c||Legendarny srebrny miecz żmii
+   1109406|4e49a790||Wyświetlanie
+   1109407|9f80dab6||Rozdzielczość
+   1109408|d3c3ace8||Sposób wyświetlania gry
+   1109409|4fc5c663||720x576
+   1109466|d4a3159b||[DEBUG] Elven Key Gems
+   1109467|f44e3767||[DEBUG] Digestive Herbs
+   1109442|9040fcb3||Wyświetlanie w oknie bez ramek
+   1109443|29ff58a9||Pełny ekran
+   1109440|8df0f78c||2560x1440
+   1109441|6782ecfd||Wyświetlanie w oknie
+   1105975|f545e983||Ofirski żołnierz
+   1105972|27c88511||Ofirski mag
+   1105971|7f849156||Człowiek Olgierda
+   1106069|5141493d||Galop i cwał
+   1106078|c3669d60||Zatrzymanie konia
+   1106079|2e453c85||Do użytku 1
+   1106077|dacadae9||Zejście z konia
+   1106098|0cd28cbc||Wybór Znaku Igni
+   1106097|0cd66330||Wybór Znaku Quen
+   1106108|0d5c0a69||Menu gry
+   1106106|8790195c||Panel ekwipunku
+   1106107|0001a55c||Mapa
+   1106104|0ccf28fa||Wybór Znaku Aksji
+   1106105|9397656e||Panel postaci
+   1106082|d54bee68||Dobycie miecza srebrnego
+   1106080|2e453c86||Do użytku 2
+   1106081|0f285f10||Dobycie miecza stalowego
+   1106093|8e655d51||Wybór Znaku Yrden
+   1106090|0cced3b5||Wybór Znaku Aard
+   1106130|4d8a723e||Elodie, żona drwala w Lisich Dołach, wzywa każdego, kto potrafi zdjąć klątwę, do swojego domu. Dom nie jest przeklęty, tylko mąż.
+   1106128|115acdbf||Zbroja upiornego rycerza.
+   1106129|ac97348e||Zdjęcie klątwy potrzebne od zaraz
+   1106118|e0ae4a1e||Glosariusz
+   1106117|ab64af37||Dziennik zadań
+   1106126|ddb6c412||Wstążka znaleziona na szczątkach rycerza na Rysiej Skale.
+   1106127|5a4d1805||Tajemnicza zbroja
+   1106125|b30dc28c||Wstążka damy zaginionego rycerza
+   1106120|5700d7e9||Talia do gwinta
+   1106218|94f2f0bb||[DEBUG] Dokument niezbędny do uzyskania dostępu do konta w banku.
+   1106216|708438b5||[DEBUG] Dokument bankowy.
+   1106217|0bacee77||[DEBUG] Treść dokumentu bankowego.
+   1106367|46c53be2||Zasięg widoczności roślinności
+   1106622|5a48d789||Wydarta stronica: Większy czerwony mutagen
+   1106623|eadc0ffb||Wydarta stronica: Większy zielony mutagen
+   1106620|2c438080||Wydarta stronica: Zielony mutagen
+   1106621|d820db3d||Wydarta stronica: Niebieski mutagen
+   1106618|27743163||Większy niebieski mutagen
+   1106619|d56ca54e||Wydarta stronica: Czerwony mutagen
+   1106616|121562a0||Większy czerwony mutagen
+   1106617|acbde652||Większy zielony mutagen
+   1106641|5625d6ee||Gra została zaktualizowana. Wszystkie ustawienia użytkownika zostały zresetowane do ustawień domyślnych.
+   1106624|eecaf062||Wydarta stronica: Większy niebieski mutagen
+   1106707|f3f5fddc||Zapis stanu gry nie może być załadowany, ponieważ został zrobiony na nowszej wersji gry.
+   1107189|5116834f||Wymięty list
+   1107221|ba7ecc09||Pismo znalezione przy ciele bandyty.
+   1107225|961210ed||Hymke,<br><br>Skrzyknij chłopaków, jest robota. Trzeba zaprosić Hugo Hoffa na spacer po dnie Pontaru. Na dowód przynieś jego ucho, to z kolczykiem. <br><br>-Falk<br><br>PS Ponoć Hoffem interesuje się też Ewald. Więc lepiej uważaj.
+   1107205|32394436||Wędrowny Cyrk "Spadające Gwiazdy" Zaprasza!<br>***Eveline Gallo, Kobieta Guma*** ***Nieustraszony Meryn*** ***Vann Sokole Oko***
+   1107203|03c3341d||[DEBUG] Treść listu znaleziona przy bandytach
+   1107415|b7af1a38||Na pokładzie łodzi można żeglować po zbiornikach wodnych.
+   1107416|e72b5002||Ulepszona w tym miejscu zbroja przez pewien czas ma zwiększoną wartość pancerza.
+   1107417|e88df9f3||W tym miejscu można skorzystać z usług prostytutki.
+   1107462|e8384175||Przywróć wszystkie ustawienia do ustawień domyślnych
+   1107461|471de117||Przywróć do ustawień domyślnych
+   1107506|37ccab34||Przywrócono ustawienia domyślne.
+   1107546|00000000||Przytrzymaj <<CiriAttackHeavy>> aby wykonać szarżę.<br><br>Im dłużej przytrzymasz przycisk, tym szarża będzie miała większy zasięg.
+   1107545|00000000||Szarża
+   1107564|975ac993||-
+   1107562|97bd647b||~
+   1107614|601ce217||'
+   1107615|02edec54||;
+   1107612|22fc3489||]
+   1107613|1cd4b3ee||\
+   1107610|46cb42fc||=
+   1107611|254901a4||[
+   1107609|db981db5||Brak
+   1107647|34f56ada||7
+   1107644|013c3340||Dziurawy but
+   1107645|e291c953||Bucik Shani
+   1107642|c93b8542||Czapa połykacza ognia
+   1107643|013c333f||Stary but
+   1107618|97b082a0||/
+   1107619|54561bb2||Kółko przewijania myszy
+   1107616|96d093f8||,
+   1107617|58e638fe||.
+   1107630|34f56ad9||6
+   1107628|34f56ad7||4
+   1107629|34f56ad8||5
+   1107626|34f56ad5||2
+   1107627|34f56ad6||3
+   1107625|34f56ad4||1
+   1107678|34f56b16||S
+   1107679|00000000||Ataki specjalne
+   1107676|34f56b13||P
+   1107677|34f56b04||A
+   1107675|34f56b12||O
+   1107654|34f56b14||Q
+   1107655|34f56b1a||W
+   1107650|34f56ad3||0
+   1107648|34f56adb||8
+   1107649|34f56adc||9
+   1107662|34f56b18||U
+   1107663|34f56b0c||I
+   1107660|34f56b17||T
+   1107661|34f56b1c||Y
+   1107658|34f56b08||E
+   1107659|34f56b15||R
+   1107656|00000000||Ataki specjalne
+   1107657|00000000||Aby wykonać szybki atak specjalny, przytrzymaj <<SpecialAttackLight>><br>Aby wykonać silny atak specjalny, przytrzymaj <<SpecialAttackHeavy>>
+   1107700|34f56b1d||Z
+   1107698|34f56b0e||K
+   1107699|34f56b0f||L
+   1107708|34f56b11||N
+   1107706|34f56b19||V
+   1107707|34f56b05||B
+   1107704|34f56b1b||X
+   1107705|34f56b06||C
+   1107684|34f56b0b||H
+   1107682|34f56b09||F
+   1107683|34f56b0a||G
+   1107680|00000000||Aby wykonać szybki atak specjalny, przytrzymaj <<SpecialAttackLight>><br>Aby wykonać silny atak specjalny, przytrzymaj <<SpecialAttackHeavy>>
+   1107681|34f56b07||D
+   1107692|34f56b0d||J
+   1107734|00000000||Aby wyprowadzić szybki atak, wciśnij <<AttackLight>>
+   1107735|00000000||Szybki atak
+   1107733|00000000||Szybki atak
+   1107736|00000000||Zaatakuj Vesemira ciosem szybkim, wciskając <<AttackLight>>
+   1107718|69b7f64b||F4
+   1107719|69b7f64c||F5
+   1107716|69b7f649||F2
+   1107717|69b7f64a||F3
+   1107714|34f56b10||M
+   1107715|69b7f648||F1
+   1107726|cd46d2ea||F12
+   1107724|cd46d2e8||F10
+   1107725|cd46d2e9||F11
+   1107722|69b7f64f||F8
+   1107723|69b7f650||F9
+   1107720|69b7f64d||F6
+   1107721|69b7f64e||F7
+   1107831|00000000||Talia do gwinta
+   1107832|00000000||Masz nową kartę do Gwinta! <br> Jeśli chcesz ją obejrzeć, otwórz <font color="#CD7D03"> Menu Gry </font> i wejdź do <font color="#CD7D03"> panelu budowania talii</font>.
+   1107906|bf886298||[DEBUG] Maiden
+   1110153|6f66cda7||Plan B
+   1110452|f1838f72||Czy chcesz dokonać tych zmian?
+   1110453|f8d17716||Aby zobaczyć efekt zmian, musisz ponownie uruchomić grę.
+   1110797|fb2cd197||MŁODSZY PRACOWNIK DZIAŁU OBSŁUGI KLIENTA
+   1110903|16f1acff||Liczba klatek na sekundę
+   1110910|8076ee3d||Nieograniczona
+   1110908|447d8081||30
+   1110909|447d80de||60
+   1110954|27e189c3||Sprzętowy kursor
+   1100114|00000000||Rzucanie znaków
+   1100115|00000000||Aby rzucić Znak, wciśnij <<CastSign>><br><br>Znaki i niektóre inne akcje zużywają twoją wytrzymałość - aby ponownie rzucić Znak, poczekaj aż wytrzymałość się zregeneruje.
+   1100106|00000000||Aby wyprowadzić silny atak, wciśnij <<AttackHeavy>><br><br>Silny atak jest wolniejszy od szybkiego ataku, ale zadaje większe obrażenia. Jest on bardziej skuteczny w walce przeciwko wytrzymałym przeciwnikom.<br><br>Słabsi przeciwnicy nie są w stanie parować silnych ciosów.
+   1100105|00000000||Silny atak
+   1100128|fc14eac1||Sortowanie przedmiotów
+   1100251|c2ae3abc||[DEBUG] Andree Bourbeau
+   1100278|78579eaa||[DEBUG] Nilfgaard Quartermaster
+   1100294|7815eacb||[DEBUG] Dun Tynne Quartermaster
+   1100295|5b7df208||[DEBUG] Auction House Guard
+   1100303|41c5eab9||[DEBUG] Mannes Smol
+   1100336|a686eaa2||[DEBUG] Mystery Man
+   1100404|1979535b||Rynsztunek Elgara jest świetny. Wiedziałem to od razu, gdy tylko znalazłem ekwipunek. Od razu mówiłem, że każdy nowy wiedźmin, jakiego tu wyszkolimy, powinien być wyposażony w taką broń, jeżeli w ogóle coś ma wyrosnąć z tej beznadziejnej bandy wydelikaconych chłopaczków.<br>Ile się musiałem naprosić szanownego maga rezydenta, żeby zechciał poświęcić swój cenny czas na badania!  Do rzyci taki rezydent. Dobrze chociaż, że Chird, jego pomocnik, zna się na metaurgii. Razem zabrali się wreszcie do roboty. <br>Receptura na miecz stalowy jest już gotowa, i o ile niczego nie napartaczyli, jutro zajmę się wykuciem pierwszej sztuki. Dziś po zakończeniu ćwiczeń pójdę do Chirda, do jego pracowni w Starej Strażnicy i sprawdzę, czy skończył recepturę na miecz srebrny, tak jak obiecywał. Pójdę też do wieży Hieronymusa, powinien mieć już gotową recepturę na pancerz.<br> Wydawało mi się przed chwilą, że słyszę z oddali dźwięk rogu sygnałowego. Chyba od okowity zaczynam mieć zwidy. Nikt przecież nie byłby na tyle szalony żeby zaatakować Wiedźmińskie Siedliszcze.
+   1100402|17c47abc||[string do usunięcia]
+   1100403|203d5551||Dziennik Varina
+   1100401|203d5550||Dziennik maga Hieronymusa
+   1100439|867ab9d9||Mapa Hieronymusa zachowana w dobrym stanie
+   1100442|db0c3789||Zamoknięta i nadpleśniała mapa Hieronymusa
+   1100443|db0c378a||Powycierana i wyblakła mapa Hieronymusa
+   1100441|867ab9da||Lekko naddarta mapa Hieronymusa
+   1100688|331dbc92||[DEBUG] Malarz
+   1100862|214f4620||[DEBUG] Alchemiczny reagent na toksyny korzenia Alrauny.
+   1100860|3a9a7dbc||[DEBUG] Baza alchemiczna od Coco.
+   1100859|d9771de6||[DEBUG] Reagent na toksynę Alrauny
+   1100948|9c14a6db||[DEBUG] Reagent na toksynę korzenia alrauny.
+   1100949|5b418bb8||[DEBUG] Auction House Clerk
+   1101090|653b3554||[DEBUG] Hrabina Mignole
+   1101190|a981389a||Wciśnij klawisz lub przycisk przypisany do:
+   1101191|d03e0a6d||nie ma już przypisanego klawisza ani przycisku
+   1101188|0b8fdf52||Akcja
+   1101189|35c5e315||Klawisz lub przycisk
+   1101187|7a1c1281||Mapowanie klawiszy
+   1101598|3f40ab70||Wyśmienite spodnie wiedźmińskiego cechu kota
+   1101599|3f40ab71||Mistrzowskie spodnie wiedźmińskiego cechu kota
+   1101622|5371c7d3||Schemat: Mistrzowskie buty wiedźmińskiego cechu gryfa
+   1101623|c4c84cc5||Schemat: Wyśmienite rękawice wiedźmińskiego cechu gryfa
+   1101620|7bce946e||Schemat: Mistrzowskie spodnie wiedźmińskiego cechu gryfa
+   1101621|5371c7d2||Schemat: Wyśmienite buty wiedźmińskiego cechu gryfa
+   1101618|413876b1||Mistrzowskie rękawice wiedźmińskiego cechu gryfa
+   1101619|7bce946d||Schemat: Wyśmienite spodnie wiedźmińskiego cechu gryfa
+   1101616|d56ef0b4||Mistrzowskie buty wiedźmińskiego cechu gryfa
+   1101617|413876b0||Wyśmienite rękawice wiedźmińskiego cechu gryfa
+   1101624|c4c84cc6||Schemat: Mistrzowskie rękawice wiedźmińskiego cechu gryfa
+   1101625|6f1ce60d||Wyśmienite spodnie wiedźmińskiego cechu niedźwiedzia
+   1101604|92fe3f05||Schemat: Wyśmienite spodnie wiedźmińskiego cechu kota
+   1101602|4999b58e||Wyśmienite rękawice wiedźmińskiego cechu kota
+   1101603|4999b58f||Mistrzowskie rękawice wiedźmińskiego cechu kota
+   1101600|729b5e15||Wyśmienite buty wiedźmińskiego cechu kota
+   1101601|729b5e16||Mistrzowskie buty wiedźmińskiego cechu kota
+   1101614|a2143e0f||Mistrzowskie spodnie wiedźmińskiego cechu gryfa
+   1101615|d56ef0b3||Wyśmienite buty wiedźmińskiego cechu gryfa
+   1101612|938df52e||Schemat: Mistrzowskie rękawice wiedźmińskiego cechu kota
+   1101613|a2143e0e||Wyśmienite spodnie wiedźmińskiego cechu gryfa
+   1101610|6aa1726b||Schemat: Mistrzowskie buty wiedźmińskiego cechu kota
+   1101611|938df52d||Schemat: Wyśmienite rękawice wiedźmińskiego cechu kota
+   1101608|92fe3f06||Schemat: Mistrzowskie spodnie wiedźmińskiego cechu kota
+   1101609|6aa1726a||Schemat: Wyśmienite buty wiedźmińskiego cechu kota
+   1101654|a0ebcd50||Wyśmienite buty wiedźmińskiego cechu wilka
+   1101655|a0ebcd51||Mistrzowskie buty wiedźmińskiego cechu wilka
+   1101653|6d911aac||Mistrzowskie spodnie wiedźmińskiego cechu wilka
+   1101648|6d911aab||Wyśmienite spodnie wiedźmińskiego cechu wilka
+   1101662|eb98a8e5||Schemat: Wyśmienite buty wiedźmińskiego cechu wilka
+   1101663|eb98a8e6||Schemat: Mistrzowskie buty wiedźmińskiego cechu wilka
+   1101661|13f57581||Schemat: Mistrzowskie spodnie wiedźmińskiego cechu wilka
+   1101658|13f57580||Schemat: Wyśmienite spodnie wiedźmińskiego cechu wilka
+   1101656|e5572db3||Wyśmienite rękawice wiedźmińskiego cechu wilka
+   1101657|e5572db4||Mistrzowskie rękawice wiedźmińskiego cechu wilka
+   1101638|a27798b2||Wyśmienite buty wiedźmińskiego cechu niedźwiedzia
+   1101639|a27798b3||Mistrzowskie buty wiedźmińskiego cechu niedźwiedzia
+   1101637|6f1ce60e||Mistrzowskie spodnie wiedźmińskiego cechu niedźwiedzia
+   1101646|f703f370||Schemat: Wyśmienite rękawice wiedźmińskiego cechu niedźwiedzia
+   1101647|f703f371||Schemat: Mistrzowskie rękawice wiedźmińskiego cechu niedźwiedzia
+   1101644|97211fc7||Schemat: Wyśmienite buty wiedźmińskiego cechu niedźwiedzia
+   1101645|97211fc8||Schemat: Mistrzowskie buty wiedźmińskiego cechu niedźwiedzia
+   1101642|bf7dec62||Schemat: Wyśmienite spodnie wiedźmińskiego cechu niedźwiedzia
+   1101643|bf7dec63||Schemat: Mistrzowskie spodnie wiedźmińskiego cechu niedźwiedzia
+   1101640|1544ce91||Wyśmienite rękawice wiedźmińskiego cechu niedźwiedzia
+   1101641|1544ce92||Mistrzowskie rękawice wiedźmińskiego cechu niedźwiedzia
+   1101664|317d8e12||Schemat: Wyśmienite rękawice wiedźmińskiego cechu wilka
+   1101674|317d8e13||Schemat: Mistrzowskie rękawice wiedźmińskiego cechu wilka
+   1101747|bcd5ee8d||[DEBUG] Knight
+   1098492|00000000||Przywoływanie konia
+   1098493|00000000||Większe dystanse i niektóre przeszkody – takie, jak tę – można pokonać tylko konno.<br><br>Aby przywołać swojego konia, wciśnij dwukrotnie <<SpawnHorse>>
+   1098490|00000000||Koń
+   1098491|00000000||Wiedźmini, z racji wykonywanego zawodu, ciągle są w drodze. Niestrudzenie przemierzają rozległe doliny, wspinają się na górskie szczyty, pokonują przełęcze i bagniste, rzeczne rozlewiska.<br><br>W swoich podróżach Geralt zawsze może liczyć na pomoc <font color="#CD7D03">Płotki - swego wierzchowca</font>. <font color="#CD7D03">Płotka</font> ma przy siodle juki, do których Geralt może wkładać różne przedmioty.<br><br>By przywołać <font color="#CD7D03">Płotkę</font>, wciśnij dwukrotnie <<SpawnHorse>>
+   1098488|00000000||Przywoływanie konia
+   1098489|00000000||Aby przywołać swojego konia, wciśnij dwukrotnie <<SpawnHorse>>
+   1099463|00000000||Silny atak
+   1099464|00000000||Zaatakuj Vesemira atakiem silnym, wciskając <<AttackHeavy>>
+   1099516|6ba9f2a1||Alkohole
+   1099517|efb1f4c5||Odwary
+   1104038|1259b0a8||Nastąpił błąd w pobieraniu danych z zapisu gry.
+   1104039|0d4964f9||Nie możesz zacząć Nowej Gry Plus z powodu problemów z zapisanym stanem gry.
+   1104036|651a4149||Brak dostępnych zapisów gry dla Nowej Gry Plus.
+   1104035|d65dcc27||Nowa Gra Plus
+   1104042|7326ef5c||Podczas importowania zapisanego stanu gry wystąpił nieznany błąd.
+   1104043|c76954c9||Zapis nie może zostać wczytany ze względu na niekompletną zawartość gry.
+   1104040|598f936d||Wybrany zapis gry jest nieodpowiedni. Proszę dokonać ponownego zapisu gry.
+   1104041|61f0d99d||Poziom doświadczenia Geralta jest zbyt niski lub gra nie została jeszcze ukończona.
+   1104118|adf32fc8||Eveline
+   1104106|710f8a92||Od teraz możesz grać w trybie Nowa Gra Plus. Zapisz stan gry, rozpocznij nową grę, następnie wybierz Nową Grę Plus, a potem wybierz zapisany stan gry, z którego chcesz przenieść postać. Nową Grę Plus można rozpocząć tylko na bazie zapisów wykonanych od tego momentu.
+   1104166|1125b070||[DEBUG] The Nilfgaardian ambassadorial party residing in Dun Tynne seeks the help of a Witcher to solve a troubling, local mystery. The fort suffers from tremors and peasants from the nearby villages are going missing without a trace.
+   1104165|32365f1c||[DEBUG] Contract: Tectonic Terror
+   1104160|062fa66f||Meryn
+   1104501|06854f67||Shani
+   1104540|c775c284||Quinto
+   1104730|b0682205||Diaboł
+   1104731|059a685a||Pani Młoda
+   1104728|31fde202||Pan Młody
+   1104729|ef3c998f||Połykacz Ognia
+   1104851|8693663f||[DEBUG] Lady of the Lake
+   1104837|2114eea2||Casimir
+   1104884|28d5b1ee||Przetoczenie się
+   1104871|05ff445c||[DEBUG] Iwein
+   1104866|867aba18||Pergaminowa mapa Hieronymusa w idealnym stanie
+   1104865|867ab9f9||Płócienna, mocno wyblakła mapa Hieronymusa
+   1104878|37191414||[DEBUG] Palamedes
+   1104876|fb7146be||[DEBUG] Gereint
+   1104877|d7894a19||[DEBUG] Peredur
+   1104874|b54f6bc1||[DEBUG] Gareth
+   1104875|6d0a53f7||[DEBUG] Agravane
+   1104872|002e3b4e||[DEBUG] Bors
+   1104873|002fa20b||[DEBUG] Erec
+   1104918|ffe663a0||Włącz chodzenie/bieganie
+   1104919|7ab8ea05||Zablokowanie kamery
+   1104914|8fb89d65||Włącz sprint
+   1104915|f50ceca4||ZEWNĘTRZNI PROJEKTANCI STRONY INTERNETOWEJ
+   1104923|5711adb4||Przełączanie Znaków
+   1104920|e65bd07f||Modyfikacja rodzaju ataku
+   1105790|5a4a4a92||Zestaw bród i fryzur
+   1105791|5a586213||Nowe zadanie - "Zlecenie: Zaginieni górnicy"
+   1105789|5a3c3311||Zestaw Temerskiego Rynsztunku
+   1105798|5be2f42f||Poszukiwania: Rynsztunek szkoły wilka
+   1105799|5bf10bb0||Alternatywny wygląd Ciri
+   1105796|5a9ed798||"Bohaterowie z Ballad" - zestaw neutralnych kart do Gwinta
+   1105797|5aacef19||NOWA GRA PLUS
+   1105794|5a82a896||Alternatywny wygląd Triss
+   1105795|5a90c017||Nowe zadanie - "Złoto głupców"
+   1105792|5a667994||Alternatywny wygląd Yennefer
+   1105793|5a749115||Zestaw Nilfgaardzkiego Rynsztunku
+   1105806|667dad9a||Do załadowania zapisu potrzebna jest następująca dodatkowa zawartość
+   1105804|5c378135||Nowe animacje ciosów kończących
+   1105805|6937efd0||Do załadowania zapisu potrzebna jest następująca dodatkowa zawartość
+   1105802|5c1b5233||Zestaw Skelligijskiego Rynsztunku
+   1105803|5c2969b4||Nowe zadanie - "Jak kot z wilkiem"
+   1105800|5bff2331||Nowe zadanie - "Zlecenie: Najgroźniejszy potwór na Skellige"
+   1105801|5c0d3ab2||Zestaw wybornych kusz
+   1105872|a8e42575||[DEBUG] [DEBUG] A short poem describing generosity as a virtue in general and in particular about how you should give in a meaningful way and with thought.
+   1105868|0f2019a1||[DEBUG] [Debug] Test
+   1105869|ce22d91b||test test blood and wine
+   1105866|b654820b||Zapisy wykonane w tej wersji gry będą niekompatybilne z wcześniejszymi wersjami gry.
+   1105867|950b665d||Zapisy wykonane w tej wersji gry będą niekompatybilne z wcześniejszymi wersjami gry.
+   1105909|7caba60c||[DEBUG] [DEBUG] A short poem describing compassion as a virtue in general and in particular how sometimes resigning something in favor of someone else can be a reward in itself.
+   1105895|e5d4bb6f||[DEBUG] [DEBUG] A short poem describing bravery as a virtue in general and in particular how bravery can be knowing when to fight, but also when not to fight.
+   1102051|9615a0a1||Lewy przycisk myszy
+   1102056|305248c6||Prawy przycisk myszy
+   1102057|e035d313||Środkowy przycisk myszy
+   1102439|8035c2a4||Czułość myszy w panelach interfejsu
+   1102492|907db547||Stan gry jest niedostępny
+   1102493|04b09b99||Stan gry jest niedostępny
+   1102490|97b582f2||Buty ze skóry nekkera
+   1102491|4ec338ac||Całkiem wygodne buty z charakterystycznymi szponami na czubach.
+   1102474|36d4ebd0||[DEBUG] Hilbert
+   1102569|98ca5985||Całkowity czas gry
+   1103296|acd2a8f1||[DEBUG] Yaromir
+   1103769|1c824479||[DEBUG] Abner de Navarette
+   1103780|128e270d||Sekundy
+   1103781|23c93ed5||Nie udało się zaimportować stanu gry z Wiedźmina 2.
+   1103778|43186f1d||Godziny
+   1103779|dc99f96d||Minuty
+   1103776|4ce23aeb||Schemat: Jedwab
+   1103777|02280e89||Dni
+   1103843|c5784d99||Medalion Szkoły Kota
+   1092301|8c75af9f||Dla Geralda z Riwji <br><<bk_texture_mq1058_girls_drawing>>
+   1092324|cb404983||Mistrzowskie narzędzia kowalskie
+   1092322|cb404981||Proste narzędzia kowalskie
+   1092323|cb404982||Czeladnicze narzędzia kowalskie
+   1092330|c1631791||Schemat: Mistrzowskie narzędzia kowalskie
+   1092328|9799b20f||Schemat: Proste narzędzia kowalskie
+   1092329|2c7e64d0||Schemat: Czeladnicze narzędzia kowalskie
+   1092944|63a4a2f5||Włosy północnicy
+   1097069|098eb62e||[DEBUG] Pojemnik z solą.
+   1097364|82015ebb||Ogłoszenie przewodniczącego wspólnoty mieszkańców o nagrodzie za rozwiązanie problemu hałasów na cmentarzu. Informacje u przewodniczącego, Charles'a Lanzano.
+   1097363|74f3adf1||[DEBUG] Ogłoszenie o nagrodzie za rozwiązanie problemu na cmentarzu.
+   1093655|203d5552||List do Lisbeth
+   1093658|1ce30499||Do wiedźmina który znajdzie ten list:<br><br>Mag Hieronymus jest zdrajcą. Jeśli udało mu się uciec z Kaer Morhen, zaklinam cię na Moc, znajdź kurwiego syna i zabij. Pamiętaj tylko, by zabijać tak, by czuł, że umiera. <br><br>Znalazłem w strażnicy jego dziennik, a w starej wieży sygnałowej jakieś magiczne ustrojstwo wyzwalające pole teleportacyjne. Ten portal miał mu pewnie posłużyć do ucieczki.<br><br>Gdy zagrał róg alarmowy, od razu wiedziałem, co się dzieje. To on sprowadził na nas tę bandę hołoty z pochodniami i widłami. Z murów bastionu widzę jak płonie strażnica! Krew wszystkich wiedźminów niech spadnie na przeklętego Hieronymusa!
+   1093656|1b2e2bfa||[list jest napisany rozstrzęsioną ręką]<br><br>	Droga Lisbeth!<br><br>Piszę do ciebie w wielkim pośpiechu - płonie już bastion i strażnica! Zaatakowali za wcześnie! Muszę spróbować ewakuować się przy pomocy niedokończonego teleportu. <br><br>Jak tylko odbierzesz pustułkę z listem, natychmiast skontaktuj się z Leticią Charbonneau. Tylko ona będzie mogła zlokalizować miejsce, w którym wyrzuci mnie portal.<br><br>Jeśli nie będzie chciała ci pomóc, powiedz jej o mutagenach, które wykradłem z wiedźmińskiego laboratorium - te grzyby i trawy to skarb, który pozwoli jej wznowić badania nad czarną ospą i tężcem - za taką cenę na pewno zgodzi się pomóc renegatowi ściganemu przez Kapitułę.<br><br>Do zobaczenia!
+   1093657|203d5553||List
+   1095340|0fb9fb48||Teigr
+   1083490|888281ec||Ustawienia sterowania
+   1083785|00000000||Opcje dialogowe – wybór czasowy
+   1087548|00000000||Możesz przygotować jedzenie tak, aby móc go użyć z menu szybkiego dostępu. Aby to zrobić, kliknij dwukrotnie czymś do jedzenia lub przeciągnij to myszką na wybrane miejsce.
+   1087544|00000000||Wybierz coś do <font color="#CD7D03">jedzenia</font> i kliknij na przedmiocie.
+   1087797|75d7c2ed||Nowa Gra Plus
+   1089432|f84c6a16||HBAO+
+   1085700|6d1ad38f||Zwracaj uwagę na poziom paniki wierzchowca. Spanikowany koń zrzuci cię z grzbietu. Wierzchowca możesz uspokoić Znakiem Aksji.
+   1086199|00000000||Wiedźmini, z racji wykonywanego zawodu, ciągle są w drodze. Niestrudzenie przemierzają rozległe doliny, wspinają się na górskie szczyty, pokonują przełęcze i bagniste, rzeczne rozlewiska.<br><br>W swoich podróżach Geralt zawsze może liczyć na pomoc <font color="#CD7D03">Płotki - swego wierzchowca</font>. <font color="#CD7D03">Płotka</font> ma przy siodle juki, do których Geralt może wkładać różne przedmioty.<br><br>By przywołać <font color="#CD7D03">Płotkę</font>, wciśnij <<SpawnHorse>>
+   1086243|00000000||Większe dystanse i niektóre przeszkody – takie, jak tę – można pokonać tylko konno.<br><br>Aby przywołać swojego konia, wciśnij <<SpawnHorse>>
+   1086323|00000000||Aby wykonać atak specjalny, musisz aktywować odpowienią umiejętność. <br><br>Przytrzymaj <<SpecialAttackWithAlternateLight>> aby wykonać specjalny atak szybki lub <<PCAlternate>> oraz <<SpecialAttackWithAlternateLight_mod>> aby wykonać specjalny atak silny.
+   1086321|00000000||Aby wykonać atak specjalny, musisz aktywować odpowienią umiejętność. <br><br>Przytrzymaj <<SpecialAttackWithAlternateLight>> aby wykonać specjalny atak szybki lub <<PCAlternate>> oraz <<SpecialAttackWithAlternateLight_mod>> aby wykonać specjalny atak silny.
+   1086787|00000000||Nie ma nic za darmo! Aby wykonać przedmiot, musisz zapłacić rzemieślnikowi za usługę.<br><br>Gdy zdobędziesz wymaganą kwotę, wciśnij <<GUI_Select>> aby wykonać przedmiot.
+   1086785|00000000||Nie ma nic za darmo! Aby wykonać przedmiot, musisz zapłacić rzemieślnikowi za usługę.<br><br>Gdy zdobędziesz wymaganą kwotę, wciśnij <<GUI_PC_Select>> aby wykonać przedmiot.
+   1087246|00000000||Aby przewijać mapę, przytrzymaj<<IK_LeftMouse>>i poruszaj myszką.
+    319445|266c9271||Zadania
+    173866|0c6c6380||Wstecz
+   1047249|baa6fb37||Jesse
+   1035273|00000000||Poczekaj, aż przyleci wiwerna królewska.
+   1025961|00000000||Zlecenie: Licho przy studni
+    584737|00000000||Wróć do skryby z silną talią i tysiącem koron wpisowego.
+    584788|00000000||Wygraj z Saszą.
+    584785|00000000||Spotkaj się z Saszą na balkonie.
+    584908|00000000||Spotkaj się z Saszą przy magazynie.
+    557328|d1f0fb0d||Wiwerna
+    557329|cd6c18d4||Wiwerna królewska
+    592263|00000000||Używając wiedźmińskich zmysłów, odszukaj miejsce, w którym potwór wyszedł z wody.
+   1106107|0001a55c||Mapa
+   1104872|002e3b4e||[DEBUG] Bors
+   1104873|002fa20b||[DEBUG] Erec
+   1108420|003652cd||[DEBUG] Czas
+   1107643|013c333f||Stary but
+   1107644|013c3340||Dziurawy but
+   1103777|02280e89||Dni
+   1107615|02edec54||;
+   1107203|03c3341d||[DEBUG] Treść listu znaleziona przy bandytach
+   1102493|04b09b99||Stan gry jest niedostępny
+   1104731|059a685a||Pani Młoda
+   1104871|05ff445c||[DEBUG] Iwein
+   1108997|062184fb||Legendarne spodnie cechu kota
+   1108998|062184fc||Ulepszone legendarne spodnie cechu kota
+   1108999|062184fd||Wyśmienite legendarne spodnie cechu kota
+   1109000|062184fe||Mistrzowskie legendarne spodnie cechu kota
+   1104160|062fa66f||Meryn
+   1109215|067511f8||Legendarne buty cechu wilka
+   1104501|06854f67||Shani
+   1108909|06bfae50||Legendarna zbroja cechu gryfa
+   1097069|098eb62e||[DEBUG] Pojemnik z solą.
+   1108364|098ed2f4||Część ulepszeń do wyposażenia Szkoły Wilka ukryta jest na wyspach Skellige. Elgar pozostawił je w centralnej części Ard Skellig, oraz w ruinach dwóch strażnic: na Undvik i Spikeroog. Chciał, żeby dobrze posłużyły wiedźminowi, który ich może potrzebować i będzie na tyle sprytny, żeby je odnaleźć.
+   1108983|09960d9e||Ulepszona legendarna zbroja cechu kota
+   1108984|09960d9f||Wyśmienita legendarna zbroja cechu kota
+   1108985|09960da0||Mistrzowska legendarna zbroja cechu kota
+   1108938|09ac28cd||Legendarny stalowy miecz gryfa
+   1101188|0b8fdf52||Akcja
+   1106217|0bacee77||[DEBUG] Treść dokumentu bankowego.
+   1106090|0cced3b5||Wybór Znaku Aard
+   1106104|0ccf28fa||Wybór Znaku Aksji
+   1106098|0cd28cbc||Wybór Znaku Igni
+   1106097|0cd66330||Wybór Znaku Quen
+   1104039|0d4964f9||Nie możesz zacząć Nowej Gry Plus z powodu problemów z zapisanym stanem gry.
+   1106108|0d5c0a69||Menu gry
+   1109013|0daf2600||Schemat: Ulepszony legendarny srebrny miecz kota
+   1109016|0daf2601||Schemat: Wyśmienity legendarny srebrny miecz kota
+   1109017|0daf2602||Schemat: Mistrzowski legendarny srebrny miecz kota
+   1109333|0e7d9bf6||Schemat: Legendarny stalowy miecz żmii
+   1105868|0f2019a1||[DEBUG] [Debug] Test
+   1106081|0f285f10||Dobycie miecza stalowego
+   1104166|1125b070||[DEBUG] The Nilfgaardian ambassadorial party residing in Dun Tynne seeks the help of a Witcher to solve a troubling, local mystery. The fort suffers from tremors and peasants from the nearby villages are going missing without a trace.
+   1106128|115acdbf||Zbroja upiornego rycerza.
+   1106616|121562a0||Większy czerwony mutagen
+   1104038|1259b0a8||Nastąpił błąd w pobieraniu danych z zapisu gry.
+   1103780|128e270d||Sekundy
+   1101658|13f57580||Schemat: Wyśmienite spodnie wiedźmińskiego cechu wilka
+   1101661|13f57581||Schemat: Mistrzowskie spodnie wiedźmińskiego cechu wilka
+   1101640|1544ce91||Wyśmienite rękawice wiedźmińskiego cechu niedźwiedzia
+   1101641|1544ce92||Mistrzowskie rękawice wiedźmińskiego cechu niedźwiedzia
+   1110903|16f1acff||Liczba klatek na sekundę
+   1100402|17c47abc||[string do usunięcia]
+   1100404|1979535b||Rynsztunek Elgara jest świetny. Wiedziałem to od razu, gdy tylko znalazłem ekwipunek. Od razu mówiłem, że każdy nowy wiedźmin, jakiego tu wyszkolimy, powinien być wyposażony w taką broń, jeżeli w ogóle coś ma wyrosnąć z tej beznadziejnej bandy wydelikaconych chłopaczków.<br>Ile się musiałem naprosić szanownego maga rezydenta, żeby zechciał poświęcić swój cenny czas na badania!  Do rzyci taki rezydent. Dobrze chociaż, że Chird, jego pomocnik, zna się na metaurgii. Razem zabrali się wreszcie do roboty. <br>Receptura na miecz stalowy jest już gotowa, i o ile niczego nie napartaczyli, jutro zajmę się wykuciem pierwszej sztuki. Dziś po zakończeniu ćwiczeń pójdę do Chirda, do jego pracowni w Starej Strażnicy i sprawdzę, czy skończył recepturę na miecz srebrny, tak jak obiecywał. Pójdę też do wieży Hieronymusa, powinien mieć już gotową recepturę na pancerz.<br> Wydawało mi się przed chwilą, że słyszę z oddali dźwięk rogu sygnałowego. Chyba od okowity zaczynam mieć zwidy. Nikt przecież nie byłby na tyle szalony żeby zaatakować Wiedźmińskie Siedliszcze.
+   1108956|199db191||Schemat: Ulepszone legendarne rękawice cechu gryfa
+   1108957|199db192||Schemat: Wyśmienite legendarne rękawice cechu gryfa
+   1108961|199db193||Schemat: Mistrzowskie legendarne rękawice cechu gryfa
+   1108654|19d3d8f4||Legendarny stalowy miecz niedźwiedzia
+   1108976|1a61e156||Schemat: Ulepszona legendarna zbroja cechu niedźwiedzia
+   1108977|1a61e157||Schemat: Wyśmienita legendarna zbroja cechu niedźwiedzia
+   1108978|1a61e158||Schemat: Mistrzowska legendarna zbroja cechu niedźwiedzia
+   1109332|1a90875a||Schemat: Legendarny srebrny miecz żmii
+   1109331|1bd8308c||Legendarny srebrny miecz żmii
+   1103769|1c824479||[DEBUG] Abner de Navarette
+   1107613|1cd4b3ee||\
+   1109290|201b3596||Legendarny stalowy miecz wilka
+   1100401|203d5550||Dziennik maga Hieronymusa
+   1100403|203d5551||Dziennik Varina
+   1104837|2114eea2||Casimir
+   1100862|214f4620||[DEBUG] Alchemiczny reagent na toksyny korzenia Alrauny.
+   1107612|22fc3489||]
+   1109216|23527c31||Schemat: Ulepszone legendarne buty cechu wilka
+   1109217|23527c32||Schemat: Wyśmienite legendarne buty cechu wilka
+   1109218|23527c33||Schemat: Mistrzowskie legendarne buty cechu wilka
+   1103781|23c93ed5||Nie udało się zaimportować stanu gry z Wiedźmina 2.
+   1108982|24c58cec||Legendarna zbroja cechu kota
+   1107611|254901a4||[
+   1106618|27743163||Większy niebieski mutagen
+   1105972|27c88511||Ofirski mag
+   1110954|27e189c3||Sprzętowy kursor
+   1104884|28d5b1ee||Przetoczenie się
+   1109443|29ff58a9||Pełny ekran
+   1108632|2a7f26a2||Legendarne rękawice cechu niedźwiedzia
+   1108633|2a7f26a3||Ulepszone legendarne rękawice cechu niedźwiedzia
+   1108634|2a7f26a4||Wyśmienite legendarne rękawice cechu niedźwiedzia
+   1108635|2a7f26a5||Mistrzowskie legendarne rękawice cechu niedźwiedzia
+   1106620|2c438080||Wydarta stronica: Zielony mutagen
+   1106079|2e453c85||Do użytku 1
+   1106080|2e453c86||Do użytku 2
+   1102056|305248c6||Prawy przycisk myszy
+   1109294|30766281||Schemat: Legendarny stalowy miecz wilka
+   1101664|317d8e12||Schemat: Wyśmienite rękawice wiedźmińskiego cechu wilka
+   1101674|317d8e13||Schemat: Mistrzowskie rękawice wiedźmińskiego cechu wilka
+   1104728|31fde202||Pan Młody
+   1104165|32365f1c||[DEBUG] Contract: Tectonic Terror
+   1107205|32394436||Wędrowny Cyrk "Spadające Gwiazdy" Zaprasza!<br>***Eveline Gallo, Kobieta Guma*** ***Nieustraszony Meryn*** ***Vann Sokole Oko***
+   1100688|331dbc92||[DEBUG] Malarz
+   1109273|3471f436||Legendarne spodnie cechu wilka
+   1109274|3471f437||Ulepszone legendarne spodnie cechu wilka
+   1109275|3471f438||Wyśmienite legendarne spodnie cechu wilka
+   1109276|3471f439||Mistrzowskie legendarne spodnie cechu wilka
+   1107650|34f56ad3||0
+   1107625|34f56ad4||1
+   1107626|34f56ad5||2
+   1107627|34f56ad6||3
+   1107628|34f56ad7||4
+   1107629|34f56ad8||5
+   1107630|34f56ad9||6
+   1107647|34f56ada||7
+   1107648|34f56adb||8
+   1107649|34f56adc||9
+   1107677|34f56b04||A
+   1107707|34f56b05||B
+   1107705|34f56b06||C
+   1107681|34f56b07||D
+   1107658|34f56b08||E
+   1107682|34f56b09||F
+   1107683|34f56b0a||G
+   1107684|34f56b0b||H
+   1107663|34f56b0c||I
+   1107692|34f56b0d||J
+   1107698|34f56b0e||K
+   1107699|34f56b0f||L
+   1107714|34f56b10||M
+   1107708|34f56b11||N
+   1107675|34f56b12||O
+   1107676|34f56b13||P
+   1107654|34f56b14||Q
+   1107659|34f56b15||R
+   1107678|34f56b16||S
+   1107660|34f56b17||T
+   1107662|34f56b18||U
+   1107706|34f56b19||V
+   1107655|34f56b1a||W
+   1107704|34f56b1b||X
+   1107661|34f56b1c||Y
+   1107700|34f56b1d||Z
+   1108645|34f98940||Legendarny srebrny miecz cechu niedźwiedzia
+   1108953|35261564||Schemat: Ulepszone legendarne buty cechu gryfa
+   1108954|35261565||Schemat: Wyśmienite legendarne buty cechu gryfa
+   1108955|35261566||Schemat: Mistrzowskie legendarne buty cechu gryfa
+   1101189|35c5e315||Klawisz lub przycisk
+   1108637|35fdbf98||Legendarne spodnie cechu niedźwiedzia
+   1108638|35fdbf99||Ulepszone legendarne spodnie cechu niedźwiedzia
+   1108639|35fdbf9a||Wyśmienite legendarne spodnie cechu niedźwiedzia
+   1108640|35fdbf9b||Mistrzowskie legendarne spodnie cechu niedźwiedzia
+   1102474|36d4ebd0||[DEBUG] Hilbert
+   1104878|37191414||[DEBUG] Palamedes
+   1107506|37ccab34||Przywrócono ustawienia domyślne.
+   1109243|37e67cd9||Ulepszona legendarna zbroja cechu wilka
+   1109244|37e67cda||Wyśmienita legendarna zbroja cechu wilka
+   1109245|37e67cdb||Mistrzowska legendarna zbroja cechu wilka
+   1108623|3972483b||Ulepszona legendarna zbroja cechu niedźwiedzia
+   1108624|3972483c||Wyśmienita legendarna zbroja cechu niedźwiedzia
+   1108625|3972483d||Mistrzowska legendarna zbroja cechu niedźwiedzia
+   1108987|397c37a0||Legendarne buty cechu kota
+   1108988|397c37a1||Ulepszone legendarne buty cechu kota
+   1108989|397c37a2||Wyśmienite legendarne buty cechu kota
+   1108990|397c37a3||Mistrzowskie legendarne buty cechu kota
+   1100860|3a9a7dbc||[DEBUG] Baza alchemiczna od Coco.
+   1101598|3f40ab70||Wyśmienite spodnie wiedźmińskiego cechu kota
+   1101599|3f40ab71||Mistrzowskie spodnie wiedźmińskiego cechu kota
+   1108930|402b3487||Legendarny srebrny miecz gryfa
+   1101617|413876b0||Wyśmienite rękawice wiedźmińskiego cechu gryfa
+   1101618|413876b1||Mistrzowskie rękawice wiedźmińskiego cechu gryfa
+   1100303|41c5eab9||[DEBUG] Mannes Smol
+   1103778|43186f1d||Godziny
+   1110908|447d8081||30
+   1110909|447d80de||60
+   1108537|447db501||[DEBUG] Sharley Matriarch Lure Recipe
+   1109282|4677abc9||Schemat: Legendarny srebrny miecz wilka
+   1106367|46c53be2||Zasięg widoczności roślinności
+   1107610|46cb42fc||=
+   1107461|471de117||Przywróć do ustawień domyślnych
+   1109002|483cad62||Legendarna kusza cechu kota
+   1109277|4975ba52||Schemat: Legendarne spodnie cechu wilka
+   1101602|4999b58e||Wyśmienite rękawice wiedźmińskiego cechu kota
+   1101603|4999b58f||Mistrzowskie rękawice wiedźmińskiego cechu kota
+   1109254|4a42c120||Notatki Hieronymusa
+   1108642|4b36faff||Legendarna kusza cechu niedźwiedzia
+   1109227|4baf48cc||Schemat: Ulepszone legendarne spodnie cechu wilka
+   1109228|4baf48cd||Schemat: Wyśmienite legendarne spodnie cechu wilka
+   1109229|4baf48ce||Schemat: Mistrzowskie legendarne spodnie cechu wilka
+   1108649|4cb18f0e||Schemat: Legendarny srebrny miecz niedźwiedzia
+   1103776|4ce23aeb||Schemat: Jedwab
+   1106130|4d8a723e||Elodie, żona drwala w Lisich Dołach, wzywa każdego, kto potrafi zdjąć klątwę, do swojego domu. Dom nie jest przeklęty, tylko mąż.
+   1109406|4e49a790||Wyświetlanie
+   1102491|4ec338ac||Całkiem wygodne buty z charakterystycznymi szponami na czubach.
+   1109021|4f13543f||Schemat: Legendarny stalowy miecz kota
+   1108939|4f45353f||Ulepszony legendarny stalowy miecz gryfa
+   1108940|4f453540||Wyśmienity legendarny stalowy miecz gryfa
+   1108941|4f453541||Mistrzowski legendarny stalowy miecz gryfa
+   1109409|4fc5c663||720x576
+   1108106|509924d1||[DEBUG] A silver locket with a picture of Andree Bourbeau and a man inside.
+   1107189|5116834f||Wymięty list
+   1106069|5141493d||Galop i cwał
+   1109242|514e8ee7||Legendarna zbroja cechu wilka
+   1108924|5218dd5f||Legendarne spodnie cechu gryfa
+   1108925|5218dd60||Ulepszone legendarne spodnie cechu gryfa
+   1108926|5218dd61||Wyśmienite legendarne spodnie cechu gryfa
+   1108927|5218dd62||Mistrzowskie legendarne spodnie cechu gryfa
+   1109045|530e8b7f||Schemat: Ulepszone legendarne rękawice cechu kota
+   1109046|530e8b80||Schemat: Wyśmienite legendarne rękawice cechu kota
+   1109047|530e8b81||Schemat: Mistrzowskie legendarne rękawice cechu kota
+   1101621|5371c7d2||Schemat: Wyśmienite buty wiedźmińskiego cechu gryfa
+   1101622|5371c7d3||Schemat: Mistrzowskie buty wiedźmińskiego cechu gryfa
+   1107619|54561bb2||Kółko przewijania myszy
+   1109224|54db7bf8||Schemat: Ulepszona legendarna zbroja cechu wilka
+   1109225|54db7bf9||Schemat: Wyśmienita legendarna zbroja cechu wilka
+   1109226|54db7bfa||Schemat: Mistrzowska legendarna zbroja cechu wilka
+   1108910|558d6602||Ulepszona legendarna zbroja cechu gryfa
+   1108911|558d6603||Wyśmienita legendarna zbroja cechu gryfa
+   1108912|558d6604||Mistrzowska legendarna zbroja cechu gryfa
+   1106641|5625d6ee||Gra została zaktualizowana. Wszystkie ustawienia użytkownika zostały zresetowane do ustawień domyślnych.
+   1108923|563c32d7||Schemat: Legendarne rękawice cechu gryfa
+   1106120|5700d7e9||Talia do gwinta
+   1104923|5711adb4||Przełączanie Znaków
+   1109003|57b770b0||Schemat: Legendarna kusza cechu kota
+   1107617|58e638fe||.
+   1104040|598f936d||Wybrany zapis gry jest nieodpowiedni. Proszę dokonać ponownego zapisu gry.
+   1105789|5a3c3311||Zestaw Temerskiego Rynsztunku
+   1106622|5a48d789||Wydarta stronica: Większy czerwony mutagen
+   1105790|5a4a4a92||Zestaw bród i fryzur
+   1106127|5a4d1805||Tajemnicza zbroja
+   1105791|5a586213||Nowe zadanie - "Zlecenie: Zaginieni górnicy"
+   1105792|5a667994||Alternatywny wygląd Yennefer
+   1105793|5a749115||Zestaw Nilfgaardzkiego Rynsztunku
+   1105794|5a82a896||Alternatywny wygląd Triss
+   1105795|5a90c017||Nowe zadanie - "Złoto głupców"
+   1105796|5a9ed798||"Bohaterowie z Ballad" - zestaw neutralnych kart do Gwinta
+   1105797|5aacef19||NOWA GRA PLUS
+   1100949|5b418bb8||[DEBUG] Auction House Clerk
+   1109246|5b74eff5||Schemat: Legendarna zbroja cechu wilka
+   1100295|5b7df208||[DEBUG] Auction House Guard
+   1109214|5ba47484||Legendarne spodnie cechu wilka
+   1105798|5be2f42f||Poszukiwania: Rynsztunek szkoły wilka
+   1108935|5bea0807||Schemat: Ulepszony legendarny srebrny miecz gryfa
+   1108936|5bea0808||Schemat: Wyśmienity legendarny srebrny miecz gryfa
+   1108937|5bea0809||Schemat: Mistrzowski legendarny srebrny miecz gryfa
+   1105799|5bf10bb0||Alternatywny wygląd Ciri
+   1105800|5bff2331||Nowe zadanie - "Zlecenie: Najgroźniejszy potwór na Skellige"
+   1105801|5c0d3ab2||Zestaw wybornych kusz
+   1105802|5c1b5233||Zestaw Skelligijskiego Rynsztunku
+   1105803|5c2969b4||Nowe zadanie - "Jak kot z wilkiem"
+   1105804|5c378135||Nowe animacje ciosów kończących
+   1108967|5d82e1ff||Schemat: Ulepszone legendarne spodnie cechu gryfa
+   1108968|5d82e200||Schemat: Wyśmienite legendarne spodnie cechu gryfa
+   1108969|5d82e201||Schemat: Mistrzowskie legendarne spodnie cechu gryfa
+   1108992|5ed40d9f||Legendarne rękawice cechu kota
+   1108993|5ed40da0||Ulepszone legendarne rękawice cechu kota
+   1108994|5ed40da1||Wyśmienite legendarne rękawice cechu kota
+   1108995|5ed40da2||Mistrzowskie legendarne rękawice cechu kota
+   1107614|601ce217||'
+   1104041|61f0d99d||Poziom doświadczenia Geralta jest zbyt niski lub gra nie została jeszcze ukończona.
+   1109257|6259f0ec||Dzięki pancerzowi Elgara opracowałem nowe stopy metali i udało mi się zwiększyć przewodnictwo magii drugiego kryształu. To może być przełom w pracach nad teleportem, który przyda się zwiadowcom. Skalibrowałem teleport próbnie na jaskinię u stóp wieży. Muszę tylko naładować kryształ energią słoneczną, więc umieściłem go na zewnętrznej ścianie wieży, od strony rusztowania. Odliczam godziny potrzebne do całkowitego naładowania kryształu. <br>Skończyłem prace nad recepturą, dzięki której będziemy mogli powielać pancerz i w ten sposób uzbroimy całą Szkołę Wilka. Wiedźmin Varin, nasz nauczyciel fechtunku puszy się, że to on znalazł ekwipunek Elgara, ale to przecież ja, rozumując logicznie i tylko w niewielkim stopniu posiłkując się magią, odkryłem komnatę, w której musiał mieszkać Elgar. Komnata była zamaskowana prymitywną iluzją, naprawdę wystarczyło wytężyć wzrok, żeby ją przeniknąć. Znalazłem zapiski, z których wynika, że Elgar dysponował ulepszeniami rynsztunku, i że poukrywał je na całym świecie, do użytku innych wiedźminów ze Szkoły Wilka.  Skończyłem sporządzanie mapy, na której zaznaczyłem wszystkie ulepszenia. Mapę i dalsze prace nad ulepszeniami przekazałem Chirdowi w Starej Strażnicy. Gdy skończy przygotowywać recepturę miecza srebrnego, ma wyruszyć, żeby zebrać wszystkie ulepszenia. Wiem, że receptura stalowego miecza jest już gotowa i Varin ma sporządzić kilka mieczy dla młodych wiedźminów. Być może nowe miecze choć trochę wyrównają szanse tych chłopców w regularnych masakrach, jakie Varin im urządza, nazywając to szkoleniem.<br> <br> Bogowie, zauważyłem właśnie ogień na horyzoncie. To chyba płonie Stara Strażnica! Słyszę tumult wokół wieży. Ścieżka w dół jest odcięta! Co się dzieje?!
+   1092944|63a4a2f5||Włosy północnicy
+   1104036|651a4149||Brak dostępnych zapisów gry dla Nowej Gry Plus.
+   1101090|653b3554||[DEBUG] Hrabina Mignole
+   1105806|667dad9a||Do załadowania zapisu potrzebna jest następująca dodatkowa zawartość
+   1109441|6782ecfd||Wyświetlanie w oknie
+   1109253|67cca6db||Legendarne buty cechu wilka
+   1109255|67cca6dc||Ulepszone legendarne buty cechu wilka
+   1109256|67cca6dd||Wyśmienite legendarne buty cechu wilka
+   1109260|67cca6de||Mistrzowskie legendarne buty cechu wilka
+   1108928|69196a7b||Schemat: Legendarne spodnie cechu gryfa
+   1105805|6937efd0||Do załadowania zapisu potrzebna jest następująca dodatkowa zawartość
+   1108627|6958723d||Legendarne buty cechu niedźwiedzia
+   1108628|6958723e||Ulepszone legendarne buty cechu niedźwiedzia
+   1108629|6958723f||Wyśmienite legendarne buty cechu niedźwiedzia
+   1108630|69587240||Mistrzowskie legendarne buty cechu niedźwiedzia
+   1107715|69b7f648||F1
+   1107716|69b7f649||F2
+   1107717|69b7f64a||F3
+   1107718|69b7f64b||F4
+   1107719|69b7f64c||F5
+   1107720|69b7f64d||F6
+   1107721|69b7f64e||F7
+   1107722|69b7f64f||F8
+   1107723|69b7f650||F9
+   1101609|6aa1726a||Schemat: Wyśmienite buty wiedźmińskiego cechu kota
+   1101610|6aa1726b||Schemat: Mistrzowskie buty wiedźmińskiego cechu kota
+   1099516|6ba9f2a1||Alkohole
+   1108370|6c1f0631||Dziennik Chirda, asystenta maga Hieronymusa
+   1108365|6c3b3533||Notatki Hieronymusa
+   1108367|6c494cb4||Notatka napisana drżącą ręką
+   1104875|6d0a53f7||[DEBUG] Agravane
+   1101648|6d911aab||Wyśmienite spodnie wiedźmińskiego cechu wilka
+   1101653|6d911aac||Mistrzowskie spodnie wiedźmińskiego cechu wilka
+   1108758|6e746588||[DEBUG] Sharley Matriarch
+   1101625|6f1ce60d||Wyśmienite spodnie wiedźmińskiego cechu niedźwiedzia
+   1101637|6f1ce60e||Mistrzowskie spodnie wiedźmińskiego cechu niedźwiedzia
+   1110153|6f66cda7||Plan B
+   1106216|708438b5||[DEBUG] Dokument bankowy.
+   1108996|70c05abb||Schemat: Legendarne rękawice cechu kota
+   1104106|710f8a92||Od teraz możesz grać w trybie Nowa Gra Plus. Zapisz stan gry, rozpocznij nową grę, następnie wybierz Nową Grę Plus, a potem wybierz zapisany stan gry, z którego chcesz przenieść postać. Nową Grę Plus można rozpocząć tylko na bazie zapisów wykonanych od tego momentu.
+   1101600|729b5e15||Wyśmienite buty wiedźmińskiego cechu kota
+   1101601|729b5e16||Mistrzowskie buty wiedźmińskiego cechu kota
+   1104042|7326ef5c||Podczas importowania zapisanego stanu gry wystąpił nieznany błąd.
+   1097363|74f3adf1||[DEBUG] Ogłoszenie o nagrodzie za rozwiązanie problemu na cmentarzu.
+   1108906|778670f4||Schemat: Ulepszony legendarny stalowy miecz niedźwiedzia
+   1108907|778670f5||Schemat: Wyśmienity legendarny stalowy miecz niedźwiedzia
+   1108908|778670f6||Schemat: Mistrzowski legendarny stalowy miecz niedźwiedzia
+   1108929|77dfe25b||Schemat: Legendarny stalowy miecz gryfa
+   1100294|7815eacb||[DEBUG] Dun Tynne Quartermaster
+   1081267|785213d1||Eliksir do Próby Traw.
+   1100278|78579eaa||[DEBUG] Nilfgaard Quartermaster
+   1101187|7a1c1281||Mapowanie klawiszy
+   1104919|7ab8ea05||Zablokowanie kamery
+   1108913|7b18a01e||Schemat: Legendarna zbroja cechu gryfa
+   1101619|7bce946d||Schemat: Wyśmienite spodnie wiedźmińskiego cechu gryfa
+   1101620|7bce946e||Schemat: Mistrzowskie spodnie wiedźmińskiego cechu gryfa
+   1109334|7c1d1828||Legendarny stalowy miecz żmii
+   1105909|7caba60c||[DEBUG] [DEBUG] A short poem describing compassion as a virtue in general and in particular how sometimes resigning something in favor of someone else can be a reward in itself.
+   1108963|7d7b0925||Schemat: Ulepszona legendarna zbroja cechu gryfa
+   1108964|7d7b0926||Schemat: Wyśmienita legendarna zbroja cechu gryfa
+   1108966|7d7b0927||Schemat: Mistrzowska legendarna zbroja cechu gryfa
+   1109258|7f28fc61||Notatka napisana drżącą ręką
+   1105971|7f849156||Człowiek Olgierda
+   1102439|8035c2a4||Czułość myszy w panelach interfejsu
+   1110910|8076ee3d||Nieograniczona
+   1108620|80b9cac9||Legendarna zbroja cechu niedźwiedzia
+   1109272|8169dde0||Schemat: Legendarne rękawice cechu wilka
+   1097364|82015ebb||Ogłoszenie przewodniczącego wspólnoty mieszkańców o nagrodzie za rozwiązanie problemu hałasów na cmentarzu. Informacje u przewodniczącego, Charles'a Lanzano.
+   1108643|84371e0d||Schemat: Legendarna kusza cechu niedźwiedzia
+   1108914|85739004||Legendarne buty cechu gryfa
+   1108915|85739005||Ulepszone legendarne buty cechu gryfa
+   1108916|85739006||Wyśmienite legendarne buty cechu gryfa
+   1108917|85739007||Mistrzowskie legendarne buty cechu gryfa
+   1109291|862433c8||Ulepszony legendarny stalowy miecz wilka
+   1109292|862433c9||Wyśmienity legendarny stalowy miecz wilka
+   1109293|862433ca||Mistrzowski legendarny stalowy miecz wilka
+   1100439|867ab9d9||Mapa Hieronymusa zachowana w dobrym stanie
+   1100441|867ab9da||Lekko naddarta mapa Hieronymusa
+   1104865|867ab9f9||Płócienna, mocno wyblakła mapa Hieronymusa
+   1104866|867aba18||Pergaminowa mapa Hieronymusa w idealnym stanie
+   1104851|8693663f||[DEBUG] Lady of the Lake
+   1109279|87310d10||Ulepszony legendarny srebrny miecz wilka
+   1109280|87310d11||Wyśmienity legendarny srebrny miecz wilka
+   1109281|87310d12||Mistrzowski legendarny srebrny miecz wilka
+   1109283|873be93b||Schemat: Ulepszony legendarny srebrny miecz wilka
+   1109284|873be93c||Schemat: Wyśmienity legendarny srebrny miecz wilka
+   1109289|873be93d||Schemat: Mistrzowski legendarny srebrny miecz wilka
+   1106106|8790195c||Panel ekwipunku
+   1108551|883a0a0b||[DEBUG] A trophy taken from the corpse of a Sharley Matriarch.
+   1108103|8cf8564b||[DEBUG] Silver Locket
+   1109440|8df0f78c||2560x1440
+   1106093|8e655d51||Wybór Znaku Yrden
+   1104914|8fb89d65||Włącz sprint
+   1109442|9040fcb3||Wyświetlanie w oknie bez ramek
+   1102492|907db547||Stan gry jest niedostępny
+   1109213|90c38de6||Legendarne rękawice cechu wilka
+   1108919|91c7c1bb||Legendarne rękawice cechu gryfa
+   1108920|91c7c1bc||Ulepszone legendarne rękawice cechu gryfa
+   1108921|91c7c1bd||Wyśmienite legendarne rękawice cechu gryfa
+   1108922|91c7c1be||Mistrzowskie legendarne rękawice cechu gryfa
+   1101604|92fe3f05||Schemat: Wyśmienite spodnie wiedźmińskiego cechu kota
+   1101608|92fe3f06||Schemat: Mistrzowskie spodnie wiedźmińskiego cechu kota
+   1109001|933eb617||Schemat: Legendarne spodnie cechu kota
+   1101611|938df52d||Schemat: Wyśmienite rękawice wiedźmińskiego cechu kota
+   1101612|938df52e||Schemat: Mistrzowskie rękawice wiedźmińskiego cechu kota
+   1106105|9397656e||Panel postaci
+   1109020|93c5e7b1||Legendarny stalowy miecz kota
+   1106218|94f2f0bb||[DEBUG] Dokument niezbędny do uzyskania dostępu do konta w banku.
+   1105867|950b665d||Zapisy wykonane w tej wersji gry będą niekompatybilne z wcześniejszymi wersjami gry.
+   1107225|961210ed||Hymke,<br><br>Skrzyknij chłopaków, jest robota. Trzeba zaprosić Hugo Hoffa na spacer po dnie Pontaru. Na dowód przynieś jego ucho, to z kolczykiem. <br><br>-Falk<br><br>PS Ponoć Hoffem interesuje się też Ewald. Więc lepiej uważaj.
+   1102051|9615a0a1||Lewy przycisk myszy
+   1108641|963903b4||Schemat: Legendarne spodnie cechu niedźwiedzia
+   1107616|96d093f8||,
+   1101644|97211fc7||Schemat: Wyśmienite buty wiedźmińskiego cechu niedźwiedzia
+   1101645|97211fc8||Schemat: Mistrzowskie buty wiedźmińskiego cechu niedźwiedzia
+   1107564|975ac993||-
+   1107618|97b082a0||/
+   1102490|97b582f2||Buty ze skóry nekkera
+   1107562|97bd647b||~
+   1102569|98ca5985||Całkowity czas gry
+   1100948|9c14a6db||[DEBUG] Reagent na toksynę korzenia alrauny.
+   1109231|9d7d4d3a||Liczebność postaci tła
+   1108358|9e0d83d3||Elgar ukrył ulepszenia do rynsztunku Szkoły Wilka, chcąc żeby posłużyły temu wiedźminowi z Kaer Morhen, który będzie ich potrzebował. Ze względów bezpieczeństwa postanowił użyć kryjówek w trzech różnych miejscach. Jedne z nich są w zatopionej pieczarze pod kasztelem, który wznosi się na wyspie w centralnym Velen. Inne - w jaskiniach na północ od Oxenfurtu, a kolejne w elfich ruinach na południu Velen.
+   1109407|9f80dab6||Rozdzielczość
+   1108360|9fc25c72||Ulepszenia do ekwipunku wiedźmina ze Szkoły Wilka zostały ukryte przez Elgara wokół Kaer Morhen. Część z nich w najgłębszej jaskinii, jaką odkrył w północnej części doliny Kaer Morhen. Część - w nieużywanej, zrujnowanej strażnicy, w tejże północnej części doliny. Zaś pozostałe umieścił wśród skał przy brzegu jeziora, również w dolinie Kaer Morhen.
+   1101654|a0ebcd50||Wyśmienite buty wiedźmińskiego cechu wilka
+   1101655|a0ebcd51||Mistrzowskie buty wiedźmińskiego cechu wilka
+   1101613|a2143e0e||Wyśmienite spodnie wiedźmińskiego cechu gryfa
+   1101614|a2143e0f||Mistrzowskie spodnie wiedźmińskiego cechu gryfa
+   1109042|a25b45b6||Schemat: Ulepszone legendarne buty cechu kota
+   1109043|a25b45b7||Schemat: Wyśmienite legendarne buty cechu kota
+   1109044|a25b45b8||Schemat: Mistrzowskie legendarne buty cechu kota
+   1101638|a27798b2||Wyśmienite buty wiedźmińskiego cechu niedźwiedzia
+   1101639|a27798b3||Mistrzowskie buty wiedźmińskiego cechu niedźwiedzia
+   1108986|a53debba||Schemat: Legendarna zbroja cechu kota
+   1100336|a686eaa2||[DEBUG] Mystery Man
+   1109261|a819f7f7||Schemat: Legendarne buty cechu wilka
+   1108626|a8383957||Schemat: Legendarna zbroja cechu niedźwiedzia
+   1105872|a8e42575||[DEBUG] [DEBUG] A short poem describing generosity as a virtue in general and in particular about how you should give in a meaningful way and with thought.
+   1101190|a981389a||Wciśnij klawisz lub przycisk przypisany do:
+   1106117|ab64af37||Dziennik zadań
+   1106129|ac97348e||Zdjęcie klątwy potrzebne od zaraz
+   1106617|acbde652||Większy zielony mutagen
+   1103296|acd2a8f1||[DEBUG] Yaromir
+   1108905|ad02cdc2||Schemat: Legendarny stalowy miecz niedźwiedzia
+   1104118|adf32fc8||Eveline
+   1104730|b0682205||Diaboł
+   1076985|b2a52dd0||Lekko zardzewiały klucz.
+   1106125|b30dc28c||Wstążka damy zaginionego rycerza
+   1104874|b54f6bc1||[DEBUG] Gareth
+   1108540|b5848ed1||[DEBUG] Sharley Matriarch Trophy
+   1105866|b654820b||Zapisy wykonane w tej wersji gry będą niekompatybilne z wcześniejszymi wersjami gry.
+   1108973|b68489c2||Schemat: Ulepszone legendarne rękawice cechu niedźwiedzia
+   1108974|b68489c3||Schemat: Wyśmienite legendarne rękawice cechu niedźwiedzia
+   1108975|b68489c4||Schemat: Mistrzowskie legendarne rękawice cechu niedźwiedzia
+   1109048|b6ebe313||Schemat: Ulepszona legendarna zbroja cechu kota
+   1109049|b6ebe314||Schemat: Wyśmienita legendarna zbroja cechu kota
+   1109050|b6ebe315||Schemat: Mistrzowska legendarna zbroja cechu kota
+   1107415|b7af1a38||Na pokładzie łodzi można żeglować po zbiornikach wodnych.
+   1109027|b9eacb23||Ulepszony legendarny stalowy miecz kota
+   1109028|b9eacb24||Wyśmienity legendarny stalowy miecz kota
+   1109029|b9eacb25||Mistrzowski legendarny stalowy miecz kota
+   1107221|ba7ecc09||Pismo znalezione przy ciele bandyty.
+   1101747|bcd5ee8d||[DEBUG] Knight
+   1101642|bf7dec62||Schemat: Wyśmienite spodnie wiedźmińskiego cechu niedźwiedzia
+   1101643|bf7dec63||Schemat: Mistrzowskie spodnie wiedźmińskiego cechu niedźwiedzia
+   1107906|bf886298||[DEBUG] Maiden
+   1108368|c23f81d8||Zaatakowała rozwścieczona tłuszcza. Tłum wdarł się do wieży. Odcięli mi drogę po drugi kryształ. Musiałem się ratować. Zdążyłem jeszcze chwycić schematy uzbrojenia Szkoły Wilka. Może dzięki nim będę wystarczająco cenny dla Varina, żeby zechciał mnie obronić, gdyby przyszło mi walczyć z chłopami. Skoczyłem. Portal nie zadziałał. Jak podejrzewałem, z jednym kryształem szansa była marna, ale i tak większa niż w przypadku walki z setką żądnych krwi chłopów. Chyba mam złamany kręgosłup i pękniętą wątrobę lub śledzionę. Nie mogę się ruszać.
+   1100251|c2ae3abc||[DEBUG] Andree Bourbeau
+   1106078|c3669d60||Zatrzymanie konia
+   1101623|c4c84cc5||Schemat: Wyśmienite rękawice wiedźmińskiego cechu gryfa
+   1101624|c4c84cc6||Schemat: Mistrzowskie rękawice wiedźmińskiego cechu gryfa
+   1108539|c4f6b48b||[DEBUG] Sharley Matriarch Lure
+   1103843|c5784d99||Medalion Szkoły Kota
+   1109212|c6c10041||Legendarny pancerz cechu wilka
+   1104043|c76954c9||Zapis nie może zostać wczytany ze względu na niekompletną zawartość gry.
+   1104540|c775c284||Quinto
+   1108918|c7bda820||Schemat: Legendarne buty cechu gryfa
+   1108538|c7c6cfc6||[DEBUG] A lure recipe designed to attract the attention of Sharley Matriarch's. The lure is a scent which closely matches that given off by Sharley's when their young are in distress.
+   1107642|c93b8542||Czapa połykacza ognia
+   1109051|cab81251||Schemat: Ulepszone legendarne spodnie cechu kota
+   1109052|cab81252||Schemat: Wyśmienite legendarne spodnie cechu kota
+   1109053|cab81253||Schemat: Mistrzowskie legendarne spodnie cechu kota
+   1109005|cc3d6115||Ulepszony legendarny srebrny miecz kota
+   1109006|cc3d6116||Wyśmienity legendarny srebrny miecz kota
+   1109011|cc3d6117||Mistrzowski legendarny srebrny miecz kota
+   1108636|cd0fc0be||Schemat: Legendarne rękawice cechu niedźwiedzia
+   1107724|cd46d2e8||F10
+   1107725|cd46d2e9||F11
+   1107726|cd46d2ea||F12
+   1108366|cdf610b9||Znalazłem dzisiaj coś, co ma szanse uratować Szkołę Wilka przed degrengoladą i rozsypką, w jaką wpędzają nas te żałosne chłystki, które przychodzi mi szkolić. Odkryłem kompletny pancerz i ekwipunek Elgara, wiedźmina, który zapoczątkował Szkołę Wilka. Cały sprzęt w doskonałym stanie przeleżał dziesiątki lat w zamurowanej kawernie w zbrojowni. Podmyte mury skruszały i Hieronymus stękał, że w dziurze lęgną się szczury wielkości kotów. Mówiłem, żeby się pofatygował do zbrojowni i sam załatwił sprawę piorunem kulistym, czy tam inną magiczną bombą, w końcu od czego jest czarownikiem? Ale on potrafi tylko bełkotać o etyce i moralności.<br>Dzięki temu to ja znalzłem pancerz i ekwipunek Elgara, legendarnego Wilka, w którego istnienie niejeden z nas już zwątpił! Jestem pewien, że możemy zrobić z tego uzbrojenia użytek.
+   1105869|ce22d91b||test test blood and wine
+   1108970|cedaf313||Schemat: Ulepszone legendarne buty cechu niedźwiedzia
+   1108971|cedaf314||Schemat: Wyśmienite legendarne buty cechu niedźwiedzia
+   1108972|cedaf315||Schemat: Mistrzowskie legendarne buty cechu niedźwiedzia
+   1101191|d03e0a6d||nie ma już przypisanego klawisza ani przycisku
+   1109408|d3c3ace8||Sposób wyświetlania gry
+   1109466|d4a3159b||[DEBUG] Elven Key Gems
+   1108362|d4a897b3||Elgar rozmieścił ulepszenia do wieźmińskiego ekwipunku według prawideł Szkoły Wilka w trzech różnych jaskiniach w południowej części Kaer Morhen. Chciał, aby posłużyły wiedźminowi, który zrobi z nich odpowiedni użytek.
+   1106082|d54bee68||Dobycie miecza srebrnego
+   1106619|d56ca54e||Wydarta stronica: Czerwony mutagen
+   1101615|d56ef0b3||Wyśmienite buty wiedźmińskiego cechu gryfa
+   1101616|d56ef0b4||Mistrzowskie buty wiedźmińskiego cechu gryfa
+   1104035|d65dcc27||Nowa Gra Plus
+   1108617|d65f831f||test
+   1104877|d7894a19||[DEBUG] Peredur
+   1109034|d78f4c31||Schemat: Ulepszony legendarny stalowy miecz kota
+   1109035|d78f4c32||Schemat: Wyśmienity legendarny stalowy miecz kota
+   1109041|d78f4c33||Schemat: Mistrzowski legendarny stalowy miecz kota
+   1062564|d7dd1caa||Zaginęli żołnierze – nagroda
+   1106621|d820db3d||Wydarta stronica: Niebieski mutagen
+   1100859|d9771de6||[DEBUG] Reagent na toksynę Alrauny
+   1106077|dacadae9||Zejście z konia
+   1100442|db0c3789||Zamoknięta i nadpleśniała mapa Hieronymusa
+   1100443|db0c378a||Powycierana i wyblakła mapa Hieronymusa
+   1107609|db981db5||Brak
+   1103779|dc99f96d||Minuty
+   1108646|dcbc44f2||Ulepszony legendarny srebrny miecz niedźwiedzia
+   1108647|dcbc44f3||Wyśmienity legendarny srebrny miecz niedźwiedzia
+   1108648|dcbc44f4||Mistrzowski legendarny srebrny miecz niedźwiedzia
+   1108934|dd770d95||Schemat: Legendarny srebrny miecz gryfa
+   1106126|ddb6c412||Wstążka znaleziona na szczątkach rycerza na Rysiej Skale.
+   1076984|dfefb296||Klucz do kryjówki katakana
+   1102057|e035d313||Środkowy przycisk myszy
+   1109249|e0764a9e||Dziennik Chirda
+   1106118|e0ae4a1e||Glosariusz
+   1108931|e2303a79||Ulepszony legendarny srebrny miecz gryfa
+   1108932|e2303a7a||Wyśmienity legendarny srebrny miecz gryfa
+   1108933|e2303a7b||Mistrzowski legendarny srebrny miecz gryfa
+   1107645|e291c953||Bucik Shani
+   1101656|e5572db3||Wyśmienite rękawice wiedźmińskiego cechu wilka
+   1101657|e5572db4||Mistrzowskie rękawice wiedźmińskiego cechu wilka
+   1108371|e5632e7b||Piszę w wielkim pośpiechu. Zabarykadowałem się w pracowni, bo Warownię zaatakował tłum chłopów uzbrojonych chyba we wszystko, czym da się wywijać. Byłem zajęty pracą nad recepturą genialnego srebrnego miecza wiedźmińskiego i nie zauważyłem, że nadciąga tłuszcza.  Mam nadzieję, że wiedźmin Varin przyjdzie po mnie i wyciągnie mnie stąd. <br>Varin ma ze sobą stalowy miecz, drugi z kompletu, na szczęście przekazałem mu recepturę parę dni temu. Jego uczniowie z Bastionu są razem z nim. Jestem pewny, że dadzą sobie radę z bandą kmieci z kosami na sztorc. Jednak boję się o mojego mistrza, od wielu dni nie wychodził z wieży, pracuje w natchnieniu nad schematem zbroi, mógł w ogóle nie zauważyć tego, co tu się dzieje.<br>Dlaczego nie skończyłem pracy wcześniej i zgodnie z poleceniem mojego mistrza nie pojechałem badać śladów Elgara, legendarnego wiedźmina Wilka? Gdybym to zrobił choćby wczoraj, byłbym już w bezpiecznej odległości od Kaer Morhen. Hieronymus dał mi mapę, na której zaznaczył miejsca, gdzie Elgar ukrył ulepszenia wiedźmińskiego rynsztunku.
+   1105895|e5d4bb6f||[DEBUG] [DEBUG] A short poem describing bravery as a virtue in general and in particular how bravery can be knowing when to fight, but also when not to fight.
+   1104920|e65bd07f||Modyfikacja rodzaju ataku
+   1108651|e68a0f40||Schemat: Ulepszony legendarny srebrny miecz niedźwiedzia
+   1108652|e68a0f41||Schemat: Wyśmienity legendarny srebrny miecz niedźwiedzia
+   1108653|e68a0f42||Schemat: Mistrzowski legendarny srebrny miecz niedźwiedzia
+   1107416|e72b5002||Ulepszona w tym miejscu zbroja przez pewien czas ma zwiększoną wartość pancerza.
+   1107462|e8384175||Przywróć wszystkie ustawienia do ustawień domyślnych
+   1107417|e88df9f3||W tym miejscu można skorzystać z usług prostytutki.
+   1106623|eadc0ffb||Wydarta stronica: Większy zielony mutagen
+   1101662|eb98a8e5||Schemat: Wyśmienite buty wiedźmińskiego cechu wilka
+   1101663|eb98a8e6||Schemat: Mistrzowskie buty wiedźmińskiego cechu wilka
+   1109295|ec67d1f3||Schemat: Ulepszony legendarny stalowy miecz wilka
+   1109296|ec67d1f4||Schemat: Wyśmienity legendarny stalowy miecz wilka
+   1109308|ec67d1f5||Schemat: Mistrzowski legendarny stalowy miecz wilka
+   1109012|ecb1d831||Schemat: Legendarny srebrny miecz kota
+   1106624|eecaf062||Wydarta stronica: Większy niebieski mutagen
+   1104729|ef3c998f||Połykacz Ognia
+   1099517|efb1f4c5||Odwary
+   1109219|f0fe2464||Schemat: Ulepszone legendarne rękawice cechu wilka
+   1109220|f0fe2465||Schemat: Wyśmienite legendarne rękawice cechu wilka
+   1109223|f0fe2466||Schemat: Mistrzowskie legendarne rękawice cechu wilka
+   1110452|f1838f72||Czy chcesz dokonać tych zmian?
+   1108991|f1e2f3bc||Schemat: Legendarne buty cechu kota
+   1106707|f3f5fddc||Zapis stanu gry nie może być załadowany, ponieważ został zrobiony na nowszej wersji gry.
+   1108655|f44177a6||Ulepszony legendarny stalowy miecz niedźwiedzia
+   1108656|f44177a7||Wyśmienity legendarny stalowy miecz niedźwiedzia
+   1108657|f44177a8||Mistrzowski legendarny stalowy miecz niedźwiedzia
+   1109467|f44e3767||[DEBUG] Digestive Herbs
+   1108631|f4dd4159||Schemat: Legendarne buty cechu niedźwiedzia
+   1104915|f50ceca4||ZEWNĘTRZNI PROJEKTANCI STRONY INTERNETOWEJ
+   1105975|f545e983||Ofirski żołnierz
+   1108361|f6371423||Dalsze ulepszenia do wyposażenia wiedźmina ze Szkoły Wilka Elgar rozlokował w różnych rejonach na Wyspach Skellige. Pozostawił je częściowo w drewnianym forcie na południu Ard Skellig, częściowo zaś w ruinach na zachodzie wyspy Hindersfjall. Jeszcze jedna część ukryta jest w kurhanach na zachodzie Ard Skellig.
+   1101646|f703f370||Schemat: Wyśmienite rękawice wiedźmińskiego cechu niedźwiedzia
+   1101647|f703f371||Schemat: Mistrzowskie rękawice wiedźmińskiego cechu niedźwiedzia
+   1108979|f737bfae||Schemat: Ulepszone legendarne spodnie cechu niedźwiedzia
+   1108980|f737bfaf||Schemat: Wyśmienite legendarne spodnie cechu niedźwiedzia
+   1108981|f737bfb0||Schemat: Mistrzowskie legendarne spodnie cechu niedźwiedzia
+   1109278|f79dc0de||Legendarny srebrny miecz wilka
+   1108363|f7ebecc2||Elgar schował ulepszenia wyposażenia z wiedźmińskiej Szkoły Wilka w różnych stronach świata, żeby mogli z nich korzystać wiedźmini na szlaku. Niektóre z nich zostawił w elfickich ruinach i w zatopionym wraku statku na południu Velen. Inne - w specjalnej kryjówce daleko na południe od Oxenfurtu.
+   1110453|f8d17716||Aby zobaczyć efekt zmian, musisz ponownie uruchomić grę.
+   1109004|f9495223||Legendarny srebrny miecz kota
+   1109268|fa9185c4||Legendarne rękawice cechu wilka
+   1109269|fa9185c5||Ulepszone legendarne rękawice cechu wilka
+   1109270|fa9185c6||Wyśmienite legendarne rękawice cechu wilka
+   1109271|fa9185c7||Mistrzowskie legendarne rękawice cechu wilka
+   1110797|fb2cd197||MŁODSZY PRACOWNIK DZIAŁU OBSŁUGI KLIENTA
+   1104876|fb7146be||[DEBUG] Gereint
+   1100128|fc14eac1||Sortowanie przedmiotów
+   1108942|ff70c34d||Schemat: Ulepszony legendarny stalowy miecz gryfa
+   1108943|ff70c34e||Schemat: Wyśmienity legendarny stalowy miecz gryfa
+   1108944|ff70c34f||Schemat: Mistrzowski legendarny stalowy miecz gryfa
+   1104918|ffe663a0||Włącz chodzenie/bieganie
+   1063114|00000000||Chciałeś mi coś powiedzieć?
+    549274|00000000||Noś go. Proszę.
+    549894|00000000||Dobrze. Jak wrócę z wieży, Geralt... Jeśli wrócę.
+    549888|00000000||Wiem, przepraszam. Powinnam była powiedzieć... Ale bałam się, że nie zrozumiesz.
+    553783|00000000||Czemu?
+    557162|00000000||Idźcie do tego laboratorium, a ja rozejrzę się na Ard Skellig. Dołączysz do mnie później.
+   1071742|00000000||Trupy przyciągają ghule...
+   1091496|00000000||Wiwerna
+    419854|00000000||Niee...  Ale sprawiedliwiej będzie, jeśli my samotrzeć na ciebie uderzym.
+    422612|00000000||Tak! Boś jest nikczemnik i ześ mnie podle oszukał! Nie mówiłeś, że jesteś wiedźminem!
+    422665|00000000||Będziesz musiał! Albo cię zasieczem... honorowo, bez litości!
+    480247|00000000||Zwiedzam sobie miasto. Ciekawi mnie, co jest za tą bramą.
+   1001239|00000000||Chyba dałoby się tędy wejść. Muszę to pokazać Saszy.
+   1039438|00000000||A ty, wiedźminie, masz mi się tutaj nie kręcić. Zrozumiano?
+   1039436|00000000||Jeżeli jeszcze raz przyłapię was na wyciąganiu pieniędzy, to traficie na front i to na wschodni.
+   1036724|00000000||A poza tym... On już nie trzyma z dawnymi kamratami. Na mieście mówią, że się zmienił. Tak słyszałam.
+   1036756|00000000||Zerwał wszystkie stare znajomości, przestał zajmować się drobnymi zabójstwami. Zaszył się w jakiejś mysiej dziurze... Jak go znam, to teraz pewnie szykuje coś dużego.
+    579966|00000000||Na pewno lepiej na tym wyjdę niż ty na rozmowach z Saszą. Na twoim miejscu bym na nią uważał.
+    590835|00000000||Nie, ma inną nazwę... Trochę nieprzyzwoitą. Nachyl się, to ci szepnę do ucha.
+   1071179|00000000||Jeśli coś jej się stało na Ard Skellig, tuż pod moim nosem, nigdy sobie tego nie wybaczę.
+   1075132|00000000||Nacierają na plac przy głównej bramie!
+   1063029|00000000||Następnym razem daj mi w łeb, zanim zdenerwuję Merigold.
+    536057|00000000||Tak mówią... Pomyślałem więc: dlaczego by nie spróbować?

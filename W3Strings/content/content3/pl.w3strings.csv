@@ -1,0 +1,418 @@
+;meta[language=pl]
+; id      |key(hex)|key(str)| text
+    569503|00000000||Wiedźmin! Jeszcze tego brakowało.
+    569499|00000000||Powiedziano mi, że zostanę przyjęty z samego rana – a jest południe!
+    569502|00000000||Spokój.
+    569915|00000000||Słu... Słucham?! Wiesz, z kim masz do czynienia, żołnierzu?! Jestem Hereward II, książę Ellander!
+    569917|00000000||Nie dość, że każe mi się tu stać jak jakiemuś petentowi, to jeszcze w czyim towarzystwie? Grabarza!
+    569919|00000000||Garbarza. Mistrza cechu garbarskiego.
+    569921|00000000||Jakby mi to robiło różnicę! Domagam się...
+    569923|00000000||Spokój.
+    569925|00000000||Cesarz pracuje w ciszy – a tych, którzy ją zakłócą, każe surowo. Niezależnie od urodzenia.
+    569487|00000000||Waszmość pozwoli za mną.
+    569488|00000000||Proszę trzymać się blisko. W pałacu jest wielu dostojnych gości, których waszmość...
+    569489|00000000||...brzydzi.
+    569961|00000000||...nie powinien niepokoić.
+    570594|00000000||Gdy waszmość skończy, proszę do mnie przyjść po swoje rzeczy.
+    570583|00000000||Nie śpieszno waszmości do czarodziejki?
+    570581|00000000||A prosiłem...
+   1044413|00000000||Waszmość będzie miał czas na spacery później. Proszę do mnie.
+    570571|00000000||Czy waszmość nie zrozumiał? Czy nie dość wyraźnie podkreślałem, że cesarzowi należy się skłonić?
+    570573|00000000||Spokojnie. Nic się nie stało.
+    570575|00000000||Waszmości nic, prawda. Ale mnie czeka kara.
+    570577|00000000||Jaka kara?
+    570579|00000000||Niech waszmość trzyma się blisko i nikogo nie zaczepia. Dość łamania etykiety na jeden dzień.
+   1048792|00000000||Radowid wziął ich z zaskoczenia, a że morale Kaedweńczyków i tak było niskie po śmierci ich króla, starczyło kilka przegranych potyczek, by złożyli broń – i przeszli na stronę Redanii.
+   1048383|00000000||A co z Kovirem?
+   1048389|00000000||A co z Kovirem?
+   1048391|00000000||Kovir ceni swoją neutralność. Na tyle, by nie użyczać swoich wojsk ani, co ważniejsze, pieniędzy, żadnej ze stron.
+   1048393|00000000||Wracając do wojny... Na wiosnę doszło do wielkiej bitwy na błoniach Velen. Wielkiej, ale i nierozstrzygniętej. Straty po obu stronach były ogromne. Bezprecedensowe wręcz.
+   1048396|00000000||Radowid wycofał się za Pontar. Póki co jest tam bezpieczny... Do czasu, aż z południa przybędą posiłki. Wtedy cesarz Emhyr var Emreis rozprawi się z nim ostatecznie.
+   1048398|00000000||A nie moglibyście po prostu wrócić do siebie? Oszczędzilibyście wszystkim zachodu. I sporo ludzkich istnień.
+   1048400|00000000||Obawiam się, że stawka jest za wysoka, żeby złożyć karty. Można grać już tylko va banque.
+   1048385|00000000||Czyżbym słyszał w twoim głosie podziw?
+   1048387|00000000||Radowid to wróg... Ale nie odmówię mu sprytu. Okpił nas jak dzieci. I to niezbyt bystre.
+   1048375|00000000||Czyżbym słyszał podziw?
+   1048819|00000000||I tak na wiosnę zamiast dwóch słabych wrogów mieliśmy już tylko jednego... Za to potężnego.
+   1048790|00000000||Radowid wziął ich z całkowitego zaskoczenia. Król Henselt jak zwykle walczył w pierwszym szeregu... I tam zginął. Jego żołnierze stracili chęć do walki. Przeszli na stronę Redanii.
+   1048684|00000000||Jak przebiega wojna? Poza tym, że niechybnie doprowadzi do triumfu Nilfgaardu?
+   1048687|00000000||Rozmawiamy w cztery oczy. Bez świadków. Więc dajmy spokój z propagandą, choćby podszytą ironią.
+   1048690|00000000||Ofensywa szła świetnie – aż do zimy. Rozbiliśmy temerskie wojska w puch. W Aedirn był taki chaos, że nikt nie stawiał nam nawet oporu. Przed pierwszymi śniegami dotarliśmy na linię Pontaru.
+   1048692|00000000||Zostało osłabione Kaedwen... I Redania Radowida, który ignorował błagania reszty Północy o pomoc. Myśleliśmy, że poprosi o pokój, może nawet złoży hołd lenny. Czekaliśmy roztopów pewni zwycięstwa.
+   1048695|00000000||Radowid? Złoży hołd?
+   1048697|00000000||Tak. To były płonne nadzieje. Bo Radowid zamiast słać posłów albo przesunąć wojska w naszą stronę, przebił się przez zaśnieżone Góry Pustulskie... I zaatakował Kaedwen. Swego sojusznika.
+   1048342|00000000||Jak przebiega wojna?
+   1041275|00000000||Jakie wieści z Novigradu? Wolne miasto wciąż jest wolne?
+   1048488|00000000||Tak. Chociaż wszyscy wiedzą, że to długo nie potrwa. W Oxenfurcie siedzi Radowid a cesarz tu, w Wyzimie. Za blisko. Obaj potrzebują pieniędzy i większej floty... A Novigrad może dać jedno i drugie.
+   1048490|00000000||Dlatego atmosfera w mieście jest dość... nerwowa.
+   1048492|00000000||To znaczy?
+   1048494|00000000||Jak ludzie radzą sobie ze strachem? Szukają pocieszenia... I kozłów ofiarnych. Kościół Wiecznego Ognia doskonale to rozumie. Dlatego obiecuje wiernym poprawę losu i wskazuje palcem winnych.
+   1048496|00000000||Kto wywołał wojnę? Kto na niej zarobi? Wiadomo. Czarodzieje. Elfy. Krasnoludy. Słowem, odmieńcy.
+   1048498|00000000||Jestem na placówce w Novigradzie od trzynastu lat. Wpierw jako konsul, potem ambasador. Wiele widziałem. Okrucieństwo, cynizm, chciwość. Ale to, co tam się teraz dzieje, przyprawia o dreszcze.
+   1041259|00000000||Jakie wieści z Novigradu?
+   1041283|00000000||A co nowego na Skellige?
+   1048519|00000000||Nic. To jest właśnie duma wyspiarzy, prawda? Robić wszystko wedle tradycji. Jak pradziadowie.
+   1048521|00000000||A zatem tak jak pradziadowie żrą się między sobą. Kradną. Czasem napadają na nasze transporty. To uciążliwe... Ale nic więcej. Skellige zawsze było na marginesie historii. I wciąż tam tkwi.
+   1048523|00000000||Bardzo jesteś pewien swego. A co, jeśli królowi Branowi uda się pogodzić jarlów? I poprowadzi ich przeciw waszej flocie?
+   1048525|00000000||Król Bran jest zniedołężniałym starcem. Z tego, co słyszę, nie pamięta już nawet imion swoich wasali... Więc z tym jednoczeniem może być ciężko.
+   1041260|00000000||Co nowego na Skellige?
+   1041293|00000000||Dzięki za pomoc.
+   1048344|00000000||Nie ma za co. Niechaj Wielkie Słońce oświeca ci drogę.
+   1041261|00000000||Dzięki za pomoc.
+   1041258|00000000||Jak wygląda sytuacja w Velen?
+   1041263|00000000||Jak wygląda sytuacja w Velen?
+   1041269|00000000||Źle. Jak zawsze... Albo nawet gorzej.
+   1041271|00000000||To nigdy nie była kraina mlekiem i miodem płynąca... A teraz jeszcze spłynęła krwią. Wojska przeszły tamtędy kilka razy. Zadeptały pola, złupiły spichrze, spaliły wsie. Ludzie głodują.
+   1048476|00000000||Mhm. I jak wam idzie zarządzanie tym rajem na ziemi?
+   1048481|00000000||Nie najlepiej, szczerze mówiąc. Nasze siły i tak są rozciągnięte, a Velen to głównie moczary, gęste lasy. Ciężko kontrolować taki teren. Zdarzało się, że patrole nie wracały do garnizonu.
+   1048483|00000000||Dlatego tymczasowo władzę w naszym imieniu sprawuje tam pewien Nordling. Niegdyś niższej rangi oficer temerskiej armii, Filip Stenger... Znany lepiej pod swym nom de guerre Krwawy Baron.
+   1048485|00000000||Unikaj go. Dobrze ci radzę.
+   1041253|00000000||Ambasador var Attre?
+   1048334|00000000||Yennefer mówiła, że mogę cię wypytać o bieżące sprawy. Wojnę i tak dalej.
+   1048336|00000000||Oczywiście. Jeden sługa cesarza nie ma tajemnic przed drugim. Pozwól... Podejdźmy do mapy.
+   1041257|00000000||Tak, Geralt? Coś jeszcze?
+   1041255|00000000||Zgadza się. A ty musisz być Geralt. Wiedźmin zwany Białym Wilkiem... Bądź Rzeźnikiem z Blaviken.
+   1048332|00000000||Wystarczy Geralt, naprawdę.
+   1077546|0aa7b54a||Strażnik
+   1048536|00000000||Naostrzyłeś już to pióro? Tak? To zapisuj.
+   1048538|00000000||Prawdziwą władzę w Novigradzie sprawują nie rajcy ani kupcy, tylko Kościół Wiecznego Ognia i przestępcy.
+   1048546|00000000||Czasem jednych trudno odróżnić od drugich. Cechują się podobną bezwzględnością i cynizmem, a...
+   1048548|00000000||Proszę zaczekać, wasza wielmożność... Nie nadążam.
+   1048550|00000000||Wiesz co, sam sporządzę ten raport. Potem go tylko przepiszesz na czysto. W trzech kopiach.
+    420952|7643aa11||Służąca
+    569516|00000000||Waszmość wybaczy. Jesteśmy zajęci.
+    569512|00000000||{Ess’va dearf?} [Jesteś pewien?]
+    570796|00000000||{Evelienn. Katte áth, tve gláeddyven. Essa vatt’ghern.} [Całkowicie. Kocie oczy, dwa miecze... To był wiedźmin.]
+    569513|00000000||{Esse ma a strigean aep Foltest aen carnnan.} [Może w katakumbach zostały jakieś strzygi po królu Folteście.]
+    569515|00000000||{Caen vyos? Ae’vyos que’ess imbael. Essa ssant. Ess’va Nordling.} [Może. Kto wie, ile ich napłodził... Ponoć był wyjątkowo chutliwy. Jak to Nordling.]
+    570811|00000000||{Allaidh.} [Dzikusy.]
+   1050605|00000000||{Esse clytie... Hyn vrae breinne gardd?} [Te grządki... To ma być królewski ogród?]
+   1050607|00000000||{En celfyd daen garddvrae esse plenten aep Nord, marche.} [Sztuka ogrodnictwa na Północy jest jeszcze w powijakach, pani.]
+   1050634|00000000||{En celfyd daen sychiad hefyd, cassve caen gvelede tu meve.} [Sztuka sprzątania też, sądząc po tym, co widziałam w środku.]
+   1050609|00000000||{Ymherodr caisse hvandre slafie aep caer’den duges Vicovaro. Glaenne esse plasse.} [Cesarz ściągnie setkę niewolników z dworu diuszesy Vicovaro. Doprowadzą ten pałac do porządku.]
+   1050611|00000000||{Hvandr gallu esse nac’gvasse...} [Stu może nie wystarczyć...]
+   1050636|00000000||Towarzystwo waszmości nie jest tu potrzebne.
+   1055186|3a515643||Nilfgaardzka arystokratka
+    571107|00000000||Jak mogę waszmości służyć?
+    571108|00000000||Oddając moje rzeczy.
+    571110|00000000||Cytrusy i goździk. Dzięki tym perfumom szaty waszmości dłużej zachowają świeżość.
+    571468|00000000||Mhm. Pięknie dziękuję.
+   1047735|00000000||Cesarz nie słynie z cierpliwości. Chce zobaczyć swoją córkę całą i zdrową. Jak najszybciej.
+   1047737|00000000||Tak... Wspomniał coś o tym, zdaje się. Bywaj.
+    571470|00000000||Niechaj Wielkie Słońce zawsze wam przyświeca.
+   1069326|e0351e50||Skrzynia ze skarbem
+   1001508|00000000||Skończyliśmy rozmawiać.
+   1001510|00000000||Wydałem ci jasne rozkazy.
+   1001506|00000000||Gdy będę chciał z tobą rozmawiać, zawezwę cię.
+   1028795|00000000||Chcę grać w karty.
+   1086498|00000000||Pograjmy w gwinta.
+    492362|00000000||Żegnaj.
+    492353|00000000||Bywaj.
+    492349|00000000||Hm?
+   1054906|cd8f7b8e||Ambasador var Attre
+   1043973|00000000||Niech będzie.
+   1044089|00000000||Niech będzie... A co później? Zrobicie mi paznokcie?
+   1044091|00000000||Jeśli czas pozwoli. Proszę wybaczyć, ale lista zabiegów pielęgnacyjnych, którym waszmość należałoby poddać, jest długa, a dzień krótki.
+   1041386|00000000||Darowałem mu życie. Uciekł.
+   1041398|00000000||Walczyliśmy po różnych stronach, prawda... Ale spotkaliśmy się w tych samych lochach. Arjan uciekł. Przy okazji podpalając zamek.
+   1041400|00000000||Ach, to tłumaczy, skąd pożar. Nasze raporty mówiły, że wybuchł za sprawą smoka.
+   1041314|00000000||Zabrałem się z Iorwethem.
+   1041374|00000000||Zabrałem się razem z Iorwethem. Przywódcą komanda Scoia’tael.
+   1041376|00000000||Zabójca potworów i zabójca ludzi... Ciekawe zawierasz sojusze.
+   1041324|00000000||Pomogłem Roche’owi odbić Anais.
+   1041370|00000000||Myślę o tym w innych kategoriach. Pomogłem przyjacielowi. Uratowałem dziecko.
+   1041372|00000000||Anais to nie byle dziecko, tylko pionek w grze, której nie rozumiesz. I wcale jej z Roche’em nie uratowaliście... Co najwyżej przesunęliście z jednego skraju planszy na drugi. Zaogniając konflikt.
+   1047296|00000000||Pomogłem Iorwethowi w odczarowaniu Saskii.
+   1047299|00000000||Wręcz przeciwnie. Mieszałem się w sprawy osobiste. Pomogłem Iorwethowi odczarować Saskię.
+   1047301|00000000||Tak. A przy okazji dałeś Radowidowi pretekst do rozpoczęcia polowania na czarownice. Winszuję.
+   1041334|00000000||Dostała za swoje.
+   1041348|00000000||Tak, to dawna znajoma. Na tyle daleka, że nie było mi jej żal. I na tyle bliska, żebym wiedział, że sobie zasłużyła.
+   1041350|00000000||„Wydaje mu się, że jako jedyny wie, co jest dobre, a co złe. I że daje mu to prawo wymierzać sprawiedliwość”.
+   1047303|00000000||Tak cię opisał twój druh, Letho z Gulety. Całkiem trafnie.
+   1044184|00000000||Mój druh. A wasz agent.
+   1041346|00000000||Czy ten alians wciąż trwa? Co z Letho?
+   1041352|00000000||Alians wciąż trwa? Co się dzieje z Letho?
+   1041354|00000000||Miałem nadzieję, że to ty odpowiesz na to pytanie.
+   1041356|00000000||Ach. Czyli Letho się przed wami ukrywa... Zapewne nie bez powodu. Racja stanu się zmieniła, co?
+   1044186|00000000||Nie wiem, gdzie jest. A gdybym wiedział, też bym ci nie powiedział. Choćby z brzytwą na gardle.
+   1047765|00000000||Jak przygotowania do audiencji? Wszystko zgodnie z planem?
+   1047767|00000000||Tak, wasza wielmożność. Waszmość będzie się jakoś prezentować.
+   1047769|00000000||A ty coś za jeden? Też jakiś balwierz?
+   1047771|00000000||Nie. Morvran Voorhis. Dowódca dywizji „Alba”. Tej, do której należeli żołnierze z obstawy Yennefer.
+   1047773|00000000||Właśnie... Należeli. Żaden z nich nie wrócił do Wyzimy. Ciekaw jestem, co dokładnie stało się wczoraj na gościńcu. Może mi opowiesz? Masz w końcu trochę czasu... I brzytwę na gardle.
+   1047787|00000000||Zabił ich Dziki Gon.
+   1047789|00000000||Orszak upiorów, który jeździ po nocnym niebie? Zwiastuni wojny, o których bajają wieśniacy? Myślisz, że w to uwierzę?
+   1047791|00000000||Szczerze mówiąc... Mam to gdzieś.
+   1047779|00000000||Zabił ich Dziki Gon.
+   1047778|00000000||Twoi ludzie zginęli w walce. Jak to żołnierze.
+   1047781|00000000||Twoi ludzie zginęli w boju. Jak to żołnierze.
+   1047783|00000000||Widzę, że niezbyt się przejąłeś ich losem.
+   1047785|00000000||Prawda. Bo zakładam, że oni wcześniej niezbyt przejmowali się losem ludzi, których kraj najechali.
+   1047802|00000000||Nordlingowie. Można was umyć, ostrzyc i ubrać, ale nauczyć manier... To będzie wyzwanie.
+   1047804|00000000||Mnie też było miło poznać.
+   1047806|00000000||Skończone. Golić drugi raz, pod włos?
+   1047808|00000000||Nie. Nie trzeba. Jego lepiej pod włos nie brać. Żegnaj, wiedźminie. Albo raczej do zobaczenia.
+    569662|00000000||Dobrze. Teraz waszmość raczy się odziać.
+    569664|00000000||Niestety, nie miałem dokładnych wymiarów waszmości. Jeśli będzie uwierać, krawiec naniesie poprawki.
+    569386|00000000||A gdzie moje ubrania?
+    569389|00000000||A gdzie moje ubrania?
+    569674|00000000||Tam, gdzie powinny były znaleźć się dawno temu. U praczki.
+    569676|00000000||Dostaniecie je po audiencji. Czyste i nakrochmalone.
+    569391|00000000||Waszmość niech oznajmi, kiedy się namyśli co do stroju.
+    569387|00000000||Czarny, czarny... I czarny?
+    569388|00000000||W Nilfgaardzie nie lubimy krzykliwych barw.
+    569385|00000000||Czarny, czarny... I czarny?
+   1041358|00000000||To chyba wszystko. Jeszcze podpis poświadczający, że zeznałeś prawdę i tylko prawdę, pod groźbą uwięzienia bądź śmierci, et cetera, et cetera. Tu... I jeszcze tu.
+   1041362|00000000||Skoro procedury zostały wypełnione, proszę wielmożność o opuszczenie pokoju. Będziemy waszmości Geraldowi dobierać strój. To ważna sprawa, ale obędziemy się bez asysty generała.
+   1041364|00000000||Szkoda... Mógłbym coś doradzić. Bywaj, Geralt. I udanej audiencji.
+   1044195|00000000||Czuję się raczej, jakbyście szykowali mnie na wesele...
+   1044202|00000000||Wtedy przygotowałbym waszmości surdut, frak bądź ewentualnie tużurek. Tymczasem waszmość ma do wyboru te szaty.
+   1041366|00000000||Ten alians już się zakończył. Nieodwołalnie. Zabiłem Letho w Loc Muinne.
+   1041368|00000000||Takie doszły nas słuchy... Dobrze się stało. Oszczędziłeś naszym agentom roboty. Mokrej i trudnej.
+   1041345|00000000||Ten alians już się skończył. Zabiłem Letho.
+   1044191|00000000||Cóż... Racja stanu wymaga czasem trudnych aliansów. Nawet z wiedźminami.
+   1041336|00000000||Patrzyłem, prawda... Ale pozwoliłem jej w końcu uciec. Z pułapki, którą – zapisz proszę, żeby faktycznie wszystko się zgadzało w papierach – zastawił wasz człowiek. Letho z Gulety.
+   1041333|00000000||Sheala uciekła.
+   1044122|00000000||Nilfgaard dopiero co wszczął wojnę. Niesprowokowany. Więc powstrzymaj się od moralizowania.
+   1044189|00000000||Niech waszmość siedzi spokojnie. Już kończę.
+   1044124|00000000||Będzie trudno. Bo z tego, co wiem, wkrótce potem patrzyłeś, jak wadliwy megaskop rozrywa twoją znajomą Shealę de Tancarville na kawałki.
+   1041326|00000000||Bo możni uwięzili Triss Merigold. Powinieneś wiedzieć, że to bliska mi osoba... A ja bliskie osoby mam w zwyczaju ratować.
+   1041328|00000000||I zrobiłeś to. Przy okazji doprowadzając do tego, że Radowid ma na usługach Kapitułę Czarodziejów.
+   1041323|00000000||Musiałem uratować Triss.
+   1044114|00000000||Oho... Coś mi mówi, że najciekawsze jeszcze przede mną... No, pytaj dalej, bo zaraz mi broda odrośnie.
+   1044116|00000000||To ogolimy cię raz jeszcze. Następnie... Niesławny szczyt w Loc Muinne. Byłeś tam. I znów mieszałeś się w sprawy możnych.
+   1041316|00000000||Wyrwałem się stamtąd razem z Vernonem Roche’em. Przywódcą niebieskich pasów i...
+   1041318|00000000||...mordercą nieludzi. Ten jegomość jest nam znany, wiedźminie. Ciekawe zawierasz sojusze.
+   1041313|00000000||Wyrwałem się razem z Vernonem Roche’em.
+   1044110|00000000||Dalej... Potem schroniłeś się w urokliwym Flotsam, skąd przebiłeś się w okolice Vergen. Tylko jak? Miasto uchodziło za odcięte od świata.
+   1041378|00000000||Foltest kazał mi oczyścić drogę. Chłopak się nawinął.
+   1041380|00000000||Zabicie dziedzica La Valette nie zrobiło na tobie wrażenia? W sumie... Skoro zwą cię zabójcą królów, to jakie znaczenie ma byle baron.
+   1041385|00000000||Zabiłem Arjana. Tak się złożyło.
+   1044077|00000000||A także odpowiedzieć na parę pytań.
+   1044079|00000000||Wasza wielmożność... Nie wiem, czy to jest właściwy moment.
+   1041390|00000000||Ciężko o właściwszy. Ludzie stają się niezwykle szczerzy, kiedy czują brzytwę na gardle.
+   1047100|00000000||Morvran Voorhis, dowódca dywizji „Alba”. Zanim zostaniesz zaprowadzony przed oblicze cesarza, wiedźminie, muszę zweryfikować pewne informacje. To tylko formalność, ale trzeba jej dopełnić.
+   1041392|00000000||Oczywiście. Porządek w papierach musi być.
+   1044081|00000000||A zatem... Geralt Riv. Miejsce urodzenia: nieznane, rodzice: nieznani, wiek: nieznany... Ale to nieistotne szczegóły, przejdźmy do ostatnich wydarzeń. Oblężenia zamku La Valette’ów. Losów dowódcy obrony, Arjana.
+   1041388|00000000||Proszę odchylić głowę. I nie ruszać się.
+   1044083|00000000||Co jest nie tak z moją brodą? Myślałem, że dodaje mi powagi.
+   1044085|00000000||Ale ujmuje elegancji. W Nilfgaardzie broda uchodzi za niemiłą oku... Zwłaszcza jeśli zalęgły się w niej wszy.
+   1044087|00000000||Byłem długo w drodze... Zresztą, nieważne. Róbcie swoje.
+   1043972|00000000||Co jest nie tak z moją brodą?
+    569648|00000000||Waszmość zasiądzie na berżerze.
+    569650|00000000||Na czym?
+    569652|00000000||Na tym... Krześle.
+    569655|00000000||Cledwyn. Proszę waszmość ogolić. Baczki na pół cala.
+    569642|00000000||Hmm. Może być.
+    569644|00000000||Myślisz, że Emhyra obchodzi, co mam za uszami?
+    569646|00000000||Waszmość raczy mówić o Cesarskiej Mości, używając pełnego tytułu – albo wcale.
+    570205|00000000||Wasza Cesarska Mość.
+    570207|00000000||{Areir aep tho orde...} [Zgodnie z Waszym życzeniem...]
+    570209|00000000||{Evelienn namyn vatt’ghern va vort.} [Wszyscy poza wiedźminem za drzwi.]
+    570185|00000000||[Nie wykonuj ukłonu.]
+    570333|00000000||Myślałem, że przed nikim nie zginasz karku.
+    570335|00000000||Nie chciałem sprawić przykrości szambelanowi. Swój chłop.
+    566880|00000000||Robię to tylko ze względu na Ciri.
+    566901|00000000||Zachowaj swoją hojność dla tych, którym twoje wojska spaliły domy.
+    566903|00000000||Zrobię to dla Ciri. Nie ze względu na twoje złoto.
+    566905|00000000||Twoje motywy mnie nie interesują. Tylko rezultaty.
+   1047320|00000000||Resztę powie ci Yennefer.
+    566899|00000000||Koniec audiencji. Mererid!
+    570367|00000000||Zaprowadź go do czarodziejki.
+    577657|00000000||Potrzebuję informacji, nie motywacji. Ciri... Zostawia mało śladów. Ciężko będzie ją wytropić.
+    577674|00000000||Możesz liczyć na pomoc mojego wywiadu. I wojska, jeśli zajdzie potrzeba.
+    566878|00000000||Potrzebuję informacji, nie motywacji.
+    566888|00000000||Ilu ludzi liczy twoja armia? Dwadzieścia tysięcy? Trzydzieści?
+    577718|00000000||Czemu akurat ja?
+   1044571|00000000||Wiesz przecież. Bo ci ufa.
+    577410|00000000||Ufa, prawda. Więc powiedz, czemu jej szukasz. Przecież nie chodzi o to, żebyście nadrobili stracone lata, prawda?
+    577412|00000000||Chodzi o rację stanu. Jak zawsze.
+   1047316|00000000||Słuchaj, skończmy te podchody. I tak się zgodzisz.
+   1047318|00000000||Choćby dlatego, że ci zapłacę. Więcej, niż zwykle bierzesz za zlecenie. Znacznie więcej.
+    577209|00000000||Dlaczego ja?
+    577210|00000000||Jesteś pewien tego, co mówisz?
+    577321|00000000||Jesteś pewien? Ciri przecież odeszła. Bardzo daleko.
+    577417|00000000||Myślisz, że wzywałbym cię tu w środku wojny, gdyby to były plotki?
+    577709|00000000||Myślę, że nawet cesarz może się mylić.
+   1047312|00000000||Zapomniałem, jaki jesteś bezczelny.
+   1047314|00000000||Nie mam czasu ani specjalnej ochoty, żeby cię przekonywać. Zrobi to Yennefer – po audiencji.
+    566763|00000000||Zgaduję, że nie wezwałeś mnie, żeby powspominać stare dobre czasy, więc...
+    566770|00000000||Milcz.
+    566784|00000000||Moja córka Cirilla... Wróciła. I jest w niebezpieczeństwie. Tropi ją Dziki Gon.
+    577208|00000000||Masz ją znaleźć. I przyprowadzić do mnie.
+    570337|00000000||Tyle miesięcy na dworze Foltesta, a wciąż nie opanowałeś podstaw etykiety.
+    570339|00000000||Znasz to powiedzenie... Starego psa nowych sztuczek nie nauczysz.
+    570184|00000000||[Wykonaj ukłon.]
+    570177|00000000||{Ym’grymie aep Aard Her’zaer, Deithwen Addan yn Carn aep Morvudd, Emhyr var Emreis!} [Pokłońcie się przed Jego Cesarską Mością, Białym Płomieniem Tańczącym na Kurhanach Wrogów, Emhyrem var Emreisem!]
+    570180|00000000||Ukłon.
+    582353|00000000||Przepraszam, panie. Byłem pewien, że nikt...
+    582355|00000000||Wiesz, kim jestem?
+    582357|00000000||Tak.
+    582359|00000000||Emhyr var Emreis, cesarz Nilfgaardu, Biały Płomień Tańczący na Kurhanach Wrogów.
+    582361|00000000||Jesteś służacym Foltesta?
+    582363|00000000||Byłem, ja… N-naprawdę to robiłeś?
+    582365|00000000||Co takiego?
+    582367|00000000||Tańczyłeś na kurhanach swych wrogów?
+    582369|00000000||{Gàrdan!} [Straż!]
+    582351|00000000||Nikt mnie nigdy o to nie pytał.
+    582405|00000000||{Gàrracaer ess mëot leeg caer.} [Ogród miał być pusty.]
+    582407|00000000||{A’ess, Aard Her'zaer. N’evellien am caed...} [Był, Wasza Cesarska Mość. Nikt nie miał prawa…]
+    582410|00000000||Pomiłujcie, panie.. ja tylko dbam o to drzewo… myślałem, że nikt...
+    582412|00000000||Milcz, Temerczyku. Milcz, póki nie mówią do ciebie.
+    582414|00000000||{Ax.} [Topór.]
+    582416|00000000||Tak jest, Wasza Cesarska Mość.
+    582418|00000000||To już nie jest Temeria. Ani ten ogród, ani zamek. Ani ten kraj. Teraz to Nilfgaard.
+    582420|00000000||Niech będzie i Nilfgaard… opiekowałem się nim jeszcze za Medella, ojca Foltesta.
+    582422|00000000||Wiesz, jak zginął Foltest?
+    582426|00000000||Zamordowano go na zamku La Valette’ów.
+    582428|00000000||Gdzie była wówczas wasza straż królewska?
+    582430|00000000||Król był sam. Mówią, że zabójca zaskoczył go w samotni.
+    582434|00000000||To właśnie samotność. Zamienia się w śmiertelną pułapkę, gdy ktoś nie jest uważny.
+   1002205|b352eb18||Nilfgaardzki dworzanin
+    569510|00000000||{Vissean ess’va aen Novigrad?} [Posłowie wrócili z Novigradu?]
+    569511|00000000||{Yeá... An neen. Raadsliden ae’enect, es Tunn esse saor an neenphàir.} [Tak... Z niczym. Rajcy uchwalili, że miasto pozostanie niezależne i neutralne.]
+    569998|00000000||{Esse'sidh avside aep feansa neen math theenk. Neen cofhurtail an ennv pa vall.} [Siedzenie okrakiem na płocie to głupi pomysł. Nie dość, że niewygodnie, to i spaść łatwo.]
+    570000|00000000||{Ess vraag, que’ss side...} [Pytanie, na którą stronę...]
+    570001|00000000||{Dùth. Visse var Attre ess pa’as aep.} [Właściwą. Ambasador var Attre już o to zadba.]
+    570030|00000000||Jednak warto próbować.
+    570054|00000000||Mimo wszystko trzeba próbować.
+    570056|00000000||Bo?
+    570122|00000000||Bo mało jest spraw, którym warto służyć. I jeszcze mniej ludzi.
+    570124|00000000||Tyle w tej kwestii. Możemy zmienić temat?
+    570048|00000000||Coś o tym wiem.
+    570050|00000000||Rozwiniesz?
+    570052|00000000||Zawsze to samo. Staram trzymać się z boku... A potem dostaję pilne zaproszenie. I ofertę nie do odrzucenia.
+    570029|00000000||Coś o tym wiem...
+    575870|00000000||{Tedd a’taeghane, en’ca land n’ees a evelloë saor. Aep Toussaint... } [W dzisiejszych czasach małe państwo nie może być w pełni niezależne. Weźmy takie Toussaint...]
+    569522|00000000||Można przerwać?
+    570024|00000000||Zamiast przerywać, dołącz do rozmowy.
+    570026|00000000||Rozmawialiśmy o neutralności. O tym, jak trudno ją zachować.
+    570028|00000000||Tak, Geralt?
+    570120|00000000||Jestem już po rozmowie z cesarzem.
+    570139|00000000||Jestem już po rozmowie z cesarzem.
+    570141|00000000||Mhm. I czemu cię wezwał?
+    570143|00000000||Czyli nawet ty nie wiesz.
+    570146|00000000||Nie. Ale zgaduję, że chodzi o zwykłe wiedźmińskie zlecenie.
+    570148|00000000||Mhm. Na bobołaki.
+    570062|00000000||Bywaj.
+    570058|00000000||Bywaj.
+    570060|00000000||Do rychłego.
+   1055163|e128b05b||Nilfgaardczyk
+   1047371|00000000||Rzeczywiście... Wydoroślała.
+   1047420|00000000||A niech mnie... Rzeczywiście wydoroślała.
+   1047422|00000000||Trochę lat minęło, odkąd ćwiczyliście razem w Kaer Morhen.
+   1058728|00000000||Wiele się zmieniło.
+   1049513|00000000||Ty nic a nic.
+   1049515|00000000||Stęskniłam się za tymi twoimi niezdarnymi komplementami...
+   1058726|00000000||Ale skupmy się na razie na Ciri, dobrze?
+   1047689|00000000||No i znów się rozjeżdżamy... Szkoda. Ale rozumiem. Czas goni.
+   1047710|00000000||Goni, prawda... Więc może od razu teleportuję cię do Velen?
+   1047712|00000000||O, nie. Nie ma mowy. Pojadę konno. Jak tylko się przebiorę.
+   1047714|00000000||Jak wolisz. A tak na marginesie... Naprawdę dobrze ci w czarnym aksamicie.
+   1047716|00000000||Mówisz? Może obszyję sobie nim zbroję... Powodzenia, Yen.
+   1047722|00000000||I wzajemnie. Słuchaj, jeżeli chcesz się dowiedzieć, co się działo na świecie, gdy włóczyłeś się z Vesemirem po bezdrożach, porozmawiaj z ambasadorem var Attre. To on, o tam.
+   1049543|00000000||I Geralt... Wiem, że jest wojna i tak dalej. Ale nie próbuj zostać bohaterem, dobrze? Po prostu sprawdź te ślady i przyjedź do mnie. W jednym kawałku.
+   1065014|00000000||Będę na ciebie czekać.
+   1047686|00000000||Pora się zbierać.
+   1047687|00000000||Nim się rozstaniemy... Czemu nie odezwałaś się wcześniej?
+   1047691|00000000||Zanim się rozstaniemy... Czemu nie odezwałaś się wcześniej? Bo mnie nie potrzebowałaś?
+   1047693|00000000||Nie. Bo ty mnie nie potrzebowałeś. Słyszałam, że tworzyliście z Triss świetną parę.
+   1047704|00000000||Yen... Straciłem pamięć.
+   1048306|00000000||Naprawdę? To jest twoja wymówka?
+   1047706|00000000||Zostawmy lepiej ten temat. Bo jeśli jeszcze usłyszę „to nie tak, jak ci się wydaje” albo „dzięki temu zrozumiałem, jak cię kocham”, to nie ręczę za siebie.
+   1047652|00000000||To gdzie dokładnie widziano Ciri?
+   1047654|00000000||W dwóch miejscach. W Velen i Novigradzie.
+   1047656|00000000||Ślad w Velen jest najbardziej obiecujący, pojedź tam w pierwszej kolejności. W Karczmie na Rozstajach spytaj o kupca Hendrika. To agent cesarza, skontaktuje się z tobą.
+   1047658|00000000||I co? Tyle? Żadnego hasła, tajnych znaków?
+   1047660|00000000||Żadnych tajnych znaków. Przykro mi, że niszczę twoje chłopięce wyobrażenia o pracy wywiadu.
+   1047662|00000000||Z Novigradu mamy tylko niesprawdzone informacje, plotki... Ale tam może ci pomóc nasza wspólna znajoma.
+   1058730|00000000||Niejaka Triss Merigold. Ma ponoć przytulny apartament w kamienicy przy głównym rynku.
+   1047664|00000000||Na pewno się ucieszy, jak mnie zobaczy... A ty? Co będziesz robić?
+   1047666|00000000||Wybieram się zaraz na Skellige. Doszło tam do magicznej eksplozji, która zniszczyła pół lasu... I ma chyba coś wspólnego z Ciri. Będę w Kaer Trolde. Dołącz tam do mnie, jak już się czegoś dowiesz.
+   1047626|00000000||To gdzie widziano Ciri?
+   1047435|00000000||Czego Dziki Gon chce od Ciri?
+   1047628|00000000||Czego Dziki Gon może chcieć od Ciri?
+   1047630|00000000||Nie mam pojęcia, Geralt. Wysłałabym im list z zapytaniem, ale nie znam adresu.
+   1047635|00000000||Przecież wiem tyle, co ty. Pewnie chodzi im o jej krew. Jej... Dar.
+   1047638|00000000||A do czego Ciri miałaby Gonowi posłużyć... Wolę nawet o tym nie myśleć.
+   1047432|00000000||Racja... Emhyr mówił, że idzie za nią Dziki Gon. Ciężko byłoby mi w to uwierzyć – gdyby nie wczoraj. Jak oni nas wywęszyli?
+   1047440|00000000||Przeze mnie. Widzisz... Szukam Ciri od miesięcy. Zaklęcia lokalizacyjne, haruspicja, geomancja i tak dalej. Wiedziałam, że Dziki Gon może to wyczuć i znaleźć mnie... Ale myślałam, że ich oszukam.
+   1047442|00000000||Cóż. Nie do końca ci wyszło.
+   1047623|00000000||Mhm. Od jakiegoś czasu czułam, że mam ich na karku i że polują na mnie... Gdyby nie ty i żołnierze Emhyra, dopięliby swego.
+   1049521|00000000||Nie mogę ryzykować kolejnego takiego spotkania. Pora skończyć z czarami namierzającymi, czas sięgnąć po bardziej tradycyjne metody... Po najlepszego tropiciela, jakiego znam.
+   1049529|00000000||Musisz ją znaleźć, Geralt. Zanim zrobi to Dziki Gon.
+   1047373|00000000||Więc to już są „nasi” agenci? No, no. Szybko się tu zadomowiłaś.
+   1047375|00000000||Geralt... Nie czepiaj się słówek.
+   1047418|00000000||Wiem, kim jest Emhyr. Wywołał krwawą wojnę. Kazał zabić moje przyjaciółki. Ale nie mamy innego wyboru, więc proszę... Nie roztrząsajmy za i przeciw, tylko skupmy się na Ciri. Zgoda?
+   1047370|00000000||To już są „nasi” agenci?
+   1047264|00000000||Geralt! Wyglądasz szałowo w tym kubraku...
+   1047358|00000000||Ja tam się nie mogę doczekać, aż go zdejmę.
+   1049500|00000000||W innych okolicznościach potraktowałabym to jako propozycję... Może nawet bym z niej skorzystała. Ale mamy co robić.
+   1047361|00000000||Już rozumiesz, czemu jestem na dworze Emhyra?
+   1047363|00000000||Mhm. I wygląda na to, że płyniemy odtąd na tej samej łodzi.
+   1047366|00000000||Ciri rzeczywiście wróciła? Nie ma mowy o pomyłce?
+   1047368|00000000||Zobacz... Według relacji naszych agentów wygląda teraz mniej więcej tak. Mała wiedźminka wyrosła na niezłą pannicę.
+    569369|00000000||To tutaj.
+    454415|00000000||Kiedy wejdziemy, nie będzie już odwrotu, póki nie dotrzemy do Ge’elsa. Gotowy?
+    584738|00000000||Portal w takim miejscu?
+    584744|00000000||Portal w takim miejscu?
+    586024|00000000||To przejście istnieje od Koniunkcji Sfer i będzie istniało nadal, gdy już wszyscy wymrzecie.
+    584746|00000000||Kilkaset lat temu stała tu świątynia poświęcona Księżycowi. Jeszcze wcześniej krąg monolitów. Teraz stoi tu miasto.
+    584748|00000000||Budujecie na ruinach świętych miejsc i na intersekcjach, i nie pamiętacie już dlaczego. A w tych miejscach nadal działa dawna magia.
+   1009438|00000000||Czy taka odpowiedź zaspokaja twoją ciekawość? Jesteś gotowy?
+    454417|00000000||Ruszajmy.
+    454421|00000000||Tak, ruszajmy.
+    536464|00000000||Pamiętaj, gdziekolwiek trafisz, szukaj miejsca, które wygląda podobnie jak to tutaj. W końcu się spotkamy.
+    536466|00000000||Zostaniemy rozdzieleni?
+    584740|00000000||Tak. To możliwe. Nie mam umiejętności twojej protegowanej. Zireael jest Panią Czasów i Miejsc, ja jedynie potrafię wykorzystywać sekretną wiedzę.
+    584753|00000000||Już czas.
+   1063659|00000000||Nienawidzę portali.
+   1024688|00000000||Tu jest przejście, za ścianą.
+    536475|00000000||Zaczekaj jeszcze chwilę.
+    454425|00000000||Przypominam, że mamy tu zadanie do wykonania. Pośpiesz się.
+   1027690|00000000||Jest przejście.
+    569851|00000000||Do cesarza waszmość odezwie się tylko na wyraźne życzenie, odpowiednio go tytułując.
+    569478|00000000||Wasza Arcymagnificencjo?
+    569479|00000000||Widzę, że waszmość w humorze do żartów... Boję się, że cesarz może tej dyspozycji nie podzielać.
+   1047305|00000000||Wystarczy „Wasza Wysokość”. Wypowiedziane głośno, wyraźnie i z szacunkiem.
+    569856|00000000||Pełen tytuł miłościwie nam panującego to Deithwen Addan yn Carn aep Morvudd.
+    569858|00000000||Ale cesarz nie lubi, kiedy kaleczy się nasz język. W waszmości przypadku wystarczy „Wasza Wysokość”.
+    569773|00000000||Trochę za wąsko w talii... Ale może być.
+    569771|00000000||A mówią, że szata nie zdobi człowieka.
+    569404|00000000||Potrafię się ukłonić. Nie jestem chamem.
+    569407|00000000||Nie jestem takim chamem, żebym nie wiedział, jak się ukłonić.
+    569408|00000000||To niech waszmość zademonstruje.
+    569763|00000000||Tak, proszę waszmości, można co najwyżej ukłonić się kurwie pod latarnią, a nie cesarzowi Nilfgaardu.
+    569472|00000000||Chyba żartujesz.
+    569473|00000000||Chyba sobie żartujesz.
+    569474|00000000||Bynajmniej. Jestem śmiertelnie poważny.
+    569843|00000000||Czy waszmość wie, co grozi za złamanie etykiety w obecności cesarza? Dwieście batów.
+    569845|00000000||Nie życzę tego waszmości, dlatego nie wypuszczę was stąd, dopóki nie będę pewien, że potraficie się zachować.
+    569468|00000000||Cóż, ruchom brakuje płynności i gracji... Ale po Nordlingu mniej się oczekuje.
+    569469|00000000||Proszę za mną.
+    569459|00000000||[Przesuń lewą nogę do przodu, połóż prawą rękę na piersi.]
+    569465|00000000||Proszę waszmości, to nie czas ani miejsce na wygłupy.
+    569836|00000000||Niech waszmość patrzy uważnie.
+    569461|00000000||[Przesuń lewą nogę do tyłu, ręce wzdłuż ramion.]
+    569460|00000000||[Przesuń prawą nogę do przodu, połóż lewą rękę na piersi.]
+    569463|00000000||Źle, źle, źle.
+    569832|00000000||Jeszcze raz.
+    569470|00000000||Stopa wyciągnięta, dłoń wyprostowana, głowa w dół, aż broda dotknie piersi.
+    569471|00000000||Niech waszmość powtórzy.
+    569451|00000000||Proszę patrzeć.
+    569405|00000000||To się upewniaj.
+    569403|00000000||No to się upewniaj.
+    569397|00000000||Kontent byłbym w ćwiekowanej kurtce i z mieczem na plecach. Ale trudno, skoro wpadłem między wrony...
+    569751|00000000||Słucham?
+    569753|00000000||Takie powiedzenie. To co teraz? Będziesz mnie pudrować?
+    569755|00000000||Nie ma potrzeby. Waszmość posiada dostatecznie jasną karnację.
+    569757|00000000||Ale nim staniecie przed władcą Południa i Północy... Muszę się upewnić, że waszmość wie, jak się skłonić.
+    569393|00000000||Powiedzmy.
+    569395|00000000||Przymierzę coś innego.
+    569396|00000000||Proszę. Mamy czas.
+    569394|00000000||Przymierzę coś innego.
+    569775|00000000||Czy waszmość jest kontent ze stroju?
+    569769|00000000||Czarny waszmości służy.
+    569686|00000000||Może to dla waszmości novum, ale przewiązany na biodrach ręcznik nie jest strojem stosownym do audiencji.
+    569767|00000000||Niechże waszmość się ubierze.
+    578772|00000000||Waszmość chyba jeszcze o czymś zapomniał.

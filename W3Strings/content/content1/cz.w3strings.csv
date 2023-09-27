@@ -1,0 +1,320 @@
+;meta[language=cz]
+; id      |key(hex)|key(str)| text
+    301032|5a979acb||Válečník Divokého honu
+    519868|00000000||"Severní války: mýty, lži a polopravdy." Historické pojednání, sepsal Restif de Montolon.
+    519879|00000000||Chybí tu několik stránek.
+    572808|00000000||Zaklínač Jerzen. Nejvyšší čas to přemalovat.
+    572811|00000000||Zaklínačské jezdectvo se nikdy moc neuplatnilo.
+    572812|00000000||Za dlouhých zimních večerů dostává člověk opravdu divné nápady.
+    332443|002e3ae9||Kniha
+   1012975|00000000||A Rada ani Bratrstvo nezareagovaly?
+   1012976|00000000||Žertuješ? To ony požádaly Radovida o „intervenci“. Hned poté, co je jmenoval.
+   1012978|00000000||Později jsem zjistila, že na ruinách akademie řečnili kněží Věčného ohně. Prý že takový trest čeká na všechny čaroděje a zrádce.
+   1012973|00000000||Když ty jsi tady, co se tedy stalo s Aretuzou?
+   1012974|00000000||Když jsem dorazila do Novigradu, dostala jsem zprávu od Biruty Icarti. Krátkou a stručnou: „Škola obsazena Redanskými. Knihovna vypálena. Pár studentek uteklo s Ninou Vivero, zbytek je mrtvý. Je konec.“
+   1012963|00000000||Co se stalo se školou v Aretuze?
+   1012980|00000000||Na shledanou, Rito.
+   1012964|00000000||Na shledanou.
+   1012962|00000000||Jak tě lovci čarodějnic dopadli?
+   1012965|00000000||Nečekal bych, že se Margarita Laux-Antille nechá chytit od lovců čarodějnic.
+   1012966|00000000||Kdyby to záviselo jen na mně, tak by mě nedostali. Ale pamatuj, že jsem musela myslet na své studentky.
+   1012967|00000000||Věděla jsem, že lovci dříve či později do Aretuzy přijdou, byla to jen otázka času. Takže když jsem slyšela, že Triss organizuje útěky do Koviru, neviděla jsem důvod váhat.
+   1012968|00000000||Vzala jsem své studentky a vyrazily jsme do Novigradu. Jenže než jsme se k Triss vůbec dostaly, chytili nás a zavřeli do Deireadh.
+   1012969|00000000||Neviděl jsem tam kromě tebe žádné jiné čarodějky.
+   1012970|00000000||Protože už je popravili. Upálili za živa. Jednu po druhé. Byla to nejschopnější děvčata na Severu. Mě si Radovid nechával na konec.
+   1012958|00000000||Jak se cítíš?
+   1012959|00000000||Už lépe, děkuji. Geralte, kdyby ses včas neobjevil, mohlo to dopadnout mnohem hůř. Jsem tvým dlužníkem.
+   1028937|00000000||Poděkuj Yennefer. Byl to její plán.
+   1012961|00000000||Geralte. Co pro tebe mohu udělat?
+   1031674|00000000||Něco honil a spadl. Nejspíš tušil, že to může špatně skončit, ale touha po krvi už byla moc silná.
+    385297|00000000||Trissina náušnice?
+    444237|00000000||Ještě že jsem ji našel já…
+    408102|00000000||Vezmu ji Triss.
+    385301|00000000||[Vzít]
+    408100|00000000||Nechám ji tady. Triss stejně už tu druhou určitě zahodila.
+    385303|00000000||[Nechat]
+   1055413|f7a0c879||Nekkeří válečník
+   1069326|e0351e50||Truhlice
+    577727|00000000||Už jsi zase chlastal? Jsi hbitý jak moucha v téru.
+    577729|00000000||Tomu říkáš silný úder?
+    577731|00000000||Dost silný na to, aby ti prošel krytem.
+    577733|00000000||Zítra si vezmu do dvojice Ciri. Nejspíš mi dá víc zabrat než ty.
+    575089|00000000||Stařík prý usnul při učení.
+    575093|00000000||Možná se blíží bouřka...
+   1074151|00000000||Hmm… Jestli pak se papouškům na horském vzduchu daří…
+    516508|b0678eeb||Kůň
+    574625|00000000||To doufám.
+    574640|00000000||To doufám. Vesemir říkal, že jestli ano, tak tě donutí sníst misku nasolených slimáků.
+    574641|00000000||Fuuuuj!
+    576732|00000000||Přesně. Tak se chovej slušně.
+    576738|00000000||Jasně. Jsi na zaklínačském hradišti, nebo v elfských lázních?
+   1058679|00000000||Samozřejmě. [ZAČÍT VÝUKU]
+   1058682|00000000||Tentokrát ne. Věř mi... Vesemira nechceš nechat čekat.
+   1058680|00000000||Tentokrát ne. [PŘESKOČIT VÝUKU]
+    574642|00000000||Pojď. Budeme cvičit dole s ostatními.
+    576736|00000000||Poběžíme po zdech?
+    574633|00000000||Omluva nestačí.
+    574635|00000000||Musíš si "Ghúly a alghúly" přečíst celé. I s přílohami.
+    574637|00000000||Ne, prosím... raději bych uklízela ve stájích.
+    574639|00000000||Už jsem řekl.
+    574619|00000000||Omluva nestačí.
+    574605|00000000||Ještě máš co dělat. Pořád máš pomalé reflexy.
+    574607|00000000||Možná na zaklínače.
+    574609|00000000||Myslíš, že ghúly nebo strigy bude zajímat, žes neprošla mutacemi?
+    574610|00000000||Ačkoliv být tebou, víc než nějaké strigy bych se teď bál Vesemira. Takhle nedbat na jeho příkazy... To není dobrý nápad.
+    574614|00000000||No ano, ale... ta kniha byla děsně nudná!
+    574616|00000000||Já vím. A ty víš, že tě to neomlouvá.
+    574618|00000000||Promiň. Už se to nestane.
+    546852|00000000||Špatně.
+    546854|00000000||Teď vidím, proč jsi tak chtěla cvičit. Udeř!
+    576696|00000000||Ha!
+    576698|00000000||Nejsi v cirkusu. Pirueta!
+    546856|00000000||Špatně. Pozor na nohy!
+    576700|00000000||Stačí. Slez.
+    546858|00000000||Saltem?
+    546860|00000000||Co myslíš?
+    576702|00000000||Dobrá, můžeš si sundat pásku z očí.
+    312802|05e75e62||Harpyje
+    432580|00000000||A teď krytí, Ciri. Vidíš, jak Geralt drží meč? V jakém úhlu?
+    432582|00000000||Úhyb!
+    577761|00000000||Silné údery, teď. Dej tomu vše, co máš!
+    577759|00000000||Rychlé seky. Jedna, dvě, tři!
+    546723|00000000||Co to sakra vyvádíš?
+    546725|00000000||Příšerné. Stačí!
+    546721|00000000||Přestaň se předvádět, Geralte.
+    577969|00000000||Riposta. Útok, protiútok!
+   1057722|00000000||Dobrá, stačí. Pokračujte ve cvičení dle libosti!
+   1058454|00000000||Tas meč, Geralte.
+   1058458|00000000||Tak, mladá dámo, dnešek uzavřeme opakováním pár zaklínačských znamení. Začneme s Quen.
+   1058460|00000000||Sešli Igni, Geralte. Chci vidět létat jiskry!
+   1058462|00000000||Aard, Geralte! No tak!
+   1070598|00000000||Dnes jsi pomalý jako moucha uvízlá v jantaru… Znovu.
+   1071561|00000000||Dobře!
+   1071477|00000000||Teď Yrden. Ukaž jí to, Geralte.
+   1071479|00000000||Čas na Axie. Sakra, ten pocit nesnáším…
+   1071481|00000000||Hoď petardu. Neboj se, Ciri, Quen ten náraz ztlumí.
+   1075088|00000000||Ugh… Axie jednomu vážně zamotá hlavu.
+   1075066|00000000||Vidíš, Ciri? Nemohl jsem se hýbat, ani kdybych chtěl.
+   1075064|00000000||Ciri, znamení Quen se někdy říká "zaklínačský štít". Teď pozorně sleduj proč.
+   1075062|00000000||Vidíš? Nebýt znamení Quen, byl bych teď v plamenech.
+   1075060|00000000||Vidíš, Ciri? Aard vyvede všechno a všechny z rovnováhy a naruší jim rytmus.
+    574124|00000000||Rozmazlili jsme ji.
+    574263|00000000||Musím přiznat, že jsme ji rozmazlili.
+    574265|00000000||"My" ji rozmazlili? Já od začátku říkám, že potřebuje pevnou ruku.
+    574267|00000000||Jo, říkáš to. Ale nakonec jí dovolíš všechno stejně jako my ostatní.
+   1044455|00000000||Dobře, částečně je to asi moje vina. Ale tohle musí skončit. Hned.
+   1048566|00000000||Zabíjení příšer se nesmí brát na lehkou váhu. To musí Ciri pochopit, jestli se má stát jednou z nás.
+    574270|00000000||Uvidíme se dole.
+    574257|00000000||Nezlob se na ni.
+    574259|00000000||A proč sakra ne? Ta dračice nedělá nic, jak se jí řekne.
+    574261|00000000||A to se ti na ní líbí, viď?
+    574117|00000000||Nezlob se na ni.
+    578211|00000000||Starý zaklínač spí jako dřevo. A Ciri samozřejmě někam zmizela.
+    573920|00000000||Zdá se, že dává přednost praxi před teorií...
+    574106|00000000||Hm? Co se děje?
+    573954|00000000||Je čas vstávat, mistře.
+    573935|00000000||To je to učení tak nudné, že uspává i tebe?
+    573936|00000000||Sakra... nechal jsem ji, aby si udělala výpisky z Ghúlů a alghúlů. Chtěl jsem nechat chvíli odpočinout oči.
+    574098|00000000||Tys ji nechal prokousávat se tou bichlí? To se nedivím, že utekla.
+    574100|00000000||Jan z Brugge není příliš čtivý, to ne, ale je spolehlivý. Ne jako ty žvásty, co se tisknou dneska.
+    574126|00000000||Bojuje s kyvadly, že?
+    574102|00000000||Kolikrát jí to mám říkat? Necvič sama, jen si utužíš svoje chyby.
+    574104|00000000||Vezmi naši slečinku na spodní nádvoří. Chce cvičit? Dobrá, má to mít.
+    478419|00000000||Kam si myslíš, že jdeš? My jsme tady kulturní podnik, a ne chlív, aby tudy procházela kdejaká svině…
+    478437|00000000||Ty dveře nalevo.
+   1064835|00000000||Tady účinkuje parta Madame Iriny?
+    492248|00000000||Jo. Ale dovnitř se dostaneš jen s lístkem. Teď se žádný představení nekoná, pravda, herci jen zkoušej. Ale je zajímavý to sledovat.
+   1040331|00000000||Takže, chceš lístek?
+   1040310|00000000||Představení se nekoná, sáms to říkal.
+   1040312|00000000||Ale lístek si můžeš koupit i tak. Tak co?
+    478435|00000000||Ano, dej mi jeden.
+    478436|00000000||Na. Ale nevyrušuj, jo? Herci na zkouškách jsou hrozně prchliví.
+    478430|00000000||Jo, jeden si vezmu.
+    478432|00000000||Ne, není třeba.
+    478433|00000000||Jak chceš. Ale dovnitř se nedostaneš. Kurvy přes okno - ty si můžeš sledovat gratis. Ale tohle jsou umělkyně.
+    478431|00000000||Ne. Nechci lístek.
+    480265|00000000||Potřebuješ lístek?
+   1050491|7ef171cd||Pes Divokého honu
+    307008|103d66e3||Zajíc
+    578399|00000000||Nemáš náhodou něco dělat?
+    578620|00000000||Teď ne. Ciri čeká.
+   1071630|00000000||Máš pravdu. Měl bych jít za Ciri.
+   1071640|00000000||Ugh, jo. Radši půjdu za Ciri.
+   1071629|00000000||Tak buďme nerozumní.
+   1071632|00000000||Já rozumný být nechci.
+   1071634|00000000||Aha! Takže odtud vítr vane!
+   1071642|00000000||Jdi s ní cvičit. Pak se vrať. Aspoň budu mít šanci se namalovat.
+   1071644|00000000||Ze všech žen, které znám, jsi ty ta jediná, která se maluje před tím…
+   1071646|00000000||A znáš jich hodně?
+   1071648|00000000||Záleží na tom? Myslel jsem vždycky jen na tebe…
+   1071636|00000000||Stýskalo se mi. Moc.
+   1071638|00000000||Mně se stýskalo také. Ale budeme mít spoustu času, abychom si to vynahradili.
+   1071628|00000000||Chci s tebou ještě chvíli zůstat.
+   1071433|00000000||Víš, a já myslel, že Ciri by mohla chvilku počkat.
+   1071435|00000000||To není zrovna výchovné. Neřkuli rozumné.
+    572370|00018392||Zemní elementál
+    515498|00307f1b||Koza
+   1047350|00000000||Hah!
+   1047352|00000000||Páááni, tys mu vážně ukázala, holka!
+   1075155|00000000||Ciri, slez dolů!
+   1075157|00000000||Heh, ta malá čertice.
+   1075159|00000000||Jakmile se vrátí, pošleme ji vyleštit všechny meče na Kaer Morhen.
+   1075161|00000000||Našlas tu helmu?!
+   1075163|00000000||Ciri?!
+   1075165|00000000||Ech, já ti najdu úplně všechny meče, to si piš.
+   1075167|00000000||Co to…?
+   1075169|00000000||Vesemire!
+   1075199|00000000||Na tohle jsem čekal dlouho, Bílý vlku.
+   1075203|00000000||Neeeeee!!!
+    591841|00000000||Geralte!!!
+   1075195|00000000||Lambe--
+   1075197|00000000||Ciri…
+   1055653|31c17949||Havran
+    591090|00000000||Ptačí lebka... v černém křišťálu. Proč si myslím, že to patří Yen?
+    577144|00000000||Víš přece, že mi to nepřipadá vtipné.
+    577145|00000000||Nemělo tě to pobavit, ale probrat. Už je poledne.
+   1059264|00000000||Pfff…
+   1059266|00000000||Slíbils Ciri, že s ní budeš cvičit.
+    577169|00000000||Běž, než ji Vesemir unudí těmi svými knihami.
+    577154|00000000||Takže...? Zatím.
+    577155|00000000||Mhm. Uvidíme se.
+    515166|00000000||Vypadá to, že mám signál.
+    515165|00000000||Samá voda...
+    515167|00000000||Signál je silnější...
+    515168|00000000||Už to nemůže být daleko.
+    515169|00000000||Vida, tady jsi...
+   1065315|00000000||Aha… Přihořívá… Přihořívá… Hoří.
+   1065341|00000000||Ech… zatracená kočka. Kššššá!
+   1056125|00000000||Sakra. Ztratil jsem signál...
+    452929|f373a1e0||Mlhavec
+   1020642|00000000||Leův hrob... Zbytečná smrt, ale nedalo se jí vyhnout.
+    573897|00000000||"Ghúlové a alghúlové, aneb zlí obyvatelé nekropolí" od Jana z Brugge. Název zajímavý, jinak strašná nuda.
+    573899|00000000||Topivec... s knírem a brýlemi. To má asi na svědomí Ciri.
+    573901|00000000||Ilustrovaný atlas hmyzovitých - Od arcikrabopavouka až po žlutohlava.
+    573903|00000000||Ciriiny poznámky. Čert aby se v nich vyznal.
+   1045978|00000000||Hmm... tady se intenzivně studuje.
+    573895|00000000||Bestiář bratra Adalberta. Klasika.
+   1075855|00000000||Hm. Zajímavý exemplář.
+   1028457|00000000||To je ten katakan, na kteréhos měl zakázku?
+   1028458|00000000||Mhm. Měsíc sledování a plížení, ale nakonec jsem toho hajzla dostal.
+   1028502|00000000||Blahopřeju. Ale nemůžu si pomoct - na co máš tu mrtvolu? Chceš ji vycpat a pověsit na krb?
+   1047877|00000000||Hm… To není špatný nápad... Ale nejdřív musím dokončit pitvu.
+   1047879|00000000||Tenhle byl rychlejší než obvykle. Rychlejší a silnější. Chci ho podrobně prozkoumat.
+   1047921|00000000||Otevři mu břicho.
+   1047932|00000000||No? Něco zajímavého?
+   1047934|00000000||Errr… Kousky nestráveného jídla... Jako by z pár desetiletí, jak to vypadá. Lidské vlasy, spona opasku, pár měďáků... a zlatý prsten.
+   1049082|00000000||Chceš ho dát Yennefer? Když ho trochu vycídíš, bude jako nový.
+   1047936|00000000||Ne, díky. Ona nosí jen stříbro.
+   1047938|00000000||Její smůla. Zbytek je naprosto obvyklý... Až na ta zkroucená játra. Asi měl zálibu v krvi opilců.
+   1047887|00000000||Otevři mu břicho.
+   1075859|00000000||Pořád nevím, jestli bych to dokázal bez pomoci toho alchymisty.
+   1047950|00000000||Tak jak jsi ho dostal?
+   1047952|00000000||Ó, dlouhý příběh… Povím ti to někdy jindy.
+   1047940|00000000||Pěkné pařáty. Patnáct palců, řekl bych.
+   1047942|00000000||Rostou jim celý život... Tomuhle mohlo být sto, sto deset let.
+   1047946|00000000||Docela silné nohy. Hlavně lýtka a chodidla.
+   1047948|00000000||Řeknu ti, tenhle sviňák byl rychlej. Jednu chvíli tady, druhou tamhle, vždycky ve stínech. Sotva jsem ho viděl.
+   1047888|00000000||Podívej se na pařáty.
+   1047956|00000000||Myslím, že už jsem viděl dost... Tohle byl stařík. Zkušený.
+   1047963|00000000||Hmm... Bylo by hezké zjistit, jak určit stáří katakana podle jeho stop. Abychom na ně nenaráželi bez přípravy jako na tohohle.
+   1047965|00000000||To by bylo, určitě. Ale později.
+   1075857|00000000||Měj se, Eskele.
+   1047889|00000000||To by zatím stačilo.
+   1047886|00000000||Podívej se na hlavu.
+   1047913|00000000||Podívej se mu na hlavu.
+   1047915|00000000||Dlouhé vousy... vyčnívající čelní lalok, ale to je obvyklé. Dlouhé uši... a náušnice?
+   1047917|00000000||Mhm. To už jsem viděl. Někteří z nich mají rádi lesklé předměty. Jako straky.
+   1047919|00000000||A ve chřtánu... zažloutlé otupené zuby. Chybí horní přední zuby, spodní řezáky...
+   1047924|00000000||Očividně nepoužíval zubní nit. Dobrá, tak dál.
+   1047900|00000000||Můžu se dívat?
+   1047902|00000000||Chceš mít tu čest?
+   1047904|00000000||Ne, díky. Jen řež, já si dám něco k jídlu.
+   1047880|00000000||Ukaž, podívám se.
+   1047894|00000000||Jasně, tak já tě s ním nechám.
+   1047881|00000000||Nechám tě s tím.
+   1075861|00000000||Rozmyslel sis to? Zrovna jsem chtěl začít.
+   1028500|00000000||Nazdar, Geralte.
+   1028505|00000000||Můžem si promluvit později? Musím před výcvikem uklidit.
+   1056879|00000000||Jdeš pro Ciri?
+   1047896|00000000||Mhm. Vesemir chce, aby cvičila.
+   1047898|00000000||Přidám se taky. Jen co uklidím stůl.
+   1058289|0a09c08e||Močálnice
+   1047842|00000000||Láska asi nezná hranic.
+   1047848|00000000||Mhm. Láska nezná hranic.
+   1047850|00000000||Tak to není. Její rodiče jí řekli, že jestli ji uvidí s Nilfgaarďanem, oholí jí hlavu, vyříznou jazyk a vyženou z domova.
+   1047852|00000000||Poslyš... Lena... Nezotavila se úplně. Vzal jsem ji s sebou, když mě přeložili. Myslel jsem, že jí bude líp. Ale ne... nic neříká. Nikoho nepoznává. Většinu dne prospí.
+   1047854|00000000||Já jsem Tomiru varoval. Zaklínačské lektvary mají silné a většinou trvalé účinky. Teď už jí nemůžu pomoct. Možná nějaký mág...
+   1047856|00000000||Nevím, jestli ti mám děkovat... nebo tě proklít, žes ji nenechal umřít se ctí.
+   1047860|00000000||Věř mi. Rozhodnutí, které jsem dělal já, bylo těžší.
+   1047844|00000000||Hrozné místo na romantické setkání. Kdyby ji nedostal gryf, dostalo by ji něco jiného.
+   1047846|00000000||Já vím... Ale já se ven dostal jen mezi hlídkami. Ty lesy... Byly blízko.
+   1047839|00000000||Hrozné místo na rande.
+   1047276|00000000||Hej ty, počkej!
+   1047278|00000000||Geralt z Rivie, je to tak? Byl jsi nedávno v Bělosadu? U Wyzimy?
+   1047284|00000000||Mhm. Překrásná vesnice. Pokud ti nevadí hnijící mrtvoly.
+   1047834|00000000||Nebýt tebe, byla by tam jedna navíc. Lena... přežila. Díky tvému lektvaru.
+   1047836|00000000||Je hezké vidět, že se Nilfgaarďan tolik zajímá o osud prostého seveřana. Ale také trochu překvapivé.
+   1047838|00000000||Tu noc, když zaútočil ten gryf... Byla na cestě za mnou. V lesích nedaleko posádky.
+   1084448|103d846e||Laň
+   1075506|e3976585||Starý Ostroň
+    577747|00000000||Při útoku nikdy nepropínej loket, mladá dámo.
+    577739|00000000||A ješté!
+    577741|00000000||Tu máš! Přesekla jsem ti tepnu!
+    577749|00000000||Pozice, Ciri! Práce nohou! Pamatuj na to!
+    577743|00000000||A co mám jako krýt? Vždyť je to figurína.
+    577745|00000000||Teď předstírej a později přežiješ.
+    574766|00000000||Co jsem ti říkal o dechu? Pusou, a v rytmu s kroky.
+    577080|00000000||Huhhhh…. Huhhhh…. Huhhh….
+    577082|00000000||Nech toho, Ciri.
+    577084|00000000||Ach ne. Vesemir má už zas ten pohled.
+    577086|00000000||Cos čekala?
+   1056855|00000000||Geralte, co je? No tak!
+   1059615|00000000||Máš potíže? Mám se vrátit a pomoct ti?
+   1059617|00000000||První! Na-na-na-na-naaa-na!
+   1059619|00000000||Vyhrál jsem.
+   1059621|00000000||Máš delší nohy! Já ti ještě ukážu - jen musím trochu vyrůst!
+   1059611|00000000||Hej! Říkals, že tohle se nesmí!
+   1059613|00000000||Říkal jsem, že tohle nesmíš ty.
+    574750|00000000||Budu dole první!
+    577077|00000000||Leda kdybys tam spadla.
+   1028700|00000000||Neruš mě, Geralte! Zakopnu a spadnu!
+    346241|fd7deb62||Dobrodruh
+    576828|00000000||Mohla ses zmínit, žes to dočetla, když Vesemir spal.
+    576840|00000000||Takže tys to vlastně přečetla. Proč jsi to neřekla hned?
+    576841|00000000||"Své výhody nikdy nevyužívej hned, jak se objeví. Počkej teprve, až to bude mít největší účinek." To přece říká Vesemir.
+    576842|00000000||Nu, učíš se rychle. Ale jsi pořádný rošťák.
+   1058686|00000000||Měli bychom zapracovat na základech. I zkušení mistři se v nich musí zdokonalovat... a Ciri je sotva nováček.
+   1058683|00000000||Základy - raději začneme těmi. [ZAČÍT VÝUKU SOUBOJŮ]
+   1058688|00000000||Přejdeme rovnou k volnému výcviku... Nemá smysl znovu opakovat základy.
+   1058684|00000000||Přejdeme rovnou k volnému výcviku. [PŘESKOČIT VÝUKU]
+    576835|00000000||Budiž, už jsme toho namluvili dost. Geralte, ty budeš se mnou. Lambert bude s Eskelem a Ciri s panákem!
+    576837|00000000||Už zase?
+    576838|00000000||Nekňuč a tas meč!
+   1058717|00000000||Co myslíš - měli bychom začít tím, že si zopakujeme základy, nebo se pustíme hned do volného výcviku?
+    576830|00000000||Nesnaž se z toho vykroutit.
+    577037|00000000||"Zaklínač musí vědět, jak obelstít soupeře." Sám to říkáš.
+    577039|00000000||Možná. Ale nepoužívej moje moudra na Vesemira. To by sis hrála s ohněm.
+    576819|00000000||Z toho se nevykroutíš.
+    573553|00000000||Co mi k tomu řekneš, mladá dámo?
+    573554|00000000||Moc mě to mrzí, strýčku Vesemire.
+   1044494|00000000||Mladá krev baží po akci, to chápu. Ale když bojuješ s příšerou, hodí se ti znalosti stejně tak jako stříbrný meč. Přinejmenším bys aspoň měla umět poznat ghúla od alghúla...
+    573556|00000000||... "podle skvrn, co jak panthera tigris má, jenž v Zerrikánii žije, a podle chorobné bledosti jeho vzhledu."
+    573557|00000000||Hm. Takže tys tu kapitolu přečetla. Ale stejně ses měla zeptat, jestli...
+    576818|00000000||Ale tys spal, strýčku Vesemire.
+   1050632|002efcee||Jelen
+   1064995|00000000||Tolik mrtvol… a to válka sotva začala.
+   1064997|00000000||Jizva se pěkně zacelila…
+   1064993|00000000||Sakra… ten horskej průsmyk je krásnej jako vždycky.
+   1055682|b224b6d2||Žroun
+   1056946|00000000||Šeřík a angrešt, samozřejmě...
+   1058292|00000000||Geralte... přestaň se mi hrabat ve věcech.
+   1056954|00000000||Dochází ti šťáva.
+   1058286|00000000||Já vím. Až skončíš s výcvikem, mohl bys pro nějakou skočit.
+   1056956|00000000||Máš nějaké šaty kromě černých a bílých?
+   1058288|00000000||Mhm. Spodní prádlo.
+   1056944|00000000||Nic než stříbro...
+   1058285|00000000||Zlatá mi nejde k pleti. To bys měl vědět.
+   1031654|00000000||Stará hlásná věž. Nebude dlouho trvat a zůstane z ní jen hromada kamení.
+    578398|00000000||Promluvíme si později.
+    432590|d184d9f7||Přízrak
+    170811|72cb8ee5||Topivec

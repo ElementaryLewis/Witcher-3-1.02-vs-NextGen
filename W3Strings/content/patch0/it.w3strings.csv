@@ -1,0 +1,1081 @@
+;meta[language=it]
+; id      |key(hex)|key(str)| text
+   1071181|00000000||Nei pressi del porto di Novigrad il witcher si imbatté nel suo vecchio fratello d'armi, Lambert. La sorpresa di Geralt non fece che crescere quando scoprì che l'ekimmuh cacciatao da entrambi non era il motivo principale della visita di Lambert in città. Ma prima di potersi sedere a fare quattro chiacchiere, i due witcher dovevano occuparsi del loro disonesto cliente... Quante volte gli uomini cercheranno di privare i witcher della paga di un onesto lavoro prima d'imparare la lezione?<br>Risolto il problema, Geralt poteva finalmente parlare con Lambert. Si scoprì che questi stava cercando le persone responsabili della morte del suo amico Aiden, un witcher della Scuola del Gatto. Lambert aveva saputo che Aiden era stato assassinato da una banda di sgherri guidata da un uomo di nome Jad Karadin. Geralt decise di aiutare Lambert, e i due partirono in cerca di vendetta.<br>
+   1071257|73e75aa8||Efficace contro gli umani, gli umanoidi e le bestie.
+   1071260|40854ed3||Efficace contro gli umani e gli umanoidi. I witcher non sono addestrati all'uso di quest'arma.
+   1067013|15dda91d||Aumenta il bonus dei mutageni collocati negli slot del $I$%.
+   1069036|0b5e880d||Una passione fragrante: una vita per la tiromanzia
+   1065061|20af220c||Vampiro: ekimmuh
+   1081336|00000000||I razziatori di tombe elfiche o si arricchiscono in fretta o muoiono nel tentativo. I templi e i palazzi in rovina degli Aen Seidhe celano tesori inestimabili, ma al loro interno si annidano molti mostri. Questo è ciò che accadde a Stradine, dove alcuni contadini ignari finirono con il risvegliare un pericoloso ekimmuh.<br><br>Il witcher sapeva che il mostro sarebbe stato un osso duro: l'ekimmuh si rigenera in fretta, i suoi colpi provocano copiose emorragie ed è in grado di svanire nel nulla. Tuttavia sapeva anche come ovviare a tutto questo: avrebbe dovuto ricorrere ai Segni Yrden e Quen, e poi a colpi potenti. Cercando, ovviamente, di non farsi uccidere.
+   1077673|00000000||<i>Gli uomini... perlomeno quelli educati... mi definiscono un mostro. Un mostro succhiasangue.</i><br>- Emiel Regis, vampiro superiore<br><br>Soltanto la comune sete di sangue lega i vampiri superiori ai loro primitivi cugini: ekimmuh, alp, katakan e simili. In realtà, i vampiri superiori sono molto più simili agli umani rispetto a quei pipistrelloni succhiasangue. Non solo hanno un aspetto simile a noi, ma condividono la nostra intelligenza e i nostri schemi comportamentali. Ciò significa che non vivono in foreste lontane e non si nascondono nelle ombre. Al contrario, sono particolarmente affascinati dalle città, dove trascorrono vite ingannevolmente normali. Persino i witcher non sono in grado di riconoscerli subito, poiché i loro medaglioni restano inerti al cospetto dei vampiri superiori. Tuttavia, queste similitudini nascondono una differenza fondamentale: contrariamente agli uomini, i vampiri superiori sono immortali. Si può contare sulla dita di una mano chi li ha affrontati in combattimento ed è sopravvissuto.<br>
+   1077672|00000000||Gli ekimmuh sono insolitamente crudeli e incredibilmente veloci. Sono in grado di sferrare rapide sequenze di colpi e di sfondare persino le migliori armature di Mahakam. Si consiglia di affrontarli con una spada d'argento, ricordando che possono rigenerarsi nel tempo. Non bisognerebbe mai cercare di sfiancarli o, che gli dèi ci salvino, aspettare che muoiano per dissanguamento. Invece, è meglio abbatterli il più velocemente possibile e bruciarne il cadavere, riducendolo in cenere da spargere ai quattro venti.
+   1077305|00000000||<i>Bah, non c'è niente da temere. Gli ekimmuh... Ah, sono poco più che pipistrelli troppo cresciuti.</i><br>- Ultime parole di una guardia cittadina, nome ignoto<br><br>Come gli altri vampiri, gli ekimmuh non sono umani non morti, nonostante le chiacchiere di villaggio sostengano il contrario. Sono invece dei mostri post-Congiunzione che non provano particolare avversione verso l'aglio, l'acqua santa o i simboli religiosi.<br><br>Contrariamente alla loro descrizione nelle ballate e nelle leggende, non sono affatto gli incantevoli aristocratici pallidi con affascinante accento orientale, anche se, similmente ai katakan e ai nekurat, hanno una forte somiglianza a grossi pipistrelli. Inoltre, non succhiano il sangue dal collo delle vergini con un delicato morso simile a un bacio... Le fanno a pezzi con lunghi artigli affilati e leccano il sangue dal terreno circostante.
+   1077304|00000000||Ekimmuh
+   1077495|00000000||Orchi
+   1078101|00000000||Trova il tesoro dei predatori di tombe.
+   1077859|00000000||Portali
+   1077862|00000000||Le testimonianze sembrano indicare che i ciclopi esistano da moltissimo tempo. Un esemplare ben conservato, esaminato e documentato dagli studiosi... trovato nel 1112 e portato dagli specialisti di Oxenfurt... è stato datato a oltre trecento anni fa. Recentemente, i resti di questo esemplare erano stati esposti nel museo zoologico dell'Accademia, ma sono stati rimossi quando gli studenti hanno cercato di vestire il ciclope con una toga, danneggiandolo notevolmente.<br><br>Come per i giganti, possiamo soltanto ipotizzare i punti forti e deboli dei ciclopi. La loro massa preclude ogni utilizzo del Segno Aard, mentre la loro enorme forza fisica rende particolarmente letali i loro colpi. Probabilmente, i ciclopi sono vulnerabili all'unguento anti-orchi. In quanto mostri con cervello relativamente ben sviluppato, possono essere influenzati con il Segno Axii.
+   1077867|00000000||I troll sono in grado di usare il fuoco e semplici attrezzi, e alcuni di loro hanno persino appreso le basi della lingua comune. Sebbene alcune raffinatezze linguistiche (come, ad esempio, le coniugazioni e le declinazioni) gli sfuggano, sono appassionati d'indovinelli, rime e ogni genere di gioco di parole, cosa che un witcher con un po' d'ingegno può sfruttare a proprio vantaggio.<br><br>Se lo scontro dovesse rivelarsi inevitabile, bisogna fare attenzione alle pietre lanciate dai troll con grande forza e precisione sorprendente. Anche i loro potenti e pesanti pugni sono pericolosi, poiché possono ammaccare persino le armature e le corazze più resistenti. Poiché le loro schiene sono ricoperte da una corazza rocciosa, i colpi sferrati da dietro non infliggeranno grandi danni. Pertanto, vanno affrontati direttamente, faccia a faccia... e preferibilmente armati di una spada ricoperta da unguento anti-orchi.
+   1077846|00000000||Portali
+   1078009|dfefb296||Chiave del nascondiglio del katakan.
+   1078835|00000000||Caccia al tesoro: schemi dei potenziamenti dell'equipaggiamento della Scuola dell'Orso - Parte 3
+   1078834|00000000||Caccia al tesoro: schemi dei potenziamenti dell'equipaggiamento della Scuola dell'Orso - Parte 2
+   1078833|00000000||Caccia al tesoro: schemi dei potenziamenti dell'equipaggiamento della Scuola dell'Orso - Parte 1
+   1078836|00000000||Caccia al tesoro: schemi dei potenziamenti dell'equipaggiamento della Scuola dell'Orso - Parte 4
+   1075376|00000000||Per sferrare un attacco potente, tieni premuto <<PCAlternate>> e premi <<AttackWithAlternateLight_mod>>.<br><br>Gli attacchi potenti sono più lenti degli attacchi veloci, ma causano molti più danni.<br><br>Gli avversari deboli non riescono a parare gli attacchi potenti.
+   1075382|83487b7d||I lupi mannari, anche noti come licantropi, sono persone in grado di cambiare la propria forma in quella di un lupo o di un ibrido mezzo umano e mezzo lupo. La maggior parte delle persone colpite da licantropia non riesce ad avere il controllo completo di tale trasformazione. Quando sono in forma di lupo, agiscono seguendo il puro istinto predatorio, spinti dalla fame e privi della morale umana.
+   1075370|00000000||Per sferrare un attacco rapido, premi <<AttackWithAlternateLight>>.
+   1075983|00000000||Per far arrivare da te il cavallo, premi <<SpawnHorse>>.
+   1076214|9dae9bd8||Invio
+   1076194|91252f37||Evoca una palla di fuoco che polverizza la zona in cui atterra.
+   1076197|db9330e8||Ctrl destro
+   1076202|97b25229||Spazio
+   1076148|00000000||Per prendere il timone di una barca premi <<EnterBoat>>. Per lasciare il timone premi <<BoatDismount>>.<br><br>Per accelerare premi <<GI_Accelerate>> e per rallentare premi <<GI_Decelerate>>.
+   1076122|00000000||Usa la <font color="#CD7D03">cote</font><<ICO_RepairWeapons>> per potenziare temporaneamente le armi.<br><br>Usa i <font color="#CD7D03">tavoli da lavoro</font><<ICO_RepairArmor>> per potenziare temporaneamente l'armatura.<br><br>Gli oggetti potenziati ricevono un <font color="#CD7D03">bonus di difesa o di attacco</font>. Per ripristinare il bonus basta usare di nuovo una cote o un tavolo da lavoro.
+   1075722|00000000||Per lanciare un Segno premi <<CastSign>>.<br><br>I Segni, come altre azioni, consumano vigore. Prima di lanciare un altro Segno, aspetta che il vigore si rigeneri.<br>Per selezionare un Segno, puoi usare i collegamenti rapidi <<SelectAard>> - <<SelectAxii>>.
+   1075726|00000000||Premi <<ThrowItem>> per lanciare un dardo con la balestra. Per una mira più accurata, tieni premuto <<ThrowItem>> per mirare e poi rilascia.<br><br>Nell'inventario puoi scegliere quali dardi usare. Alcuni hanno abilità speciali. In alcune situazioni, la balestra è un'arma tattica, anche se non infligge tanti danni quanto la spada e i Segni.
+   1075874|00000000||Quando non conosci la posizione di un obiettivo, la minimappa indicherà la zona in cui devi cercarlo.
+   1076545|00000000||Scegli un'abilità e cliccaci sopra con <<IK_RightMouse>> per svilupparla.
+   1076503|00000000||Usa <<Mouse>> per selezionare una meta, poi cliccaci sopra due volte per raggiungerla.
+   1076495|b4c7ffbd||Tiromanzia: La nobile arte della divinazione del formaggio
+   1076492|b4c7ffbc||Moribundia: L'ultimo aspetto del vampiro
+   1076659|00000000||Seleziona il <font color="#CD7D03">Segno Yrden</font> con <<Mouse>> e premi <<IK_LeftMouse>> per attivarlo.
+   1076657|00000000||Seleziona il <font color="#CD7D03">Segno Igni</font> con <<Mouse>> e premi <<IK_LeftMouse>> per attivarlo.
+   1076655|00000000||Seleziona il <font color="#CD7D03">Segno Axii</font> con <<Mouse>> e premi <<IK_LeftMouse>> per attivarlo.
+   1076257|00000000||Premi <<ThrowItem>> per evocare una palla di fuoco che colpirà nel punto in cui ti trovi.
+   1076256|00000000||Palle di fuoco
+   1076270|00000000||Indietreggia o la palla di fuoco ti colpirà.
+   1076243|54561b6e||Pulsante 6 del mouse
+   1076242|54561b6d||Pulsante 5 del mouse
+   1076241|54561b6c||Pulsante 4 del mouse
+   1076245|54561b70||Pulsante 8 del mouse
+   1076244|54561b6f||Pulsante 7 del mouse
+   1076231|2e8ae8a7||- (TastNum)
+   1076229|751eaa83||+ (TastNum)
+   1076228|7520233b||* (TastNum)
+   1076234|751ce214||Bloc Num
+   1076233|2ee0a1b4||/ (TastNum)
+   1076232|a7b9fc6a||. (TastNum)
+   1076435|5ed27fb9||Mi darete senza alcun dubbio del bugiardo e del pazzo, e scuoterete la testa increduli. Ma giuro su tutti gli dèi che quanto sto per narrare è la verità e nient'altro che la verità.<br><br>Ho incontrato il vampiro di cui vi parlerò alcuni anni fa, in una taverna a Beauclair. Si presentò con il nome di Regis, dicendo di essere barbiere e medico. Dal momento che il suo aspetto era in tutto e per tutto identico a quello di un umano, non mi sarei mai accorto della sua vera natura se non fosse scoppiato un incendio nell'edificio in cui ci trovavamo. Regis, se questo è il suo nome, non fu neppure sfiorato dalle fiamme, mentre i miei abiti presero subito fuoco. Fu il vampiro a portarmi fuori dalla taverna in fiamme salvandomi da morte certa, per poi curare le mie numerose ferite.<br><br>All'inizio Regis rifiutò di rispondere alle mie domande su come era sopravvissuto alle elevate temperature all'interno dell'edificio, senza neppure bruciarsi la punta di un capello né riportare la benché minima ferita o ustione. Alla fine però, intuendo che ero un uomo di mondo e che il mio giudizio non era condizionato da pregiudizi di specie o di razza, mi rivelò la sua identità, insieme a un gran numero di fatti interessanti.<br><br>Secondo Regis, non tutti i vampiri sono uguali: a questa specie appartengono infatti katakan, fleder ed ekimmuh, che somigliano più a pipistrelli giganti che a esseri umani, come pure alp e bruxae, che hanno l'aspetto di fanciulle. Inoltre ci sono anche i vampiri superiori, genere a cui apparteneva anche il mio nuovo amico.<br><br>Nemmeno un witcher è in grado di distinguere un vampiro da un umano. Contrariamente a quanto si crede, non basta trapassare il loro cuore con paletti di frassino e tagliare loro la testa per ucciderli, e anche bruciarli è inutile, come posso testimoniare io stesso. Non hanno paura dell'acqua che scorre né dell'aglio o dei simboli religiosi. Inoltre il morso del vampiro non è sufficiente a trasformare un umano in uno di loro e non hanno affatto bisogno del nostro sangue per sopravvivere: si tratta solo di una leccornia che si concedono di quando in quando, come fanno gli uomini con il vino d'annata.<br><br>Regis mi ha chiesto di tenere per me le sue confidenze, ma ora che giaccio sul mio letto di morte sento di doverle condividere, anche se così facendo verrò meno alla parola data...
+   1076379|b4c7ffbf||La cura dei forunculi tramite la cauterizzazione: studio
+   1076377|b4c7ffbe||Le allegre avventure di Muriel, l'adorabile prostituta. Con spassose illustrazioni
+   1076769|00000000||Tieni premuto <<PCAlternate>> e <<AttackWithAlternateLight_mod>> per eseguire una carica.<br><br>Più a lungo tieni premuto il comando, maggiore sarà il raggio dell'attacco.
+   1076767|00000000||Premi <<AttackWithAlternateLight>> per provocare un nemico e spingerlo ad attaccarti.
+   1073410|00000000||Esegui un attacco rapido contro Vesemir premendo <<AttackWithAlternateLight>>.
+   1073412|00000000||Esegui un attacco potente contro Vesemir tenendo premuto <<PCAlternate>> e premendo <<AttackWithAlternateLight_mod>>.
+   1073388|00000000||Conversazioni: scelte
+   1054781|00000000||Prendi un trofeo dall'ekimmuh.
+   1053619|00000000||Si scoprì che il mostro era un ekimmuh, ma la vera sorpresa fu che Lambert era già sulle tracce del mostro. E cosa ancora più interessante, lo stava braccando per arrivare al capo di un gruppo di assassini che avevano ucciso un suo amico. I nostri eroi eliminarono i membri della banda uno a uno finché non trovarono il loro capo, Jad Karadin.<br>
+   1054121|00000000||Uccidi le creature che emergono dai portali.
+   1054120|00000000||Uccidi le creature che emergono dai portali.
+   1051079|00000000||Geralt scoprì che gli abitanti del villaggio avevano deciso di guadagnare qualche soldo extra scavando un'antica miniera elfica. Dal momento però che là sotto li aspettava una spiacevole sorpresa, non ci misero molto a cacciarsi nei guai. I cacciatori di tesori improvvisati avevano risvegliato un tipo di vampiro particolarmente malvagio conosciuto come ekimmuh, che aveva sterminato la pattuglia nilfgaardiana nei pressi di Stradine. Geralt decise di uccidere la bestia e così si diresse alle rovine fuori dal villaggio.
+   1051080|00000000||I soldati nilfgaardiani si dimostrarono uomini d'onore e pagarono il witcher senza fiatare, versandogli non solo la somma dovuta per l'uccisione dell'ekimmuh ma anche un extra per avere scoperto cos'era accaduto ai loro compagni.
+   1050687|00000000||Il brutto anatroccolo
+   1051921|00000000||Gli abitanti furono così grati al witcher per averli salvati dall'ekimmuh che si offrirono persino di pagargli una ricompensa.
+   1051920|00000000||Una volta che Geralt ebbe ucciso l'ekimmuh, gli abitanti di Stradine non si dimostrarono granché riconoscenti. Ma per il nostro witcher, che aveva ormai una lunga esperienza in materia, non fu affatto una sorpresa.
+   1049943|60ea26e0||Spada d'acciaio. Per affrontare umani, umanoidi e bestie.
+   1064031|3a84c32a||Durata estesa. Il veleno cura anziché causare danni.
+   1063956|fc921508||Limita di molto la durata di atterramento, ipnosi, stordimento e accecamento.
+   1063965|fc921527||Applica un effetto che aumenta l'intensità di un Segno casuale al tramonto e all'alba. Dura più a lungo di altri decotti di mutageni.
+   1063947|e71d7c8e||Se c'è vigore disponibile, gli attacchi potenti lo consumano interamente e riducono la vitalità del nemico colpito del 10% in aggiunta al danno normale.
+   1062564|d7dd1caa||Pattuglia scomparsa - Ricompensa
+   1104106|710f8a92||Hai sbloccato la possibilità di iniziare una Nuova partita +. Per farlo crea un nuovo salvataggio, inizia una nuova partita, scegli l'opzione Nuova partita + e seleziona il salvataggio da cui vuoi importare il tuo personaggio. Puoi selezionare solo i salvataggi successivi al momento in cui hai sbloccato l'opzione Nuova partita +.
+   1104035|d65dcc27||Nuova partita +
+   1104039|0d4964f9||Non puoi iniziare una Nuova partita + in questo momento.
+   1104038|1259b0a8||Si è verificato un errore durante il salvataggio.
+   1104036|651a4149||Non ci sono salvataggi utilizzabili per una Nuova partita +.
+   1104043|c76954c9||Impossibile caricare il salvataggio: contenuto di gioco incompleto.
+   1104042|7326ef5c||Si è verificato un errore sconosciuto durante l'importazione del salvataggio.
+   1104041|61f0d99d||Livello del personaggio troppo basso o partita non completata in questo salvataggio.
+   1104040|598f936d||Il salvataggio selezionato non è valido. Carica il salvataggio e salva nuovamente per procedere.
+   1104884|28d5b1ee||Rotola
+   1104866|867aba18||Mappa in tessuto intatta
+   1104865|867ab9f9||Mappa in tessuto molto sbiadita
+   1104915|f50ceca4||PROGETTAZIONE SITO WEB ESTERNALIZZATA
+   1104914|8fb89d65||Attiva/Disattiva scatto
+   1104919|7ab8ea05||Aggancia bersaglio
+   1104918|ffe663a0||Attiva/Disattiva camminata
+   1104923|5711adb4||Seleziona Segni
+   1104920|e65bd07f||Cambia tipo di attacco
+   1105791|5a586213||Nuova missione "Contratto: minatori scomparsi"
+   1105790|5a4a4a92||Set Barba e capigliatura
+   1105789|5a3c3311||Set Armatura temeriana
+   1105867|950b665d||I salvataggi creati con questa versione non sono compatibili con le versioni precedenti del gioco.
+   1105866|b654820b||I salvataggi creati con questa versione non sono compatibili con le versioni precedenti del gioco.
+   1105795|5a90c017||Nuova missione: "L'oro degli sciocchi"
+   1105794|5a82a896||Abiti alternativi di Triss
+   1105793|5a749115||Set Armatura nilfgaardiana
+   1105792|5a667994||Abiti alternativi di Yennefer
+   1105799|5bf10bb0||Abiti alternativi di Ciri
+   1105798|5be2f42f||Nuova missione: "Caccia al tesoro: equipaggiamento della Scuola del Lupo"
+   1105797|5aacef19||NUOVA PARTITA +
+   1105796|5a9ed798||Set di carte di gwent neutrali "Eroi delle ballate"
+   1105803|5c2969b4||Nuova missione: "Dove giocano il gatto e il lupo..."
+   1105802|5c1b5233||Set Armatura delle Skellige
+   1105801|5c0d3ab2||Set Balestra superiore
+   1105800|5bff2331||Nuova missione: "Contratto: il ricercato numero uno di Skellige"
+   1105806|667dad9a||Ti serve il seguente contenuto scaricabile per poter aprire questo salvataggio
+   1105805|6937efd0||Ti serve il seguente contenuto scaricabile per poter aprire questo salvataggio
+   1105804|5c378135||Nuove animazioni mosse finali
+   1102051|9615a0a1||Pulsante sinistro del mouse
+   1102057|e035d313||Pulsante centrale del mouse
+   1102056|305248c6||Pulsante destro del mouse
+   1102439|8035c2a4||Sensibilità mouse nei menu
+   1102569|98ca5985||Tempo di gioco totale
+   1102491|4ec338ac||Stivali sorprendentemente comodi. Gli artigli sulle dita non fanno certo passare inosservati.
+   1102490|97b582f2||Stivali di pelle di nekker
+   1102493|04b09b99||Salvataggio non disponibile
+   1102492|907db547||Salvataggio non disponibile
+   1103843|c5784d99||Medaglione della Scuola del Gatto
+   1103779|dc99f96d||Minuti
+   1103778|43186f1d||Ore
+   1103777|02280e89||Giorni
+   1103776|4ce23aeb||Schema: Seta
+   1103781|23c93ed5||Importazione del salvataggio di The Witcher 2 non riuscita.
+   1103780|128e270d||Secondi
+   1100128|fc14eac1||Ordina oggetti
+   1100115|00000000||Per lanciare un Segno premi <<CastSign>>.<br><br>I Segni, come altre azioni, consumano vigore: prima di lanciare un altro Segno, aspetta che il vigore si rigeneri.
+   1100114|00000000||Usare i Segni
+   1100106|00000000||Per sferrare un attacco potente, premi <<AttackHeavy>>.<br><br>Gli attacchi potenti sono più lenti degli attacchi rapidi, ma causano molti più danni.<br><br>Gli avversari deboli non possono parare gli attacchi potenti.
+   1100105|00000000||Attacco potente
+   1100688|331dbc92||[EN] Painter
+   1100403|203d5551||Appunti di Varin
+   1100402|17c47abc||[ultime pagine rimaste di un diario]<br><br>Giorni di servizio: MMMMCMXVIII<br><br>Finalmente ho decifrato quei manoscritti gnomici. Da essi ho tratto schemi per una coppia di spade, una d'argento e una d'acciaio. Varin le ha già forgiate. Le ha portate al bastione per provarle nel suo modo preferito: sferzando i giovani witcher durante gli allenamenti. Ora potrò finalmente tornare alla vecchia torre di segnalazione, per rimettermi a lavorare alla costruzione del sistema di teletrasporto. Forse riuscirò a stabilizzarlo.<br><br>Giorni di servizio: MMMMCMXIX<br><br>La vergognosa incapacità che mi impedisce di lanciare un incantesimo di teletrasporto potrebbe rivelarsi un dono per l'intera umanità: il sistema che sto studiando potrebbe fare del teletrasporto un sistema di spostamento abituale, a patto che riesca a perfezionarlo. Forse, quando uscirò da questa prigione, potrei brevettarlo al Conclave... Spero solo di riuscire a completare l'opera prima che i witcher mi costringano a compiere un'altra Prova...<br><br>Giorni di servizio: MMMMCMXXII<br><br>Terza notte di fila insonne. In questa torre si gela. Non riesco a stabilizzare il portale e intanto Varin continua a torturarmi con altri manoscritti da tradurre: questa volta si tratta dello schema di un'armatura.<br><br>Giorni di servizio: MMMMCMXXVII<br><br>Lo schema dell'armatura è pronto, ma non posso tornare al mio lavoro. Presto si terrà una nuova Prova delle Erbe. Giuro sulla magia che non reggerò a lungo. Di tutti i maghi, perché il Conclave ha assegnato proprio me a Kaer Morhen?<br><br>Giorni di servizio: MMMMCMXLVIII<br><br>Bartel, Diederik, Jaap, Aleid... e queste sono solo le ultime vittime. Vedo ancora il loro volto, sento l'acre fetore del loro vomito e dei loro escrementi. Un incubo senza fine.<br><br>I pochi sopravvissuti all'avvelenamento, ovvero ai mutageni, ai decotti alchemici e agli intrugli di funghi allucinogeni, ora verranno addestrati da witcher folli come Varin. Per due settimane ho vegliato al capezzale di Koenrad, per due settimane l'ho accudito perché non varcasse la soglia del regno dei morti. E per cosa? Perché venisse picchiato quasi a morte da Varin al suo primo giorno di addestramento al bastione?<br><br>I witcher combattono i mostri? Ma se sono mostri essi stessi! Troppo a lungo hanno fissato l'abisso. Non possiamo contare sull'ira degli dèi, ma forse potremmo ricorrere a quella del popolo...
+   1100401|203d5550||Diario di Hieronymus
+   1100404|1979535b||[appunti che contengono minuziose annotazioni di lunghe ed estenuanti sessioni di allenamento per giovani witcher, corredate di note ai margini]<br><br>Quel mago si è finalmente rivelato utile: la spada d'acciaio che ho forgiato seguendo le sue istruzioni è di ottima qualità. Sembra che abbia decifrato anche il secondo manoscritto, devo passare alla torre di guardia a prenderlo.<br><br>Quel vecchio brontolone di Hieronymus è tornato a infastidirmi. Non mi piace il modo in cui guarda i miei allievi come non mi piace la sua arroganza, né il modo in cui ficca il naso negli affari altrui. Ieri sera mi ha criticato davanti ai ragazzi perché secondo lui "sfianco i loro corpi già provati da una lunga intossicazione". Sono futuri witcher, cazzo, non una confraternita di studiosi in un'accademia!<br><br>E come se non bastasse, anziché prepararsi alla prossima Prova delle Erbe, si è rinchiuso nella vecchia torre di segnalazione lavorando notte e giorno a chissà cosa. Devo scoprire cosa sta combinando là dentro.
+   1100439|867ab9d9||Mappa in buono stato
+   1100443|db0c378a||Vecchia mappa sbiadita
+   1100442|db0c3789||Mappa ammuffita
+   1100441|867ab9da||Mappa leggermente strappata
+   1101187|7a1c1281||Assegnazione tasti
+   1101191|d03e0a6d||non è più assegnato a un tasto.
+   1101190|a981389a||Premi il tasto o il pulsante del mouse da assegnare:
+   1101189|35c5e315||Tasto
+   1101188|0b8fdf52||Azione
+   1101664|317d8e12||Schema: Guanti del lupo superiori
+   1101674|317d8e13||Schema: Guanti del lupo perfetti
+   1101648|6d911aab||Pantaloni del lupo superiori
+   1101655|a0ebcd51||Stivali del lupo perfetti
+   1101654|a0ebcd50||Stivali del lupo superiori
+   1101653|6d911aac||Pantaloni del lupo perfetti
+   1101658|13f57580||Schema: Pantaloni del lupo superiori
+   1101657|e5572db4||Guanti del lupo perfetti
+   1101656|e5572db3||Guanti del lupo superiori
+   1101663|eb98a8e6||Schema: Stivali del lupo perfetti
+   1101662|eb98a8e5||Schema: Stivali del lupo superiori
+   1101661|13f57581||Schema: Pantaloni del lupo perfetti
+   1101639|a27798b3||Stivali dell'orso perfetti
+   1101638|a27798b2||Stivali dell'orso superiori
+   1101637|6f1ce60e||Pantaloni dell'orso perfetti
+   1101643|bf7dec63||Schema: Pantaloni dell'orso perfetti
+   1101642|bf7dec62||Schema: Pantaloni dell'orso superiori
+   1101641|1544ce92||Guanti dell'orso perfetti
+   1101640|1544ce91||Guanti dell'orso superiori
+   1101647|f703f371||Schema: Guanti dell'orso perfetti
+   1101646|f703f370||Schema: Guanti dell'orso superiori
+   1101645|97211fc8||Schema: Stivali dell'orso perfetti
+   1101644|97211fc7||Schema: Stivali dell'orso superiori
+   1101619|7bce946d||Schema: Pantaloni del grifone superiori
+   1101618|413876b1||Guanti del grifone perfetti
+   1101617|413876b0||Guanti del grifone superiori
+   1101616|d56ef0b4||Stivali del grifone perfetti
+   1101623|c4c84cc5||Schema: Guanti del grifone superiori
+   1101622|5371c7d3||Schema: Stivali del grifone perfetti
+   1101621|5371c7d2||Schema: Stivali del grifone superiori
+   1101620|7bce946e||Schema: Pantaloni del grifone perfetti
+   1101625|6f1ce60d||Pantaloni dell'orso superiori
+   1101624|c4c84cc6||Schema: Guanti del grifone perfetti
+   1101603|4999b58f||Guanti del gatto perfetti
+   1101602|4999b58e||Guanti del gatto superiori
+   1101601|729b5e16||Stivali del gatto perfetti
+   1101600|729b5e15||Stivali del gatto superiori
+   1101604|92fe3f05||Schema: Pantaloni del gatto superiori
+   1101611|938df52d||Schema: Guanti del gatto superiori
+   1101610|6aa1726b||Schema: Stivali del gatto perfetti
+   1101609|6aa1726a||Schema: Stivali del gatto superiori
+   1101608|92fe3f06||Schema: Pantaloni del gatto perfetti
+   1101615|d56ef0b3||Stivali del grifone superiori
+   1101614|a2143e0f||Pantaloni del grifone perfetti
+   1101613|a2143e0e||Pantaloni del grifone superiori
+   1101612|938df52e||Schema: Guanti del gatto perfetti
+   1101599|3f40ab71||Pantaloni del gatto perfetti
+   1101598|3f40ab70||Pantaloni del gatto superiori
+   1098491|00000000||I witcher trascorrono buona parte del tempo viaggiando alla ricerca di contratti, attraversando ampie vallate, scalando montagne elevate e inoltrandosi in paludi malsane.<br><br>Per sua fortuna, durante i suoi viaggi, Geralt può sempre contare sul <font color="#CD7D03">suo cavallo</font>, <font color="#CD7D03">Rutilia</font>.<br><br>Per chiamare <font color="#CD7D03">Rutilia</font>, premi due volte <<SpawnHorse>>.
+   1098490|00000000||Cavalli
+   1098489|00000000||Per far arrivare da te il cavallo, premi due volte <<SpawnHorse>>.
+   1098488|00000000||Cavalcare - chiamare il cavallo
+   1098493|00000000||Se devi affrontare lunghe distanze o superare ostacoli come questo, il cavallo è l'unica opzione.<br><br>Per chiamare il cavallo, premi due volte <<SpawnHorse>>.
+   1098492|00000000||Cavalcare - chiamare il cavallo
+   1099517|efb1f4c5||Decotti
+   1099516|6ba9f2a1||Alcol
+   1099463|00000000||Attacco potente
+   1099464|00000000||Esegui un attacco potente contro Vesemir premendo <<AttackHeavy>>.
+   1110453|f8d17716||Devi riavviare il gioco perché queste modifiche abbiano effetto.
+   1110452|f1838f72||Desideri apportare queste modifiche?
+   1110156|7d49be54||[EN] Plan B
+   1110903|16f1acff||Fotogrammi massimi al secondo
+   1110910|8076ee3d||Illimitato
+   1110909|447d80de||60
+   1110908|447d8081||30
+   1110797|fb2cd197||RAPPRESENTANTE SERVIZIO CLIENTI JUNIOR
+   1110954|27e189c3||Cursore hardware
+   1110534|8087e1b0||[EN] Trophy hunter
+   1108979|f737bfae||Schema: Pantaloni dell'orso migliorati leggendari
+   1108978|1a61e158||Schema: Armatura dell'orso perfetta leggendaria
+   1108977|1a61e157||Schema: Armatura dell'orso superiore leggendaria
+   1108976|1a61e156||Schema: Armatura dell'orso migliorata leggendaria
+   1108983|09960d9e||Armatura del gatto migliorata leggendaria
+   1108982|24c58cec||Armatura del gatto leggendaria
+   1108981|f737bfb0||Schema: Pantaloni dell'orso perfetti leggendari
+   1108980|f737bfaf||Schema: Pantaloni dell'orso superiori leggendari
+   1108987|397c37a0||Stivali del gatto leggendari
+   1108986|a53debba||Schema: Armatura del gatto leggendaria
+   1108985|09960da0||Armatura del gatto perfetta leggendaria
+   1108984|09960d9f||Armatura del gatto superiore leggendaria
+   1108991|f1e2f3bc||Schema: Stivali del gatto leggendari
+   1108990|397c37a3||Stivali del gatto perfetti leggendari
+   1108989|397c37a2||Stivali del gatto superiori leggendari
+   1108988|397c37a1||Stivali del gatto migliorati leggendari
+   1108963|7d7b0925||Schema: Armatura del grifone migliorata leggendaria
+   1108961|199db193||Schema: Guanti del grifone perfetti leggendari
+   1108967|5d82e1ff||Schema: Pantaloni del grifone migliorati leggendari
+   1108966|7d7b0927||Schema: Armatura del grifone perfetta leggendaria
+   1108964|7d7b0926||Schema: Armatura del grifone superiore leggendaria
+   1108971|cedaf314||Schema: Stivali dell'orso superiori leggendari
+   1108970|cedaf313||Schema: Stivali dell'orso migliorati leggendari
+   1108969|5d82e201||Schema: Pantaloni del grifone perfetti leggendari
+   1108968|5d82e200||Schema: Pantaloni del grifone superiori leggendari
+   1108975|b68489c4||Schema: Guanti dell'orso perfetti leggendari
+   1108974|b68489c3||Schema: Guanti dell'orso superiori leggendari
+   1108973|b68489c2||Schema: Guanti dell'orso migliorati leggendari
+   1108972|cedaf315||Schema: Stivali dell'orso perfetti leggendari
+   1108944|ff70c34f||Schema: Spada d'acciaio del grifone perfetta leggendaria
+   1108955|35261566||Schema: Stivali del grifone perfetti leggendari
+   1108954|35261565||Schema: Stivali del grifone superiori leggendari
+   1108953|35261564||Schema: Stivali del grifone migliorati leggendari
+   1108957|199db192||Schema: Guanti del grifone superiori leggendari
+   1108956|199db191||Schema: Guanti del grifone migliorati leggendari
+   1108931|e2303a79||Spada d'argento del grifone migliorata leggendaria
+   1108930|402b3487||Spada d'argento del grifone leggendaria
+   1108929|77dfe25b||Schema: Spada d'acciaio del grifone leggendaria
+   1108928|69196a7b||Schema: Pantaloni del grifone leggendari
+   1108935|5bea0807||Schema: Spada d'argento del grifone migliorata leggendaria
+   1108934|dd770d95||Schema: Spada d'argento del grifone leggendaria
+   1108933|e2303a7b||Spada d'argento del grifone perfetta leggendaria
+   1108932|e2303a7a||Spada d'argento del grifone superiore leggendaria
+   1108939|4f45353f||Spada d'acciaio del grifone migliorata leggendaria
+   1108938|09ac28cd||Spada d'acciaio del grifone leggendaria
+   1108937|5bea0809||Schema: Spada d'argento del grifone perfetta leggendaria
+   1108936|5bea0808||Schema: Spada d'argento del grifone superiore leggendaria
+   1108943|ff70c34e||Schema: Spada d'acciaio del grifone superiore leggendaria
+   1108942|ff70c34d||Schema: Spada d'acciaio del grifone migliorata leggendaria
+   1108941|4f453541||Spada d'acciaio del grifone perfetta leggendaria
+   1108940|4f453540||Spada d'acciaio del grifone superiore leggendaria
+   1108915|85739005||Stivali del grifone migliorati leggendari
+   1108914|85739004||Stivali del grifone leggendari
+   1108913|7b18a01e||Schema: Armatura del grifone leggendaria
+   1108912|558d6604||Armatura del grifone perfetta leggendaria
+   1108919|91c7c1bb||Guanti del grifone leggendari
+   1108918|c7bda820||Schema: Stivali del grifone leggendari
+   1108917|85739007||Stivali del grifone perfetti leggendari
+   1108916|85739006||Stivali del grifone superiori leggendari
+   1108923|563c32d7||Schema: Guanti del grifone leggendari
+   1108922|91c7c1be||Guanti del grifone perfetti leggendari
+   1108921|91c7c1bd||Guanti del grifone superiori leggendari
+   1108920|91c7c1bc||Guanti del grifone migliorati leggendari
+   1108927|5218dd62||Pantaloni del grifone perfetti leggendari
+   1108926|5218dd61||Pantaloni del grifone superiori leggendari
+   1108925|5218dd60||Pantaloni del grifone migliorati leggendari
+   1108924|5218dd5f||Pantaloni del grifone leggendari
+   1108897|766d842e||[EN] Marcel Kroeber
+   1108896|5a090a64||[EN] Alfred Mauss
+   1108907|778670f5||Schema: Spada d'acciaio dell'orso superiore leggendaria
+   1108906|778670f4||Schema: Spada d'acciaio dell'orso migliorata leggendaria
+   1108905|ad02cdc2||Schema: Spada d'acciaio dell'orso leggendaria
+   1108911|558d6603||Armatura del grifone superiore leggendaria
+   1108910|558d6602||Armatura del grifone migliorata leggendaria
+   1108909|06bfae50||Armatura del grifone leggendaria
+   1108908|778670f6||Schema: Spada d'acciaio dell'orso perfetta leggendaria
+   1108657|f44177a8||Spada d'acciaio dell'orso perfetta leggendaria
+   1108656|f44177a7||Spada d'acciaio dell'orso superiore leggendaria
+   1108643|84371e0d||Schema: Balestra dell'orso leggendaria
+   1108642|4b36faff||Balestra dell'orso leggendaria
+   1108641|963903b4||Schema: Pantaloni dell'orso leggendari
+   1108640|35fdbf9b||Pantaloni dell'orso perfetti leggendari
+   1108647|dcbc44f3||Spada d'argento dell'orso superiore leggendaria
+   1108646|dcbc44f2||Spada d'argento dell'orso migliorata leggendaria
+   1108645|34f98940||Spada d'argento dell'orso leggendaria
+   1108651|e68a0f40||Schema: Spada d'argento dell'orso migliorata leggendaria
+   1108649|4cb18f0e||Schema: Spada d'argento dell'orso leggendaria
+   1108648|dcbc44f4||Spada d'argento dell'orso perfetta leggendaria
+   1108655|f44177a6||Spada d'acciaio dell'orso migliorata leggendaria
+   1108654|19d3d8f4||Spada d'acciaio dell'orso leggendaria
+   1108653|e68a0f42||Schema: Spada d'argento dell'orso perfetta leggendaria
+   1108652|e68a0f41||Schema: Spada d'argento dell'orso superiore leggendaria
+   1108627|6958723d||Stivali dell'orso leggendari
+   1108626|a8383957||Schema: Armatura dell'orso leggendaria
+   1108625|3972483d||Armatura dell'orso perfetta leggendaria
+   1108624|3972483c||Armatura dell'orso superiore leggendaria
+   1108631|f4dd4159||Schema: Stivali dell'orso leggendari
+   1108630|69587240||Stivali dell'orso perfetti leggendari
+   1108629|6958723f||Stivali dell'orso superiori leggendari
+   1108628|6958723e||Stivali dell'orso migliorati leggendari
+   1108635|2a7f26a5||Guanti dell'orso perfetti leggendari
+   1108634|2a7f26a4||Guanti dell'orso superiori leggendari
+   1108633|2a7f26a3||Guanti dell'orso migliorati leggendari
+   1108632|2a7f26a2||Guanti dell'orso leggendari
+   1108639|35fdbf9a||Pantaloni dell'orso superiori leggendari
+   1108638|35fdbf99||Pantaloni dell'orso migliorati leggendari
+   1108637|35fdbf98||Pantaloni dell'orso leggendari
+   1108636|cd0fc0be||Schema: Guanti dell'orso leggendari
+   1108617|d65f831f||prova
+   1108623|3972483b||Armatura dell'orso migliorata leggendaria
+   1108620|80b9cac9||Armatura dell'orso leggendaria
+   1109331|1bd8308c||[EN] Legendary Viper silver sword
+   1109334|7c1d1828||[EN] Legendary Viper steel sword
+   1109333|0e7d9bf6||[EN] Diagram: Legendary Viper steel sword
+   1109332|1a90875a||[EN] Diagram: Legendary Viper silver sword
+   1109296|ec67d1f4||Schema: Spada d'acciaio del lupo superiore leggendaria
+   1109308|ec67d1f5||Schema: Spada d'acciaio del lupo perfetta leggendaria
+   1109283|873be93b||Schema: Spada d'argento del lupo migliorata leggendaria
+   1109282|4677abc9||Schema: Spada d'argento del lupo leggendaria
+   1109281|87310d12||Spada d'argento del lupo perfetta leggendaria
+   1109280|87310d11||Spada d'argento del lupo superiore leggendaria
+   1109284|873be93c||Schema: Spada d'argento del lupo superiore leggendaria
+   1109291|862433c8||Spada d'acciaio del lupo migliorata leggendaria
+   1109290|201b3596||Spada d'acciaio del lupo leggendaria
+   1109289|873be93d||Schema: Spada d'argento del lupo perfetta leggendaria
+   1109295|ec67d1f3||Schema: Spada d'acciaio del lupo migliorata leggendaria
+   1109294|30766281||Schema: Spada d'acciaio del lupo leggendaria
+   1109293|862433ca||Spada d'acciaio del lupo perfetta leggendaria
+   1109292|862433c9||Spada d'acciaio del lupo superiore leggendaria
+   1109271|fa9185c7||Guanti del lupo perfetti leggendari
+   1109270|fa9185c6||Guanti del lupo superiori leggendari
+   1109269|fa9185c5||Guanti del lupo migliorati leggendari
+   1109268|fa9185c4||Guanti del lupo leggendari
+   1109275|3471f438||Pantaloni del lupo superiori leggendari
+   1109274|3471f437||Pantaloni del lupo migliorati leggendari
+   1109273|3471f436||Pantaloni del lupo leggendari
+   1109272|8169dde0||Schema: Guanti del lupo leggendari
+   1109279|87310d10||Spada d'argento del lupo migliorata leggendaria
+   1109278|f79dc0de||Spada d'argento del lupo leggendaria
+   1109277|4975ba52||Schema: Pantaloni del lupo leggendari
+   1109276|3471f439||Pantaloni del lupo perfetti leggendari
+   1109255|67cca6dc||Stivali del lupo migliorati leggendari
+   1109253|67cca6db||Stivali del lupo leggendari
+   1109256|67cca6dd||Stivali del lupo superiori leggendari
+   1109261|a819f7f7||Schema: Stivali del lupo leggendari
+   1109260|67cca6de||Stivali del lupo perfetti leggendari
+   1109443|29ff58a9||Schermo intero
+   1109442|9040fcb3||Finestra senza bordi
+   1109441|6782ecfd||In finestra
+   1109440|8df0f78c||2560 x 1440
+   1109409|4fc5c663||720 x 576
+   1109408|d3c3ace8||Modalità schermo
+   1109407|9f80dab6||Risoluzione
+   1109406|4e49a790||Schermo
+   1109043|a25b45b7||Schema: Stivali del gatto superiori leggendari
+   1109042|a25b45b6||Schema: Stivali del gatto migliorati leggendari
+   1109041|d78f4c33||Schema: Spada d'acciaio del gatto perfetta leggendaria
+   1109047|530e8b81||Schema: Guanti del gatto perfetti leggendari
+   1109046|530e8b80||Schema: Guanti del gatto superiori leggendari
+   1109045|530e8b7f||Schema: Guanti del gatto migliorati leggendari
+   1109044|a25b45b8||Schema: Stivali del gatto perfetti leggendari
+   1109051|cab81251||Schema: Pantaloni del gatto migliorati leggendari
+   1109050|b6ebe315||Schema: Armatura del gatto perfetta leggendaria
+   1109049|b6ebe314||Schema: Armatura del gatto superiore leggendaria
+   1109048|b6ebe313||Schema: Armatura del gatto migliorata leggendaria
+   1109053|cab81253||Schema: Pantaloni del gatto perfetti leggendari
+   1109052|cab81252||Schema: Pantaloni del gatto superiori leggendari
+   1109027|b9eacb23||Spada d'acciaio del gatto migliorata leggendaria
+   1109029|b9eacb25||Spada d'acciaio del gatto perfetta leggendaria
+   1109028|b9eacb24||Spada d'acciaio del gatto superiore leggendaria
+   1109035|d78f4c32||Schema: Spada d'acciaio del gatto superiore leggendaria
+   1109034|d78f4c31||Schema: Spada d'acciaio del gatto migliorata leggendaria
+   1109011|cc3d6117||Spada d'argento del gatto perfetta leggendaria
+   1109013|0daf2600||Schema: Spada d'argento del gatto migliorata leggendaria
+   1109012|ecb1d831||Schema: Spada d'argento del gatto leggendaria
+   1109017|0daf2602||Schema: Spada d'argento del gatto perfetta leggendaria
+   1109016|0daf2601||Schema: Spada d'argento del gatto superiore leggendaria
+   1109021|4f13543f||Schema: Spada d'acciaio del gatto leggendaria
+   1109020|93c5e7b1||Spada d'acciaio del gatto leggendaria
+   1108995|5ed40da2||Guanti del gatto perfetti leggendari
+   1108994|5ed40da1||Guanti del gatto superiori leggendari
+   1108993|5ed40da0||Guanti del gatto migliorati leggendari
+   1108992|5ed40d9f||Guanti del gatto leggendari
+   1108999|062184fd||Pantaloni del gatto superiori leggendari
+   1108998|062184fc||Pantaloni del gatto migliorati leggendari
+   1108997|062184fb||Pantaloni del gatto leggendari
+   1108996|70c05abb||Schema: Guanti del gatto leggendari
+   1109003|57b770b0||Schema: Balestra del gatto leggendaria
+   1109002|483cad62||Balestra del gatto leggendaria
+   1109001|933eb617||Schema: Pantaloni del gatto leggendari
+   1109000|062184fe||Pantaloni del gatto perfetti leggendari
+   1109006|cc3d6116||Spada d'argento del gatto superiore leggendaria
+   1109005|cc3d6115||Spada d'argento del gatto migliorata leggendaria
+   1109004|f9495223||Spada d'argento del gatto leggendaria
+   1109243|37e67cd9||Armatura del lupo migliorata leggendaria
+   1109242|514e8ee7||Armatura del lupo leggendaria
+   1109246|5b74eff5||Schema: Armatura del lupo leggendaria
+   1109245|37e67cdb||Armatura del lupo perfetta leggendaria
+   1109244|37e67cda||Armatura del lupo superiore leggendaria
+   1109219|f0fe2464||Schema: Guanti del lupo migliorati leggendari
+   1109218|23527c33||Schema: Stivali del lupo perfetti leggendari
+   1109217|23527c32||Schema: Stivali del lupo superiori leggendari
+   1109216|23527c31||Schema: Stivali del lupo migliorati leggendari
+   1109223|f0fe2466||Schema: Guanti del lupo perfetti leggendari
+   1109220|f0fe2465||Schema: Guanti del lupo superiori leggendari
+   1109227|4baf48cc||Schema: Pantaloni del lupo migliorati leggendari
+   1109226|54db7bfa||Schema: Armatura del lupo perfetta leggendaria
+   1109225|54db7bf9||Schema: Armatura del lupo superiore leggendaria
+   1109224|54db7bf8||Schema: Armatura del lupo migliorata leggendaria
+   1109231|9d7d4d3a||Numero di personaggi non giocanti
+   1109229|4baf48ce||Schema: Pantaloni del lupo perfetti leggendari
+   1109228|4baf48cd||Schema: Pantaloni del lupo superiori leggendari
+   1109215|067511f8||Stivali del lupo leggendari
+   1109214|5ba47484||Pantaloni del lupo leggendari
+   1109213|90c38de6||Guanti del lupo leggendari
+   1109212|c6c10041||Armatura del lupo leggendaria
+   1106367|46c53be2||Distanza visibilità vegetazione
+   1106118|e0ae4a1e||Glossario
+   1106117|ab64af37||Missioni
+   1106120|5700d7e9||Mazzo gwent
+   1106098|0cd28cbc||Segni - Igni
+   1106097|0cd66330||Segni - Quen
+   1106107|0001a55c||Mappa
+   1106106|8790195c||Inventario
+   1106105|9397656e||Personaggio
+   1106104|0ccf28fa||Segni - Axii
+   1106108|0d5c0a69||Menu di gioco
+   1106082|d54bee68||Sfodera spada d'argento
+   1106081|0f285f10||Sfodera spada d'acciaio
+   1106080|2e453c86||Consumabile 2
+   1106090|0cced3b5||Segni - Aard
+   1106093|8e655d51||Segni - Yrden
+   1106069|5141493d||Galoppa/Trotta
+   1106079|2e453c85||Consumabile 1
+   1106078|c3669d60||Ferma cavallo
+   1106077|dacadae9||Smonta
+   1106707|f3f5fddc||Il salvataggio non può essere caricato perché è stato creato da una versione del gioco più recente di quella in uso.
+   1106641|5625d6ee||Il gioco è stato aggiornato. Sono state ripristinate tutte le impostazioni iniziali.
+   1106624|eecaf062||Pagina strappata: Mutagene blu maggiore
+   1106619|d56ca54e||Pagina strappata: Mutagene rosso
+   1106618|27743163||Mutagene blu maggiore
+   1106617|acbde652||Mutagene verde maggiore
+   1106616|121562a0||Mutagene rosso maggiore
+   1106623|eadc0ffb||Pagina strappata: Mutagene verde maggiore
+   1106622|5a48d789||Pagina strappata: Mutagene rosso maggiore
+   1106621|d820db3d||Pagina strappata: Mutagene blu
+   1106620|2c438080||Pagina strappata: Mutagene verde
+   1107415|b7af1a38||Puoi usare le barche per attraversare corsi e specchi d'acqua.
+   1107417|e88df9f3||Qui puoi chiedere i servigi di una prostituta.
+   1107416|e72b5002||I tavoli degli armaioli permettono di potenziare l'armatura per un limitato periodo di tempo.
+   1107831|00000000||Mazzo gwent
+   1107832|00000000||Hai una nuova carta di gwent!<br>Per esaminarla, accedi al <font color="#CD7D03">menu di gioco</font> e seleziona la sezione <font color="#CD7D03">Mazzo di gwent</font>.
+   1107735|00000000||Attacco rapido
+   1107734|00000000||Per sferrare un attacco rapido, premi <<AttackLight>>.
+   1107733|00000000||Attacco rapido
+   1107736|00000000||Esegui un attacco rapido contro Vesemir premendo <<AttackLight>>.
+   1107715|69b7f648||F1
+   1107714|34f56b10||M
+   1107719|69b7f64c||F5
+   1107718|69b7f64b||F4
+   1107717|69b7f64a||F3
+   1107716|69b7f649||F2
+   1107723|69b7f650||F9
+   1107722|69b7f64f||F8
+   1107721|69b7f64e||F7
+   1107720|69b7f64d||F6
+   1107726|cd46d2ea||F12
+   1107725|cd46d2e9||F11
+   1107724|cd46d2e8||F10
+   1107562|97bd647b||`
+   1107564|975ac993||-
+   1107546|00000000||Tieni premuto <<CiriAttackHeavy>> per eseguire una carica.<br><br>Più a lungo tieni premuto il comando, maggiore sarà il raggio dell'attacco.
+   1107545|00000000||Carica
+   1107506|37ccab34||Impostazioni predefinite ripristinate
+   1107462|e8384175||Ripristina tutte le impostazioni predefinite
+   1107461|471de117||Ripristina impostazioni predefinite
+   1107699|34f56b0f||L
+   1107698|34f56b0e||K
+   1107700|34f56b1d||Z
+   1107707|34f56b05||B
+   1107706|34f56b19||V
+   1107705|34f56b06||C
+   1107704|34f56b1b||X
+   1107708|34f56b11||N
+   1107683|34f56b0a||G
+   1107682|34f56b09||F
+   1107681|34f56b07||D
+   1107680|00000000||Per sferrare un attacco rapido speciale, tieni premuto <<SpecialAttackLight>>. <br>Per sferrare un attacco potente speciale, tieni premuto <<SpecialAttackHeavy>>.
+   1107684|34f56b0b||H
+   1107692|34f56b0d||J
+   1107675|34f56b12||O
+   1107679|00000000||Attacchi speciali
+   1107678|34f56b16||S
+   1107677|34f56b04||A
+   1107676|34f56b13||P
+   1107650|34f56ad3||0
+   1107649|34f56adc||9
+   1107648|34f56adb||8
+   1107655|34f56b1a||W
+   1107654|34f56b14||Q
+   1107659|34f56b15||R
+   1107658|34f56b08||E
+   1107657|00000000||Per sferrare un attacco rapido speciale, tieni premuto <<SpecialAttackLight>>. <br>Per sferrare un attacco potente speciale, tieni premuto <<SpecialAttackHeavy>>.
+   1107656|00000000||Attacchi speciali
+   1107663|34f56b0c||I
+   1107662|34f56b18||U
+   1107661|34f56b1c||Y
+   1107660|34f56b17||T
+   1107647|34f56ada||7
+   1107619|54561bb2||Rotellina del mouse
+   1107618|97b082a0||/
+   1107617|58e638fe||.
+   1107616|96d093f8||,
+   1107627|34f56ad6||3
+   1107626|34f56ad5||2
+   1107625|34f56ad4||1
+   1107630|34f56ad9||6
+   1107629|34f56ad8||5
+   1107628|34f56ad7||4
+   1107611|254901a4||[
+   1107610|46cb42fc||=
+   1107609|db981db5||Nessuno
+   1107615|02edec54||;
+   1107614|601ce217||'
+   1107613|1cd4b3ee||\
+   1107612|22fc3489||]
+   1087940|dbc54593||Durabilità oggetto ripristinata
+   1087544|00000000||Scegli un <font color="#CD7D03">cibo</font> e cliccaci sopra.
+   1087548|00000000||Per avere accesso rapido al cibo durante il gioco, puoi equipaggiarlo. Per farlo, clicca due volte su un cibo o trascinalo in uno degli slot dei consumabili.
+   1089432|f84c6a16||HBAO+
+   1085700|6d1ad38f||Tieni d'occhio il livello di paura del tuo cavallo: se si spaventa, ti disarciona e fugge via. Usa il Segno Axii per calmare il cavallo.
+   1086323|00000000||Attivando alcune abilità puoi sferrare attacchi speciali.<br><br>Per sferrare un attacco veloce speciale, tieni premuto <<SpecialAttackWithAlternateLight>>.<br>Per sferrare un attacco potente speciale, tieni premuto <<PCAlternate>> e <<SpecialAttackWithAlternateLight_mod>>.
+   1086321|00000000||Attivando alcune abilità puoi sferrare attacchi speciali.<br><br>Per sferrare un attacco veloce speciale, tieni premuto <<SpecialAttackWithAlternateLight>>.<br>Per sferrare un attacco potente speciale, tieni premuto <<PCAlternate>> e <<SpecialAttackWithAlternateLight_mod>>.
+   1086243|00000000||Se devi affrontare lunghe distanze o superare ostacoli come questo, il cavallo è l'unica opzione.<br><br>Per chiamare il cavallo, premi <<SpawnHorse>>.
+   1086199|00000000||I witcher trascorrono buona parte del tempo viaggiando alla ricerca di contratti, attraversando ampie vallate, scalando montagne elevate e inoltrandosi in paludi malsane.<br><br>Per sua fortuna, durante i suoi viaggi, Geralt può sempre contare sul <font color="#CD7D03">suo cavallo</font>, <font color="#CD7D03">Rutilia</font>.<br><br>Per chiamare <font color="#CD7D03">Rutilia</font>, premi <<SpawnHorse>>.
+   1086785|00000000||Anche gli artigiani devono mangiare! Se vuoi che creino un oggetto per te, devi pagarli per il loro servizio.<br><br>Se hai il denaro richiesto, premi <<GUI_PC_Select>> per realizzare lo schema selezionato.
+   1086777|00000000||Nella parte sinistra dello schermo c'è un elenco degli schemi in tuo possesso. Clicca per selezionare gli schemi o cambiare categoria.
+   1086747|00000000||Se un combattimento è troppo impegnativo, puoi fuggire e combattere un'altra volta. Tieni premuto <<Sprint>> per effettuare uno scatto in combattimento.
+   1087246|00000000||Per scorrere la mappa, tieni premuto <<IK_LeftMouse>> e muovi il mouse.
+   1087415|caf3f932||Tutti i punti abilità spesi sono stati restituiti e sono nuovamente disponibili. Ridistribuiscili e otterrai abilità.
+   1087417|bafc4532||Restituisce i punti abilità spesi per poterli ridistribuire.
+   1087384|00000000||<i>Abbiamo trovato una stanza. C'era una bestia che ci dormiva. Abbiamo fatto crollare il soffitto, ma evidentemente questo non è bastato a seppellire il mostro...</i><br>- Bytomir del Velen sul suo incontro con un ekimmuh<br>
+   1083767|2c31a313||Probabilità di causare smembramento
+   1083748|d25344ee||Potenza attacco contro gli umani e gli umanoidi
+   1083687|0cd9e187||Spada d'acciaio. Serve per affrontare gli umani e gli umanoidi.
+   1083686|5bfae209||Spada d'acciaio. Serve per affrontare gli umani e gli umanoidi.
+   1083785|00000000||Conversazioni: scelte a tempo
+   1083490|888281ec||Impostazioni comandi
+   1084790|5ef808bb||Sensibilità mouse in gioco
+   1084762|00000000||Meditazione
+   1084748|00000000||Meditazione
+   1084535|00000000||Le pietre runiche potenziano le armi.<br><br>Accedi all'equipaggiamento dall'inventario e clicca su una pietra runica.
+   1084602|9a8d5c2b||Portale creato dalla Caccia Selvaggia. Può essere chiuso dal Segno Yrden o da una bomba al dimeritium.
+   1084575|c211f624||Bonus esperienza dall'uccisione di umani e umanoidi
+   1084574|0df31bef||Bonus esperienza dall'uccisione di mostri
+   1085079|7e2afc22||Backspace
+   1081837|050f8993||Bonus esperienza dall'uccisione di umani e umanoidi
+   1082181|c596d25a||Bastione
+   1082169|ba23d79d||Potenza d'attacco contro umani e umanoidi
+   1093655|203d5552||Lettera a Lisbeth
+   1093658|1ce30499||Al witcher che troverà questa lettera:<br><br>il mago Hieronymus è un traditore. Se fosse riuscito a lasciare Kaer Morhen, giura di trovare e uccidere quel figlio di puttana! E lentamente, perché soffra a lungo prima di morire.<br><br>Ho trovato il suo diario nella torre di guardia, mentre nella vecchia torre di segnalazione ho trovato uno strano aggeggio per il teletrasporto magico. Deve avere creato un portale per poter fuggire.<br><br>Quando è suonato l'allarme, sapevo cosa stava succedendo. È stato lui ad aizzare la folla, che si è riversata su di noi con torce e forconi. Da dove mi trovo, sulla sommità del bastione, vedo la torre di guardia in fiamme. Possa il sangue dei witcher caduti oggi ricadere sul maledetto Hieronymus per l'eternità!
+   1093657|203d5553||Lettera
+   1093656|1b2e2bfa||[lettera scritta con mano tremante]<br><br>Mia cara Lisbeth,<br><br>ti scrivo in gran fretta. Il bastione e la torre di guardia sono già in fiamme! L'attacco è giunto troppo presto. L'apparecchio è instabile, ma devo provare a usarlo se voglio fuggire da qui.<br><br>Non appena giungerà da te il nibbio che porta questa lettera, contatta Leticia Charbonneau. Non so dove mi condurrà questo portale instabile: solo lei sarà in grado di ritrovarmi.<br><br>Se non volesse aiutarti, dille che ho sottratto dal laboratorio dei witcher alcuni mutageni, sia funghi sia erbe, che le permetteranno di progredire nelle sue ricerche sulla peste nera e sul tetano. Sono certo che questo la motiverà ad aiutare un povero mago, maltrattato ed esiliato dal Conclave.<br><br>Se andrà tutto bene, ci vedremo presto!
+   1095340|0fb9fb48||Teigr
+   1092033|c4b43cf1||Schema controller
+   1092005|cc2ea080||Imbarcati
+   1092304|ceca3a32||Lettera scritta da qualcuno che di rado impugna una penna.
+   1092299|c1c15e8d||Biglietto di ringraziamento
+   1092303|bd0bf760||Gaetan,<br><br>è finita. I soldati hanno espugnato la scuola. Hanno ucciso Axel e Cedric. Quanto a Schrödinger, non so se sia vivo oppure morto. Sulla tua testa e sulla mia pende una taglia. Evita le città e le strade principali. Non attirare l'attenzione.<br><br>Joël
+   1092302|aa5b822c||Lettera a Gaetan
+   1092301|8c75af9f||A Gerahlt di Rivea:<br><<bk_texture_mq1058_girls_drawing>>
+   1092300|ec388dc7||Dono di una fanciulla grata.
+   1090231|ee7d2369||Brava gente!<br><br>C'è un vile e temibile spettro, o forse una bestia, o un demone, che semina il panico nei pressi del nostro villaggio, Honorton. Offriamo la nostra eterna gratitudine e un bel gruzzolo a chiunque sia in grado di uccidere il mostro.<br><br>Chi volesse maggiori informazioni, chieda dell'aldermanno Sobemir.
+   1090230|cd279328||Gaetan
+   1090229|85df3483||Contratto: la bestia di Honorton
+   1090228|cc124271||Florka
+   1090232|aa4dec89||Avviso affisso dall'aldermanno di Honorton.
+   1091383|500d45e6||Cercasi witcher!
+   1091384|fc6177e6||Io, autore di questo annuncio, richiedo l'aiuto di un witcher. Si tratta di un compito arduo, ma non per un vero witcher. La ricompensa è ottima. Il tempo stringe, non indugiate. I witcher interessati mi troveranno fuori dalla taverna di Fyresdal.<br><br>Uggo, figlio di Olaf
+   1091114|6c0ea73c||Bambola
+    401380|3844a635||Abbandona partita
+   1047249|baa6fb37||Jesse
+    592263|00000000||Usa i sensi da witcher per cercare il punto in cui il mostro è emerso dall'acqua.
+    552791|00000000||Cerca e uccidi l'ekimmuh.
+    530186|27bce67d||Amuleto magico
+    559054|00000000||Uccidi le creature che emergono dai portali.
+   1106107|0001a55c||Mappa
+   1103777|02280e89||Giorni
+   1107615|02edec54||;
+   1102493|04b09b99||Salvataggio non disponibile
+   1108997|062184fb||Pantaloni del gatto leggendari
+   1108998|062184fc||Pantaloni del gatto migliorati leggendari
+   1108999|062184fd||Pantaloni del gatto superiori leggendari
+   1109000|062184fe||Pantaloni del gatto perfetti leggendari
+   1109215|067511f8||Stivali del lupo leggendari
+   1108909|06bfae50||Armatura del grifone leggendaria
+   1108983|09960d9e||Armatura del gatto migliorata leggendaria
+   1108984|09960d9f||Armatura del gatto superiore leggendaria
+   1108985|09960da0||Armatura del gatto perfetta leggendaria
+   1108938|09ac28cd||Spada d'acciaio del grifone leggendaria
+   1101188|0b8fdf52||Azione
+   1106090|0cced3b5||Segni - Aard
+   1106104|0ccf28fa||Segni - Axii
+   1106098|0cd28cbc||Segni - Igni
+   1106097|0cd66330||Segni - Quen
+   1104039|0d4964f9||Non puoi iniziare una Nuova partita + in questo momento.
+   1106108|0d5c0a69||Menu di gioco
+   1109013|0daf2600||Schema: Spada d'argento del gatto migliorata leggendaria
+   1109016|0daf2601||Schema: Spada d'argento del gatto superiore leggendaria
+   1109017|0daf2602||Schema: Spada d'argento del gatto perfetta leggendaria
+   1109333|0e7d9bf6||[EN] Diagram: Legendary Viper steel sword
+   1106081|0f285f10||Sfodera spada d'acciaio
+   1095340|0fb9fb48||Teigr
+   1106616|121562a0||Mutagene rosso maggiore
+   1104038|1259b0a8||Si è verificato un errore durante il salvataggio.
+   1103780|128e270d||Secondi
+   1101658|13f57580||Schema: Pantaloni del lupo superiori
+   1101661|13f57581||Schema: Pantaloni del lupo perfetti
+   1101640|1544ce91||Guanti dell'orso superiori
+   1101641|1544ce92||Guanti dell'orso perfetti
+   1110903|16f1acff||Fotogrammi massimi al secondo
+   1100402|17c47abc||[ultime pagine rimaste di un diario]<br><br>Giorni di servizio: MMMMCMXVIII<br><br>Finalmente ho decifrato quei manoscritti gnomici. Da essi ho tratto schemi per una coppia di spade, una d'argento e una d'acciaio. Varin le ha già forgiate. Le ha portate al bastione per provarle nel suo modo preferito: sferzando i giovani witcher durante gli allenamenti. Ora potrò finalmente tornare alla vecchia torre di segnalazione, per rimettermi a lavorare alla costruzione del sistema di teletrasporto. Forse riuscirò a stabilizzarlo.<br><br>Giorni di servizio: MMMMCMXIX<br><br>La vergognosa incapacità che mi impedisce di lanciare un incantesimo di teletrasporto potrebbe rivelarsi un dono per l'intera umanità: il sistema che sto studiando potrebbe fare del teletrasporto un sistema di spostamento abituale, a patto che riesca a perfezionarlo. Forse, quando uscirò da questa prigione, potrei brevettarlo al Conclave... Spero solo di riuscire a completare l'opera prima che i witcher mi costringano a compiere un'altra Prova...<br><br>Giorni di servizio: MMMMCMXXII<br><br>Terza notte di fila insonne. In questa torre si gela. Non riesco a stabilizzare il portale e intanto Varin continua a torturarmi con altri manoscritti da tradurre: questa volta si tratta dello schema di un'armatura.<br><br>Giorni di servizio: MMMMCMXXVII<br><br>Lo schema dell'armatura è pronto, ma non posso tornare al mio lavoro. Presto si terrà una nuova Prova delle Erbe. Giuro sulla magia che non reggerò a lungo. Di tutti i maghi, perché il Conclave ha assegnato proprio me a Kaer Morhen?<br><br>Giorni di servizio: MMMMCMXLVIII<br><br>Bartel, Diederik, Jaap, Aleid... e queste sono solo le ultime vittime. Vedo ancora il loro volto, sento l'acre fetore del loro vomito e dei loro escrementi. Un incubo senza fine.<br><br>I pochi sopravvissuti all'avvelenamento, ovvero ai mutageni, ai decotti alchemici e agli intrugli di funghi allucinogeni, ora verranno addestrati da witcher folli come Varin. Per due settimane ho vegliato al capezzale di Koenrad, per due settimane l'ho accudito perché non varcasse la soglia del regno dei morti. E per cosa? Perché venisse picchiato quasi a morte da Varin al suo primo giorno di addestramento al bastione?<br><br>I witcher combattono i mostri? Ma se sono mostri essi stessi! Troppo a lungo hanno fissato l'abisso. Non possiamo contare sull'ira degli dèi, ma forse potremmo ricorrere a quella del popolo...
+   1100404|1979535b||[appunti che contengono minuziose annotazioni di lunghe ed estenuanti sessioni di allenamento per giovani witcher, corredate di note ai margini]<br><br>Quel mago si è finalmente rivelato utile: la spada d'acciaio che ho forgiato seguendo le sue istruzioni è di ottima qualità. Sembra che abbia decifrato anche il secondo manoscritto, devo passare alla torre di guardia a prenderlo.<br><br>Quel vecchio brontolone di Hieronymus è tornato a infastidirmi. Non mi piace il modo in cui guarda i miei allievi come non mi piace la sua arroganza, né il modo in cui ficca il naso negli affari altrui. Ieri sera mi ha criticato davanti ai ragazzi perché secondo lui "sfianco i loro corpi già provati da una lunga intossicazione". Sono futuri witcher, cazzo, non una confraternita di studiosi in un'accademia!<br><br>E come se non bastasse, anziché prepararsi alla prossima Prova delle Erbe, si è rinchiuso nella vecchia torre di segnalazione lavorando notte e giorno a chissà cosa. Devo scoprire cosa sta combinando là dentro.
+   1108956|199db191||Schema: Guanti del grifone migliorati leggendari
+   1108957|199db192||Schema: Guanti del grifone superiori leggendari
+   1108961|199db193||Schema: Guanti del grifone perfetti leggendari
+   1108654|19d3d8f4||Spada d'acciaio dell'orso leggendaria
+   1108976|1a61e156||Schema: Armatura dell'orso migliorata leggendaria
+   1108977|1a61e157||Schema: Armatura dell'orso superiore leggendaria
+   1108978|1a61e158||Schema: Armatura dell'orso perfetta leggendaria
+   1109332|1a90875a||[EN] Diagram: Legendary Viper silver sword
+   1093656|1b2e2bfa||[lettera scritta con mano tremante]<br><br>Mia cara Lisbeth,<br><br>ti scrivo in gran fretta. Il bastione e la torre di guardia sono già in fiamme! L'attacco è giunto troppo presto. L'apparecchio è instabile, ma devo provare a usarlo se voglio fuggire da qui.<br><br>Non appena giungerà da te il nibbio che porta questa lettera, contatta Leticia Charbonneau. Non so dove mi condurrà questo portale instabile: solo lei sarà in grado di ritrovarmi.<br><br>Se non volesse aiutarti, dille che ho sottratto dal laboratorio dei witcher alcuni mutageni, sia funghi sia erbe, che le permetteranno di progredire nelle sue ricerche sulla peste nera e sul tetano. Sono certo che questo la motiverà ad aiutare un povero mago, maltrattato ed esiliato dal Conclave.<br><br>Se andrà tutto bene, ci vedremo presto!
+   1109331|1bd8308c||[EN] Legendary Viper silver sword
+   1107613|1cd4b3ee||\
+   1093658|1ce30499||Al witcher che troverà questa lettera:<br><br>il mago Hieronymus è un traditore. Se fosse riuscito a lasciare Kaer Morhen, giura di trovare e uccidere quel figlio di puttana! E lentamente, perché soffra a lungo prima di morire.<br><br>Ho trovato il suo diario nella torre di guardia, mentre nella vecchia torre di segnalazione ho trovato uno strano aggeggio per il teletrasporto magico. Deve avere creato un portale per poter fuggire.<br><br>Quando è suonato l'allarme, sapevo cosa stava succedendo. È stato lui ad aizzare la folla, che si è riversata su di noi con torce e forconi. Da dove mi trovo, sulla sommità del bastione, vedo la torre di guardia in fiamme. Possa il sangue dei witcher caduti oggi ricadere sul maledetto Hieronymus per l'eternità!
+   1109290|201b3596||Spada d'acciaio del lupo leggendaria
+   1100401|203d5550||Diario di Hieronymus
+   1100403|203d5551||Appunti di Varin
+   1093655|203d5552||Lettera a Lisbeth
+   1093657|203d5553||Lettera
+   1107612|22fc3489||]
+   1109216|23527c31||Schema: Stivali del lupo migliorati leggendari
+   1109217|23527c32||Schema: Stivali del lupo superiori leggendari
+   1109218|23527c33||Schema: Stivali del lupo perfetti leggendari
+   1103781|23c93ed5||Importazione del salvataggio di The Witcher 2 non riuscita.
+   1108982|24c58cec||Armatura del gatto leggendaria
+   1107611|254901a4||[
+   1106618|27743163||Mutagene blu maggiore
+   1110954|27e189c3||Cursore hardware
+   1104884|28d5b1ee||Rotola
+   1109443|29ff58a9||Schermo intero
+   1108632|2a7f26a2||Guanti dell'orso leggendari
+   1108633|2a7f26a3||Guanti dell'orso migliorati leggendari
+   1108634|2a7f26a4||Guanti dell'orso superiori leggendari
+   1108635|2a7f26a5||Guanti dell'orso perfetti leggendari
+   1106620|2c438080||Pagina strappata: Mutagene verde
+   1106079|2e453c85||Consumabile 1
+   1106080|2e453c86||Consumabile 2
+   1102056|305248c6||Pulsante destro del mouse
+   1109294|30766281||Schema: Spada d'acciaio del lupo leggendaria
+   1101664|317d8e12||Schema: Guanti del lupo superiori
+   1101674|317d8e13||Schema: Guanti del lupo perfetti
+   1100688|331dbc92||[EN] Painter
+   1109273|3471f436||Pantaloni del lupo leggendari
+   1109274|3471f437||Pantaloni del lupo migliorati leggendari
+   1109275|3471f438||Pantaloni del lupo superiori leggendari
+   1109276|3471f439||Pantaloni del lupo perfetti leggendari
+   1107650|34f56ad3||0
+   1107625|34f56ad4||1
+   1107626|34f56ad5||2
+   1107627|34f56ad6||3
+   1107628|34f56ad7||4
+   1107629|34f56ad8||5
+   1107630|34f56ad9||6
+   1107647|34f56ada||7
+   1107648|34f56adb||8
+   1107649|34f56adc||9
+   1107677|34f56b04||A
+   1107707|34f56b05||B
+   1107705|34f56b06||C
+   1107681|34f56b07||D
+   1107658|34f56b08||E
+   1107682|34f56b09||F
+   1107683|34f56b0a||G
+   1107684|34f56b0b||H
+   1107663|34f56b0c||I
+   1107692|34f56b0d||J
+   1107698|34f56b0e||K
+   1107699|34f56b0f||L
+   1107714|34f56b10||M
+   1107708|34f56b11||N
+   1107675|34f56b12||O
+   1107676|34f56b13||P
+   1107654|34f56b14||Q
+   1107659|34f56b15||R
+   1107678|34f56b16||S
+   1107660|34f56b17||T
+   1107662|34f56b18||U
+   1107706|34f56b19||V
+   1107655|34f56b1a||W
+   1107704|34f56b1b||X
+   1107661|34f56b1c||Y
+   1107700|34f56b1d||Z
+   1108645|34f98940||Spada d'argento dell'orso leggendaria
+   1108953|35261564||Schema: Stivali del grifone migliorati leggendari
+   1108954|35261565||Schema: Stivali del grifone superiori leggendari
+   1108955|35261566||Schema: Stivali del grifone perfetti leggendari
+   1101189|35c5e315||Tasto
+   1108637|35fdbf98||Pantaloni dell'orso leggendari
+   1108638|35fdbf99||Pantaloni dell'orso migliorati leggendari
+   1108639|35fdbf9a||Pantaloni dell'orso superiori leggendari
+   1108640|35fdbf9b||Pantaloni dell'orso perfetti leggendari
+   1107506|37ccab34||Impostazioni predefinite ripristinate
+   1109243|37e67cd9||Armatura del lupo migliorata leggendaria
+   1109244|37e67cda||Armatura del lupo superiore leggendaria
+   1109245|37e67cdb||Armatura del lupo perfetta leggendaria
+   1108623|3972483b||Armatura dell'orso migliorata leggendaria
+   1108624|3972483c||Armatura dell'orso superiore leggendaria
+   1108625|3972483d||Armatura dell'orso perfetta leggendaria
+   1108987|397c37a0||Stivali del gatto leggendari
+   1108988|397c37a1||Stivali del gatto migliorati leggendari
+   1108989|397c37a2||Stivali del gatto superiori leggendari
+   1108990|397c37a3||Stivali del gatto perfetti leggendari
+   1101598|3f40ab70||Pantaloni del gatto superiori
+   1101599|3f40ab71||Pantaloni del gatto perfetti
+   1108930|402b3487||Spada d'argento del grifone leggendaria
+   1101617|413876b0||Guanti del grifone superiori
+   1101618|413876b1||Guanti del grifone perfetti
+   1103778|43186f1d||Ore
+   1110908|447d8081||30
+   1110909|447d80de||60
+   1109282|4677abc9||Schema: Spada d'argento del lupo leggendaria
+   1106367|46c53be2||Distanza visibilità vegetazione
+   1107610|46cb42fc||=
+   1107461|471de117||Ripristina impostazioni predefinite
+   1109002|483cad62||Balestra del gatto leggendaria
+   1109277|4975ba52||Schema: Pantaloni del lupo leggendari
+   1101602|4999b58e||Guanti del gatto superiori
+   1101603|4999b58f||Guanti del gatto perfetti
+   1108642|4b36faff||Balestra dell'orso leggendaria
+   1109227|4baf48cc||Schema: Pantaloni del lupo migliorati leggendari
+   1109228|4baf48cd||Schema: Pantaloni del lupo superiori leggendari
+   1109229|4baf48ce||Schema: Pantaloni del lupo perfetti leggendari
+   1108649|4cb18f0e||Schema: Spada d'argento dell'orso leggendaria
+   1103776|4ce23aeb||Schema: Seta
+   1109406|4e49a790||Schermo
+   1102491|4ec338ac||Stivali sorprendentemente comodi. Gli artigli sulle dita non fanno certo passare inosservati.
+   1109021|4f13543f||Schema: Spada d'acciaio del gatto leggendaria
+   1108939|4f45353f||Spada d'acciaio del grifone migliorata leggendaria
+   1108940|4f453540||Spada d'acciaio del grifone superiore leggendaria
+   1108941|4f453541||Spada d'acciaio del grifone perfetta leggendaria
+   1109409|4fc5c663||720 x 576
+   1091383|500d45e6||Cercasi witcher!
+   1106069|5141493d||Galoppa/Trotta
+   1109242|514e8ee7||Armatura del lupo leggendaria
+   1108924|5218dd5f||Pantaloni del grifone leggendari
+   1108925|5218dd60||Pantaloni del grifone migliorati leggendari
+   1108926|5218dd61||Pantaloni del grifone superiori leggendari
+   1108927|5218dd62||Pantaloni del grifone perfetti leggendari
+   1109045|530e8b7f||Schema: Guanti del gatto migliorati leggendari
+   1109046|530e8b80||Schema: Guanti del gatto superiori leggendari
+   1109047|530e8b81||Schema: Guanti del gatto perfetti leggendari
+   1101621|5371c7d2||Schema: Stivali del grifone superiori
+   1101622|5371c7d3||Schema: Stivali del grifone perfetti
+   1107619|54561bb2||Rotellina del mouse
+   1109224|54db7bf8||Schema: Armatura del lupo migliorata leggendaria
+   1109225|54db7bf9||Schema: Armatura del lupo superiore leggendaria
+   1109226|54db7bfa||Schema: Armatura del lupo perfetta leggendaria
+   1108910|558d6602||Armatura del grifone migliorata leggendaria
+   1108911|558d6603||Armatura del grifone superiore leggendaria
+   1108912|558d6604||Armatura del grifone perfetta leggendaria
+   1106641|5625d6ee||Il gioco è stato aggiornato. Sono state ripristinate tutte le impostazioni iniziali.
+   1108923|563c32d7||Schema: Guanti del grifone leggendari
+   1106120|5700d7e9||Mazzo gwent
+   1104923|5711adb4||Seleziona Segni
+   1109003|57b770b0||Schema: Balestra del gatto leggendaria
+   1107617|58e638fe||.
+   1104040|598f936d||Il salvataggio selezionato non è valido. Carica il salvataggio e salva nuovamente per procedere.
+   1108896|5a090a64||[EN] Alfred Mauss
+   1105789|5a3c3311||Set Armatura temeriana
+   1106622|5a48d789||Pagina strappata: Mutagene rosso maggiore
+   1105790|5a4a4a92||Set Barba e capigliatura
+   1105791|5a586213||Nuova missione "Contratto: minatori scomparsi"
+   1105792|5a667994||Abiti alternativi di Yennefer
+   1105793|5a749115||Set Armatura nilfgaardiana
+   1105794|5a82a896||Abiti alternativi di Triss
+   1105795|5a90c017||Nuova missione: "L'oro degli sciocchi"
+   1105796|5a9ed798||Set di carte di gwent neutrali "Eroi delle ballate"
+   1105797|5aacef19||NUOVA PARTITA +
+   1109246|5b74eff5||Schema: Armatura del lupo leggendaria
+   1109214|5ba47484||Pantaloni del lupo leggendari
+   1105798|5be2f42f||Nuova missione: "Caccia al tesoro: equipaggiamento della Scuola del Lupo"
+   1108935|5bea0807||Schema: Spada d'argento del grifone migliorata leggendaria
+   1108936|5bea0808||Schema: Spada d'argento del grifone superiore leggendaria
+   1108937|5bea0809||Schema: Spada d'argento del grifone perfetta leggendaria
+   1105799|5bf10bb0||Abiti alternativi di Ciri
+   1105800|5bff2331||Nuova missione: "Contratto: il ricercato numero uno di Skellige"
+   1105801|5c0d3ab2||Set Balestra superiore
+   1105802|5c1b5233||Set Armatura delle Skellige
+   1105803|5c2969b4||Nuova missione: "Dove giocano il gatto e il lupo..."
+   1105804|5c378135||Nuove animazioni mosse finali
+   1108967|5d82e1ff||Schema: Pantaloni del grifone migliorati leggendari
+   1108968|5d82e200||Schema: Pantaloni del grifone superiori leggendari
+   1108969|5d82e201||Schema: Pantaloni del grifone perfetti leggendari
+   1108992|5ed40d9f||Guanti del gatto leggendari
+   1108993|5ed40da0||Guanti del gatto migliorati leggendari
+   1108994|5ed40da1||Guanti del gatto superiori leggendari
+   1108995|5ed40da2||Guanti del gatto perfetti leggendari
+   1107614|601ce217||'
+   1104041|61f0d99d||Livello del personaggio troppo basso o partita non completata in questo salvataggio.
+   1092944|63a4a2f5||Capello di wraith notturno
+   1104036|651a4149||Non ci sono salvataggi utilizzabili per una Nuova partita +.
+   1105806|667dad9a||Ti serve il seguente contenuto scaricabile per poter aprire questo salvataggio
+   1109441|6782ecfd||In finestra
+   1109253|67cca6db||Stivali del lupo leggendari
+   1109255|67cca6dc||Stivali del lupo migliorati leggendari
+   1109256|67cca6dd||Stivali del lupo superiori leggendari
+   1109260|67cca6de||Stivali del lupo perfetti leggendari
+   1108928|69196a7b||Schema: Pantaloni del grifone leggendari
+   1105805|6937efd0||Ti serve il seguente contenuto scaricabile per poter aprire questo salvataggio
+   1108627|6958723d||Stivali dell'orso leggendari
+   1108628|6958723e||Stivali dell'orso migliorati leggendari
+   1108629|6958723f||Stivali dell'orso superiori leggendari
+   1108630|69587240||Stivali dell'orso perfetti leggendari
+   1107715|69b7f648||F1
+   1107716|69b7f649||F2
+   1107717|69b7f64a||F3
+   1107718|69b7f64b||F4
+   1107719|69b7f64c||F5
+   1107720|69b7f64d||F6
+   1107721|69b7f64e||F7
+   1107722|69b7f64f||F8
+   1107723|69b7f650||F9
+   1101609|6aa1726a||Schema: Stivali del gatto superiori
+   1101610|6aa1726b||Schema: Stivali del gatto perfetti
+   1099516|6ba9f2a1||Alcol
+   1101648|6d911aab||Pantaloni del lupo superiori
+   1101653|6d911aac||Pantaloni del lupo perfetti
+   1101625|6f1ce60d||Pantaloni dell'orso superiori
+   1101637|6f1ce60e||Pantaloni dell'orso perfetti
+   1108996|70c05abb||Schema: Guanti del gatto leggendari
+   1104106|710f8a92||Hai sbloccato la possibilità di iniziare una Nuova partita +. Per farlo crea un nuovo salvataggio, inizia una nuova partita, scegli l'opzione Nuova partita + e seleziona il salvataggio da cui vuoi importare il tuo personaggio. Puoi selezionare solo i salvataggi successivi al momento in cui hai sbloccato l'opzione Nuova partita +.
+   1101600|729b5e15||Stivali del gatto superiori
+   1101601|729b5e16||Stivali del gatto perfetti
+   1104042|7326ef5c||Si è verificato un errore sconosciuto durante l'importazione del salvataggio.
+   1108897|766d842e||[EN] Marcel Kroeber
+   1108906|778670f4||Schema: Spada d'acciaio dell'orso migliorata leggendaria
+   1108907|778670f5||Schema: Spada d'acciaio dell'orso superiore leggendaria
+   1108908|778670f6||Schema: Spada d'acciaio dell'orso perfetta leggendaria
+   1108929|77dfe25b||Schema: Spada d'acciaio del grifone leggendaria
+   1101187|7a1c1281||Assegnazione tasti
+   1104919|7ab8ea05||Aggancia bersaglio
+   1108913|7b18a01e||Schema: Armatura del grifone leggendaria
+   1101619|7bce946d||Schema: Pantaloni del grifone superiori
+   1101620|7bce946e||Schema: Pantaloni del grifone perfetti
+   1109334|7c1d1828||[EN] Legendary Viper steel sword
+   1110156|7d49be54||[EN] Plan B
+   1108963|7d7b0925||Schema: Armatura del grifone migliorata leggendaria
+   1108964|7d7b0926||Schema: Armatura del grifone superiore leggendaria
+   1108966|7d7b0927||Schema: Armatura del grifone perfetta leggendaria
+   1102439|8035c2a4||Sensibilità mouse nei menu
+   1110910|8076ee3d||Illimitato
+   1110534|8087e1b0||[EN] Trophy hunter
+   1108620|80b9cac9||Armatura dell'orso leggendaria
+   1109272|8169dde0||Schema: Guanti del lupo leggendari
+   1075382|83487b7d||I lupi mannari, anche noti come licantropi, sono persone in grado di cambiare la propria forma in quella di un lupo o di un ibrido mezzo umano e mezzo lupo. La maggior parte delle persone colpite da licantropia non riesce ad avere il controllo completo di tale trasformazione. Quando sono in forma di lupo, agiscono seguendo il puro istinto predatorio, spinti dalla fame e privi della morale umana.
+   1108643|84371e0d||Schema: Balestra dell'orso leggendaria
+   1108914|85739004||Stivali del grifone leggendari
+   1108915|85739005||Stivali del grifone migliorati leggendari
+   1108916|85739006||Stivali del grifone superiori leggendari
+   1108917|85739007||Stivali del grifone perfetti leggendari
+   1109291|862433c8||Spada d'acciaio del lupo migliorata leggendaria
+   1109292|862433c9||Spada d'acciaio del lupo superiore leggendaria
+   1109293|862433ca||Spada d'acciaio del lupo perfetta leggendaria
+   1100439|867ab9d9||Mappa in buono stato
+   1100441|867ab9da||Mappa leggermente strappata
+   1104865|867ab9f9||Mappa in tessuto molto sbiadita
+   1104866|867aba18||Mappa in tessuto intatta
+   1109279|87310d10||Spada d'argento del lupo migliorata leggendaria
+   1109280|87310d11||Spada d'argento del lupo superiore leggendaria
+   1109281|87310d12||Spada d'argento del lupo perfetta leggendaria
+   1109283|873be93b||Schema: Spada d'argento del lupo migliorata leggendaria
+   1109284|873be93c||Schema: Spada d'argento del lupo superiore leggendaria
+   1109289|873be93d||Schema: Spada d'argento del lupo perfetta leggendaria
+   1106106|8790195c||Inventario
+   1092301|8c75af9f||A Gerahlt di Rivea:<br><<bk_texture_mq1058_girls_drawing>>
+   1109440|8df0f78c||2560 x 1440
+   1106093|8e655d51||Segni - Yrden
+   1104914|8fb89d65||Attiva/Disattiva scatto
+   1109442|9040fcb3||Finestra senza bordi
+   1102492|907db547||Salvataggio non disponibile
+   1109213|90c38de6||Guanti del lupo leggendari
+   1108919|91c7c1bb||Guanti del grifone leggendari
+   1108920|91c7c1bc||Guanti del grifone migliorati leggendari
+   1108921|91c7c1bd||Guanti del grifone superiori leggendari
+   1108922|91c7c1be||Guanti del grifone perfetti leggendari
+   1101604|92fe3f05||Schema: Pantaloni del gatto superiori
+   1101608|92fe3f06||Schema: Pantaloni del gatto perfetti
+   1109001|933eb617||Schema: Pantaloni del gatto leggendari
+   1101611|938df52d||Schema: Guanti del gatto superiori
+   1101612|938df52e||Schema: Guanti del gatto perfetti
+   1106105|9397656e||Personaggio
+   1109020|93c5e7b1||Spada d'acciaio del gatto leggendaria
+   1105867|950b665d||I salvataggi creati con questa versione non sono compatibili con le versioni precedenti del gioco.
+   1102051|9615a0a1||Pulsante sinistro del mouse
+   1108641|963903b4||Schema: Pantaloni dell'orso leggendari
+   1107616|96d093f8||,
+   1101644|97211fc7||Schema: Stivali dell'orso superiori
+   1101645|97211fc8||Schema: Stivali dell'orso perfetti
+   1107564|975ac993||-
+   1107618|97b082a0||/
+   1102490|97b582f2||Stivali di pelle di nekker
+   1107562|97bd647b||`
+   1102569|98ca5985||Tempo di gioco totale
+   1109231|9d7d4d3a||Numero di personaggi non giocanti
+   1109407|9f80dab6||Risoluzione
+   1101654|a0ebcd50||Stivali del lupo superiori
+   1101655|a0ebcd51||Stivali del lupo perfetti
+   1101613|a2143e0e||Pantaloni del grifone superiori
+   1101614|a2143e0f||Pantaloni del grifone perfetti
+   1109042|a25b45b6||Schema: Stivali del gatto migliorati leggendari
+   1109043|a25b45b7||Schema: Stivali del gatto superiori leggendari
+   1109044|a25b45b8||Schema: Stivali del gatto perfetti leggendari
+   1101638|a27798b2||Stivali dell'orso superiori
+   1101639|a27798b3||Stivali dell'orso perfetti
+   1108986|a53debba||Schema: Armatura del gatto leggendaria
+   1109261|a819f7f7||Schema: Stivali del lupo leggendari
+   1108626|a8383957||Schema: Armatura dell'orso leggendaria
+   1101190|a981389a||Premi il tasto o il pulsante del mouse da assegnare:
+   1092302|aa5b822c||Lettera a Gaetan
+   1106117|ab64af37||Missioni
+   1106617|acbde652||Mutagene verde maggiore
+   1108905|ad02cdc2||Schema: Spada d'acciaio dell'orso leggendaria
+   1105866|b654820b||I salvataggi creati con questa versione non sono compatibili con le versioni precedenti del gioco.
+   1108973|b68489c2||Schema: Guanti dell'orso migliorati leggendari
+   1108974|b68489c3||Schema: Guanti dell'orso superiori leggendari
+   1108975|b68489c4||Schema: Guanti dell'orso perfetti leggendari
+   1109048|b6ebe313||Schema: Armatura del gatto migliorata leggendaria
+   1109049|b6ebe314||Schema: Armatura del gatto superiore leggendaria
+   1109050|b6ebe315||Schema: Armatura del gatto perfetta leggendaria
+   1107415|b7af1a38||Puoi usare le barche per attraversare corsi e specchi d'acqua.
+   1109027|b9eacb23||Spada d'acciaio del gatto migliorata leggendaria
+   1109028|b9eacb24||Spada d'acciaio del gatto superiore leggendaria
+   1109029|b9eacb25||Spada d'acciaio del gatto perfetta leggendaria
+   1092303|bd0bf760||Gaetan,<br><br>è finita. I soldati hanno espugnato la scuola. Hanno ucciso Axel e Cedric. Quanto a Schrödinger, non so se sia vivo oppure morto. Sulla tua testa e sulla mia pende una taglia. Evita le città e le strade principali. Non attirare l'attenzione.<br><br>Joël
+   1101642|bf7dec62||Schema: Pantaloni dell'orso superiori
+   1101643|bf7dec63||Schema: Pantaloni dell'orso perfetti
+   1092299|c1c15e8d||Biglietto di ringraziamento
+   1106078|c3669d60||Ferma cavallo
+   1101623|c4c84cc5||Schema: Guanti del grifone superiori
+   1101624|c4c84cc6||Schema: Guanti del grifone perfetti
+   1103843|c5784d99||Medaglione della Scuola del Gatto
+   1109212|c6c10041||Armatura del lupo leggendaria
+   1104043|c76954c9||Impossibile caricare il salvataggio: contenuto di gioco incompleto.
+   1108918|c7bda820||Schema: Stivali del grifone leggendari
+   1109051|cab81251||Schema: Pantaloni del gatto migliorati leggendari
+   1109052|cab81252||Schema: Pantaloni del gatto superiori leggendari
+   1109053|cab81253||Schema: Pantaloni del gatto perfetti leggendari
+   1090228|cc124271||Florka
+   1109005|cc3d6115||Spada d'argento del gatto migliorata leggendaria
+   1109006|cc3d6116||Spada d'argento del gatto superiore leggendaria
+   1109011|cc3d6117||Spada d'argento del gatto perfetta leggendaria
+   1108636|cd0fc0be||Schema: Guanti dell'orso leggendari
+   1107724|cd46d2e8||F10
+   1107725|cd46d2e9||F11
+   1107726|cd46d2ea||F12
+   1092304|ceca3a32||Lettera scritta da qualcuno che di rado impugna una penna.
+   1108970|cedaf313||Schema: Stivali dell'orso migliorati leggendari
+   1108971|cedaf314||Schema: Stivali dell'orso superiori leggendari
+   1108972|cedaf315||Schema: Stivali dell'orso perfetti leggendari
+   1101191|d03e0a6d||non è più assegnato a un tasto.
+   1109408|d3c3ace8||Modalità schermo
+   1106082|d54bee68||Sfodera spada d'argento
+   1106619|d56ca54e||Pagina strappata: Mutagene rosso
+   1101615|d56ef0b3||Stivali del grifone superiori
+   1101616|d56ef0b4||Stivali del grifone perfetti
+   1104035|d65dcc27||Nuova partita +
+   1108617|d65f831f||prova
+   1109034|d78f4c31||Schema: Spada d'acciaio del gatto migliorata leggendaria
+   1109035|d78f4c32||Schema: Spada d'acciaio del gatto superiore leggendaria
+   1109041|d78f4c33||Schema: Spada d'acciaio del gatto perfetta leggendaria
+   1062564|d7dd1caa||Pattuglia scomparsa - Ricompensa
+   1106621|d820db3d||Pagina strappata: Mutagene blu
+   1106077|dacadae9||Smonta
+   1100442|db0c3789||Mappa ammuffita
+   1100443|db0c378a||Vecchia mappa sbiadita
+   1107609|db981db5||Nessuno
+   1103779|dc99f96d||Minuti
+   1108646|dcbc44f2||Spada d'argento dell'orso migliorata leggendaria
+   1108647|dcbc44f3||Spada d'argento dell'orso superiore leggendaria
+   1108648|dcbc44f4||Spada d'argento dell'orso perfetta leggendaria
+   1108934|dd770d95||Schema: Spada d'argento del grifone leggendaria
+   1078009|dfefb296||Chiave del nascondiglio del katakan.
+   1102057|e035d313||Pulsante centrale del mouse
+   1106118|e0ae4a1e||Glossario
+   1108931|e2303a79||Spada d'argento del grifone migliorata leggendaria
+   1108932|e2303a7a||Spada d'argento del grifone superiore leggendaria
+   1108933|e2303a7b||Spada d'argento del grifone perfetta leggendaria
+   1101656|e5572db3||Guanti del lupo superiori
+   1101657|e5572db4||Guanti del lupo perfetti
+   1104920|e65bd07f||Cambia tipo di attacco
+   1108651|e68a0f40||Schema: Spada d'argento dell'orso migliorata leggendaria
+   1108652|e68a0f41||Schema: Spada d'argento dell'orso superiore leggendaria
+   1108653|e68a0f42||Schema: Spada d'argento dell'orso perfetta leggendaria
+   1107416|e72b5002||I tavoli degli armaioli permettono di potenziare l'armatura per un limitato periodo di tempo.
+   1107462|e8384175||Ripristina tutte le impostazioni predefinite
+   1107417|e88df9f3||Qui puoi chiedere i servigi di una prostituta.
+   1106623|eadc0ffb||Pagina strappata: Mutagene verde maggiore
+   1101662|eb98a8e5||Schema: Stivali del lupo superiori
+   1101663|eb98a8e6||Schema: Stivali del lupo perfetti
+   1092300|ec388dc7||Dono di una fanciulla grata.
+   1109295|ec67d1f3||Schema: Spada d'acciaio del lupo migliorata leggendaria
+   1109296|ec67d1f4||Schema: Spada d'acciaio del lupo superiore leggendaria
+   1109308|ec67d1f5||Schema: Spada d'acciaio del lupo perfetta leggendaria
+   1109012|ecb1d831||Schema: Spada d'argento del gatto leggendaria
+   1106624|eecaf062||Pagina strappata: Mutagene blu maggiore
+   1099517|efb1f4c5||Decotti
+   1109219|f0fe2464||Schema: Guanti del lupo migliorati leggendari
+   1109220|f0fe2465||Schema: Guanti del lupo superiori leggendari
+   1109223|f0fe2466||Schema: Guanti del lupo perfetti leggendari
+   1110452|f1838f72||Desideri apportare queste modifiche?
+   1108991|f1e2f3bc||Schema: Stivali del gatto leggendari
+   1106707|f3f5fddc||Il salvataggio non può essere caricato perché è stato creato da una versione del gioco più recente di quella in uso.
+   1108655|f44177a6||Spada d'acciaio dell'orso migliorata leggendaria
+   1108656|f44177a7||Spada d'acciaio dell'orso superiore leggendaria
+   1108657|f44177a8||Spada d'acciaio dell'orso perfetta leggendaria
+   1108631|f4dd4159||Schema: Stivali dell'orso leggendari
+   1104915|f50ceca4||PROGETTAZIONE SITO WEB ESTERNALIZZATA
+   1101646|f703f370||Schema: Guanti dell'orso superiori
+   1101647|f703f371||Schema: Guanti dell'orso perfetti
+   1108979|f737bfae||Schema: Pantaloni dell'orso migliorati leggendari
+   1108980|f737bfaf||Schema: Pantaloni dell'orso superiori leggendari
+   1108981|f737bfb0||Schema: Pantaloni dell'orso perfetti leggendari
+   1109278|f79dc0de||Spada d'argento del lupo leggendaria
+   1110453|f8d17716||Devi riavviare il gioco perché queste modifiche abbiano effetto.
+   1109004|f9495223||Spada d'argento del gatto leggendaria
+   1109268|fa9185c4||Guanti del lupo leggendari
+   1109269|fa9185c5||Guanti del lupo migliorati leggendari
+   1109270|fa9185c6||Guanti del lupo superiori leggendari
+   1109271|fa9185c7||Guanti del lupo perfetti leggendari
+   1110797|fb2cd197||RAPPRESENTANTE SERVIZIO CLIENTI JUNIOR
+   1100128|fc14eac1||Ordina oggetti
+   1091384|fc6177e6||Io, autore di questo annuncio, richiedo l'aiuto di un witcher. Si tratta di un compito arduo, ma non per un vero witcher. La ricompensa è ottima. Il tempo stringe, non indugiate. I witcher interessati mi troveranno fuori dalla taverna di Fyresdal.<br><br>Uggo, figlio di Olaf
+   1108942|ff70c34d||Schema: Spada d'acciaio del grifone migliorata leggendaria
+   1108943|ff70c34e||Schema: Spada d'acciaio del grifone superiore leggendaria
+   1108944|ff70c34f||Schema: Spada d'acciaio del grifone perfetta leggendaria
+   1104918|ffe663a0||Attiva/Disattiva camminata
+   1073125|00000000||Un altro portale!
+   1066801|00000000||Non è lo stile che volevo.
+   1077548|00000000||Merda!
+   1062561|00000000||Mi piace camminare furtivo tra i tulipani.
+   1062559|00000000||Dannato se lo fai, dannato se non lo fai"
+   1038390|00000000||Dev'essere un ekimmuh.
+    554635|00000000||Dobbiamo chiuderli!
+    421764|00000000||Arrivederci.
+   1075126|00000000||Il muro sta reggendo! E Hjalmar ha chiuso il portale!
+   1074919|00000000||Abbiamo chiuso due portali, poi abbiamo incontrato uno dei tenenti della Caccia.
+   1062886|00000000||Yen ha detto di lanciare il Segno Yrden sui portali. Dice che potrebbe chiuderli.
+    564859|00000000||Doma il demone"? Oppure "Libera il principe".

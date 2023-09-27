@@ -1,0 +1,320 @@
+;meta[language=cleartext]
+; id      |key(hex)|key(str)| text
+    301032|5a979acb||Guerrero de la Cacería salvaje
+    519868|00000000||"Las guerras del Norte: mitos, mentiras y distorsiones". Un tratado histórico, obra de Restif de Montholon.
+    519879|00000000||Faltan algunas páginas.
+    572808|00000000||El brujo George. Ya era hora de que repintáramos encima de eso.
+    572811|00000000||La brujería montada nunca llegó a funcionar.
+    572812|00000000||Los inviernos largos y solitarios dan pie a ideas muy raras.
+    332443|002e3ae9||Libro
+   1012975|00000000||¿No hubo ninguna reacción por parte del consejo o del Cónclave?
+   1012976|00000000||¿Bromeas? Ellos fueron los que pidieron a Radovid que "interviniera" después de que él los nombrase.
+   1012978|00000000||Luego descubrí que los sacerdotes del Fuego eterno se plantaron entre las ruinas de la academia y le dijeron a la chusma que ese era el castigo que les esperaba a todos los magos y traidores.
+   1012973|00000000||Si tú estás aquí, ¿qué ha pasado con Aretuza?
+   1012974|00000000||El día que llegué a Novigrado, recibí un mensaje de Biruta Icarti. Era una nota breve y seca: "Escuela tomada por redanianos. Bibliotecas quemadas. Un puñado de alumnas huyó con Nina Vivero. El resto ha muerto. Se acabó".
+   1012963|00000000||¿Qué le ocurrió a la escuela de Aretuza?
+   1012980|00000000||Adiós, Rita.
+   1012964|00000000||Adiós.
+   1012962|00000000||¿Cómo te atraparon los cazadores de brujas?
+   1012965|00000000||Siempre pensé que Margarita Laux-Antille sería de las últimas en ser atrapada por los cazadores de brujas.
+   1012966|00000000||Si hubiese dependido solo de mí, así habría sido. Pero te olvidas de que tenía que pensar en mis alumnas.
+   1012967|00000000||Sabía que los cazadores terminarían llegando a Aretuza. Era una simple cuestión de tiempo. Así que, cuando oí que Triss estaba organizando la huida a Kovir, no vi ningún motivo para dudar.
+   1012968|00000000||Reuní a las novicias, y vinimos hasta Novigrado. Por desgracia, nos atraparon y nos llevaron a Deireadh antes de que pudiese ponerme en contacto con Triss.
+   1012969|00000000||No vi a ninguna otra hechicera contigo...
+   1012970|00000000||Porque ya habían sido ejecutadas. Quemadas. Vivas. Una tras otra. Las chicas con más talento del norte... Radovid me estaba reservando para el final.
+   1012958|00000000||¿Cómo estás?
+   1012959|00000000||Mejor, gracias a ti. Si no hubieses llegado a tiempo, la cosa podría haber terminado mucho peor. Estoy en deuda contigo.
+   1028937|00000000||El mérito es de Yennefer. Fueron su idea y su plan.
+   1012961|00000000||¡Geralt! ¿Qué puedo hacer por ti?
+   1031674|00000000||Perseguía algo cuando se cayó. Quizás intuyó que iba a terminar mal, pero su sed de sangre era demasiado fuerte.
+    385297|00000000||¿El pendiente de Triss?
+    444237|00000000||Menos mal que lo he encontrado yo...
+    408102|00000000||Se lo llevaré a Triss.
+    385301|00000000||[Tomarlo].
+    408100|00000000||Podría dejarlo aquí. Triss ya debe haber tirado el otro pendiente.
+    385303|00000000||[Dejarlo].
+   1055413|f7a0c879||Guerrero nekker
+   1069326|e0351e50||Cofre del tesoro
+    577727|00000000||¿Has estado bebiendo? Te mueves como una mosca en la brea.
+    577729|00000000||¿Eso te parece un golpe fuerte?
+    577731|00000000||Lo suficiente como para romper tu guardia.
+    577733|00000000||Creo que entrenaré con Ciri mañana. Seguro que será mejor rival.
+    575089|00000000||He oído que el viejo se quedó dormido mientras daba clase.
+    575093|00000000||Tal vez se avecina una tormenta...
+   1074151|00000000||Mmm... Me pregunto si a los loros les vendrá bien el aire de montaña...
+    516508|b0678eeb||Caballo
+    574625|00000000||Más te vale.
+    574640|00000000||Más te vale. Vesemir ha dicho que si vuelve a pasar, te hará comer babosas cubiertas de sal.
+    574641|00000000||*Risas* ¡Puaaag!
+    576732|00000000||Exacto. Así que pórtate bien.
+    576738|00000000||Claro. ¿Esto es una escuela de brujos o baños élficos?
+   1058679|00000000||Por supuesto. [EMPEZAR TUTORIAL]
+   1058682|00000000||Ahora no. En serio, más te vale no hacer esperar a Vesemir.
+   1058680|00000000||Ahora no. [OMITIR TUTORIAL]
+    574642|00000000||Ven. Vamos a practicar abajo con los demás.
+    576736|00000000||¿Carrera por las murallas?
+    574633|00000000||Disculparte no es suficiente.
+    574635|00000000||Vas a leer "Ghuls y alghuls" entero. Con los apéndices y todo.
+    574637|00000000||No, por favor... ¡Prefiero limpiar los establos!
+    574639|00000000||Fin de la discusión.
+    574619|00000000||Disculparse no alcanza.
+    574605|00000000||Tienes trabajo que hacer. Tus reflejos siguen lentos.
+    574607|00000000||Tal vez para un brujo.
+    574609|00000000||¿Crees que los ahogados o las estriges te harán la vida más fácil porque no has experimentado las mutaciones?
+    574610|00000000||Aunque, de ser tú, le tendría más miedo a Vesemir que a una estrige. Desobedecerle... no es buena idea.
+    574614|00000000||Ya, lo sé. ¡Pero ese libro era pesadísimo!
+    574616|00000000||Te entiendo. Pero sabes que no es excusa.
+    574618|00000000||Lo siento. No volverá a pasar.
+    546852|00000000||Mal.
+    546854|00000000||Ahora veo por qué tenías tantas ganas de entrenar. ¡Ataca!
+    576696|00000000||¡Ja!
+    576698|00000000||Esto no es un circo. ¡Pirueta!
+    546856|00000000||Mal. ¡Mueve los pies!
+    576700|00000000||Está bien. Abajo.
+    546858|00000000||¿Con una voltereta?
+    546860|00000000||¿Tú qué crees?
+    576702|00000000||Bien, quítate la venda.
+    312802|05e75e62||Arpía
+    432580|00000000||Ahora, la defensa. Ciri, ¿ves cómo toma la espada Geralt? ¿El ángulo?
+    432582|00000000||¡Esquiva!
+    577761|00000000||Ahora pega fuerte. ¡Con todas tus fuerzas!
+    577759|00000000||Cortes rápidos. ¡Uno, dos, tres!
+    546723|00000000||¿Qué demonios estás haciendo?
+    546725|00000000||¡Ya está bien de tonterías!
+    546721|00000000||Deja de presumir, Geralt.
+    577969|00000000||Reacción. ¡Ataque, contraataque!
+   1057722|00000000||Bien. ¡Sigue entrenando lo que quieras!
+   1058454|00000000||Desenvaina tu espada, Geralt.
+   1058458|00000000||Bueno, jovencita, para terminar el día, vamos a repasar las Señales de brujo. Empecemos con Quen.
+   1058460|00000000||Lanza Igni, Geralt. ¡Quiero ver chispas!
+   1058462|00000000||¡Aard, Geralt! ¡Vamos!
+   1070598|00000000||Lento como mosca atrapada en ámbar... Otra vez.
+   1071561|00000000||¡Bien!
+   1071477|00000000||Yrden, ahora. Muéstrale, Geralt.
+   1071479|00000000||Es la hora de Axia. Maldita sea, odio esta sensación...
+   1071481|00000000||Tira una bomba. No te preocupes, Ciri. Quen amortiguará el golpe.
+   1075088|00000000||Ugh... Axia, te puede dejar muy confundido.
+   1075066|00000000||¿Ves, Ciri? No me habría movido ni queriéndolo.
+   1075064|00000000||Ciri, a Quen se la llama a veces "el escudo del brujo". Mira atentamente para saber por qué.
+   1075062|00000000||¿Lo ves? Si no fuera por la Señal de Quen, ahora estaría envuelto en llamas.
+   1075060|00000000||¿Ves, Ciri? Aard le hará perder el equilibrio a cualquier persona y criatura, y le cortará el ritmo.
+    574124|00000000||La hemos malcriado.
+    574263|00000000||Lo cierto es que la hemos malcriado.
+    574265|00000000||¿La "hemos" malcriado? Desde el principio vengo diciendo eso. Ciri necesita mano dura.
+    574267|00000000||Lo has dicho, es cierto. Pero la dejas hacer lo que quiera, como todos nosotros.
+   1044455|00000000||Está bien, supongo que tengo parte de culpa. Pero esto tiene que terminar. Ya.
+   1048566|00000000||Matar monstruos no es algo para tomarse a la ligera. Ciri debe comprenderlo si quiere ser de los nuestros.
+    574270|00000000||Te veo abajo.
+    574257|00000000||No te enfades con ella.
+    574259|00000000||¿Y por qué no? Esa mocosa se niega a hacer lo que le ordenan.
+    574261|00000000||Y eso te gusta.
+    574117|00000000||No te enfades con ella.
+    578211|00000000||El viejo brujo está dormido... Ciri ha desaparecido, claro.
+    573920|00000000||Supongo que prefiere la práctica a la teoría...
+    574106|00000000||¿Mmm? ¿Qué?
+    573954|00000000||Hora de despertarse, maestro.
+    573935|00000000||Tus lecciones son tan aburridas que te duermes hasta tú.
+    573936|00000000||Maldita sea... La puse a tomar apuntes de "Ghuls y alghuls"... Yo quería descansar un poco los ojos.
+    574098|00000000||¿La has obligado a leer esa porquería? No me extraña que se largara.
+    574100|00000000||A John de Brugge le falta estilo, es cierto, pero es veraz. No como las tonterías que publican hoy en día.
+    574126|00000000||Está entrenando en los péndulos, ¿verdad?
+    574102|00000000||¿Cuántas veces tendré que decírselo? Entrenar en soledad solo sirve para perpetuar los errores.
+    574104|00000000||Lleva a nuestra joven damisela al patio inferior. ¿Quiere entrenarse? Entonces lo hará.
+    478419|00000000||¿Adónde vas? Esto es un lugar de cultura, no un abrevadero para el ganado...
+    478437|00000000||La puerta de la izquierda.
+   1064835|00000000||¿Es aquí donde actúa la troupe de Madame Irina?
+    492248|00000000||Sí, pero solo se puede acceder con una entrada. Ahora no hay actuación, ya que los actores están ensayando. Aunque es interesante ver el proceso, la verdad.
+   1040331|00000000||Entonces, ¿quieres una entrada?
+   1040310|00000000||Acabas de decir que no hay actuación.
+   1040312|00000000||Eso no quita que puedas comprar una entrada. ¿Qué vas a hacer?
+    478435|00000000||Sí, una.
+    478436|00000000||Toma. Pero no llames la atención, ¿está bien? Los actores son muy tímidos cuando ensayan.
+    478430|00000000||Está bien, dame una.
+    478432|00000000||No. No me hace falta.
+    478433|00000000||Como quieras. Pero no podrás pasar. A las putas se las puede ver gratis a través de una ventana, pero a los artistas no.
+    478431|00000000||No, no quiero una entrada.
+    480265|00000000||¿Quieres una entrada?
+   1050491|7ef171cd||Sabueso de la Cacería salvaje
+    307008|103d66e3||Liebre
+    578399|00000000||¿No hay algo que deberías estar haciendo?
+    578620|00000000||Ahora no. Ciri te espera.
+   1071630|00000000||Tienes razón. Debería ir a ver a Ciri.
+   1071640|00000000||Sí, es mejor que vaya a ver a Ciri.
+   1071629|00000000||Seamos irrazonables.
+   1071632|00000000||No quiero ser razonable.
+   1071634|00000000||¡Ajá! ¿Así que tu cabecita anda por ahí…?
+   1071642|00000000||Ve a entrenar con ella. Y luego vuelve. Dame la oportunidad de arreglarme un poco.
+   1071644|00000000||De todas las mujeres que conozco, eres la única que lo hace antes de...
+   1071646|00000000||¿Has conocido a muchas?
+   1071648|00000000||¿Qué importa? Solo he pensado en ti...
+   1071636|00000000||Te he extrañado mucho.
+   1071638|00000000||Y yo a ti, pero tenemos tiempo de sobra para resarcirnos por eso.
+   1071628|00000000||Quiero quedarme contigo un poco más.
+   1071433|00000000||Mira, he pensado que Ciri podría esperar un poquito más...
+   1071435|00000000||Esto es poco edificante, por no decir irrazonable.
+    572370|00018392||Elemental de tierra
+    515498|00307f1b||Cabra
+   1047350|00000000||¡Ja!
+   1047352|00000000||¡Ahhh, qué lección le has dado, chica!
+   1075155|00000000||¡Ciri, baja de ahí!
+   1075157|00000000||Ja, ja, qué diablilla...
+   1075159|00000000||En cuanto vuelva, la ponemos a sacar brillo a todas las espadas de Kaer Morhen.
+   1075161|00000000||¿Encontraste el casco?
+   1075163|00000000||¿Ciri?
+   1075165|00000000||Ugh, me aseguraré de traerte hasta la última espada...
+   1075167|00000000||¿Qué demonios…?
+   1075169|00000000||¡Vesemir!
+   1075199|00000000||Hace mucho tiempo que esperaba esto, Lobo blanco.
+   1075203|00000000||¡Nooo!
+    591841|00000000||¡Geralt!
+   1075195|00000000||Lambe...
+   1075197|00000000||Ciri...
+   1055653|31c17949||Cuervo
+    591090|00000000||Una calavera de pájaro... de cristal negro. ¿Por qué me da la sensación de que esto es de Yen?
+    577144|00000000||Sabes que eso no me causa nada de gracia.
+    577145|00000000||No quería divertirte, tan solo apurarte. Ya es mediodía.
+   1059264|00000000||Pfff...
+   1059266|00000000||Le prometiste a Ciri que te entrenarías con ella.
+    577169|00000000||Vete antes de que Vesemir la mate de aburrimiento con esos grabados.
+    577154|00000000||¿Y bien? Hasta luego.
+    577155|00000000||Ajá. Hasta luego.
+    515166|00000000||Ah, tengo una señal...
+    515165|00000000||Aquí no hay nada...
+    515167|00000000||La señal se intensifica...
+    515168|00000000||No debe andar lejos.
+    515169|00000000||Ah, ahí estás.
+   1065315|00000000||Ajá... Caliente... más caliente... Quema.
+   1065341|00000000||Arg... Maldito gato. ¡Ffssss!
+   1056125|00000000||Maldita sea. Perdí la señal...
+    452929|f373a1e0||Boira
+   1020642|00000000||La tumba de Leo. Una muerte absurda, que podría haberse evitado.
+    573897|00000000||"Ghuls y alghuls, o los viles moradores de la Necrópolis", de John de Brugge. Un título intrigante para un libro más aburrido que la mierda.
+    573899|00000000||Un ahogado... con bigote y gafas. Obra de Ciri...
+    573901|00000000||Un atlas ilustrado de los insectoides, desde los "arachas" a los "xantogramas de Zerrikania".
+    573903|00000000||Apuntes de Ciri. Bastante... caóticos.
+   1045978|00000000||Mmm... Aquí se está estudiando mucho.
+    573895|00000000||"Bestiario del hermano Adalbert". Un clásico.
+   1075855|00000000||Mmm. Un espécimen impresionante.
+   1028457|00000000||¿Es el katakan de tu contrato?
+   1028458|00000000||Sí. Hacía un mes que lo seguía, pero al final logré matar a este hijo de puta.
+   1028502|00000000||Felicidades. Aunque tengo una duda. ¿Por qué te has quedado con el cadáver? ¿Quieres disecarlo y colgarlo sobre la repisa?
+   1047877|00000000||No es mala idea... pero primero tengo que hacerle la autopsia.
+   1047879|00000000||Era más rápido que los demás. Más rápido y más fuerte. Quiero examinarlo bien.
+   1047921|00000000||Abre la tripa.
+   1047932|00000000||¿Y bien? ¿Algo interesante?
+   1047934|00000000||Trozos de comida sin digerir... de hace unas décadas, parece. Cabellos humanos, una hebilla de cinturón, unas monedas... y un anillo de oro.
+   1049082|00000000||¿Quieres dárselo a Yennefer? Si lo limpias un poco, quedará como nuevo.
+   1047936|00000000||No, gracias. A ella solo le gusta la plata.
+   1047938|00000000||Peor para ella. El resto es totalmente normal... salvo su hígado retorcido. Parece que bebió demasiada sangre de borrachos.
+   1047887|00000000||Abre la tripa.
+   1075859|00000000||Creo que no lo habría conseguido sin ayuda del alquimista.
+   1047950|00000000||¿Y cómo lo mataste?
+   1047952|00000000||Es una larga historia... Otro día te la cuento.
+   1047940|00000000||Buenas garras. De unas quince pulgadas...
+   1047942|00000000||Les crecen durante toda la vida... Este tendría unos cien o ciento diez años.
+   1047946|00000000||Unas piernas muy musculosas. Sobre todo las pantorrillas y los pies.
+   1047948|00000000||Era rápido, el hijo de puta. Tardaba un segundo en ir de un sitio a otro, siempre entre las sombras. Apenas podía verlo.
+   1047888|00000000||Veamos sus garras.
+   1047956|00000000||Creo que he visto bastante de momento... Era viejo y con experiencia.
+   1047963|00000000||Mmm... Sería estupendo encontrar una forma de determinar la edad de un katakan a partir de sus huellas para no enfrentarme con uno así sin estar preparado.
+   1047965|00000000||Sí, estoy de acuerdo. Pero más tarde.
+   1075857|00000000||Hasta luego, Eskel.
+   1047889|00000000||De momento, es suficiente.
+   1047886|00000000||Examinemos la cabeza.
+   1047913|00000000||Examinemos la cabeza.
+   1047915|00000000||Bigotes largos... un lóbulo frontal que sobresale, pero eso es normal. Orejas grandes y... ¿un pendiente?
+   1047917|00000000||Sí. Ya había visto casos así. A algunos les gustan los objetos que brillan, como a las urracas.
+   1047919|00000000||Y en la boca... dientes amarillos y sin brillo. Le faltan los frontales superiores y los incisivos inferiores...
+   1047924|00000000||No cuidaba mucho su higiene bucal. Bien, sigamos.
+   1047900|00000000||¿Te importa si echo un vistazo?
+   1047902|00000000||¿Quieres hacer los honores?
+   1047904|00000000||No, gracias. Tú corta, y yo comeré algo.
+   1047880|00000000||Déjame mirar.
+   1047894|00000000||Bien, te dejo con tus cosas.
+   1047881|00000000||Sigue con lo tuyo.
+   1075861|00000000||¿Has cambiado de idea? Estaba a punto de empezar.
+   1028500|00000000||Hola, Geralt.
+   1028505|00000000||¿Podemos hablar después? Tengo que limpiar antes de entrenar.
+   1056879|00000000||¿Vas a buscar a Ciri?
+   1047896|00000000||Sí. Vesemir quiere que se entrene.
+   1047898|00000000||Iré contigo. En cuanto limpie la mesa.
+   1058289|0a09c08e||Bruja del pantoque
+   1047842|00000000||Supongo que el amor no conoce fronteras.
+   1047848|00000000||Ajá. El amor no conoce fronteras.
+   1047850|00000000||No creas. Sus padres le advirtieron que si la veían con un nilfgaardiano, le afeitarían la cabeza, le cortarían la lengua y la desterrarían del hogar.
+   1047852|00000000||Escucha... Lena... aún no se ha recuperado del todo. La traje conmigo cuando me trasladaron, pensando que mejoraría. Pero no... No dice nada. No reconoce a nadie. Duerme casi todo el día...
+   1047854|00000000||Se lo advertí a Tomira. Las pociones de los brujos tienen efectos secundarios muy fuertes y a menudo permanentes. No puedo ayudarte. Quizá un mago pueda.
+   1047856|00000000||No sé si darte las gracias... o maldecirte por no dejarla morir con dignidad.
+   1047860|00000000||Créeme, la decisión que tuve que tomar fue más difícil.
+   1047844|00000000||Mal lugar para una cita romántica. Si no hubiera sido el grifo, habría sido cualquier otra cosa.
+   1047846|00000000||Lo sé... Pero apenas podía alejarme entre cada guardia. Ese bosque estaba cerca.
+   1047839|00000000||Mal sitio para una cita.
+   1047276|00000000||¡Oye! ¡Alto!
+   1047278|00000000||Geralt de Rivia, ¿no? ¿Estuviste en Huerto Blanco hace poco? ¿Cerca de Wyzima?
+   1047284|00000000||Ajá. Es una aldea encantadora. Si no te importan los cadáveres putrefactos.
+   1047834|00000000||Habría habido uno más de no ser por ti. Lena... sobrevivió. Gracias a tu poción.
+   1047836|00000000||Resulta agradable y a la vez sorprendente ver a un nilfgaardiano tan preocupado por la suerte de una simple norteña.
+   1047838|00000000||Esa noche, cuando el grifo la atacó, ella iba de camino a verme en el bosque cercano a la guarnición.
+   1084448|103d846e||Gama
+   1075506|e3976585||Viejo Punta de lanza
+    577747|00000000||¡Nunca extiendas tus brazos al atacar, jovencita!
+    577739|00000000||¡Y unoooo!
+    577741|00000000||¡Toma! ¡Te he rajado la yugular!
+    577749|00000000||¡La posición, Ciri! ¡Recuerda, mueve los pies!
+    577743|00000000||¿De qué me tengo que defender? ¡Estoy luchando contra un muñeco bobo!
+    577745|00000000||¡Puede que esto te salve la vida más tarde!
+    574766|00000000||¿Qué te dije de respirar? Hazlo por la boca, al ritmo de tus pasos.
+    577080|00000000||Aaaah... Aaaaah... Aaaah...
+    577082|00000000||Ciri. Ya basta.
+    577084|00000000||Oh, no. Vesemir me mira mal.
+    577086|00000000||¿Qué esperabas?
+   1056855|00000000||¿Qué pasa, Geralt? ¡Vamos!
+   1059615|00000000||¿Tienes problemas? ¿Doy la vuelta y te ayudo?
+   1059617|00000000||¡Primera! ¡Na-na-na-na-naaa!
+   1059619|00000000||Yo gano.
+   1059621|00000000||¡Tienes las piernas más largas! ¡Ya verás cuando crezca un poco!
+   1059611|00000000||¡Eh! ¡Dijiste que no podíamos hacer eso!
+   1059613|00000000||Dije que tú no podías hacerlo.
+    574750|00000000||¡Llegaré abajo antes que tú!
+    577077|00000000||Quizás, si te caes.
+   1028700|00000000||¡No me molestes, Geralt! ¡Me voy a tropezar!
+    346241|fd7deb62||Aventurero
+    576828|00000000||Podrías haber dicho que estudiaste cuando él dormía.
+    576840|00000000||Así que has leído el capítulo. ¿Por qué no lo has admitido desde un principio?
+    576841|00000000||"No aproveches una oportunidad en cuanto aparezca. Espera para disfrutar al máximo de la ventaja". Palabras del tío Vesemir.
+    576842|00000000||Está bien, eres una buena estudiante. Pero muy pilla.
+   1058686|00000000||Debería trabajar lo básico. Incluso los maestros más expertos tienen que mejorar en lo básico... Y Ciri es una novata.
+   1058683|00000000||Con lo básico. [EMPEZAR TUTORIAL DE COMBATE].
+   1058688|00000000||Vamos directamente al entrenamiento libre... No tiene sentido volver sobre lo básico.
+   1058684|00000000||Vamos directo al entrenamiento libre. [OMITIR TUTORIAL].
+    576835|00000000||Bueno, ya hemos hablado bastante. Geralt, tú conmigo. ¡Lambert con Eskel! ¡Ciri con el muñeco!
+    576837|00000000||¿Otra vez?
+    576838|00000000||¡Deja de quejarte y toma una espada!
+   1058717|00000000||¿Qué opinas? ¿Empezamos repasando lo básico o pasamos al entrenamiento libre?
+    576830|00000000||No intentes escaparte de esta.
+    577037|00000000||"Un brujo debe saber cómo engañar a su rival". Son tus palabras.
+    577039|00000000||Puede ser. Pero no intentes usar mi sabiduría contra Vesemir, ¿está bien? Eso es jugar con fuego.
+    576819|00000000||No te vas a escapar de esto.
+    573553|00000000||¿Tienes alguna excusa, jovencita?
+    573554|00000000||Lo siento mucho, tío Vesemir.
+   1044494|00000000||Los jóvenes necesitan acción, lo entiendo. Pero si te enfrentas a una bestia, los conocimientos cuentan tanto como tu espada plateada. Como mínimo deberías poder distinguir un ghul de un alghul...
+    573556|00000000||"...por sus rayas, como las del panthera tigris que vive en Zerrikania, y por la enfermiza palidez de su rostro"
+    573557|00000000||Mmm. Está bien, has leído el capítulo. Pero deberías haberme preguntado...
+    576818|00000000||Es que estabas dormido, tío Vesemir.
+   1050632|002efcee||Ciervo
+   1064995|00000000||Cuántos cadáveres... Y la guerra acaba de empezar.
+   1064997|00000000||La herida ha cerrado bien...
+   1064993|00000000||Mierda... El paso de montaña está precioso.
+   1055682|b224b6d2||Devorador
+   1056946|00000000||Lila y grosellas, claro...
+   1058292|00000000||Geralt... Deja mis artículos de aseo.
+   1056954|00000000||Te estás quedando sin jugo.
+   1058286|00000000||Lo sé. Tráeme un poco cuando termines de entrenar.
+   1056956|00000000||¿No tienes ropa que no sea blanca o negra?
+   1058288|00000000||Claro. Ropa interior.
+   1056944|00000000||Es solo plata...
+   1058285|00000000||El oro no me queda bien. Deberías saberlo.
+   1031654|00000000||La vieja torre de señales. Pronto será un montón de escombros.
+    578398|00000000||Ya hablaremos.
+    432590|d184d9f7||Aparición
+    170811|72cb8ee5||Ahogado

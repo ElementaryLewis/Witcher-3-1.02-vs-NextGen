@@ -1,0 +1,1135 @@
+;meta[language=cleartext]
+; id      |key(hex)|key(str)| text
+    558987|00000000||Incluso Cerys me habría parecido una digna reina si hubiera conseguido algo por sus propios medios.
+    558994|00000000||Dicen que habría muerto en Spikeroog de no ser por ese brujo.
+    558996|00000000||Tal vez habría sido lo mejor para ella...
+    558998|00000000||Incluso Hjalmar me habría parecido digno rey si hubiera matado al gigante él mismo.
+    559000|00000000||Dicen que ese mocoso habría vuelto de Undvik en un ataúd de no ser por ese brujo.
+    559002|00000000||Tal vez ese habría sido un mejor destino para él...
+    558427|00000000||¡Miren, el lacayo de los an Craite ha vuelto!
+    558428|00000000||Crach está dejando sus asuntos en manos de continentales. Por eso es tan difícil razonar con él.
+    555189|00000000||Al menos ya sabemos dónde buscar a Ciri.
+    555191|00000000||Ajá. Sígueme. Y no bajes la guardia.
+    555186|00000000||Al menos ya sabemos dónde está Ciri.
+    555187|00000000||¿Qué podemos esperar?
+    555195|00000000||¿Qué vamos a encontrarnos?
+    555201|00000000||Si los libros están en lo cierto... las leyes de la naturaleza quedarán suspendidas. La gravedad, el tiempo... Todo Undvik quedará patas para arriba.
+    556036|00000000||Estás exagerando, ¿verdad?
+    556038|00000000||Ni una pizca.
+   1076947|00000000||La Conjunción de las esferas ha empezado. Los mundos están alineados, se infiltran el uno en el otro. Avallac'h podría aprovecharse de esto: traer aquí a los Aen Elle... o algo mucho peor.
+    554522|00000000||¿Dónde está Ciri?
+    554524|00000000||¿Qué...? Creía que lo sabías.
+    554526|00000000||Solo sé que Avallac'h tal vez nos haya traicionado.
+    555181|00000000||Pero ¿qué...? ¿Es una tormenta?
+    555183|00000000||Geralt... ¡Mira!
+   1062109|00000000||¿Qué...? ¿Qué rayos está pasando?
+   1062111|00000000||Me resulta muy difícil de creer, pero...
+    554268|00000000||El portal entre los mundos está abierto.
+   1076944|00000000||Tenemos que llegar rápidamente a la torre. Detener a Avallac'h... ahora que estamos a tiempo de solucionar esto.
+    555197|00000000||Anomalías mágicas de tercer grado.
+    555199|00000000||Concreta, Yen. Concreta.
+    350496|43078142||Guerrero
+    558389|00000000||{Ess onderorde aep prionnsa var Attre? } [¿Has servido a las órdenes del duque var Attre?].
+    558390|00000000||{Mhm. Aen peanasa triall aep Angra yn hwre, aep oostcòmhrag. } [Ajá. En una expedición de castigo en Angor, y en el frente oriental].
+    559010|00000000||{Esse erkene? } [¿Es bueno?].
+    559012|00000000||{Erkene. Ess marca deich eate’n fem evalla, ro va'ess du jinearalt. } [Sí. Cabalgó diez años en el Quinto de caballería antes de que lo nombraran general].
+    559014|00000000||{Yea. N'esse vind orde aep ardadel, que orloog va'viss aep skool. } [Bien. No me gusta recibir órdenes de los aristócratas. La mayoría solo conoce la guerra por los libros que leyeron en la academia de oficiales].
+    558426|00000000||Cerys y Hjalmar... ¿Dónde están?
+    561484|00000000||¿Qué les ha pasado a Cerys y a Hjalmar?
+    561503|00000000||En cuanto divisamos la flota imperial en el horizonte, Hjalmar reunió los barcoluengos y zarpó para hacerle frente.
+    561505|00000000||Cerys se fue con él... Ninguno ha regresado.
+    558425|00000000||Nos ponemos en marcha inmediatamente.
+    561481|00000000||¡Ya han oído al rey! ¡Muévanse!
+    561486|00000000||Svanrige... ¿Quién lo habría pensado? Los jarls tienen a alguien en quien creer de nuevo.
+    561488|00000000||¿Y a ti qué te trae por aquí? ¿No quieres perderte ni un solo chisme de las Skellige?
+    558394|00000000||¿Has oído hablar de la Piedra solar?
+    558165|00000000||Oye, Armiño, ¿sabes algo de la Piedra solar? La leyenda dice que está en Skellige.
+    557579|00000000||Primero la máscara de Uróboros y ahora la Piedra solar. Los monstruos pueden estar tranquilos: te has convertido en un buscador de tesoros.
+    558001|00000000||Nunca me han interesado los elfos Aen Seidhe. Pero hay un escaldo, Eyvind, que podría ayudarte. Una vez me habló de unas cavernas o ruinas inaccesibles, o algo así...
+    558005|00000000||¿Dónde puedo encontrarlo?
+    558007|00000000||¿Hoy? En Arinbjorn, sin duda.
+    558167|00000000||También podrías preguntarles a los pescadores de perlas Erling y Matthias Branquias. Últimamente pescan cerca del extremo oriental de la bahía.
+    558168|00000000||¿Branquias?
+    558170|00000000||¿Branquias? Interesante.
+    558252|00000000||Así lo llaman. Es capaz de sumergirse durante horas.
+    558254|00000000||Nadie sabe cómo lo hace, pero yo tengo mis sospechas.
+    558263|00000000||Ajá. ¿No te cae muy bien?
+    558359|00000000||No es nada personal. Tampoco soportaba a su padre ni a su abuelo.
+    558040|00000000||Gracias por tu ayuda.
+    558042|00000000||Gracias por tu ayuda.
+    558044|00000000||Una cosa, Geralt. Estas cuevas o ruinas... Los antepasados de Matthias y Erling las habrían saqueado hace siglos si no hubieran estado protegidas por algún tipo de barrera mágica.
+    558059|00000000||Llévate a una hechicera. Debes haber traído alguna.
+    558065|00000000||Esta vez vengo con toda la pandilla.
+    558067|00000000||¡Uf! Que los dioses nos protejan.
+    534114|00000000||¿De verdad no pudiste hacer nada en absoluto? ¿Durante seis meses?
+    538599|00000000||¿Por qué no me hablas del emperador? Según parece, últimamente está muy unido a ti.
+    538601|00000000||Philippa...
+    538603|00000000||¿Qué?
+    538605|00000000||¿Quieres una galleta?
+   1065677|00000000||Quizá esto no era buena idea...
+   1070234|00000000||¿Viste a esa tal Vigo?
+   1070236|00000000||¿Cómo iba a verla? No sale de su camarote.
+   1070389|00000000||Además, dicen que solo mirarla ya se considera traición.
+   1070393|00000000||Mmm, ¿en serio? Creo que yo correría el riesgo.
+   1070382|00000000||Uf, de ese solo quedan astillas.
+   1070242|00000000||Me pregunto qué valiente jarl enviaría esa bañera a luchar contra la flota imperial.
+   1070244|00000000||Los de Skellige no son tan idiotas. Apuesto a que fue un velero mercante.
+    458124|f759b018||Soldado nilfgaardiano
+    166754|68667754||Soldado nilfgaardiano
+    557209|00000000||Prefiero comprobarlo ahora. Caso contrario, seguiré preguntándome si no me está por apuñalar por la espalda.
+    557211|00000000||Tienes una especie de manía persecutoria.
+    556435|00000000||No hace falta que nos acompañes.
+    556437|00000000||No era mi intención.
+    553769|00000000||¡Les arrancaré la cabeza!
+    553771|00000000||Ciri... Esta gente ha sufrido mucho.
+    553773|00000000||Eso no es excusa. Nada puede justificar esto.
+   1067916|00000000||El druida se ha ido para hacer que ese idiota entre en razón.
+    558202|00000000||Fue a ver a Lugos. Un an Craite en el trono es como una espina en el culo. Ahora que ha visto a los Oscuros, le molesta aún más.
+   1067883|00000000||Fui a ver a Lugos. Desde que Hjalmar ocupa el trono, es como si a ese idiota le hubiesen metido un aguijón por el culo. Ahora que ha visto a los Oscuros, se piensa que lo van a ayudar a salvar Skellige.
+   1067926|00000000||¿Cómo estuvo la coronación?
+   1067934|00000000||¿Estuvo bien la coronación?
+   1067938|00000000||¡Ja! ¿Por qué iba a contártelo, Lobo? Tendrías que haber venido, como hicieron todos los demás.
+   1067945|00000000||Y cuando digo todos, quiero decir todos.
+   1069040|00000000||¿Lugos también apareció?
+   1067943|00000000||Síii. Estuvo con el ceño fruncido los tres días, como si se hubiera hartado de ostras en mal estado y le diera vergüenza preguntar por el retrete.
+   1069056|00000000||Sospechaba que no iba a ceder.
+   1067925|00000000||Creo que voy a acompañarlo.
+   1067928|00000000||Creo que voy a ver a Armiño. Tengo que hablar con él.
+   1067932|00000000||Está bien. Si ves al imbécil de Lugos, que no se te olvide decirle que... Ag, mejor no. El druida sabrá qué decir. Adiós.
+   1067897|00000000||Fui a ver a Lugos. Desde que Cerys ocupa el trono, es como si a ese idiota le hubiesen metido un aguijón por el culo. Ahora que ha visto a los Oscuros, se piensa que lo van a ayudar a salvar Skellige.
+   1067912|00000000||¿Has visto eso, Lobo? ¡Los perros negros en sus bañeras destartaladas! Aúllan a la puerta para infundir miedo en nuestros corazones.
+   1067914|00000000||Los he visto. ¿Dónde está Armiño?
+    563338|00000000||Siento como si hubiera entrado en el dormitorio de alguien.
+    563339|00000000||Vaya, un vulgar espejo. Esperaba encontrar un portal oculto.
+    563343|00000000||Oh, no sabía que fuera tan goloso.
+    563344|00000000||Snif. Vaya, a los elfos les encantan los perfumes.
+    533362|00000000||¡Fuego a discreción!
+    533363|00000000||¡Un asesino! ¡Abran fuego!
+   1072906|00000000||Malditos perros. ¡Está escondido en alguna parte!
+   1072904|00000000||Lo tenemos. Vuelvan a sus puestos.
+   1063092|00000000||{Eisio! Galle vuanedd! } [¡Hielo! ¡Reduce la velocidad!].
+    301032|5a979acb||Guerrero de la Cacería salvaje
+   1070422|00000000||De niño mis padres me trajeron una vez a Skellige.
+   1070424|00000000||¿Ah, sí? ¿Por qué? Aquí solo hay riscos, arpías y algas asquerosas.
+   1070426|00000000||Para un niño era increíble navegar con pescadores. Toda una aventura.
+   1070430|00000000||Recuerdo Undvik. Me enseñaron a tejer redes.
+   1070428|00000000||Sí. Me alegro de volver después de tantos años.
+    558391|00000000||{Ma morvudd esse trom'caith. Truinn'armach. } [El enemigo va bien protegido. Armadura completa].
+    558983|00000000||{Esse'va veloë aep mass. Que'ss a il'edrithean? } [Bien. Así se hundirán más rápido. ¿Y los magos?].
+    558393|00000000||{Esse'aer qinnte. Il'edrith foghnè ess onbekend. Esse'kraihen nhetwerk yn dwimeritium bomaeb a va. } [Habrá, aunque se desconoce qué magia usan. Recibirán redes y bombas de dimerita].
+    558928|00000000||{Nor gláeddyv. } [Bastará con una espada].
+   1063114|00000000||Ibas a contarme algo.
+   1063116|00000000||Avallac'h nos engañó a ambos.
+   1063118|00000000||Hizo que nos enfrentásemos... Y se ha largado con Cirilla.
+    556965|00000000||No te creo.
+    413756|00000000||Esos hijos de puta de Faroe se desmayarán en cuanto vean el sol imperial.
+    413758|00000000||Je, je. Se darán cabezazos contra la pared cuando se den cuenta de que nos hemos llevado la mayor parte del botín.
+    534835|00000000||Será la primera incursión en la que los Oscuros nos traigan el botín a la puerta de casa.
+    413760|00000000||Será como coser y cantar.
+    454261|00000000||Mm, me vendría bien una buena hoja de Viroledo para mi Madds. Mi espada pesa demasiado para el muchacho.
+    559847|00000000||¿Trato hecho?
+    559858|00000000||¿No hay nada que hacer?
+    559860|00000000||Es demasiado tarde.
+    559848|00000000||Lo haría gratis.
+    559854|00000000||Lo haría gratis con gusto.
+    559856|00000000||Ah.
+    559862|00000000||El rey acepta cumplir todas las condiciones antes del solsticio de verano.
+    559868|00000000||Antes de firmar, deseo oírlo de boca del rey.
+    559887|00000000||Svanrige.
+    559917|00000000||Aagh...
+    559890|00000000||¡Aaaaaaaaaah!
+    559910|00000000||¡Tuirseach!
+    559912|00000000||¡Tuirseach!
+    559850|00000000||Lo mismo que si fuera una erynia.
+    559852|00000000||Tentador.
+    559846|00000000||Lo mismo que si fuera una erynia.
+    559805|00000000||¿Quién es?
+    559807|00000000||Nadie que importe.
+    559827|00000000||Como decía, discutiremos los detalles más adelante. Su Majestad acepta el documento en su forma actual.
+    559829|00000000||Jamás pensé que viviría para ver este día...
+    559841|00000000||Estamos preparados para sellar el acuerdo.
+    559845|00000000||¿Cuánto tendría que pagarte para que le cortaras la cabeza ahora mismo?
+    528605|00000000||No hay otra opción, tendré que bucear. Lo llaman Branquias por un motivo.
+    556706|00000000||Mmm.
+    556708|00000000||Geralt... Ayudé a huir a Triss.
+    556718|00000000||En cuanto esto termine, irán a Kovir, vivirán felices y comerán perdices.
+    556720|00000000||Lo que haga cuando esto termine no es asunto tuyo.
+    556722|00000000||¿A ti qué te importan las demás?
+    556724|00000000||¿Hablas en serio? Si me lo tienes que preguntar, está claro que no entenderías mi respuesta.
+    555047|00000000||Tenemos que centrarnos en Ciri. ¿Qué crees que quiere de ella Avallac'h?
+    555049|00000000||Lo mismo que Eredin, supongo... La usará para abrir una puerta entre mundos.
+    556726|00000000||Y gracias por ayudarnos.
+    556728|00000000||Basta. Por favor.
+    556730|00000000||Bien.
+    556710|00000000||¿Qué les espera a ellas?
+    556712|00000000||Interrogatorios, torturas... y luego quizá la muerte. A Philippa seguro.
+    556714|00000000||No me siento orgullosa, Geralt, pero tal y como están las cosas, me he arriesgado mucho para salvar a Triss.
+    556716|00000000||Entiendo.
+    556704|00000000||¿Revisamos la playa, para empezar...?
+    562434|00000000||Sigue buscando. Debe estar aquí.
+    528556|00000000||Debe ser el bote de los pescadores de perlas.
+    533496|00000000||¡Dispárenle! ¡Que no se acerque al barco!
+    533497|00000000||¡Allí, en el agua! ¡Disparen!
+   1072896|00000000||¿Le hemos dado?
+   1072898|00000000||¿Adónde demonios ha ido?
+    558397|00000000||{Innleadair korps ess'deireadh sonde. } [Los ingenieros han terminado el reconocimiento].
+    558899|00000000||{Hoog aep dei'bai esse fem heamh, an que yn a tre cairt. } [Profundidad máxima de la bahía: cinco brazas. Pero solo en una tercera parte de su superficie].
+    558901|00000000||{Tanalach… } [Aguas someras...].
+    558903|00000000||{N'esse evellien. Esse klipaen yn zandbankean am meadhan aep de'bai. Hwre, hwre... Yn hwre. } [Eso no es todo. Rocas y bancos de arena en el centro. Aquí, aquí... y aquí].
+    558905|00000000||{Anns a'ques vlaggeskipaen esse balla aep har. Òrde-zreth cruinn yn cnàmhan aespar. } [Los buques insignia deben permanecer cerca de la costa. Formación en círculo, bombardeo continuo].
+    558907|00000000||{Yeá, awr! } [Sí, señor].
+    465467|05df8c2c||Gólem
+    551841|00000000||Volveré. Con Ciri.
+    551840|00000000||Haz tu trabajo.
+    551861|00000000||Ponte a trabajar.
+    551876|00000000||Estoy bien. Vete... Y dale recuerdos sinceros de mi parte a Avallac'h.
+    552063|00000000||¡Ahora, Geralt!
+    551868|00000000||¡Agored, teirgane agored!
+    551864|00000000||Volveré con Ciri.
+    551866|00000000||Lo sé.
+    551432|00000000||Mierda... Avallac'h ha rodeado la torre con una barricada mágica.
+    551433|00000000||¿Puedes desmantelarla?
+    551804|00000000||¿Desmantelarla? No. Como mucho, abriré una grieta. Pero solo unos instantes, porque no...
+    551806|00000000||Concreta, Yen. ¿Pasaremos los dos?
+    551839|00000000||No. Debes ir solo.
+    551874|00000000||Estaré bien. Vete.
+   1074174|00000000||¡Lo sabíamos al partir! ¡No había vuelta atrás!
+   1074176|00000000||¡Teníamos que matar a los Oscuros!
+   1074178|00000000||¡Ahora luchamos contra las apariciones de Mörhogg! ¡Moriremos de forma gloriosa en la batalla final!
+   1066342|00000000||¡Aaaaaaaagh! ¡Apártense, hijos de puta!
+   1070238|00000000||Me han dicho que a Gerben le ha vuelto a tocar la guardia del cuartillo.
+   1070240|00000000||Sí. El agua podrida le enseñará a no burlarse del comandante.
+   1070405|00000000||Cierto. Aunque tienes que admitir que de Vijver huele un poco a hurón mojado.
+    301010|00330572||Mago
+   1065050|00000000||¿Vienes a rendirte, hija de la Vieja sangre?
+   1064980|00000000||No. Vengo a matarte.
+    539896|00000000||Mira, Geralt.
+   1065527|00000000||¡Malditos! ¡Vamos a caer como moscas!
+   1073882|00000000||¡Ah, qué mierda!
+   1074217|00000000||¡Demonios! ¡Los demonios de Mörhogg!
+    533934|00000000||¿Crees que el elfo es confiable?
+    533935|00000000||No recuerdo que dudaras de él cuando te estaba curando.
+    538567|00000000||¿Sabes de lo que acabo de darme cuenta?
+    538587|00000000||¿Mm?
+    538589|00000000||Salvo por nosotras dos y Ciri, Geralt se ha acostado con todas las mujeres en este barco.
+    538591|00000000||No te preocupes, en tu caso, es solo cuestión de tiempo.
+    562143|00000000||¡La encontré!
+    558402|00000000||{N'esse va lamh voorsnit? } [¿No nos llevamos los grilletes?].
+    558403|00000000||{Neen. Ker'zaer n'iarr hevangen. } [No. El emperador no quiere prisioneros].
+    558826|00000000||{Yn yea. Ess nor zeist, que Temerian, que'ss ess'va lamh aep Hamm. } [Bien. Solo causarían problemas, como los temerios que capturamos en Hamm].
+    560557|00000000||{Que'ss fa'dhe vae seann? } [¿Pagaron rescate por ellos?].
+    560559|00000000||{Neen. Ess'va nach doo. } [No. Terminaron en una zanja].
+    520728|00000000||Listo.
+    520729|00000000||Vamos.
+    538377|00000000||Veamos lo que planea realmente Avallac'h...
+   1065753|00000000||Vamos a echar un vistazo. Debería ser una tumba relativamente reciente.
+   1065755|00000000||Gracias por venir. Odio los cementerios, sobre todo si tengo que andar por ellos a solas.
+    553779|00000000||A mí tampoco me gustan los cementerios.
+    553781|00000000||Los cementerios tampoco son mi lugar favorito.
+    553783|00000000||¿Por qué no?
+    553785|00000000||Me recuerdan al trabajo.
+    565970|00000000||Nunca he estado en un cementerio para visitar la tumba de alguien... Siempre estoy cazando algún ghul o demonio podrido.
+    565972|00000000||Ahhh... Si te soy sincera, preferiría haber venido aquí con un contrato, para hacer trabajo de brujo.
+    553752|00000000||Piensa... El cadáver... ¿Qué puede haber sido de él?
+    553754|00000000||No lo quemaron. Ese es un honor reservado para los reyes y los héroes. Dudo también de que lo dejaran en el jardín. Mmm...
+    553756|00000000||Ah. Malditos...
+    553758|00000000||¿Qué?
+    553760|00000000||Más allá de la aldea hay un pozo al que tiran ovejas afectadas por carbunco. Los cangrejos picotean sus huesos por las noches.
+    553654|00000000||Lasse, hijo de Njord... Olaf, hijo de Over... Ynge, hija de Trottnir...
+    553704|00000000||Maldita sea... No está aquí, Skjall no tiene tumba.
+    553728|00000000||Geralt... No me iré hasta que lo entierre.
+    553778|00000000||Echemos un vistazo. Vamos.
+    553776|00000000||Echemos un vistazo juntos.
+    553643|00000000||Me alegro de verte. Empezaba a pensar que no vendrías.
+    553645|00000000||No lo dices en serio.
+    553647|00000000||¿Y bien? ¿Has encontrado la tumba?
+    553648|00000000||No, odio los cementerios. Detesto vagar por ellos a solas.
+   1068681|00000000||¡Intentaré atravesar la barrera!
+    546936|00000000||Riannon. Amavet. Fiona. Corbett de Cintra. Muriel. Adalia. Calanthe. Pavetta...
+    556408|00000000||¡Agarra al caballo! ¡Ganaremos tiempo!
+    556411|00000000||¡Vamos, Geralt! ¡No voy a esperarte!
+    556412|00000000||¡Usa la Señal de Axia, maldita sea!
+    556414|00000000||No sé por qué te has negado a agarrar al caballo... pero está bien. Lo haremos a tu manera. ¡Vamos!
+    561087|00000000||¿No crees que es hora de que dejes de meterte en la vida de Ciri?
+    561089|00000000||No.
+    561091|00000000||Pero sabes que no somos una manada de lobos que puedas alejar de ella con tu espada...
+    561093|00000000||Claro que lo son, y sí, puedo hacerlo si es necesario.
+    170811|72cb8ee5||Ahogado
+   1062832|00000000||¡Geralt! ¡No te alejes!
+   1062830|00000000||¡Debemos permanecer juntos!
+    554553|00000000||Por fiiiin...
+    554501|00000000||Dámela y salgamos de aquí.
+    554534|00000000||No tan rápido. Tenemos un asunto pendiente.
+    561095|00000000||Déjame adivinar: tienes que volar. Ahora me dirás que necesitas la Piedra solar mucho más que nosotros. Después te transformarás en una lechuza y... ¡a volar!
+    561097|00000000||No sé de dónde has sacado esa idea ridícula. Lo único que me importa es la seguridad de Ciri.
+    561099|00000000||Pero deseo hablarte del futuro. De mi futuro.
+    529556|00000000||Vete tú. Sé que tienes cosas que hacer. Yo volveré por mi cuenta.
+    556799|00000000||¿Alguna otra perla de sabiduría más? ¿O podemos irnos?
+    561104|00000000||¿Ya está? ¿Podemos irnos?
+    561105|00000000||Quieres ocupar el lugar de Yen junto a Emhyr.
+    561107|00000000||Quieres ocupar el lugar de Yen junto a Emhyr.
+    561109|00000000||Y junto a Ciri.
+    561111|00000000||Creo que sabes que es inevitable. Y cuando ocurra, preferiría que Yennefer estuviera bien lejos.
+    561112|00000000||Mantenerla en la mazmorra imperial sería costoso y daría la impresión equivocada.
+    556753|00000000||Triss podría oponerse.
+    556756|00000000||Ah, sí. Entonces, ¿puedes darle un consejo amistoso a Yennefer? Ella te escuchará.
+    556697|00000000||Cuando hayamos derrotado a la Cacería y Ciri esté a salvo, el ascenso meteórico de Yennefer en la corte imperial tendrá un final abrupto.
+    556702|00000000||Lo cual me viene de maravillas. No tengo interés en resucitar la Logia si no voy a tener el voto de calidad.
+    556739|00000000||Y me cuentas esto porque...
+    556740|00000000||Si no me equivoco, en cuanto derrotemos a la Cacería, vas a escabullirte por la puerta trasera con Ciri... para desaparecer en la espesura, ¿correcto?
+    561100|00000000||Muy romántico, pero quizá, en lugar de destruir la vida de la chica, podrías llevarte a Yennefer contigo de una vez.
+    556693|00000000||Yo no me preocuparía. Estoy seguro de que el emperador tiene planes para ti.
+    556701|00000000||Deja de comportarte como un bufón y escúchame con atención.
+    556580|00000000||El emperador tiene planes para ti, estoy seguro.
+    556579|00000000||Te recomiendo el aire de montaña de Nazair.
+    556582|00000000||Te gustará Nilfgaard, no me cabe duda. Te recomiendo el aire puro de montaña de Nazair.
+    556584|00000000||Ja, ja, y Yennefer dice que no tienes sentido del humor. Ahora escúchame bien.
+   1037385|00000000||Va a ser hoy, seguro... Oh, ¿sí? ¿Qué pasa?
+   1037387|00000000||¡Ya basta!
+    551290|00000000||Mierda... ¿Un terremoto?
+    551782|00000000||Hay que darse prisa.
+    551771|00000000||Los temblores son cada vez más fuertes...
+    551772|00000000||No nos queda mucho tiempo.
+    556528|00000000||{Ess'sheysse aep leith orde. } [Me cago en las órdenes de ese tipo...].
+    556529|00000000||{Thaess aep... Esse'iare a va y esse'croigh. } [Cállate... Si nos escuchan, nos cuelgan].
+    556524|00000000||{A bloedde pest. ¿Quess'aen? } [Mierda... ¿Qué es eso?].
+    556525|00000000||{Geasë inisan... } [Malditas islas...].
+    519805|00000000||Vamos.
+    563086|00000000||Hay alguien ahí. Detrás de la puerta...
+    563166|00000000||Muy acogedor. Aunque no parece un laboratorio.
+    563168|00000000||Eso no demuestra nada. Debemos echar un vistazo.
+    563170|00000000||Es un poco ruin, ¿no? Hurgar en sus papeles...
+    563172|00000000||Tú eras la que quería venir, querida.
+    563175|00000000||Creo que es un retrato de Ciri.
+    563177|00000000||No, esa no soy yo. ¿Y la cicatriz?
+    563179|00000000||No hay duda de que eres tú. Está muy bien logrado.
+    563181|00000000||¿Seguro que a Avallac'h solo le interesan tus habilidades mágicas?
+    563183|00000000||Bah. Muy gracioso.
+    539924|00000000||Parece que alguien acaba de estar aquí...
+    543794|00000000||¿Quizá el ayudante de Avallac'h?
+    543796|00000000||No, la verdad es que dudo que Avallac'h tenga un ayudante.
+    543786|00000000||¿Un ayudante, quizá?
+    543785|00000000||Avallac'h está en el barco. Eso es seguro.
+    543788|00000000||Avallac'h está en el barco. Eso es seguro.
+    543790|00000000||¿Y si no lo está...?
+    543792|00000000||Detente.
+    543825|00000000||Mm. ¿Un destilado? Huele a...
+    543827|00000000||Verbena.
+    539962|00000000||Ajá.
+    543819|00000000||¿"Ajá" qué?
+    543822|00000000||No, nada.
+    543823|00000000||A veces me pones de los nervios, ¿sabes?
+    539963|00000000||Hierbas... Nada muy incriminatorio...
+    539964|00000000||Espera. Aún no hemos examinado todo el laboratorio.
+    534001|00000000||¡Cemrae ei iache!
+    534002|00000000||¡Rhane, toriad rhane!
+    534003|00000000||¡Gvaethe ei arwyneb!
+   1075777|00000000||¡Zireael! Te espero.
+    520677|00000000||Mm. ¿Cómo vamos a subir...?
+    520678|00000000||Las escaleras. Las repararé enseguida.
+   1031396|00000000||Mira quién viene por aquí. ¡Fringilla Vigo!
+   1031402|00000000||Philippa. Un placer, como siempre.
+   1031410|00000000||Vamos, no me vengas con esas. Tenemos que hablar, Fringilla.
+   1031412|00000000||Madre mía.
+   1031505|00000000||¡Fringilla!
+   1031507|00000000||Triss... ¿Dónde está Yennefer?
+   1031508|00000000||Vendrá pronto. Y quiere hablar contigo sin falta.
+   1031539|00000000||No lo dudo.
+    544117|00000000||¡Yen...!
+    539431|00000000||Un árbol genealógico de los Aen Hen Ichaer, la Vieja sangre. Desde Lara Dorren...
+    549911|00000000||Hasta mí. Nunca me mostraste la versión completa. No sabía que Videmont de Aedirn fuera mi antepasado.
+    561713|00000000||¿Ese fue el que castigaba a sus hijas con un hierro candente o el que le sacó los ojos a su padre?
+    539470|00000000||El de las hijas. Vaya, ni siquiera yo había visto la versión completa.
+    561812|00000000||Parece que Avallac'h ha analizado toda la descendencia genética de Lara, incluso la ya extinta.
+    561325|00000000||¿Solo analizado?
+    561920|00000000||¿Crees que se dedica a analizarla solamente? Si se parece en algo a nuestros magos, dudo seriamente que se limite a observar las andanzas de los descendientes de Lara.
+    561935|00000000||Creo que jamás llegaremos a saber hasta qué punto los elfos estuvieron involucrados en la mutación de los genes.
+    561937|00000000||¿Tú tuviste algo que ver con lo que... ha dicho Geralt? La obra de esos magos humanos...
+    561939|00000000||Por supuesto que no.
+    566181|00000000||Olvídense. No vamos a descubrir nada nuevo.
+    566182|00000000||¿Cómo lo sabes?
+    566185|00000000||Yo tampoco quiero leerlas.
+    566179|00000000||Ya he tenido suficiente.
+    561321|00000000||Veamos sus notas.
+    561818|00000000||Veamos sus notas.
+    561847|00000000||Por los dioses... Se ha pasado más de dos siglos con esto. Fue el primero en estudiar los genes de Lara. Falka... Mm, algo sobre Ciri...
+    561865|00000000||Pero es después cuando la cosa se pone interesante. Trató de crear una mezcla genética como la de Ciri, pero excluyó el linaje humano...
+    561880|00000000||¿Y eso qué quiere decir? ¿Que debería buscar tarros gigantes que contengan a mis hermanos?
+    561882|00000000||¡No seas boba! Avallac'h nunca llegó tan lejos. Al parecer, todos sus experimentos fracasaron.
+    561924|00000000||Eres... única.
+    561966|00000000||Y por eso tenemos que lidiar con la Cacería salvaje.
+    540694|00000000||Sigamos husmeando, a ver si encontramos algo aún más interesante.
+    565251|00000000||No queremos hacerte daño.
+    565258|00000000||No queremos hacerte daño.
+    565262|00000000||Me da igual lo que hagan aquí. Márchense.
+    565294|00000000||Ciri, vámonos.
+    565296|00000000||Ciri, larguémonos de aquí.
+    565298|00000000||No. Quiero escucharla.
+    565269|00000000||No le habrás creído, ¿no?
+    565265|00000000||Ciri... No te habrás creído lo que dice, ¿no? Es evidente que está involucrada personalmente en el asunto.
+    565267|00000000||¿Y qué?
+    565312|00000000||Adelante.
+   1070643|00000000||¡Iaaaa!
+   1070649|00000000||¡Ugh!
+   1070654|00000000||¡Aaaaaaaaag!
+   1070656|00000000||¡Aaaag!
+   1073637|00000000||Ya está. Mucho mejor. Salgamos de aquí.
+    549267|00000000||¿Qué es eso?
+    549269|00000000||Un collar. De Lara Dorren.
+    549272|00000000||Es hermoso, pero...
+    549274|00000000||Es para ti...
+    565317|00000000||Vámonos. Estoy harta de este lugar.
+    565319|00000000||Tranquilízate. La elfa tenía razón.
+    565321|00000000||Argh. Se supone que debes animarme.
+    565323|00000000||Llevas los genes de Lara, no hay nada que puedas hacer al respecto. Heredaste su talento y su poder.
+    565325|00000000||Esa elfa daría un siglo de su vida con tal de ser como tú.
+    565327|00000000||Pues no lo parecía.
+    565329|00000000||Naciste con un gran don. Y solo tú puedes decidir cómo usarlo.
+    565311|00000000||Tranquilízate.
+    565304|00000000||Si tanto me odian, ¿por qué no me dejan en paz?
+    565306|00000000||Ciri...
+    565308|00000000||¡¿Qué?! ¿Temes que arrase este lugar como hice con Kaer Morhen?
+    565310|00000000||Es una pena que no pueda hacerlo cuando me plazca, ¡porque me encantaría!
+    565300|00000000||¿Tanto significa Avallac'h para ti?
+    565302|00000000||¿Y eso a qué viene?
+    565268|00000000||¿Tanto te importa él?
+    565271|00000000||Dijo que compartías los rasgos de Lara, aunque no sé dónde lo ve. Es como tratar de beber agua de un charco de barro.
+    565273|00000000||Pero imagino que ese convencimiento lo ayuda en su tarea.
+    565275|00000000||¿Qué tarea?
+    565278|00000000||¿Crees que te sigue a todas partes por placer? Incluso yo me pongo enferma en cuanto te veo.
+    565280|00000000||Me sorprende que los de tu raza aún se crean superiores a los humanos en todos los aspectos.
+    565282|00000000||Ella no es humana, sino una mestiza degenerada. Es humillante no tener otra opción que usar a alguien como ella.
+    565284|00000000||Una palabra más y...
+    565286|00000000||¿Qué? No cambiarás nada. Ella tiene que hacer lo que debe. Solo así Avallac'h podrá librarse de ella.
+    565290|00000000||Si tanto me odia, ¿por qué no me lo dice a la cara?
+    565292|00000000||¿Como qué?
+    565293|00000000||¿Por ejemplo?
+    565332|00000000||Tú... Me acuerdo de ti. De Tir ná Lia.
+    565334|00000000||Sorprendente. Creía que todos los elfos les parecían idénticos a los de su raza. Si buscan a Avallac'h, no está aquí.
+    565336|00000000||Lo sé.
+    565338|00000000||¿Y aun así vienes aquí? ¿Para qué? ¿Para espiarlo? Hace todo lo posible para salvarte cada vez que haces alguna estupidez... ¿No te basta con eso?
+    565340|00000000||¿Qué sabes tú de eso?
+    565342|00000000||Te sorprenderías. Me ha contado muchas cosas sobre ti.
+    565253|00000000||¿Quién eres?
+    565255|00000000||No es asunto suyo. Lárguense de aquí. Ahora.
+    565250|00000000||¿Quién eres?
+    565249|00000000||¿Cómo han entrado aquí?
+    560064|00000000||No he podido evitar notar la tensión que existe entre Yennefer, Triss y tú... Creo que es muy duro para Ciri.
+    561076|00000000||A veces, creo que no se dan cuenta de la situación...
+    561078|00000000||Triss hace de hermana mayor de Ciri, pero espera la mínima oportunidad para meterse en la cama contigo. Yennefer y tú hacen de padres...
+    561080|00000000||Sí, así que si estás pensando en unirte a la orgía, ya no hay lugar.
+   1062819|00000000||¡Espera! ¡Gvares, tavel!
+   1062823|00000000||¡Quédate cerca de mí!
+   1062817|00000000||Mierda... ¡Nos va a enterrar!
+    562141|00000000||El eco del escáner es más intenso aquí.
+    546700|00000000||Hemos despertado al centinela.
+    517397|00000000||Yo me ocuparé de él.
+    520682|00000000||¡La atraparé!
+   1063059|00000000||¿"Te doy mi corazón"? ¿Qué clase de hechizo es ese?
+   1063061|00000000||Es una carta de amor muy antigua.
+   1063063|00000000||Ya te dije que la piedra iba a reunir a dos amantes.
+   1063065|00000000||Nunca pensé que le diría algo así a Eredin.
+   1063067|00000000||{Aen verelith cyrre naid. } [Te doy mi corazón].
+   1063069|00000000||{Ader eich blaen eide ‘me. } [Pero me llevaré tu cabeza].
+   1063071|00000000||La baratija élfica ha funcionado.
+   1063073|00000000||Se acercan.
+   1063077|00000000||Mucha suerte, Geralt.
+    553195|00000000||Es su propia gente.
+    553321|00000000||No sabía que los de las Skellige saquearan a los guerreros caídos. ¿Es una tradición? Es su propia gente.
+    553322|00000000||¿Estás ciego? ¿De qué estás hablando? ¡Son escoria de Faroe!
+    553366|00000000||Fueron tras los Oscuros con dos barcoluengos. ¡Descerebrados!
+    553393|00000000||No tenemos nada más que decirte, así que si has terminado, será mejor que volvamos arriba.
+    553396|00000000||Eso es todo. Y buena idea.
+    553390|00000000||Pero exactamente, ¿qué has...? ¿Qué ha sido eso? ¿Has oído, Erling?
+    553226|00000000||Escuchen. He oído que saben algo sobre una ruinas élficas en las Skellige.
+    553271|00000000||¿Quién te lo ha dicho?
+    553273|00000000||Armiño.
+    553275|00000000||Mm. No le contarás lo que has visto aquí, ¿no?
+    553277|00000000||Depende.
+    553279|00000000||Conque ruinas élficas... ¿Qué quieres saber?
+    553356|00000000||El druida mencionó una caverna en la que nunca han logrado entrar. ¿Dónde está?
+    553228|00000000||Al este de Kaer Trolde, en una cala a la que solo se accede por mar.
+    553212|00000000||He oído que saben algo sobre unas ruinas élficas.
+    553221|00000000||¿Al menos les devolverán los cuerpos a las familias cuando hayan terminado?
+    553222|00000000||Los rumores son ciertos... Los mutantes carecen de sentimientos refinados.
+    553289|00000000||Míralos. ¿Acaso crees que sus amorosas madres y esposas desean verlos en este estado?
+    553290|00000000||El mar será su tumba.
+    553300|00000000||Y no se hable más.
+    553211|00000000||¿Después les llevan los cuerpos a las familias?
+    553213|00000000||Corren un gran riesgo.
+    553257|00000000||Corren mucho riesgo aquí.
+    553403|00000000||¿Por qué? ¿Qué es eso, una amenaza?
+    553405|00000000||No es de mí de quien tienen que preocuparse. Pero esos chillidos que he oído... Arachas. Tres. De las grandes.
+    553414|00000000||Yo no oigo nada...
+    557014|00000000||La gente normal nunca oye estas cosas... hasta que es demasiado tarde.
+    553409|00000000||Será mejor que nos vayamos de aquí, Matthias.
+    553191|00000000||¿Se les han acabado las perlas?
+    553200|00000000||No es asunto tuyo. Tomamos lo que el mar nos da.
+    553202|00000000||Parece que no es muy generoso.
+    553203|00000000||Sí, un cuchillo mejor estaría bien. Solo han pasado unas horas y ya tienen los dedos hinchados...
+    553194|00000000||¿Se acabaron las perlas?
+    553182|00000000||Mira, Erling. Te dije que aún no habíamos terminado. A este ni siquiera hemos tenido que pescarlo.
+    553184|00000000||¿Eres imbécil? ¿No ves que es un brujo?
+    553219|00000000||¿Qué hace un brujo por aquí?
+    568598|00000000||¿A quién le toca? ¡¿Quién quiere probar el acero de Skellige?!
+    568599|00000000||¡Hjalmar! ¿Has visto a Ciri?
+    568600|00000000||¡Junto al Naglfar!
+    568602|00000000||¡Los vamos a ahogar a todos, malditos! ¡Hasta que sus cadáveres tiñan de negro la bahía!
+    458483|00000000||Apariciones.
+    170734|00017dcc||Chico
+   1076961|00000000||Mmm... Vienen más.
+   1076963|00000000||Tenemos que darnos prisa, Geralt. Las puertas entre los mundos se están haciendo más grandes.
+    556472|00000000||"Y los gigantes se enfrentarán a gigantes en la batalla...". Como en las baladas.
+    556473|00000000||Esto no es Ragh nar Roog... Todavía no. La Conjunción acaba de empezar.
+   1076958|00000000||¿Qué ocurrirá después?
+   1076960|00000000||No sé, Geralt. Prefiero no saberlo.
+    562764|00000000||¡Saludos, Lobo blanco!
+    556375|00000000||{Verloos? } [¿Bajas?].
+    556376|00000000||{Tve tuveë, yn sehr ràno. Als esse'lamh esan... } [Dos muertos y un herido grave. Si lo llevamos a...].
+    556377|00000000||{N'ess tedd. Ver'spreiden evellienn. Que esse'iare beanna esse kraihen dri bethaalen. } [No hay tiempo. Sepárense. ¡Triple paga para el que encuentre a la mujer!].
+    556373|00000000||{¡Aen skip esse krach! ¡Ratreut! } [¡El barco está a punto de hacerse pedazos! ¡Debemos retirarnos!].
+    556374|00000000||{¡Ess orde a me! ¡Adhart! } [¡Las órdenes las doy yo! ¡Adelante!].
+    344533|00000000||Bueno, eso responde a la pregunta sobre el paradero de su Majestad Imperial.
+    344535|00000000||¿Se propone conquistar las Skellige? Pero él sabe que son... ¡mis amigos!
+    534211|00000000||Quiere ofrecerte las islas. Junto con Cintra... y el resto del imperio.
+    534224|00000000||Todo esto tiene un lado positivo...
+    534226|00000000||¿No me digas?
+    534228|00000000||El emperador tendrá que ayudarnos a luchar contra la Cacería. Y acabamos de encontrar a Fringilla Vigo.
+   1075807|00000000||Por poco, Zireael. Por poco.
+   1075809|00000000||Ysgarthiad...
+   1075811|00000000||¿Brujo...? Bien. Terminemos con esto.
+    557112|00000000||Le estás dando demasiada importancia.
+    557128|00000000||Le estás dando demasiada importancia. Avallac'h es tan reservado como cualquier elfo. ¿Qué sospechas exactamente?
+    557135|00000000||No... no lo sé. Geralt, tengo el presentimiento de que esto es importante. Ven con nosotras.
+    557142|00000000||Está bien. ¿Dónde está?
+    557151|00000000||En una pequeña isla entre Undvik y Spikeroog.
+    557159|00000000||No está precisamente de camino. Acabo de averiguar que la Piedra solar está en Ard Skellig. En una caverna costera accesible solo por mar.
+    557161|00000000||También vamos a necesitar magia de verdad para entrar en ella.
+    557162|00000000||Vayan a buscar ese laboratorio. Yo exploraré Ard Skellig. Nos reuniremos más tarde.
+    557164|00000000||Philippa, tu vista... recién recuperada y simulada mediante magia. ¿No decías que necesitarías tiempo para acostumbrarte?
+    557192|00000000||¿Dije eso?
+    557194|00000000||Había olvidado lo irritante que puede ser. Vamos, Ciri.
+    557197|00000000||Te esperaremos allí.
+    557114|00000000||¿Y entonces? ¿La idea es colarse dentro y echar un vistazo?
+    557116|00000000||Exacto. ¿Vienes?
+    557111|00000000||Sí, eso parece.
+    549090|00000000||¿Van a alguna parte?
+    549091|00000000||Ciri dice que debemos explorar un lugar en las Skellige. Es evidente que Avallac'h nos oculta algo.
+    557091|00000000||Antes, cuando estábamos juntos en las islas, Avallac'h mencionó un laboratorio.
+    557700|00000000||En cierto momento, quiso teletransportarse allí... para recuperar algo. Y se negó a llevarme con él. Todo fue mi extraño...
+    557093|00000000||Lo suficientemente sospechoso, ¿no crees?
+    517102|b339ce5d||Eyvind
+    335378|05e21ea5||Guardia
+   1068720|00000000||Vamos.
+   1081898|00000000||¡Ciri!
+    517276|00000000||La entrada está muy bien protegida. Creo que hallaremos algo interesante dentro...
+    549089|00000000||¿Cómo anularás la barrera?
+    549067|00000000||La inclusión de Atlan Kerk debería funcionar. ¿Recuerdas el hechizo?
+    549069|00000000||Recuerdo que me lo enseñaste... Y pensar que en esa época te consideraba una bruja fría y autoritaria...
+    549087|00000000||Vamos, vamos. No tenemos tiempo que perder.
+    558545|00000000||¿Y qué más quiere Crach?
+    559046|00000000||¿No le basta con tener la flota más poderosa, apoderarse de mi isla y sentar a su progenie en el trono?
+    558546|00000000||En las circunstancias actuales...
+    559049|00000000||En las circunstancias actuales, Crach puede proceder a recoger la mierda que ha sembrado.
+    559060|00000000||El todopoderoso Crach... Bueno, seguro que puede vencer a los Oscuros y a mí.
+   1073880|00000000||¡Es nuestra oportunidad!
+    568591|00000000||¡Bjaaarni! ¡Tu tripulación y tú contra los imperiales! ¡Yo llevaré a los míos contra las apariciones!
+    568589|00000000||¡Aaaargh! ¡Síganme si se atreven! ¡Muerte a los perros negros!
+    568592|00000000||¿Has visto a Ciri?
+    568594|00000000||¿Ciri? ¡Busca al elfo! ¡Aaargh! ¡Vamos, hijos de puta! ¡Cuantos más, mejor!
+    568593|00000000||¡Estaba con el elfo!
+    568743|00000000||¡No podrás atravesar la coraza! ¡Es muy gruesa! ¡Tíralos al mar!
+    555836|00000000||Uf. Eyvind olvidó de nuevo encender la almenara. Alguien debería ir allí...
+    555838|00000000||¡A mí no me miren! Mi trabajo consiste en quedarme aquí y vigilar, no en discutir con ese lunático.
+    555839|00000000||Tu vigilancia no servirá de nada si nuestros muchachos no ven la señal.
+    556546|00000000||¿Qué les ha pasado?
+    556547|00000000||El Frío Blanco.
+    552675|00000000||Maldita sea... ¡El barco está a punto de desintegrarse!
+    552717|00000000||Escóndete en la hondonada del otro lado. ¡Ve!
+   1069114|00000000||El barco del emperador está anclado cerca de Undvik. ¡Todavía!
+   1069916|00000000||No podremos abrirnos paso sin los barcoluengos de Holger. Es mejor esperar...
+   1069116|00000000||¡No! ¡Tenemos que atacar ahora que no se lo esperan!
+   1069128|00000000||No hay tiempo que perder.
+   1069130|00000000||¡Bjarne, Stian! ¡Vengan! Reúnan a todos. Zarpamos.
+    559826|00000000||Vamos, no deberíamos quedarnos aquí.
+   1069459|00000000||Adiós.
+   1069461|00000000||Cuídate.
+   1069627|00000000||Así que no me vas a contar dónde están.
+   1069629|00000000||No. Pero te agradezco tu ayuda. Adiós. Espero que la fortuna te sonría.
+   1069350|00000000||¿No me lo vas a contar, entonces?
+   1066180|00000000||Muchas gracias por tu ayuda.
+   1066182|00000000||No hay de qué.
+   1066184|00000000||En cuanto a las ruinas élficas, lo cierto es que...
+   1066186|00000000||¿Sí?
+   1069343|00000000||Olvídalas. Seguro que tienes otras formas de ganarte la vida. No tienes que recurrir al saqueo puro y duro.
+   1074107|00000000||¡Maldita sea! ¿A quién tenemos que dispararle?
+   1074109|00000000||¡A todo el que se te ponga a tiro, carajo!
+   1064768|00000000||¡Cuidado! ¡Detrás de ti!
+    413740|00000000||Ah, seguro que aparece antes la ballena blanca que los barcos de los Oscuros.
+    413744|00000000||La gente dice que el emperador encabeza una flota el doble de grande que la nuestra.
+    454263|00000000||Y si dijeran que tiene rabo, ¿también lo creerías?
+    534798|00000000||No me interesa lo que le salga del culo. Lo único que me importa es saber si dentro de un año todos estaremos en una fortaleza comiendo ratas.
+    553429|00000000||Sus leyes no nos atañen.
+    553433|00000000||No estamos obligados a cumplirlas.
+    553434|00000000||Claro... y está claro que tampoco respetan nuestras costumbres.
+   1055970|00000000||Volvamos al barco.
+   1066205|00000000||Ajá.
+   1055967|00000000||Juntos.
+   1055972|00000000||Vuelve sola. Tengo que encargarme de algo.
+   1066227|00000000||Muy bien. Hasta luego.
+   1055968|00000000||Tengo que encargarme de algo.
+    553634|00000000||Bueno, ya no volverán a escupir sobre su tumba.
+    553636|00000000||Vamos.
+    553630|00000000||Ahhh... Hicimos bien en venir.
+    553632|00000000||Estaba muy preocupada. No sabes cuánto...
+    553516|00000000||¿Qué podían querer los espectros de una muchacha que...?
+    553526|00000000||No soy una simple muchacha. Y cualquiera que se atreva a tocar esta tumba lo descubrirá.
+    553568|00000000||Nadie se acercará. La profanación de tumbas es lo único que los ancianos castigan con más dureza que la deserción en la batalla...
+    553570|00000000||Y sobre lo que has dicho... no podemos saber la verdad. Los dioses juzgarán a Skjall.
+   1031284|00000000||¡Skjall les salvó la vida, maldita sea!
+   1031286|00000000||La Cacería salvaje me seguía los pasos. Si Skjall no me hubiese llevado lejos... Habrían reducido Lofoten a cenizas.
+   1031288|00000000||El lugar de Menguado está en la zanja.
+    553431|00000000||Baja la voz antes de que necesitemos otra tumba.
+    553439|00000000||¡¿Cómo puedes defenderlo?!
+    553428|00000000||Silencio.
+    553421|00000000||¿Qué están haciendo?
+    553423|00000000||Lo que ustedes deberían haber hecho hace mucho. Enterrar a Skjall.
+    553425|00000000||¿Enterrar a Menguado? Desafías la voluntad de los ancianos.
+    553427|00000000||Fuera, váyanse de aquí. ¡Están profanando nuestras leyes!
+   1065313|00000000||Los ahogados la protegían. Maldita sea, son un montón...
+   1057740|00000000||Espero que no hagas tonterías con esta carroña.
+   1066320|00000000||Vinimos aquí por algo.
+   1057742|00000000||¡Mira esto!
+   1012999|00000000||Te veo bien.
+   1013000|00000000||¿Para ser una prisionera de Emhyr? ¿Te refieres a eso?
+   1016824|00000000||Parece que te ha mostrado una indulgencia... asombrosa. ¿No te ha interrogado? ¿No te ha torturado? ¿O le has dicho todo lo que quería saber?
+   1013001|00000000||Si se lo hubiese dicho todo, ya no me necesitaría con vida, ¿no crees?
+   1013002|00000000||En fin, no hablemos de ese tema. Ni yo ni mis preocupaciones somos algo que te haya importado desde hace mucho tiempo.
+   1012997|00000000||Te veo bien.
+    313072|00000000||Hasta pronto.
+    313076|00000000||Hasta pronto.
+   1012998|00000000||¿Quién es Cantarella?
+   1013004|00000000||Cantarella. ¿Quién es ella en realidad? Dijo que se conocían.
+   1013005|00000000||¿Te la has encontrado? Su nombre real es Carthia van Canten, antigua colaboradora de Assire. Tiene mucho... talento.
+   1013006|00000000||¿Era espía de ustedes?
+   1013007|00000000||Seguramente no fuese solo nuestra. Dudo que desee hacerme daño, ni a mí ni a ninguna otra hechicera. Pero hay que tener cuidado con lo que se dice en su presencia.
+   1016576|00000000||Me dio la impresión de que le habías hablado mucho sobre mí.
+   1016579|00000000||Entonces, siéntete halagado. Eso te hace famoso a ambas orillas del Yaruga.
+   1016626|00000000||¿Sí, Geralt?
+    172334|06c10782||Mujer de Skellige
+   1050539|00000000||¡Esperen! ¡Es el brujo!
+   1050541|00000000||¡Por orden del emperador! ¡No abran fuego!
+    556136|00000000||¿Saben que estamos aquí?
+    556138|00000000||¿Crees que saben que estamos aquí?
+    556140|00000000||¿Los magos de Emhyr? Por supuesto.
+    556142|00000000||Si el asunto de Fringilla Vigo se hubiera resuelto, probablemente ya la habrían mandado aquí.
+    556143|00000000||No está para nada resuelto. El emperador prometió proteger la seguridad de la Logia, pero...
+    556209|00000000||Fringilla es un asunto más delicado. Ella es su súbdita y está oficialmente condenada a muerte por traición.
+    556239|00000000||Tendrás que descubrir lo que Emhyr tiene planeado para ella, una vez que encontremos la forma de mandarte al buque insignia imperial.
+    556382|00000000||Me voy.
+   1065244|00000000||Buena suerte.
+    556120|00000000||Me voy.
+    561552|00000000||Las Skellige se preparan para la guerra. Solo puede estar en Kaer Trolde.
+    561556|00000000||¿Sabes dónde está?
+    561558|00000000||Preguntaré en el puerto. Los barcoluengos de Crach están fondeados allí.
+    551562|00000000||¿La Piedra solar está en Skellige? ¿Cómo sabemos eso?
+    551610|00000000||Por las leyendas élficas. Descansa en el antiguo lugar de desembarco de la Flota blanca.
+    551680|00000000||Lo que significa que podría estar en cualquier parte de las islas. Espléndido...
+    551692|00000000||Armiño... Hablaré con él.
+    555543|00000000||¿Estamos seguros de que la Piedra solar está en Skellige?
+    555587|00000000||Lo que quiero saber es si seremos capaces de usar la Piedra solar.
+    555589|00000000||¿Ustedes? No. ¿Yo? Por supuesto.
+    561084|00000000||Con un poco de ayuda de las hechiceras.
+    555591|00000000||Algunas de las cuales están vomitando bajo cubierta, mientras que otras están ilocalizables.
+    551556|00000000||Me interesa más saber cómo usarla.
+    551557|00000000||Me encantan las leyendas élficas. Quiero oírla.
+    551554|00000000||Cuéntanosla. Me encantan las leyendas élficas.
+    551560|00000000||Gealbhan era un sabio de los elfos Alder que se enamoró de Dillian, una elfa Aen Seidhe. Pero ella lo rechazó...
+    551564|00000000||Ehh... Geralt no hablaba en serio.
+    551565|00000000||Demasiado tarde. No les vendrá mal saber esto. El día de la partida de la Flota blanca, Gealbhan le dio un regalo a Dillian: la Piedra solar.
+    551608|00000000||Creía que el corazón de Dillian se ablandaría con el tiempo.
+    555433|00000000||Cuando su anhelo por él floreciera, ella debía usar la Piedra solar. Aunque estuvieran alejados, él volvería con ella.
+    551614|00000000||Parece prometedor. Esperemos que la Piedra solar nos sea más útil de lo que le fue a la elfa.
+    551413|00000000||Fue creada para que los elfos montañeses pudieran convocar los navíos de los Aen Elle. Ahora solo es un símbolo de la oportunidad perdida de unir a ambas tribus.
+    551469|00000000||¿En serio? ¿Ninguno conoce la historia de Gealbhan y Dillian de la Flota blanca?
+    556380|00000000||Ahora mismo ni siquiera sabemos lo que es la Piedra solar.
+    556117|00000000||Ni siquiera sé lo que es la Piedra solar.
+    556116|00000000||¿Puedes teletransportarme al barco del emperador?
+    534280|00000000||¿Puedes teletransportarme al barco de Emhyr?
+    534282|00000000||Ni lo sueñes. Está más protegido que la alcoba del emperador.
+    534283|00000000||Aunque podríamos intentar abrirnos camino por la fuerza...
+    555535|00000000||Necesitamos a Fringilla viva.
+    556130|00000000||Yo iré al barco de Emhyr.
+    556134|00000000||Yo subiré al barco del emperador.
+    556340|00000000||¿Planeas nadar? ¿Con espadas en la espalda? Te dispararán antes de que puedas decir "La Llama blanca que baila sobre las tumbas de sus enemigos".
+    556342|00000000||No temas, encontrará la forma.
+   1072912|00000000||Actúa de noche, así tendrás más posibilidades. En cuanto estés a bordo...
+   1050495|00000000||Muéstrale esta carta a Su Majestad Imperial. Dásela en mano. Tenemos que recordarle su promesa y lo que obtendrá a cambio.
+    556081|00000000||Debemos darnos prisa y encontrar la Piedra solar. Tenemos mucho trabajo por delante en Skellige.
+    556108|00000000||Fringilla Vigo... La necesitamos aquí.
+    551466|00000000||Deberías haber llegado con mi hija. Tu bienvenida habría sido distinta.
+    551526|00000000||¿Dónde está?
+    551539|00000000||En Zerrikania. Anhelaba la luz del sol.
+    551541|00000000||No soy conocido por mi sentido del humor ni por mi paciencia.
+    551529|00000000||En Zerrikania.
+    551527|00000000||Cerca.
+    551531|00000000||Cerca.
+    551533|00000000||Lobo blanco, cerca es a cómo te encuentras de ser decapitado.
+    551543|00000000||Eres insolente porque crees que no puedo permitirme hacerte daño. Y tienes razón.
+    551545|00000000||Aunque eso cambiará un día. Cuando dejes de ser indispensable y pases a ser... desechable.
+    551547|00000000||Pero ya basta. No adelantemos acontecimientos.
+    551986|00000000||Fringilla... Cuánto tiempo...
+    532268|00000000||Las otras hechiceras están en Gynvael, cerca de Ard Skellig. Podríamos tomar un bote...
+    532319|00000000||Estoy harta de los botes.
+    551993|00000000||Y yo odio teletransportarme. Pero se hará como tú digas. Vamos.
+    551970|00000000||Es hora de irme.
+    551972|00000000||Al menos, coincidimos en algo. ¡Guardias! ¡Tráiganme a Fringilla Vigo! Quítenle los grilletes de dimerita.
+    551975|00000000||Por lo que he oído, no es necesario que los presente... Adiós.
+    551959|00000000||Es hora de que me vaya.
+    551960|00000000||¿Estás dispuesto a indultarlas? ¿En serio?
+    551962|00000000||¿De verdad estás dispuesto a indultarlas? ¿Amnistía a cambio de ayuda?
+    551964|00000000||Estoy dispuesto a acatar el pacto que hice con Yennefer.
+    551966|00000000||No has respondido a mi pregunta.
+    551968|00000000||Ni debo hacerlo.
+    551940|00000000||Fringilla Vigo. Me han dicho que le prometiste a Yennefer que la dejarías libre. Veo que... eres un hombre muy ocupado...
+   1050522|00000000||... Así que te dejo una carta. Te refrescará la memoria sobre la Logia.
+    551942|00000000||Mmm... Incluso las peticiones más humildes de Yennefer suenan como amenazas. Siempre me ha gustado eso de ella. De acuerdo, que así sea.
+    551549|00000000||¿Qué quieres?
+    551467|00000000||Por si no te has dado cuenta, estamos en guerra.
+    551487|00000000||Ya lo he visto. El humo de las cabañas ardiendo se ve a kilómetros de distancia.
+   1071752|00000000||Brujo. Qué sorpresa tan agradable.
+   1050514|00000000||No disparen.
+    551464|00000000||Qué cálida bienvenida. Gracias, Majestad.
+    555010|00000000||No te acerques a Ciri.
+    555025|00000000||Es una adulta, Geralt. Olvidas que puede decidir por sí misma.
+    555071|00000000||¿Continuamos?
+    554808|00000000||Este asunto con Emhyr es cosa de las hechiceras. Vete a hacerle preguntas a otro.
+    554819|00000000||Entonces no te ha contado nada. ¿Y sus planes personales?
+    554983|00000000||¿Mencionó algo? ¿Un posible puesto como consejera de una joven y prometedora emperatriz?
+    554797|00000000||El trato con Emhyr es asunto de las hechiceras.
+    554880|00000000||Podrás trabajar con el emperador. ¿No es emocionante?
+    554882|00000000||No, es decir, sí, claro que lo es. Hasta ahora, la Logia siempre ha dependido de gobernantes débiles. Ese ha sido uno de nuestros grandes errores.
+    554908|00000000||Mmm... Así que te impresiona que Emhyr mantenga a sus magos cerca.
+    554950|00000000||Yennefer hace bien en mantenerte lejos de la política. Me temo que no te enterarías para qué lado sopla el viento aunque mearas hacia él.
+    554821|00000000||¿No te entusiasma trabajar con el emperador?
+    554801|00000000||Háblalo con Yennefer.
+    554804|00000000||Deberías hablar con Yennefer. Está claro que tienen asuntos que resolver.
+    554859|00000000||Yennefer siempre ha seguido su propio camino. En realidad, me conmueve que esta vez se haya interesado por los asuntos de la Logia.
+    554897|00000000||No confías en ella, así que cuando hayamos derrotado a la Cacería, vete y pide asilo en otra parte. Creo que Radovid busca hechiceras.
+    554906|00000000||Antes metería la cabeza en el orificio puntiagudo de un zeugl. Gracias, pero tengo otros planes.
+    554713|00000000||Yennefer debe tener una influencia tremenda sobre el emperador para hacer que garantice la seguridad de la Logia. ¿Qué opinas tú?
+    554721|00000000||¿Que qué opino? Esa es una pregunta capciosa. ¿Nada de "Geralt, estoy cansada, sentémonos y hablemos" primero?
+    554723|00000000||¿La previa es tan importante para ti?
+    521646|00000000||Hecho.
+    521639|00000000||¿Y ahora qué?
+    541763|00000000||*Suspiro* Parece que tengo que hacer todo por ti.
+    542020|00000000||¿Ves al centinela que parece estar esperando un pago?
+    555775|00000000||No tengo cambio.
+    555777|00000000||Bah. En forma de sangre, no de dinero. El centinela es Fiallan, de las leyendas élficas. ¿No has leído nada?
+    558387|00000000||Vamos a buscar a esos malditos.
+    558388|00000000||Con mucho gusto, Geralt. Con mucho gusto.
+    558386|00000000||Podemos empezar.
+    559812|00000000||Necesito un poco más de tiempo.
+    559814|00000000||Está bien... pero no te entretengas demasiado.
+    558385|00000000||Dame un segundo.
+    558384|00000000||Geralt... ¿Estás listo?
+    558356|00000000||¿Geralt de Rivia?
+    558357|00000000||¿Conoces a algún otro Geralt?
+    559160|00000000||Sígueme, por favor. Te están esperando.
+    558379|00000000||... se apostarán en los acantilados, aquí, aquí y...
+    559165|00000000||Gracias. Creo que sabemos formar un círculo.
+    559167|00000000||Incluso quienes carecemos de vista por el momento.
+    559169|00000000||Solo quiero evitar que... Ah, Geralt. Te estábamos esperando.
+    559191|00000000||Simple, pero con muchos complejos. Ahora no, Geralt.
+    559193|00000000||No te preocupes. La simplicidad también tiene su encanto.
+    559175|00000000||¿En serio? A mí me parece que ya habían empezado.
+    559177|00000000||Tratábamos asuntos de naturaleza mágica, nada que te interese.
+    559179|00000000||Claro. Porque soy un simple brujo.
+    559171|00000000||¿En serio? Parece que habían empezado sin mí.
+    559170|00000000||Qué amable.
+    559173|00000000||Qué amable.
+    559383|00000000||Estabas a punto de explicar el plan.
+    559385|00000000||Es sencillo... Aunque eso no significa que sea fácil llevarlo a cabo.
+    559387|00000000||Activaré la Piedra solar. Si Caranthir responde a la llamada, el Naglfar debería aparecer en la bahía poco después.
+    559389|00000000||Luego, la Logia debe impedir que el barco vuelva al mundo de los Aen Elle, mientras la flota imperial bloquea la huida por mar.
+    559391|00000000||Después, el Séptimo regimiento de infantería de Ymlats a las órdenes del duque var Attre lo abordará. Con tu ayuda, por supuesto.
+    559403|00000000||¿Y tú qué? ¿Dónde estarás?
+    559405|00000000||Esperando en la reserva. Si algo sale mal... reaccionaré.
+    559407|00000000||Mmm. Como un general que manda a sus tropas desde una colina. ¿Harás sonar un cuerno para mandarnos una señal o enviarás mensajeros?
+    559409|00000000||Exquisitamente irónico, pero ¿qué he hecho yo para merecerlo? ¿Te he dado motivos para que dudes de mis intenciones?
+    559393|00000000||¿Y tú? ¿Tú que vas a hacer?
+    559392|00000000||El emperador no escatima...
+    559395|00000000||Vaya... Emhyr está siendo generoso con sus recursos.
+    559397|00000000||Ha interrumpido la campaña de las Skellige para ayudarnos.
+    559399|00000000||No lo hace por amabilidad, créeme.
+    559401|00000000||Lo hace por el mismo motivo que todos nosotros.
+    559411|00000000||Damas y caballeros, menos charla y más acción, por favor. Hermanas... Debemos escalar los acantilados.
+    559413|00000000||Buena suerte.
+    559416|00000000||En el plan falta un elemento importante... ¿Qué pasa con Ciri?
+    559420|00000000||Zireael se quedará a la espera. A distancia segura del Naglfar.
+    560345|00000000||Bueno... No digo que no tengas razón.
+    560268|00000000||Admito que tienes razón.
+    560271|00000000||No tienes derecho a darle órdenes.
+    560273|00000000||Qué gracioso. Zireael me dijo lo mismo, pero gritando bastante más.
+    560274|00000000||En realidad, sí tengo derecho. Soy el único que sabe activar la Piedra solar. Lo haré como crea conveniente o no lo haré.
+    560343|00000000||Zireael reconoció la validez de mi razonamiento. No me cabe duda de que tú harás lo mismo.
+    560269|00000000||No tienes derecho a darle órdenes.
+    560263|00000000||Presiento que no era lo que tenías en mente...
+    560265|00000000||No. Yo quería acompañarlos. Esa era mi idea.
+    560267|00000000||Pero yo no voy a permitirlo. Correría un peligro excesivo.
+    559421|00000000||Supongo que no habrá sido idea de Ciri...
+    559422|00000000||Muy sensato.
+    560347|00000000||Tiene sentido.
+    560338|00000000||Uh. Creí que al menos tú me tomarías en serio.
+    560340|00000000||Siempre ha sido así, y lo sabes.
+    560393|00000000||No puedes derrotar a Eredin, no tienes ninguna oportunidad... Mierda, ni siquiera sé si yo seré capaz. Procura mantener las distancias.
+    560395|00000000||Zireael... ¿Juras quedarte en la orilla?
+    560397|00000000||¿Acaso tengo otro remedio?
+    560400|00000000||¿Adónde vas?
+    560403|00000000||A dar un paseo. ¿O tampoco me dejarás? ¿Por si me rompo una pierna?
+    560410|00000000||Ah, sí... La Vieja sangre es indómita.
+    559477|00000000||No parecía convencida.
+    559508|00000000||No parecía convencida.
+    559510|00000000||No. Pero tampoco voy a maniatarla y a teletransportarla lejos de aquí ¿no?
+    559512|00000000||Ajá. No te aconsejo que lo intentes.
+   1056437|00000000||No hay tiempo que perder. En cuanto terminemos con esto, mejor.
+   1056439|00000000||Sígueme.
+   1056434|00000000||Sí, vamos.
+   1056441|00000000||No me vendrían mal unas pociones. Vete. Te veré pronto.
+   1056443|00000000||No te retrases demasiado.
+   1056435|00000000||Te veré luego.
+   1056433|00000000||A no ser que quieras venir conmigo ahora.
+   1051802|00000000||Cierto, las cosas pueden ponerse feas.
+   1051819|00000000||Bueno, estamos aquí para enfrentarnos a Eredin y a la Cacería salvaje a pleno rendimiento. Podría ser como en Sodden. O peor.
+   1051825|00000000||No puede haber nada peor que Sodden.
+   1051803|00000000||No te pongas nerviosa.
+   1051821|00000000||No te pongas nerviosa, Yen. No te queda bien.
+   1051823|00000000||No estoy nerviosa. Solo intento ser realista. Pero no he venido a hablar de eso.
+   1051836|00000000||Suena demasiado bonito.
+   1051870|00000000||No sé, Yen. La verdad es que suena demasiado bonito para ser verdad.
+   1051880|00000000||Siempre puedes volver, si ves que después de un mes no nos soportamos el uno al otro.
+   1051882|00000000||Mmm... Está bien. Estoy dispuesto a intentarlo.
+   1051884|00000000||Con eso me alcanza.
+   1051868|00000000||Ve, Geralt. Avallac'h te espera.
+   1056445|00000000||Procura que no te maten, brujo.
+   1051862|00000000||Iría a cualquier lado contigo.
+   1051864|00000000||Es la respuesta que esperaba.
+   1051835|00000000||Claro que iré contigo.
+   1051837|00000000||¿Tú quieres dejar la política? No me lo creo.
+   1051840|00000000||¿Tú? ¿Alejarte de la política y las conspiraciones? Te mueves como un pez en el agua en ese mundo, es tu vida.
+   1051842|00000000||Es hora de empezar de nuevo.
+   1051844|00000000||Me lo creeré cuando lo vea. Incluso ahora estás metida hasta el cuello en todo eso.
+   1051847|00000000||Sí, pero solo para arreglar cuentas, para poder retirarme cuando haya recuperado la ventaja.
+   1051849|00000000||¿Cómo sería? ¿Una cabañita aislada con un jardín de flores?
+   1051851|00000000||¿Por qué no? ¿Ese es tu sueño?
+   1051853|00000000||Nos iremos juntos, haremos lo que queramos, solo lo que tengamos ganas de hacer.
+   1051860|00000000||Bueno, ¿vienes conmigo?
+   1051811|00000000||Escúchame. Cuando todo esto termine, si sobrevivimos... quiero irme lejos. Y que tú vengas conmigo.
+   1051813|00000000||¿Adónde?
+   1051815|00000000||A cualquier sitio. A Poviss, más allá de las Montañas del Dragón, incluso a Zerrikania. Lo más lejos posible de políticos, conspiradores y la supuesta alta sociedad.
+   1051805|00000000||Hemos recorrido un largo camino, y sería una desgracia fracasar. Todo estará bien.
+   1051808|00000000||Admiro tu optimismo. Ojalá lo compartiera.
+   1051801|00000000||No te preocupes, todo estará bien.
+   1051794|00000000||¿Yen? ¿Qué haces aquí?
+   1051796|00000000||He venido a verte.
+   1051798|00000000||¿Pasa algo?
+   1051800|00000000||Todavía no. Pero quizás pase pronto. Puede que no sobrevivamos. De hecho, es probable que no.
+    559514|00000000||Andamos escasos de tiempo. Si quieres hacer algo, preparar sustancias o lo que sea... Hazlo ahora.
+    559516|00000000||Luego no tendrás oportunidad. Te esperaré junto a los barcos, entre los soldados.
+    559518|00000000||No importa.
+    559496|00000000||Lo ha heredado de su padre.
+    559498|00000000||No estoy de acuerdo... Emhyr es pragmático, Ciri es una idealista.
+    559500|00000000||¿Idealista? ¿De qué estás hablando?
+    559468|00000000||Heredó el carácter de su padre.
+    559476|00000000||Prohibirle algo a Ciri no sirve de nada.
+    559502|00000000||Decirle a Ciri que no puede hacer algo es contraproducente. Te lo dice la voz de la experiencia... Al final, hace lo que se le antoja.
+    559504|00000000||Esperemos.
+    559506|00000000||¿Cómo?
+    414295|00000000||Espera, hay algo aquí. ¿Lo sientes?
+    414297|00000000||No. Mi medallón...
+    562076|00000000||Qué adorno ridículo. No me hagas reír...
+    562138|00000000||Detectar la magia élfica es un poco más difícil que seguir el rastro de un demonio maloliente.
+    562140|00000000||Mira esto. ¡Arha'an lumar!
+    562134|00000000||Guau...
+    562136|00000000||Eso significa que la Piedra solar está aquí. No te quedes ahí parado. Intenta mover los espejos.
+    549864|00000000||¿Crees que te voy a perdonar la vida?
+    549866|00000000||¿Crees que estoy dispuesto a perdonarte la vida?
+    549868|00000000||Creo que no atacarás a alguien desarmado.
+    549870|00000000||Yo no estaría tan seguro. Estoy de muy mal humor.
+    549884|00000000||¿No pensabas advertirme?
+    549886|00000000||¿No pensaste que valía la pena advertirme de tus planes?
+    549888|00000000||Lo siento. Sé que debí hacerlo... Pero temía que no lo entendieras.
+    549890|00000000||Es como si estuviera hablando con Yennefer.
+    549892|00000000||Ven conmigo. Por favor.
+    549894|00000000||Lo haré, Geralt, en cuanto salga de la torre... Si es que salgo.
+   1077808|00000000||Avallac'h te ha metido pavadas en la cabeza.
+   1077828|00000000||Avallac'h te ha nublado la cabeza con cuentos de vieja.
+   1077830|00000000||Te equivocas. El Frío Blanco se acerca realmente. Los mundos se helarán, uno tras otro, y toda vida será erradicada.
+   1077832|00000000||Avallac'h me ha dado a elegir. He tomado una decisión. Debo impedirlo.
+   1077806|00000000||No tienes por qué hacer este sacrificio.
+   1077816|00000000||No tienes por qué hacer este sacrificio.
+   1077818|00000000||Te equivocas. El Frío Blanco es inevitable, vendrá a congelar los mundos uno tras otro y a erradicar toda vida.
+   1077820|00000000||Solo yo puedo detener la destrucción. Lo he pensado mucho y he tomado una decisión.
+   1077805|00000000||No va a haber ninguna aniquilación.
+   1077810|00000000||La profecía de Ithlinne es una estupidez. Nuestro destino no es que nos destruyan.
+   1077812|00000000||Tú has visto el futuro, ¿lo recuerdas? No se puede detener la entropía. Los mundos se helarán y toda vida perecerá.
+   1077814|00000000||Avallac'h tiene razón. Si no hacemos nada, humanos, elfos, todos se enfrentarán a la destrucción.
+    549907|00000000||Ciri... Te lo prohíbo.
+    549922|00000000||Ciri... Te lo prohíbo.
+    549924|00000000||Ya me conoces. Lo que más me gusta es infringir las normas.
+    549926|00000000||Esto es más que infringir una simple norma.
+    549928|00000000||Lo siento.
+    549908|00000000||No me hagas esto. Por favor.
+    549930|00000000||No... me hagas esto. Por favor. Ahora no.
+    549932|00000000||Geralt, créeme... Nada me gustaría más que una taberna, vino caliente especiado, las botas secándose al fuego...
+    549933|00000000||Pero no puedo. Debo intentarlo. Por ti, Yen, Triss... Por todos.
+    549969|00000000||Cruza los dedos.
+    549909|00000000||Buena suerte.
+    549935|00000000||Buena suerte, Ciri.
+    549937|00000000||Quizá debí decírtelo... Ahora veo que lo habrías entendido.
+    549939|00000000||Te conozco mejor de lo que crees.
+    549941|00000000||No me hagas esperar.
+   1062870|00000000||[No decir nada].
+   1077834|00000000||Tiene que haber otra manera...
+   1077836|00000000||¿Y qué sabrás tú de salvar el mundo, tontín? No eres más que un brujo.
+   1077841|00000000||Esta es mi historia, no la tuya. Debes dejarme que termine de contarla.
+   1077822|00000000||El Frío Blanco me importa un bledo. Vamos, tenemos que irnos.
+   1077824|00000000||No, Geralt. He visto lo que pasará. Sé la destrucción que se avecina. Los mundos se helarán uno tras otro y toda vida será erradicada.
+   1077826|00000000||Solo yo puedo impedir que esto suceda.
+   1077807|00000000||No me importa. Vamos.
+    549896|00000000||¿Por qué demonios quieres hacerlo? Hemos derrotado a la Cacería...
+    549898|00000000||Pero no al Frío Blanco.
+    549900|00000000||Las profecías son ciertas. He visto mundos sepultados por la escarcha... Sé lo que les espera.
+    549902|00000000||Solo la Vieja sangre puede detener al Frío Blanco. Solo yo puedo detenerlo.
+    549883|00000000||¿Por qué harías algo así?
+    549876|00000000||No soy tu enemigo. Solo estoy ayudando a Cirilla.
+    549878|00000000||No te creo. No puedo creerte después de todo lo que ha pasado.
+    549880|00000000||¿Y a mí me creerías?
+    549882|00000000||Avallac'h dice la verdad. Le pedí que me ayudara a abrir la torre... Porque pretendo entrar en ella.
+    549872|00000000||¿Crees que voy a picar? Te equivocas de plano.
+    549874|00000000||Ya confié una vez en ti. No volveré a cometer el mismo error.
+    549863|00000000||No voy a picar.
+    549835|00000000||Geralt... Qué lástima. Confiaba en que no tuvieras que presenciar esto.
+    549837|00000000||¿Dónde está Ciri?
+    549839|00000000||Cerca. Mira...
+    549840|00000000||Cállate.
+    549861|00000000||Ya estoy harto de mentiras. Desenfunda y terminemos de una vez con esto.
+    563092|00000000||Mm, está abierta.
+   1063099|00000000||¿Quieres despedirte?
+   1063101|00000000||Cierra el pico y lucha.
+   1063103|00000000||Tuviste tu oportunidad.
+   1063105|00000000||Brujo. Esperaba que vinieras.
+   1063107|00000000||¿Por qué?
+   1063109|00000000||Tengo algo que contarte. Pero lo haré después.
+   1063111|00000000||Mientras te estés muriendo.
+    533366|00000000||¡Hundan el bote! ¡Fuego!
+    560184|00000000||¡Esperen! ¡Parlamento! Soy un... ¡Maldita sea!
+   1074904|00000000||¡Mierda!
+   1074912|00000000||Geralt... Ahora no, por favor.
+   1074908|00000000||Parece que estás progresando...
+   1074910|00000000||Sí... Poco a poco... Pero hacia delante.
+    559249|00000000||Gracias por tu ayuda.
+    559251|00000000||Una cosa, Geralt. Estas cuevas o ruinas... Los antepasados de Matthias y Erling las habrían saqueado hace siglos si no hubieran estado protegidas por algún tipo de barrera mágica.
+    559253|00000000||Llévate a una hechicera. Debes haber traído alguna.
+    559255|00000000||Esta vez vengo con toda la pandilla.
+    559257|00000000||¡Uf! Que los dioses nos protejan.
+    559237|00000000||Gracias por tu ayuda.
+    559236|00000000||¿Branquias?
+    559239|00000000||¿Branquias? Interesante.
+    559241|00000000||Así lo llaman. Es capaz de sumergirse durante horas.
+    559243|00000000||Nadie sabe cómo lo hace, pero yo tengo mis sospechas.
+    559245|00000000||Ajá. ¿No te cae muy bien?
+    559247|00000000||No es nada personal. Tampoco soportaba a su padre ni a su abuelo.
+    559221|00000000||Oye, Armiño, ¿sabes algo de la Piedra solar? La leyenda dice que está en Skellige.
+    559223|00000000||Primero la máscara de Uróboros y ahora la Piedra solar. Los monstruos pueden estar tranquilos: te has convertido en un buscador de tesoros.
+    559229|00000000||Nunca me han interesado los elfos Aen Seidhe. Pero hay un escaldo, Eyvind, que podría ayudarte. Una vez me habló de unas cavernas o ruinas inaccesibles, o algo así...
+    559231|00000000||¿Dónde puedo encontrarlo?
+    559233|00000000||¿Hoy? En Arinbjorn, sin duda.
+    559235|00000000||También podrías preguntarles a los pescadores de perlas Erling y Matthias Branquias. Últimamente pescan cerca del extremo oriental de la bahía.
+    559208|00000000||¿Has oído hablar de la Piedra solar?
+    559340|00000000||¿Hjalmar está manejando bien las cosas?
+    559371|00000000||El muchacho le ha tomado gusto a las aventuras heroicas y ha dejado el gobierno de las islas en manos de su padre.
+    559372|00000000||En realidad, es una suerte. En víspera de la guerra, necesitamos un líder experimentado.
+    559375|00000000||¿Y Cerys?
+    559377|00000000||Diría que está siendo más útil que Hjalmar.
+    559310|00000000||¿Cómo está Hjalmar?
+    559209|00000000||¿Cómo está Cerys?
+    559217|00000000||¿Cómo le va a Cerys?
+    559332|00000000||Tiene potencial para convertirse en una gran reina si consigue escapar de la sombra de su padre.
+    559334|00000000||Todos salvo Lugos le declararon su apoyo, pero en cuanto la flota imperial apareció en el horizonte, el jarl tomó las riendas del asunto.
+    559342|00000000||¿Y Hjalmar?
+    559354|00000000||El muchacho dirigió tres asaltos contra la flota imperial sin la autorización de Crach y fracasó en los tres. Pero encontrará voluntarios para otro más.
+    559356|00000000||Sí, típico de Hjalmar.
+    559275|00000000||Parece que el clan Drummond atacará antes de lo esperado.
+    559277|00000000||Creía que Crach te había enviado para negociar un acuerdo con Lugos.
+    559279|00000000||¡Un acuerdo! A estas alturas, solo Crach cree que algo así es posible.
+    559302|00000000||¿Quieres decir que no te he estropeado el plan?
+    559304|00000000||Esta vez no. La muerte de Lugos va a cambiar muchas cosas. Su primo, al que ahora llamarán jarl, es un comandante débil y estúpido. Esta guerra empezará pronto y terminará más pronto todavía.
+    559219|00000000||Pero ¿por qué has vuelto a Skellige?
+   1066633|00000000||Vaya, Geralt. Veo que no hay lío en Skellige en el que no estés metido.
+   1066635|00000000||Eso me parece injusto e inexacto, Armiño. Me parece que no me he metido en bastantes.
+   1070684|00000000||La sangre de la sangre de Crach se sienta en el trono, y es por tu culpa. Me temo que has iniciado una pequeña guerra civil.
+    556499|00000000||{Esse'tilleadh, theervil esse'caen. } [Deberíamos dar media vuelta mientras podamos].
+    556500|00000000||{¿Dat esse'croigh a va voot breuk aen orde? Ess ae’iarr... } [¿Para que nos ahorquen por desobedecer órdenes? Preferiría...].
+    556501|00000000||{¡Gar'ean! ¡Havfrue! } [¡Cuidado! ¡Sirenas!].
+    556513|00000000||{N'esse mar a tha. A'ess ver'spreiden aep evellien Inis. Caen Skellig'ea esse'dekk hwre. } [Esto no pinta bien. Estamos dispersos por toda la isla... Aún podría haber hombres de Skellige al acecho].
+    556514|00000000||{Ker'zaer esse'vyos que getan. } [El emperador sabe lo que hace].
+    553661|00000000||¡Eyvind!
+    553684|00000000||¡Eyvind!
+    553687|00000000||¿Qué?
+    553689|00000000||Yo... eh, solo quería que supieras que quiero echar un vistazo a la caverna, por mi investigación.
+    553702|00000000||Estoy reuniendo material para una novela de aventuras.
+    553735|00000000||Estoy escribiendo una novela de aventuras, recopilando datos.
+    553737|00000000||¿Vas a escribir sobre la llegada de la Flota blanca? Excelente idea.
+    553745|00000000||¿Por casualidad podrías usar mi traducción de la canción de Gealbhan y Dillian?
+    553739|00000000||Por supuesto, por supuesto. ¿Y dónde está esa caverna?
+    553698|00000000||Al este de Kaer Trolde. La caverna está en una cala accesible solo desde el mar.
+    553708|00000000||Adiós. Y... buena suerte con la ballena blanca.
+    553710|00000000||Aparecerá hoy. Estoy seguro.
+    553718|00000000||Estoy escribiendo un tratado histórico sobre los elfos Aen Seidhe. Bajo la tutela de Armiño.
+    553720|00000000||¿Armiño? Nunca le importaron lo más mínimo los elfos montañeses.
+    553722|00000000||¡Te he descubierto, confabulador! Córtame en pedazos si quieres, pero jamás te hablaré de la caverna.
+    553764|00000000||Uff...
+    553701|00000000||Para escribir un tratado histórico sobre los Aen Seidhe.
+    553700|00000000||¿Investigar?
+    553693|00000000||¡Ja! ¡Por tu cara sé que tenía razón! Y pensar que te había tomado por un saqueador...
+    553695|00000000||Solo quiero echar un vistazo a la caverna. Investigar.
+    553662|00000000||[No decir nada].
+    553617|00000000||Busquemos a Gevorg juntos, así podrás contarme todo lo que sepas sobre ruinas élficas en Skellige.
+    553640|00000000||He oído algo sobre una caverna inaccesible.
+    553638|00000000||Y menos mal. De no ser así, la habrían saqueado hace mucho, como las demás.
+    553527|00000000||Buscaré a Gevorg contigo.
+    553523|00000000||¿Qué pasa con esa ballena?
+    553462|00000000||¿Qué pasa con esa ballena?
+    553592|00000000||Aparecerá cuando los espectros desciendan de los cielos a las aguas, la serpiente despierte la ira del mar y un monstruo de hielo devore una isla.
+    553593|00000000||Seré el primer bardo en componer una balada sobre ella.
+    553598|00000000||Por casualidad, las leyendas no mencionarán la maldición del sol negro, ¿no?
+    553600|00000000||¿Un sol negro? ¿De qué estás hablando...?
+    553610|00000000||No importa.
+    553456|00000000||¡Ahora no!
+    553553|00000000||¿Vigilando la flota de Nilfgaard?
+    553555|00000000||¿Flota? Ah, sí, mencionaron algo... No, tengo asuntos más importantes de los que ocuparme.
+    553590|00000000||Según mis cálculos, hoy es el día en el que Gevorg, la legendaria ballena blanca, surcará las aguas de las Skellige.
+    553566|00000000||He esperado esto toda mi vida...
+    553461|00000000||¿No te olvidas de nada?
+    553469|00000000||¿Eh? ¡Ah, sí! La pira. Tanto hablar...
+    553471|00000000||Maldita sea... La yesca está empapada. ¿Y ahora cómo voy...?
+    553472|00000000||Déjame ayudarte.
+    553458|00000000||Olvidaste encender la almenara.
+    553457|00000000||Hasta pronto.
+   1065605|00000000||Adelante.
+   1065607|00000000||Vuelve pronto, ¿está bien?
+   1067788|00000000||Ajá. Adiós.
+   1067732|00000000||Vámonos, Ciri.
+   1065609|00000000||Puedes con esto tú sola, Ciri. Nos vemos en Hindarsfjall.
+   1065611|00000000||Como quieras. Estaré en el cementerio.
+   1065613|00000000||Termina rápido, por favor. Y tú, Ciri, no te metas en líos. ¿Está bien?
+   1067785|00000000||No pensaba hacerlo. Adiós.
+   1067753|00000000||Nos vemos allí.
+    565138|00000000||Te acompañaré.
+    565463|00000000||Gracias.
+   1067735|00000000||¿Podrías abrir un portal a Hindarsfjall?
+    565465|00000000||Puedo.
+    565136|00000000||Sí, iré contigo.
+    565384|00000000||Sí. Siempre hay algo más importante.
+    565390|00000000||Hablaré con ella. Tú eres propenso a hablar de más.
+    565380|00000000||Ciri, no hay tiempo para eso.
+    565382|00000000||Podrás ir más adelante. Ahora tenemos asuntos más importantes.
+    565137|00000000||No hay tiempo.
+    565487|00000000||¿Tenemos que regresar al bote ahora mismo?
+    565611|00000000||¿Hay algo más que quieras ver?
+    565612|00000000||Aquí no. En Hindarsfjall. En Lofoten. Conocí a un joven, Skjall, y me gustaría...
+    565631|00000000||¿Qué pasa?
+    565651|00000000||Ciri, Skjall murió.
+    565653|00000000||La Cacería salvaje... ¿Nadie... sobrevivió?
+    565659|00000000||Skjall murió más tarde.
+    565676|00000000||¿Estás seguro de que era él? ¿Lo viste?
+    565716|00000000||Yo estaba allí. Vi su cadáver.
+    565719|00000000||¿Visitarás su tumba conmigo? Me gustaría... despedirme.
+    517302|00000000||¿Y bien? ¿Alguna carta incriminatoria? ¿Esqueletos en el armario?
+    517303|00000000||Aún no hemos abierto la puerta.
+    517305|00000000||Es una barrera mágica muy compleja. Probemos...
+    517311|00000000||¡Geata'ar ligen!
+   1055110|231374e3||Hombre de Skellige
+    556520|00000000||{Aen iarean nyald aep kroofeir... } [Es como buscar una aguja en un pajar...].
+    519932|00000000||¿Has oído eso?
+    519933|00000000||Ajá.
+    534052|00000000||Si no te interpones, viejo... te perdonaré la vida.
+    534726|00000000||Te reto a que me la arrebates.
+    534728|00000000||Ja, ja. Como quieras.
+    534778|00000000||¡Aaaaach!
+    534051|00000000||¿Tus últimas palabras?
+    534721|00000000||Aún no me has matado.
+    534723|00000000||No. Lo estoy disfrutando. Eres mi juguete.
+    534050|00000000||Patético... Das lástima...
+    534772|00000000||Deja de actuar como un guerrero... ¡y lucha como tal!
+    534774|00000000||Te gustaría morir de manera honorable, ¿verdad? Te vas a llevar una desilusión.
+    534776|00000000||¡Aaaargh!
+    566083|00000000||Quizá deberías hablar con él después de todo.
+    566085|00000000||¿Qué sentido tendría? Ahora mismo, ninguno.
+    566087|00000000||¿Y más tarde? No descartes a tu padre solo porque sea el más rico y poderoso...
+    566089|00000000||¿Tirano sin escrúpulos que no merece un ápice de confianza?
+    566091|00000000||En realidad, creo que es en él en quien deberías confiar más.
+    566093|00000000||¿Y qué hay de la parte del tirano sin escrúpulos?
+    566095|00000000||Es cuestión de acostumbrarse.
+    548880|00000000||Pfff... Muchas gracias.
+    533642|00000000||Pensé que querrías ver a Crach.
+    533645|00000000||Es solo que... ¿qué pasa si desaparezco de nuevo mañana? Esta vez para siempre, como mi madre.
+    534678|00000000||Creo que... no debería ver a nadie que... sienta cariño por mí. Al menos no hasta que derrotemos a la Cacería salvaje.
+    534679|00000000||Siempre podemos llevarte de vuelta a la Isla de las Brumas.
+    534066|00000000||Echamos un vistazo en tu laboratorio.
+    534067|00000000||No me cabe duda. ¿Para qué fueron allí? Podrían haberme preguntado.
+    544423|00000000||¿Nos habrías contado todo sobre tus experimentos con los genes de la Vieja sangre? Lo dudo.
+    544425|00000000||No he ocultado nada que pueda servirnos en nuestra lucha contra Eredin.
+    544426|00000000||En cuanto a la Vieja sangre... todos saben que Ciri es excepcional. Pero solo yo sé hasta qué punto.
+    544440|00000000||O quizá solo estás obsesionado con ella...
+    544442|00000000||¿Yo estoy obsesionado?
+    559125|00000000||¿Quieres ser rey por la gracia de Nilfgaard?
+    559129|00000000||¿Serías rey por la gracia de Nilfgaard?
+    559142|00000000||¿Ladras antes de morder?
+    559149|00000000||¿Crach te envía en busca de mi cabeza? Bien, adelante, ¡intenta llevártela!
+    561116|00000000||¡A ellos!
+    559127|00000000||¿De qué otra forma lo llamarías, sino una traición?
+    559124|00000000||¿Qué es, sino una traición?
+    558553|00000000||¡No me arrodillaré ante un an Craite! ¡Jamás! ¿Está claro?
+    558554|00000000||¿Prefieres ayudar a los Oscuros?
+    559089|00000000||¡Ayudaría a los espectros del maldito Mörhogg antes que dejar que Crach reine sobre las Skellige!
+    558555|00000000||¿Y tus hombres qué opinan? ¿También te seguirán cuando los jarls te llamen traidor?
+    559120|00000000||¡Esta es mi tierra, druida! ¡Cuidado con lo que dices!
+    558886|00000000||¡Birna Bran lo organizó todo a nuestras espaldas! ¡Ni siquiera lo niega!
+    558872|00000000||¿Qué está ocurriendo ahí?
+    558868|00000000||¿Qué pasa ahí?
+    558870|00000000||¡Esa escoria nos está vendiendo a los Oscuros! ¿Quieres verlo? ¡Adelante!
+    558888|00000000||Grrr... ¡Me niego a ser testigo de esta infamia!
+    558891|00000000||¿Y Svanrige? Después de todo, es el rey.
+    558893|00000000||¡Y es un rey tan inútil como un pez en tierra!
+    558878|00000000||Busco a Armiño.
+    558880|00000000||Ah, está ahí dentro con ellos, pálido como la leche. Si él no pone al mocoso a raya, ¿quién lo hará?
+    558882|00000000||Pero no, dice que los dioses nos han dado un rey, ¡y que debemos apoyarlo! ¿Apoyar qué? ¡Svanrige está ahí de brazos cruzados mirando como esa bruja nos vende a los Oscuros!
+    558871|00000000||Busco a Armiño.
+    558874|00000000||¡Bran le cortaría el cuello a esa zorra traidora si estuviera vivo!
+    558876|00000000||¡Deberíamos haber ahogado a ese mocoso en el mar el día en que nació!
+   1070432|00000000||Puré de patatas y salsa de carne. O un queso fuerte de Gemmera.
+   1070452|00000000||Estofado, eso es lo que comería yo. Mi madre le pone cebolla asada, ¿sabes? La que queda crujiente.
+   1070454|00000000||Ag... ¿Cuánto tiempo puede comer uno pescado y galletas de barco?
+   1063094|00000000||Sígueme. El Naglfar tiene que estar cerca.
+   1063162|00000000||Silencio. Hay calma total.
+   1063164|00000000||Es una trampa. Tenemos que irnos ya mismo.
+   1063166|00000000||Esta vez, no.
+   1063168|00000000||No, Zireael. No estás preparada. No controlas tus poderes.
+   1063170|00000000||Me las arreglaré. Apártate.
+   1063172|00000000||Ciri.
+   1063174|00000000||¡Ciri!
+   1063176|00000000||El hielo... es un hechizo. Tienes que encontrar al mago que lo lanzó y destruir su bastón.
+   1063178|00000000||Destruiré algo más que su bastón.
+    557050|00000000||¡Arhaaam shinaaaz!
+    557045|00000000||¿Qué ha dicho?
+    557046|00000000||Que no eres su tipo.
+   1069328|00000000||Será más fácil subirse a bordo cuando anochezca.
+   1031236|00000000||¿Qué pasa? ¿Quieres que te salgan unos ojos nuevos, como a Vilgefortz?
+   1056344|00000000||Recuerdo el momento en el que lo maté. El cultivo no estaba terminado, todavía no habían crecido del todo. Eran... asquerosos, pero...
+   1031237|00000000||Que menciones a ese desviado es pura coincidencia, ¿verdad?
+   1056346|00000000||Pues claro.
+   1056348|00000000||También me hablaron de un enano ciego de Mahakam...
+   1056350|00000000||Se puso dos rubíes enormes en las cuencas de los ojos.
+   1056352|00000000||No veía un pimiento, pero dicen que le quedaban de lo más elegante.

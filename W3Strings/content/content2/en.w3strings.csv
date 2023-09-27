@@ -1,0 +1,1829 @@
+;meta[language=en]
+; id      |key(hex)|key(str)| text
+   1062611|00000000||Greetings.
+   1062613|00000000||A witcher! You see the notice? Here about the well?
+   1062615|00000000||A well? First I've heard. There a problem?
+   1029705|00000000||So, master witcher? Will you see to the ghost? Me Mandy… she grows no better.
+   1029177|00000000||Fine, I'll help. Where's this well?
+   1029178|00000000||In Hovel, a settlement on the heights. It's abandoned now, no one ventures there on account of the ghost being about. Drive it off, please!
+   1029175|00000000||I'll help you.
+   1057919|00000000||This ghost - describe it for me.
+   1057921|00000000||Well… it's awful frightening. Awful.
+   1057923|00000000||I meant, what does it look like?
+   1057925|00000000||It looks… like a woman, but fresh from the grave. Wears a dirty dress, all rags, its skin flaking off of its bones. And it howls… like it's sufferin'.
+   1057927|00000000||Some wraith… or maybe an alp.
+   1057929|00000000||If you don't wallop it, master… if you don't take care of it, that is, it'll come kill me daughter.
+   1057898|00000000||Describe the ghost.
+   1057899|00000000||Sorry. Can't help you just now.
+   1029179|00000000||Sounds serious. Doubt I can get it done quickly. Come back when I have more time.
+   1029176|00000000||No time now. I'll come back later.
+   1057897|00000000||Let's talk about my reward.
+   1057931|00000000||I feel for you… but this is my job. So let's talk about my pay.
+   1058419|00000000||Something not right with the coin?
+   1071280|00000000||Ne'er in me life have I seen a sum approaching that.
+   1071282|00000000||If you could drop your price a bit, I'm sure we'd agree.
+   1071286|00000000||Right honest jest, there, master witcher. Have you no shame to mock a poor man?
+   1071284|00000000||That settles it, then.
+   1029182|00000000||Aye. 'Tis haunted. Has been for a good twenty years.
+   1029274|00000000||Twenty? So why'd you put out a notice just now?
+   1029694|00000000||Cause earlier on we drew our water from the river. But so many corpses floatin' in it after the battle, it's turned noxious. Me daughter Mandy drank half a pitcher, fell dreadful ill, can't keep nothing down… She grows worse by the day.
+   1029695|00000000||Herbalist claims you fight a fever with drink. And not beer nor cider, but water - clear, pure water. And where'm I to get that if not from the well? But first the ghost's gotta be driven away. And it don't let any man near.
+   1029181|00000000||Greetings, good man. Having trouble with your well? That's what I read.
+   1049553|00000000||Hm?
+   1049555|00000000||{Yeá? } [Yes?]
+   1049557|00000000||Oh!
+   1049559|00000000||Nordling, the Impera Brigade surrounds you. You know this?
+   1069326|e0351e50||Treasure Chest
+    166527|78f03e74||Village Witch
+    332443|002e3ae9||Book
+    422229|00000000||Ah! A customer!
+    422233|00000000||Willing to craft something?
+    422239|00000000||Will you craft something for me?
+    422241|00000000||Farewell.
+    422235|00000000||Farewell.
+    422231|00000000||Show me your wares.
+    422237|00000000||Show me what you got on offer.
+   1037370|00000000||What the fuck am I to do?! Eh?! What?!
+   1037368|00000000||Fifty… years… of work… up in smoke!
+    594289|00000000||I'll call my mum!
+    594291|00000000||Prince Proximo picked a peck of peckled pippers. Ugh!
+    594293|00000000||My mum said I'll turn into a striga if I don't eat my dinner!
+    595891|fbee3e23||Peasant
+    547671|00000000||Got work for me?
+    561651|00000000||Guessing your captain's got work for me.
+    561653|00000000||This is the army, Nordling. There is no guessing.
+    572004|00000000||To the tower. Go.
+    561657|00000000||Huh, you Black Ones aren't so scary after all. Can even be nice if you want to.
+    561659|00000000||Don't get accustomed, Nordling.
+    547670|00000000||See, you can be nice.
+   1044726|00000000||Military camp. No locals allowed without the express consent of the garrison commander.
+    561511|00000000||I look like a local to you?
+    561513|00000000||You look like trouble.
+    561515|00000000||Dead wrong - I make trouble go away. I'm a witcher.
+    561517|00000000||A witcher…?
+    561519|00000000||Captain Peter Saar Gwynleve is in the tower. Turn right, past the gate.
+   1046059|00000000||Oh!
+   1046061|00000000||My auntie says I talk too much.
+   1046063|00000000||Do you want to be my boyfriend?
+    532099|2d058d06||Eternal Fire Priest
+    171353|39b3095b||Redanian Soldier
+    172329|52a3f146||Peasant
+    546802|00000000||{Coltais grìffean ess'a'anval. } [They say the griffin attacked again.]
+    546803|00000000||{Aep thorp? } [In the village?]
+    561458|00000000||{Neen, aep straede. Mar'sandean carbad. } [No, on the road. A merchant's wagon.]
+    561460|00000000||{Ess'dice fir'inn. Nord ess ulf'heidan an moeras. } [It's true what they said at home. The North is nothing but swamps and monsters.]
+    561462|00000000||{Esse'droog moeras, esse'tuv'en ulf'heidan. Mire, deich eate'n n've en esseath, esseath òrdan que'cail me caer. } [We will drain the swamps and kill the monsters. Ten years - less even, and it will be like home, you will see.]
+   1039536|00000000||Try me, peasant. I could use the practice.
+   1039533|00000000||Try me.
+   1039538|00000000||Calm down. Now follow me.
+   1039534|00000000||Calm down. And come with me.
+   1038678|00000000||Magpies and dwarves might be greedy, but I'm not. Can't buy me.
+   1038691|00000000||Then I'll beat your fuckin' mug to a pulp!
+   1038674|00000000||No chance. You're coming with me.
+   1038711|00000000||Fine, I'll agree to that… if you swear to stop playing with fire. Fail to do that and I'll come back, and someone'll get hurt.
+   1038713|00000000||Of course, master witcher! I swear on me dead mum! Your gold… and here's to your health! Down with the Black Ones and nonhumans alike!
+   1038707|00000000||Fine - but no more arson.
+   1038640|00000000||Nasty wound. Run into a drowner?
+   1038642|00000000||What the fuck do you care?!
+   1038644|00000000||Whoa. Our arsonist's a charmer, too. Come on. Smith wants to talk to you.
+   1038647|00000000||I'll not talk to a nonhuman - sons o' bitches, all. And dwarves're the worst! Greedy little magpies - do anything for gold, they will! Heh, they forge the blades the Black Ones put to our throats! Am I not right?
+   1038651|00000000||Listen, we can work this out man to man. I give you gold, you don't turn me in. My mum died a while back and I sold her tools. I've spent some… but what's left is yours.
+    352399|00000000||Begone. We'll not talk to you!
+   1073032|00000000||King Radovid upon his throne, fought the Black Ones all alone.
+   1073034|00000000||Six feet under now he sleeps, dreams of naked witches' teets.
+   1073036|00000000||Dreams of naked witches' teets!
+    166469|d6a00ba0||Peasant
+   1026181|00000000||That him?
+   1017041|00000000||No. Neighbors' son.
+   1017042|00000000||Uh. Skin's burned off. Might be hard to tell, I know, but… could this be him?
+   1017043|00000000||I, uh… Bastien was big, broad-shouldered. This one seems smaller. But maybe it's the fire did that…
+   1026176|00000000||No… doesn't look anything like him.
+    477733|3fbb3904||Nilfgaardian Officer
+   1058038|00000000||Hey! What's with you?
+   1058040|00000000||Ye hear me?
+   1058036|00000000||Drunk again, eh?
+   1058034|00000000||Get outta my sight, Napp. Not in the mood.
+    352325|00000000||Leave us… We don't wanna talk, we don't wanna fight.
+    352327|00000000||I, uh… Oh, I've drunk enough. Me head's spinnin'!
+    352951|00000000||Tain't the hooch! 'Tis wizardry!
+    166754|68667754||Nilfgaardian Soldier
+   1062519|c7782b0b||Deserter Leader
+   1052104|00000000||You saved us…
+   1031446|00000000||Your village is famous the world over. The Battle of White Orchard's on everyone's lips.
+   1031448|00000000||But do they say who won? 'Cause I've heard both the Black Ones and Radovid are claimin' victory.
+   1031450|00000000||The victor, my good man, has yet to be determined.
+   1031452|00000000||Whaddaya mean? Battle's long over…
+   1031454|00000000||But the war is not. And the winner of that will write its history.
+    553813|00000000||Aaaargh!
+    553820|00000000||{Esse go'deff? Math. Tha seo tuveaann esse'cuir aep klu. Evan, sàbh a me. } [That hurts? Good. The necrosis has stopped at your knee. Evan, saw, please.]
+    553821|00000000||{Aen sàbh?!} Gheh-- Aaargh! [A saw?!]
+    553822|00000000||{Que esse'bar aen cas? Aep beseta? } [How would you prefer I remove your leg? With tweezers?]
+    554445|00000000||{Leig leam, sheyss! } Aaaaargh! [Stop, dammit!]
+    554447|00000000||{Evan, vedrai. Esse'cuir an prop ar'ne teanga esse'nag. } [Evan, hold him. And gag him lest he bite off his tongue.]
+   1031893|00000000||Goidemar! Will you raise a glass with me?
+   1031895|00000000||It's Dervan now. D-e-r-v-a-n. Not Goidemar.
+   1031897|00000000||But-- What do you mean? I know what they named you at your cutting! What kind o' name is that, anyway - "Dervan"?
+   1031899|00000000||Nilfgaardian. My gran was from Nazair.
+   1031901|00000000||O-oh, so that's how it is. Then by my leave, Master Dervan, may the gold sun guide you - far away from my land!
+    572345|00000000||To puke or not to puke, that is the… bleugh!
+    572353|00000000||Got so fucked up once blood came out me ears.
+    572347|00000000||Where you walkin'?!
+    572349|00000000||C'mon, you fuck, try it!
+    572351|00000000||Lebioda wept…
+    572355|00000000||Drinkin', or you a fuckin' thief?
+    572357|00000000||I'll drink another, then fuck the innkeep.
+    548488|00000000||We could use a few crowns.
+    548496|00000000||Could always use a few crowns.
+    548498|00000000||Thing is, I've a meager purse at the moment. Nilfgaardians requisitioned my goods, now this…
+    571588|00000000||Here.
+    548517|00000000||Why do you care?
+    548543|00000000||What's it to you?
+    548545|00000000||Well, you see…
+    548511|00000000||Not a bad idea. Especially since that wound needs cleaning.
+    548513|00000000||Bah, beast barely grazed me. But sure… Could use a good rye. Nice and cool, you know, straight from a cellar?
+    548515|00000000||Let's go.
+    548509|00000000||Besides, the innkeep's my cousin. Tell her Bram sent you, she'll treat you like family.
+    548547|00000000||There's an inn here in White Orchard. Sole one around. Gets its share of travelers, perhaps you'll learn something there.
+    548539|00000000||Yes, a woman, medium height, long, black hair. Seen anyone like that?
+    548541|00000000||No. But…
+    548516|00000000||Yeah - a woman.
+    548503|00000000||Back to the trail?
+    548505|00000000||Like I said - leads to the main road and ends there. Muddled.
+    548507|00000000||You seek someone?
+    548490|00000000||You don't owe us anything. You were in need, we helped.
+    548492|00000000||And they call witchers heartless. Say they won't lift a finger without pay.
+    548494|00000000||They also say mice are born of rotting straw.
+    548487|00000000||You don't owe us a thing.
+    522349|00000000||Gods, that was close! I was sure I'd end up like my mare.
+    522350|00000000||Provided you got lucky.
+    522352|00000000||Your horse died quickly. But griffins like to toy with their prey. Eat it, alive, piece by piece.
+    548484|00000000||Ahh-ha.
+    548486|00000000||You'd… you'd like a reward, I suppose?
+    168358|00000000||We going?
+    168688|00000000||Help me! Help!
+    168700|00000000||Ha-has it gone?
+    168702|00000000||Yeah. Come out!
+   1028743|00000000||Come on, Hussar. Can you smell Bastien, boy? Eh… still nothin'.
+   1036392|00000000||Hey! Where are you going?
+   1036394|00000000||You want those ghouls to eat me alive? Stop runnin' like a scalded cat! Help me.
+   1028741|00000000||He found him! Hussar's caught his scent! Come on!
+   1012788|00000000||You're strange, but a good fellow nonetheless.
+   1012786|00000000||At your service.
+   1012783|00000000||Whoa!
+   1012781|00000000||My joints are aching.
+    549170|d678351e||Redanian Officer
+    351652|00000000||Got any herbs you're willing to sell?
+   1008659|00000000||I'm sure I can find something.
+    351646|00000000||Got any herbs for sale?
+   1058491|00000000||She was getting' better. Then Nilfgaardians came, carried her off.
+   1058493|00000000||Nilfgaardians? Why? What'd they want with her?
+   1058495|00000000||I've no notion. They don't explain what they do. It's not in their custom.
+   1058485|00000000||She passed away. Soon after you'd left.
+   1058487|00000000||You resent my choice, I understand. But believe me, my potions wouldn't 'ave helped.
+   1058489|00000000||Alas, I must take your word for it.
+   1058477|00000000||Where's Lena? Something happen?
+   1058420|00000000||Where's Lena?
+    351660|00000000||Farewell.
+    351650|00000000||Farewell.
+    351648|00000000||What's your story?
+    351656|00000000||Tell me something about yourself. What's your story?
+   1008661|00000000||A sad one. Do you know the Temple of Melitele in Ellander?
+   1008663|00000000||Do I know it? Can't remember how many times I've been there, how many times Mother Nenneke stitched me up.
+   1008665|00000000||We must've missed each other. I studied to become a healer under Mother Nenneke.
+   1008667|00000000||Hm… I was but eighteen when they took me in. An age at which teachings interest one far less than love.
+   1008669|00000000||There was a boy - Goslav. He'd bare his chest to work. The novices couldn't keep their eyes off him - tripped over their own feet, dropped things. I left the temple for him. We passed a lovely summer together, and then he left.
+   1008671|00000000||Nenneke refused to take me back. My parents uttered not a word, gave me a travel cloak and a small coin pouch. I struggled long to find a place where I'd feel safe, needed. Until I finally arrived here. End of story.
+   1008673|00000000||Yes?
+   1031858|00000000||Good woman, is this the road to Vizima?
+   1031860|00000000||To your grave, more like. Have you not heard 'bout the griffin?
+   1031862|00000000||Phh, first the Black Ones, now a griffin… I guess it's true, misery does love company.
+   1031864|00000000||As should travelers. Leave the village alone, and the beast'll sniff you out and eat you up, sure as morn.
+   1031865|00000000||You best wait till a group gathers. At the inn, if you've gold. If not, I'll put you up myself.
+    565458|00000000||Good man, whose field is that the other side of the river?
+    565459|00000000||By the wood? Boyan Klimmick's. Good lad, master witcher, though he…
+    565460|00000000||Yes, yes. This Boyan, will he venture out to inspect his grain any time soon?
+    565687|00000000||What for? Harvest is a long way off yet.
+    452728|af91b76f||Ghoul
+    170734|00017dcc||Boy
+   1012752|00000000||*Ptooey* Damnation!
+   1012750|00000000||The plague.
+   1012748|00000000||Lout.
+    576822|00000000||Not in the mood.
+    576867|00000000||Don't generally drink with strangers.
+    576868|00000000||Come. I know this to be a vile place. You might down a little glass merely to aid digestion.
+    576878|00000000||Let's get to the point.
+    576887|00000000||Finding her - that'll lift my spirits.
+    576888|00000000||You look haggard. It's just a few drops to improve your mood. A little schnappsie's never hurt a soul.
+    577342|00000000||You seen Yennefer?
+    577343|00000000||Deepest apologies, but I must ask: Is this about love?
+    577757|00000000||Of course it's about love.
+    577770|00000000||Guessed it. It's love.
+    577786|00000000||I knew it at once.
+    577841|00000000||What do you know? Tell me.
+    577843|00000000||Before you appeared, it never occurred to me that might've been Yennefer. Who would've have thought…
+    577844|00000000||Get to the point.
+    577846|00000000||A Nilfgaardian scout from the local garrison saw her.
+    577853|00000000||Where?
+    577854|00000000||At their camp. She rode in there - dark of night, black and white, gooseberries and… yes, I know. Had a terse exchange with the garrison commander and raced off.
+    577848|00000000||Where to?
+    577850|00000000||I'm not omniscient. Ask at the garrison.
+    580188|00000000||Thanks.
+    580189|00000000||We men of the road must stick together. Perhaps one day I'll be in trouble and you'll be nearby to help.
+    577769|00000000||None of your business.
+    577819|00000000||Yes, as a vagrant I deserve no explanation.
+    577756|00000000||None of your business.
+    577348|00000000||Where's Yennefer?
+    577206|00000000||Recognize me from Master Dandelion's ballads, too?
+    577298|00000000||To your health.
+    577016|00000000||Know who I am?
+    577719|00000000||What do you do? Who are you?
+    577720|00000000||A mangy vagrant. Gaunter O'Dim, at your service.
+    577721|00000000||Vagrant - that a profession now?
+    577722|00000000||Ah, once a merchant of mirrors. The madding crowd dubbed me Master Mirror, or the Man of Glass.
+    577010|00000000||Who might you be?
+    577008|00000000||How do you know Yen?
+    577048|00000000||How do you know Yennefer?
+    577049|00000000||What a question. Master Dandelion's ballads, of course. The only way a humble merchant might hope to rub up against greatness. Unless, that is, he's as lucky as I am.
+    577050|00000000||And runs into a very patient witcher?
+    577051|00000000||Into Geralt of Rivia himself. The Butcher of Blaviken.
+    576869|00000000||Can we cut to the chase? You seen her or not?
+    576870|00000000||Yennefer of Vengerberg?
+    576920|00000000||Never mentioned her name.
+    576921|00000000||Yet you described her perfectly. And once I hear something, I never forget. Can't help it.
+    576865|00000000||Fine, I'll have a drink.
+    576821|00000000||Fine, I'll have a drink.
+    576785|00000000||Looking for a woman.
+    576788|00000000||Ahh, like everyone.
+    576812|00000000||Not like everyone, and not just any woman. Mine smells of lilac and gooseberries, dresses in black and white.
+    576814|00000000||Two schnappses!
+    576823|00000000||Hah. It'll lift your spirits.
+    577768|00000000||Yennefer's in danger.
+    577817|00000000||Oh, the devilry! Why didn't you say so?! We must act.
+    571825|00000000||Huh?
+    571827|00000000||Me brother stayed in Temeria… Ain't no hope for 'im, is there?
+    571829|00000000||Eternal Fire, save us from Nilfgaard…
+    353189|00000000||Got anything interesting under the counter?
+    353191|00000000||Depends what you're after. Have a look.
+    352953|00000000||What're you selling?
+    351576|00000000||Farewell.
+    351574|00000000||Farewell.
+    351572|00000000||Nilfgaardians treating you well?
+    351582|00000000||Nilfgaardian rule to your liking?
+    353207|00000000||What's there to like? 'Tis the same as any other. They tax us, requisition this or that. But they do keep the peace in the village, I'll grant 'em that.
+    353209|00000000||You don't mourn Temeria's passing?
+    351584|00000000||I mourned it 'round half a year back, when King Foltest was cut down. Now… now I just want peace.
+    351568|00000000||Somethin' else you'll be needin'?
+   1037063|00000000||What happened here?
+   1037065|00000000||Oh, got a wee bit chilly the night, so I set fire to my forge. Got it nice and roarin'! Roasted some wieners!
+   1039102|00000000||Whaddaya think happened, dimwit? Some bugger set alight me… me workshop! I've lost everythin'. Everythin'!
+   1039108|00000000||Sorry.
+   1039104|00000000||I'm sorry.
+   1039103|00000000||Don't insult me.
+   1039106|00000000||Easy on the insults. I could add to your misfortune.
+   1039110|00000000||Any suspects?
+   1039112|00000000||Whole damned village. I've lived here half a century. Thought they saw me as one o' their own. But everythin' changed when the Black Ones came. I'm the only smith around, so I got to service their garrison. Bang dents out o' plate, shoe horses - that sorta thing.
+   1039139|00000000||Nilfgaardians don't pay me a bloody copper, just give me supplies and orders. But humans can't fathom that. They think I'm gettin' rich off their misfortune, that I sleep on a pile o' gold like a ploughin' dragon. They've stopped talkin' to me, spit when I pass… and now this.
+   1037118|00000000||I can find your arsonist. Provided you're willing to pay.
+   1037120|00000000||Huh, I've not much left… but I'll give ye all if ye bring me that whoreson. So that he gets what he deserves.
+   1037122|00000000||The night o' the fire, I heard movement outside my hut. Went out to see if could find any tracks, but found nothin'. But then I haven't got cat eyes, have I? Good luck.
+   1037115|00000000||I can find your arsonist. For a price.
+   1037129|00000000||Good luck rebuilding. Farewell.
+   1037116|00000000||Good luck rebuilding. Farewell.
+   1039154|00000000||Eh? Whaddaya want?
+   1058589|00000000||Wonder which o' the clever buggers did it. I'll teach him.
+   1058587|00000000||My forge! Burnt to the ground!
+   1058585|00000000||Ploughin' White Orchard!
+    522378|00000000||You play gwent?
+    522379|00000000||Not with just anybody and always for high stakes. With you - I might.
+    522385|00000000||Know what? We'll play later.
+    522364|00000000||I've changed my mind.
+    522363|00000000||Let's play.
+    522384|00000000||I'll play on your terms.
+    522382|00000000||A round of gwent?
+    522383|00000000||Why not, but you know my rules - high stakes always.
+    522377|00000000||Let's play gwent.
+    522387|00000000||I don't like losin', but that don't mean I don't do it with grace. The card and the prize are yours.
+    522388|00000000||You been playing a while. Gotta know where I can find some interesting cards.
+    522389|00000000||In Novigrad, there's Olivier the innkeeper. He plays, though he's far beneath my level. Closer, in Velen, there's the barkeep at the Inn at the Crossroads.
+    522386|00000000||Perhaps you should come back once you've got a better deck. Or when you learn to play.
+   1038931|00000000||Couldn't track your arsonist down. Sorry about that.
+   1039168|00000000||Damn shame… But the Black Ones might catch him eventually.
+   1050107|00000000||Do ye need anythin'? I managed to save some things from the fire. And my anvil's whole, I could bang somethin' out. You know, can use every copper now.
+   1055127|5525208b||Nilfgaardian Medic
+    571819|00000000||Everything all right, dear?
+    571821|00000000||You a refugee from Velen? You look awful.
+    571823|00000000||River tosses someone ashore each day. Refugees, escapin' hell…
+    592115|00000000||{N'een! } [ No!]
+    592117|00000000||I will give you such a lashing…!
+    592119|00000000||{Ech, elaine tedd a'taeghane... Aep Aevon y Alba... } [Ahh, the Alba must look lovely this time of year...]
+    592121|00000000||A real vedymin! My brothers will never believe it!
+    592123|00000000||{Ess se'ege aen a'vean! } [Victory is within us!]
+    592133|00000000||{Glòir aen Ard Feain! } [Glory to the Great Sun!]
+    592125|00000000||Sheathe your sword. When it's many against one, even a vedymin is done.
+    592129|00000000||Talk to the commander.
+    592127|00000000||Mhm?
+    592131|00000000||Satisfied? Now you can wallow in your muck.
+   1071826|00000000||What is this?!
+   1071828|00000000||Bloede pest, I warned you!
+   1072782|00000000||{Ess'reusanth. } [Wise.]
+   1052066|00000000||Daddy says you killed the beast that was eatin' folk!
+    572013|00000000||How fare you, witcher?
+   1031579|00000000||Let us pray for our brave mage hunters! May they scrub the world clean of sorcerer scum.
+    572015|00000000||Remember, dear believers, your tithe to the church! It most fully expresses your faith.
+    572017|00000000||Every child needs love. Remember that, ye faithful!
+    593289|05df9919||Goose
+   1046142|00000000||No more! Please, no more!
+   1046145|00000000||Mercy! Please!
+   1046139|00000000||Aaaaargh!
+    499062|f4ea295c||Quartermaster
+   1078522|3ccd0f82||Deserter
+   1058555|00000000||Master… don't dawdle. The little one's getting worse.
+   1058571|00000000||I thank you, master! Thank you a hundredfold.
+   1062764|00000000||You come too late, master. Me Mandy's in the grave.
+   1052112|00000000||Swish, swash, witchman buccaneer!
+   1028054|00000000||A corpse. Hanged by the bucket rope.
+   1058441|00000000||Woman the journal belonged to. Must be.
+   1055659|361ff3ae||Rooster
+   1051306|00000000||{Ess tolla'va, hoersoon?! Esse'faigh va arbaith hwer... } [Are you bored, whoresons?! I'll find you something to do...]
+   1051308|00000000||{Esse pump! Yn, twe! } [Push-ups! Now!]
+   1051310|00000000||{Iarr'va beannen aep Temeria? } [You crave Temerian peasant wenches, eh?]
+   1051312|00000000||{Rach, sheyss! Yn, twe! } [More, shitfaces! One, two!]
+   1051314|00000000||{Ess fad air va aep boaeran! Begript?! } [You're to stay away from the hayseeds! Understood?!]
+   1051316|00000000||{Lager hoal! Ess'dice, lager! } [Arses lower! Lower, I say!]
+   1051318|00000000||{Dure pump, hoalan aep ker'zaeran zaighde'ran snasta aarde. } [An imperial soldier's arse should be flat to the ground with each push-up.]
+   1051320|00000000||{Yn, twe, yn, twe! } [One, two, one, two!]
+    578328|00000000||You play gwent, Roche?
+   1014563|00000000||Yes, but I've none to play against here. If you've got a deck, pull it out.
+    578326|00000000||Some other time.
+    578342|00000000||We'll play, later.
+    578325|00000000||Let's play.
+    578332|00000000||Good luck.
+    578330|00000000||A round of gwent?
+    578331|00000000||Gladly.
+    578327|00000000||Care for a round of gwent?
+   1014576|00000000||You won. Congratulations. Here, you earned the card.
+    578345|00000000||Know anyone else worth playing?
+   1076751|00000000||I've heard of a man, came through Novigrad recently. You might be interested to know he's also a witcher. Lambert they call him.
+   1076869|00000000||Not the only acquaintance you can challenge. Thaler's a keen gambler and has a sharp deck. He's in the area, you might try him…
+   1076867|00000000||I know Lambert. Had no idea he played gwent, though.
+   1076865|00000000||Then I've a mate who's to come up from the south. He likes cards, a rather refined player. But it seems he's better at being late, Wouldn't wait if I were you.
+   1076749|00000000||I've heard of a man, came through Novigrad recently. You might be interested to know he's also a witcher. Lambert they call him.
+   1076863|00000000||Old Lambert's a card sharp…? Interesting, indeed.
+    578343|00000000||Stop by sometime for another round.
+    578352|00000000||Your old friend from Skellige, Crach an Craite - word is he's got an interesting collection. And there's a boatwright in Velen - whittles boats by day, plays gwent nights. Try them.
+   1012265|00000000||Whoa!
+   1012263|00000000||Oooh!
+   1012261|00000000||Aaaah!
+   1028123|00000000||Wide pelvis, small jaw - a woman. Around thirty, judging by the teeth. Left arm's missing.
+   1028165|00000000||Need to cremate the remains. Gotta find the object that binds her to this place before I do, though.
+   1036759|00000000||Hm, arm fell away… Additional weight? Was she wearing something heavy?
+   1058437|00000000||Gotta jump down there. Hope I don't break my legs.
+   1058435|00000000||Was she wearing the bracelet from her husband? Might be why her arm fell off.
+   1073019|00000000||These whores communed with the Black Ones!
+   1073021|00000000||Brought shame, dishonor on us all!
+   1073023|00000000||They let Nilfgaard plough them, ploughed Nilfgaard back…
+   1073025|00000000||So we bring them to you ploughed anew, their heads shorn!
+   1073027|00000000||Let it be known they're not decent women, but Nilfgaard's whores!
+   1046855|00000000||What's the rush?
+   1046871|00000000||Spent the last six months in the saddle. Haven't seen you for two years. Can't we take a moment to--
+   1046907|00000000||Sadly, we cannot. Someone awaits you, Geralt. Someone who doesn't like to be kept waiting.
+   1046983|00000000||Wonder what he offered you.
+   1046989|00000000||Must've been a damn good offer, then.
+   1046991|00000000||Not many things you'd give up your freedom for. And even fewer people.
+   1046993|00000000||The sooner we set off, the sooner you'll find out.
+   1046996|00000000||What about you?
+   1046998|00000000||I'm going in the opposite direction. I somehow doubt the emperor's invitation mentioned me. Besides, I've got things to do at Kaer Morhen, remember?
+   1047000|00000000||Yeah, I remember. Thanks for your help, Vesemir. See you soon.
+   1047003|00000000||How's your horse? Swift?
+   1047005|00000000||Can't complain. Why do you ask?
+   1047007|00000000||I'd like to be back behind some thick city walls. As soon as possible.
+   1046985|00000000||Fine. Guess I'm willing to hear him out.
+   1046987|00000000||The emperor of Nilfgaard, lord of Metinna, Ebbing and Gemmera, sovereign of Nazair and Vicovaro, will feel honored, I'm sure.
+   1046982|00000000||Suppose I can hear him out…
+   1046909|00000000||Emperor Emhyr var Emreis… or, to those on more intimate terms with him, the White Flame Dancing on the Graves of His Foes.
+   1046911|00000000||Doubt I number among that group. Far as I remember, last time we saw each other, he wanted to kill me.
+   1046913|00000000||Well, now he wishes to make you an offer.
+   1046915|00000000||The kind one can't refuse?
+   1046917|00000000||I didn't. Though I could have.
+   1046867|00000000||We can talk here. Some charming orchards nearby. In bloom, even, so you almost can't smell the corpses.
+   1046978|00000000||A tempting proposition. Sadly, I must say no.
+   1046980|00000000||You see, someone awaits you in Vizima. Someone who doesn't like to be kept waiting.
+   1046854|00000000||Why Vizima?
+   1046841|00000000||That brawl? We didn't start it.
+   1046843|00000000||Excuses, excuses… You've not changed a bit.
+   1046846|00000000||Ye… Yen? How?
+   1049439|00000000||I received a report. About a witcher who'd appeared in White Orchard. I knew it was you. Looking for me.
+   1049441|00000000||I might've waited until you found me, but… you know me. Patience has never been my strong suit.
+   1049443|00000000||It's… good to see you, Geralt. I… I'd even embrace you… were you not covered in blood.
+   1049445|00000000||Sorry… Wasn't expecting to see you. To be honest, this isn't at all how I imagined we'd meet.
+   1049447|00000000||How did you imagine it?
+   1049454|00000000||He didn't imagine you'd have a Nilfgaardian escort.
+   1049457|00000000||Don't get me wrong, Yennefer. I'm glad to see you… but I do think you owe us an explanation.
+   1049459|00000000||And I shall provide it… in Vizima. Ready your horses.
+    326432|00000000||It's all right. It's over.
+    326434|00000000||Leave me be! Get away!
+    326436|00000000||See his face? Gods save us!
+    326448|00000000||Begone. And don't ever come back.
+    549288|00000000||So much for not getting involved. Come on, let's go.
+   1056370|00000000||Yennefer, how'd they--
+   1056372|00000000||We shall talk of this tomorrow, all right? After the audience.
+   1056355|00000000||You know… had a dream about you recently.
+   1056357|00000000||Knowing you, it was probably filthy.
+   1056359|00000000||Just the beginning. But then--
+   1056362|00000000||But then?
+   1056367|00000000||Ride! Now!
+   1075096|00000000||Well, sure found someone interesting to talk to.
+   1075098|00000000||He's talking to a dog, you talk to yourself… Huh, I don't know what's worse.
+   1075225|00000000||Fair enough. D'you hear him? He's looking for someone. Maybe we could--
+   1075227|00000000||Oh no - if you want to meddle in others' affairs, go right ahead. But you'll be on your own. I'll wait.
+   1077296|00000000||Geralt, dammit! I'm too old to chase you!
+   1077300|00000000||You lost a marble? Turn around!
+   1077298|00000000||Whoa, Wolf, where do you think you're going? Come back!
+   1071802|00000000||Me gran tol' me about the smith's boy. Lad went missin' one day, so folk nabbed a witchman that was huntin' nearby. Started pokin' 'im, askin'.
+   1071804|00000000||Well, he started twistin' and squirmin' so wham-bam - they knocked his head off!
+   1071806|00000000||Aye, so it were. 'Cept it was some drowner that had supped on the kid. Witcher had naught to do with it!
+   1071808|00000000||What did the folk do?
+   1071810|00000000||Tain't like they coulda sewed his head back on! Word is they laid his corpse to rest - hush-hush in a crypt.
+    522516|00000000||Looking for a partner. Wouldn't mind a round of gwent.
+    522519|00000000||Then you are in the right place, friend. If you'll play now, I'll stake the unique card from my collection.
+    522535|00000000||Play you some other time.
+    522402|00000000||Some other time.
+    522401|00000000||Let's play.
+    522531|00000000||Sure, let's play.
+    522530|00000000||So, shall we play?
+    522408|00000000||Let's play gwent.
+    522538|00000000||You win, card's yours.
+    522536|00000000||Personally, I'd 'ave played that hand differently. But… that's just my opinion.
+    522539|00000000||Know anyone else who has good cards, you know, the one-offs, hard-to-finds?
+    522749|00000000||Commander Vernon Roche plays, that I know. And one of your kind, a witcher, stopped in for a round once. Name was… Lambert.
+    564320|00000000||Before what?
+    564327|00000000||Before what?
+    564329|00000000||Before they drove me from the village.
+    564331|00000000||What'd you do?
+    564333|00000000||Nothin'. I'm a freak.
+    564335|00000000||Sorry, I'd rather not talk about it.
+    564360|00000000||I'm sorry.
+    564362|00000000||Ah, ancient history now.
+    578741|00000000||I was to show you where I found the Nilfgaardians. Come.
+    564357|00000000||I'm sorry.
+    564358|00000000||Let's go.
+    564344|00000000||I'm a freak, too.
+    564346|00000000||Aye, but of another kind.
+    564348|00000000||If it's lycanthropy, I can help.
+    564350|00000000||What?
+    564352|00000000||Lycanthropy. Werewolves? Handled a few cases in the past. It's usually a simple curse that…
+    564354|00000000||The lord's son, Florian, and I… We loved each other.
+    564356|00000000||Dieter walked in on us in the stables. They drove me away… Florian hanged himself. Lord started drinkin', and the estate fell into ruin. That's the long and short of it.
+    564337|00000000||I'm a freak, too.
+    564336|00000000||Won't press you.
+    564339|00000000||Don't have to, then.
+    564341|00000000||So… can you show me where you found the Nilfgaardians?
+    564322|00000000||Sorry. Hope you weren't close.
+    564324|00000000||No. Not at all.
+    564319|00000000||The Nilfgaardians - where'd you find them?
+    564109|00000000||Dieter…
+    564314|00000000||You know him?
+    564316|00000000||We served at the lord's manor together, where the black army's encamped now. He was a stable hand, I was the lord's hunter.
+    564318|00000000||But that was before… Well, a long time ago.
+   1005963|00000000||My daddy's a soldier!
+   1005961|00000000||Look! Look!
+   1005959|00000000||My daddy's sword is bigger!
+   1058505|00000000||Reckon this ain't a good time to chat. Let's do what we've come for and get out of here.
+   1058510|00000000||We'll talk once we're there.
+   1058512|00000000||Thanks again. Never would've found Bastien without you.
+    452710|80f5373b||Deserter
+    543926|00000000||Beak tip's worn, gray hairs in the coat - ten, twelve years old.
+    564577|00000000||Griffins pair off for life when young. Male must be about the same age.
+    543914|00000000||[Determine age.]
+    543927|00000000||Thick shaft, dense barbs - a royal griffin.
+    543915|00000000||[Determine type.]
+    543937|00000000||Explains why the male I ran into was so aggressive.
+   1059605|00000000||Hunted the Nilfgaardians down here in the forest first, then started prowling the area.
+    543916|00000000||[Step away.]
+    543913|00000000||[Examine wounds.]
+    543924|00000000||Deep cuts over the whole body. Not a drop of blood on the beak or claws.
+    543925|00000000||Didn't defend herself. Crept up on her while she slept.
+    543912|00000000||Female. Larvae in her wounds have already hatched. Been dead at least a week.
+    565410|00000000||Other griffin must be a male.
+    575730|00000000||Oughta look around some more.
+    371481|c38af1d3||Old Man
+   1073039|00000000||Why the despair, mate?! War's over, we're finally goin' home!
+   1073041|00000000||I've nothin' to go back to.
+   1073043|00000000||Enlisted right off the street…
+   1073045|00000000||I'd been sleepin' beneath bridges, beggin' to eat.
+   1073047|00000000||The army's my hearth, my home. In Novigrad, I'll land in the gutter again.
+    491869|00000000||And our chapel roof's full of holes.
+    495263|00000000||A dire sinner. They say he feeds on corpses - devours their hearts and eyes!
+    495266|00000000||Eternal Fire…
+    507337|00000000||These tenets are heretical! Do you truly believe the hierarch will find them to conform with the True Faith?
+    507339|00000000||Sigh.
+    491871|00000000||Peace be with you.
+   1031573|00000000||Be cautious… There's a pyre on every corner in Novigrad, and blood flows in the gutters…
+    491887|00000000||You'll not find any monsters in Novigrad. The Eternal Fire burns within these walls.
+    507343|00000000||Here to convert, perhaps?
+    491873|00000000||Brother, sister.
+    507341|00000000||Yes?
+    491875|00000000||Well, well, a witcher.
+    491877|00000000||Pardon me.
+    491883|00000000||Don't hurt me!
+    491879|00000000||What just happened?
+    491881|00000000||What is this?
+    491885|00000000||Please… I beg you…
+    491889|00000000||Fire… Fire burns in my heart!
+   1018717|00000000||Robbery! Thievery!
+   1058497|00000000||So? Found my cart yet?
+   1058499|00000000||Thanks once again. Temeria has not yet perished as long as we still live.
+   1058501|00000000||Tis true what they say about witchers…
+   1071323|00000000||Help! Help me!
+   1038703|00000000||Oh, dearie! Since you're goin' in there, mind lookin' around for me fryin' pan? Rogue borrowed it from me, then left without returnin' it!
+   1038705|00000000||What's that, again?
+   1038745|00000000||Interesting… then what happened?
+   1038750|00000000||Interesting. What happened then?
+   1035305|00000000||So - what'll it be, dearie? Take pity on an old woman?!
+   1034134|00000000||Never taken on a pan contract… Fine, I'll go in, look around.
+   1057774|00000000||You should wait here. Just in case.
+   1034132|00000000||Fine, I'll help you.
+   1034135|00000000||Sorry, got more important things to worry about. Yeah, even more important than your pan.
+   1034133|00000000||Don't have time for this.
+   1038752|00000000||Afore dawn, another rode up to the hut. But come morn, only the first fellow left. Locked the door, hopped on his horse, and that were all I saw of him - and me pan! 'Twere old, black with soot, not worth much, I 'spose - but I've no other!
+   1038754|00000000||Will you 'elp me, dearie? Bring an ol' widow her pan? I could never break down that door meself… And in truth I'm afeared to go in anyroad. Such a stench waftin' out. Methinks the other fellow… well, that he's lyin' there.
+   1038747|00000000||Fascinating story. Any chance you're nearing the end?
+   1038744|00000000||Truly a fascinating tale.
+   1034141|00000000||It's always sat there empty, this hut. That is, till the night afore the battle. A man arrived, walked right in like 'twere his own. Was standin' at me window, peerin' at the goin's-on… He must've eyed me, 'cause next I knew, there he was, comin' my way!
+   1034143|00000000||So, I grabbed me pan - for protection, see. But he just asks all polite, "Gran, got any birch bark, by chance? Lilac berries, or even a few coals?" Nay, says I! And you must be right daft to pester folk at night with such foolery!
+   1038698|00000000||But I sees he ain't listenin'. Just starin' at me pan, like a magpie at a copper! "Lend it to me, gran, I'll give it back come morn." Was right baffled, for what's he doin' fryin' in the dark? But I've got a soft 'eart, so I gave it to 'im.
+   1034138|00000000||Lost your key, ma'am?
+   1034139|00000000||No, not me key. Me pan!
+   1052120|00000000||Geralt! Thanks for everythin'!
+   1052094|00000000||Fillin' your coin purse village by village, eh?
+   1052108|00000000||A filthy witcher, they say, but he helped…
+    547114|00000000||These prints are older. And deeper.
+    547115|00000000||Heavily armored… Nilfgaardians, probably.
+    547123|00000000||Ground's black, saturated with blood.
+    564921|00000000||A camp?
+    572505|00000000||Someone had a drunken picnic here.
+    565228|00000000||Nilfgaardians were celebrating. Griffin interrupted them.
+    547112|00000000||Trail's fresh. Mislav just left home.
+    452942|6fc3af95||Sheep
+    580097|00000000||Sing you a so-*hic*-ong?
+    580099|00000000||Lay me down with a barrel o' beer, and a cup in me right hand.
+    580101|00000000||And o'er me coffin sing this cheer: He died a drunk, but a gentleman!
+   1046190|00000000||Go away!
+   1046192|00000000||Go!
+   1046194|00000000||Eeeeek!
+   1046196|00000000||What ye steppin' on me for?!
+   1046198|00000000||What've we done to you?
+   1030852|00000000||Gotta say I was kind of counting on a tangible token of gratitude. A golden, clinky one, in fact.
+   1030854|00000000||I thought you acted from conviction, not greed. But if that is not the case, here. So you'll remember and tell others that Nilfgaard is generous with those who serve it willingly.
+   1030849|00000000||Got a reward coming my way?
+   1030850|00000000||Your soldiers - what's their ailment?
+   1030856|00000000||Your soldiers falling sick? What with?
+   1030858|00000000||I do not know. I do not ask. Those who take an interest are usually sent straight to the front.
+   1030144|00000000||Hey, soldier! Waiting on a late transport, by any chance?
+   1030146|00000000||What? Yes. Corporal Lyffned set out to command headquarters for medicine. He has yet to return, though he was due back several days ago.
+   1030147|00000000||Medicine's here, in this box. And this… is a three-in-one - liar, thief and your corporal's murderer.
+   1030847|00000000||Plough yourself, mutant.
+   1030149|00000000||Captain Peter will see to him… And you, Nordling, deserve our thanks. The medication will not save our men's lives, but it will ease their dying.
+   1052106|00000000||The gods sent ye!
+    594504|00000000||Greetin's, guv'nor!
+    594506|00000000||Yaaaaawn…
+    594508|00000000||Be a butcher when I'm big!
+    580086|00000000||Ehhh, you… I dunno… Huh?
+    580088|00000000||Buuuuurrrp… Akh akh.
+   1058022|00000000||Up and at 'em!
+   1058025|00000000||Hm? What… wha-what's goin' on?
+   1039152|00000000||Harsh punishment…
+   1039162|00000000||Harsh as punishment goes…
+   1039164|00000000||But deserved.
+   1039166|00000000||You know, I hated the Black Ones at first, like everybody else did. Now I'm thinkin' they might just bring order to this place - teach these layabouts some manners! But enough about that. Your reward.
+   1050098|00000000||And… I managed to save some things from the fire. Anvil's still whole, so I'm sure I can bang somethin' out on it. You need anythin', let me know. Give you a good price.
+   1039157|00000000||Villagers'll really love you, now.
+   1039159|00000000||Well, now I don't give a flyin' fuck about them.
+   1039151|00000000||Villagers'll love you, now.
+   1039146|00000000||Here you go - one village pyromaniac in the flesh.
+   1039148|00000000||Napp? You?! I knew your mum for years, charged her nary a copper! This is how you repay me?! I've had enough. Oi, soldier! A minute of your time, please!
+   1039150|00000000||No! Willis - I beg you! I-I-I was drunk… di-didn't know what I was doin'!
+   1039490|00000000||I've told you, Master Willis. We will help you rebuild once reinforcements come. The supplies have been ordered.
+   1039492|00000000||Not what this is about, mate. This here's the arsonist. The witcher found him!
+   1039494|00000000||The forge was important to the garrison. Destroying it was sabotage. No trial needed here. Just a tree.
+   1046174|00000000||Don't touch me…
+   1046172|00000000||{*Sniff sniff*}
+   1046176|00000000||That hurts.
+   1046178|00000000||Please, don't hurt us!
+   1046180|00000000||Aaaaah!
+    594486|00000000||Oh boy, oh boy!
+    594488|00000000||Show me your sword?
+    594490|00000000||Ha ha ha ha!
+    313590|acc55a20||Bandit
+   1030291|00000000||Hey! Help a fellow traveler!
+   1030288|00000000||Whoa! Master witcher!
+   1011712|00000000||Did I hear right? Word is you like to play cards.
+   1011713|00000000||I like to play, period. Dice, cards, chess… I unwind playin' games. You askin' cause you got fuck all to talk about, or are you in the mood for a round?
+   1011719|00000000||All right. Let's play. Just remember - only interested in good cards, don't want any trash.
+   1011693|00000000||Let's play.
+   1011718|00000000||We'll play, there'll come a time for that.
+   1011694|00000000||Not now.
+   1011716|00000000||What do you play these days?
+   1011717|00000000||Whatever any cocksucker wants to challenge me to. How do cards sound?
+   1011691|00000000||A game of gwent?
+   1011721|00000000||Melitele's rotting cunt! Know how long it took me to assemble that ploughin' deck?
+   1011722|00000000||You've been at this for a while - gotta know some players who are good. And, what's more, have good cards.
+   1076883|00000000||Melitele's rotting cunt! Know how long it took me to assemble that ploughin' deck?
+   1076885|00000000||Nope. Hey, know any other players who're good? And, what's more, have good cards?
+   1076456|00000000||Been hearin' a lot of late about some prick named Lambert. Supposed to have an evil fuckin' deck. You might know him, actually - he's a witcher.
+   1011728|00000000||Bit off more than you could chew, witcher. Heheheh…
+   1011724|00000000||There's Vimme Vivaldi - Novigrad banker. Been buildin' his deck for years. Women play, too, you know. Marquise Serenity, for instance… an expert player with a truly stacked deck.
+   1011961|00000000||Oh!
+   1011959|00000000||Good day!
+   1011957|00000000||Tee, hee, hee.
+   1011955|00000000||Tee, hee, hee.
+   1011953|00000000||Tee, hee, hee.
+   1011951|00000000||Outrageous!
+   1011949|00000000||Help!
+    580005|00000000||Go away… Go away!
+    580007|00000000||Gods, the Reaper's come for me…
+    344129|00000000||Horsewoman of War - what's that about?
+    344131|00000000||Folk say an omen, a beautiful phantom rides the fields at night. Looks as you described her. Armies follow her, and all who cross her path meet with misfortune.
+    344133|00000000||I can vouch for the last bit. Know where they saw her?
+    344145|00000000||No. Facts interest me, not fairytales.
+    331629|00000000||Horsewoman of War? What do you mean?
+    331627|00000000||Farewell.
+    446051|00000000||Gotta go. So long.
+    344137|00000000||No thanks.
+    344184|00000000||No thanks. Got some other things on my mind.
+    344218|00000000||Shame. I'd ask the locals, but since they can't count to ten, the rules are a complete mystery.
+    547287|00000000||Ah well, I'm here if you change your mind.
+    446053|00000000||Till next time!
+    344182|00000000||A moment, witcher. You strike me as a man of the world. Are you familiar with gwent?
+    344210|00000000||No. And I don't have time to learn.
+    344212|00000000||But the rules are quite simple. Come, let's play.
+    344135|00000000||All right.
+    344214|00000000||Hmm… Why not.
+    344216|00000000||Splendid! Here's how it's done.
+    446065|00000000||Explain the rules first, though.
+    446067|00000000||With pleasure! They're as simple as falling off a log.
+    446063|00000000||Let's play this game of yours.
+    446061|00000000||We can play.
+    415588|00000000||War reached Novigrad yet?
+    415590|00000000||No, but it's only a matter of time. Nilfgaard on one bank, Redania on the other… Drooling over the city like dogs over a juicy bone.
+    415592|00000000||Many a ruler's choked on that bone.
+    415594|00000000||True. We value our liberty in Novigrad and we know how to fight for it.
+    415610|00000000||Mhm. The scholars especially.
+    415612|00000000||The sword is not the only weapon. Do not forget, architects from our academy designed the city walls - walls no war machine has ever crumbled!
+    415586|00000000||War make it to Novigrad yet?
+    344123|00000000||Why are you here?
+    344172|00000000||Not a place I'd ever expect to find a scholar. Take it you're fleeing the war?
+    344174|00000000||Quite the opposite. Chasing it. I'm headed for the front.
+    344176|00000000||Tired of life?
+    344178|00000000||I seek knowledge, which I value more than life itself. I've a thirst no dusty old tomes can quench.
+    558259|00000000||I wish to see the Nilfgaardian invasion with my own eyes, understand it, and record it all in my chronicle, my magnum opus.
+    344190|00000000||Take my advice - go back to your books while you can. War's no game.
+    572912|00000000||No faculty meetings to attend, no tenure to gain, endnotes to compile. First soldier you see'll kill you.
+    344192|00000000||Why would he do that? Me, a neutral civilian, a scholar…
+    344194|00000000||Boots.
+    344196|00000000||Come again?
+    344198|00000000||He'll kill you for your boots.
+    344186|00000000||Go back to your books, while you still can.
+    344188|00000000||Write about the war - what it's really like.
+    344200|00000000||Interesting. We need somebody to describe war - what it's really like. Not colorful banners and generals making moving speeches, but rape, violence, and thoughtless cruelty.
+    344202|00000000||Ah, I see you lack the polish of the academy.
+    558261|00000000||Rape and cruelty are details of no import to the war's course. Trinkets on the garment of conflict, one might say.
+    344204|00000000||Hm. Tell that to the people whose houses burned down.
+    576337|00000000||What a waste of time. The earth shall revolve around the sun before you comprehend these rules.
+    344119|00000000||Got a minute?
+    344121|00000000||Why not. Aldert Geert, assistant professor in contemporary history at Oxenfurt Academy.
+    351885|00000000||Geralt of Rivia. Witcher with tenure.
+    576340|00000000||I'm looking for a woman - long hair, dressed in black and white. Seen anyone like that?
+    576342|00000000||Of course not. Unlike the populace, I know the Horsewoman of War is pure poppycock.
+    482402|00000000||Enchanted.
+    344208|00000000||Ah, you return! Shall I deal?
+    576344|00000000||Once more. There are four factions--
+    576346|00000000||Four what?
+    576348|00000000||Factions, teams, suits! Similar to clubs and spades, except each suit has its own face cards. There are also special cards…
+    576350|00000000||Wouldn't you rather play war? It's like to be near dawn 'fore you get your game in me noggin.
+    578723|00000000||If you ever find yourself in Oxenfurt and wish to play a true master, ask for Stjepan. A simple innkeep by trade, but a true maestro when it comes to gwent.
+    578725|00000000||I'll remember that. Thanks.
+    578722|00000000||Well, well. You've a knack for this game.
+    578797|00000000||An interesting round. If you desire a rematch, let me know.
+    578721|00000000||Hmm, well… It's not a game for everyone. Requires an analytical mind.
+    546640|00000000||Ground's still damp with blood. Griffin attacked the Nilfgaardians here.
+   1057967|00000000||Done all I could. Should talk to Vesemir.
+    546172|00000000||Anyone home?
+    546173|00000000||Must be out hunting.
+   1052048|e5cce503||Training Dummy
+   1009951|00000000||Leave me be!
+   1009949|00000000||Oh!
+   1009946|00000000||Greetings.
+   1009944|00000000||Hey!
+   1030336|00000000||Yeah, found your priceless chest… and an arrow in poor Asher's side.
+   1030777|00000000||No dryads in these swamps, and never known a drowner or a water hag to use a bow. So lacking any other suspects, I'm guessing--
+   1030779|00000000||Watch out! Behind you!
+   1030781|00000000||There's nothing behind me. I'm a witcher, I'd have heard it. Just like I can hear your heart. Which is pounding… like a liar's.
+   1030784|00000000||Best hope you're a better rider than you are a liar.
+   1029999|00000000||Yeah, found your priceless chest. And someone who looks an awful lot like a cart driver… with an arrow through his neck.
+   1030655|00000000||Seen through your lies.
+   1030004|00000000||Mhm. A little wet, but intact.
+   1030191|00000000||At last, fortune smiles my way! Yours as well, witcher. Here, the gold I promised you. Happy trails, now.
+   1029985|00000000||Found it. Here.
+   1030661|00000000||Know what? Be right back.
+   1030656|00000000||Be back later.
+   1029979|00000000||Oh! And? You find the box?
+    170811|72cb8ee5||Drowner
+    579955|00000000||Fuck off…
+    579961|00000000||Bleugh akh. Uuuugh! Aww, shit.
+    595913|6b1268cb||Peasant
+   1076167|be42ad66||Liesje
+   1035147|00000000||You're here, good. Bastien… his body must be here somewhere.
+   1036426|00000000||Among countless others. Wanna examine them one by one? Could take a while.
+   1036428|00000000||You needn't fret. The recruits from White Orchard painted a small flower on their shields - so as to be able to spot each other in battle. There was just a few of them. We look for the flowers, we'll find Bastien quick.
+   1036430|00000000||No offense, but… many a soldier's dropped his shield. Especially if he was on the losing side.
+   1036432|00000000||If we find the shield alone, Hussar'll catch the scent and lead us to Bastien. Come on. Sooner we get this done the better.
+   1017971|0687b403||Smith
+   1012098|00000000||Ha! What a man!
+   1012100|00000000||What?
+   1012096|00000000||Oh, it'll rain no doubt.
+   1012094|00000000||Someone help me!
+   1004729|00000000||It's not too late to repent!
+   1015217|00000000||It's not too late to repent!
+   1052074|00000000||Were it hard, slayin' that horror?
+    351604|00000000||Please, master witcher. Just go.
+    571801|00000000||*Cough* Yes?
+    571803|00000000||Brrr… Got the shivers.
+    571805|00000000||Think I'm comin' down with a fever.
+    303055|0037c652||Wolf
+   1022492|00000000||The infamous well…
+   1028029|00000000||Strange… she's not attacking.
+   1022487|00000000||A body? Can't reach it from here.
+   1029359|00000000||Strange, no sign of a ghost. Maybe it only shows at a certain time of day.
+   1031006|00000000||Good place for a bonfire… except there's nothing here to burn.
+   1031043|00000000||She fled… but she'll be back tomorrow. Something's keeping her here.
+   1031214|00000000||Whoa - got too close.
+   1028155|00000000||A bracelet. Examine it later.
+   1058220|00000000||Grass around the well's scorched.
+   1057952|00000000||Noonwraith won't stray too far from the well.
+   1058190|00000000||Body's dried to a crisp. Signs of burns.
+   1058197|00000000||Probably got too close to the well.
+   1058192|00000000||Noonwraith did this.
+   1058202|00000000||A journal. Might be useful.
+   1058217|00000000||Need to find out what happened here.
+   1058672|00000000||Blood stains, barely visible. Someone was dragged this way. Someone who was still alive.
+   1058656|00000000||Blood stains, almost faded. But the line's taught. Something's not right.
+   1058305|00000000||Something's tied the noonwraith to this place. An object… something she needs before she'll leave this world.
+   1058224|00000000||A noonwraith. Wonder what it's doing here.
+   1058210|00000000||All signs point to a noonwraith.
+   1058324|00000000||Need to prepare for this fight. Brew some wraith oil, drink some potions.
+   1058334|00000000||She's gone… for good.
+   1058439|00000000||That bracelet… might be what ties the woman's spirit to this place.
+   1058658|00000000||A man… stabbed with a knife, died on the spot. Animals fed on his body, picked his skeleton clean.
+   1058664|00000000||More blood stains over there. But it's not his blood.
+   1058666|00000000||Palm prints in blood. Small hands - a woman's. Someone dragged her out. She was wounded, fought for her life.
+   1058668|00000000||No body in sight, but might still find some tracks. Under the right conditions, blood stains can remain visible for decades.
+   1058433|00000000||Journal I found in the abandoned hut… could be the key to this story.
+   1071450|00000000||Hm, journal might deserve another look.
+    571984|00000000||Hm.
+    571986|00000000||*Sigh* Horrid times, horrid times.
+    571988|00000000||Yaaaaawn…
+   1034186|00000000||Somethin' moved… Hey! Anyone home?!
+   1034185|00000000||Oh, last time I lend out anythin', I swear it!
+   1052116|00000000||The Black'uns didn't help, Bloody Baron didn't help. But you - you helped.
+   1010700|00000000||Can girls become witchers, too?
+   1010696|00000000||I'm not afraid.
+   1010694|00000000||Run!
+   1090866|00000000||Dribblin'.
+   1090868|00000000||Greetings.
+   1090870|00000000||Where'd you come from?
+   1090872|00000000||Oy!
+   1090874|00000000||Run! Leg it!
+   1090876|00000000||Mercy…
+   1052092|00000000||You must not fear nothin', eh? Thank ye!
+    571932|00000000||Let us pray.
+    571934|00000000||Our world will burn! Burn in the Eternal Fire!
+    571936|00000000||Fall upon your knees before the Eternal Fire!
+    472898|00306a9c||Girl
+    571783|00000000||Oy-oy-oy.
+    571785|00000000||A day like all others…
+    571787|00000000||Me bones're achin' again.
+    571881|00000000||Convert, brother.
+    571883|00000000||The Eternal Fire will guide us…
+    571885|00000000||The Eternal Fire will light our way!
+    346241|fd7deb62||Adventurer
+   1036408|00000000||I've no desire for small talk. My brother… he's still missin'.
+   1035123|00000000||Looking for a woman. Raven-black hair, violet eyes? Came riding through from the direction of Willows.
+   1035124|00000000||Lookin' for someone myself. My brother. Fought the Black Ones just outside the village. Big battle. Then… just disappeared.
+   1033232|00000000||Do that often? Talk to your dog?
+   1033233|00000000||It's my brother's, Bastien's. But… guess he's mine now.
+   1036370|00000000||See… Bastien fought the Black Ones in a battle - just outside the village. Haven't had word of him since.
+   1040536|00000000||I told him - do like I did, lose a finger or two so they won't recruit you. Too damn afeared, he was. Bloody hell…
+   1033238|00000000||Fine, I'll help you. Just… been a few days since the battle. Chances we find your brother alive're slim. Very slim.
+   1033239|00000000||Who would've thought. But… I want to find his body, at least. So Bastien don't rot there in the sun with the Black Ones.
+   1036582|00000000||Meet me on the hill overlookin' the battlefield. We'll move on together from there.
+   1017005|00000000||I'll help.
+   1017006|00000000||Sorry. Can't help you.
+   1017009|00000000||Sorry. Can't help you.
+   1035130|00000000||Sorry. Can't help you.
+   1035129|00000000||Walked the battlefield?
+   1036398|00000000||I'd walk the battlefield if I were you.
+   1036400|00000000||I did. Sea of corpses… and corpsers, feedin'. Someone told me they're afeared of fire, so I took a torch, tried to chase 'em off. Horseshite, I tell you. Would've ended up eaten alive if it weren't for Hussar here.
+   1036402|00000000||Listen… guessin' you carry those swords for more than show. Come with me, keep the ghouls off. Help me find Bastien, and I'll pay you well.
+   1036410|00000000||Offer still stands. Help me find Bastien, and I'll throw you a few coins.
+    533225|00000000||Sure. Griffin's not going anywhere.
+    562344|00000000||No, dogs might, though. So step careful, now. Come on.
+    533223|00000000||Why not.
+    533226|00000000||Blades don't worry me. Time does. I'm in a hurry.
+    533227|00000000||Can't fault you for it. Come on, then. I'll show you.
+    533224|00000000||No time.
+    562348|00000000||I'm hunting bigger game. The Nilfgaardians the griffin killed - where'd you find them?
+    562350|00000000||Ah, I see… You a witcher? That monster slayer they's talkin' about in the village?
+    562352|00000000||Mhm.
+    562354|00000000||I'll show you, sure. But, er, I gotta kill those mutts 'fore they hurt someone.
+    562356|00000000||Will you help? That is, if you don't mind bluntin' your silver blades on 'em.
+    562254|00000000||Where'd you find the Nilfgaardians' bodies?
+    562255|00000000||More dangerous than wolves? C'mon.
+    562257|00000000||Dogs more dangerous than wolves? Don't think so.
+    562259|00000000||It's the truth. Know why?
+    562261|00000000||No, but I guess you're about to tell me.
+    562263|00000000||Wolves hunt to fill their bellies. Wild dogs kill for sport.
+    562265|00000000||Just like humans.
+    562267|00000000||Aye, they've learned much from us. Why not cruelty, too?
+    533194|00000000||You Mislav?
+    533195|00000000||Shhh.
+    562249|00000000||Hear that?
+    562251|00000000||Wolves? No - wild dogs.
+    562253|00000000||Yes... more dangerous than wolves.
+   1052078|00000000||Got a problem - send for Geralt of Rivia.
+   1073068|00000000||Dad, come on!
+   1073070|00000000||Dad, you gotta get up…
+   1073072|00000000||Dad! We gotta go home!
+   1073009|00000000||You might let up on the young ones. War's over. No reason to work them hard.
+   1073011|00000000||Don't teach your gran to suck eggs. Can't know what the king'll decide.
+   1073013|00000000||We drove the Black Ones south of the Yaruga. What next? Will we drive them south of the Alba?
+   1073015|00000000||My lads'll be ready, whatever comes.
+   1074775|00000000||We had to bury 'em, it was the decent thing to do. I'm just aggrieved we didn't know no names.
+    571875|00000000||Witcher. Pff.
+    571877|00000000||No monsters in Novigrad! None!
+    571879|00000000||You'll starve to death here, monster slayer.
+    499090|00000000||Show me what you're peddling.
+    499065|00000000||Lemme see what you got.
+    421033|00000000||Like you to craft something for me.
+   1086552|00000000||Craft something for me?
+    514733|00000000||Been a while since I played cards with a subject of His Imperial Majesty. Game of gwent? Let's lay 'em down.
+   1086463|00000000||Cards - what do you say we play a few rounds?
+    499069|00000000||So long.
+    499067|00000000||See you.
+    499066|00000000||How's morale around camp?
+    499093|00000000||Morale holding up around here? You boys think you can win this thing?
+    499094|00000000||Ah, a spy after all. Or one to stir trouble.
+    499095|00000000||Neither, just curious.
+    499096|00000000||Riiight. Well, tell anyone who cares we will win this war, because Radovid is mad, as everyone knows, and we've an extraordinarily well-drilled and well-supplied army.
+    514760|00000000||Incidentally, did you wish to buy something?
+    499082|00000000||Password.
+    514466|00000000||Dunno any.
+    499084|00000000||So, out for a little walkie, eh? Counting the emperor's swords to lull you to sleep? Well, in the army we've a place for nosy ramblers  - the scaffold.
+    499085|00000000||And thick-skulled quartermasters? They got a place?
+    499086|00000000||Hehehe… Er, you're clearly skilled at banter. And haggling? You got a knack for that as well?
+    499089|00000000||Are you here to spy or haggle?
+    533283|00000000||A stream, amber waves of grain… charming place. Perfect for an ambush.
+    533284|00000000||I know how to choose 'em.
+    565496|00000000||So, ready?
+   1046217|00000000||So, tell me… once we find Yennefer, what'll you do? Got your eye on a contract?
+   1046219|00000000||No. I'll go to Kaer Morhen.
+   1046221|00000000||A little early to settle in for the winter.
+   1046223|00000000||Snows are a way off, yes… and that's what worries me.
+   1046235|00000000||Nilfgaard's crossed the Pontar in the east. Puts them maybe a week's march from Kaer Morhen. If they reach the valley before snows can cover the passes… well, we need to cover our tracks, hide our paths.
+   1046237|00000000||Speaking of winter, and wintering - think you'll come this year?
+    565621|00000000||Maybe. Might bring a guest.
+    533287|00000000||Let's start. Wind's good, bait's scent will spread quickly.
+    565559|00000000||Now all we have to do is wait.
+    572539|00000000||Come on. We can cower in the shade of those birches.
+    533285|00000000||We can start.
+    533309|00000000||I need a minute.
+    533310|00000000||Ehh, drag a man outta the tavern, and then… Fine, but hurry.
+    533286|00000000||Give me a bit.
+    565493|00000000||Well, slowpoke? Ready?
+    533298|00000000||Hear that? It's close.
+    565563|00000000||Let's go give it a warm welcome.
+    576089|00000000||Wait. Take this.
+    576091|00000000||A crossbow?
+    576093|00000000||Won it in a card game while you ran around. Might come in handy.
+    576101|00000000||How about that. Always lectured us on the evils, but you're a gambler yourself.
+    576095|00000000||Gambling? Well, well.
+    576094|00000000||Took you for a traditionalist.
+    576097|00000000||A witcher with a crossbow? We breaking with tradition?
+    576105|00000000||Stop talking. Got a griffin to kill.
+    451163|cc663b8e||Trader
+   1049576|00000000||{N'ees tedd a thu. } [I've no time for you.]
+   1049574|00000000||{Hael Ker'zaer. } [Long live the emperor.]
+   1049578|00000000||{Bu'rac. } [Bumpkin.]
+   1049580|00000000||{Gàrdan! } [Guards!]
+   1031738|00000000||Let's go to Hovel, then. They say the well's haunted no more.
+   1031740|00000000||Sure, not so sure - who knows? Will you go to the well in Hovel, instead?
+   1031742|00000000||Not on your life. I'd rather be ill than disturb a ghost!
+   1031431|00000000||I can't decide - should we draw it or no?
+   1031433|00000000||We gotta make soup outta somethin'.
+   1031435|00000000||But Tosley says he'd not give his dog this water. Not with so many corpses rottin' in it. It's sure to be poison.
+   1054153|5b5cc0b4||Cow
+    595828|aa66bb13||Nilfgaardian Messenger
+    562914|00000000||We must requisition a share of your harvest.
+    562915|00000000||Aye, Your Excellency.
+    562971|00000000||I know there is little left in your granaries. But soldiers are men, too, and so they must eat, correct?
+    562981|00000000||Aye, Excellency.
+    571849|00000000||Go, begone!
+    571851|00000000||Temple Guard let even you into the city…?
+    571853|00000000||Degeneracy… the downfall of civilization… moral decay…
+   1058339|00000000||And the bracelet.
+   1058342|00000000||Igni.
+   1058326|00000000||You destroyed it! Destroyed it! Eeeeeergh!
+   1031845|00000000||Hey… I think it worked.
+    530680|00000000||Round of gwent?
+    522285|00000000||I never refuse.
+    522290|00000000||Let's play.
+    522256|00000000||Then let's play.
+    522291|00000000||Tell you what - not right now, but I'll be back.
+    522257|00000000||Actually, hold that thought.
+    522288|00000000||Up for some gwent?
+    522289|00000000||Course!
+    522258|00000000||Let's play gwent.
+    522341|00000000||Seems I won.
+    522342|00000000||A right fuckin' shock given your frankly amateur deck. Here, take this card, you need it.
+   1076510|00000000||Ye'd do well to fix your collection. It's downright porous. Don't need ye bringin' me shame, got Dandelion for that. Ye might skim somethin' off your mate, Roche. He's said to have good cards, that one.
+    522340|00000000||Ach, Geralt, Geralt. Come back for a rematch sometime - we gotta work on your gwent skills.
+    522344|00000000||Try it out on Vimme Vivaldi, at once, if you can. If things go your way, you could win a unique one off him.
+    522346|00000000||Or try your luck with that fogey in Velen. They say he lives along the road to the Nilfgaardian camp. Word is he's got great cards, that one.
+   1073049|00000000||Radovid was mad, true. But to have a Novigrad bandit as our ruler…?
+   1073051|00000000||He'll continue robbing us. It will just be the law now!
+   1073053|00000000||Wrong, gentlemen merchants, wrong. Dijkstra's a whoreson, that's clear, but a decent and orderly whoreson.
+   1073055|00000000||Never been known to serve himself, never stolen even half a crown from the state coffers.
+   1073057|00000000||Not half a crown.
+   1049545|00000000||{Heer? } [Sir?]
+   1049551|00000000||{Squaess, que? } [I'm sorry, what?]
+   1049547|00000000||Argh.
+   1049549|00000000||{Ess bloede joc?}[Is this some bloody jest?]
+   1044930|00000000||Of course. When armies pass, necrophages follow. Let's go before any more show up.
+    576436|00000000||Ever tell you about this sorcerer I knew? Couldn't stop talking about how useful they are as creatures.
+    576438|00000000||Because you can brew potions from their blood?
+    576440|00000000||Heh, no. Because by eating rotting corpses they prevent epidemics.
+    576442|00000000||Hmph. Did he know they eat the living as well?
+    576444|00000000||No. Really upset him, too… His theory collapsed.
+   1048275|00000000||So… a griffin this close to the village? Strange.
+   1048277|00000000||My thoughts exactly. In a forest or the mountains, sure, but here? And near the main road?
+   1048279|00000000||Maybe it's the war. Corpses everywhere, the stench of blood, burnt flesh… Drives monsters crazy sometimes.
+   1048281|00000000||Men, too.
+   1048283|00000000||We need to watch ourselves in White Orchard. And we should leave as soon as we learn anything.
+    167084|00000000||War's not exactly going our way.
+    167086|00000000||We have a side?
+    167088|00000000||The Northern Realms.
+    167090|00000000||Radovid's Realms, don't you mean? Temeria and Aedirn are no more.
+    173631|00000000||Radovid's pledged to restore the old borders - soon as he wins the war.
+    173633|00000000||Believe that?
+    331583|00000000||Hmph. Gotta believe something. It's what keeps us going.
+    594282|00000000||Heehee!
+    594284|00000000||Once there was a little frog… Ribbity-rok-rok, ribbity-rok….
+    594286|00000000||Achoo!
+    580019|05b6c5a4||Drunk
+   1062204|59c422e7||Drunk
+   1039475|00000000||Decided to help you anyway. Here - your frying pan.
+   1058263|00000000||Soot's just what the gentleman needed. He scraped it off and made ink out of it.
+   1057779|00000000||Dead. Round up a few boys and bury him outside the village. Deep, so the necrophages don't dig him up. And take my advice… don't mention this to the Nilfgaardians.
+   1035315|00000000||Hang about! You've earned a token o' thanks. Here, sonny - for the road.
+   1034525|00000000||Strangled… by an expert. Round up some men and bury him outside the village. Deep, so the corpse eaters don't get at him. And take my advice… don't mention any of this to the Nilfgaardians.
+   1034524|00000000||And… and the other fellow?
+   1034523|00000000||It was the soot the man needed. He scraped it off to make ink. Must've had an urgent letter to write. Urgently burned some other documents, too.
+   1034522|00000000||Mine…? But mine were black with soot! And I could see meself in this 'un if I wanted. But them years're past…
+   1034521|00000000||Here - your frying pan.
+   1074113|00000000||…And may the war end at long last. May Thomas and Bert come home, safe and sound…
+    421043|00000000||Huh. Farewell.
+    421039|00000000||Farewell.
+    421037|00000000||What're you offering?
+    421041|00000000||Got anything interesting?
+    421035|00000000||What?
+   1034538|00000000||Found the pan, have ye?
+   1034541|00000000||Careful now, dearie!
+   1034542|00000000||All right, grandma.
+   1034535|00000000||But when I gab to meself, they say I'm going barmy.
+   1034533|00000000||What's that, dearie?
+   1034534|00000000||Nothing, nothing.
+   1058581|00000000||Sweetie… you were to find me pan, not bother me.
+   1058583|00000000||Mmm, fry up a nice whitefish for supper… or a pike!
+   1035269|00000000||You Dune? And lemme guess - this Hussar?
+   1035270|00000000||Yes… What is it?
+   1035259|00000000||I found Bastien. He survived the battle, hid in a ruined hut in the forest near the battlefield.
+   1035261|00000000||I can't believe it! I was sure I'd never see him again. Gods be praised!
+   1035262|00000000||Yeah, Nilfgaardians, too. Or at least one of them… Farewell.
+   1040547|00000000||Well, found her trusty pan, might as well give it to her.
+   1039407|00000000||Ah, the priceless frying pan. Hm, scrubbed clean.
+   1039409|00000000||Looks like the mystery man didn't need the pan so much as the soot off it… to make ink, write letters.
+   1052102|00000000||Ehh, witcher, if not for you…
+   1038985|00000000||Ow! Ow! Aahhh! Ahh… Sto-stop! I give up! Dammit… you broke my nose.
+   1038987|00000000||But not your legs, so let's go see the smith. And take my advice - don't try anything else.
+   1031753|00000000||Say, the castlette where the Nilfgaardians have pitched camp - whose was it before? Which family's?
+   1031755|00000000||It was the Lavalles' once, but their line ended. Lord Florian died young, with no heir. Though he'd not have had one, even if he'd lived to be a hundred.
+   1031757|00000000||Why is that? Is it a spicy story?
+   1031759|00000000||It is, indeed. But I'm not one to speak of such obscenities. You should ask Mislav, he's got no such qualms.
+   1029528|00000000||If not for him, Bastien'd be dead.
+   1029536|00000000||Bastien only made it with the Black One's help. Maybe you oughta show him Nordlings aren't as barbarous as Nilfgaardians make us out to be.
+   1029538|00000000||Well… I could give him our pa's clothes, teach him to work the field. But… that accent. Fine, I'll take him in.
+   1029540|00000000||Thank you, witcher. Your reward… and the gods protect ye.
+   1029530|00000000||Your brother's right, Bastien. Nilfgaardians know no mercy. They live by their law. A law that's cruel as hell towards any who hide deserters, or aid them.
+   1029532|00000000||Rhosyn… I'll bring you food. And an herbalist. You'll see, in a week or two you--
+   1029534|00000000||Just go.
+   1029527|00000000||Your brother's right. It's too risky.
+   1035242|00000000||Bastien! Is he… Has this Nilfgaardian captured you?
+   1036458|00000000||No. He saved my life. I got a cut to me side, and then got hit in the head. Couldn't see anything. Rhosyn here found me as… as he crawled across the battlefield. His leg's twisted. And so we were - a blind man leadin' a cripple. Found this place.
+   1036460|00000000||I'm takin' you home. We need to see to these wounds.
+   1036462|00000000||I won't leave Rhosyn here. Alone, he'll die. And he can't go back to his own. He's deserted, they'll hang 'im.
+   1036464|00000000||And what if they find him with us? They'll hang us all, my Liesje included! No, the Black 'un stays here!
+   1057713|00000000||You're back! So… will you help us after all?
+   1057711|00000000||Sorry. Got more urgent matters to tend to.
+   1057709|00000000||Sorry. Just don't have time for this.
+   1057708|00000000||See what I can do.
+   1036436|00000000||See what I can do.
+   1035278|00000000||We… we fought in that battle. Huge it was, you heard? They had me killin' in Temeria's name, and Rhosyn in Nilfgaard's. Ordered to slay each other. We decided to run away.
+   1058184|00000000||Listen, I can't walk. And Rhosyn they'll hang for desertion if he happens on any of his own. Would you find my brother, tell 'im I'm alive? His name's Dune. He might have a dog with 'im - Hussar. Please… We'll die if he don't help us.
+   1028632|00000000||But there is more. My lieutenant demanded we defecate on command. Ballista bolts landing all around, and all he could say was "A soldier with a full stomach will not step onto the battlefield. Now shit - that is an order." Can you believe it?! The cretin!
+   1029513|00000000||Stop hehe-- Ah! Yo-you're killing me. My-my ribs - haa, it hurts to laugh!
+   1029516|00000000||That needs a tourniquet. But first… wanna explain what's going on here?
+    521627|00000000||They say you play cards.
+    521628|00000000||They don't speak idly, then. Times're tough, and rare cards're often worth more than a fistful o' gold. So, will ye play?
+    521648|00000000||Let's.
+    521563|00000000||Let's play.
+    521649|00000000||Got more important things to tend to at the moment.
+    521564|00000000||Not now.
+    521637|00000000||Innkeep, up for a round of cards?
+    521638|00000000||Course I am. Shall we play?
+    521626|00000000||How about a game of gwent?
+    521650|00000000||Must admit, I scoffed and lost. Well, stupidity's got its price. My prize card's yours.
+   1073379|00000000||Ah, damn. Lost.
+    521657|00000000||Ye might look to your deck, change it up, do better.
+    521651|00000000||Who else plays gwent around here?
+    521652|00000000||Haddy - little scoundrel down Midcopse way. And afore Temeria fell, well, Vernon Roche were famous for his deck. Don't know that he still lives, let alone if he plays.
+   1033659|00000000||Had me scared, brother. Thought I'd need to bury you next to the parents.
+   1033185|00000000||Stop whimpering, Hussar. We'll look for Bastien later, once it's safe.
+    539439|00000000||We meet again.
+    539038|00000000||Thank you for saving me.
+    539442|00000000||People say all kinds of things about witchers, but I've always known yours to be an honorable guild.
+    539444|00000000||See you managed to salvage some goods.
+    539446|00000000||Yes, but I await the repair of my wagon. As time passes, my losses grow. Do you need something? I'll let it go half-free.
+    539041|00000000||Take care.
+    539029|00000000||So long.
+    539028|00000000||What're you offering?
+    539040|00000000||Lemme have a look at your stock.
+    539039|00000000||Greetings.
+   1076255|97ef991e||Merchant
+   1031810|00000000||It's rainin', it's pourin', emp'ror Emhyr's snorin', he bumped his head when he went to bed and wet himself come mornin'.
+   1031812|00000000||What? What'd you say?! Who taught you that?!
+   1031814|00000000||Uh - Chetty.
+   1031816|00000000||Now listen careful. You're never to sing that rhyme again. Never. And you're not to play with Chetty no more.
+   1031818|00000000||But Chetty's my best mate!
+   1031820|00000000||Chetty's a little fool who'll get us all killed. I see you with him again, and you'll regret it!
+    543349|00000000||Nice meeting you.
+   1049974|00000000||Show me what you got.
+   1049979|00000000||Show me your wares.
+   1049978|00000000||Like you to forge something for me.
+   1049980|00000000||Need you to craft something for me.
+   1049975|00000000||So long.
+   1049991|00000000||Farewell.
+   1049981|00000000||How's the new forge?
+   1049983|00000000||New forge any good?
+   1050865|00000000||Splendid. Nilfgaardians brought a two-chambered bellows from Mahakam, then sent to Vizima for a crack builder. Fellow built a brick hearth and a chimney in no time!
+   1050867|00000000||Only thing is… the local folk don't buy from me no more. They ride to Kozlitz, half a day's road. Even though the duffer there's never forged a decent hoe in his life.
+   1050869|00000000||But… he's a human. That it?
+   1050872|00000000||Be careful, Willis. And if the tide turns and Nilfgaard abandons White Orchard, you leave with them. Humans won't forgive you for that boy's death.
+   1049969|00000000||Greetings. Got anything in stock besides hoes and horseshoes?
+   1049971|00000000||Course I do. Vizima or Mahakam this ain't, but I'm as good a smith as any.
+   1049972|00000000||A return customer! Welcome! What can I do for you this time?
+    571837|00000000||Worra up to, scamp?
+    571839|00000000||Make friends with the bathhouse, 'cause what's waftin' off ye… Ugggh!
+    571841|00000000||That gray mop on your head could use a washin'.
+   1031776|00000000||The Goodmans' boy knows a merchant who traveled to Nilfgaard once. Ooh, the strange things he saw…
+   1031778|00000000||Yeah? What things?
+   1031780|00000000||They don't live in separate huts, but all in one big 'ouse, like ants in an anthill.
+   1031782|00000000||And just like ants, they blindly serve and obey. All there work from dawn to dusk, knowing no rest or comfort.
+   1031784|00000000||Is that how we're gonna live now?
+   1031786|00000000||Must be. Tavern'll be first to go, just you wait. Then they'll ban hooch-makin' altogether. And then they'll start floggin' us about the fields, rain or shine!
+   1086141|105499c3||Hen
+   1052100|00000000||How 'bout stayin' on here for good, witcher?
+   1072974|00000000||Blessed be our good King Radovid!
+   1072976|00000000||Eternal Fire protect and keep him!
+   1072978|00000000||Blessed be his legions of men!
+   1072980|00000000||Eternal Fire protect and keep them!
+   1072983|00000000||Holy Flame, Sacred, Immortal! You gave us strength to drive the foe from our gates!
+   1072985|00000000||Thanks be to the Eternal Fire!
+   1072987|00000000||Holy Flame, Sacred, Immortal! You gave us strength to drive the foe far south!
+   1073061|00000000||Thanks be to the Eternal Fire!
+   1090912|00000000||Someone have mercy!
+   1090914|00000000||Aaaaa!
+   1090916|00000000||Hey now!
+   1090918|00000000||Cloud musta burst.
+   1090920|00000000||How've you been?
+   1090922|00000000||We shouldn't… we can't lose hope.
+    571831|00000000||What is it?
+    571833|00000000||Eternal Fire…
+    571835|00000000||Now where'd you get them catty peepers?
+   1056859|00000000||Told you, witchers only look tough.
+   1056861|00000000||I'm supposed to believe he kills monsters?
+   1056857|00000000||What a twat!
+   1052098|00000000||After what ye done for us, you got a friend in me. Always.
+   1090902|00000000||Don't kill me…
+   1090904|00000000||You gone daft?!
+   1090906|00000000||Oh!
+   1090908|00000000||A good to ye.
+   1090910|00000000||*Sneezes* Some malady's tryin' to grip me.
+    172316|3a2616f8||Witch Hunter
+   1052068|00000000||Have ye drove off all the monsters, then?
+    571813|00000000||You!
+    571815|00000000||You'll frighten me kiddies!
+    571817|00000000||The ol' gran shat and shat, holdin' tight to her hat…
+    592086|00000000||{Larwm! Aaaaaaa!}[Help! Aaaaaa!]
+    592088|00000000||Out of my way!
+    592090|00000000||We have much work to do here. Quite a lot.
+    592092|00000000||Discipline. That is what you folk lack.
+    592094|00000000||{E'er y glòir. } [Honor and glory.]
+    592104|00000000||{Glòir aen Ker'zaer! } [Glory to the Emperor!]
+    592096|00000000||Drop your sword! At once!
+    592100|00000000||What do you want, wanderer?
+    592098|00000000||You'll not get food, not from me.
+    592102|00000000||Does the sun ever shine in this land?
+   1071821|00000000||{Quess'aen a va?! } [What are you doing?!]
+   1071823|00000000||{Veldi math.}[Very well.] You asked for it.
+   1072780|00000000||Hm. Yes.
+    571997|00000000||Step away, blasphemer!
+   1031575|00000000||Where are the hunters?! We've another for the pyre!
+    571999|00000000||Ploughin' witchfiend, shitarsed mutt.
+    572001|00000000||A pyre. That's what awaits you, freak of nature.
+    546207|00000000||Griffin's nest. What remains of it, at least.
+    564682|00000000||Corpse is a couple of weeks old. Still alive when the griffin brought him here. Took a long time dying.
+    564710|00000000||Bones. Horse, dog… human. A few months' worth.
+    543909|00000000||Burned. Only a human could do this.
+    571807|00000000||You, whaddaya want?
+    571809|00000000||You could make yourself useful.
+    571811|00000000||That mug's a fright…
+   1052110|00000000||I ever have a son, I'll name him Geralt.
+    592059|00000000||{Yeá. Faill vear'thainn. } [Of course. It's drizzlin' again.]
+    592066|00000000||{Bloede Nordling. } [Bloody Nordling].
+    592076|00000000||Poor, dark and putrid.
+    592070|00000000||Hehehehehe…
+    592063|00000000||{Hael Ker'zaer!}[Long live the emperor!]
+    592061|00000000||{E'er y glòir. } [Honor and glory.]
+    592064|00000000||{Que? } [What?]
+    592074|00000000||Step away.
+    592068|00000000||{Va vort! } [Begone!]
+   1071819|00000000||Calm down, vatt'ghern.
+    592072|00000000||{Aen Ard Feain! } [By the Great Sun!]
+   1071815|00000000||Sheathe your sword, vatt'ghern.
+   1071817|00000000||I warned you.
+   1072778|00000000||{Math. } [Better.]
+    571991|00000000||Glory be to the Eternal Fire.
+    571993|00000000||I could go for a beer.
+    571995|00000000||Ugh, I'm hungry.
+   1073000|00000000||So? You interested? They're givin' away parcels near Cleves, Maribor, Carreras, even…
+   1073002|00000000||Soil's deep dark there, fertile… I'm ready, ready to hang my sword over the mantle, take to workin' the land.
+   1073004|00000000||What of the Temerians who live there?
+   1073006|00000000||What of them? They'll have to resettle elsewhere. Folk of Temeria've got a debt to pay - we brought them fraternal assistance.
+   1057706|c876372f||Rhosyn
+    549289|00000000||It's about to dive!
+    549290|00000000||Damn! It's fast!
+    549292|00000000||Bleeding. It'll weaken soon.
+    549291|00000000||Don't let it get away!
+    533311|00000000||Watch out!
+    565941|00000000||Like what?
+    565947|00000000||For example?
+    565949|00000000||Upward vertical strike - it's too obvious.
+    565951|00000000||But more on that later. Take the griffin's head to the Black Ones, I'll ready our horses.
+    565953|00000000||Meet me at the inn.
+    565943|00000000||Man spends his whole life learning.
+    565945|00000000||Not a witcher. Unless he doesn't want to live long.
+    565940|00000000||Live and learn.
+    533312|00000000||Not bad, not bad.
+    565935|00000000||Though you could stand to improve some things.
+   1012244|00000000||My mother likes you.
+   1012241|00000000||We're going out to hunt trolls.
+   1012239|00000000||Grandma! Grandma!
+   1075115|00000000||Show me what you got behind the counter.
+   1075113|00000000||Show me what you got.
+    167190|00000000||Looking for a woman. Raven-haired, violet eyes. Dresses in black and white. Riding in from Willoughby.
+    167226|00000000||And, uh, strange as it sounds - lilac and gooseberries, might've smelled that.
+    167228|00000000||I've not seen nor smelt such a lady. Believe I'd remember.
+    416891|00000000||Yeah. Especially hard to forget this one.
+    167230|00000000||Plenty of travelers about, though, folk from all over. Might be worth your while to ask after her.
+    167198|00000000||Looking for a woman…
+    574969|00000000||There a contract on that griffin?
+    574997|00000000||Nay, not at the moment.
+    574999|00000000||Used to be, soon as a beast'd built a nest nearby the ealdorman'd start a collection, or go to the lord for help.
+    575001|00000000||Now the ealdorman don't use the privy without askin' the Black Ones' permission first. And seems they hanged the lord… So, no contract.
+    575003|00000000||Shame. We might have done something, but not for free.
+    574966|00000000||There a contract on the griffin?
+    548083|00000000||Master witchers, would you be of a mind to kill the griffin? Beast's a scourge on our land.
+    548422|00000000||Only killed livestock at first, but it's got a taste for human flesh of late. We're afeared to set foot outdoors.
+    548085|00000000||If someone'll pay us, won't say no.
+    548087|00000000||Help you bandage that up?
+    548089|00000000||Please. I'm not decrepit yet.
+    548091|00000000||Then I'll ask about Yennefer.
+    343550|00000000||Mhm. Just remember - we'd rather not draw any attention.
+    575009|00000000||Thanks. For everything.
+    416897|00000000||Thanks. For everything.
+    167200|00000000||Pretty busy place.
+    548093|00000000||Pretty busy place you got.
+    548095|00000000||Nation's on the move. Some search for kin, others just want to get out of the way of the armies. They all need food, drink, and a night's rest in warmth.
+    548097|00000000||So, war's been good for your trade?
+    548099|00000000||Aye, so far. But it'd be best to know peace again. Times like these you never know what tomorrow will bring.
+    548584|00000000||One mean beast.
+    548586|00000000||Mean? Light way for a hunter to put it! Clawed Lena so bad, poor thing's one foot in the grave…
+    548588|00000000||But, does no good to wallow in misfortune. How can I be of service?
+    548590|00000000||With a drop of vodka for me.
+   1075229|00000000||And you? Something to wet your tongue?
+    548576|00000000||Ran into your kinsman, Bram.
+    548578|00000000||Bram? How is he?
+    548580|00000000||Alive. Sends his regards.
+    548582|00000000||Master witchers… food and drink on the house. What can I get you?
+    166002|00000000||Beg your pardon for those thugs.
+    343548|00000000||No need. We're used to it.
+    167180|00000000||Folk're jumpy 'round here. Armies just passed through, now a griffin's prowlin' about…
+    548074|00000000||Mhm. Already had the pleasure.
+    351762|00000000||What?
+    351764|00000000||Take that down before there's trouble.
+    351766|00000000||That is a coat of arms - the Temerian Lilies! They've a right to hang there!
+    351768|00000000||This ain't Temeria no more, old man. It's Nilfgaard now.
+    351770|00000000||My arse, it is!
+    351774|00000000||Wha? Witchers…?
+    351776|00000000||I'll not drink with weevil-arsed freaks.
+   1064988|00000000||[Take the coin.]
+   1064989|00000000||[Turn down the coin.]
+   1044377|00000000||Fulfilled my end of the bargain. Your turn. Where'd Yennefer go?
+    562577|00000000||To Vizima.
+   1044350|00000000||She was a day's ride from here the whole time, under my nose? Might've said so.
+   1044378|00000000||Yes, I might have. But you would not have killed the griffin. Tit for tat.
+    562580|00000000||Halt!
+   1044380|00000000||We are not done. It's yours, this gold. I would not want you to say you were inadequately compensated.
+    562566|00000000||Killed the griffin.
+    562567|00000000||No more Captain Nice Guy?
+    562586|00000000||Guess you've dropped your good uncle act.
+    562588|00000000||It was no act. I extended a hand to these people. They spat on it.
+    562590|00000000||Could it be 'cause it held the sword that killed their loved ones?
+    562592|00000000||Hah! A moralist! And what would you do in my stead?
+    562594|00000000||Wouldn't ever be in your stead.
+    562596|00000000||Tell me why you've come.
+    562549|00000000||What the hell is this?
+    562551|00000000||R-rye.
+    562553|00000000||You take me for a blind man or a fool? This grain is rotten.
+    562555|00000000||I -... I didn't know.
+    562557|00000000||So a fool. Dammit, you never learn…
+   1046133|00000000||Military codex, article two, section three: "For the delivery of defective goods - fifteen lashes with a knout." Make it so!
+    562562|00000000||No, no, no! By the gods, no!
+    562565|00000000||What?
+   1005974|00000000||Why do they call you the White Wolf?
+   1005976|00000000||Wow! Look!
+   1005972|00000000||Nooo!
+   1005951|00000000||Wow!
+   1005949|00000000||Let's go kill some monsters!
+   1005946|00000000||I'm not scared! I'm not!
+   1062742|00000000||She's a fever, has faintin' spells… She's in a bad way, master, a bad way.
+   1062744|00000000||Thank you. We'd be nailin' 'er casket together if it weren't for you.
+   1062766|00000000||We had one child, our little Mandy. Gods saw fit to take 'er.
+   1052070|00000000||Finally, somebody took pity. We thank ye.
+   1005933|00000000||Hello, Geralt!
+   1005931|00000000||I'm a witcher! Ha-ya!
+   1005929|00000000||What was that?
+   1005927|00000000||M-mommy!
+    491398|00000000||The rain will cleanse the city's streets of filth.
+    495260|00000000||This murderer's a demon sent by vengeful mages.
+    495262|00000000||Where did you hear that?
+    507327|00000000||Is it true Menge fornicated with a witch?
+    507329|00000000||Eternal Fire! We've spoken about this already.
+    491400|00000000||Praise the Fire.
+    491402|00000000||Whosoever sins shall burn in the Fire!
+    507334|00000000||Ptooey!
+    507332|00000000||Do you really believe you need not fear the stake?
+   1031556|00000000||Good folk! Mages have set the hunters' house aflame! They seek to burn the city down!
+    491406|00000000||Your very presence is an affront to the Eternal Fire.
+    491404|00000000||Mages, mutants, blasphemers, cobolds. *Spits*
+    491408|00000000||What!
+    491410|00000000||Swoooord!
+    491412|00000000||Good folk, help!
+    491413|00000000||Give me strength!
+   1018707|00000000||Help! Thieves!
+   1052072|00000000||And you shan't steal no young'uns? In exchange for your help?
+   1055571|d519a2f3||Merchant
+   1062746|00000000||It hurts…
+   1062748|00000000||Mummy says you drove the ghost away. And that we're never to speak ill of witchers again.
+   1030094|00000000||I'm taking you to the Nilfgaardians. You're a murderer, not a soldier.
+   1030830|00000000||And you're a traitor. There's a scaffold out there with your name on it.
+   1030195|00000000||Taking you to the Nilfgaardians.
+   1030103|00000000||Fine, go. And may you and your soldier buddies hiding in the bushes be victorious in your struggle against Nilfgaard.
+   1030104|00000000||You've a vile sense of humor… but you're a decent man. Here, the gold I promised. Use it well - drink to the silver lilies and to Foltest's memory.
+   1030196|00000000||Fine. Go.
+   1030100|00000000||You can go… but I'm keeping the medicine. Nilfgaard'll find you and kill you anyways. Why should it go to waste?
+   1030101|00000000||Take it. And choke on it.
+   1030827|00000000||You're free to go… But the medicine stays with me.
+   1030089|00000000||Wake up. See, can't run from the truth… not even on horseback. Now, who are you? And why'd you attack that cart?
+   1030824|00000000||Private First Class John Geermer. Temerian Sixth Division, Second Regiment. Disbanded, but still active - underground, in the woods.
+   1030826|00000000||That was a medical transport. I'd be damned if it reached the Black Ones. And the medicine - our lads could use it, too. We've many ill among us. You let me go, and they might live… and fight once more for a free North.
+   1030192|00000000||Gotta get him outta here.
+    596144|00000000||No offense, but… why all the construction?
+    596146|00000000||So the roof tiles don't drop on our heads?
+    596148|00000000||Roof tiles usually fall from the roof. You're putting up walls, rebuilding the fortress… for three people. Why?
+    596154|00000000||Because I remember how it was, Wolf, before the massacre. We were twenty, and that's just teachers. As for candidates…
+    596156|00000000||I can't turn back the clock, I know. But I refuse to just sit and stare at these ruins.
+    596140|00000000||Why are you rebuilding Kaer Morhen?
+    596172|00000000||So, ready for battle? How do you feel?
+    596174|00000000||Old.
+    596176|00000000||If things don't go as planned… take Ciri and run. As far away from here as you can.
+    596178|00000000||Not a chance. Won't abandon you.
+    596180|00000000||It's not a request, Geralt.
+    596182|00000000||I know. But I'm not your student anymore.
+    596184|00000000||Shame you aren't. 'Cause it seems there's something I failed to teach you. That at times you can't win without making a sacrifice.
+    596170|00000000||Ready for the battle?
+    596207|00000000||I met with Emhyr.
+    596208|00000000||Any crowned heads you haven't met?
+   1000008|00000000||A few. Hoping it stays that way.
+   1000010|00000000||Remember the first war with Nilfgaard? Battle of Sodden? The North, all of it, fought together - Temeria, Redania, Kaedwen, Aedirn… And the mages were heroes - on the field first, then in ballads.
+   1000012|00000000||Not much left of that world.
+    596206|00000000||I met with Emhyr.
+    170696|00000000||See you later, Vesemir.
+    170686|00000000||See you.
+    170684|00000000||Been on the Path for half a year now.
+    170692|00000000||Realize it's been half a year since we hunted down that fiend in Vorune?
+    170694|00000000||Yes. Though that was more than a fiend. What was that bastard's name? Drugan? May the soil lie light upon him.
+    596142|00000000||Things used to be simpler. Monsters were bad, humans good. Now, everything's all confused.
+   1007652|00000000||Used to be exactly the same. You've just forgotten.
+    353292|00000000||Do well not to point up my age. You're near a century old yourself.
+    170680|00000000||Yes? What is it, Wolf?
+   1052122|00000000||Cause a witcher braves the most terrible beasts when no other man dares!
+   1029932|00000000||What happened?
+   1030582|00000000||Monsters! Monsters from the swamp! Folk said the road was fraught with peril, but I wouldn't listen! Got my comeuppance now!
+   1030584|00000000||Less moaning, more details. What happened? And how can I help? And remember, I don't work for free - witchers' code and all.
+   1030585|00000000||Well, was on my way to the Black Ones to trade. Suddenly, my horse got spooked, ran clear off the road. We hit a bump, I went flying, and the horse and cart rolled on. Then I heard bubbling, neighing… slurping! Something came out from the muck, devoured Asher, hooves and all!
+   1030586|00000000||No doubt my goods're still on the cart… but I'm too afeared to go and see. Thought maybe you…? I'm most concerned about a little box. Bring it to me, I beg you.
+   1029925|00000000||Fine. I'll go. Let you know if I find that box.
+   1029923|00000000||Fine. I'll find your box.
+   1029930|00000000||Sorry, don't have time right now. Maybe later.
+   1029924|00000000||Don't have time for this.
+   1030599|00000000||So, what'll it be? Will ye help a traveler in need?
+    491375|00000000||Uh-oh.
+    495234|00000000||A woman, an herbalist, came looking for shelter.
+    576258|00000000||And the elder priest - he flew into a rage! Chased her off with a stave instead of calling the guards.
+    507310|00000000||A generous donation from the jeweler's widow. Why, you could build a chapel for it!
+    495236|00000000||My brethren won't believe it…
+    507312|00000000||Eternal Fire!
+    507294|00000000||Should I lead prayers tonight? With that murderer on the loose…?
+    507296|00000000||For the third time, I don't know.
+    491377|00000000||Eternal Fire light your path.
+    491379|00000000||Eternal Glow guide you.
+    491381|00000000||You are brutal, but your heart knows not the true Fire.
+    507303|00000000||Pray.
+   1031525|00000000||If you're a nonhuman, you'd best flee the city.
+    491383|00000000||It's never too late to see the Light.
+    507305|00000000||Baptism of Fire - do you know what it is, White-haired One?
+    507306|00000000||You have the blood of many on your conscience. I see it in your eyes.
+    491389|00000000||The Eternal Fire will guide you.
+    491385|00000000||You!
+    491387|00000000||Hmmm?
+    491391|00000000||You wouldn't dare…
+    491393|00000000||Muuuurder!
+    491395|00000000||…for you are our life, our strength, and our power.
+   1018705|00000000||Thieving scum! Heeelp!
+   1052096|00000000||Heard there's a village you saved from a heap o' trouble…
+    167311|00000000||Better round up someone else to help. Three of you don't stand a chance against me.
+    351919|00000000||Wha?! I could fuck you up by meself.
+    575500|00000000||If I had a bag over my head and my hands tied behind-- Actually, no, not even then.
+    351921|00000000||Chet, Lesh, back off. I'll teach this vagrant a lesson, man on freak.
+    167317|00000000||Three against one? My, you're brave.
+    167309|00000000||Wouldn't want to stay long, anyway.
+    167322|00000000||Maybe not. And maybe you'll just stay forever.
+    167324|00000000||Six feet under.
+    167315|00000000||I won't stay long.
+    351925|00000000||Haven't done anything to you. So just calm down.
+    351927|00000000||Course not… nay, uh… ye done nothin'…
+    351929|00000000||Whoreson's workin' witchcraft! Get him!
+    351923|00000000||Back off.
+    166269|00000000||Done drinkin'?
+    166271|00000000||Mhm.
+    167307|00000000||Then fuck off.
+    351917|00000000||Hrrk-ptoo. Don't want your kind here.
+   1061961|05edbbdd||Horse
+   1015004|00000000||Ceádmil.
+   1015002|00000000||Barbarians.
+   1014994|00000000||Nordlings.
+   1015000|00000000||Ceádmil.
+   1014992|00000000||Barbarity.
+    558366|00000000||Really rather not talk about it.
+    558368|00000000||Rather not talk about it.
+    558370|00000000||Gotcha.
+   1046363|00000000||So… time to hit the road?
+   1046411|00000000||Stuffed unicorn - we used it as a bed once.
+   1046417|00000000||Stuffed unicorn. Used it once or twice. In certain… situations.
+   1046419|00000000||Hm! The things young folk get up to these days…
+   1046409|00000000||Back on topic. How's it look - how far behind Yennefer are we?
+    173406|00000000||Two, three days… Trail's fresh. But it looks like it leads towards the main road. Could be muddled there.
+   1028605|00000000||Wait - hear that?
+   1028606|00000000||I hear it, I smell it. Ghouls.
+   1046413|00000000||That's private. Very private.
+   1046415|00000000||A-ha… I understand. Least I think I do. Maybe not entirely, but… perhaps that's for the best.
+   1046410|00000000||That's private.
+   1046365|00000000||Wait. Show me the letter from Yennefer, might've overlooked some hint in there.
+   1046367|00000000||Didn't overlook anything. We were meant to meet in Willoughby - that's what she wrote. Meanwhile one army or another burned the village to the ground. All we can do is follow her trail, so…
+   1046369|00000000||Stop talking for a minute and give me the letter. Well, how about that! It does smell of lilac and gooseberries.
+   1046371|00000000||You were gonna read it, not sniff it.
+   1046373|00000000||"We must meet. Soon"… "Willoughby, near Vizima"… Hm, nothing else to guide us there.
+   1046375|00000000||What's this postscript? "I still have the unicorn?"
+    568314|00000000||Be dawning soon. Time to go.
+    568350|00000000||Time to go.
+    568351|00000000||Ciri in my dreams - might mean she's in danger.
+    568657|00000000||That's the problem - it was more.
+    568660|00000000||In the past, when Ciri'd appear in my dreams, something was wrong. She was in danger.
+    568662|00000000||We taught her how to defend herself from anything, wraiths included.
+    568643|00000000||In the dream, I went and found Ciri. Then we trained.
+    568655|00000000||Those were the days… Hm, little she-devil.
+    572997|00000000||I've trained kids who were faster, stronger - but none had her character.
+    572999|00000000||Didn't end well, did it? Your dream.
+    573001|00000000||No. The Wild Hunt appeared, attacked Ciri… I couldn't move. Stood there like a stump.
+    573003|00000000||It was just a dream.
+    568321|00000000||Then we trained with Ciri…
+    568322|00000000||We will. Not worried about that.
+    568353|00000000||I know we will. That's not what worries me.
+   1046288|00000000||You've seen her tracks. She's at full gallop all the time, breakneck speed through wild lands, devastated battlefields… She's in a hurry to get somewhere, or fleeing something. Either way, it means trouble of some sort.
+   1046290|00000000||Be surprised if she wasn't in trouble.
+   1046292|00000000||She's always poked her nose in beehives. Courtly intrigues here, mages' conspiracies there. What do you expect?
+   1046294|00000000||Don't know… Guess I thought, once we were finally reunited, things would be calm. At least for a while.
+   1046355|00000000||Calm? With Yennefer? Hmph. Good luck.
+    173254|00000000||Started in the guest room at Kaer Morhen. I was relaxing in the tub, and next to me…
+    568308|00000000||Triss?
+    568318|00000000||Yennefer. Funny, isn't it? She's never been there. Seemed so real in my dream, though.
+    416903|00000000||Was she nagging you about something?
+    416905|00000000||Hm. Mhm.
+    343534|00000000||True to life, indeed.
+    572995|00000000||We'll find her.
+    558365|00000000||I dreamt of Kaer Morhen…
+    163738|00000000||You all right?
+    166937|00000000||Mhm. Had a nightmare…
+    166939|00000000||About?
+    166941|00000000||Take forever to explain.
+    184882|00000000||Dawn's some way off. We've got time.
+   1058641|00000000||Oi, fuck off, already!
+   1058639|00000000||I've gotta see the smith. Gotta beg his forgiveness.
+    421121|00000000||Farewell.
+    421115|00000000||Farewell.
+    421113|00000000||Show me your wares.
+    421119|00000000||Wouldn't mind a look at your stock.
+    497853|00000000||Greetings.
+   1014876|00000000||Stay calm!
+   1014878|00000000||Does it always rain here?
+   1014930|00000000||A witcher?
+   1014926|00000000||Huh.
+   1014921|00000000||Bloody barbarians.
+    594492|00000000||My daddy's got gray hair, too.
+    594494|00000000||Is it true elves make soup outta kids?
+    594496|00000000||Me granddad's sick.
+    580076|00000000||What's this then?! What?!
+    580078|00000000||Think I pissed me trousers…
+   1029185|00000000||Job done. The well was haunted by the ghost of a woman who was killed there. I drove it away.
+   1036780|00000000||I just hope every unburied wretch don't start hauntin' us, or that battle field's gonna cause us a heap o' trouble.
+   1036782|00000000||If they do, you know who to contact. Meanwhile… Claer, Volker - names ring a bell?
+   1029186|00000000||I don't know 'em. Though I did hear our herbalist Tomira mention a Claer once… Same one, maybe?
+   1029189|00000000||How about that. Never expected to get a dowry.
+   1029190|00000000||Nor did I suppose I'd ever give one to a witcher. Strange times, these, wouldn't you say? Strange and sad.
+   1029187|00000000||Thanks.
+   1029191|00000000||At this point, doubt I'll ever marry… You keep the coin for Mandy, her wedding. Raise a toast to my health then.
+   1029192|00000000||Thank you, master witcher. Them's warm words, you've a good heart. But I can't let you go empty-handed. Take this at least - for luck.
+   1029188|00000000||Keep the coin. For your daughter.
+   1029749|00000000||Your reward, master witcher. The gold I'd hid away for Mandy's dowry. Without you, she'd never 'ave lived to wed. Now… there's hope for it at least.
+   1058320|00000000||Found a notice about an evil spirit haunting a well. You Odolan?
+   1058366|00000000||Your reward, master. Thanks. Thank you so much.
+   1011996|00000000||Brrr.
+   1011994|00000000||Greetings.
+   1011992|00000000||Oh, it's getting cold.
+   1011990|00000000||Scandalous!
+    580012|00000000||Lebioda wept…
+    580014|00000000||One drink, all I had!
+   1029861|00000000||Here's the cart…
+   1029860|00000000||Must be that box he mentioned. Splattered with blood… Human blood.
+   1029863|00000000||Either the merchant's got serious memory problems, or he's lying.
+   1030027|00000000||Cart tracks. Rode off into the swamp.
+   1030190|00000000||Interesting… I should take a look around.
+   1029847|00000000||An arrow… Didn't mention this.
+   1029851|00000000||Square in the neck. Good shot.
+   1071461|00000000||Cart's riddled with arrows.
+    565863|00000000||Who are they?
+    565869|00000000||Who are they?
+    565871|00000000||Patriots. Drinking their seventh round for Temeria, fists starting to itch.
+    565873|00000000||Don't see any Nilfgaardians.
+    565875|00000000||They'll find another foe.
+    582157|00000000||What happened to the Lilies?
+    582159|00000000||Took 'em down.
+    582161|00000000||Took 'em down? To hang a golden sun there now?
+    582163|00000000||I cannot show Temerian colors. They'll come and burn the tavern down.
+    582165|00000000||Maybe it's true what they say? You fond of the imperials? You Nilfgaard's whore?
+    582167|00000000||I'll let that pass. I know grief eats at your heart.
+    582169|00000000||You know shit. They hanged my sister - dragged her out o' the cloister like a dog. Said Nilfgaard's no place for superstition. That they don't fear the wrath of the gods. And you, do you fear it?
+    582174|00000000||If not for Annie your child woulda choked on its navel-string. You owe your son to my sister attending to the birth. And you don't fear the gods' wrath?!
+    582172|00000000||Let go!
+    582178|00000000||You don't fear it, you cunt?!
+    582183|00000000||Leave me be!
+    582189|00000000||Recognize this medallion? You know what it means. Back off.
+    582197|00000000||You all right?
+    582193|00000000||They say witchers steal young'uns!
+    582195|00000000||That true?
+    582199|00000000||What'd the emperor promise you freaks? Your own land? Like he did the elves once?
+    582201|00000000||Get out. All of you.
+    582203|00000000||We ain't goin' nowhere.
+    582205|00000000||And neither are you.
+    582207|00000000||They won't back down now.
+    582209|00000000||I can see that.
+   1046738|00000000||I'll buy some provisions for the journey. Then we'll go.
+    565880|00000000||Geralt, we should stay out of it… just this once.
+    565865|00000000||Time we were on our way.
+    565867|00000000||Mhm.
+    565862|00000000||Then it's time to go.
+    543558|00000000||Yennefer's in Vizima. Got a few friends there, so…
+    565818|00000000||Something wrong?
+    543559|00000000||Look around. Trouble brewing.
+   1055654|070e22a1||Wild Hunt Horse
+   1034499|00000000||Cracked monocle. Interesting.
+   1034500|00000000||Documents, almost entirely burnt. A few pieces still legible.
+   1038614|00000000||His throat - he was garroted. Then some old scars, kind a soldier might have.
+   1058274|00000000||A corpse. Explains the stench.
+   1072990|00000000||To the king!
+   1072992|00000000||To King Radovid, the Red Flame Dancin' on the Graves of Nilfgaard!
+   1072994|00000000||And on the pyres of witches!
+   1072996|00000000||Fool's talk, that! He'd burn his feet if he danced on pyres.
+   1072998|00000000||No flames can 'arm our gracious king! His heart's tempered in th' Eternal Fire!
+   1032031|00000000||Sleep, child. Sleep. Sleep'll lend you strength.
+   1009868|00000000||You'll regret that!
+   1009866|00000000||Ahh!
+   1009864|00000000||Tee-hee-hee…
+   1009862|00000000||Why'd you do that?
+   1012165|00000000||Nice day, isn't it.
+   1012163|00000000||Don't know that I've the strength to work today.
+   1012161|00000000||Greetings.
+   1012159|00000000||Ho, ho!
+   1012157|00000000||Children, run!
+    166036|00000000||I'm looking for someone.
+    166038|00000000||And we seek some peace and quiet.
+    166040|00000000||Outta my face, freak, 'fore your breath sours my beer.
+    351879|00000000||Running low on patience. Once it's gone, your heads'll roll.
+    351881|00000000||Oh, we was jestin', no call for anger…
+    351883|00000000||See a raven-haired woman here? Dressed in black and white?
+    548756|00000000||We know nothing, sir. Leave us be.
+    351875|00000000||Patience is running thin.
+    166042|00000000||Talk. Now.
+    572901|00000000||Raven-haired woman dressed in black and white. Seen her? Talk.
+    166054|00000000||Folk say the lady rode through the village a few days back. Gallopin' so fast she knocked Radobor into a ditch.
+    331613|00000000||Which way did she go?
+    331615|00000000||Dunno… Lots of tracks leadin' off the main road. Coulda gone anywhere.
+    166056|00000000||Oi, people! The freak's taken Mikah's mind!
+    167525|00000000||Uh-huh. And I'll take your tongue if you don't shut up.
+    351877|00000000||Answer my question. Now.
+    166046|00000000||Just wanna talk.
+    166048|00000000||Ye deaf, stray? No one here'll talk to ye.
+    572903|00000000||If it's company you seek, stick that mangy snout of yours in a trough with the pigs.
+    167513|00000000||Heheheh! Showed that shiteater, Mikah!
+    166044|00000000||Just wanna talk.
+    351608|00000000||Waste of words. Don't have time for your kind.
+    351784|00000000||Smart. Nor do we have time for yours.
+    351606|00000000||Waste of words.
+    351786|00000000||Look, he's back.
+    351788|00000000||Why d'ye keep pesterin' us, eh? Do better to kill the griffin!
+    576402|00000000||You hear? Black Ones been out measurin' the fields.
+    576404|00000000||Let 'em measure, better that than burnin' the harvest.
+    576406|00000000||Argh, Dromle. Dromle, you're dumber than a headless cockerel.
+    576408|00000000||Why they markin' out them lines, eh? To parcel out their patrimony, give it to their own!
+   1005163|00000000||Let us pray!
+   1005161|00000000||Pray for yourself, for us…
+   1055657|22a35b2c||Ram
+    170812|f3248005||Water Hag
+   1085583|22a322e4||Cat
+   1014034|00000000||He's scary.
+   1014046|00000000||He scares me a little.
+   1014048|00000000||Nooo!
+   1052076|00000000||Strange, the will of the gods, sendin' a witchman to help us.
+   1090890|00000000||Gods…
+   1090892|00000000||Criminy!
+   1090894|00000000||Oo! Coppin' a feel?
+   1090896|00000000||Drats! Just sent granddad out for some dry brushwood!
+   1090898|00000000||Hey, well met!
+   1090900|00000000||Gods speed your work!
+    571795|00000000||Wha?
+    571797|00000000||Awful tired for some reason…
+    571799|00000000||Yaaawn…
+    561899|00000000||How much grain will your village give?
+    561901|00000000||Whatever you say, Your Excellency.
+    561904|00000000||Look at my hands. Look! See the calluses?
+    561906|00000000||These are not the hands of an "Excellency," but of a farmer. So we speak peasant to peasant. How much can you give?
+    561908|00000000||Forty bushels. There'd be more, sir, but our lads, the Temerians, that is, took from us earlier and…
+    561911|00000000||You will give thirty, and that will do. Let us settle on it. And I wish to see the transport soon.
+    561913|00000000||Ah, thank you, sir! Thank you kindly!
+   1044734|00000000||I summoned only the ealdorman and the smith, Willis - but it is said he is a dwarf. You are too tall to be him.
+   1044742|00000000||Plan to requisition something from him, too?
+   1044744|00000000||If it is necessary - yes, of course. We are at war, in case you have not noticed.
+   1044746|00000000||Who are you? Speak.
+   1044738|00000000||Plan to requisition something from him, too?
+   1044737|00000000||Can't argue with your logic.
+   1044740|00000000||Very perceptive of you.
+   1044736|00000000||Geralt of Rivia. Witcher.
+    562021|00000000||A vatt'ghern - this explains why I did not hear your footsteps. What do you seek here?
+    562023|00000000||Yennefer of Vengerberg. Where was she headed?
+    562025|00000000||That is a military secret.
+    562028|00000000||Haven't thrown me out yet. Haven't called the guards. So go ahead - what's your price?
+    562030|00000000||There is a griffin in the area. Slay it, and then I shall see what I can do.
+    562032|00000000||Why do you care about a griffin?
+    562053|00000000||Why do you care about this griffin?
+    562055|00000000||Because I care about people.
+   1044748|00000000||The beast has killed ten already. Including a few of my men.
+   1044750|00000000||To hunt it, I would need to mobilize the entire garrison, comb the woods, organize a battue. Simply impossible.
+   1044752|00000000||Too big a hassle?
+   1044754|00000000||No. Too high a risk.
+   1044756|00000000||I cannot disperse my forces. Temeria's army we have crushed, but its common folk remain, ready to answer a call to arms. So as to this griffin, I can sit on my hands… or hire a professional.
+    562031|00000000||It's a deal.
+    562062|00000000||It's a deal. Some questions before I start. Know where the griffin has its lair?
+    563027|00000000||It kept to the Vulpine Woods at first. I sent a patrol there, five young men. A hunter found them two days on. I only recognized them because they wore our plate.
+    563031|00000000||Since then, the griffin has grown bold. Attacks in villages, fields, on the main road.
+    563033|00000000||Meaning it's abandoned its lair. Gonna have to set a trap.
+    563035|00000000||I judge from your tone this will not be easy. What do you require?
+    547916|00000000||Need more information about this griffin. Its sex, why it's abandoned its lair.
+    547917|00000000||Shall I bring you witnesses?
+    563119|00000000||They won't say anything I don't already know. I need to go where your men died, look around. What's the name of the hunter who found them?
+    563125|00000000||Mislav. He has a hut south of the village, very near the wood. Helpful fellow. A little strange, though.
+    547872|00000000||Could use some more information about the griffin.
+    563127|00000000||So long.
+    525746|00000000||Tomira and Mislav… Thanks.
+    563115|00000000||{Ess soond jakkten. } [Good hunting to you.]
+    563022|00000000||So long.
+    547867|00000000||Gotta gather a specific herb.
+    547896|00000000||I'll need bait, a specific herb - buckthorn. Scent should lure the griffin from ten miles off.
+    547897|00000000||Buck… buckthorn? I do not know this. But I am not yet fluent in the Common tongue.
+    547915|00000000||Mhm. Probably mastered the basics, though - "hands up," "kill them"…
+    563056|00000000||No. First came idioms. "Don't play with fire," for example.
+    563058|00000000||Go to Tomira, an herbalist. She lives near the crossroads. She will aid you.
+    525749|00000000||Need to ask you about something.
+    563117|00000000||Yes? What?
+   1010723|00000000||I'm gonna be a mutant when I grow up, too!
+   1010721|00000000||Why does he need two swords? Does he tend to lose them?
+   1010717|00000000||Yeah, right.
+   1010719|00000000||Ooooo...!
+   1032089|00000000||Lucky not to come up empty-handed. A bracelet… with an inscription. "To Claer - from Volker."
+   1057989|00000000||Bracelet must've belonged to the woman in the well.
+   1057987|00000000||Bracelet was on an arm bone. Wonder where the rest of the body is.
+   1058228|00000000||Lovely craftsmanship. But I'll have to burn it with the body to get rid of the noonwraith for good. Better do it near the well.
+   1057984|00000000||Let's take another look.
+   1036422|00000000||Corpse like any other. No way I'll recognize Bastien.
+   1084298|4a51c663||Warg
+   1090878|00000000||Murder!
+   1090880|00000000||Sweet Mother.
+   1090882|00000000||Hold on!
+   1090884|00000000||Rain don't rust your blades?
+   1090886|00000000||Greetings.
+   1090888|00000000||Nothin' left but to pray, beg evil spares us, at least.
+   1052114|00000000||Ye know, witcher, folk can say what they will. Me? I'll never forget what ye did for us!
+    335378|05e21ea5||Guard
+   1058087|00000000||I-- ahem… I-I gotta… apologize. Gotta go… apologize.
+    571789|00000000||Careful with them paws!
+    571791|00000000||Grimy churls.
+    571793|00000000||Every bloke's a swine. That's all I's got to say.
+    546191|00000000||Come. 'Tain't far… nor hard to find. Can smell the blood from here.
+    533211|00000000||Griffin - know anything about it?
+    546209|00000000||Oh, not much. It's not my kinda game.
+    564182|00000000||You're his kind, though. Survival instincts alone oughta make you care.
+    546210|00000000||I walk silent through the woods. No griffin can hear me nor spy me.
+    562834|00000000||Too late. Attacked another one.
+    533205|00000000||These dogs been a problem for a while now?
+    533206|00000000||Since the war started.
+    533207|00000000||Soldier on the march, he'll stop to rape a woman, strangle 'er, kill her man for a chuckle, even butcher a cow. But a dog? A kick in passin', no more.
+    564117|00000000||So these stray mutts form packs. They're gaunt, guts stuck to their spines, covered in scabies… but they just won't die.
+    564119|00000000||Cause they're clever. More so than foxes. And they hate men somethin' fierce.
+    570554|00000000||Nothing to mourn. They were Nilfgaardians.
+    570560|00000000||Nothing to mourn. They were Nilfgaardians.
+    570562|00000000||They were lads, like ours. Just clad in black plate.
+    570564|00000000||Good huntin', now.
+    570556|00000000||I'll be fine. Not the first griffin I've dealt with. Not likely to be the last, either.
+    570558|00000000||Hope you're right.
+    570553|00000000||I'll be fine.
+    533219|00000000||Twas here.
+    570551|00000000||One lay there, by the stump, headless. The other hung from a branch, guts splayed, stretchin' down to…
+    533220|00000000||Watch out for yourself, now.
+    571893|00000000||Sinner!
+    571895|00000000||For witches are evil's fountainhead!
+    596234|00000000||They consort with cobolds and slurp the blood of babes!
+    571897|00000000||Freak! The dungeon, that's where you belong!
+   1046160|00000000||What?
+   1046158|00000000||Grrrrr.
+   1046162|00000000||Ouch!
+   1046164|00000000||I… but I… don't… don't hurt me…
+   1046166|00000000||Run away!
+    571777|00000000||Handsome knight?
+    571779|00000000||When'd ye last touch a wench? Hehehee.
+    571781|00000000||Wanna snuggle, bogeyman?
+    578228|00000000||Ever play gwent?
+    578229|00000000||Of course. Even tried to teach Vesemir, but turned out he's just mule-headed. Why do you ask? Up for a quick hand?
+    578240|00000000||We'll play some other time.
+    578225|00000000||Not now.
+    578232|00000000||Let's play.
+    578241|00000000||Pff, am I. Have you crying like a baby by the time I'm through with you.
+    578230|00000000||So, wanna play?
+    578231|00000000||Of course.
+    578252|00000000||Let's play gwent.
+   1076520|00000000||You win. Ugh, can't believe I gotta give up my unique card. Mh, better your hands than someone else's, I guess.
+    578242|00000000||Aaaand you lost. Get you a hankie for your tears?
+    578243|00000000||You won, you won't see me crying, though. You might squeeze some tears out of that boatwright in Velen - seemed like the sensitive type.
+   1042523|00000000||Or try the cobbler who hangs around the Nilfgaardian camp. Here's a card for your deck, in case you get in trouble.
+    543165|72eeb4b2||Herbalist
+   1046203|00000000||Owwww!
+   1046205|00000000||Hide!
+   1046207|00000000||Aaaaah!
+   1046209|00000000||Get away!
+   1046211|00000000||Piss off!
+   1071334|00000000||Another print by the well.
+   1043975|00000000||Mhm?
+   1043977|00000000||Pff!
+   1043979|00000000||Set aside your weapon.
+   1043981|00000000||Any last wishes?
+   1043983|00000000||Here! To me!
+   1074164|00000000||We been put to work, plain and simple. Fine by me.
+   1074763|00000000||Rather toil in a sawmill than go to war.
+    572465|00000000||I'm hunting the griffin. Need the buckthorn for bait.
+    563743|00000000||Nilfgaard values order.
+    563747|00000000||Nilfgaard values one thing - order. Griffin's disturbing that, it's gotta go.
+    563850|00000000||Yes. First they'll tend to the monsters, then to the folk.
+    563851|00000000||Not from here, are you?
+    563928|00000000||Lot of bitterness in you. Too much for someone who's spent her life in a hut in the middle of nowhere.
+    563930|00000000||True.
+    563932|00000000||And you're in a hurry. Elsewise you'd not use bait, just wait for the griffin to attack again.
+    563934|00000000||Believe we could have an interesting conversation.
+    563936|00000000||Maybe next time.
+    563745|00000000||Doubt Emperor Emhyr cares about you, but this captain just might. Seems like a decent man.
+    563848|00000000||There are no decent men in the army. There're only orders.
+    563742|00000000||Captain Peter actually does.
+    572469|00000000||I was thinkin'… A few years ago we had trouble, drowners under the bridge. Whole village had to pitch in for a witcher.
+    572471|00000000||Who now can afford the bounty on a griffin's head?
+    572473|00000000||Captain Peter Saar… something something.
+    572475|00000000||Ah. Good to know the Black Ones are lookin' out for our welfare.
+    572467|00000000||Oh yes, the griffin. Might've guessed.
+    563731|00000000||Looking for buckthorn. Know if it grows anywhere around here?
+    563733|00000000||Mhm. Bottom of the river, where the channel's widest. But you do know that once out of the water…
+    572415|00000000||…it'll stink worse than a week-old carcass? Counting on it.
+    563336|00000000||Looking for buckthorn.
+    352033|00000000||Got a potion for Lena. Swallow.
+    564018|00000000||First sign of spring, symbol of rebirth… Fitting, as names go.
+    564020|00000000||We'll see. Like I said, could harm her. Deeply.
+   1058430|00000000||Works on me immediately, but I have a faster metabolism. Effects won't appear in her case for a few days.
+    564022|00000000||Why'd you choose this in the end?
+    564024|00000000||Decided it was better than doing nothing.
+    564026|00000000||I like you, witcher. Here - a small gift. For giving a damn.
+   1075134|00000000||Got a potion that could help Lena.
+    563337|00000000||Griffin do that?
+   1057727|00000000||Did the griffin injure this woman?
+    563514|00000000||Griffin do that to her?
+    563516|00000000||To Lena? Yes. Attacked her at night. She was walkin' in the woods.
+    563518|00000000||At night… through the woods? In wartime?
+    563520|00000000||Meeting a boy. The young, you know… do foolish things for love.
+    563522|00000000||Wounds are healing, but she will die. Blood's poolin' in her skull. Nothing my brews can do to help.
+    563524|00000000||I could try to help her.
+    563526|00000000||Could try to help her with one of my potions. Swallow can heal internal hemorrhages…
+    563528|00000000||But?
+    563530|00000000||Witchers' potions aren't for humans.
+    563531|00000000||She'll die as it is.
+    563577|00000000||Yes. A peaceful death, soothed by your concoctions. If I give her Swallow and something goes wrong, the whole village will hear her screams.
+    563581|00000000||I understand. Do as you will.
+    563523|00000000||I'll kill the griffin. No more victims after that.
+    563570|00000000||I've agreed to kill the griffin. No more victims after I do.
+    563574|00000000||Ugh, there will be, of course. With the griffin gone, others will kill in its stead. Monsters, or men.
+    563602|00000000||So what do you think I should do?
+    563604|00000000||Ply your trade. But don't think you can change anything.
+    563301|00000000||Bad time?
+    563303|00000000||Not at all. Hand me the beggartick. It's the…
+    563306|00000000||…red bloom. Well, well, one versed in herbs.
+    563308|00000000||Probably saying too much… but I know a bit - for instance, that beggartick's poisonous.
+    563309|00000000||In large doses. Small ones soothe pain and bring forth pleasant dreams.
+    563320|00000000||Which is all I can hope to do for her.
+    571861|00000000||Eternal Fire burn away your sins.
+    571863|00000000||The Butcher of Blaviken…
+    571865|00000000||Eternal Fire, keep me safe!
+    562830|00000000||{Ess've vairich? Corpail'ear Cerid ess marv. } [Did you hear? Corporal Cerid is dead.]
+    562831|00000000||{Cerid? Cerid Stàilinn Ceann? N'ees theenk a faigh aep evellien Nordling badass cò tuve'an esan. } [Cerid? Steelskull Cerid? I did not think there was a Nordling capable.]
+    562832|00000000||{An n'faigh. } [There wasn't.]
+    563228|00000000||{Ess’va dicette, esan morv aep pest. Es heet. Dhu gucagan yn niss, yn niss.}[The word is disease took him. A fever. Black boils in his armpits, his armpits.]
+    563230|00000000||{N’ess dicette hy’in! Phoilitigeac ess feargach.}[Do not speak of this. It's unpopular with the political officers.]
+   1038046|00000000||Boot prints… A man's. Large.
+   1038049|00000000||Took off his boots and went in the water. Probably wanted to cover his trail.
+   1038051|00000000||Something jumped out of the rushes. Drowners. But he managed to escape.
+   1038053|00000000||Lost his boots in the rush.
+   1038055|00000000||Tracks lead back to the village.
+   1038057|00000000||Bleeding… but not badly. Surface wound.
+   1038059|00000000||Drowner claw marks. It's gotta be him.
+   1039003|00000000||Trail ends here… but I'll recognize him by his wounds.
+   1039019|00000000||Stinks of piss… and vodka.
+   1038029|00000000||Shavings from a tinderbox. Arsonist must've lit his torch here, tossed it on the roof… then fled through the orchard.
+   1049565|00000000||{Que suecc's? } [What's going on?]
+   1049563|00000000||Yaaawn…
+   1049561|00000000||{Va caelm! } [Calm down!]
+   1049567|00000000||{Glaeddyv vort. } [Set your sword down.]
+    432590|d184d9f7||Wraith
+   1043949|00000000||Go away.
+   1043951|00000000||Out of my sight.
+   1043953|00000000||Arrrgh!
+   1043955|00000000||Beat 'im, boys! For Redania!
+   1043957|00000000||You raise your sword against a Redanian officer?
+    571855|00000000||Die, begone!
+    571857|00000000||Mutant.
+    571859|00000000||What do you seek, pain-giver?
+    571843|00000000||Praise the Eternal Fire!
+    571845|00000000||Ehhhhh, I'm just ploughing sleepy.
+    571847|00000000||I'm sick and tired of these robes.

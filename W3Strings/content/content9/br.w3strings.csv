@@ -1,0 +1,1907 @@
+;meta[language=cleartext]
+; id      |key(hex)|key(str)| text
+    539847|00000000||Estou aqui.
+    585731|00000000||Você se perdeu?
+    585733|00000000||Não. É você que corre rápido demais.
+    585845|00000000||Ou você já envelheceu.
+    539848|00000000||Vamos?
+    559928|00000000||Claro. Mostre o caminho.
+    559925|00000000||Sim, vamos.
+    559927|00000000||Espera, acabei de lembrar uma coisa. Já volto.
+    560541|00000000||Esperarei aqui.
+    559926|00000000||Me dá um minuto.
+    538453|00000000||Cadê essa sua amiga?
+    538454|00000000||Hã... Ali!
+    538455|00000000||Valdo!
+    538444|00000000||Por que você está fazendo isso de novo?
+    538445|00000000||Quero olhar nos olhos dele.
+    538446|00000000||E depois?
+    538447|00000000||Não sei. Depende do que eu vir.
+    558929|00000000||Te vejo na frente do Esturjão de Ouro!
+    557893|00000000||Uma amiga do Dandelion. O nome dela é Bea.
+    571111|00000000||Ela é uma garçonete no Esturjão de Ouro.
+    538449|00000000||Me ajudou a entrar em contato com o Dandelion.
+    538450|00000000||Quero agradecê-la. Ela se arriscou demais.
+    557961|00000000||Se arriscou demais? Como assim?
+    557914|00000000||A Guarda Templária estava na minha cola.
+    557964|00000000||Se ela tivesse sido vista comigo, talvez ela tivesse sido açoitada, ou algo pior.
+    557928|00000000||Sempre se metendo em confusão...
+    557930|00000000||Puxei você.
+    558330|00000000||Por que estamos indo para o Esturjão?
+    558332|00000000||Para ver uma menina que me ajudou uma vez.
+    558334|00000000||E quem seria ela?
+    538448|00000000||Essa menina que vamos visitar... Quem é ela mesmo?
+    560512|00000000||O que tem de interessante em Longina?
+    560514|00000000||O acampamento dos artistas de algum circo itinerante. Não-humanos.
+    560516|00000000||Quando eu vim aqui da outra vez, minha intenção era entrar em contato com a Triss.
+    560518|00000000||Era uma vida dura. Muito rápido, gastei quase tudo o que o barão me deu.
+    560520|00000000||Nunca consegui me encontrar com a Triss, porque a Guarda Templária apareceu.
+    585703|00000000||Depois disso, me tornei uma mulher procurada.
+    585705|00000000||A Triss não tentou entrar em contato com você?
+    585707|00000000||Como ela poderia? Ela nem sabia de nada.
+    585709|00000000||Na verdade, ela achou que ia conhecer outro alquimista que queria fugir de Novigrad.
+    585711|00000000||Eu preferi não colocá-la em perigo.
+    560521|00000000||Eu estava sendo perseguida e não tinha um tostão sequer.
+    560522|00000000||Foi então que conheci o Valdo.
+    560523|00000000||Ele e sua trupe me ajudaram. Depois, me apresentaram para a Bea, e foi por meio da Bea que encontrei o Dandelion.
+    560533|00000000||Você já sabe do resto.
+   1043355|00000000||Encontro você lá!
+    558930|00000000||Te vejo em Longina!
+   1043844|00000000||Certa vez, visitei uma cidade que era bastante parecida com Novigrad.
+   1058965|00000000||Mas as pessoas de lá eram muito maiores e tinham pele escura.
+   1043846|00000000||Por acaso este lugar é em Zerrikânia?
+   1058959|00000000||Não. Era um outro mundo.
+   1058961|00000000||Hmm... e como é ir saltando de mundo para mundo?
+   1058967|00000000||É como atravessar um portal? Ou diferente?
+   1058963|00000000||Um pouco diferente.
+   1058969|00000000||No começo, era difícil ir.
+   1058971|00000000||Eu não era muito boa em controlar isso. Então tinha que me concentrar com bastante intensidade e esperar que não pousasse numa cratera de um vulcão ativo.
+   1058986|00000000||O treinamento que fiz com Avallac'h me ajudou muito.
+   1058988|00000000||Agora eu meramente penso em um lugar ao qual gostaria de ir, fecho os meus olhos e pronto.
+    569484|00000000||Isso foi... estranho.
+    569485|00000000||No mínimo.
+    572945|00000000||O que será que eles estão fazendo?
+    572947|00000000||Saberemos muito em breve.
+    585873|00000000||Então, sua amiga... A Bea...
+    585875|00000000||Que que tem ela?
+    585877|00000000||Nada, ela parece ser legal...
+    585879|00000000||Geraaalt, você não presta.
+    585881|00000000||O que foi que eu disse?
+   1043357|00000000||Até que enfim você chegou!
+   1007872|00000000||Devo atirar?
+   1007874|00000000||Não, certa vez o Branco serviu às Senhoras.
+   1007876|00000000||Mas... mas ele é um forasteiro!
+   1015546|00000000||Aprenda a viver sem elas.
+   1015554|00000000||Não terão mais nozes. Vocês vão ter que viver sem elas.
+   1015620|00000000||E agora?
+   1015589|00000000||Suas nozes? Não faço ideia. O caminho para o topo está limpo, vocês sempre podem ir procurá-las.
+   1015643|00000000||Ou ir para casa.
+   1015582|00000000||Não sei.
+   1015583|00000000||Vão ter que viver sem elas.
+   1015590|00000000||Suas nozes? Não sei, não ligo.
+   1015645|00000000||Vocês devem aprender a viver sem elas.
+   1015551|00000000||Essa não é mais a terra de ninguém, não é mais a terra das Senhoras. É toda sua.
+   1015636|00000000||Mas... o que vamos fazer?
+   1015638|00000000||Vamos, Geralt. Está na hora.
+   1015640|00000000||Resolvam... sozinhos.
+   1015553|00000000||Peguei uma. Toma.
+   1015585|00000000||Só uma? O que faremos agora?
+   1015545|00000000||Peguei uma. É sua se quiser.
+   1015586|00000000||O carvalho morreu!
+   1015587|00000000||O carvalho, as Moiras. Temo que esse tenha sido seu último banquete.
+   1015588|00000000||E nossas nozes?
+   1061350|00000000||Aí cês tão. Como foram? A Margarita está com vocês?
+   1061354|00000000||Yen pegou ela. Já deve estar provavelmente no Dandelion.
+   1061353|00000000||Belo trabalho que fizeram lá, vocês dois. Os guardas nem notaram que tinham visitas.
+   1061356|00000000||Então, vão comigo até o Dandelion ou ficarão perambulando pelo caminho?
+    537208|00000000||Sempre disposto a viajar com você.
+    537209|00000000||Vamos pegar a estrada então!
+    537206|00000000||Eu vou com você.
+    560187|00000000||Você claramente não precisa de escolta. Voltarei a pé.
+    560188|00000000||He, he. Tudo bem. Encontro você lá.
+    560186|00000000||Voltarei sozinho.
+   1060240|00000000||Então, o que você fez? Como fez para ficarem bêbados?
+   1060242|00000000||Não consigo conter a curiosidade, como fez pra que ficassem bêbados?
+   1060244|00000000||Ah, é o truque mais velho de todos. Fingi ser um comerciante transportando vinho. Assim que me avistaram, decidiram que precisavam inspecionar.
+   1060246|00000000||Comecei a lamentar e implorar que me deixassem. Disse que era do melhor redaniano, e que o chefe de Passiflora arrancaria minhas bolas. E isso foi o bastante - depois disso tiveram que inspecionar cada um dos barris...
+   1060248|00000000||Ótimo plano. E ótimo trabalho. Obrigado Zoltan.
+   1060250|00000000||Não há de quê. Então, está indo até o Dandelion comigo ou sozinho?
+    537204|00000000||Finalmente, chegou. O seu plano era uma bosta.
+    562665|00000000||Por quê?
+    537205|00000000||Logo que começou com a matança no pátio, eles todos queriam correr para lá.
+    562668|00000000||Tive que detê-los... por meios convencionais.
+    562670|00000000||Sozinho? Contra todos? Onde estão os corpos?
+    562672|00000000||Escondi no carrinho. Ter uma taverna com o Dandelion me deu muita prática em desova de cadáveres.
+    562677|00000000||Aliás... Vai voltar comigo ou tem algo a fazer no caminho?
+   1062194|00000000||Aqui estamos.
+   1062196|00000000||Obrigado mais uma vez pela ajuda, Zoltan.
+   1062198|00000000||Sempre disposto, parceiro.
+    171521|002e2335||Demônio
+    528664|00000000||Pegue seu amigo e vá dar uma caminhada.
+    528665|00000000||Talvez... a gente mereça um descanso...
+    528666|00000000||Opa, até que enfim...
+    528662|00000000||Vão embora. Agora mesmo.
+    532187|00000000||Sumam daqui. Vocês dois.
+    532188|00000000||Imagino que você não saiba com quem está falando.
+    554616|00000000||Ah, sei, sim. Com dois idiotas. Que em breve serão dois idiotas mortos.
+    532151|00000000||Vão embora. Ou se arrependerão.
+    528657|00000000||Até mais.
+    528663|00000000||Passar bem.
+    554592|00000000||Vim buscar o corpo.
+    528658|00000000||Estou aqui para levar o corpo.
+    528659|00000000||Não falaram nada sobre alguém buscar o corpo.
+    554605|00000000||Mandaram a gente montar guarda em volta da bruxa, só isso.
+    554599|00000000||Que crime ela cometeu?
+    554600|00000000||O mesmo que todas elas! Bruxaria e coito com os súcubos!
+    554603|00000000||Essa puta tentou seduzir o Radovic. Mas ele sacou qual era a dela. Mostrou para ela o que fazemos com traidores.
+   1011733|00000000||A lua nascendo, corujas piando, o fogo está a brilhar.
+   1011734|00000000||Já é tarde e o sono te chama, feche os olhos e comece a sonhar.
+    532199|00000000||Acho que subestimaram a Philippa...
+   1058992|00000000||Você estava certo. Ela deve ter tomado a forma humana novamente.
+   1058994|00000000||Depressa!
+    531714|00000000||Cuidado!
+    545347|00000000||Estou sentindo uma mágica poderosa.
+    545349|00000000||Precisamos entrar.
+    568811|00000000||Maldição, ela pôs um feitiço neles.
+   1043633|00000000||Espero chegar lá a tempo. Espero que Dijkstra não tenha já machucado ela.
+   1043635|00000000||As possibilidade são muitas. Talvez Dijkstra é quem pode ter sido ferido.
+   1058949|00000000||Pouco provável. Dijkstra nunca a perdoou por mandar assassinos atrás dele. E com Philippa enfraquecida, não resta dúvidas.
+   1058947|00000000||Enfraquecida, talvez, mas ainda assim uma poderosa feiticeira.
+   1058990|00000000||Se os homens de Dijkstra tirarem o dimerítio dela, Philippa poderá matá-los antes que possam dizer "Ah merda".
+    558805|00000000||Geralt! À sua esquerda!
+    558806|00000000||Geralt? Você disse "Geralt"?
+    558919|00000000||Argh!
+    558920|00000000||Vai morrer!
+   1043425|00000000||Esperem... Cessar combate!
+    558510|00000000||Obrigado por ajudarem a Ciri.
+    558532|00000000||Ouvi sobre vocês também. E obrigado por ajudar a Ciri.
+    558534|00000000||Ah, não tivemos escolha! Seria difícil recusar uma garota como ela!
+    535343|00000000||Se conseguirmos os animais para nos levarem. Dois dos nossos cavalos morreram no caminho. Os outros dois estão fracos demais para puxar carga.
+    579309|00000000||Talvez possamos ajudar?
+    579343|00000000||Hm... Podemos ajudar em algo?
+    579345|00000000||Ah, não se preocupem conosco. Sempre nos viramos, não é, Ciri?
+    535351|00000000||Geralt! Escolha um!
+    535352|00000000||Estou indo, estou indo...
+    558560|00000000||Com prazer.
+    558562|00000000||É um dos meus! Vamos!
+    558552|00000000||Por que não?
+    558563|00000000||Não, obrigado. Não estou com humor para isso hoje.
+    558602|00000000||Ahhh… Para cada dor do seu corpo e da sua alma, não há melhor remédio do que uma cerveja de Kaedwen. Não é mesmo, Ciri?
+    558606|00000000||Exatamente.
+    558608|00000000||Fiquem conosco! Fogueiras serão acesas e todos se reunirão! Esta noite será nossa!
+    558556|00000000||Não, obrigado.
+    535345|00000000||Que os traz aqui?
+    535346|00000000||Vim pedir desculpas. Desapareci repentinamente e...
+    558401|00000000||Até parece! O que importa é que está de volta e está bem.
+    558405|00000000||Isto é para você. Tudo que me emprestou e mais um extra.
+    558407|00000000||Ciri... Sabe que não posso aceitar isto.
+    558470|00000000||E você sabe que não deixarei que recuse.
+    558473|00000000||Hm... Já sei! Vamos usar como base para uma aposta! Ainda corre?
+    558548|00000000||É claro.
+    558550|00000000||Então, eu te desafio! Geralt, se juntará a nós?
+    579321|00000000||O que o incomoda?
+    579333|00000000||Ah, não se preocupe. Aegar é assim. Ele estará alegre novamente no fim da tarde.
+    579243|00000000||Ele está brabo com algo?
+    579295|00000000||Mas nós conseguiremos! Não partimos até amanhã, então não temos que nos preocupar com nada hoje!
+    579301|00000000||Sim... Para uns. Vou falar com um comerciante. Pode ser que eu consiga trocar o que temos por um cavalo saudável.
+    579308|00000000||Não queria que Valdo se preocupasse com nada para amanhã...
+    571178|00000000||Vão começar a remanejar não-humanos em breve. Gostaríamos de estar adiante dos eventos.
+    571181|00000000||Eu entendo...
+    579297|00000000||O problema é que perdemos dois cavalos, e os outros dois estão fracos demais para puxar coisa que seja.
+    571174|00000000||Ora, que bom que está aqui. Chegou bem na hora! Já teríamos ido embora amanhã.
+    579277|00000000||Estão partindo?
+    558529|00000000||Mentiras na maior parte. Aposto.
+    558536|00000000||Se for uma mentira que desde a infância você foi amigo e mentor dela, então, de fato, ela é uma mentirosa descarada!
+    558509|00000000||Provavelmente as histórias exageradas da Ciri.
+    535342|00000000||Ciri! Sua maluca! Onde você esteve?!
+    579242|00000000||Venha cá, querida! Olá, quem é esse? Trouxe o seu avô?
+    579258|00000000||Aegar, você é incorrigível.
+    571192|00000000||Permita-me apresentar Geralt de Rívia.
+    535344|00000000||Ah, saudações! Ouvimos muito sobre você!
+    472745|0ead2ac8||Atendente
+   1059609|00000000||Passar bem.
+   1013328|00000000||Tchau.
+   1013327|00000000||O que há no pico?
+   1013330|00000000||Impossível não ficar curioso, o que há no pico?
+   1013332|00000000||Conta para ele.
+   1013334|00000000||As Senhoras vivem lá. Mas somente o Escolhido pode olhar pra elas.
+   1013336|00000000||Eu sei, eu quero...
+   1013338|00000000||Não vai descobrir mais nada aqui.
+   1005629|00000000||Eles voltaram.
+   1005630|00000000||O que cê quer?
+   1004151|00000000||Ciri, o que você acha?
+   1004157|00000000||Ciri?
+   1004158|00000000||Maravilha. Quem não iria encontrar as Senhoras?
+   1004159|00000000||Meu companheiro vai comigo.
+   1005175|00000000||As aparências enganam, eu sou digno.
+   1005186|00000000||Você me julgou mal. Sou tão digno quanto qualquer um.
+   1005326|00000000||Hmm... garota?
+   1005327|00000000||Ele é mais esperto que qualquer jovem. Só tem cheiro de cadáveres porque mata monstros.
+   1005328|00000000||E vai matar qualquer um que entrar no seu caminho.
+   1005383|00000000||Veja isso, uma moeda do passado. Falka está na parte de trás, chamam essa moeda de Oren do Desafiador.
+   1013283|00000000||Agora traga-me a moeda.
+   1005381|00000000||Eu aceito o desafio.
+   1005382|00000000||He, he, he. Venha.
+   1005331|00000000||Eu aceito seu desafio.
+   1005332|00000000||Que desafio?
+   1005334|00000000||Que tipo de desafio?
+   1005335|00000000||Conta para ele.
+   1005336|00000000||Você deve descer à caverna e se banhar nas águas abaixo da terra.
+   1005337|00000000||Qual é a parte ruim?
+   1005338|00000000||As águas são profundas, as águas são turvas.
+   1005329|00000000||Talvez eu estivesse enganada. Talvez ainda haja vida nele?
+   1005330|00000000||Pelo ritual ancestral, você pode apelar minha escolha. Mas para fazer isso, você deve vencer o desafio.
+   1005182|00000000||Eu vou com ela.
+   1005183|00000000||He, he, he, ele tem fogo nas entranhas. O que você vê?
+   1005184|00000000||Ele é determinado. Ama a garota, mas procura esconder isso de nós.
+   1005174|00000000||Eu vou com ela. E pronto.
+   1005176|00000000||Sobre o que é isso?
+   1005177|00000000||Sobre o que é isso? Para que vocês escolheram ela?
+   1005178|00000000||Conta para ele.
+   1005179|00000000||A cada ano, três Escolhidos tem a honra de se encontrarem com as Senhoras.
+   1005180|00000000||O que acontece depois de terem essa honra?
+   1005181|00000000||Quando voltam, eles não falam mais do passado. A alegria os governa, eles começam uma nova vida.
+   1059155|00000000||A moça não foi a primeira a ser escolhida nesse dia. Mas a lua já está alta, então ela deve ser a última.
+   1004152|00000000||He, he, he. O que mais o gato trouxe?
+   1004153|00000000||É cinza e venoso. Tem uma cicatriz. E olhos de víbora.
+   1004155|00000000||Éééé... Fede a sangue coagulado e cadáveres. Além disso, é velho e infértil.
+   1004156|00000000||Te rejeito, aberração, a garota irá subir sozinha.
+   1004160|00000000||Se ela vai subir a montanha, eu vou com ela.
+   1004150|00000000||Eu vou com ela.
+   1004145|00000000||Hmmm... Quem é essa?
+   1004146|00000000||Ora, vamos, chegue mais perto, menina!
+   1004147|00000000||Ééé. Como ela é?
+   1004148|00000000||Quadril estreito. Olhos brilhantes. Uma garota notável e animada.
+   1004149|00000000||Já esteve com um homem? Hmm... Deixa pra lá, já consegui minha resposta.
+   1005173|00000000||Eu escolho você, garota. Essa noite você verá as Senhoras.
+   1059249|00000000||Siga em frente, pule. Você quer ver as Senhoras, não quer?
+   1059593|00000000||Venham. Eu irei abrir o portão, mostrar o caminho até o topo.
+    564648|00000000||Interessante o que ele disse sobre os guardas.
+    564652|00000000||O que ele disse sobre os guardas pode ser útil.
+    564654|00000000||É verdade. As coisas podem ficar fáceis se conseguirmos deixar pelo menos alguns deles bêbados.
+    564658|00000000||Zoltan deve conseguir isso. Vou falar com ele.
+    561710|00000000||Nos encontraremos na ponte de Oxenfurt.
+    564671|00000000||O que o nosso amigo disse sobre os guardas foi interessante...
+    564673|00000000||Bebendo em serviço? Zoltan pode garantir que eles tenham pinga o suficiente...
+    564676|00000000||Boa ideia. Vou procurar a entrada das ruínas.
+    564650|00000000||E agora?
+    564647|00000000||E agora?
+    536062|00000000||Está vendo? Não foi difícil.
+    561686|00000000||Só mais um conselho: encontre outra taverna. Todos aqui sabem quem você é.
+    536064|00000000||Obrigado. Sejam quais forem os planos de vocês, tomara que deem certo.
+    561690|00000000||Sim. Até mais.
+    561683|00000000||Obrigado pela ajuda.
+    561565|00000000||Então, teoricamente, podemos entrar por onde você saiu...
+    561572|00000000||Se não nos incomodarmos com a companhia dos cadáveres em putrefação...
+    561574|00000000||E se conseguirem passar pela grade. Eles barraram a saída para o rio depois que eu fugi.
+    561579|00000000||Hm. Explosivos podem cuidar disso.
+    561575|00000000||Para que meia cidade ouça? Tenho um plano melhor. Oxenfurt foi construída sobre ruínas élficas...
+    561582|00000000||Que devem dar para o esgoto em algum lugar. Se encontrarmos um jeito de entrar nas ruínas...
+    564643|00000000||Entramos na prisão.
+    561554|00000000||Podemos entrar pelo esgoto?
+    536053|00000000||Dizem que Deireadh é mais bem protegida do que o forte em Vicovaro.
+    536054|00000000||Escolheram os guardas dentre os caçadores de bruxas: os mais baixos, os fanáticos... Se soubesse o que fazem com as pessoas...
+    561648|00000000||Todos os dias, tortura, a roda, o potro... Só tínhamos paz nos feriados, quando eles bebiam até ficarem cegos.
+    561664|00000000||Eles podem beber em serviço?
+    561665|00000000||Oficialmente, não... mas sabe como é...
+    536011|00000000||E o guarda?
+    561454|00000000||Então você se fez de morto? Ninguém percebeu?
+    536058|00000000||Quando era jovem, fui aprendiz de um apotecário em Pratanava. Aprendi uma coisa ou outra sobre ervas.
+    561507|00000000||Cogumelos do sono cresciam nas paredes de minha cela. E encontrei uma beladona no pátio da prisão.
+    564645|00000000||Só precisei misturá-los com pão de senteio e comer a mistura...
+    561469|00000000||Poderia ter morrido.
+    561471|00000000||Preferia morrer pelas minhas próprias mãos, se este fosse meu destino.
+    561538|00000000||Como fingiu a própria morte?
+    536010|00000000||Como você escapou?
+    536056|00000000||Dizem que ninguém sai de Deireadh com vida.
+    536057|00000000||Sim, é o que dizem. Aí, eu pensei: por que não tentar morto?
+    561531|00000000||Mas eles queimam os corpos...
+    561476|00000000||Não começaram a queimar até descobrirem que eu tinha escapado. Antes, eles largavam os cadáveres em uma grande vala.
+    561479|00000000||A vala está conectada ao esgoto, e o esgoto dá no rio. E, quando você chega no rio, está livre como um peixinho.
+    536003|00000000||Beba. Vai ajudar.
+    561411|00000000||Obrigado... O que querem?
+    536006|00000000||Entrar em Deireadh.
+    564802|00000000||Ha! Encontre um caçador e diga que pratica magia. Eles vão prender você rapidinho.
+    561449|00000000||Precisamos entrar sem que ninguém perceba. Conte-nos como escapou e continue com a sua vida.
+    538349|00000000||Bem-vinda, Criança do Sangue Ancestral.
+    538364|00000000||Sabíamos que iria voltar.
+    538366|00000000||Seu sabor persiste em nossas línguas.
+    536478|00000000||Vocês já falaram demais.
+    576302|00000000||Argh!
+    576305|00000000||Não. Vem aqui.
+    576308|00000000||Droga.
+    546694|00000000||Falta pouco.
+    557621|00000000||Aonde vamos exatamente?
+    557623|00000000||Vamos ver o Filho da Puta Júnior.
+    557635|00000000||Mostre o caminho.
+    557627|00000000||Vamos.
+    557626|00000000||Não é este o caminho até o Filho da Puta.
+    557631|00000000||Direção errada. O Filho da Puta está na Ilha do Templo.
+    557633|00000000||Imaginei que sim, mas acho melhor conferir uma coisa antes.
+    571080|00000000||Segundo o Zoltan, dizem que é mais provável encontrar o Filho da Puta por aqui.
+    557629|00000000||Vamos.
+    557650|00000000||Você na frente.
+    557636|00000000||Está meio tarde para isso. Ele morreu.
+    557639|00000000||Perguntei para o Zoltan, e ele disse que o Filho da Puta está vivo e bem na Ilha do Templo.
+    557641|00000000||Eu passei por lá e enfiei uma espada nas tripas dele.
+    557646|00000000||Sua mão deve ter escorregado, porque parece que ele se recuperou.
+    557628|00000000||Ele está morto.
+    587305|00000000||Tinha perdido a esperança de você aparecer.
+    587307|00000000||Mal podíamos esperar por você.
+    587310|00000000||E eu? Não ganho nada?
+    587312|00000000||Você...
+    587314|00000000||... acabou de ganhar exatamente o que merece.
+    587317|00000000||Ei! Não tem graça!
+    587319|00000000||Voltem aqui!
+    587321|00000000||Triss! Yen!
+    563089|00000000||Vocês queriam conversar.
+    563090|00000000||Contigo. Não com o Geralt.
+    563095|00000000||O Geralt fica, ou ambos partimos.
+    563097|00000000||Deixe ele ficar, Phil. Ele ficaria sabendo de tudo mesmo assim, no fim das contas.
+    563102|00000000||Ahem. Está bem, então. Contanto que ele não nos interrompa.
+    563234|00000000||Não irei... Até que Ciri decida o contrário.
+    563218|00000000||Não é decisão sua.
+    563217|00000000||Sou todo ouvidos.
+    563219|00000000||Pense em mim como parte da decoração.
+    563104|00000000||A Estada já teve grandes planos para ti, planos importantes. Com certeza, te lembras disso.
+    563251|00000000||Irias completar os teus estudos e te tornar uma de nós. Infelizmente, isso não ocorreu.
+    563199|00000000||Pretendemos ressuscitar a Estada. E renovamos nossa... oferta, precisas te juntar a nós.
+    586380|00000000||Estamos tristes em saber que as nossas queridas Keira e Síle não se juntarão a nós nesta empreitada, mas as circunstâncias nos impedem de chorar mais pela sua perda.
+    586378|00000000||Estamos tristes em saber que a nossa querida Keira não se juntará a nós nesta empreitada, mas as circunstâncias nos impedem de chorar mais pela sua perda.
+    586376|00000000||Estamos tristes em saber que a nossa querida Síle não se juntará a nós nesta empreitada, mas as circunstâncias nos impedem de chorar mais pela sua perda.
+    586393|00000000||Qual a tua decisão? Vais te juntar a nós?
+    563203|00000000||Como antes? Vou ter que casar com um príncipe e ser a sua marionete?
+    563239|00000000||Eras uma criança, e nós... julgamos mal a situação.
+    563241|00000000||Desta vez, o que te oferecemos é uma sociedade.
+    563322|00000000||A Estada das Feiticeiras tornou-se ilegal em todo o Continente.
+    563323|00000000||Juntar-se a elas quer dizer enfrentar perseguição e estar sempre fugindo.
+    563335|00000000||Reis morrem, reinos caem, mas a magia persiste.
+    563288|00000000||A Estada é procurada pela lei. Vocês estarão em fuga novamente.
+    563285|00000000||Alguém sempre estará no comando na Estada.
+    563293|00000000||Não há igualdade na Estada. Isso é mentira. Alguém sempre toma as rédeas enquanto as demais concordam educadamente.
+    563490|00000000||Uma feiticeira sábia e capaz encontra o seu papel, a posição que melhor lhe serve.
+    563497|00000000||E a tua deveria ser suprema. Tu mereces liderar.
+    572020|00000000||Perceba, por favor, que foste criada para grandes feitos. Trabalhe conosco, e os alcançará.
+    563341|00000000||Logo que te ensinarmos a controlar os teus poderes, a canalizar...
+    563534|00000000||Eu tenho Avallac'h para isso...
+    563537|00000000||E permites isso? Achas mesmo que as intenções dele são puras?
+    563556|00000000||Mais puras do que as suas, com certeza.
+    563551|00000000||Sim. Avallac'h é de confiança.
+    563557|00000000||Não confio nele, não confio em vocês, mas isso não importa. Quem decide é a Ciri.
+    563552|00000000||Não confio em ninguém. A decisão é da Ciri.
+    563550|00000000||Não, mas antes ele do que vocês.
+    563553|00000000||Não, mas prefiro lidar com um só sábio do que com a Estada inteira.
+    547931|00000000||Sábios sempre têm objetivos ocultos. O altruísmo não é parte da sua natureza.
+    572033|00000000||Você é uma ferramenta nas suas mãos, mesmo não o veja.
+    547989|00000000||Nós te garantiremos conhecimento e proteção, mas tu serás dona do teu destino, capitã do teu navio.
+    563563|00000000||E, diferente do Avallac'h, podemos te prometer isso.
+    563567|00000000||Não esperamos que você aceite agora. Pense bem sobre o que ouviu, o que sente. Conversaremos com você quando estiver pronta.
+    563565|00000000||Se isso é tudo, então...
+    563583|00000000||... Precisamos ir a Skellige para encontrar a Pedra Solar.
+    563585|00000000||Avallac'h nos aguarda no porto.
+    563593|00000000||... Vamos pegar um ar fresco.
+   1062046|00000000||Quem te ensinou a lutar assim?
+   1062048|00000000||O bruxo que você matou.
+    581320|00000000||Agh...
+   1051087|00000000||Os deuses nos protejam...
+   1051089|00000000||Não precisávamos ter vindo pra cá. Vamos irritar as Senhoras, elas vão nos punir.
+   1051091|00000000||Tarde demais pra desfazer. Agora pare de tagarelar.
+    576429|00000000||Ele encontrou sua esposa, levou-a embora, para algum lugar distante. Anna... ela estava doente.
+    576431|00000000||Se aventurou no pântano para procurar pela esposa. Não faço ideia se ele a encontrou.
+    565166|00000000||Vamos acabar com isso.
+    565168|00000000||Temos que alcançar o topo, encontraremos Imlerith lá.
+    565159|00000000||Vamos.
+    565837|00000000||Vamos encontrar Imlerith aqui? Tem certeza?
+    565839|00000000||Avallac'h me contou sobre seres que comungam com os elfos Aen Elle. Eles podem ser encontrados por toda parte em nosso mundo. Em Velen, as Moiras fazem isso.
+    565841|00000000||Aparentemente, Imlerith veio aqui sob o comando de Eredin, para mandar as Moiras ficarem de olhos abertos e de ouvidos atentos. No caso de Avallac'h procurar abrigo em seu esconderijo em Velen.
+    576464|00000000||Levaram a ordem literalmente a sério a julgar por todas as orelhas penduradas na floresta. Acha que Imlerith ainda pode estar aí?
+    565843|00000000||Ele cobiça os prazeres da carne: vinho, sexo... As Moiras se entregam a ele, bajulam seu ego. Tenho certeza de que ele não deixaria essa oportunidade passar e estará na Montanha Careca para o Sabá.
+    565161|00000000||Como sabe se Imlerith estará mesmo lá?
+    565162|00000000||O lugar lhe é familiar?
+    565847|00000000||Você conhece mesmo essa área?
+    565849|00000000||Séculos atrás, este era um local sagrado para druidas. Mas aí as Moiras chegaram: destruíram o Círculo de Velen e deformaram o carvalho sagrado no topo da montanha.
+    565853|00000000||Um importante banquete anual acontece aqui. O Sabá, é como o chamam, todo o povo local comparece. Eu suspeito que Imlerith atenda, também, como convidado das Moiras.
+    576846|00000000||Parece que conhece isso bem.
+    576848|00000000||Avallac'h é um bom professor.
+    576854|00000000||Que pena.
+    576427|00000000||Se enforcou depois que a esposa morreu. A filha está em Novigrad.
+    564939|00000000||Os homens no Poleiro do Corvo falaram desse lugar.
+    576423|00000000||Aard Cerbin. Lar das Senhoras da Floresta.
+    576844|00000000||Os camponeses tinham medo de vir aqui. E o barão achava que as Senhoras da Floresta eram um mito terrível para crianças malcriadas. Incidentalmente, me pergunto como está o barão.
+    560587|00000000||Poupe-me do seu sermão.
+    560604|00000000||Poupe-me do seu sermão sobre responsabilidade.
+    560606|00000000||Na verdade, eu ia recitar um poema em homenagem à sua glória, mas se não estiver a fim...
+    560586|00000000||Da Ciri.
+    560601|00000000||Da Ciri.
+    560602|00000000||Era o que eu achava. Ainda bem que você foi com ela.
+    560661|00000000||É um tempo perigoso para as feiticeiras em especial. Cada uma pensa cinco vezes antes de se mostrar.
+    560688|00000000||O que você sabe sobre esse tal fugitivo?
+    560689|00000000||Sei que ele é o único que escapou de Deireadh. Todos os guardas da cidade o estão procurando.
+    560691|00000000||Podemos confiar nele?
+    560695|00000000||Vamos descobrir em breve. Ele acaba de entrar.
+    560632|00000000||Quem é esse cara?
+    560610|00000000||O que estão fazendo aqui?
+   1061333|00000000||Não tenho nada a dizer ainda. Vim buscar você primeiro.
+   1061337|00000000||Então, vai me dizer por que está aqui?
+   1061331|00000000||Eu consegui descobrir o paradeiro de Margarita, ela está na prisão de Oxenfurt.
+   1061327|00000000||Também descobri a identidade do homem que escapou de lá. Ele deve chegar em breve.
+   1061329|00000000||Triss e eu encontramos ela e a libertamos. Descobrimos que Dijkstra estava com ela. Mas a situação está sob controle.
+   1061339|00000000||Que alívio.
+   1061335|00000000||Você saberá em breve. Enquanto isso, me conte sobre Philippa.
+    560619|00000000||Hm. Que lugar aconchegante. Por que está aqui?
+    560631|00000000||O que estão fazendo aqui?
+    560633|00000000||Sobre a Estada...
+    560655|00000000||Como foi com a Estada? Alguem concordou em ajudar?
+    560657|00000000||Temo que a situação não pareça boa.
+    560666|00000000||Falei com a Triss. Restaurar a Estada não está indo muito bem.
+    560684|00000000||E não posso culpá-las.
+    560663|00000000||Mas não é hora nem lugar para esta discussão. Triss lhe dirá mais.
+    560597|00000000||Achei que estaria brava.
+    560599|00000000||Brava? Por quê? Por que você apoiou a decisão da Ciri? Ou por que você lutou ao lado dela e venceu?
+    560614|00000000||E se tivéssemos perdido?
+    560615|00000000||Não estaríamos tendo esta conversa e a população feminina do Continente estaria se afogando em lágrimas.
+    560617|00000000||Vocês venceram. Não adianta se preocupar com o que "poderia ter sido"...
+    560609|00000000||Não está brava?
+    560589|00000000||Minha.
+    560591|00000000||Mentir não costumava ser tão fácil para você.
+    560593|00000000||Se pretende...
+    560595|00000000||Eu ia dizer que é bom que você a protege. E que você agiu certo em ir com ela.
+    560585|00000000||Minha.
+    535825|00000000||Te compro uma bebida?
+    535826|00000000||Temo que a água dos pratos seja o melhor que há neste local.
+    560582|00000000||Imlerith foi ideia sua ou de Ciri?
+   1043532|00000000||Estes humanos ficam mais selvagens a cada dia que passa!
+   1043534|00000000||Cuidado onde anda, hein?
+   1043544|00000000||O homem que esbarrou em você, para onde foi?
+   1043546|00000000||Por ali!
+   1043548|00000000||Para onde foi?! O homem que esbarrou em você.
+   1043550|00000000||Lá! Fugindo pela parede daquela casa!
+    548025|00000000||Não vai com ela?
+    563613|00000000||Não posso segurar a mão dela se quero que a levem a sério.
+    563616|00000000||É verdade. Boa decisão.
+    563647|00000000||Acalme-se. Vai fazer um buraco no chão.
+    563649|00000000||Vou me acalmar quando ela sair.
+    563640|00000000||Ficar andando em círculos está me dando nos nervos.
+    563625|00000000||Não se preocupe. Ela estará bem.
+    563642|00000000||Relaxa. Ela estará bem.
+    563643|00000000||Rita não a machucará, mas Philippa... Ela pode ser impiedosa.
+    563681|00000000||Ciri esteve em situações piores e saiu delas bem.
+    563683|00000000||É verdade. Conseguimos dar a ela alguns princípios e habilidades que foram úteis...
+    563685|00000000||Exatamente. Então, se não há nada que temer...
+    563693|00000000||Claro.
+    563696|00000000||Só vou dar uma olhada.
+    563757|00000000||Sabia que não resistiria.
+    563804|00000000||Sujos e mal lavados, Geralt. Você estava morrendo de vontade de fazer o mesmo. Eu vi.
+    563806|00000000||Você estava com a cara na porta.
+    563807|00000000||Aham. É por isso que eu posso ver o que está acontecendo.
+    563712|00000000||Esperava isso.
+    563814|00000000||Finalmente. Achei que não fosse fazer, que não tivesse a coragem.
+    563713|00000000||Finalmente. Achei que não tinha coragem.
+    563711|00000000||Pare de espiar.
+    563716|00000000||Não espie. Tem tão pouca confiança assim?
+    563718|00000000||Não confio em Philippa e Rita.
+    563726|00000000||Então, por que permitiu que houvesse essa reunião?
+    563729|00000000||Pelo mesmo motivo que você permitiu: se for para a respeitarem, ela não pode ser vista se escondendo na minha sombra.
+    563838|00000000||Deixa eu dar uma olhada.
+    563846|00000000||Nem sonhe.
+    563699|00000000||Deixe-me ver.
+    563698|00000000||O que você vê?
+    563708|00000000||O que você vê?
+    563852|00000000||Philippa está pontificando, Ciri está andando em círculos.
+    563861|00000000||Ela parou.
+    563863|00000000||Ela está dizendo algo.
+    563864|00000000||Philippa ficou branca!
+    577383|00000000||Essa é a minha Ciri. Deve ter dito umas quantas coisas para ela.
+    577381|00000000||Bravo, Ciri!
+    577380|00000000||E agora?
+    577385|00000000||E agora?
+    577389|00000000||Silêncio! Lá vem ela.
+    563903|00000000||Então?
+    563905|00000000||Vocês estavam espiando.
+    563908|00000000||Sim.
+    563910|00000000||Não.
+    563921|00000000||Não mudaram nada.
+    587953|00000000||Tenho que me acalmar. Vou dar uma volta.
+    564031|00000000||Enfiou o pé na boca, como sempre.
+    587956|00000000||Do que você está falando?
+    587957|00000000||Nada.
+    564163|00000000||O que é isto?
+    564176|00000000||Algo está errado. O que estão planejando?
+    564178|00000000||Não fique nervoso.
+    564234|00000000||Não gosto dessa ideia.
+    564238|00000000||Não estou gostando disso.
+    564242|00000000||Vai gostar em breve...
+    564034|00000000||Só queria...
+    564035|00000000||Vá se encontrar com Avallac'h. Ele queria falar com você, aparentemente.
+    564122|00000000||Espero que ela...
+    564123|00000000||Ela vai ficar bem. Ela é mais resistente do que achamos.
+    564126|00000000||Você tem que visitar o Avallac'h. Ele queria falar com você, aparentemente.
+    564202|00000000||Sempre nos amamos, você nos ama...
+    564223|00000000||Não adianta lutar. Temos que aproveitar o que temos.
+    564225|00000000||Então, preparamos algo especial.
+    564227|00000000||Venha ao Pescador-Rei esta noite...
+    564243|00000000||Traga vinho, muito vinho.
+    564246|00000000||Até mais, amor.
+    564248|00000000||Mal posso esperar.
+    564264|00000000||Isso vai ser interessante...
+    564236|00000000||Juntos? Continuem...
+    564233|00000000||Gosto dessa ideia.
+    564188|00000000||Yen e eu, bem, nós conversamos e chegamos à conclusão...
+    564197|00000000||... Que perdemos muito tempo brigando... por sua causa.
+    564198|00000000||Em breve provavelmente teremos de enfrentar a Caçada Selvagem, certamente lutaremos com Eredin... Quem sabe o que pode ocorrer?
+    564199|00000000||Então, decidimos que devemos aproveitar ao máximo o tempo que temos. Juntos.
+    564174|00000000||Vocês estão agindo estranho...
+    564255|00000000||Nós? Não...
+    564162|00000000||Vocês estão agindo de modo estranho.
+    587969|00000000||Geralt... Geralt, acorde.
+    587971|00000000||O... O quê? Yen? Algo errado?
+    587973|00000000||Acorde. Sente-se conosco por um instante.
+    587329|00000000||Triss? Você aqui também? O que, ahm, está acontecendo?
+    587330|00000000||Precisamos lhe contar algo.
+    564151|00000000||Já que parece ter terminado, quem sabe...
+    564154|00000000||Sim, boa ideia.
+    562945|00000000||O que aconteceu?
+    564048|00000000||O nosso... amado bruxo estava demonstrando o que mais amamos dele: a sua inocência.
+    587959|00000000||Um descanso viria bem...
+    587962|00000000||Boa ideia. Durma.
+    564012|00000000||Dê uma volta, respire um pouco... Precisamos zarpar para Skellige. Avallac'h está esperando no porto.
+    564014|00000000||É claro. Estarei lá em breve.
+    563938|00000000||Conte-nos sobre o que falaram.
+    563940|00000000||Prefiro não contar. Ainda não, pelo menos.
+    563957|00000000||É claro. Quando estiver pronta...
+    563922|00000000||O que aconteceu? Conte-nos.
+    563923|00000000||Se quiser ficar só...
+    563959|00000000||Se quiser ficar só um pouco, para digerir, processar...
+    563961|00000000||Sim. Vou dar uma volta. Tenho que me acalmar.
+    564070|00000000||Lembre-se que precisamos ir a Skellige. Avallac'h aguarda no porto.
+    564072|00000000||Eu lembro. Estarei lá em breve.
+    564250|00000000||Então?
+    564252|00000000||Eu não sei... Não quero falar sobre isso. Vou dar uma volta.
+    562966|00000000||Como foi?
+    562967|00000000||Sem baixas. Nada mal. Eu acho.
+    562968|00000000||A Ciri sabe cuidar de si. Ela puxou a você..
+    559864|00000000||Pra cima dele!
+    559866|00000000||Matem essa aberração!
+    570944|00000000||O qu... o que está acontecendo?
+    570946|00000000||B-b-bruxo. Ele tem que morrer.
+    570948|00000000||Matem o bruxo.
+    568785|00000000||Morra, seu mutante!
+    569337|00000000||Droga...
+    569338|00000000||*Suspiro* Melhor pegá-lo.
+    535959|00000000||Abbé Faria?
+    535960|00000000||Quem quer saber?
+    535961|00000000||Gostaríamos de conversar.
+    536842|00000000||Está bem preso, não vai se mexer. Deve haver uma alavanca por aqui em algum lugar.
+    536925|00000000||A parede parece frágil...
+   1043842|00000000||Hm... O mecanismo está quebrado, faltando uma peça. Substituí-lo por outra coisa, talvez?
+    548998|00000000||Socorro!
+    548999|00000000||Pare de gritar, ou te machuco.
+    560181|00000000||Alarme! Intrusos!
+    560182|00000000||Argh!
+    560183|00000000||Pelo Fogo Eterno!
+    562440|00000000||Quem é você?
+    565192|00000000||Como entrou aqui?
+    565193|00000000||Intruuuuso!
+    569344|00000000||Corra! Ele está fugindo!
+    569371|00000000||Droga. Ele subiu a escada. Acho que vou ter que andar no telhado.
+    569505|00000000||O que é isso?! Bebendo em serviço?!
+    569506|00000000||Quem dishe qui eu num poshu?
+    569525|00000000||Maldito seja, bruxo!
+    569539|00000000||Alaaarme!
+    569547|00000000||Psst! Geralt! Aqui!
+   1043836|00000000||Os guardas estão bêbados... podem ficar mais barulhentos do que homens sóbrios se eles me notarem.
+   1043838|00000000||Geralt!
+   1043916|00000000||Isso deve servir.
+   1044160|00000000||Isso vai vir a calhar.
+   1052080|00000000||Peguem-no!
+   1052082|00000000||Tem certeza que os guardas não sabem sobre a passagem pelas ruínas e não colocaram sentinelas lá?
+   1052088|00000000||Eles não fizeram isso.
+   1052090|00000000||Como você pode ter tanta certeza?
+   1059181|00000000||Os hierarcas de Novigrad tomaram grande precaução de erradicar todas e quaisquer memórias das raízes élficas da cidade.
+   1059183|00000000||Mesmo se alguém lembrar que as ruínas estão lá, eles não têm ideia do quão extensas são e até onde vão. E estou absolutamente certa de que ninguém pensou em colocar sentinelas lá.
+   1059185|00000000||Espero que tenha razão.
+    580023|00000000||O que é isso? Você enlouqueceu?!
+    580025|00000000||Queríamos nos divertir, não deformar as nossas caras!
+    577355|00000000||Eu me desentendi com o... o companheiro da Ciri.
+    580032|00000000||Até mais.
+    580040|00000000||Entendo. Nos encontramos no Dandelion.
+    580034|00000000||Desculpe por isso.
+    580036|00000000||Não precisa pedir desculpas por agir de acordo com a sua natureza.
+    580038|00000000||Encontro com você no Dandelion.
+    580031|00000000||Sinto muito.
+    580017|00000000||Ciri, por menos que eu goste de dizer isto, acho que está na hora de vocês partirem.
+    577357|00000000||Eu sei. A magia se foi. Desculpe.
+    580030|00000000||Vou até a beira do rio. Quero caminhar só por um instante.
+    577360|00000000||Deveria ter esclarecido isso para o seu amigo!
+    562199|00000000||Margarita!
+    562201|00000000||Quem... Quem é você?
+    562203|00000000||Geralt? Deuses, estou alucinando...
+    562208|00000000||Vim te tirar daqui.
+    562287|00000000||Não adianta... Nunca vai conseguir abrir sem a chave...
+    562288|00000000||O guarda está sempre com ela. A sua sala fica no andar de cima...
+    562322|00000000||Já volto.
+    537112|00000000||Sem chance. Os dois morreremos aqui.
+    562231|00000000||Síle?
+    562224|00000000||Eles a capturaram antes. A condição dela é delicada.
+    537133|00000000||Vamos.
+    537140|00000000||Yen, devemos ir. Não há nada que possamos fazer.
+    537141|00000000||Não. Mas podemos ajudá-la a morrer do jeito que ela deseja.
+    537142|00000000||Não o farei.
+   1062825|00000000||Eu o farei.
+   1062827|00000000||Vamos. Precisamos nos apressar, ou perderemos Rita também.
+    562412|00000000||Não consigo passar pelo portal com vocês dois. Você vai precisar sair por conta própria.
+    562414|00000000||Não gosto de portais mesmo. Vá.
+    537126|00000000||O que você está fazendo?
+    562331|00000000||Yen insistiu em vir.
+    537145|00000000||Rita!
+    562483|00000000||O que eles fizeram? Quando eu botar as mãos naqueles filhos da puta...
+    562485|00000000||Ajudarei com gosto se viver para ver isso.
+    537146|00000000||Devo levá-la daqui imediatamente.
+    537138|00000000||Engraçado... Houve uma época em que eu teria te pedido para não fazer isso...
+    537139|00000000||Não, você nunca pediria. É orgulhosa demais.
+    537134|00000000||Yen, tira a Rita daqui.
+    537135|00000000||Geralt...
+    562396|00000000||Yenna, pelo menos uma vez, não discuta com ele.
+    537132|00000000||Eu faço isso.
+    560049|00000000||Rita! Síle?!
+    562334|00000000||Quando eu botar as mãos nos filhos da puta...
+    537127|00000000||Yenna... Não conseguirei aguentar...
+    562366|00000000||Aguente firme. Precisa resistir.
+    562386|00000000||Aaaargh!
+    562367|00000000||Estou morrendo, Yenna. Sou uma feiticeira. Deixe-me morrer com dignidade.
+   1061450|00000000||O que... o que é isso?
+   1005986|00000000||Deixe-nos passar.
+   1006076|00000000||Tenho algo a fazer lá em cima. Então, deixe-nos passar.
+   1006077|00000000||Ha, ha, ha!
+   1006088|00000000||Me dando ordens? Você? Um humano?
+   1005987|00000000||Eu passei no teste. Aqui está a prova.
+   1006070|00000000||Reconhece?
+   1005988|00000000||Oren do Desafiador.
+   1006071|00000000||Uma sentença de morte.
+   1005985|00000000||Eu passei no teste. Aqui está a prova.
+   1005980|00000000||Hm...
+   1005981|00000000||Qual seu nome, garota?
+   1005982|00000000||Qual o seu?
+   1005983|00000000||Hmm... seu nome não importa. No topo, você irá perdê-lo e receber outro. Pode passar.
+   1005984|00000000||E você?
+    587712|00000000||Ouviu isso?! Uma revolta de magos!
+    588014|00000000||Eles fizeram um motim em Deireadh!
+    587713|00000000||Que venham!
+    588020|00000000||Vão sentir o gosto da minha lâmina!
+    577264|00000000||É difícil encontrar bons guardas hoje em dia...
+    577265|00000000||Silêncio. Vai despertá-los.
+    577267|00000000||Espere aqui. Eu entro e abro a porta para você.
+    577315|00000000||Só não faça barulho.
+    577269|00000000||Trancada. Temos que dar outro jeito de entrar.
+    577271|00000000||Rápido, entre.
+    577273|00000000||Temos que deixar a Ciri e os demais entrarem.
+    577314|00000000||Temos que acalmar os cavalos antes que acordem os guardas.
+    577317|00000000||*Assobia*
+    577318|00000000||Finalmente!
+   1043674|00000000||Aegar, fique vigiando. Ciri e eu tentaremos entrar.
+   1043676|00000000||Está bem.
+   1061345|00000000||Acalme os cavalos. Aegar e eu iremos abrir a porta.
+   1062165|00000000||Hah. Aqui está a chave.
+   1043679|00000000||Droga. Está bloqueado por dentro.
+   1043681|00000000||O que tá fazendo aqui? Vá se foder, vagabundo... O pessoal tá tentando descansar, não vê?
+   1061865|00000000||Tenho que dar outro jeito de entrar.
+   1011417|00000000||Trancado. Pelo outro lado, ao que parece.
+   1011418|00000000||Vamos prosseguir. Deixaremos isso pra depois.
+   1058811|00000000||Vaidade?
+   1061206|00000000||Tem certeza de que você não foi seguido?
+   1061208|00000000||Sim.
+    555539|00000000||O que é isso?
+    550339|00000000||Hã... Nada. Uma imagem preliminar.
+    555568|00000000||O quê?
+    555570|00000000||Pare de interromper. Preciso me concentrar.
+   1048266|00000000||Você mencionou Kovir no farol. Entendo o porquê agora...
+    550355|00000000||Aquilo foi o passado recente. Qualquer coisa pode acontecer com ela nas mãos do Dijkstra. Vamos.
+    550356|00000000||Não tão rápido. A primeira imagem... O que era aquilo?
+    555634|00000000||Nada, de verdade.
+    550357|00000000||Não me enrole. Sei como a hidromancia funciona. A imagem apareceu porque você estava pensando naquilo.
+    555657|00000000||É que... o Rei Tancred me pediu para virar sua conselheira real, em Kovir.
+    555662|00000000||Você recusou o pedido dele, claro.
+    555683|00000000||Você aceitou?
+    555721|00000000||Só um idiota recusaria.
+    555692|00000000||Uma oferta generosa. Espero que você tenha aceitado.
+    555663|00000000||Espero que você tenha aceitado.
+    555756|00000000||A casa... O que era aquilo?
+    555661|00000000||O que você disse?
+    555684|00000000||Hm. Espero que você tenha recusado...
+    555699|00000000||Não recusei... Falei que sim.
+    555701|00000000||Triss... Sério que esses últimos meses não te ensinaram nada?
+    555704|00000000||O Tancred está apoiando os magos desde o começo. A evacuação só foi possível por causa da ajuda dele!
+    555707|00000000||Agora, ele quer reativar o Conselho e o Conclave. E eu vou dirigir os dois.
+    555728|00000000||Você faz alguma ideia de no que está se metendo?
+    555783|00000000||É uma ótima oportunidade... Parabéns...
+    555786|00000000||Você não parece estar muito animado...
+    555758|00000000||Só estou um pouco preocupado. Tem certeza de que você está pronta para mergulhar na política de novo?
+    555772|00000000||Fiquei na dúvida no começo... mas, no fim das contas, é uma coisa com a qual sempre sonhei.
+    555773|00000000||O sonho está ao meu alcance agora. Não vou deixá-lo escapar.
+    555730|00000000||Parabéns, você será fantástica.
+    555779|00000000||Você merece. É a melhor decisão que o Tancred já tomou.
+    555781|00000000||Obrigada. Espero que eu esteja à altura.
+    555789|00000000||Você estará. Com você na direção, talvez o Conselho consiga fazer algo bom, começar a ajudar as pessoas.
+    555808|00000000||O rei de Kovir... Qual é a intenção dele?
+    555800|00000000||O Tancred escolheu uma briga estranha... O Norte inteiro está caçando os magos, e ele está reativando o Conselho?
+    555809|00000000||Vivemos uma época conturbada, e talvez o Tancred seja o único que lembra que os magos são uma força poderosa.
+    555813|00000000||E que sabemos como expressar nossa gratidão.
+    555727|00000000||O que era aquela casa?
+    555815|00000000||A visão mostrava uma casa, não uma corte real...
+    555817|00000000||É a casa que está à nossa espera em Pont Vanis.
+    555819|00000000||Quando tivermos terminado aqui, quando tudo isso tiver acabado, quando tivermos derrotado a Caçada e a Ciri estiver segura, eu gostaria que a gente morasse lá. Juntos.
+    555834|00000000||Eu... estou surpreso... Não sei direito o que dizer...
+    555835|00000000||Você não precisa decidir agora.
+    555843|00000000||Mas fico feliz por você saber. Eu estava com medo de como você reagiria. Se mudar para uma casa permanente é algo sério.
+    555841|00000000||Se você não quiser isso, eu recuso a proposta. O que eu quero de verdade é ficar com você... ficar junto e...
+    555845|00000000||Triss?
+    555847|00000000||Sim?
+    555849|00000000||Vamos ficar juntos. E você não precisa recusar nada.
+    555822|00000000||Preciso pensar no assunto.
+    555869|00000000||Não precisa desistir dessas coisas. Você não leva jeito para ser um membro da corte. Eu sei disso...
+    555874|00000000||Você pode seguir o Caminho quando quiser, pelo tempo que quiser...
+    555880|00000000||É só que... você terá um lar para o qual voltar.
+    555885|00000000||Isso costumava ser Kaer Morhen... mas a casa da sua visão parece ser bem mais aconchegante...
+   1048261|00000000||Já falamos sobre isso, lembra-se? No farol.
+    555851|00000000||Não sei, Triss...
+    555867|00000000||A vida de um bruxo não é moleza. Mas gosto de estar no Caminho, dormindo sob o céu estrelado, acordando com orvalho no rosto...
+    555823|00000000||Eu gosto da vida de bruxo.
+    555821|00000000||Claro.
+    555825|00000000||Parece que você já planejou tudo...
+    555827|00000000||Não gostou?
+    555830|00000000||Gostei. Muito.
+    555939|00000000||Hehe... Depois te conto os detalhes... No momento, precisamos resgatar a Philippa.
+    555941|00000000||Certo.
+    555983|00000000||Vamos.
+    556003|00000000||Vamos para a casa de banho, talvez não seja tarde demais.
+    555990|00000000||Casa de banho. Vamos lá.
+    555981|00000000||Aquilo foi o passado ou o futuro?
+    555995|00000000||Aquilo foi o passado ou o futuro?
+    556000|00000000||O passado recente. Temos que correr.
+    550334|00000000||Greame et dwyr! Deagnis cair-lle ess pyr'shena a et cleytte!
+    550335|00000000||Isso não me é estranho... Uma casa de banho... Conheço esse lugar...
+    550336|00000000||Dijkstra!
+    550337|00000000||Ele está com ela. Na casa de banho dele.
+    555626|00000000||Devia ter imaginado isso.
+    555400|00000000||Vamos começar.
+    555402|00000000||Observe a superfície da água com atenção. Não podemos deixar nada passar batido.
+    550242|00000000||Greame et dwyr! Rhobeir'me gelle a failte!
+   1061285|00000000||Chegamos.
+   1061288|00000000||Está tudo calmo e silencioso. Não seremos perturbados.
+    579853|00000000||Isso foi errado.
+    579905|00000000||Fico feliz em ver que está feliz, mas não acho que o que fizemos foi certo.
+    579910|00000000||Como consegue cercar-se de gente tão chata?
+    579912|00000000||Deixe-o em paz, Aegar. Geralt é assim mesmo, correto.
+    579944|00000000||Obrigado por ajudar, e pela visita.
+    579949|00000000||Foi tão bom ver vocês novamente. Aguentem firme e cuidem-se.
+    579951|00000000||Não esqueça de nós. Até mais.
+    579964|00000000||Devo dar adeus ao Valdo.
+    579952|00000000||Está bem. Encontro você com o Dandelion então. Tenho algumas coisas a fazer na cidade.
+    579970|00000000||Até mais, Geralt.
+    579903|00000000||É. É bom variar da matança de monstros.
+    579852|00000000||Foi mesmo.
+    577331|00000000||Uhu! Conseguimos!
+    577332|00000000||Excelente trabalho! Você viu os dois tolos que tentaram nos perseguir?
+    579899|00000000||Quase tropeçaram e caíram com os próprios pés!
+    579849|00000000||Obrigada, Geralt. Foi esplêndido!
+   1055188|e87aca57||Governador da prisão
+    558989|00000000||O que te preocupa agora?
+    559015|00000000||O que está te preocupando agora?
+    559018|00000000||*suspiro* O que nos aguarda…
+    558990|00000000||Primeiro, preciso derrotar a Caçada.
+    559020|00000000||Hmm... A vida dos contos de fadas, mas temos que derrotar a Caçada Selvagem antes.
+    559051|00000000||Uma coisa de cada vez.
+    559065|00000000||Não se preocupe com isso por enquanto. Uma coisa de cada vez.
+    559058|00000000||Sabe que pode contar comigo não importa o que acontecer, não é?
+    559062|00000000||Eu sei. Obrigada, Geralt.
+    559052|00000000||O que será, será.
+    559064|00000000||Você se preocupa demais. O que será, será.
+    559144|00000000||Quer dizer...?
+    559185|00000000||Ou seja...?
+    559194|00000000||Comum.
+    559145|00000000||Eu entendo.
+    559187|00000000||Eu também. Ser um bruxo é, às vezes, um fardo.
+    559282|00000000||A minha "herança" também. Gostaria tanto de ser comum.
+    559281|00000000||Você escolhe quem você é.
+    559287|00000000||A sua vida é sua, e só sua. Você escolhe quem é.
+    559289|00000000||Geralt, você sabe que isso nunca foi verdade.
+    559459|00000000||Dons podem ser renunciados...
+    559461|00000000||Você sempre pode renunciar um dom, recusá-lo...
+    559462|00000000||Não é tão fácil. Eu já tentei, lembra?
+    559475|00000000||Além do mais, mesmo que isso me libertasse do Eredin, sempre haverá aqueles com algum plano me incluindo.
+    559309|00000000||Não seja ingênua.
+    559328|00000000||Quanto antes se livrar dessa ilusão, melhor.
+    559329|00000000||Como assim?
+    579397|00000000||Não.
+    579404|00000000||Estávamos. Até alguém nos interromper.
+    579423|00000000||Meio irritadiço esse seu amigo.
+    579428|00000000||Vocês têm muito em comum.
+    579430|00000000||Como foi com o comerciante?
+    579398|00000000||Conseguiu os cavalos?
+    579406|00000000||Prefiro saber como você se deu com o comerciante. Conseguiu alguns cavalos?
+    585949|00000000||Eu os compro para você.
+    586015|00000000||Deve haver outro jeito de resolver isso...
+    586070|00000000||Por coincidência, tenho um dinheiro que posso te emprestar.
+    586017|00000000||Não teríamos como pagar de volta.
+    586019|00000000||Não precisariam.
+    586063|00000000||É uma pena o imperador não ter outra filha. Poderíamos comprar todos os cavalos de Novigrad.
+    586026|00000000||É uma oferta generosa, mas não vai resolver esta situação.
+    586028|00000000||O comerciante não negou o nosso dinheiro, ele nos negou. "Não venderei para lixo". Acredito que essas foram as palavras.
+    586094|00000000||E se ele não vai vender, não temos escolha além de roubar.
+    586100|00000000||Não sei. Não parece ser a melhor ideia.
+    586098|00000000||Não gosto dessa ideia.
+    586097|00000000||Você me convenceu.
+    577198|00000000||Ah, o que posso fazer? Tenho que ajudar quem precisa...
+    577199|00000000||Isso, isso!
+    577200|00000000||Devo dizer, que não parecia ser do tipo...
+    579627|00000000||Que tipo?
+    579629|00000000||Firme. É hora de ir. Nos encontraremos nos estábulos.
+    577195|00000000||Vamos roubar uns cavalos.
+   1058973|00000000||Nada disso nos diz respeito.
+   1058976|00000000||Isso me diz respeito sim. Esses são meus amigos.
+   1058979|00000000||Eles se viram sozinhos.
+   1058981|00000000||Se Ciri deseja andar conosco, ela deveria. Ela não é sua propriedade.
+   1058983|00000000||Eu não deixarei ela arriscar o pescoço com ladrões.
+    577196|00000000||Não pretendo roubar.
+    579579|00000000||Não dá para comprá-los?
+    579581|00000000||Compre os cavalos. Por que não podem?
+    579583|00000000||Com que dinheiro?
+    579598|00000000||Ciri lhe deu um bolso cheio...
+    579600|00000000||É o suficiente para um, no máximo. Considerando que, no mínimo, precisamos de quatro.
+    579602|00000000||Geralt, pare de complicar. Não vamos roubar tudo do comerciante, e é uma chance de fazer algo além de fugir da Caçada Selvagem!
+    579618|00000000||Não nos faça implorar!
+    579478|00000000||Ah. É uma causa perdida. O homem se recusou a negociar. Disse que compraria, mas ele pediu três braços e uma série de pernas por um animal saudável.
+    579495|00000000||Precisamos de cavalos, mas precisamos encontrar outro jeito de consegui-los.
+    579530|00000000||Ehhh. Pressinto problemas.
+    579532|00000000||Sabia que perceberia.
+    579541|00000000||Queremos entrar no estábulo principal do sujeito. Com trinta cabeças, umas a mais ou a menos não farão diferença.
+    579547|00000000||Quer vir?
+    579554|00000000||Mas é claro!
+    579402|00000000||Fogueiras, vinho, malabaristas... O que mais se pode querer?
+    579426|00000000||Posso mencionar algumas coisas pelas quais eu trocaria, mas é uma vida...
+    579455|00000000||Algo está lhe preocupando. As coisas não foram bem com o comerciante?
+    579396|00000000||Sim.
+    577174|00000000||Esse é o Pablo. Pretendo aprender a fazer malabares um dia.
+    579351|00000000||Uma habilidade incrivelmente útil.
+    579395|00000000||Finalmente encontrei vocês! Estão se divertindo?
+    559344|00000000||Um dia, Avallac'h irá pedir um favor.
+    559348|00000000||Talvez... Mas se for, será daqui a muito, muito tempo...
+    559350|00000000||E tenho certeza que, seja o que for, ele me dará uma escolha. Terei a opção de recusar.
+    559351|00000000||Espero que tenha razão...
+    559321|00000000||Se você diz...
+    559326|00000000||Duvida?
+    559308|00000000||Espero que tenha razão.
+    559300|00000000||Já foram as feiticeiras da Estada, agora o meu pai, até mesmo a Yennefer...
+    559306|00000000||Está esquecendo do Avallac'h...
+    559307|00000000||Avallac'h é diferente...
+    559324|00000000||Ele não quer que o meu dom caia nas mãos erradas, que não saia de controle. É por isso que ele me ensina e me protege.
+    559290|00000000||Então é hora de acabar com isso. Quando derrotarmos Eredin, você será livre.
+    559207|00000000||Sério? Eredin não é o único. Há outros com planos para mim.
+    559380|00000000||Derrotaremos Eredin, e você será livre.
+    559261|00000000||Tudo por causa do maldito Sangue Ancestral! O meu dom. A minha maldição.
+    559270|00000000||Ele me deu todos esses poderes, mas também foi por causa dele que passei a vida fugindo, me escondendo.
+    559285|00000000||O problema é que não o é. Você nasceu para a grandeza.
+    559293|00000000||É o que ouço desde que nasci.
+    559280|00000000||Você nasceu para a grandeza.
+    559183|00000000||Bêbada ou aos risos? Seja qual for o caso, hoje é o dia.
+    559189|00000000||*Ri* Não é o que quis dizer.
+    559197|00000000||Eu gostaria de ser comum.
+    559143|00000000||Bêbada?
+    559084|00000000||Ha, ha, ha!
+    559132|00000000||Você prometeu!
+    559134|00000000||De brincadeira!
+    559074|00000000||Às vezes, gostaria de ser como eles.
+    559056|00000000||Como assim?
+    559050|00000000||Como assim?
+    559025|00000000||Temo que lutar contra a Caçada será apenas o começo, pelo menos para mim.
+    559034|00000000||Derrotar a Caçada não vai ser fácil, mas com a ajuda da Estada e do Avallac'h... A gente consegue.
+    559006|00000000||Bom plano. Acho que vou com você.
+    559021|00000000||Então nosso futuro está decidido.
+    559044|00000000||Se, é claro, houver mais do que cinzas para nós quando isto acabar.
+    558988|00000000||Ótimo plano.
+    537215|00000000||Mais vinho?
+    537216|00000000||Brigado.
+    537217|00000000||Ainda bem que ficamos.
+    537218|00000000||Também acho.
+    537219|00000000||Gostam de você por aqui.
+    537224|00000000||Gosto deles também. Ah, adoraria me juntar a eles...
+    558985|00000000||Beber e correr. Viajar de cidade em cidade. E sem me importar com nada.
+    172316|3a2616f8||Caçador de bruxas
+    528874|00000000||Para trás! Vocês todos vão poder olhar em breve!
+    528875|00000000||Aquela vadia vai ficar lá até apodrecer!
+    546562|00000000||Chegou, finalmente.
+   1059364|00000000||O que vamos fazer?
+   1059366|00000000||Tem de chegar perto dos guardas. Eu... eles me reconheceriam, prefiro não mostrar o meu rosto.
+   1059368|00000000||Certo. Fique aqui.
+    546561|00000000||Dois guardas foram embora. É agora ou nunca.
+   1075039|00000000||Ainda não. Devemos esperar até o anoitecer.
+    576140|00000000||Você a matou! Você matou nossa irmã!
+    576142|00000000||Vai se arrepender disso!
+    538331|00000000||Aaaaah...
+    538335|00000000||Me sinto duzentos anos mais jovem.
+    538337|00000000||Tragam a carne.
+    536366|00000000||Aaaah...
+    536367|00000000||Mais carne.
+    538325|00000000||Me sinto duzentos anos mais jovem.
+    576141|00000000||Ela matou a nossa irmã!
+    537173|00000000||He, he. Explorador de tumbas. Parece que este gostava de coisas élficas...
+    545696|00000000||Só pode ser brincadeira...
+   1060569|00000000||Droga. Esqueci o vinho.
+   1061348|00000000||Hmm... talvez um comerciante por perto...?
+   1054110|00000000||É isso.
+   1058650|00000000||Hmm... Talvez precise deixar ela relaxar?
+    537179|00000000||Roupas molhadas... Alegria...
+    545655|00000000||Droga, quantos esporos no ar.
+    565211|00000000||Preciso de uma dose do antídoto.
+    560366|00000000||Ninguém em especial.
+    560390|00000000||Ninguém de importância.
+    560415|00000000||Posso encontrar um ótimo lugar para você dormir esta noite. Um "ninguém" como você seria interessante...
+    560365|00000000||Um defensor dos oprimidos.
+    560369|00000000||Um defensor dos oprimidos.
+    560375|00000000||Hmm... Que coincidência! Fui oprimida de cima a baixo. Quem sabe você possa ser gentil o suficiente e me ajudar a me recuperar?
+    560377|00000000||Bea, sua assanhada, controle-se! Este é o Geralt!
+    560378|00000000||Ah! Ahaha! Por que não disse logo de cara?
+    560418|00000000||Ciri, direto ao ponto.
+    560451|00000000||Ciri, não tinha algo que resolver?
+    560457|00000000||Certo.
+    560467|00000000||Então, o que traz vocês aqui, meus amores?
+    560469|00000000||Queria lhe agradecer por tudo.
+    560470|00000000||Ah, pare! Qualquer um teria feito o mesmo no meu lugar!
+    560475|00000000||Não muitos teriam feito com tanta coragem. Obrigada.
+    571144|00000000||Isto é para você. É uma coisinha para lembrar de mim.
+    560477|00000000||Ora. É lindo! Obrigada! Então? Vai ficar para um cozido? O taverneiro matou um leitão esta manhã.
+    560484|00000000||Obrigada, mas ainda temos que ir a Longina.
+    560498|00000000||Ah, vai ver o Valdo, é? Não deteremos vocês, então. Eles vão alimentá-los bem por lá, com certeza.
+    560486|00000000||Passem bem os dois. E cuide dela, bruxo.
+    560499|00000000||Cuidarei. Até mais.
+    560420|00000000||É sério? O quê, por exemplo?
+    560421|00000000||Por exemplo, como você a salvou da tristeza tantas vezes que ela perdeu as contas. E como você sempre sabe fazê-la rir.
+    560438|00000000||É a Ciri, é claro. Outras damas, no entanto...
+    560448|00000000||Bea, estou bem aqui.
+    560452|00000000||Muito bem.
+    560417|00000000||O que ouviu?
+    560383|00000000||*risada* É um prazer conhecê-lo. Ouvi muito sobre você.
+    560386|00000000||Geralt de Rívia.
+    560388|00000000||AQUELE Geralt?
+    560364|00000000||Geralt de Rívia.
+    545034|00000000||Obrigada. Eles pareciam mais determinados desta vez...
+    545035|00000000||Não deveria provocá-los. Eu avisei.
+    560355|00000000||E vou barrar os não-humanos do estabelecimento porque uns bandidos me ameaçaram? Até parece!
+    560357|00000000||É tão bom vê-la, Bea.
+    545036|00000000||Você também, Ciri. Quem é o companheiro charmoso?
+    536564|00000000||Conseguimos.
+    540336|00000000||Por pouco. Como foi lá embaixo?
+    540338|00000000||Só matei duas das Moiras.
+    588426|00000000||A terceira fugiu... com o medalhão de Vesemir. Minha única lembrança.
+    588652|00000000||Vir aqui? Boa ideia.
+    588654|00000000||Eu sabia que íamos conseguir. Desde o começo.
+    588645|00000000||Boa ideia ter vindo aqui.
+    588648|00000000||Você vingou Vesemir.
+    588650|00000000||Avallac'h diz que a vingança só satisfaz quando é servida fria. Ele está errado.
+    588644|00000000||Você vingou Vesemir.
+    588646|00000000||Tivemos sorte, muita sorte.
+    588656|00000000||Tivemos sorte dessa vez. Espero que ela fique com a gente.
+    588658|00000000||Não é sorte. Você é um assassino profissional e eu sou igualzinha ao meu pai.
+   1013517|00000000||Então, para Novigrad?
+    540360|00000000||Ainda não.
+    540364|00000000||Me dê um minuto. Sou velho, preciso descansar mais.
+    581166|00000000||Hm. É, e você precisa mesmo.
+    581168|00000000||Vamos ficar um pouco mais.
+   1050802|00000000||Me dê um minuto. Sou velho, preciso descansar mais.
+   1050806|00000000||Vamos ficar um pouco mais.
+   1050800|00000000||Ainda não.
+   1050799|00000000||É, vamos.
+   1050818|00000000||É, vamos andando.
+   1050824|00000000||Vamos.
+    540362|00000000||É, vamos andando.
+    581161|00000000||Obrigada por ter vindo comigo.
+    581163|00000000||Vem cá.
+    588674|00000000||*Sorrindo e suspirando* Vamos.
+    540359|00000000||É, vamos.
+    588660|00000000||Agora vamos encontrar Eredin e matá-lo.
+    588663|00000000||Uma moeda pelos seus pensamentos.
+    588665|00000000||Pensando no que dizer pra Yennefer quando chegarmos em Novigrad.
+    588667|00000000||Conte a verdade a ela. Sempre.
+    588670|00000000||Imagino se Triss e Yennefer encontraram a feiticeira da Estada.
+    588672|00000000||Devíamos nos unir a elas.
+    545562|00000000||Andorinha boazinha... Chêro bom...
+    570971|00000000||Sou tua mestra agora. Tens de me proteger, entendes?
+    570972|00000000||Bart endeente.
+    560567|00000000||Fica aqui e não deixa ninguém passar!
+    560569|00000000||Bart ficaqui. Ninguém passaqui.
+    557230|00000000||Precisamos ir para a Ilha do Templo.
+    557231|00000000||Não me lembro de você ser religiosa...
+    557612|00000000||E nem virei uma. Vamos.
+    557232|00000000||Vamos começar nos Miúdos.
+    557233|00000000||Quem vamos visitar?
+    557493|00000000||Você verá...
+    557227|00000000||Você na frente.
+    557225|00000000||Claro, vamos lá.
+    557508|00000000||Sem problema, vou esperar aqui.
+    557516|00000000||Nesse caso, te espero lá, no mercado de Douraburgo.
+    557234|00000000||Adoraria te acompanhar, mas preciso fazer uma coisa antes.
+    557226|00000000||Preciso fazer uma coisa antes.
+    557446|00000000||Da última vez que fui a Novigrad, me meti em algumas confusões...
+    557833|00000000||Foi o que ouvi dizer.
+    557376|00000000||Algumas pessoas me ajudaram na época. Outras pessoas... nem tanto. Agora, minha intenção é retribuir as duas coisas.
+    557377|00000000||Você vem?
+    557304|00000000||Não aguentei. Fiquei curioso para saber que "coisinha" é essa que você precisa resolver.
+    557501|00000000||Podemos ir?
+    557499|00000000||Uma das pessoas que mencionei para você... Um gesto de gratidão.
+    557237|00000000||Você está procurando algo específico?
+    557238|00000000||Hmm. Uma bijuteria bonita...
+    557444|00000000||Quer dar um presente para alguém?
+    557525|00000000||Pronto?
+    553345|00000000||A Yen já descobriu alguma coisa sobre a Rita?
+    553358|00000000||Sabe o que a Yen descobriu?
+    553361|00000000||Você vai precisar perguntar para ela, eu ando ocupada tentando encontrar a Philippa.
+    527056|00000000||Saudações, Triss.
+    527057|00000000||Vocês ficaram doidos?! Vocês foram atrás de Imlerith sozinhos?! Ao sabá?!
+    552810|00000000||Como você teve coragem de arriscar a vida da Ciri?!
+    552813|00000000||Tivemos que fazer isso.
+    552855|00000000||A Ciri tinha que fazer isso. Eu não podia deixá-la sozinha.
+    552865|00000000||Você teria feito a mesma coisa no meu lugar.
+    552861|00000000||Além disso, eu nunca deixaria nada acontecer com a Ciri. Você sabe disso.
+    552829|00000000||Mas não aconteceu. Eu estava lá. Estava com a situação sob controle.
+    552840|00000000||Tudo bem se mudarmos de assunto?
+    552858|00000000||Além disso, eu estava lá o tempo todo, a situação estava sob controle.
+    552842|00000000||Eu não devia ter feito isso... desculpe.
+    552850|00000000||Por sorte, as coisas acabaram bem, mas podia ter sido diferente.
+    552852|00000000||Eu sei. Mas o Imlerith já era. É isso o que importa.
+    552812|00000000||Desculpe, eu não devia ter feito isso.
+    552811|00000000||Acalme-se. Deu tudo certo.
+    552823|00000000||Ora, vamos. A gente saiu bem disso tudo. Não podemos dizer a mesma coisa do Imlerith.
+    552825|00000000||Esse é o único consolo que encontro nisso. Mas isso não justifica nada.
+    552826|00000000||Você sabe o que poderia ter acontecido?
+    552831|00000000||É. Mas eu nunca deixaria a Ciri correr nenhum perigo. Você sabe disso.
+    553503|00000000||Passei por uma unidade de caçadores de bruxas a caminho para cá.
+    553517|00000000||A cidade está com a cara do Radovid. E passamos por um grupo considerável de caçadores de bruxas na entrada...
+    553541|00000000||Novigrad é uma causa perdida. A menos que por um milagre o imperador conquiste a cidade.
+    554344|00000000||Hm, nunca pensei que os magos pudessem gostar do Emhyr...
+    554345|00000000||Antes a previsibilidade do Emhyr e sua liberdade aparente que a loucura do Radovid, cheio de ódio por tudo o que tenha qualquer coisa a ver com mágica.
+    570839|00000000||Passei por piras em chamas a caminho para cá. Não-humanos.
+    570840|00000000||Passei por piras em chamas a caminho da cidade. Havia não-humanos nelas.
+    570849|00000000||As coisas ficam cada dia piores. Não há mais nenhum mago na cidade, então os caçadores tiveram que encontrar mais alguém para aterrorizar.
+    570853|00000000||Precisamos resolver tudo o quanto antes e ir embora de Novigrad.
+    552869|00000000||Conseguiu convocar as integrantes da Estada?
+    552892|00000000||Conseguiu algum progresso na Estada? Achou alguém disposto a ajudar?
+    552897|00000000||A coisa parece estar feia... A Ida recusou logo de cara, e a Francesca não sai do próprio reino, nem com uma guerra em andamento.
+    552943|00000000||Não sabemos nada sobre a Fringilla. Não conseguimos entrar em contato com ela.
+    553150|00000000||A Keira foi vista em Velen em um certo momento. Desde então, sumiu. Talvez ela esteja morta...
+    553136|00000000||Pode esquecer a Keira...
+    553174|00000000||Espero de verdade que a gente consiga entrar em contato com a Philippa e a Rita a tempo.
+   1059257|00000000||E quanto à Philippa?
+    553304|00000000||E eu espero que as coisas deem certo entre a gente, e que a gente encontre a Philippa e a Rita.
+    553179|00000000||Keira... pensava demais no próprio charme. Tentou cair nas graças do Radovid, se ofereceu para construir uma arma poderosa para ele...
+    553185|00000000||Eu tentei dissuadi-la da ideia, mas ela se recusou a dar ouvidos...
+    554482|00000000||O Radovid riu na cara dela e ordenou que ela fosse capturada e... empalada. Não pude fazer nada...
+    553208|00000000||A Keira brincou com o perigo. Ela tinha de saber que talvez a coisa terminasse mal.
+    553210|00000000||Uma coisa é queimar as mãos... mas ser empalada?
+    553193|00000000||Ela pediu por isto.
+    554488|00000000||Não se culpe. A Keira não gostava de ser racional.
+    554486|00000000||Não se culpe.
+    553192|00000000||Ela não merecia isso.
+    553198|00000000||É a cara dele... ele podia tê-la enforcado, decapitado... até uma pira em chamas teria sido uma morte mais rápida...
+    553206|00000000||Ele queria vê-la sofrer...
+    553215|00000000||Antes de irmos embora, temos que enterrá-la. Não vou deixar os corvos devorarem a carne pútrida dela presa em uma estaca.
+    553217|00000000||Posso fazer pelo menos isso...
+    553224|00000000||Os guardas entregarão o corpo... se fornecermos o estímulo correto.
+    553254|00000000||Espero de verdade que consigamos entrar em contato com a Philippa e a Rita antes que elas tenham um destino parecido.
+   1059268|00000000||Espero que consigamos alcançar Philippa antes que enfrente destino semelhante.
+   1059259|00000000||Fiz uma investigação, fiquei sabendo de coisas interessantes.
+   1059253|00000000||Ou seja?
+   1059255|00000000||Quer ouvir a versão longa ou curta?
+   1059247|00000000||Pena Keira não estar aqui para ajudar...
+   1059251|00000000||Verdade, mas ainda há chance de encontrarmos Philippa.
+   1059245|00000000||E quanto a Keira e Philippa?
+   1059241|00000000||Yen e eu resgatamos Margarita.
+   1059243|00000000||Eu sei. Dandelion acomodou ela no quarto do andar de cima. Ela está descansando, lentamente se recuperando.
+    553137|00000000||E as outras? Keira? Margarita? Philippa?
+    553142|00000000||Keira?
+    553148|00000000||Achei que principalmente você soubesse...
+    553297|00000000||Já vi combinações piores... Espero que as coisas deem certo entre eles.
+   1059261|00000000||Espero que as coisas deem certo, e que a gente encontre a Philippa e a Rita.
+    553325|00000000||A gente vai. A gente tem que conseguir.
+    553329|00000000||Vou dormir muito melhor quando as duas estiverem aqui, com a gente.
+    553188|00000000||Não se preocupe, a gente vai conseguir.
+    553187|00000000||Onde estão a Philippa e a Margarita?
+    553319|00000000||Você sabe onde elas estão?
+    553323|00000000||A Yennefer está investigando o paradeiro da Rita. Preciso descobrir onde a Philippa está.
+    553344|00000000||Descobriu alguma coisa sobre a Philippa?
+    553363|00000000||E aí? Descobriu alguma coisa?
+    554349|00000000||Algumas coisas que poderiam ser interessantes. Prefere a versão curta ou comprida?
+    554354|00000000||Adivinha.
+    554357|00000000||Em resumo, ela estava aqui debaixo do nosso nariz o tempo inteiro, nesta instalagem. Transfigurada e presa em uma jaula de dimerítio.
+    554359|00000000||A coruja do Zoltan?
+    554361|00000000||Uhum.
+    554362|00000000||Então por que ela não está mais aqui?
+    554365|00000000||Porque o Zoltan perdeu ela em um jogo de baralho há alguns dias.
+    554350|00000000||Curta, direto ao assunto.
+    554351|00000000||Comprida. Quero saber os detalhes.
+    554352|00000000||Conte-me tudo. Quero saber dos detalhes.
+    553364|00000000||Depois de fugir de Loc Muinne, a Philippa acabou vindo aqui para Novigrad. Ela foi atrás da ajuda do seu antigo amante, o feiticeiro Arthur de Vleester.
+    570878|00000000||De Vleester? Não me é estranho...
+    553407|00000000||A Philippa e um amante do passado... Algo me diz que essa história não acaba com um "felizes para sempre".
+    553411|00000000||Philippa o fez de tolo uma vez. Arthur foi atrás de vingança. Ele a convenceu que estaria mais segura como uma coruja. Ela se transformou e ele colocou uma faixa de dimerítio na pata dela.
+    553416|00000000||A caça aos magos começou logo depois. Infelizmente, o Arthur foi uma vítima. Leiloaram o patrimônio dele.
+    553417|00000000||Acontece que um certo anão conhecido nosso acabou sabendo do leilão...
+    553418|00000000||Zoltan. Hm. Quer dizer que a Philippa estava debaixo do nosso nariz esse tempo todo?
+    553419|00000000||"Estava". Exatamente. O Zoltan perdeu ela em um jogo de baralho há alguns dias.
+    553466|00000000||Pois é. Bem ao estilo do Zoltan...
+    553452|00000000||É a cara dele.
+    553451|00000000||Não é possível.
+    553460|00000000||É brincadeira, né?
+    553464|00000000||Infelizmente, não.
+    553473|00000000||Um homem apareceu aqui, deixou o Zoltan com uma mão na frente e outra atrás, e depois propôs que eles apostassem a coruja.
+    564428|00000000||É claro que ele ganhou. Depois, agradeceu ao Zoltan pelo jogo e foi embora.
+    553475|00000000||Quem era? Você sabe onde ele mora?
+    553476|00000000||Ele não é daqui. Ninguém o conhece.
+    553482|00000000||Ótimo. Temos alguma pista?
+    553485|00000000||Temos isto.
+    553488|00000000||Uma pena da Philippa coruja? Você está pensando em adivinhação?
+    553489|00000000||Mais especificamente hidromancia e uma forma de sortilégio. Precisamos de uma fonte onde não seremos incomodados.
+    553612|00000000||Já voltei.
+    553614|00000000||Ótimo, vamos encontrar a fonte.
+    554371|00000000||Preciso resolver uma assunto primeiro. Te encontro mais tarde?
+    554373|00000000||Tudo bem. Na fonte do lado de fora de Passiflora. E... rápido, por favor.
+    553550|00000000||Te encontro mais tarde em algum lugar.
+    553602|00000000||Não acha melhor buscar a Keira primeiro?
+    553603|00000000||Hm... Verdade...
+    553607|00000000||Nos encontramos na praça principal à noite.
+    553551|00000000||Vamos buscar a Keira primeiro.
+    553549|00000000||Vamos logo.
+    553615|00000000||Talvez uma que fica perto de Passiflora funcione...
+    555358|00000000||Boa ideia. Vamos.
+   1042034|00000000||Morra, seu mutante!
+   1074624|00000000||Imlerith está no topo, só pode estar.
+    332382|00365006||Bandido
+   1074087|00000000||A última das escolhidas agora irá subir o monte até o topo, para se encontrar com as Senhoras!
+   1074089|00000000||Que as festividades comecem! E que durem até o raiar do dia!
+   1060975|00000000||Não tá pronto. Tem que esperar.
+    558491|00000000||Para lá e para cá...
+    558495|00000000||Primeiro, fomos para Kaer Morhen. Depois, para Velen...
+    564308|00000000||Deixe-os em paz, Zoltan. Não está vendo que eles estão cansados?
+    526562|00000000||Aconteceu alguma coisa interessante?
+    526564|00000000||Aconteceu alguma coisa durante nossa ausência?
+    526565|00000000||Uma garota teve febre, Matt Oyster levou uma facada entre as costelas e a entrega de hidromel triplo de Alagante está atrasada...
+    551837|00000000||Dandelion...
+    532479|00000000||Obrigado, até mais.
+    532558|00000000||Obrigado. Parece que ficarei bem ocupado...
+    532486|00000000||Você deu seu melhor quarto para ele?
+    551809|00000000||Ele não pediu permissão.
+    532488|00000000||Eu tinha preparado outro quarto para ele, mas ele simplesmente passou por mim e se trancou na Suíte Rubi.
+    532556|00000000||Não deu as caras desde aquela hora. Mal come, bebe só água, e a única coisa que ouvi ele dizer é "Gostaria de saber quando Gwynbleidd e Zireael chegarem".
+    532478|00000000||Você deu seu melhor quarto para ele?
+    585634|00000000||A Estada das Feiticeiras... a Triss e a Yen iam recolher o que sobrou.
+    529671|00000000||É o que elas estão fazendo. A Triss está lá em cima, à sua espera. A Yennefer foi até a casa da Kate aleijada.
+    551810|00000000||A Yen? Em um antro portuário? Por quê?
+    529673|00000000||Ela não me disse, acredite se quiser.
+    529674|00000000||Ah, e aquele seu elfo está ficando na Suíte Rubi. Ele me pediu para te avisar que ele também está à sua espera.
+    532326|00000000||Tem mais alguém aqui além da gente?
+    526561|00000000||As feiticeiras... Cadê elas?
+    531723|00000000||Pra falar a verdade, a aparência de vocês está péssima! Um pouco de descanso lhes faria muito bem!
+    526559|00000000||Com prazer. É só me indicar um quarto.
+    531726|00000000||Claro. Vamos lá, andorinha, eu te levo.
+    531750|00000000||Vamos nos encontrar mais tarde, Geralt. Tenho que resolver uma coisinha. Vou tomar um banho e ficar à sua espera na praça de Douraburgo.
+    557297|00000000||Certo.
+    531745|00000000||Acabei de caçar as Moiras de Velen e um general da Caçada Selvagem.
+    531747|00000000||Bom, então sua manhã foi bem atarefada, hein...
+    558490|00000000||Imlerith... estávamos perseguindo-o.
+    531719|00000000||Dandeeelion! Prepare umas canecas! Chegou visita.
+    526558|00000000||Geralt! Ciri!
+    570817|00000000||Quando eu soube que o Geralt havia te encontrado...
+    570830|00000000||Também fico feliz por ver que você está inteiro, Dandelion.
+    570832|00000000||Onde vocês dois se meteram?
+   1012952|00000000||Há muito tempo, você mandou mesmo assassinos atrás de Dijkstra?
+   1012953|00000000||Acreditas que eu...? Não te lembras de que já fomos amantes?
+   1020981|00000000||Talvez seja apenas eu, mas acho que você considera isso ser razão suficiente. Na verdade... sempre me perguntei porque vocês se separaram. Ou brigaram.
+   1012954|00000000||*Suspiro* Sabe, Geralt, existem aqueles que mantêm a política fora de suas vidas pessoais, e aqueles que não mantêm.
+   1012955|00000000||Qual deles era Dijkstra?
+   1012956|00000000||O mais maçante dos dois.
+   1012951|00000000||Você realmente queria que Dijkstra fosse morto?
+   1012949|00000000||Passar bem.
+   1012914|00000000||Passar bem.
+   1012939|00000000||Por onde anda Saskia hoje em dia?
+   1012941|00000000||Onde está Saskia agora? Ela conseguiu se livrar do seu feitiço?
+   1012942|00000000||Eu perdi o controle dela quando a guerra começou. Não tenho noção de onde ela está agora.
+   1021014|00000000||Eu sei que você a usou, mas... não pude evitar a impressão de que você se importava com ela de algum modo.
+   1021016|00000000||Sério?
+   1012908|00000000||Então? O que é?
+   1012909|00000000||Não precisa me agradecer, Philippa. Estou sempre feliz em salvar seu traseiro. De nada.
+   1016623|00000000||Ias ganhar algo em troca, por isso me salvaste.
+   1012910|00000000||O que você quer?
+   1059871|00000000||Esse ano não, criança.
+   1059873|00000000||Eu queria tanto ver as Senhoras...
+   1062016|00000000||O portão vai estar fechado, eu já te falei.
+   1062018|00000000||Thecla... devíamos voltar para ela, implorar.
+   1062020|00000000||Não adiantaria nada.
+   1059882|00000000||Estão indo ver as Senhoras? Nós vamos com vocês!
+   1059884|00000000||Não faremos nada disso, criança. O guarda não vai deixar a gente passar.
+   1062022|00000000||Diga para as Senhoras descerem, andarem entre a gente!
+    536311|00000000||Quatro... Fato...
+    538142|00000000||Cinco... Brinco...
+    536312|00000000||Seis... hmm... Reis...
+    538145|00000000||Sete... Repete...
+    536313|00000000||Oito... Afoito...
+    538148|00000000||Nove... Chove...
+    538150|00000000||Dez... Marés...
+    538135|00000000||Um... Rum...
+    538137|00000000||Dois... Sois...
+    538139|00000000||Três... Freguês...
+   1021894|00000000||Foi um inverno difícil...
+   1021896|00000000||O carvalho dará muitas nozes, não se preocupe.
+   1021898|00000000||Deu só quatro no ano passado...
+   1021900|00000000||Minha avó disse que elas desceram o monte pouco antes do amanhecer.
+   1021902|00000000||Como elas eram?
+   1021904|00000000||Beleza e horror ao mesmo tempo, como um exército em armaduras completas.
+   1013558|00000000||Jerônimo!
+   1059025|00000000||Ah, inferno. Acho que tenho que pular.
+   1013539|00000000||Imlerith é perigoso, eu cuido dele.
+   1013541|00000000||Imlerith é uma ameaça maior que as Moiras. Eu devo enfrentá-lo.
+   1013543|00000000||Eu não luto pior que você.
+   1013545|00000000||Nós dois sabemos que isso não é verdade. Me escute, só dessa vez.
+   1013547|00000000||Mas...
+   1013549|00000000||Sem mas.
+   1013551|00000000||Tá bom... Tenha cuidado.
+   1013553|00000000||Você também.
+    588603|00000000||Fora de questão. Eu subo a montanha, você encara as Moiras.
+    588605|00000000||Não é bem um desafio...
+    588607|00000000||Elas são muito perigosas... Tenha cuidado.
+    588609|00000000||Você também.
+   1013538|00000000||O destino decidiu.
+    575999|00000000||Que filho da puta forte.
+    576000|00000000||Não temos tempo a perder. Eu cuido de Imlerith, você pega as Moiras. Avallac'h disse que elas vivem embaixo do carvalho, entre as raízes.
+    576206|00000000||Sem chance. Eu vou atrás de Imlerith.
+    576208|00000000||Tá bom, vamos jogar pra decidir: pedra, papel, tesoura.
+   1013537|00000000||Droga! Dois de três.
+    551797|00000000||As coisas mudaram um pouco desde a última vez que parti.
+    545161|00000000||O Radovid está ficando mais ousado.
+    545162|00000000||Dizem que quem conquistar Novigrad ficará com o Norte.
+    545166|00000000||Uma cidade livre, cheia de riquezas... um prêmio tentador.
+    534714|00000000||Hah! Errou, seu rato!
+    558958|00000000||Argh!
+    559936|00000000||Estão dizendo que você tem deixado não-humanos entrarem na sua taverna novamente!
+    559940|00000000||Deixo entrar quem eu quiser! Vocês não me assustam!
+    559998|00000000||Tem certeza?
+    570372|00000000||Eles... são não-humanos. Achei que os caçadores e a Guarda Templária estivessem atrás dos magos.
+    570373|00000000||Os magos partiram... os caçadores precisavam de uma nova mina de ouro.
+    569284|00000000||E aí? Anda logo.
+   1042083|00000000||Uoooooou!
+   1059164|00000000||Você já não fez o bastante? Me deixe em paz!
+    557813|00000000||Não é o que eu achava que seria...
+    557816|00000000||Ele mereceu.
+    557829|00000000||Então há mesmo justiça neste mundo...
+    557831|00000000||Venha, vamos ver...
+    546733|00000000||No caminho, eu não sabia o que eu faria. Matá-lo era certamente uma opção.
+    546734|00000000||Ainda quer?
+    546735|00000000||Não. Isto é pior.
+    546736|00000000||Vamos.
+    546737|00000000||Já fizemos o mais difícil. Só resta o mais divertido.
+    557878|00000000||Para onde vamos?
+    557879|00000000||Para o Esturjão de Ouro. Uma garota de lá me ajudou.
+    546728|00000000||Quem... Quem está aí?
+    557835|00000000||Lembra-se de mim?
+    546730|00000000||Sua... Sua puta. Sua... vadia do caralho! Você... Você vai pagar pelo que fez comigo!
+    557854|00000000||Eu tomaria cuidado com o que eu digo se fosse você.
+    557859|00000000||Bru-bru-bruxo... A culpa é sua. Está feliz, seu pau no cu!?
+    557868|00000000||Não tenho mais nada!... Nem migalhas... de dignidade humana!
+    585667|00000000||Aiê!
+    585670|00000000||Seu merdinha!
+    557824|00000000||O que será que aconteceu com ele?
+    557827|00000000||Vamos descobrir em breve.
+    557815|00000000||O que será que aconteceu com ele?
+   1011817|00000000||As velas são brancas como as nuvens, e o mar é azul-safira e verde-esmeralda.
+   1011819|00000000||O mar?
+   1011821|00000000||Um grande lago salgado.
+   1011823|00000000||Hãããã...
+   1049228|00000000||As velas são brancas como as nuvens, e o mar é azul e verde.
+    533175|00000000||Não vais me levar!
+    533202|00000000||Quero te ajudar!
+    533203|00000000||Rá! Sinto muito, mas não acredito em ti!
+    554647|00000000||Encontre-me à noite na praça principal. Temos que cuidar da Keira.
+    554644|00000000||Até mais então.
+    554648|00000000||Você vai ficar bem?
+    557022|00000000||Sim, agradeço pela ajuda.
+    556981|00000000||Sinto muito por ter demorado tanto, mas tive que lidar com os guardas.
+    556987|00000000||Olá, Triss.
+    556989|00000000||Philippa, você está bem?
+    556997|00000000||Já estive melhor.
+    533450|00000000||Vou te tirar daqui.
+    535348|00000000||Em forma e tão rápido como sempre!
+    535349|00000000||Boa corrida.
+    535350|00000000||Obrigada. É realmente uma égua veloz.
+    558795|00000000||O cavalo mais veloz não vale mais do que uma mula sem um bom cavaleiro.
+    558803|00000000||Ainda rápido como o vento, Valdo.
+    558808|00000000||Não corro contra ninguém bom assim há um tempo.
+    558810|00000000||Ha, ha. Vocês são oponentes dignos e me deram asas!
+    549632|00000000||Ora, isto pede uma comemoração! Fiquem esta noite! Temos muitos barris da melhor cerveja de Kaedwen.
+    558812|00000000||Fogueiras serão acesas e todos se reunirão! Esta noite será nossa!
+    558797|00000000||Ainda posso vencer.
+    558799|00000000||Eu deixei você vencer.
+    558801|00000000||Que corrida adorável!
+    562940|00000000||Elas não mordem.
+    562952|00000000||Então, fale com elas. Não é como se elas mordessem.
+    562954|00000000||Se elas morderem, eu mordo de volta.
+    562956|00000000||Então, qual é o problema?
+    562941|00000000||Não é bom.
+    562958|00000000||Elas não perdem tempo, não é? Não gosto disso.
+    562960|00000000||Nem eu.
+    546254|00000000||Não é uma conversa que você possa evitar. Eu vou com você, se você quiser.
+    546255|00000000||Hmm... Elas vão escolher as palavras com mais cuidado com você lá.
+    562978|00000000||Não teria tanta certeza, mas duas cabeças pensam melhor do que uma.
+    562984|00000000||Vamos acabar com isto.
+    546249|00000000||Vou com você.
+    562987|00000000||Não tem nada que temer. Vá, ouça o que elas têm a dizer.
+    562991|00000000||E se elas me forçarem a algo?
+    562994|00000000||Não acredito que você as permitiria.
+    546258|00000000||A Margarita só se importa com a sua educação. Duvido que ela tente te envolver em questões políticas.
+    563048|00000000||A Philippa é mais durona. É uma manipuladora, mas, no fim, ela respeita aqueles que defendem as suas opiniões.
+    563067|00000000||Se ela te fizer uma oferta, e você a recusar com firmeza, ela respeitará.
+    563070|00000000||Obrigada, Geralt.
+    546259|00000000||Ora, vá. Não dê a elas mais tempo para tramar.
+    546250|00000000||Você consegue lidar com isso sozinha.
+    562962|00000000||Aposto que têm planos para mim. E que elas pretendem me informar deles.
+    562948|00000000||Elas disseram sobre o que era?
+    562950|00000000||Não, mas tenho as minhas suspeitas.
+    562939|00000000||Por quê?
+    546241|00000000||Geralt!
+    546243|00000000||O que é?
+    546244|00000000||Ainda nada, mas tem algo à espreita. Philippa e Margarita querem falar comigo.
+   1007887|00000000||Vocês não irão se encontrar com as Senhoras. Saiam.
+   1007886|00000000||Mas nós...
+   1007885|00000000||Éééé... Nenhum de vocês é digno. Saiam.
+   1084974|bc0c0990||Elemental do fogo
+   1059197|00000000||Temos que partir.
+   1059199|00000000||Ansioso para ver as Senhoras. Eu compartilho seu sentimento.
+   1059201|00000000||Estamos queimando de ansiedade. Venha, Geralt, temos que chegar lá antes que amanheça.
+   1059602|00000000||Vão até a tenda e fiquem diante de Thecla. Ela é quem decide quem é digno de se encontrar com as Senhoras.
+   1002738|00000000||É melhor irmos.
+   1003626|00000000||Falou de um portão... disse que não podemos passar...
+   1003983|00000000||Somente o Escolhido visita as Senhoras. Todos os anos, moças e rapazes escalam o monte, mas nunca mais do que três.
+   1004006|00000000||Deixe-me adivinhar: as moças e os rapazes não voltam.
+   1004007|00000000||Não, eles voltam, felizes e radiantes. Mas são raros os que ficam em Velen... eles partem em busca de fortunas pelo mundo.
+   1002278|00000000||Esse portão, por que não podemos passar por ele?
+   1003627|00000000||As Senhoras da Floresta visitam vocês?
+   1003628|00000000||Se elas nos favorecerem. Meu pai me contou que elas desceram uma vez, passaram de fogueira em fogueira, ouvindo as esperanças e as queixas. Então, todos os anos esperamos que elas andem entre nós mais uma vez.
+   1003984|00000000||Não fazem isso há muito tempo, então.
+   1003629|00000000||Não faz sentido esperar pra ver se vamos dar sorte.
+   1003630|00000000||É, temos que tentar chegar no pico.
+   1002279|00000000||As senhoras descem até vocês? E depois?
+   1002739|00000000||O que o banquete comemora?
+   1002743|00000000||Essa comemoração... ela tem a ver com o quê?
+   1003631|00000000||Por que precisa saber, andarilho?
+   1002744|00000000||Não há razão para raiva. O homem dos cabelos brancos serviu às Senhoras, assim como fazemos agora.
+   1002745|00000000||Enviamos presentes a elas o ano inteiro, e essa noite elas nos recompensam com sua benção.
+   1002746|00000000||Eu conheci um de seus presentes para as Moiras, chorando, morrendo de medo, e com mais ou menos oito anos de idade.
+   1002747|00000000||Fique calma.
+   1002749|00000000||A benção das Senhoras... do que se trata isso?
+   1002799|00000000||Você disse que as Senhoras abençoam vocês...
+   1002800|00000000||Sim, pois nossas vidas são assim: primeiro um verão de trabalho sob o sol quente, depois chuvas de outono, e então um inverno de morte.
+   1002801|00000000||Depois, esperamos pela primavera, quando tudo que está morto nasce de novo. E do nosso sangue e suor o carvalho gera as nozes, às vezes poucas, às vezes muitas.
+   1002802|00000000||O que vocês fazem com as nozes?
+   1002803|00000000||Os anciões de Velen se reúnem, formam um conselho. Alguns preferem moê-las para espalhar pelos campos para termos uma colheita rica. Outros querem que elas sejam entregues a uma mulher astuta, que faria remédios para consumo...
+   1002804|00000000||Um punhado de nozes encantadas é o suficiente para Velen inteira?
+   1002805|00000000||Nunca é o suficiente.
+   1002748|00000000||Por que as Senhoras precisam das suas crianças?
+   1002740|00000000||Suas crianças, por que as Senhoras precisam delas?
+   1002741|00000000||Não sabemos e nunca perguntamos.
+   1002797|00000000||Vocês não sabem? Então deixa eu te contar.
+   1002742|00000000||Em vez disso, diga-nos o que um camponês, com seus próprios filhos passando fome, deve fazer com um órfão da guerra andarilho?
+   1002798|00000000||Vocês não são daqui. Não nos julgue pelas leis dos outros.
+   1002750|00000000||Mudando de assunto...
+   1002751|00000000||Ouvi o suficiente sobre isso. Temos outras perguntas.
+   1002280|00000000||Deixe que se aproximarem.
+   1002281|00000000||Mas...
+   1002282|00000000||Eles vieram pelo banquete. Não seria certo mandá-los embora.
+   1002285|00000000||Não vim comemorar. Precisamos chegar ao topo da montanha.
+   1002286|00000000||O portão está trancado, você não vai passar. Mas temos fogueiras por ali, com muita comida e bebida. Sente-se ao lado de uma e talvez esse ano as Senhoras desçam e nos deem o privilégio de vê-las.
+   1004008|00000000||Não vamos nos juntar a vocês em suas fogueiras, mas agradecemos o convite. É hora de seguirmos nosso caminho.
+   1004009|00000000||Você deseja ver as Senhoras. Eu também, espero vê-las, antes de morrer.
+   1004010|00000000||Suba a montanha e enfrente a velha Thecla. Ela vai decidir se você é digno.
+   1004011|00000000||Farei isso. Adeus.
+   1059189|00000000||Está na hora de partirmos.
+   1059188|00000000||Vamos nos sentar ao lado de uma fogueira.
+   1059191|00000000||Agradecemos pelo convite. Ficaremos felizes em nos sentar, certo?
+   1059193|00000000||Fale por você mesmo.
+   1059195|00000000||Venha comigo.
+   1004005|00000000||Você voltou? Junte-se a nós: podemos esperar pelos mensageiros das Senhoras juntos.
+   1060721|00000000||Isso correu tranquilamente.
+   1059699|00000000||Não foi você quem morreu naquela caverna.
+   1059701|00000000||Para de reclamar. Você é um bruxo, já mergulhou em águas mais turvas.
+   1060723|00000000||É. Tenho que te contar sobre uma vez que cacei um zeugl.
+    556275|00000000||Preciso evitar machucá-la.
+    533376|00000000||Nunca mais serei presa! Nunca mais!
+    533377|00000000||Não me levarás com vida!
+    533378|00000000||A Triss está esperando na saída!
+    556252|00000000||Queremos ajudá-la a escapar daqui!
+    533379|00000000||Para me entregar ao Radovid? Prefiro morrer!
+    533380|00000000||Não sou seu inimigo!
+    556266|00000000||Vim pedir sua ajuda!
+    557978|00000000||Maldito cascalho. Barulhento como uma manada de trolls raivosos.
+    533375|00000000||O que aconteceu? Tanto silêncio, de repente?
+   1042600|00000000||Ahá! Aí estás!
+   1042598|00000000||Afastai-vos! Deixai-me em paz!
+   1013589|00000000||Como ele era?
+   1013591|00000000||Viveu uma vida de amor e não conhecia amargura.
+   1013593|00000000||Nham-nham.
+    570999|00000000||Preciso dela. Tenho que pegá-la.
+    571004|00000000||Andorinha quer não que você pega ela.
+    556151|00000000||Saia da minha frente antes que a coisa fique feia.
+    556153|00000000||Bart não pode não. Bart promete.
+    556155|00000000||Foi você quem pediu.
+    556144|00000000||Preciso dela.
+    556157|00000000||Ela está machucada, você viu? Quero ajudá-la.
+    556159|00000000||Andorinha diz que passar não. Bart não dexa passaqui.
+    556161|00000000||Hm... Você já teve dor de barriga?
+    556163|00000000||Hm... Dor, sim. Bart afogador velho uma vez devorô.
+    556165|00000000||A barriga dela dói como se ela tivesse comido cem afogadores velhos.
+    556186|00000000||Bart quer não... Afogador faz dor muito feia...
+    556196|00000000||Deixe-me passar. Posso ajudá-la.
+    556203|00000000||Hm... Bart dexa passaqui... Bruxo ajuda.
+    556145|00000000||Quero ajudá-la.
+    545623|00000000||Bruxo não passaqui. Andorinha boazinha diz não.
+    570980|00000000||Droga, ele também foi enfeitiçado.
+    545821|00000000||Você já foi mais veloz!
+    545822|00000000||Estou te dando uma vantagem!
+    545823|00000000||Mais rápido! Está ficando para trás!
+    545824|00000000||Cuidado por onde vai ou vai cair!
+    545825|00000000||*haha* Parece que você ficou lento!
+    549630|00000000||Só queria admirar da lateral!
+    571441|00000000||Ele foi absolutamente terrível no palco.
+    571433|00000000||Mas quando veio me cortejar, se mostrou muito interessante.
+    571435|00000000||Uma vez, por exemplo, ele comeu um prato de madeira.
+    571439|00000000||E? Você cedeu?
+    571442|00000000||Ah, não esnobe. Foi comovente... do seu jeito.
+    571445|00000000||Mas prender-me a um palhaço anão, isso não é para mim.
+    569302|00000000||Bela égua.
+    569303|00000000||É mesmo.
+    569305|00000000||Ah, suponho que preciso praticar um pouco.
+    569310|00000000||Yolo era um mago, um ilusionista. Ele sempre se apresentava de máscara.
+    571501|00000000||O seu ato favorito era cerrar mulheres da plateia ao meio.
+    571533|00000000||As mulheres deitavam em uma caixa, e ele cerrava bem no meio.
+    571543|00000000||Separava as duas partes e depois juntava. E as moças levantavam intactas.
+    571505|00000000||Mas, uma vez... uma não levantou.
+    571507|00000000||O quê? Por quê?
+    571509|00000000||Naquele dia, outra pessoa usou a máscara dele, pegou uma mulher da plateia, deitou-a na caixa e...
+    571510|00000000||Descobrimos que o homem era o marido corno, e que essa era sua vingança.
+    571564|00000000||E o Yolo? O que aconteceu com ele?
+    571570|00000000||Encontramos ele amarrado em um dos vagões. Ele estava bem, mas nunca mais poderia se apresentar na cidade novamente.
+    569312|00000000||Ha! Quem é o melhor agora!?
+    569307|00000000||Quem quer mais vinho?
+    571254|00000000||Daqui até o velho salgueiro!
+    579194|00000000||O velho Olhos Azuis manca, e Marilyn perdeu os dentes.
+    579196|00000000||Mal conseguimos, mesmo com eles.
+    579198|00000000||Hmm... Não podemos pagar por cavalos novos.
+    579200|00000000||Eu já disse o que precisamos fazer.
+    579202|00000000||E eu já disse que devemos encontrar outro jeito.
+    586191|00000000||Forçados para fora de Novigrad! A que ponto chegou o mundo?
+    586209|00000000||Ainda bem que estamos partindo.
+    586211|00000000||Temos que ir antes que os guardas venham...
+    586189|00000000||Agh, a estrada amanhã novamente...
+    586187|00000000||Hm... Isso é tudo?
+    558663|00000000||Sua cabra velha idiota!
+    558664|00000000||Você fede!
+    558665|00000000||Não encham... seus merdinhas.
+    558774|00000000||E o que é que você vai fazer?
+    558777|00000000||Ha, ha, ha, ha!
+    558667|00000000||Se mandem daqui.
+   1011348|00000000||Mas vejam só, você voltou!
+   1011349|00000000||E vejo que encontrou sua mocinha!
+   1011350|00000000||Eu sou Johnny, já tivemos o prazer de nos conhecer, embora só um de nós tenha tido esse prazer. Veja bem, eu te vi correndo, você estava de costas pra mim enquanto eu estava, heh, tendo o prazer de... É uma longa história.
+   1011351|00000000||Me chamam de Ciri. Prazer em conhecê-lo.
+   1011352|00000000||Como estão as coisas, Johnny?
+   1011353|00000000||A saúde está boa, não tenho do que reclamar. O que o traz aqui?
+   1011355|00000000||Por que você está aqui?
+   1011356|00000000||O que está fazendo aqui? Da última vez que nos vimos, você e as Moiras não eram bem amigos.
+   1011357|00000000||Recebi um convite que não podia recusar, o mesmo todos os anos. Do jeito peculiar delas, as Moiras toleram minha presença e desejam me ver no Sabá...
+   1011358|00000000||Então eu vim, para vagar por aí e ir embora com o sol nascente. E você?
+   1011354|00000000||Procurando por um caminho até o topo.
+   1011359|00000000||Temos que subir a montanha. Pode ajudar?
+   1011360|00000000||Eu prefiro te convencer do contrário, mas tenho certeza que será em vão. A moça, ela é tão teimosa quanto você?
+   1011361|00000000||Mais ainda do que eu.
+   1011362|00000000||Imaginei. *Suspiro* O caminho para o topo começa aqui, depois do portão. Mas só a velha Thecla tem a chave. Então, já que nunca vai ter a chave, é melhor voltar agora.
+   1011364|00000000||Por que não pegaremos a chave?
+   1011366|00000000||A chave, por que duvida que vamos consegui-la?
+   1011367|00000000||Minha nossa, você é pior do que crianças!
+   1011368|00000000||Três almas são permitidas no topo da montanha, e somente rapazes jovens e moças bonitas entre elas. Eles recebem a chave, abrem o portão e se encontram com as Senhoras.
+   1011369|00000000||Acredito que eu esteja qualificada.
+   1011370|00000000||Mas ele é velho e feio. Pra que ele serve?
+   1011371|00000000||Muito bom em encontrar vozes perdidas.
+   1011372|00000000||Então vá encontrar a voz da razão. Eu te digo para voltar. Não dá para brincar com as Senhoras.
+   1011365|00000000||As Moiras têm algum convidado?
+   1011373|00000000||Estamos aqui para encontrar um elfo chamado Imlerith. Ciri acha que ele pode ser um convidado das Moiras.
+   1011407|00000000||Cara grandão, com armadura completa? Está indo pro lado certo, ele está no topo da montanha.
+   1011408|00000000||Você o viu?
+   1011409|00000000||O vi no pântano primeiro. A água congelou sob os cascos do cavalo dele. Depois eu o vi de novo ontem, subindo esse caminho.
+   1011410|00000000||Por que estão procurando por ele?
+   1011411|00000000||Ele matou meu amigo.
+   1011412|00000000||Eu não procuraria vingança, se eu fosse você. Até as Moiras se curvam perante aquele lá.
+   1011363|00000000||Temos que tentar.
+   1011464|00000000||Tenho que chegar ao topo. Simples assim.
+   1011465|00000000||É a Thecla que você precisa convencer. Ela é tão cega quanto seu traseiro, mas não será enganada.
+   1011466|00000000||Não tentaremos enganá-la.
+   1011467|00000000||Ela fica naquela barraca acolá. Te desejo sorte e espero que nos encontremos de novo... algum dia.
+    569275|00000000||Philippa! Espera!
+    569278|00000000||Não quero te machucar!
+    569279|00000000||Mentiras!
+    569281|00000000||Quero te ajudar!
+    569282|00000000||Me ajudar a morrer?! Não conta com isso!
+    465459|c422f954||Bruxa sepulcral
+   1059595|00000000||Um monte de pegadas. Uma multidão de camponeses passou por aqui.
+    536517|00000000||Ghaarrr!
+    536518|00000000||Raaaghr!
+    536516|00000000||Arrgh!
+   1051202|00000000||E agora?
+   1051204|00000000||Vamos para casa...
+   1051206|00000000||*Suspiro* Tentaremos de novo ano que vem.
+    569288|00000000||Geralt, não dá tempo. Vá atrás dela.
+    587715|00000000||Dizem que não foram magos.
+    588026|00000000||Quem é então?
+    588028|00000000||Um homem! Ele lutou para passar dos guardas e fugiu!
+    587716|00000000||Você é burro?
+    588031|00000000||Deireadh é bem protegida. Não tem prisão mais segura no Continente.
+    556897|00000000||A Triss vem comigo.
+    556912|00000000||Vamos juntos.
+    556913|00000000||Sem chance.
+    556914|00000000||Tudo bem, Geralt, eu fico. Caso ela tente fugir nessa direção.
+    556931|00000000||Entendido. Já volto.
+    556898|00000000||Fique aqui, Triss. Caso ela tente fugir nessa direção.
+    556900|00000000||Tenha cuidado. Ela pode ser cega, mas ainda é perigosa.
+    564529|00000000||E não a machuque.
+    556896|00000000||Está bem.
+    556053|00000000||Seus idiotas! Atrás dela!
+    556062|00000000||A gente cuida disso.
+    556064|00000000||Ah, não! Não, não! A feiticeira fica aqui.
+    556021|00000000||Entregue-se!
+    556030|00000000||Este lugar é um labirinto, bruxa! Você nunca escapará!
+    564854|00000000||Você estava sabendo?
+    564926|00000000||Você sabia disso?
+    564928|00000000||Não. Elas não me contaram até esta manhã.
+    564952|00000000||É uma pena, porque me parece que você se divertiu um monte.
+    564932|00000000||Eu vou armar pra cima de ti...
+    564936|00000000||Vou armar para cima de ti se não...
+    564938|00000000||No seu lugar, meu amigo, eu estaria prometendo montanhas de ouro, não ameaças.
+    564946|00000000||Desamarre-me agora, ou vai precisar do ouro para substituir os dentes.
+    564951|00000000||Ha, ha. Você teria que me pegar primeiro, e não vejo como vai sair daí tão cedo assim.
+    564987|00000000||Recebi o que merecia.
+    565001|00000000||Recebi o que merecia... Devia ter sabido que era bom demais para ser verdade.
+    565044|00000000||Você certamente devia.
+    564988|00000000||Não quero falar sobre isso.
+    565003|00000000||Se contar para alguém, eu...
+    565046|00000000||Acalme-se. Não vou contar nada. Uma coisa é rir de um amigo, outra é fazer os outros rirem da cara dele.
+    565069|00000000||Vou ver o Avallac'h. Aparentemente, ele queria conversar.
+    565086|00000000||Vou até o porto. Já deveríamos estar a caminho de Skellige.
+    565088|00000000||Então, cuide-se, amigo. E... não ficou chateado por causa da provocação, não é?
+    565090|00000000||Não, não fiquei. Até mais, Dandelion.
+    565048|00000000||Ah, Geralt. Você sabe tão pouco sobre mulheres... Achava mesmo que poderia ter as duas?
+    565050|00000000||Você tem muito que aprender... Ficarei contente em dar conselhos, se quiser.
+    565059|00000000||Acho que vou dispensar essa oferta.
+    564998|00000000||A Triss e a Yen, onde elas estão? Tenho algo a dizer a elas...
+    564986|00000000||A Triss e a Yen vão me pagar...
+    564923|00000000||Dandeliiiiooonnn...
+    564954|00000000||Está bem, está bem. Desculpe. Não vejo você assim com frequência. Não pude resistir.
+    564985|00000000||Então, como se sente? Aposto que meio dormente.
+    564856|00000000||Me poupe. Não estou de humor para isso.
+    564858|00000000||Ora, mas eu estou. Do que brincaram?
+    564859|00000000||Domar a fera"? Ou foi de "libertar o príncipe"
+    564853|00000000||Poupe-me.
+    564292|00000000||Ha, ha. Ora, ora. As senhoritas armaram para cima de você.
+   1012529|00000000||Foi ele que te expulsou da sua casa?
+   1012616|00000000||Sim.
+   1012617|00000000||Bem, eu tenho que falar com ele.
+   1012618|00000000||Não o machuque!
+   1012619|00000000||Quem você pensa que é? Expulsando a Sarah da casa dela, como você pôde?
+   1012620|00000000||Não era a casa dela, e além disso...
+   1012621|00000000||Por favor, no final deu tudo certo. Se eu não tivesse saído de Novigrad, eu nunca teria te conhecido, Johnny.
+   1012634|00000000||Tá bem, dessa vez passa.
+   1012635|00000000||Vejo que encontrou sua garota. O que o traz aqui?
+   1012623|00000000||O que está fazendo aqui?
+   1012629|00000000||O que está fazendo aqui? E como vocês dois acabaram juntos?
+   1012630|00000000||Recebi um convite que não pude recusar. Perto do Sabá as Senhoras ficam mais gentis de repente. Ou talvez elas só queiram me mostrar quem é que manda?
+   1012631|00000000||Eu ouvi direito? Você andou de Novigrad até aqui?
+   1012632|00000000||Não foi um problema para alguém que fala com os pássaros. Um pássaro preto me contou sobre Johnny, então vim até aqui.
+   1012622|00000000||Procurando por um caminho pra subir a montanha.
+   1012624|00000000||Estamos subindo a montanha. Algum conselho?
+   1012625|00000000||Sim, não façam isso. Johnny diz que não se brinca com as Moiras.
+   1012626|00000000||Você mal encontrou sua garota. Não encontrou ela só pra perdê-la agora, não é?
+   1012627|00000000||Vamos ficar bem.
+   1012628|00000000||Ah… Façam como quiser. O caminho para subir a montanha começa do outro lado do portão, então vocês vão precisar da chave. A velha Thecla só entrega a chave para aqueles que ela julga dignos da presença das Senhoras.
+   1012667|00000000||A chave... do que se trata disso?
+   1012697|00000000||O portão está trancado? Por quê?
+   1012698|00000000||Minha nossa, piores do que crianças, esses dois.
+   1012699|00000000||Durante cada Sabá, as Moiras exigem encontrar três belos jovens. A velha Thecla escolhe e entrega a chave do portão a eles.
+   1012700|00000000||Ela é jovem e bonita.
+   1012701|00000000||Mas ele com certeza não é.
+   1012702|00000000||Deixe que nós nos preocupamos com Thecla.
+   1012703|00000000||Não minta pra ela, ela vai sentir o cheiro na hora. Se ela se recusar a ajudar, você deve falar pra ela que deseja se submeter ao teste.
+   1012704|00000000||O teste?
+   1012705|00000000||*Suspiro* Thecla vai explicar.
+   1012668|00000000||As Moiras têm algum convidado?
+   1012669|00000000||Estamos procurando um elfo chamado Imlerith. Ciri acha que as Moiras podem tê-lo convidado.
+   1012670|00000000||O cavaleiro grandão? Ele quase me atropelou!
+   1012671|00000000||Subindo a montanha?
+   1012672|00000000||Sim. O que vocês querem com ele?
+   1012673|00000000||Ele matou meu amigo.
+   1012674|00000000||Atrás de vingança, hein? Deixa pra lá. Morrer de forma tola não vai ajudar. Até mesmo as Moiras se curvam perante aquele lá.
+   1012633|00000000||Obrigado pelo conselho. Vamos.
+   1012706|00000000||Obrigado pelo conselho. Temos que ir.
+   1012707|00000000||Boa sorte.
+   1012708|00000000||Nos visite a qualquer hora. Temos uma casa não longe daqui.
+   1012709|00000000||Com certeza vamos passar lá. Até logo.
+   1074645|00000000||Eu tenho que ir até lá.
+    558062|00000000||Ele está mentindo. Mate-o.
+    558099|00000000||Ele está mentindo. Acabe com isso.
+    558101|00000000||Não, espere. É verdade!
+    558111|00000000||Prove.
+    558102|00000000||Lembra... Lembra quando fomos roubar o tesouro de Dijkstra?
+    558109|00000000||Soltamos esporos que deixaram o troll sonolento. Ele cantou enquanto dormia sobre as meias de Dijkstra e pediu sopa de elfo!
+    564589|00000000||Deveria ter escolhido outra pessoa para imitar.
+    547150|00000000||Não teria ficado se não tivesse imitado o Filho da Puta.
+    564593|00000000||Mas o que diabos você estava pensando?
+    558257|00000000||Cuidado. Você pode ser descoberto.
+    558267|00000000||Os homens do Wily são burros demais para descobrir. E os pares não são muito mais espertos.
+    558269|00000000||Aliás, até vocês se enganaram.
+    558270|00000000||E isso poderia ter terminado mal para você.
+    558272|00000000||É verdade. Eu exagero de vez em quando, mas costumo ser cauteloso.
+    558208|00000000||Não está com medo que te descubram?
+    558317|00000000||Está na hora.
+    558318|00000000||Certo. Ainda temos que passar pelo Esturjão de Ouro.
+    558321|00000000||Foi muito bom ver vocês. E cuidem-se.
+    558323|00000000||Você também.
+    558324|00000000||Até mais, Dudu.
+    558199|00000000||Precisamos ir.
+    558198|00000000||Como andam os negócios?
+    558211|00000000||Você escolheu uma linha de negócios interessante.
+    558216|00000000||O Dudu sempre teve a cabeça para lidar com números. Bordéis e cassinos? Ele aguenta.
+    558221|00000000||Esse é o negócio. Eu não preciso.
+    558223|00000000||Duas semanas após a morte do Wily, eu anunciei que vi a luz do Fogo Eterno.
+    558226|00000000||Vendi todos os negócios ilegais. Agora, sou um comerciante honesto.
+    558244|00000000||Os homens do Filho da Puta não reclamaram?
+    558246|00000000||Tenho contatos nas guildas, um comércio que está indo bem. Os lucros são o dobro de antes.
+    558250|00000000||Para os homens do Wily, um bolso mais pesado quer dizer mais respeito pelo homem que o enche.
+    558194|00000000||Você foi corajoso, Dudu. Nunca esperaria isso de você.
+    558197|00000000||Nem eu.
+    572091|00000000||Ah, e você não faz ideia do alívio que eu sinto em saber que você está viva e bem.
+    572105|00000000||E eu estou aliviada por não ter cortado a sua garganta.
+    558129|00000000||Depois que fugimos, não sabia o que fazer. Só conseguiria me esconder um tempo. Eles me encontrariam mais cedo ou mais tarde.
+    558130|00000000||Não foi uma decisão difícil. Sabíamos que ele estava morto, mas não muitos tinham percebido. Essa foi a minha chance.
+    564590|00000000||Não é sábio brincar assim com um bruxo...
+    564595|00000000||Filho da Puta Júnior? Não poderia imitar outra pessoa?
+    564588|00000000||Foi uma piada idiota.
+    547149|00000000||Deus! Fiquei apavorado!
+    558088|00000000||Espere, Ciri.
+    558091|00000000||Depois que o cofre de Dijkstra foi esvaziado, você desapareceu. Como te encontrei? Rápido.
+    558092|00000000||No Pátio do Açougueiro, na peça da Priscilla. Você me arrastou para o palco.
+    558095|00000000||Embainhe a espada, Ciri. É o Dudu.
+    558057|00000000||Prove.
+    547143|00000000||Ora, ora. Quem é que temos aqui?
+    558004|00000000||Finalmente encontrou a sua protegida. Demorou pra caralho, hein?
+    558045|00000000||Parece bem saudável, do meu ponto de vista.
+    547144|00000000||Aaah. É que você achou que tinha me matado aquela vez? Surpresa, porra.
+    558061|00000000||Cala a boca, bruxa, antes que alguém enfie algo nela por você!
+    558068|00000000||Chega.
+    558069|00000000||Vou terminar o que você começou.
+    558074|00000000||Opa, parou! Sou eu, o Dudu! Dudu Biberveldt! É sério que não me reconheceu?
+    558087|00000000||Dudu?
+    581110|00000000||É, ela tá aqui.
+    581119|00000000||É. Nós dois estamos aqui.
+    581121|00000000||Onde está a garota?
+    581123|00000000||Não importa. Você nunca vai pegá-la.
+    581125|00000000||Lutou bravamente no castelo arruinado, até o amargo final.
+   1086392|00000000||Acredito que dessa vez não será diferente.
+    581116|00000000||Primeiro você, depois ela.
+    581112|00000000||Estou aqui sozinho.
+    581114|00000000||Uma mentira que não irá mudar nada.
+    581109|00000000||Eu vim sozinho.
+    540267|00000000||As irmãs disseram que você viria. Elas viram você chegar na superfície da água.
+    540269|00000000||Elas não viram a garota, mas ela está com você, não está?
+    528671|00000000||Vou levá-la para algum lugar seguro.
+    554627|00000000||Depois, te espero perto de Passiflora.
+    554640|00000000||Vejo você lá.
+    554645|00000000||Não se preocupe.
+    554632|00000000||Até mais.
+    554631|00000000||Não, obrigada. Eu me viro.
+    554628|00000000||Têm certeza de que não precisam de ajuda?
+    554639|00000000||Quer ajuda?
+    534048|00000000||Vamos.
+    559818|00000000||Vamos.
+    534047|00000000||Só um instante. Já volto.
+    559824|00000000||Rápido.
+    559819|00000000||Eu voltarei.
+    527830|00000000||Você chegou. Bea está lá dentro.
+    558815|00000000||Você disse "Geralt"? Geralt do quê?
+    558862|00000000||De Rívia, caralho.
+    558817|00000000||Ooora, por que não disse isso logo no começo?
+    558818|00000000||Desculpa incomodar ocês. Mal entendido.
+    558896|00000000||O Sr. Wily está esperando.
+   1043409|00000000||Eeer... Sim, sim, um acordo...
+   1043411|00000000||Vá até o andar de cima. O chefe tá aguardando.
+    558842|00000000||Um acordo, quem sabe?
+    558833|00000000||Vamos pensar em algo.
+    558845|00000000||Saiam do caminho, vilões, ou cortaremos seus rostos para que até as garotas da Kate Aleijada não aceitem vocês.
+    558848|00000000||O que você disse?
+    558850|00000000||Não entendeu? Muitas sílabas? Não fode.
+    558852|00000000||Ah, sua putinha!
+    558853|00000000||E eu achando que poderíamos fazer isto do jeito fácil...
+    558840|00000000||Sai do meu caminho ou vai se arrepender.
+    558779|00000000||O quê?
+    558780|00000000||Estou aqui para falar com o Sr. Wily.
+    558781|00000000||O Sr. Wily está esperando convidados importantes, então se mandem, seus... ah... ah...
+    558836|00000000||Merdas!
+    560214|00000000||Claro que é assunto meu.
+    560217|00000000||Você também é uma aberração...
+    560224|00000000||Ele é. E é bem perigoso. É o Carniceiro de Pomar Branco.
+    564615|00000000||O que ele fez por lá? Podou as árvores?
+    560228|00000000||Yugen, ele matou metade do vilarejo e arrastou os corpos do magistrado e da sua esposa atrás do seu cavalo até Novigrad. Vamos embora daqui.
+    560234|00000000||O conselho do seu amigo é bem bom.
+    560251|00000000||De-desculpe...
+    560209|00000000||Vá embora por conta própria...
+    560211|00000000||Saque as suas armas. Vamos acabar com isto.
+    560280|00000000||Hã... O quê?
+    560281|00000000||Você quer machucá-la, e eu não vou deixar. Então, vamos discutir e nos provocar, e quem sabe quanto tempo essa discussão vai durar?
+    560283|00000000||Não tenho tempo para isso. Desembainhem as suas espadas.
+    560253|00000000||Ou eu te boto para fora.
+    558938|00000000||Eu te dei uma chance. Deveria ter aceitado.
+    558940|00000000||Eu cuspo no que você der.
+    560031|00000000||Vai se arrepender disso, sua vaca.
+    534445|00000000||Olha os modos. Está falando com uma dama.
+    560206|00000000||Fique fora disso. Não é assunto seu.
+    171505|05d41baa||Fugas
+   1061399|00000000||Boas Senhoras, Misericordiosas Senhoras.
+   1062116|00000000||Meu neto, deem saúde a ele.
+   1062118|00000000||Ele apronta suas travessuras, mas é um bom rapaz.
+   1062120|00000000||Deem saúde a ele. Eu imploro.
+   1060980|00000000||Ha. A única noite em que podemos encher a barriga até não aguentarmos mais.
+   1060982|00000000||Opa, calma aí. Se as Senhoras recebem tantos alimentos, por que elas não alimentam a gente mais vezes?
+   1060984|00000000||Não ouse falar mal das nossas doadoras!
+    572537|00000000||Nunca foi tão ruim assim.
+    572685|00000000||Eles fracassaram em abandonar Novigrad, então fizeram uma última revolta sem chance...
+    562529|00000000||Zoltan aguarda o seu sinal.
+    562599|00000000||Vamos conseguir sozinhos.
+    536832|00000000||Preciso de mais um tempo.
+    562641|00000000||Rápido.
+    536835|00000000||Na verdade, talvez tenha razão. Uma ajudinha seria uma mão na roda.
+    562635|00000000||É claro que tenho razão.
+    536836|00000000||Vá. Esperarei aqui.
+    536826|00000000||Espere. Vou buscar ajuda.
+    536825|00000000||Vamos.
+    536833|00000000||Vamos lá.
+    562530|00000000||Vamos começar?
+    562526|00000000||Graden vai aparecer, e o Zoltan aguarda o seu sinal.
+    536821|00000000||Encontrou uma entrada?
+    536822|00000000||Várias. A mais próxima é por um poço não muito longe daqui.
+    562532|00000000||Conseguiu a ajuda?
+    562609|00000000||Aqui estamos.
+   1059926|00000000||É isso? Hmm... Um pedregulho estava tampando a abertura no poço até recentemente.
+   1059928|00000000||Isso foi devido a um decreto emitido por Hemmelfart há alguns anos. Mas eu consegui encontrar dois indivíduos musculosos e cordiais que concordaram em remover a obstrução. Por um pequeno preço, naturalmente.
+   1059930|00000000||Tome.
+    562611|00000000||O que é isso?
+    562613|00000000||Use-o quando encontrar Rita. Poderei saber a sua localização.
+    562628|00000000||Vejo você lá dentro, então.
+    562629|00000000||Boa sorte.
+    562620|00000000||Até mais.
+    562619|00000000||Achei que viria comigo.
+    562622|00000000||Não vai vir?
+    562624|00000000||Andar por ruínas e esgotos, infelizmente não estou vestida para a ocasião.
+    562626|00000000||Quer dizer que prefere só aparecer quando o trabalho sujo estiver feito?
+   1059893|00000000||Venha. Não fica muito longe daqui.
+   1022078|00000000||E a Quarta, quem era ela?
+   1022080|00000000||Alguns dizem que ela era a mãe, outros a chamam de Quarta Irmã.
+   1022082|00000000||Pegaram pregos de ferro frio, furaram seu coração, furaram sua cabeça, depois afundaram seu cadáver sem vida num lamaçal apodrecido.
+   1022109|00000000||O cavaleiro que subiu até o topo, quem era ele?
+   1022111|00000000||Quem pode saber? Talvez as Senhoras o tenham encantado para servi-las no banquete?
+   1022113|00000000||Talvez ele tenha sido um dos enterrados entre as raízes do carvalho, um que nasceu quando a árvore deu muitas nozes?
+    546219|00000000||Olha ali: crianças.
+    546221|00000000||Os dois são púeros. Já os encontrei antes.
+   1058903|00000000||Não, um púero. Eu o conheço. Se chama Johnny.
+    543663|00000000||Veja, uma criança.
+    587690|00000000||Às armas!
+    587994|00000000||Os magos estão se revoltando!
+    587692|00000000||Ergam as barricadas!
+    587992|00000000||Arqueiros, no telhado! Todos os demais, aos seus postos!
+    587694|00000000||Barrado.
+    588005|00000000||Preciso achar outra saída.
+    587696|00000000||Onde estão os magos?
+    587698|00000000||Não seja tolo!
+    588010|00000000||Mandaram ele na frente. Eles montarão um ataque a qualquer momento.
+   1061901|00000000||Agradeço, agradeço, meu bom senhor...
+   1061903|00000000||Deus lhe pague!
+   1061905|00000000||Obrigada... Mas tome cuidado. Não deixe eles te pegarem.
+    535986|00000000||Deixa de delicadeza, Geralt!
+    535988|00000000||Achei que tinham combinado de se encontrarem.
+    561391|00000000||Disse que o encontrei, não que tinha falado com ele.
+    535989|00000000||O que quer comigo?! Deixe-me só!
+    546214|00000000||Calma.
+   1061299|00000000||Uhum, e daí enfiar uma navalha entre as minhas costelas, me deixar na sarjeta.
+   1061309|00000000||Olhe bem para a gente. Parecemos bandido para você?
+   1061312|00000000||Hm... não... nem um pouco.
+   1061304|00000000||Que bom que concorda. Além do mais, você não vale nada para nós morto.
+   1061314|00000000||Então... vocês não irão me machucar?
+    561395|00000000||Não. Você nos contará a sua história e seguirá o seu caminho.
+   1061316|00000000||Hm... então que seja. Mas realmente precisamos voltar até a Kate. É, hm, desaconselhável ficar nas ruas.
+   1061319|00000000||Hm... não... nem um pouco.
+   1021996|00000000||Que criaturas entram no mundo sob um véu humano, nunca se sabe.
+   1021997|00000000||Nós, cada um, usamos esse véu do nosso jeito, como queremos.
+   1021998|00000000||A única certeza é que seu verdadeiro uso nunca foi revelado a ninguém.
+   1021999|00000000||Pois daí surgem os muitos erros, pois daí surge o lance do véu no escuro, o véu que chamamos de morte.
+   1022027|00000000||Não prejudique a si mesmo nem a seu vizinho antes da morte.
+   1022028|00000000||Prepare-se para ela, pois ela também se prepara para você.
+   1022029|00000000||Não a afaste com palavras corajosas, em vez disso, revele tudo a ela.
+    554976|00000000||Os camponeses de Velen chamam essa noite do Festim dos Presentes. Não faço ideia do porquê.
+   1011422|00000000||Merda. Vamos, temos que encontrar a chave.
+   1010763|00000000||Te espero por lá.
+   1015414|00000000||Tem água correndo lá embaixo... droga, vou pular.
+   1051173|00000000||Estava começando a ficar preocupada. Venha, vamos pegar a chave.
+   1058806|00000000||Avallac'h diz que a vaidade é a maior fraqueza de Imlerith.
+   1059238|00000000||Dificilmente surpreendente, já que ele foi aluno de Avallac'h.
+   1059236|00000000||Dizem que o outro, Caranthir, é reservado e pragmático.
+   1059234|00000000||Qualquer inimigo que ele enfrenta, ele se esforça para impressionar.
+    533396|00000000||Afaste-se antes que isso acabe mal.
+    533409|00000000||Gosto de você, Dijkstra. Não me faça machucá-lo.
+    533410|00000000||Guarde suas ameaças para os ratos que correm pelo porto. Elas não têm efeito nenhum sobre mim.
+    533397|00000000||Não é hora de uma briga de casal.
+    533411|00000000||Lembro do... vínculo de vocês, mas não está na hora de uma briga de casal.
+    533412|00000000||Mas é uma hora excelente para acertar as contas.
+   1067433|00000000||O tempo irá dizer.
+   1067441|00000000||O tempo dirá se estou ou não.
+   1067443|00000000||Exceto se estiver falando asneiras e eu acreditar nelas, daí... será tarde demais.
+   1067445|00000000||Acho que terá que correr esse risco.
+    557146|00000000||Mas o que a Philippa tem a ver com isso?
+    557148|00000000||A Philippa vai nos ajudar a proteger a Ciri da Caçada Selvagem.
+   1067330|00000000||...
+    557156|00000000||Vá. Antes que eu mude de ideia.
+   1067500|00000000||Não quer ouvir o que ela tem pra falar? Ouso dizer que Philippa despreza Radovid tanto quanto você.
+   1067502|00000000||Estou contente que alguém além de mim finalmente entendeu a ideia de livrar o mundo dos degenerados.
+   1067504|00000000||Guarde os seus elogios para outros. Estou cagando pra isso.
+   1067506|00000000||Atualmente, somente dois indivíduos poderiam tirar Radovid de seu barco. Emhyr... e eu.
+   1067508|00000000||Você concorda em ser a isca?
+   1067510|00000000||Temo que terias muita dificuldade para convencer Emhyr a oferecer-se como uma...
+   1067512|00000000||Sem chance, porra! Geralt, eu não confio nessa merda nem para fazer ovos cozidos!
+   1067514|00000000||Com razão - sou terrível com ovos. Mas pensa um pouco sobre isso: se Radovid ficar sabendo que me capturaste... Ele não iria jogar a cautela ao vento? Ele não iria se jogar de cabeça na oportunidade para me matar... pessoalmente... com suas próprias mãos?
+   1067516|00000000||Isto está fora de questão! Geralt, tire ela daqui antes que eu exploda um testículo!
+   1067582|00000000||Então... então devemos nos encontrar. Com nossos amigos. Eu aluguei um depósito no porto. Não deixe de passar lá.
+   1067459|00000000||Deixe-a falar.
+   1067460|00000000||Só que você não vai.
+   1067462|00000000||Dijkstra, Philippa não irá morrer, essa discussão encerrou. Esqueça isso.
+   1067464|00000000||A situação mudou, bruxo. Ela está em uma posição que pode frustrar os meus planos.
+   1067466|00000000||Realmente achas que eu correria para avisar o homem que arrancou meus olhos fora?
+   1067447|00000000||Você não faz ideia da importância dessa informação. Uma mudança no trono imperial? Seria capaz de trazer o fim à guerra.
+   1067579|00000000||Radovid certamente ficaria satisfeito. Se Emhyr iniciar a retirada, não haverá força restando que seria capaz de impedir aquele louco.
+   1067578|00000000||Especialmente em função do nosso plano sangrento abortado.
+   1067449|00000000||Você não acreditou realmente que poderia conseguir, não é? Radovid é maluco mas não é idiota. Ele sabe muito bem que existem vários por aí querendo...
+   1067451|00000000||Silêncio.
+   1067454|00000000||Eu entendi corretamente? Desejas matar Radovid? Ora, ora, Sigi, estou impressionada. Francamente, duvidava que ainda tivesse a coragem.
+   1067456|00000000||Infelizmente, como bem sabes, Radovid buscou refúgio em seu barco. Ele está tão bem protegido que não me surpreenderia descobrir que ele divide a cada noite a cama com dois sentinelas.
+   1067458|00000000||Você sabe de muita coisa, Phil. E esse é mais um motivo para matá-la.
+   1067435|00000000||O próprio imperador havia me dito, então... isso é informação em primeira mão.
+   1067437|00000000||Emhyr é um mentiroso filho da puta.
+   1067439|00000000||Quando se trata do futuro de sua filha? Duvido.
+   1067432|00000000||Ouvi isso do próprio Emhyr.
+   1067431|00000000||Claro, desde que não esteja enganado...
+    533405|00000000||Você sempre soube o quanto uma informação vale, Dijkstra...
+    557122|00000000||E é por isso que não acredito que você saiba qualquer coisa que eu já não saiba.
+    557126|00000000||O imperador de Nilfgaard não conseguiu influenciar a Corporação do Comércio.
+    557131|00000000||A água da oposição está batendo na bunda dele, né? Hm, parece que a Chama Branca não vai dançar sobre as tumbas dos seus inimigos durante muito mais tempo.
+    557138|00000000||A filha dele voltou. O imperador quer abdicar e entregar o trono para ela.
+    557144|00000000||Cirilla? Impossível! Isso... isso pode mudar o curso da guerra...
+    533393|00000000||Solte-nos e te contarei o que o imperador de Nilfgaard está procurando.
+    557100|00000000||Desculpe. Não posso deixar isso acontecer.
+   1091793|00000000||Uh! Aaaaaaargh!
+    557104|00000000||Não! Ai, ai, ai! Não, minha perna, não!
+    557107|00000000||Aaaaaaaiii!
+    533394|00000000||[Empurrar Dijkstra para o lado. Com força.]
+    557097|00000000||A Philippa virá comigo. E responderá por todas as gentilezas que fez para mim.
+    533407|00000000||Não vou demonstrar bosta nenhuma. Preciso dela.
+    533408|00000000||E eu tô cagando e andando.
+    556564|00000000||Estou esperando este momento desde sempre, então, sinto muito, mas me importo com seus planos tanto quanto me importo com a neve em Mahakam.
+    533395|00000000||Preciso dela.
+    533402|00000000||Peço mil desculpas, mas a dama virá comigo.
+    556451|00000000||Dijkstra... não tenho tempo para isso, saia da minha frente.
+    556452|00000000||Não tenho nenhum problema com você, Geralt. No entanto, eu e a Phil temos que conversar sobre várias coisas...
+    556486|00000000||Lembra dos assassinos que você mandou atrás de mim, Phil, querida? Que grande erro. Essas coisas têm que ser resolvidas em pessoa.
+    556534|00000000||Deixe-me mostrar para você.
+    533401|00000000||Traia-me, e eu vou...
+    556416|00000000||Relaxe. Não planejo fazer isso. A Triss está lá fora, ela vai te explicar tudo.
+    533399|00000000||Pare de se contorcer. Se eu quisesse te matar, você já teria morrido a essa altura.
+    556367|00000000||O que queres? Me atormentar? Olhar outras pessoas me atormentarem?
+    533400|00000000||Preciso da sua ajuda.

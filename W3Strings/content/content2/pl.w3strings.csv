@@ -1,0 +1,1829 @@
+;meta[language=pl]
+; id      |key(hex)|key(str)| text
+   1062611|00000000||Witajcie...
+   1062613|00000000||Wiedźmin! Wy w sprawie ogłoszenia o studni?
+   1062615|00000000||Studni? Pierwsze słyszę... A co, macie z nią jakiś kłopot?
+   1029705|00000000||I jak, panie wiedźminie? Zajmiecie się tym duchem? Moja Luba... Nie polepsza jej się.
+   1029177|00000000||Dobrze, pomogę ci. Gdzie jest ta studnia?
+   1029178|00000000||W Chaczach. To taka osada była, na południe stąd, na wzgórzu. Nikt tam nie zachodzi, bo wiecie, duch... Przepędźcie go. Proszę.
+   1029175|00000000||Pomogę ci.
+   1057919|00000000||Opisz mi tego ducha.
+   1057921|00000000||No... Bardzo jest straszny. Bardzo.
+   1057923|00000000||Chodzi mi o jego wygląd.
+   1057925|00000000||Przypomina jakby kobietę... Ale taką, co właśnie z grobu wstała. Suknię ma brudną, w strzępach, skóra płatami schodzi jej z kości. A wyje... Jak na mękach.
+   1057927|00000000||Jakaś zjawa... Albo może alp.
+   1057929|00000000||Jakby go nie zwali, mistrzu -- jak się nim nie zajmiecie, przyjdzie mi córę pogrzebać.
+   1057898|00000000||Opisz mi tego ducha.
+   1057899|00000000||Przykro mi. Nie mogę ci teraz pomóc.
+   1029179|00000000||Poważna sprawa... Od ręki tego nie załatwię. Wrócę, jak będę miał czas.
+   1029176|00000000||Wrócę, jak będę miał czas.
+   1057897|00000000||Porozmawiajmy o nagrodzie.
+   1057931|00000000||Współczuję... Ale interes to interes. Więc pomówmy o pieniądzach.
+   1058419|00000000||A co nie tak z pieniędzmi?
+   1071280|00000000||Takiej sumy to ja na oczy nie widziałem!
+   1071282|00000000||Zejdźcie jeszcze trochę z ceny, to się dogadamy.
+   1071286|00000000||Wolne żarty, mistrzu wiedźminie. Wstyd tak drwić z biednego człowieka.
+   1071284|00000000||No i dogadaliśmy się.
+   1029182|00000000||Ano, mamy. Straszy tam. Od dobrych dwudziestu lat.
+   1029274|00000000||Dwudziestu...? To czemu akurat teraz dajesz zlecenie?
+   1029694|00000000||Bo wcześniej czerpaliśmy wodę z rzeki. Ale po bitwie tyle w niej trupów pływa, że truć poczęła. Moja córka, Luba, wypiła pół dzbanka i całkiem zaniemogła. Czoło rozpalone, jadła utrzymać nie może... Z dnia na dzień marnieje.
+   1029695|00000000||Zielarka mówi, że człowiek w gorączce dużo pić musi. I nie piwa ani jabłecznika, ale wody właśnie – koniecznie czystej. A skąd ją wziąć, jak nie ze studni? Tylko ducha wpierw przegnać trzeba... A on nikomu podejść nie pozwoli.
+   1029181|00000000||Witaj, gospodarzu. Wyczytałem, że macie tu kłopot ze studnią?
+   1049553|00000000||Mhm?
+   1049555|00000000||{Yeá?} [Tak?]
+   1049557|00000000||Oj!
+   1049559|00000000||Nordlingu, jesteś otoczony przez brygadę Impera, wiesz?
+   1069326|e0351e50||Skrzynia ze skarbem
+    166527|78f03e74||Wioskowa wiedźma
+    332443|002e3ae9||Książka
+    422229|00000000||Ha! Klient!
+    422233|00000000||Chciałbym, żebyś coś dla mnie wykonał.
+    422239|00000000||Wykonasz coś dla mnie?
+    422241|00000000||Bywaj.
+    422235|00000000||Bywaj.
+    422231|00000000||Pokaż mi swoje towary.
+    422237|00000000||Pokaż mi, co masz na sprzedaż.
+   1037370|00000000||Co ja wam, kurwa, zrobiłem?! No, co?!
+   1037368|00000000||Pięćdziesiąt... lat... pracy... Na nic!
+    594289|00000000||Bo zawołam mamę!
+    594291|00000000||Król Vridank kupił królowej Cerro korale koloru kolarowego. Yh!
+    594293|00000000||A mama mówiła że jak nie zjem obiadu, to zmienię się w strzygę!
+    595891|fbee3e23||Chłopka
+    547671|00000000||Pewnie macie do mnie interes?
+    561651|00000000||Zgaduję, że kapitan będzie miał do mnie interes?
+    561653|00000000||To wojsko, Nordlingu. Tu się nie zgaduje.
+    572004|00000000||Do wieży.
+    561657|00000000||No proszę, nie tacy Czarni straszni. Jak chcecie, potraficie być mili.
+    561659|00000000||Nie przyzwyczajaj się, Nordlingu.
+    547670|00000000||No proszę. Potraficie być mili.
+   1044726|00000000||Obóz wojskowy. Miejscowi mają wstęp tylko za pozwoleniem dowódcy garnizonu.
+    561511|00000000||A wyglądam ci na miejscowego?
+    561513|00000000||Wyglądasz na kogoś, kto sprawia kłopoty.
+    561515|00000000||Wręcz przeciwnie – ja je rozwiązuję. Jestem wiedźminem.
+    561517|00000000||Wiedźminem...?
+    561519|00000000||Kapitan Peter Saar Gwynlew jest w wieży. Za bramą w prawo.
+   1046059|00000000||O!
+   1046061|00000000||Ciocia mówi że za dużo gadam.
+   1046063|00000000||Chcesz być moim chłopakiem?
+    532099|2d058d06||Kapłan Wiecznego Ognia
+    171353|39b3095b||Redański żołnierz
+    172329|52a3f146||Chłop
+    546802|00000000||{Coltais grìffean ess’a’anval .} [Ponoć gryf znowu zaatakował.]
+    546803|00000000||{Aep thorp?} [We wsi?]
+    561458|00000000||{Neen, aep straede. Mar’sandean carbad.} [Nie, na gościńcu. Wóz kupiecki.]
+    561460|00000000||{Ess’dice fir’inn. Nord ess ulf’heidan an moeras.} [Prawdę mówili. Północ to nic tylko bagna i potwory.]
+    561462|00000000||{Esse’droog moeras, esse’tuv'en ulf’heidan. Mire, deich eate’n n’ve en esseath, esseath òrdan que’cail me caer.} [Bagna się osuszy, potwory wybije. Zobaczysz, dziesięć lat nie minie, a będzie porządek jak w domu.]
+   1039536|00000000||Spróbuj. Chętnie się rozruszam.
+   1039533|00000000||Spróbuj.
+   1039538|00000000||Spokój. I chodź za mną.
+   1039534|00000000||Spokój. I chodź za mną.
+   1038678|00000000||Ja, w odróżnieniu od srok i krasnoludów, chciwy nie jestem. Więc mnie nie przekupisz.
+   1038691|00000000||No to obiję ci mordę!
+   1038674|00000000||Nie ma mowy. Idziesz ze mną.
+   1038711|00000000||Dobrze. Przystanę na to... Jeśli przysięgniesz, że przestaniesz bawić się ogniem. Bo wtedy tu wrócę i zabawa skończy się płaczem.
+   1038713|00000000||Osz... Oszywiście, panie wiedźmin! Przysięgam na mateczkę! Wasze złoto... I wasze zdrowie! Na pohybel Czarnym i nieludziom!
+   1038707|00000000||Niech będzie – ale skończ z podpalaniem.
+   1038640|00000000||Paskudna rana. Wpadłeś na utopca?
+   1038642|00000000||A chuj cię to obchodzi?!
+   1038644|00000000||Oho. Nie tylko podpalacz, ale i mistrz ciętej riposty. No, chodź. Kowal chce się z tobą rozmówić.
+   1038647|00000000||Ja z nieludźmi nie gadam, bo to kurwie syny są – a krasnoludy z nich najgorsze! Chciwe niby sroki, dla złota wszystko zrobią! Wykują miecze, którymi Czarni nam gardła poderżną! Dobrze mówię?
+   1038651|00000000||Słuchaj... Dogadajmy się jak człowiek z człowiekiem. Nie wydasz mnie, to ci zapłacę. Mateczka mnie odumarła niedawno, sprzedałem jej narzędzia. Trochę już wydałem... Ale co zostało, będzie twoje.
+    352399|00000000||Ostaw nas. Gadać z tobą nie będziem!
+   1073032|00000000||Król Radowid wielki pan[[CSV_EXPORT_NL]]Czarnych chciał pokonać sam
+   1073034|00000000||Teraz w ziemi słodko śpi[[CSV_EXPORT_NL]]I o gołych wiedźmach śni...
+   1073036|00000000||I o gołych wiedźmach śni!
+    166469|d6a00ba0||Chłop
+   1026181|00000000||To ten?
+   1017041|00000000||Nie. Syn sąsiadów.
+   1017042|00000000||Uhh. Skóra spalona do szczętu. Wiem, że ciężko powiedzieć... Ale to może on?
+   1017043|00000000||Ja... Bastien był spory chłopak, szeroki w barach, a ten tu jakby mniejszy. Ale może to przez ogień...
+   1026176|00000000||Nie... Niepodobny.
+    477733|3fbb3904||Nilfgaardzki oficer
+   1058038|00000000||Hej, co z tobą?
+   1058040|00000000||Słyszysz mnie?
+   1058036|00000000||Znowu się upiłeś, co?
+   1058034|00000000||Niepełka, zejdź mi z oczu. Nie jestem w humorze.
+    352325|00000000||Zostaw nas. My z tobą ani gadać, ani bić się nie chcemy.
+    352327|00000000||Ja... Ja dość już chyba wypiłem. We łbie mi szumi...
+    352951|00000000||To nie od siwuchy, tylko od guseł!
+    166754|68667754||Nilfgaardzki żołnierz
+   1062519|c7782b0b||Przywódca dezerterów
+   1052104|00000000||Uratowałeś nas...
+   1031446|00000000||Wasza wieś na cały świat już słynna! Wszyscy mówią o bitwie pod Białym Sadem.
+   1031448|00000000||A mówią, kto wygrał? Bo ja żem słyszał, że i Czarni, i Radowid zwycięstwo ogłosili.
+   1031450|00000000||Kto wygrał, dobry człowieku, to się jeszcze okaże.
+   1031452|00000000||Jak to...? Przecie bitwa już dawno się skończyła...
+   1031454|00000000||Ale wojna nie. A to ci, co na koniec zwyciężą, historię będą pisać.
+    553813|00000000||Aaaargh!!!
+    553820|00000000||{Esse go'deff? Math. Tha seo tuveaann esse'cuir aep klu. Evan, sàbh a me. } [Boli? Dobrze. Znaczy, martwica zatrzymała się na wysokości kolana. Evan, podaj piłę.]
+    553821|00000000||{Aen Sàbh?!} [Piłę?!]
+    553822|00000000||{Que esse'bar aen cas? Aep beseta?} [A czym mam ci nogę urżnąć? Pęsetą?]
+    554445|00000000||{Aaaaargh!!! Leig leam, sheyss!} [Aaaaaaach!!! Zostaw, kurwa!]
+    554447|00000000||{Evan, vedrai. Esse'cuir an prop ar'ne teanga esse'nag.} [Evan, trzymaj go. I załóż knebel, bo sobie język odgryzie.]
+   1031893|00000000||Gościwuj! Wychylisz ze mną kufelek?
+   1031895|00000000||Od teraz Derwan. D-e-r-w-a-n. Nie Gościwuj.
+   1031897|00000000||Ale... Jak to? Przecie wiem, jak ci dali na postrzyżyny! I co to w ogóle za imię, Derwan?
+   1031899|00000000||Nilfgaardzkie. Moja babka była z Nazairu.
+   1031901|00000000||Aaaa, to takie buty. To uszanowania, mości Derwanie. Niech was złote słońce prowadzi. Z dala od mojego obejścia!
+    572345|00000000||Rzygać czy nie rzygać, oto jest... up, blee
+    572353|00000000||Raz tak się najebałem, że z uszu mi krew poszła.
+    572347|00000000||Gdzie?!
+    572349|00000000||No dawaj, kurwa, dawaj!
+    572351|00000000||Na rany Lebiody...
+    572355|00000000||Pijesz, czy podpierdalasz?
+    572357|00000000||Wypiję jeszcze jednego, to wyrucham karczmarza
+    548488|00000000||Parę koron się przyda.
+    548496|00000000||Parę koron zawsze się przyda.
+    548498|00000000||Tylko... Mieszek akurat u mnie chudy. Wpierw Nilfgaardczycy część towaru zabrali, a teraz to...
+    571588|00000000||Macie.
+    548517|00000000||Co cię to obchodzi?
+    548543|00000000||A co cię to obchodzi?
+    548545|00000000||No, bo...
+    548511|00000000||Niezły pomysł. Zwłaszcza, że trzeba oczyścić twoją ranę.
+    548513|00000000||E tam, ledwie mnie drasnął. Ale... Napiłbym się dobrej żytniej. Takiej chłodnej, wiesz, prosto z piwniczki.
+    548515|00000000||To jedźmy.
+    548509|00000000||Poza tym... Gospodyni to moja kuzynka. Wspomnicie, że Bram was przysyła, to przyjmie jak swoich.
+    548547|00000000||Tu w Białym Sadzie jest karczma, jedyna w okolicy. Przejezdni często tam stają, to może się czego dowiecie.
+    548539|00000000||Tak, pewnej kobiety. Niewysoka, czarne długie włosy. Widziałeś taką?
+    548541|00000000||Nie. Ale...
+    548516|00000000||Tak – pewnej kobiety.
+    548503|00000000||Co z tropem?
+    548505|00000000||Tak jak mówiłem. Dochodzi do gościńca i się urywa. Zadeptany.
+    548507|00000000||A szukacie kogo?
+    548490|00000000||Nic nam nie jesteś winien. Byłeś w potrzebie, to pomogliśmy.
+    548492|00000000||A mówią, że wiedźmini serca nie mają... Że bez zapłaty to nawet palcem nie kiwną.
+    548494|00000000||Mówią też, że myszy rodzą się ze zgniłej słomy.
+    548487|00000000||Nic nam nie jesteś winny.
+    522349|00000000||Na bogi... Mało brakowało, a skończyłbym jak moja kobyłka!
+    522350|00000000||Jeśli miałbyś szczęście.
+    522352|00000000||Twój koń zginął od razu... A gryfy lubią pomęczyć. Jeść żywcem po kawałku.
+    548484|00000000||Aaa-aha.
+    548486|00000000||Pewno... Pewno byście chcieli coś dostać w nagrodę, nie?
+    168358|00000000||Jedziemy?
+    168688|00000000||Na pomoc! Na pomoc!
+    168700|00000000||Poleciał?!
+    168702|00000000||Poleciał, możesz wyjść!
+   1028743|00000000||No i co, Huzar? Czujesz pana? Ech... Ciągle nic.
+   1036392|00000000||Hej! Gdzie idziesz?
+   1036394|00000000||Chciałeś, żeby mnie zeżarły te ghule? Nie lataj już jak kot z pęcherzem, tylko mi pomóż.
+   1028741|00000000||Zwęszył go! Huzar zwęszył Bastiena! Chodź!
+   1012788|00000000||Dziwny jesteś, ale znać, żeś swój chłop.
+   1012786|00000000||Uszanowanie.
+   1012783|00000000||Hola!
+   1012781|00000000||Rwie mnie w stawach.
+    549170|d678351e||Redański oficer
+    351652|00000000||Masz jakieś zioła na sprzedaż?
+   1008659|00000000||Coś się znajdzie.
+    351646|00000000||Masz na sprzedaż jakieś zioła?
+   1058491|00000000||Zaczęło jej się polepszać... I wtedy zabrali ją Nilfgaardczycy.
+   1058493|00000000||Nilfgaardczycy? Czego mogli od niej chcieć Nilfgaardczycy?
+   1058495|00000000||Nie mam pojęcia. Jak wiesz, oni nie mają zwyczaju się tłumaczyć.
+   1058485|00000000||Umarła. Wkrótce po tym, jak wyjechałeś.
+   1058487|00000000||Rozumiem, że masz żal... Ale wiesz mi. Moje eliksiry by jej już nie pomogły.
+   1058489|00000000||Cóż... Muszę uwierzyć ci na słowo.
+   1058477|00000000||Co się stało z Leną?
+   1058420|00000000||Co się stało z Leną?
+    351660|00000000||Bywaj.
+    351650|00000000||Bywaj.
+    351648|00000000||To jaka jest twoja historia?
+    351656|00000000||Powiesz mi coś o sobie? Jaka jest twoja historia?
+   1008661|00000000||Smutna. Kojarzysz świątynię Melitele w Ellander?
+   1008663|00000000||Czy kojarzę? Nie zliczę, ile razy tam byłem. Ile razy matka Nenneke zakładała mi szwy.
+   1008665|00000000||Musieliśmy się mijać. Uczyłam się u niej na uzdrowicielkę.
+   1008667|00000000||Ale... Miałam osiemnaście lat, jak mnie przyjęli. A wtedy nie nauki ma się w głowie, tylko miłość.
+   1008669|00000000||Był taki jeden chłopiec... Gosław. Jak zdejmował do pracy koszulę, nowicjuszkom wszystko leciało z rąk. Rzuciłam dla niego świątynię. Spędziliśmy cudowne lato... A potem on rzucił mnie.
+   1008671|00000000||Nenneke nie chciała mnie przyjąć z powrotem. A rodzice dali tylko płaszcz podróżny i chudy mieszek. Bez słowa. Długo nie mogłam znaleźć dla siebie miejsca... Aż trafiłam tu. Ot, cała historia.
+   1008673|00000000||Tak?
+   1031858|00000000||Dobra kobieto, zaprowadzi mnie ta droga do Wyzimy?
+   1031860|00000000||Prędzej do grobu... Nie słyszeliście, że tu gryf grasuje?
+   1031862|00000000||Wpierw Czarni do was przyszli, teraz gryf... No, prawdę mówią, że nieszczęścia chodzą parami.
+   1031864|00000000||I podróżni też powinni. Jak sami za wieś wyjdziecie, bestia pewnikiem was zwietrzy i pożre.
+   1031865|00000000||Trzeba wam zaczekać, aż większa grupa będzie szła. Jak macie złoto, to w karczmie... A jak nie, to u siebie przenocuję.
+    565458|00000000||Gospodarzu, to pole po drugiej stronie rzeki to czyje?
+    565459|00000000||Tam pod lasem? Bojana z Klimków. Dobry z niego chłop, panie wiedźmin, gdyby tylko nie...
+    565460|00000000||Tak, tak. A ten Bojan będzie szedł jakoś niedługo plonów doglądać?
+    565687|00000000||A po co? Do żniw jeszcze daleko...
+    452728|af91b76f||Ghul
+    170734|00017dcc||Chłopiec
+   1012752|00000000||Tfu, przeklętnik.
+   1012750|00000000||Zaraza.
+   1012748|00000000||Chamówa.
+    576822|00000000||Nie mam ochoty.
+    576867|00000000||Nie pijam z nieznajomymi.
+    576868|00000000||Dajże spokój. Wiem, że to plugawe miejsce, ale malucha na trawienie mógłbyś zmordować.
+    576878|00000000||Przejdźmy do rzeczy.
+    576887|00000000||Nastrój poprawi mi się, kiedy już znajdę...
+    576888|00000000||Nędznie wyglądasz. To tylko kropelka na humor. Któżby umarł od malutkiego sznapsika.
+    577342|00000000||Widziałeś Yennefer?
+    577343|00000000||Przepraszam, ale muszę o to spytać. Czy tu chodzi o miłość?
+    577757|00000000||Owszem, chodzi o miłość.
+    577770|00000000||Zgadłeś. To miłość.
+    577786|00000000||Od razu wiedziałem.
+    577841|00000000||Mów, co wiesz.
+    577843|00000000||Zanim się nie pojawiłeś, do głowy mi nie przyszło, że to Yennefer. Kto by pomyślał...
+    577844|00000000||Do rzeczy.
+    577846|00000000||Zwiadowca z nilfgaardzkiego garnizonu ją widział.
+    577853|00000000||Gdzie?
+    577854|00000000||W ich obozie. Wpadła tam w środku nocy. Czerń i biel, agrest i... tak, wiem. Zamieniła kilka słów z dowódcą garnizonu i pognała dalej.
+    577848|00000000||Gdzie?
+    577850|00000000||Nie jestem wszechwiedzący. Pytaj w garnizonie.
+    580188|00000000||Dzięki.
+    580189|00000000||My, ludzie gościńca, musimy trzymać się razem. Może kiedyś ja znajdę się w kłopocie, a ty będziesz w pobliżu.
+    577769|00000000||Nie twoja sprawa.
+    577819|00000000||Racja... Przybłędzie nie musisz się tłumaczyć.
+    577756|00000000||Nie twoja sprawa.
+    577348|00000000||Gdzie jest Yennefer?
+    577206|00000000||Mnie też znasz z ballad mistrza Jaskra?
+    577298|00000000||Twoje zdrowie.
+    577016|00000000||Wiesz, kim jestem?
+    577719|00000000||Czym się zajmujesz? Kim jesteś?
+    577720|00000000||Parszywy przybłęda. Gaunter o’Dim, do usług.
+    577721|00000000||Przybłęda to zawód?
+    577722|00000000||Kiedyś handlowałem lustrami, więc wesoła gawiedź ochrzciła mnie też Panem Lustro i Szklanym Człowiekiem.
+    577010|00000000||Z kim mam przyjemność?
+    577008|00000000||Skąd znasz Yennefer?
+    577048|00000000||Skąd znasz Yennefer?
+    577049|00000000||Też pytanie. Z ballad mistrza Jaskra. Dla biednego handlarza to jedyna okazja, żeby otrzeć się o wielkość. No, chyba że ma się tyle szczęścia, co ja.
+    577050|00000000||I trafia się na bardzo cierpliwego wiedźmina?
+    577051|00000000||Na samego Geralta z Rivii, Rzeźnika z Blaviken.
+    576869|00000000||Możemy przejść do rzeczy? Widziałeś ją?
+    576870|00000000||Yennefer z Vengerbergu?
+    576920|00000000||Nie powiedziałem, jak ma na imię.
+    576921|00000000||Ale dobrze ją opisałeś. A ja mam tak. Raz coś usłyszę, nigdy nie zapominam.
+    576865|00000000||Napiję się.
+    576821|00000000||Chętnie się napiję.
+    576785|00000000||Szukam kobiety.
+    576788|00000000||Jak wszyscy.
+    576812|00000000||Nie, nie jak wszyscy. Ta pachnie agrestem i bzem. Ubiera się w czerń i biel.
+    576814|00000000||Dwa sznapsy!
+    576823|00000000||To poprawi ci nastrój.
+    577768|00000000||Yennefer jest w niebezpieczeństwie.
+    577817|00000000||O, do czarta! Czemu nic nie mówiłeś! Trzeba działać.
+    571825|00000000||No?
+    571827|00000000||Brat został w Temerii... Nie ma nadziei, prawda?
+    571829|00000000||Wieczny Ogniu, zbaw od Nilfgaardczyków...
+    353189|00000000||Macie coś ciekawego pod szynkwasem?
+    353191|00000000||A zależy, czego szukacie. Rzućcie okiem.
+    352953|00000000||Co masz na sprzedaż?
+    351576|00000000||Bywaj.
+    351574|00000000||Bywaj.
+    351572|00000000||Jak ci się podobają nilfgaardzkie rządy?
+    351582|00000000||Jak ci się podobają nilfgaardzkie rządy?
+    353207|00000000||Jak każde inne. Ściągają podatki, rekwirują to i tamto... Ale i dbają o to, żeby we wsi spokój był.
+    353209|00000000||A Temerii ci nie żal?
+    351584|00000000||Żal to mi jej może było z pół roku temu, po śmierci króla Foltesta. A teraz... Teraz to ja tylko chcę, żeby już spokój nastał.
+    351568|00000000||Czego wam jeszcze trzeba?
+   1037063|00000000||Co tu się stało?
+   1037065|00000000||A, chłodno mi było w nocy, to podłożyłem sobie ogień pod kuźnię. Trzaskało, aż miło! I kiełbaskę upiekłem!
+   1039102|00000000||No, jak myślisz, co tu się stało, baranie? Ktoś podpalił mi chałupę, warsztat... Wszystko straciłem. Wszystko!
+   1039108|00000000||Przykro mi.
+   1039104|00000000||Przykro mi.
+   1039103|00000000||Nie obrażaj mnie.
+   1039106|00000000||Nie obrażaj mnie. Bo dojdzie ci nieszczęść.
+   1039110|00000000||Podejrzewasz kogoś?
+   1039112|00000000||Całą wieś. Mieszkam tu od półwiecza, myślałem, że mają mnie za swojego... Ale wszystko się zmieniło, jak przyszli Czarni. Jestem jedynym kowalem w okolicy, więc muszę obsługiwać ich garnizon. Klepać pogięte blachy, zakładać podkowy i takie tam.
+   1039139|00000000||Nilfgaardczycy nie płacą mi ani grosza, dają tylko materiały – i rozkazy. Ale do ludzi to nie dociera, myślą, że bogacę się na ich nieszczęściu, że śpię na kupie złota niby smok. Przestali się do mnie odzywać, plują na mój widok... A teraz to.
+   1037118|00000000||Mogę znaleźć tego podpalacza. Jeśli jesteś gotów zapłacić.
+   1037120|00000000||Niewiele mi zostało... Ale dam wszystko, byle byś mi przyprowadził tego sukinsyna. Żeby dostał, na co zasłużył.
+   1037122|00000000||Tej nocy, kiedy był pożar, słyszałem, jak coś się rusza za chatą. Szukałem tam potem jakichś śladów, ale nic nie znalazłem... No, ale ja nie mam kocich oczu. Powodzenia.
+   1037115|00000000||Mogę poszukać tego podpalacza. Za opłatą.
+   1037129|00000000||Powodzenia przy odbudowie... Bywaj.
+   1037116|00000000||Powodzenia przy odbudowie. Bywaj.
+   1039154|00000000||No? Czego chcesz?
+   1058589|00000000||Ciekawe, który cwaniaczek to zrobił. Już ja się z nim policzę.
+   1058587|00000000||Moja kuźnia! Spłonęła!
+   1058585|00000000||Pieprzony Biały Sad!
+    522378|00000000||Grywasz w gwinta?
+    522379|00000000||Nie z byle kim i zawsze o dodatkową stawkę. Z tobą mógłbym zagrać.
+    522385|00000000||Wiesz co? Zagramy innym razem.
+    522364|00000000||Rozmyśliłem się.
+    522363|00000000||Grajmy.
+    522384|00000000||Zgoda, zagram na twoich warunkach.
+    522382|00000000||Zagramy?
+    522383|00000000||Czemu nie, ale znasz zasady – ja zawsze gram o dodatkową stawkę.
+    522377|00000000||Zagrajmy w gwinta.
+    522387|00000000||Nie lubię przegrywać, ale to nie znaczy, że nie umiem. Karta i nagroda należą do ciebie.
+    522388|00000000||Jesteś starym graczem, to pewnie wiesz, gdzie można znaleźć jakieś ciekawe karty.
+    522389|00000000||W Novigradzie u karczmarza Oliviera. Grywa, chociaż do mnie to mu jeszcze daleko. Lepszym od niego graczem jest szynkarz z karczmy na Rozstajach w Velen.
+    522386|00000000||Możesz do mnie wrócić, jak będziesz miał lepszą talię. Albo gdy nauczysz się grać.
+   1038931|00000000||Nie dałem rady wytropić tego podpalacza. Przykro mi.
+   1039168|00000000||Szkoda... No, ale może Czarni w końcu go złapią.
+   1050107|00000000||Może chcesz coś kupić? Udało mi się parę rzeczy wynieść z pożaru. Kowadło też całe, mógłbym coś ci na nim wyklepać... Wiesz, każdy grosz mi się teraz przyda.
+   1055127|5525208b||Nilfgaardzki medyk
+    571819|00000000||Wszystko w porządku?
+    571821|00000000||Z Velen uciekłeś? Marnie wyglądasz.
+    571823|00000000||Uciekać próbują, z piekła...
+    592115|00000000||{N'een!} [ Nie!]
+    592117|00000000||Bo cię nahajem...!
+    592119|00000000||{Ech, elaine tedd a'taeghane... Aep Aevon y Alba...} [Ech, pięknie musi być nad Albą o tej porze...]
+    592121|00000000||Prawdziwy vedymin! Nie uwierzą mi bracia!
+    592123|00000000||{Ess se'ege aen a'vean!} [Zwycięstwo jest w nas!]
+    592133|00000000||{Glòir aen Ard Feain!} [Chwała Wielkiemu Słońcu!]
+    592125|00000000||Odłóż miecz. I vedymin dupa, gdy ludzi kupa.
+    592129|00000000||Rozmawiaj z dowódcą.
+    592127|00000000||Mhm?
+    592131|00000000||Szcześliwi? Teraz się możecie potaplać w błocku.
+   1071826|00000000||Co tu się wyrabia?!
+   1071828|00000000||Bloede pest, ostrzegałem!
+   1072782|00000000||{Ess'reusanth.} [Rozsądnie.]
+   1052066|00000000||Tata mówił, że zabiłeś potwora, co zjadał ludzi!
+    572013|00000000||Co tam, wiedźminie?
+   1031579|00000000||Módlmy się za dzielnych łowców czarownic! Niech wyplenią czarodziejskie ścierwo z tego świata.
+    572015|00000000||Nie zapominajcie moi drodzy, datek na kościół, to rzecz najważniejsza!
+    572017|00000000||Każde dziecko potrzebuje miłości. Pamiętajcie o tym!
+    593289|05df9919||Gęś
+   1046142|00000000||Dość! Dość już!!!
+   1046145|00000000||Litości! Błagam!!!
+   1046139|00000000||Aaaaargh!!!
+    499062|f4ea295c||Kwatermistrz
+   1078522|3ccd0f82||Dezerter
+   1058555|00000000||Panie... Nie mitrężcie. Małej się pogarsza.
+   1058571|00000000||Dzięki wam stokrotne, mistrzu!
+   1062764|00000000||Spóźniliście się, mistrzu. Luba już w grobie leży.
+   1052112|00000000||Nie ma chojraka nad wiedźmaka!
+   1028054|00000000||Trup. Powieszony na sznurze od wiadra...
+   1058441|00000000||To pewnia ta kobieta od dziennika.
+   1055659|361ff3ae||Kogut
+   1051306|00000000||{Ess tolla’va, hoersoon?! Esse’faigh va arbaith hwer...} [Nudzi się wam, skurwysyny?! Ja wam znajdę zajęcie...]
+   1051308|00000000||{Esse pump! Yn, twe!} [Pompować! Raz, dwa!]
+   1051310|00000000||{Iarr’va beannen aep Temeria?} [Temerskich wieśniaczek się wam zachciało?]
+   1051312|00000000||{Rach, sheyss! Yn, twe!} [Dalej, kurwa! Raz, dwa!]
+   1051314|00000000||{Ess fad air va aep boaeran! Begript?!} [Od kmiotków macie się trzymać z daleka! Zrozumiano?!]
+   1051316|00000000||{Lager hoal! Ess’dice, lager!} [Niżej dupy! Niżej, mówię!]
+   1051318|00000000||{Dure pump, hoalan aep her’zaeran zaighde’ran snasta aarde.} [Podczas pompek dupy cesarskich żołnierzy muszą być przy samej ziemi.]
+   1051320|00000000||{Yn, twe, yn, twe!} [Raz, dwa, raz, dwa!]
+    578328|00000000||Grywasz w gwinta?
+   1014563|00000000||Tak, ale tutaj nie ma z kim grać. Masz talię? Wyciągaj.
+    578326|00000000||Innym razem.
+    578342|00000000||Zagramy, ale innym razem.
+    578325|00000000||No to grajmy.
+    578332|00000000||Powodzenia.
+    578330|00000000||Zagramy?
+    578331|00000000||Z chęcią.
+    578327|00000000||Zagrajmy w gwinta.
+   1014576|00000000||Wygrałeś, gratuluję. Weź tę kartę, zasłużyłeś na nią.
+    578345|00000000||Znasz kogoś, z kim warto byłoby zagrać?
+   1076751|00000000||Słyszałem o jednym karciarzu, który nie tak dawno zahaczył o Novigrad. Co ciekawe - też wiedźmin. Lambert na niego wołają.
+   1076869|00000000||To nie jedyny twój znajomy, z którym możesz zagrać. Talar jest zapalonym karciarzem i ma bardzo ciekawą talię. Jest w tych stronach, więc możesz spróbować...
+   1076867|00000000||Znam Lamberta, ale nie miałem pojęcia, że grywa w gwinta.
+   1076865|00000000||Czekam jeszcze na przyjaciela, który ma tu dotrzeć z południa. Lubi i potrafi bawić się kartami. Ale jak widać najlepiej wychodzi mu spóźnianie, więc nie masz co czekać.
+   1076749|00000000||Słyszałem o jednym karciarzu, który nie tak dawno zahaczył o Novigrad. Co ciekawe - też wiedźmin. Lambert na niego wołają.
+   1076863|00000000||Stary Lambert karciarzem...? Ciekawe...
+    578343|00000000||Wpadnij jeszcze kiedyś na partyjkę.
+    578352|00000000||Twój stary znajomy ze Skellige – Crach an Craite posiada ciekawą kolekcję. Poza tym w Velen mieszka jeden szkutnik, który w dzień struga łodzie, a wieczorami grywa w gwinta.
+   1012265|00000000||Łaa!
+   1012263|00000000||Ooo!
+   1012261|00000000||Aaaaa!
+   1028123|00000000||Szeroka miednica, mała żuchwa. Kobieta. Sądząc po zębach, około trzydziestki. Brakuje lewego ramienia.
+   1028165|00000000||Trzeba będzie spalić to ciało... Ale najpierw muszę znaleźć przedmiot, który wiąże jej duszę z tym miejscem.
+   1036759|00000000||To ramię... Może odpadło, bo nosiła na nim coś ciężkiego?
+   1058437|00000000||Trzeba zeskoczyć na dół... Obym sobie nóg nie połamał.
+   1058435|00000000||Może ramię odpadło, bo nosiła na nim tę bransoletę od męża?
+   1073019|00000000||Te oto kurwy, prowadzały się z Czarnymi
+   1073021|00000000||Wstyd nam wszystkim przynosząc i srom!
+   1073023|00000000||A skoro chędożyły się z Nilfgardczykami...
+   1073025|00000000||To my je też ładnie ochędożyliśmy i łby ogoliliśmy!
+   1073027|00000000||Co by znak był, że one dziwki nilfgaardzkie, a nie porządne niewiasty.
+   1046855|00000000||Skąd ten pośpiech?
+   1046871|00000000||Ostatnie sześć miesięcy spędziłem w siodle. Nie widziałem cię od dwóch lat. Więc o ile czas nie goni...
+   1046907|00000000||Niestety, goni. Ktoś na ciebie czeka, Geralt. Ktoś, kto czekać nie lubi.
+   1046983|00000000||Ciekawe, co ci zaoferował w zamian.
+   1046989|00000000||Ciekawe, co zaoferował ci w zamian.
+   1046991|00000000||Mało jest rzeczy a jeszcze mniej ludzi, dla których byłabyś gotowa poświęcić swoją niezależność.
+   1046993|00000000||Im szybciej wyruszymy, tym szybciej się dowiesz.
+   1046996|00000000||A ty?
+   1046998|00000000||A ja pojadę w drugą stronę. Zdaje się, że zaproszenie do Wyzimy jest imienne... Poza tym, mam co robić. Kaer Morhen, pamiętasz?
+   1047000|00000000||Tak, pamiętam... Dzięki za pomoc. I do zobaczenia.
+   1047003|00000000||Jak twój koń? Szybki jest?
+   1047005|00000000||Nie narzekam. Czemu pytasz?
+   1047007|00000000||Chciałabym wrócić za solidne miejskie mury. Tak szybko, jak to możliwe.
+   1046985|00000000||No, dobrze... Mogę wysłuchać, co ma do powiedzenia.
+   1046987|00000000||Mhm. Cesarz Nilfgaardu, senior Metinny, Ebbing i Gemmery, suweren Nazairu i Vicovaro na pewno poczuje się zaszczycony.
+   1046982|00000000||Mogę wysłuchać, co ma do powiedzenia...
+   1046909|00000000||Cesarz Emhyr var Emreis... Dla przyjaciół, Biały Płomień Tańczący na Kurhanach Wrogów.
+   1046911|00000000||Wątpię, żeby zaliczył mnie do tego grona. Kiedy się ostatnio widzieliśmy, chciał mnie zabić.
+   1046913|00000000||Cóz... A teraz chce ci złożyć propozycję.
+   1046915|00000000||Z gatunku tych nie do odrzucenia?
+   1046917|00000000||Ja nie odrzuciłam. Choć mogłam.
+   1046867|00000000||Tu też możemy porozmawiać. Niedaleko są urocze sady. Akurat kwitną, więc prawie nie czuć trupów.
+   1046978|00000000||Kusząca propozycja... Ale niestety muszę powiedzieć nie.
+   1046980|00000000||Widzisz, w Wyzimie ktoś na ciebie czeka. Ktoś, kto czekać nie lubi.
+   1046854|00000000||Czemu właśnie w Wyzimie?
+   1046841|00000000||To nie myśmy zaczęli tę burdę.
+   1046843|00000000||Wymówki, wymówki... Cały ty.
+   1046846|00000000||Ye… Yennefer? Jak...?
+   1049439|00000000||Dostałam raport, że w Białym Sadzie pojawił się wiedźmin. Wiedziałam, że to ty. Że jedziesz moim tropem.
+   1049441|00000000||Mogłam poczekać, aż mnie znajdziesz... Ale wiesz. Cierpliwość nigdy nie była moją mocną stroną.
+   1049443|00000000||Dobrze cię widzieć, Geralt. Jeszcze lepiej byłoby cię uścisnąć... Gdyby nie to, że jesteś cały we krwi.
+   1049445|00000000||Wybacz... Nie spodziewałem się ciebie. Szczerze mówiąc, to w ogóle nie tak wyobrażałem sobie to spotkanie.
+   1049447|00000000||Yhm, a jak..?
+   1049454|00000000||Bez obstawy Nilfgaardczyków, jak mniemam.
+   1049457|00000000||Yennefer... Nie zrozum mnie źle, też się cieszę, że cię widzę... Ale jesteś nam chyba winna wyjaśnienia.
+   1049459|00000000||Udzielę ich... Ale już w Wyzimie. Szykujcie konie.
+    326432|00000000||Już dobrze. Po wszystkim.
+    326434|00000000||Zostaw! Nie zbliżaj się!
+    326436|00000000||Widzieliście jego twarz… bogowie...
+    326448|00000000||Odejdź stąd. I nie wracaj. Nigdy.
+    549288|00000000||No, to tyle z niemieszaniem się... Chodźmy.
+   1056370|00000000||Yennefer, skąd oni…
+   1056372|00000000||Pogadamy o tym jutro, dobrze? Po audiencji.
+   1056355|00000000||Wiesz... Śniłaś mi się niedawno.
+   1056357|00000000||Znając ciebie, to pewnie był nieprzyzwoity.
+   1056359|00000000||Tylko na początku. A potem…
+   1056362|00000000||A potem?
+   1056367|00000000||W galop! Już!
+   1075096|00000000||Oho. Ciekawego sobie znalazł rozmówcę...
+   1075098|00000000||On gada z psem, ty do siebie... Nie wiem, co gorsze.
+   1075225|00000000||Też prawda... Swoją drogą, słyszałeś, co mówił? Szuka kogoś. Może byśmy--
+   1075227|00000000||O, nie. Jak chcesz się pchać w cudze sprawy, rób to sam. Ja poczekam.
+   1077296|00000000||Geralt, do kroćset! Za stary jestem, żeby się za tobą uganiać!
+   1077300|00000000||Ugryzło cię co? Wracaj!
+   1077298|00000000||Hola, gdzie ty się wybierasz? Wracaj!
+   1071802|00000000||Babka mi opowiadała, że kiedyś jak kowalowi synek zaginął, to chłopy zaraz wzięli na spytki wiedźmaka, co akurat polował w okolicy.
+   1071804|00000000||A że ten coś mataczył to mu, rach-ciach, łeb ukręcili.
+   1071806|00000000||Tak było. Tyle że dzieciaka jakiś utopiec zeżarł i wiedźmak nic do tego nie miał!
+   1071808|00000000||I co wtedy zrobili!?
+   1071810|00000000||No przecie głowy mu na powrót nie przyszyli. Ponoć go cichaczem w krypcie złożyli…
+    522516|00000000||Szukam partnera do gry w gwinta.
+    522519|00000000||No to dobrze trafiłeś. Jeśli masz ochotę zagrać, to mogę postawić unikat z mojej kolekcji.
+    522535|00000000||Zagramy kiedy indziej.
+    522402|00000000||Innym razem.
+    522401|00000000||Grajmy.
+    522531|00000000||Jasne, grajmy.
+    522530|00000000||To co, gramy?
+    522408|00000000||Zagrajmy w gwinta.
+    522538|00000000||Wygrałeś, karta jest twoja.
+    522536|00000000||Ja bym rozegrał tę partię zupełnie inaczej. No, ale... To tylko moja opinia.
+    522539|00000000||Znasz ludzi, którzy mają jakieś unikatowe egzemplarze kart?
+    522749|00000000||Wiem, że komendant Vernon Roche grywa. I jeden z was, wiedźminów, wpadł tu kiedyś na partyjkę. Niejaki Lambert.
+    564320|00000000||Zanim co?
+    564327|00000000||Zanim co?
+    564329|00000000||Zanim mnie wypędzono ze wsi.
+    564331|00000000||Co takiego zrobiłeś?
+    564333|00000000||Nic. Jestem odmieńcem.
+    564335|00000000||Wybaczcie. Nie chcę o tym mówić.
+    564360|00000000||Przykro mi.
+    564362|00000000||A, stare czasy.
+    578741|00000000||Miałem ci pokazać miejsce, gdzie znalazłem Nilfgaardczyków... Chodź.
+    564357|00000000||Przykro mi.
+    564358|00000000||Chodźmy już.
+    564344|00000000||Też jestem odmieńcem.
+    564346|00000000||Tak... Ale innego rodzaju.
+    564348|00000000||Jeśli to likantropizm, mogę pomóc.
+    564350|00000000||Co?
+    564352|00000000||Likantropizm. Wilkołactwo. Załatwiałem już takie sprawy. To zwykle proste klątwy, które...
+    564354|00000000||Syn dziedzica, Florian, i ja... Kochaliśmy się.
+    564356|00000000||Dieter nakrył nas w stajni. Mnie wygnano... A Florian się powiesił. Dziedzic zaczął potem pić, majątek podupadł... Ot, cała historia.
+    564337|00000000||Też jestem odmieńcem.
+    564336|00000000||Nie naciskam.
+    564339|00000000||Nie naciskam.
+    564341|00000000||To jak... Pokażesz mi, gdzie znalazłeś tych Nilfgaardczyków?
+    564322|00000000||Przykro mi. Mam nadzieję, że to nie był ktoś bliski.
+    564324|00000000||Nie. Wcale.
+    564319|00000000||Pokaż, gdzie znalazłeś Nilfgaardczyków.
+    564109|00000000||Dieter...
+    564314|00000000||Znasz go?
+    564316|00000000||Służyliśmy razem u dziedzica, tam gdzie teraz czarne wojsko stoi. On był stajennym, ja nadwornym myśliwym.
+    564318|00000000||Ale to było zanim... To było dawno temu.
+   1005963|00000000||Mój tata jest żołnierzem!
+   1005961|00000000||Patrzcie! Patrzcie!
+   1005959|00000000||Mój tata ma większy miecz!
+   1058505|00000000||To chyba nie jest dobry moment na pogaduchy, co? Załatwmy, co mamy załatwić i zbierajmy się stąd.
+   1058510|00000000||Pogadamy na miejscu.
+   1058512|00000000||Dzięki raz jeszcze... Bez ciebie nigdy bym nie znalazł Bastiena.
+    452710|80f5373b||Dezerter
+    543926|00000000||Krawędzie dzioba starte, siwe włosy w podszerstku... Miała dziesięć, dwanaście lat.
+    564577|00000000||Gryfy wiążą się za młodu na całe życie. Samiec musi być w podobnym wieku.
+    543914|00000000||[Określ wiek.]
+    543927|00000000||Grube stosiny, gęsty przypiórek... Gryf królewski.
+    543915|00000000||[Określ podgatunek.]
+    543937|00000000||To tłumaczy, czemu samiec, którego spotkałem, był tak agresywny...
+   1059605|00000000||Najpierw dopadł Nilfgaardczyków tu w lesie... Potem zaczął grasować po całej okolicy.
+    543916|00000000||[Wyjdź.]
+    543913|00000000||[Obejrzyj rany.]
+    543924|00000000||Głębokie rany kłute na całym ciele... A na pazurach i dziobie ani śladów krwi.
+    543925|00000000||Nie broniła się. Musieli ją podejść, jak spała.
+    543912|00000000||Samica. Larwy w ranach zdążyły się wykluć. Czyli jest martwa co najmniej od tygodnia...
+    565410|00000000||...a drugi gryf musi być samcem.
+    575730|00000000||Przyjrzyjmy się jeszcze...
+    371481|c38af1d3||Starzec
+   1073039|00000000||Coś taki przygnębiony?! Wojna się skończyła, w końcu do domu wrócimy!
+   1073041|00000000||Ja tam nie mam do czego wracać.
+   1073043|00000000||Na werbunek poszedłem prosto z ulicy...
+   1073045|00000000||Spałem pod mostem, a żarłem co wyżebrałem.
+   1073047|00000000||Armia to mój dom. A w Novigradzie... znów w rynsztoku wyląduje.
+    491869|00000000||A w naszej kapliczce dach dziurawy.
+    495263|00000000||Straszny to musi być bluźnik. Gadają, że nad ciałami się pastwi - serca i oczy pożera!
+    495266|00000000||Wieczny Ogniu...
+    507337|00000000||Myślisz że hierarcha uzna te heretyckie dogmaty za zgodne z prawdziwą wiarą?
+    507339|00000000||Ech.
+    491871|00000000||Pokój wam.
+   1031573|00000000||Uważaj na siebie. Teraz w Novigradzie stos co krok, a rynsztokiem krew...
+    491887|00000000||Nie znajdziesz w Novigradzie monstrów, ni potworów, gdyż płonie tu Wieczny Ogień.
+    507343|00000000||A może jesteś tutaj bo chcesz się nawrócić?
+    491873|00000000||Bracie, siostro.
+    507341|00000000||Tak?
+    491875|00000000||No proszę, wiedźmin.
+    491877|00000000||Wybacz.
+    491883|00000000||Krzywdy nie rób!
+    491879|00000000||Co się dzieje?
+    491881|00000000||Co tu się stało?
+    491885|00000000||Proszę... Błagam...
+    491889|00000000||Żar w mym sercu płonie, żar!
+   1018717|00000000||Rozbój! Kradzież!
+   1058497|00000000||I jak? Znalazłeś już mój wóz?
+   1058499|00000000||Dzięki raz jeszcze... Temeria nie zginęła, póki my żyjemy!
+   1058501|00000000||Prawdę mówią o wiedźminach...
+   1071323|00000000||Pomóżcie! Pomóżcie!
+   1038703|00000000||Ooo! Złociutki! Jak już tam wchodzisz, poszukałbyś mojej patelni? Pożyczył ode mnie, psubrat, wyjechał, a nie oddał!
+   1038705|00000000||Słucham?
+   1038745|00000000||Ciekawe... I co było dalej?
+   1038750|00000000||Ciekawe... I co było dalej?
+   1035305|00000000||Jak w końcu będzie, złociutki? Zlitujesz się nad starowinką?
+   1034134|00000000||Zlecenia na patelnię jeszcze nie miałem... Dobrze, wejdę tam i rozejrzę się za nią.
+   1057774|00000000||Lepiej tu zaczekaj. Na wszelki wypadek.
+   1034132|00000000||Dobrze, pomogę ci.
+   1034135|00000000||Wybacz, ale mam na głowie ważniejsze rzeczy. Ważniejsze nawet od twojej patelni.
+   1034133|00000000||Nie mam na to czasu.
+   1038752|00000000||Nad ranem do chałupy zajechał ktoś jeszcze... Ale potem wyszedł tylko ten pierwszy jegomość. Zamknął drzwi na klucz, wsiadł na koń – i tyle widziałam jego i moją patelnię! Ona stara była, czarna od sadzy, strata niby mała... Ale innej nie mam!
+   1038754|00000000||Może ty mi pomożesz, złociutki, co? Przyniesiesz babci patelnię, no? Sama tych drzwi nie wyważę... A po prawdzie i tak bałabym się wejść do środka. Bo zza drzwi taki smród bije, że ja myślę, że ten drugi... On tam chyba leży.
+   1038747|00000000||Zaiste, porywająca historia. Która, mam nadzieję, wkrótce się skończy.
+   1038744|00000000||Zaiste, porywająca historia.
+   1034141|00000000||Widzicie, ten dom zawsze stał pusty. Aż nagle, w noc przed bitwą, przyjechał tu jakiś jegomość i wszedł jak do siebie. Stoję przy oknie, żeby zobaczyć, co się dzieje... I musiał mnie zoczyć, bo patrzę, a on idzie w stronę mojej chaty!
+   1034143|00000000||Złapałam patelnię, żeby jakby co się obronić... A ten grzecznie pyta, babciu, masz może brzozowej kory? Jagody bzu albo chociaż kilka węgielków? Nie, mówię! I chyba na głowę upadliście, żeby po nocy o takie głupoty ludzi wypytywać!
+   1038698|00000000||Ale widzę, że on wcale mnie nie słucha... Tylko na patelnię się gapi, niby sroka w gnat! Pożycz mi ją, babciu, oddam z rana. Trochę się dziwiłam, bo co on tam będzie po ciemku smażyć? No, ale że dobre serce mam, to dałam.
+   1034138|00000000||Zgubiłaś klucz, babciu?
+   1034139|00000000||Nie. Patelnię!
+   1052120|00000000||Geralt! Dzięki za wszystko!
+   1052094|00000000||Od wioski do wioski i trzosik będzie pełen, co?
+   1052108|00000000||Niby wiedźmak, a pomógł...
+    547114|00000000||Te ślady są starsze. I głębsze.
+    547115|00000000||Ciężkozbrojni... Pewnie Nilfgaardczycy.
+    547123|00000000||Ziemia aż ciemna od zakrzepłej krwi.
+    564921|00000000||Biwak?
+    572505|00000000||Ktoś tu sobie urządził niezłą popijawę.
+    565228|00000000||Nilfgaardczycy coś tu świętowali... Ale gryf im przerwał.
+    547112|00000000||Ślady są świeże. Mysław dopiero co wyszedł z domu.
+    452942|6fc3af95||Owca
+    580097|00000000||Zaszpiewać cie, pio...yk! Senkę?
+    580099|00000000||W jedną rękę kielich dajcie! W drugą rękę wina dzban!
+    580101|00000000||I nade mną zaśpiewajcie: Umarł pijak, ale pan!
+   1046190|00000000||Idź stąd!
+   1046192|00000000||Idź!
+   1046194|00000000||Iiii!
+   1046196|00000000||Co mnie depczesz?!
+   1046198|00000000||Czego my ci winni?!
+   1030852|00000000||Muszę powiedzieć, że liczyłem na bardziej konkretny wyraz wdzięczności. Najlepiej złoty i brzęczący.
+   1030854|00000000||Myślałem, że ty tak z przekonania... Nie z chciwości. Ale dobrze, masz. Żebyś zapamiętał i innym powtórzył, że Nilfgaard jest szczodry dla tych, którzy są gotowi mu służyć.
+   1030849|00000000||Mogę liczyć na jakąś nagrodę?
+   1030850|00000000||Na co chorują wasi żołnierze?
+   1030856|00000000||Na co chorują wasi żołnierze?
+   1030858|00000000||Nie wiem. Nie pytam. Ci, co się za bardzo interesują, jadą prosto na front.
+   1030144|00000000||Hej, żołnierzu! Czekacie może w obozie na jakiś spóźniony transport?
+   1030146|00000000||Co...? Tak. Kapral Lffyned pojechał do dowództwa po leki i nie wraca. Miał być przed paroma dniami...
+   1030147|00000000||Leki są tu, w skrzynce. A to... Trzy w jednym. Oszust, złodziej i morderca tego waszego kaprala.
+   1030847|00000000||Chędoż się, mutancie.
+   1030149|00000000||Kapitan Peter już mu zgotuje przyjęcie... A tobie, Nordlingu, należą się podziękowania. Te medykamenta... Życia pewno naszym chłopcom nie uratują, ale chociaż łatwiej im będzie teraz umierać.
+   1052106|00000000||Bogowie nam cię zesłali!
+    594504|00000000||Siemaneczko!
+    594506|00000000||Zieeew
+    594508|00000000||Jak będę duży, zostanę rzeźnikiem!
+    580086|00000000||Eee, ty, ja nie wiiiem, eee...
+    580088|00000000||Brp... Brp...
+   1058022|00000000||Pobudka!
+   1058025|00000000||Hm? Co... Co jest?!
+   1039152|00000000||Surowa kara...
+   1039162|00000000||Surowa kara...
+   1039164|00000000||Ale zasłużona.
+   1039166|00000000||Wiesz, z początku też nienawidziłem Czarnych, jak wszyscy. Teraz myślę, że może wreszcie zaprowadzą tu porządek... Że nauczą tych nierobów moresu. No, ale mniejsza z tym... Twoja nagroda.
+   1050098|00000000||A tak poza tym... Parę rzeczy udało mi się z pożaru wynieść, no i kowadło jest wciąż całe, więc coś tam mogę na nim wyklepać. Jak czegoś potrzebujesz, to powiedz. Dam zniżkę.
+   1039157|00000000||Teraz to cię dopiero we wsi polubią...
+   1039159|00000000||Teraz to ja już mam ich wszystkich w dupie.
+   1039151|00000000||Teraz cię dopiero we wsi polubią.
+   1039146|00000000||Proszę. Oto wioskowy piroman we własnej osobie.
+   1039148|00000000||Niepełka? Ty?! Nigdy od twojej matki grosza nie wziąłem. I tak się odwdzięczasz?! Dość tego. Hola, żołnierze! Pozwólcie!
+   1039150|00000000||Nie! Willi... Błagam! Wypiłem... Nie wiedziałem, co robię!
+   1039490|00000000||Mówiłem wam, mistrzu Willi. Pomożemy w odbudowie, jak dostaniemy posiłki. Materiały już zamówione.
+   1039492|00000000||Nie o to chodzi. To podpalacz. Wiedźmin go złapał!
+   1039494|00000000||Ta kuźnia była kluczowa dla garnizonu. Jej zniszczenie to sabotaż... Więc obejdzie się bez sądu. Na drzewo z nim.
+   1046174|00000000||Nie tykaj mnie...
+   1046172|00000000||*Chlip, chlip*
+   1046176|00000000||Boli.
+   1046178|00000000||Proszę, nie rób nam krzywdy!
+   1046180|00000000||Aaaa!
+    594486|00000000||Jee-eejku!
+    594488|00000000||Pokaże pan miecz?
+    594490|00000000||Ha ha ha ha!
+    313590|acc55a20||Bandyta
+   1030291|00000000||Hej! Pomóżcie podróżnemu!
+   1030288|00000000||Hola! Panie wiedźmin!
+   1011712|00000000||Prawda to, co mówią, że lubisz grać w karty?
+   1011713|00000000||Ja po prostu lubię grać. W kości, karty, szachy... Gra mnie odpręża. Pytasz, bo nie masz o czym gadać, czy może masz ochotę ze mną pograć?
+   1011719|00000000||Grajmy. Tylko pamiętaj... Interesują mnie dobre karty, a nie śmieci.
+   1011693|00000000||Zagrajmy.
+   1011718|00000000||Przyjdzie taki czas, że zagramy.
+   1011694|00000000||Nie teraz.
+   1011716|00000000||W co aktualnie grywasz?
+   1011717|00000000||W co kto chce ze mną grać. Masz ochotę na karty?
+   1011691|00000000||Zagrajmy w gwinta.
+   1011721|00000000||Kurwa jego mać! Wiesz, ile czasu zajęło mi zgromadzenie tej talii?
+   1011722|00000000||Interesujesz się tym od dawna, to i pewnie znasz dobrych graczy, a co najważniejsze: z dobrymi kartami.
+   1076883|00000000||Kurwa jego mać! Wiesz, ile czasu zajęło mi zgromadzenie tej talii?
+   1076885|00000000||Nie, nie wiem. Znasz jakichś dobrych graczy, a co najważniejsze: z dobrymi kartami?
+   1076456|00000000||Ostatnio dużo gadają o niejakim Lambercie, co to ma ponoć wykurwistą talię. Może go znasz, bo to wiedźmin.
+   1011728|00000000||Mierz siły na zamiary, wiedźminie.
+   1011724|00000000||Jest Vimme Vivaldi – novigradzki bankier. Zbiera swoją talię od lat. Kobiety też grywają. Na przykład markiza Serenity... Jest wytrawną graczką ze znakomitą talią.
+   1011961|00000000||Ojej!
+   1011959|00000000||Dzień dobry!
+   1011957|00000000||E hehehehe…
+   1011955|00000000||Hi, hi, hi, hi, hi, hi.
+   1011953|00000000||E he he he, he he…
+   1011951|00000000||Granda!
+   1011949|00000000||Ratunku!
+    580005|00000000||Odejdź... Odejdź!
+    580007|00000000||Bogowie, Kostucha po mnie przyjszła.
+    344129|00000000||Zwiastunka Wojny? O czym ty mówisz?
+    344131|00000000||Ludzie gadają, że nocami przez pola jedzie zmora, która wygląda jak piękna kobieta, taka, jak opisałeś. Ciągną za nią wojska, a tego, kto przetnie jej drogę, czeka nieszczęście.
+    344133|00000000||Za to ostatnie ręczę osobiście... Wiesz, gdzie dokładnie ją widziano?
+    344145|00000000||Nie. Mnie interesują fakty, nie klechdy.
+    331629|00000000||Zwiastunka Wojny? O co chodzi?
+    331627|00000000||Bywaj.
+    446051|00000000||Muszę iść. Bywaj.
+    344137|00000000||Nie, dzięki.
+    344184|00000000||Nie. Mam inne rzeczy na głowie.
+    344218|00000000||Szkoda. Pograłbym z miejscowymi, ale że oni nawet do dziesięciu nie zliczą, to i reguł nie pojmują.
+    547287|00000000||No nic, wróć, jeśli zmienisz zdanie!
+    446053|00000000||Do zobaczenia!
+    344182|00000000||Czekaj, wiedźminie... Wyglądasz mi na światowca. Umiesz może grać w gwinta?
+    344210|00000000||Nie. I nie mam czasu się uczyć.
+    344212|00000000||Kiedy to naprawdę proste! No, to jak będzie? Zagrajmy!
+    344135|00000000||Niech będzie.
+    344214|00000000||W sumie... Czemu nie.
+    344216|00000000||Wybornie! Już ci tłumaczę zasady.
+    446065|00000000||Tylko wpierw wytłumacz mi zasady.
+    446067|00000000||Z przyjemnością! Są proste jak konstrukcja cepa.
+    446063|00000000||Zagrajmy w te twoje karty.
+    446061|00000000||Możemy zagrać.
+    415588|00000000||Wojna dotarła już do Novigradu?
+    415590|00000000||Nie, ale to kwestia czasu. Z jednej strony rzeki Nilfgaard, z drugiej Redania... Łypią na miasto jak psy na smakowitą kość.
+    415592|00000000||Niejednemu władcy ta kość stanęła w gardle.
+    415594|00000000||Prawda. Cenimy w Novigradzie naszą wolność i wiemy, jak o nią zawalczyć.
+    415610|00000000||Mhm. Zwłaszcza uczeni.
+    415612|00000000||Walczyć można nie tylko mieczem. Nie zapominaj, że to architekci z naszej akademii zaprojektowali miejskie mury, których nie skruszyła jeszcze żadna machina wojenna!
+    415586|00000000||Wojna dotarła już do Novigradu?
+    344123|00000000||Co tu robisz?
+    344172|00000000||Nie spodziewałem się, że spotkam tu naukowca. Rozumiem, że uciekasz przed wojną?
+    344174|00000000||Wręcz przeciwnie. Jadę na front.
+    344176|00000000||Życie ci niemiłe?
+    344178|00000000||Milsza od życia jest mi wiedza. A nie zdobędę jej, siedząc między księgami.
+    558259|00000000||Chcę zobaczyć inwazję Nilfgaardu na własne oczy, zrozumieć ją – i opisać. To będzie moje magnum opus!
+    344190|00000000||Wracaj między te księgi, póki jeszcze możesz. Wojna to nie zabawa.
+    572912|00000000||Tu nie będzie rad wydziałowych, errat i innych habilitacji. Zabije cię pierwszy żołnierz, którego spotkasz.
+    344192|00000000||Niby czemu? Jestem cywilem, bezstronnym...
+    344194|00000000||Buty.
+    344196|00000000||Co?
+    344198|00000000||Zarżnie cię dla butów.
+    344186|00000000||Wracaj między księgi, póki możesz.
+    344188|00000000||Opisz wojnę taką, jaką jest.
+    344200|00000000||Może wreszcie ktoś opisze wojnę taką, jaką jest. Bez kolorowych strzałek i zmyślonych mów bohaterskich generałów, za to z gwałtami i bezmyślnym okrucieństwem.
+    344202|00000000||Ach, widać, że brak ci akademickiego szlifu.
+    558261|00000000||Gwałty i okrucieństwa to detale bez znaczenia dla przebiegu wojny. Inherentny dla konfliktów koloryt, można rzec.
+    344204|00000000||Mhm. Rzeknij to ludziom, którym spalono domy.
+    576337|00000000||Tracimy czas. Prędzej ziemia zacznie krążyć wokół słońca, nim opanujesz zasady.
+    344119|00000000||Mogę zająć chwilę?
+    344121|00000000||Czemu nie. Aldert Geert, profesor nadzwyczajny z Akademii Oxenfurckiej.
+    351885|00000000||Geralt. Wiedźmin zwyczajny z Rivii.
+    576340|00000000||Szukam pewnej kobiety. Długie włosy, ubrana w czerń i biel. Widziałeś taką?
+    576342|00000000||Oczywiście, że nie. W przeciwieństwie do gminu wiem, że Zwiastunka Wojny to tylko bajeczka.
+    482402|00000000||Kłaniam się.
+    344208|00000000||O, wróciłeś! To jak, zagramy partyjkę?
+    576344|00000000||Jeszcze raz. Są cztery fakcje...
+    576346|00000000||Że co?
+    576348|00000000||Fakcje, drużyny, talie! Coś jak piki i kiery. Tylko że każdy kolor ma inne figury i są jeszcze karty specjalne...
+    576350|00000000||A nie lepiej zagrać w wojnę? Bo nim tę swoją grę mi wyłożycie, to ćma będzie.
+    578723|00000000||Jakbyś kiedyś był w Oxenfurcie i chciał zagrać z prawdziwym mistrzem, pytaj o Stjepana. Niby prosty karczmarz, a w gwinta ogra każdego.
+    578725|00000000||Zapamiętam. Dzięki.
+    578722|00000000||Proszę, proszę. Masz smykałkę do tej gry.
+    578797|00000000||Ciekawa partyjka... Jak chcesz zagrać rewanż, daj znać.
+    578721|00000000||No, tak... To nie jest gra dla każdego. Wymaga analitycznego umysłu.
+    546640|00000000||Ziemia wciąż wilgotna od krwi. To pewnie tu gryf dopadł Nilfgaardczyków.
+   1057967|00000000||Zrobiłem, co mogłem. Pora wrócić do Vesemira.
+    546172|00000000||Jest tam kto?
+    546173|00000000||Pewnie poszedł polować.
+   1052048|e5cce503||Manekin
+   1009951|00000000||Zostaw mnie!
+   1009949|00000000||O!
+   1009946|00000000||Witaj.
+   1009944|00000000||Ejże!
+   1030336|00000000||Tak, znalazłem twoją cenną skrzyneczkę... A także strzałę. W boku biednego Siwka.
+   1030777|00000000||Na tych bagnach nie ma driad, a utopce i baby wodne z łuku raczej nie strzelają. Innych podejrzanych brak, więc stawiam że...
+   1030779|00000000||Uważaj! Za tobą!
+   1030781|00000000||Nic za mną nie ma. Jestem wiedźminem, usłyszałbym. Tak jak słyszę twoje tętno. Bardzo szybkie zresztą... Jak u kłamcy.
+   1030784|00000000||Zobaczmy, czy lepszy z ciebie jeździec niż oszust.
+   1029999|00000000||Tak, znalazłem twoją cenną skrzyneczkę... A także kogoś, kto wyglądał na woźnicę. Ze strzałą w szyi.
+   1030655|00000000||Przejrzałem cię.
+   1030004|00000000||Mhm. Trochę namokła... Ale jest cała.
+   1030191|00000000||Wreszcie uśmiechnęło się do mnie szczęście! I do ciebie też, wiedźminie... Masz. To obiecane złoto! Szerokiej drogi!
+   1029985|00000000||Znalazłem. Proszę.
+   1030661|00000000||Wiesz co... Wrócę za chwilę.
+   1030656|00000000||Wrócę za chwilę.
+   1029979|00000000||O! I co? Znalazłeś tę skrzyneczkę?
+    170811|72cb8ee5||Utopiec
+    579955|00000000||Szpierdalaj.
+    579961|00000000||Ee, yyk, ee. Ee...
+    595913|6b1268cb||Chłop
+   1076167|be42ad66||Liesje
+   1035147|00000000||Dobrze, że jesteś. Bastien... Jego ciało musi gdzieś tu być.
+   1036426|00000000||Podobnie jak ciała setek innych. Chcesz oglądać każdego trupa po kolei? To trochę zajmie.
+   1036428|00000000||Spokojnie. Wszystkie chłopaki z poboru z Białego Sadu namalowały sobie na tarczy mały kwiatek, żeby w bitwie z dala się widzieć. Było ich tylko paru, więc jak będziemy patrzeć za tym znakiem, zaraz go znajdziemy.
+   1036430|00000000||Nie obraź się... Ale zdarza się, że żołnierze porzucają swoje tarcze. Zwłaszcza kiedy przegrywają.
+   1036432|00000000||Sama tarcza też wystarczy. Wtedy Huzar zwietrzy ślad i nas poprowadzi. No, chodź. Im szybciej to załatwimy, tym lepiej.
+   1017971|0687b403||Kowal
+   1012098|00000000||Ha! Chłop na schwał!
+   1012100|00000000||Co?
+   1012096|00000000||Oj, chyba spadnie deszcz.
+   1012094|00000000||Niech mi ktoś pomoże!
+   1004729|00000000||Jeszcze nie jest za późno na skruchę!
+   1015217|00000000||Jeszcze nie jest za późno na skruchę!
+   1052074|00000000||Ciężko było ubić tę poczwarę?
+    351604|00000000||Idźcie stąd, panie, proszę.
+    571801|00000000||Ekch. Tak?
+    571803|00000000||Brr... ale mam dreszcze.
+    571805|00000000||Chyba mam gorączkę.
+    303055|0037c652||Wilk
+   1022492|00000000||Oto i osławiona studnia.
+   1028029|00000000||Dziwne... Nie atakuje.
+   1022487|00000000||Ciało...? Stąd go na pewno nie dosięgnę.
+   1029359|00000000||Dziwne. Po duchu ani śladu. Może ukazuje się tylko o jakiejś konkretnej porze...
+   1031006|00000000||Dobre miejsce na ognisko... Tylko nie ma czym palić.
+   1031043|00000000||Uciekła... Ale jutro pewnie wróci. Coś ją tu trzyma.
+   1031214|00000000||Oho... Podszedłem za blisko.
+   1028155|00000000||Bransoleta. Potem ją obejrzę.
+   1058220|00000000||Trawa dookoła studni jest wypalona.
+   1057952|00000000||Widać południca nie oddala się od studni...
+   1058190|00000000||Ciało wysuszone na wiór... Ślady poparzeń...
+   1058197|00000000||Pewnie podszedł za blisko studni.
+   1058192|00000000||Robota południcy.
+   1058202|00000000||Dziennik...? Może się okazać pomocny.
+   1058217|00000000||Muszę się dowiedzieć, co tu się stało...
+   1058672|00000000||Ślady po krwi... Ledwie widoczne. Kogoś tędy ciągnięto. Kogoś, kto jeszcze żył.
+   1058656|00000000||Plamy po krwi... Prawie do szczętu wypłowiałe. A lina jest wciąż napięta... Coś na niej wisi.
+   1058305|00000000||Coś musi wiązać południcę z tym miejscem. Jakiś przedmiot... Coś, bez czego nie odejdzie w zaświaty.
+   1058224|00000000||Południca? Ciekawe, skąd się tu wzięła...
+   1058210|00000000||Wszystko wskazuje na to, że to południca.
+   1058324|00000000||Muszę się przygotować do tego starcia. Sporządzić olej na upiory... Wypić jakiś eliksir.
+   1058334|00000000||Odeszła... Na zawsze.
+   1058439|00000000||Ta bransoleta... To może być to, co wiąże duszę dziewczyny z tym miejscem.
+   1058658|00000000||Mężczyzna... Został zakłuty nożem, zginął na miejscu. Potem ciało objadły zwierzęta. Do kości.
+   1058664|00000000||Tam są kolejne plamy krwi... Ale nie jego.
+   1058666|00000000||Ślady dłoni umazanych we krwi... Małe palce... Palce kobiety. Ktoś ciągnął ją na zewnątrz... Była ranna. Walczyła o życie.
+   1058668|00000000||Ciała nie widać... Ale może zostały jakieś ślady. W dobrych warunkach plamy po krwi są widoczne przez dziesięciolecia...
+   1058433|00000000||Ten dziennik, który znalazłem w opuszczonej chacie... To może być klucz do tej historii.
+   1071450|00000000||Hm... Powinienem jeszcze raz spojrzeć do dziennika.
+    571984|00000000||Hm.
+    571986|00000000||Ech, co za czasy.
+    571988|00000000||Zieeeew.
+   1034186|00000000||Coś się ruszyło... Hola! Jest tam kto?!
+   1034185|00000000||Słowo daję! Ostatni raz coś pożyczyłam!
+   1052116|00000000||Czarni nie pomogli, Krwawy Baron nie pomógł. A ty nam pomogłeś.
+   1010700|00000000||A czy dziewczyna może zostać wiedźminem?
+   1010696|00000000||Ja się nie boję...
+   1010694|00000000||Uciekajcie!
+   1090866|00000000||Deszczyk.
+   1090868|00000000||Powitać.
+   1090870|00000000||Skąd to bogi prowadzą?
+   1090872|00000000||Ejże!
+   1090874|00000000||Uciekajta!
+   1090876|00000000||Litości...
+   1052092|00000000||Ty się chyba niczego nie boisz, co? Dziękujemy!
+    571932|00000000||Módlmy się.
+    571934|00000000||Nasz świat spłonie! Spłonie w Wiecznym Ogniu!
+    571936|00000000||Padnijcie na kolana przed Wiecznym Ogniem!
+    472898|00306a9c||Dziewczynka
+    571783|00000000||Aj, aj, aj.
+    571785|00000000||Dzień, jak co dzień.
+    571787|00000000||Znów mnie w łamie kościach.
+    571881|00000000||Nawroć się, bracie.
+    571883|00000000||Wieczny Ogień nas prowadzi...
+    571885|00000000||Wieczny Ogień oświetli wam drogę!
+    346241|fd7deb62||Łowca przygód
+   1036408|00000000||Nie mam ochoty na pogaduchy. Mój brat... Ciągle ani śladu.
+   1035123|00000000||Widziałeś tu gdzieś kobietę o czarnych włosach i fioletowych oczach? Jechała od Wierzbicy.
+   1035124|00000000||Nie. Sam szukam brata. Bił się z Czarnymi w wielkiej bitwie, tu pod wsią zaraz... I słuch o nim zaginął.
+   1033232|00000000||Często rozmawiasz ze swoim psem?
+   1033233|00000000||To nie mój pies, tylko brata. Bastiena. Chociaż... Teraz to już chyba mój.
+   1036370|00000000||Widzisz... Bastien bił się w wielkiej bitwie z Czarnymi, tu pod wsią zaraz. I od tego czasu słuch o nim zaginął.
+   1040536|00000000||Mówiłem mu, zrób jak ja, utnij sobie palec albo dwa, to cię nie wcielą... Ale bał się. Cholera jasna...
+   1033238|00000000||Dobrze. Pomogę ci. Tylko... Od bitwy minęło już ładnych parę dni. Szanse, że znajdziemy twojego brata żywego, są małe. Bardzo małe.
+   1033239|00000000||Co ty nie powiesz. Ale... Chcę chociaż stamtąd zabrać jego ciało. Żeby Bastien nie gnił pod gołym niebem razem z Czarnymi.
+   1036582|00000000||Spotkajmy się na wzgórzu koło pobojowiska. Dalej pójdziemy razem.
+   1017005|00000000||Dobrze, pomogę ci.
+   1017006|00000000||Przykro mi. Nie mogę ci pomóc.
+   1017009|00000000||Przykro mi. Nie mogę ci pomóc.
+   1035130|00000000||Przykro mi. Nie mogę ci pomóc.
+   1035129|00000000||Byłeś na pobojowisku?
+   1036398|00000000||Na twoim miejscu rozejrzałbym się na pobojowisku.
+   1036400|00000000||Byłem tam. Morze trupów... I trupojadów. Słyszałem kiedyś, że boją się ognia, więc próbowałem przegonić je pochodnią... No i gówno prawda, powiem ci. Gdyby nie Huzar, zeżarłyby mnie żywcem.
+   1036402|00000000||Słuchaj no... Zgaduję, że nie nosisz tych mieczy od parady. Obroń mnie przed ghulami i pomóż znaleźć Bastiena, a dobrze zapłacę.
+   1036410|00000000||Oferta wciąż aktualna. Pomóż mi znaleźć Bastiena, to sypnę parę koron.
+    533225|00000000||Czemu nie. Gryf nie ucieknie.
+    562344|00000000||Nie, ale psy mogą... Więc stawiajcie stopy ostrożnie.
+    533223|00000000||Czemu nie.
+    533226|00000000||Miecza mi nie żal – ale czasu już tak. Spieszę się.
+    533227|00000000||Rozumiem. Chodźcie tędy, zaprowadzę was.
+    533224|00000000||Nie mam czasu.
+    562348|00000000||Ja idę do lasu za grubszą zwierzyną. Gdzie znalazłeś Nilfgaardczyków zabitych przez gryfa?
+    562350|00000000||Ach, już rozumiem... Wyście wiedźmin? Ten zabójca potworów, o którym we wsi mówią?
+    562352|00000000||Mhm.
+    562354|00000000||Wskażę wam drogę, a jakże. Ale... Muszę ubić te kundle, nim komu krzywdę zrobią.
+    562356|00000000||Pomożecie? Znaczy, jeśli nie żal wam na nich tępić srebrnych mieczy…
+    562254|00000000||Gdzie znalazłeś ciała Nilfgaardczyków?
+    562255|00000000||Groźniejsze od wilków? Bez przesady.
+    562257|00000000||Psy groźniejsze od wilków? Bez przesady.
+    562259|00000000||A tak, właśnie tak. Wiesz, czemu?
+    562261|00000000||Nie. Ale coś czuję, że zaraz się dowiem.
+    562263|00000000||Bo wilki polują, żeby zaspokoić głód... A dzikie psy zabijają dla zabawy.
+    562265|00000000||Zupełnie jak ludzie.
+    562267|00000000||Tak. Tylu rzeczy się od nas nauczyły... Czemu nie okrucieństwa?
+    533194|00000000||Ty jesteś Mysław?
+    533195|00000000||Tśśś.
+    562249|00000000||Słyszysz?
+    562251|00000000||Wilki? Chociaż nie... Dzikie psy.
+    562253|00000000||Tak. A one od wilków groźniejsze.
+   1052078|00000000||Na problemy – Geralt z Rivii.
+   1073068|00000000||Tato, wstań!
+   1073070|00000000||Tatusiu, musisz się podnieść...
+   1073072|00000000||Tato! obudź się!
+   1073009|00000000||Dałbyś spokój tym dzieciakom, wojna się skończyła. Nie masz co ich tak ćwiczyć.
+   1073011|00000000||Nie ucz ojca dzieci robić. Kto wie co, król postanowi.
+   1073013|00000000||Wypędziliśmy Czarnych za Jarugę, a jutro, może trzeba będzie ich pogonić za Albę.
+   1073015|00000000||Chcę, żeby moi żołnierze byli gotowi.
+   1074775|00000000||Trzeba było ich pochować, przyzwoitość nakazywała... Żałuję tylko, że nie znaliśmy ich imion...
+    571875|00000000||Wiedźmin. Pff.
+    571877|00000000||W Novigradzie żadnych monstrów ni ma!
+    571879|00000000||Z głodu tutaj zdechniesz, zabójco potworów.
+    499090|00000000||Pokaż mi swój towar.
+    499065|00000000||Pokaż mi swoje towary.
+    421033|00000000||Chcę, żebyś coś dla mnie wykonał.
+   1086552|00000000||Chciałbym, żebyś coś dla mnie wykonał.
+    514733|00000000||Dawno nie grałem w karty z poddanym Jego Cesarskiej Wysokości. Zagrajmy w gwinta.
+   1086463|00000000||Zagrajmy w karty.
+    499069|00000000||Bywaj.
+    499067|00000000||Bywaj.
+    499066|00000000||Jak tam nastroje w obozie?
+    499093|00000000||Jak tam nastroje w obozie? Myślicie, że wygracie tę wojnę?
+    499094|00000000||Aha, czyli jednak szpieg albo prowokator.
+    499095|00000000||Pytam z czystej ciekawości.
+    499096|00000000||Aha. No więc możesz powiedzieć tym, których to interesuje, że wojnę wygramy, a to z powodu tego, że Radowid jest pierdolnięty, o czym wszyscy wiedzą, a my mamy doskonale wyszkoloną i zaopatrzoną armię.
+    514760|00000000||A właśnie – chciałeś coś kupić?
+    499082|00000000||Hasło?
+    514466|00000000||Nie znam żadnego hasła.
+    499084|00000000||I tak tu sobie po prostu chodzicie? Ciekawe po co – cesarskie miecze liczyć? W armii takich stawia się na szafocie.
+    499085|00000000||A takich, co handlują wojskowym sprzętem?
+    499086|00000000||He, he... widzę, że umiesz się licytować. A jak ci idzie targowanie się?
+    499089|00000000||Na przeszpiegi czy w interesach?
+    533283|00000000||Rzeczka, złote kłosy... Urocze miejsce. I w sam raz na zasadzkę.
+    533284|00000000||Innego bym nie wybrał.
+    565496|00000000||To jak, gotowy?
+   1046217|00000000||Powiedz... Co zrobisz, jak już znajdziemy Yennefer? Masz na oku jakieś zlecenie?
+   1046219|00000000||Nie. Jadę do Kaer Morhen.
+   1046221|00000000||Trochę wcześnie na zimowanie.
+   1046223|00000000||Tak, do śniegów daleko... I to mnie martwi.
+   1046235|00000000||Podobno na wschodzie Nilfgaard już przekroczył Pontar. Czyli są tydzień marszu od Kaer Morhen. Jeśli tam trafią, zanim zasypie przełęcze... Trzeba zatrzeć ślady. Ukryć nasze ścieżki.
+   1046237|00000000||A przy okazji zimowania... Przyjeżdżasz w tym roku?
+    565621|00000000||Może. Może w towarzystwie.
+    533287|00000000||Zaczynajmy. Dobry wiatr wieje, zapach przynęty szybko się rozniesie.
+    565559|00000000||No, teraz pozostaje tylko zaczekać...
+    572539|00000000||Chodź, przycupniemy tam w cieniu między brzózkami.
+    533285|00000000||Możemy zaczynać.
+    533309|00000000||Daj mi jeszcze chwilę.
+    533310|00000000||Ech, wyciągasz człowieka z karczmy, a potem... No, dobrze. Ale pospiesz się.
+    533286|00000000||Daj mi jeszcze chwilę.
+    565493|00000000||No, jak tam, guzdrało? Gotowy?
+    533298|00000000||Słyszysz? Musi być gdzieś niedaleko.
+    565563|00000000||Chodź. Przywitamy się.
+    576089|00000000||Czekaj... Weź to.
+    576091|00000000||Kusza?
+    576093|00000000||Wygrałem w karty, jak cię nie było. Może się przydać.
+    576101|00000000||Proszę, proszę. Sam grasz, a mi i chłopakom prawiłeś morały.
+    576095|00000000||Hazard? Proszę, proszę.
+    576094|00000000||Miałem cię za tradycjonalistę.
+    576097|00000000||Wiedźmin z kuszą? To nie wbrew tradycji?
+    576105|00000000||Dość gadania. Mamy gryfa do ubicia.
+    451163|cc663b8e||Kupiec
+   1049576|00000000||{N'ees tedd a thu.} [Nie mam dla ciebie czasu.]
+   1049574|00000000||{Hael Her'zaer.} [Niech żyje cesarz.]
+   1049578|00000000||{Bu'rac.} [Prostak.]
+   1049580|00000000||{Gàrdan!} [Straż!]
+   1031738|00000000||No to chodźmy do Chaczy. Mówią, że przy studni już nie straszy.
+   1031740|00000000||To co? Może pójdziesz do studni w Chaczach?
+   1031742|00000000||A gdzie. Już wolę się pochorować, niż mieć z duchem do czynienia!
+   1031431|00000000||Sama już nie wiem... Nabierać czy nie nabierać?
+   1031433|00000000||Na czymś zupę trzeba ugotować.
+   1031435|00000000||Kiedy Tosław mówi, żeby tej wody nawet psu nie dawać. Tyle w niej trupów gnije, że struć się można.
+   1054153|5b5cc0b4||Krowa
+    595828|aa66bb13||Nilfgaardzki posłaniec
+    562914|00000000||Będziemy musieli zarekwirować część waszych zbiorów.
+    562915|00000000||Tak jest, Wasza Ekscelencjo.
+    562971|00000000||Wiem, że wiele wam w spichrzach nie zostało. Ale żołnierz też człowiek i jeść musi, prawda?
+    562981|00000000||Tak jest, Wasza Ekscelencjo.
+    571849|00000000||Pójdź precz!
+    571851|00000000||Że też cie straż do miasta wpuściła...
+    571853|00000000||Degrengolada, upadek obyczajów, zgnilizna moralności.
+   1058339|00000000||I bransoletę.
+   1058342|00000000||Igni.
+   1058326|00000000||Zniszczyłeś! Zniszczyłeś!!!
+   1031845|00000000||Oho... Zadziałało.
+    530680|00000000||Partyjka gwinta?
+    522285|00000000||Nigdy nie odmawiam.
+    522290|00000000||No to gramy.
+    522256|00000000||No to grajmy.
+    522291|00000000||Nie w tej chwili, ale jeszcze tu wrócę.
+    522257|00000000||Jednak innym razem.
+    522288|00000000||Zagramy w gwinta?
+    522289|00000000||Ba!
+    522258|00000000||Zagrajmy w gwinta.
+    522341|00000000||No i wygrałem.
+    522342|00000000||Co jest zadziwiające przy takiej amatorskiej talii. Weź tę kartę, przyda ci się.
+   1076510|00000000||I dobrze by było, jakbyś trochę podreperował tę swoją talię, żebyś wstydu nie robił przed obcymi. Opierdol swojego kumpla Roche'a, bo podobno ma dobre karty.
+    522340|00000000||Ech Geralt, Geralt. Wróć na rewanż – musimy popracować nad twoimi umiejętnościami.
+    522344|00000000||Od razu możesz ją wypróbować na Vimme Vivaldim. Jak dobrze ci pójdzie, pewnie wygrasz od niego jakiś unikat.
+    522346|00000000||Albo spróbuj szczęścia z tym dziadygą z Velen. Mówią, że mieszka przy drodze do nilfgaardzkiego obozu. Ponoć ma dobre karty.
+   1073049|00000000||Radowid był szalony, to fakt, ale żeby novigradzkiego bandytę mieć za króla...
+   1073051|00000000||Dalej nas będzie okradał, tyle, że teraz w majestacie prawa!
+   1073053|00000000||Mylicie się, panowie kupcy. Z Dijkstry straszny skurwysyn, ale porządny i przyzwoity skurwysyn.
+   1073055|00000000||Nigdy w życiu nie zrobił niczego dla prywaty i nie ukradł nawet korony z państwowej kasy.
+   1073057|00000000||Nawet pół korony.
+   1049545|00000000||{Heer?} [Panie?]
+   1049551|00000000||{Squaess, que?} [Wybaczcie, co?]
+   1049547|00000000||Pfff.
+   1049549|00000000||{Ess bloede joc?} [To chyba żart?]
+   1044930|00000000||No tak, gdzie przeszły wojska, tam trupojady... Jedźmy, zanim więcej ich się zleci.
+    576436|00000000||Mówiłem ci, że spotkałem kiedyś czarodzieja, który się rozwodził, jakie to pożyteczne stworzenia?
+    576438|00000000||Bo z ich krwi można warzyć eliksiry?
+    576440|00000000||Nie. Bo zjadając gnijące ciała, zapobiegają wybuchom epidemii.
+    576442|00000000||Mhm. A wiedział, że żywych też jedzą?
+    576444|00000000||Nie. Bardzo się zmartwił... Przeczyło to jego teorii.
+   1048275|00000000||Swoją drogą... Gryf tak blisko wsi? To dziwne.
+   1048277|00000000||Tak samo pomyślałem. W lesie czy w górach, to rozumiem. Ale tu? I jeszcze przy samej drodze?
+   1048279|00000000||Może to przez wojnę. Wszędzie trupy, smród krwi, spalenizny... Potwory czasem od tego wariują.
+   1048281|00000000||Nie mówiąc o ludziach.
+   1048283|00000000||Musimy uważać w tym Białym Sadzie. I wyjechać, jak tylko się czegoś dowiemy.
+    167084|00000000||Źle się wojna dla naszych toczy...
+    167086|00000000||Naszych? Jakich naszych?
+    167088|00000000||Królestw Północy.
+    167090|00000000||Chyba królestw Radowida. Bo Temerii i Kaedwen już nie ma.
+    173631|00000000||Radowid mówi, że jak tylko wygra wojnę, cofnie wojska za stare granice.
+    173633|00000000||Wierzysz mu?
+    331583|00000000||W coś trzeba wierzyć. Bo żyć się odechciewa.
+    594282|00000000||Hihi!
+    594284|00000000||Była sobie żabka mała...[[CSV_EXPORT_NL]]Re re kum kum, re re kum kum,
+    594286|00000000||A psik!
+    580019|05b6c5a4||Pijak
+   1062204|59c422e7||Pijak
+   1039475|00000000||Stwierdziłem, że jednak ci pomogę... Proszę, twoja patelnia.
+   1058263|00000000||Właśnie sadza była temu jegomościowi potrzebna. Zdrapał ją i zrobił z niej tusz.
+   1057779|00000000||Nie żyje. Skrzyknij paru chłopców i zakopcie go pod wsią, głęboko, żeby trupojady go nie wygrzebały. I dobrze radzę... Nie mówcie o tej sprawie Czarnym.
+   1035315|00000000||Czekaj, czekaj! Należy ci się coś w podzięce. Masz, syneczku... Na drogę.
+   1034525|00000000||Uduszony... Fachowo. Skrzyknij paru chłopców i zabierzcie ciało. Zakopcie je gdzieś daleko stąd, w głębokim dole, żeby trupojady go nie wygrzebały. I dobrze radzę... Nie mówcie o tej sprawie Czarnym.
+   1034524|00000000||A... A ten drugi?
+   1034523|00000000||Właśnie sadza była temu jegomościowi potrzebna. Zdrapał ją i zrobił z niej tusz. Widać musiał coś napisać... Pilnie. A inne dokumenty pilnie spalić.
+   1034522|00000000||Moja...? Ale ona była cała czarna od sadzy! A w tej bym się mogła przejrzeć, gdybym chciała. Tylko już nie te lata...
+   1034521|00000000||Proszę. Twoja patelnia.
+   1074113|00000000||...I żeby wojna wreszcie się skończyła... Żeby Tomas i Bert wróci do domu cali i zdrowi...
+    421043|00000000||Bywaj.
+    421039|00000000||Bywaj.
+    421037|00000000||Pokaż mi swoje towary.
+    421041|00000000||Pokaż mi swoje towary.
+    421035|00000000||Czego?
+   1034538|00000000||Znalazłeś patelnię?
+   1034541|00000000||Uważaj na siebie, złociutki!
+   1034542|00000000||Dobrze, babciu.
+   1034535|00000000||A jak ja gadam do siebie, to mówią, że dziwaczeję.
+   1034533|00000000||Co mówiłeś, złociutki?
+   1034534|00000000||Nic, nic.
+   1058581|00000000||Złociutki... Miałeś patelnię znaleźć, a nie głowę mi zawracać.
+   1058583|00000000||Ach, usmażę sobie na kolację sielawę... Albo okonia!
+   1035269|00000000||Ty jesteś Dune? A ten pies wabi się Huzar?
+   1035270|00000000||Tak... O co chodzi?
+   1035259|00000000||Znalazłem twojego brata, Bastiena. Przeżył bitwę i schował się w zrujnowanej chacie w lesie koło pobojowiska.
+   1035261|00000000||Niebywałe! Byłem pewien, że już go nie zobaczę. Bogom niech będą dzięki!
+   1035262|00000000||I Nilfgaardczykom. A przynajmniej jednemu... Bywaj.
+   1040547|00000000||W sumie... Skoro i tak już znalazłem to żelastwo, mógłbym je zwrócić babulince.
+   1039407|00000000||Oto i bezcenna patelnia... Ale wyszorowana do czysta.
+   1039409|00000000||Wygląda na to, że nasz tajemniczy jegomość potrzebował nie samej patelni, a sadzy... Żeby zrobić tusz i napisać listy.
+   1052102|00000000||Ech, wiedźminie, gdyby nie ty...
+   1038985|00000000||Aj... Ajaj... Przestań! Poddaję się! Cholera... Nos mi złamałeś...
+   1038987|00000000||Ale nie nogi – więc pójdziesz ze mną do kowala. I dobrze radzę... Już bez numerów.
+   1031753|00000000||A ten zameczek, gdzie Czarni obóz rozbili, to do jakiej rodziny należy?
+   1031755|00000000||Kiedyś był Lavalów, ale ich ród wygasł. Panicz Florian umarł młodo, bez potomka... Zresztą, i tak nigdy by go nie spłodził.
+   1031757|00000000||O? To jakaś ciekawa historia?
+   1031759|00000000||I owszem, ale ja za skromna jestem, żeby o takich bezeceństwach mówić. Lepiej Mysława spytajcie. On oporów żadnych nie ma.
+   1029528|00000000||Gdyby nie Czarny, Bastien by już nie żył.
+   1029536|00000000||Gdyby nie ten Czarny, Bastien już by nie żył. Więc może mu pokaż, że Nordlingowie nie są dzikusami, za jakich nas mają w Nilfgaardzie.
+   1029538|00000000||No... Da mu się ubrania po ojcu, przyuczy do pracy w polu... Tylko ten akcent... No, ale niech będzie. Zabiorę i jego.
+   1029540|00000000||Dzięki, wiedźminie. Twoja nagroda... I niech bogowie cię mają w opiece.
+   1029530|00000000||Twój brat ma rację, Bastien. Nilfgaardczycy nie mają litości, dla nich liczy się tylko prawo... Które jest bardzo surowe wobec tego, kto ukrywa dezerterów.
+   1029532|00000000||Rhosyn... Będę przynosił ci jedzenie. I sprowadzę zielarkę. Zobaczysz, tydzień dwa i...
+   1029534|00000000||Idźcie już.
+   1029527|00000000||Twój brat ma rację, to za duże ryzyko.
+   1035242|00000000||Bastien! On... On cię pojmał, ten Nilfgaardczyk?
+   1036458|00000000||Nie. Uratował mi życie. Dostałem w bok... Potem w głowę, ale tak, że przestałem widzieć. Rhosyn wpadł na mnie, jak... Jak czołgał się przez pobojowisko. Ma skręconą kostkę... I tak ślepy prowadził kulawego, aż znaleźliśmy tę chatę.
+   1036460|00000000||Zabieram cię do domu. Trzeba zająć się twoimi ranami.
+   1036462|00000000||Nie zostawię tu Rhosyna. Sam tu zginie... A do swoich iść nie może. Zdezerterował. Powieszą go.
+   1036464|00000000||A jak znajdą go u nas? Wtedy powieszą wszystkich, razem z moją Liesje! Nie ma mowy. Czarny zostaje tutaj!
+   1057713|00000000||Wróciłeś! To... Może nam jednak pomożesz?
+   1057711|00000000||Przykro mi. Mam pilniejsze rzeczy na głowie.
+   1057709|00000000||Przykro mi. Nie mam na to czasu.
+   1057708|00000000||Zobaczę, co da się zrobić.
+   1036436|00000000||Zobaczę, co da się zrobić.
+   1035278|00000000||My... Myśmy walczyli w tej wielkiej bitwie, kojarzysz? Ja po stronie Temerii, Rhosyn Nilfgaardu. Kazali nam się nawzajem zabijać... Ale woleliśmy razem uciec.
+   1058184|00000000||Słuchaj... Ja nie mogę chodzić, a Rhosyna Czarni powieszą za dezercję. Odszukałbyś mojego brata i powiedział mu, że żyję? Nazywa się Dune. Może mieć ze sobą psa, Huzara. Proszę... Sami tu sczeźniemy.
+   1028632|00000000||...to jeszcze nic. Mój porucznik kazał nam na komendę chodzić do latryny. Ostrzeliwują nas balisty, a on tylko „żołnierz z pełnym żołądkiem do bitwy iść nie może. Macie siedzieć, aż wysiedzicie”. Wyobrażasz sobie? Bałwan!
+   1029513|00000000||He, he! Khe... Przestań już. Żebra mnie... Bolą, jak się śmieję.
+   1029516|00000000||Trzeba założyć opaskę uciskową. Ale to później... Jak wytłumaczysz, o co tu chodzi.
+    521627|00000000||Powiadają, że grywasz w karty.
+    521628|00000000||Słusznie powiadają. Czasy ciężkie, a rzadka karta to lokata kapitału. Zagramy?
+    521648|00000000||Grajmy.
+    521563|00000000||Zagrajmy.
+    521649|00000000||W tej chwili mam pilne sprawy do załatwienia.
+    521564|00000000||Nie teraz.
+    521637|00000000||I jak, karczmarzu, masz ochotę na karty?
+    521638|00000000||A pewnie, że mam. To co, gramy?
+    521626|00000000||Zagrajmy w gwinta.
+    521650|00000000||No... nie doceniłem cię, przyznaję. Cóż, za głupotę trzeba płacić. Moja karta należy do ciebie.
+   1073379|00000000||Ech... No i przegrałem.
+    521657|00000000||Może z inną talią pójdzie ci lepiej.
+    521651|00000000||Kto jeszcze grywa w gwinta?
+    521652|00000000||Hadko - ten mały łobuz z Podgajów... No i zanim Temeria padła, Vernon Roche słynął z dobrej talii. Czy nadal grywa - tego nie wiem.
+   1033659|00000000||Ale mnie wystraszyłeś, bracik. Już myślałem, że trzeba cię będzie położyć na cmentarzu razem z rodzicami.
+   1033185|00000000||Przestań piszczeć, Huzar. Poszukamy pana później, jak już będzie bezpiecznie.
+    539439|00000000||Znowu się widzimy.
+    539038|00000000||Dziękuję za ratunek.
+    539442|00000000||Ludzie różnie gadają o wiedźminach, ale ja zawsze wiedziałem, że to porządny cech.
+    539444|00000000||Widzę, że udało ci się ocalić towary.
+    539446|00000000||Teraz czekam na naprawę wozu. Czas mija, straty rosną... Potrzebujecie czegoś? Oddam za półdarmo.
+    539041|00000000||Uważaj na siebie.
+    539029|00000000||Bywaj.
+    539028|00000000||Pokaż mi swoje towary.
+    539040|00000000||Rzucę okiem.
+    539039|00000000||Witajcie.
+   1076255|97ef991e||Handlarz
+   1031810|00000000||Cisza na morzu, cisza w komnacie, cysarz Emhyr narobił w gacie!
+   1031812|00000000||Coś... Coś ty powiedział? Kto cię tego nauczył?!
+   1031814|00000000||No... Cieszko.
+   1031816|00000000||Posłuchaj mnie uważnie. Nigdy tej przyśpiewki nie powtórzysz. Nikomu. I z Cieszkiem masz się już więcej nie bawić.
+   1031818|00000000||Ale Cieszko to mój najlepszy kolega!
+   1031820|00000000||Cieszko to głupek, który może nas wszystkich zabić. Zobaczę cię z nim choć raz, to pożałujesz!
+    543349|00000000||Miło było poznać.
+   1049974|00000000||Pokaż mi, co masz na sprzedaż.
+   1049979|00000000||Pokaż swoje towary.
+   1049978|00000000||Chciałbym, żebyś coś dla mnie zrobił.
+   1049980|00000000||Chcę, żebyś coś dla mnie zrobił.
+   1049975|00000000||Bywaj.
+   1049991|00000000||Bywaj.
+   1049981|00000000||Jak nowa kuźnia?
+   1049983|00000000||Jak nowa kuźnia?
+   1050865|00000000||Świetna. Nilfgaardczycy sprowadzili mi z Mahakamu dwukomorowe miechy i ściągnęli fachurę z Wyzimy, który postawił palenisko z cegły i komin.
+   1050867|00000000||Tylko... Miejscowi przestali u mnie kupować. Jeżdżą po narzędzia do Kozielic, pół dnia drogi stąd. Mimo, że tamtejszy kowal nawet porządnej motyki nie potrafi wykuć.
+   1050869|00000000||Ale za to jest człowiekiem, prawda?
+   1050872|00000000||Uważaj na siebie, Willi. A jeśli wojna tak się potoczy, że Nilfgaard będzie musiał się wycofać z Białego Sadu... Odejdź stąd z nimi. Ludzie nie zapomną ci śmierci tamtego chłopaka.
+   1049969|00000000||Witaj. Masz na sprzedaż coś poza podkowami i motykami?
+   1049971|00000000||Mam. Może to nie Wyzima ani Mahakam, ale znam się na swoim fachu.
+   1049972|00000000||Witam stałego klienta. Czego ci potrzeba tym razem?
+    571837|00000000||Czego, łapserdaku?
+    571839|00000000||Do łaźni częsciej zachódź, ba zalatuje od ciebie... łech!
+    571841|00000000||Te siwe strąki na łbie, byś wymył.
+   1031776|00000000||Dobrzaków syn zna handlarza, co raz jeden w Nilfgaardzie był. O, jakie tam dziwy są...
+   1031778|00000000||No? Jakie?
+   1031780|00000000||Oni ponoć nie po chałupach mieszkają, tylko w jednym wielkim domu, niby mrówcy w kopcu.
+   1031782|00000000||I jako mrówcy ślepo posłuszni są i karni. Każden tam jeno pracuje od rana do nocy, śmiechu ni odpoczynku nie zaznaje.
+   1031784|00000000||To i my teraz tak żyć będziemy?
+   1031786|00000000||Musi być. Wpierw karczmę zamkną, obaczysz, i bimbru pędzić zabronią. A potem batem na pola zaganiać będą, skwar czy słota!
+   1086141|105499c3||Kura
+   1052100|00000000||Wiedźminie, może zostaniesz u nas na stałe?
+   1072974|00000000||Błogosławiony niech będzie Król Radowid!
+   1072976|00000000||Niech Wieczny Ogień ma go w opiece!
+   1072978|00000000||Błogosławiony niech będą hufce jego!
+   1072980|00000000||Niech Wieczny ogień ma nas w opiece!
+   1072983|00000000||Święty Ogniu, Święty Nieśmiertelny! Dałeś nam siłę, by wrogów odrzucić od naszych granic!
+   1072985|00000000||Dzięki ci składamy o Wieczny Ogniu!
+   1072987|00000000||Święty Ogniu, Święty Nieśmiertelny! Dałeś nam siłę, by nieprzyjaciół przepędzić za Jarugę!
+   1073061|00000000||Dzięki ci składamy o Wieczny Ogniu!
+   1090912|00000000||Niech ktoś się nade mną zlituje!
+   1090914|00000000||Aaaaa!
+   1090916|00000000||Ale, ale!
+   1090918|00000000||Chmura się oberwała.
+   1090920|00000000||Co u was słychać?
+   1090922|00000000||Nie trza nam tracić nadziei.
+    571831|00000000||Co tam?
+    571833|00000000||Wieczny Ogniu...
+    571835|00000000||A skąd ty masz takie kocie oczyska?
+   1056859|00000000||Mówiłem. Wiedźmini tylko wyglądają na chojraków.
+   1056861|00000000||I on ma niby potwory zabijać?
+   1056857|00000000||Ale z niego pizda!
+   1052098|00000000||Po tym, co dla nas zrobiłeś, zawsze będziesz miał we mnie przyjaciela.
+   1090902|00000000||Nie zabijajcie...
+   1090904|00000000||Poszaleliście?!
+   1090906|00000000||Oj!
+   1090908|00000000||Dobrego dnia życzę.
+   1090910|00000000||A psik! Jakieś choróbsko mnie bierze.
+    172316|3a2616f8||Łowca czarownic
+   1052068|00000000||Wypędziłeś już wszystkie potwory?
+    571813|00000000||Ty!
+    571815|00000000||Dzieciaki mi przestraszysz!
+    571817|00000000||Srała babka srała, trawki się trzymała
+    592086|00000000||{Larwm! Aaaaaaa!} [Ratunku! Aaaaaa!]
+    592088|00000000||Z drogi!
+    592090|00000000||Dużo tu nas pracy czeka. Oj, dużo.
+    592092|00000000||Dyscypliny. Tego wam wszystkim trzeba.
+    592094|00000000||{E'er y glòir.} [Cześć i chwała.]
+    592104|00000000||{Glòir aen Her'zaer!} [Chwała cesarzowi!]
+    592096|00000000||Rzuć miecz! Natychmiast!
+    592100|00000000||Czego chcesz, przybłędo?
+    592098|00000000||Nie dostaniesz nic do jedzenia. Nie ode mnie.
+    592102|00000000||Czy w tym kraju kiedykolwiek świeci słońce?
+   1071821|00000000||{Quess'aen a va?} [Co ty wyprawiasz?!]
+   1071823|00000000||{Veldi math.}[Bardzo dobrze.] Doigrałeś się.
+   1072780|00000000||No.
+    571997|00000000||Odejdź ode mnie, bluźnierco!
+   1031575|00000000||Gdzie są łowcy?! Tego tu, też na stos!
+    571999|00000000||Wiedźmak chędożony, pies posraniec.
+    572001|00000000||Stos. To cię czeka, wybryku natury.
+    546207|00000000||Gniazdo gryfa. Czy raczej to, co z niego zostało.
+    564682|00000000||Ciało sprzed paru tygodni. Jeszcze żył, kiedy gryf go tu przyniósł... I długo umierał.
+    564710|00000000||Kości. Krowie, psie... Ludzkie. Resztki z kilku miesięcy.
+    543909|00000000||Spalone... To mógł zrobić tylko człowiek.
+    571807|00000000||A ty co?
+    571809|00000000||Wziąłbyś się za jakąs robotę.
+    571811|00000000||Straszne japsko...
+   1052110|00000000||Jak mi się syn urodzi, nazwę go Geralt.
+    592059|00000000||{Yeá. Faill vear'thainn.} [No tak. Znowu chlapa.]
+    592066|00000000||{Bloede Nordling.} [Pieprzony Nordling]
+    592076|00000000||Biednie, głucho. I śmierdzi.
+    592070|00000000||He, he, he.
+    592063|00000000||{Hael Her'zaer!} [Niech żyje Cesarz!]
+    592061|00000000||{E'er y glòir.} [Cześć i chwała.]
+    592064|00000000||{Que?} [Czego?]
+    592074|00000000||Odstąp.
+    592068|00000000||{Va vort!} [Precz!]
+   1071819|00000000||Uspokój się, vatt'ghern.
+    592072|00000000||{Aen Ard Feain!} [Na Wielkie Słońce!]
+   1071815|00000000||Schowaj miecz, vatt'ghern.
+   1071817|00000000||Ostrzegałem cię.
+   1072778|00000000||{Math.} [Dobrze.]
+    571991|00000000||Cześć Wiecznemu Ogniowi.
+    571993|00000000||Piwa bym się napił.
+    571995|00000000||Eee, głodny jestem.
+   1073000|00000000||To jak? Decydujesz się? Ponoć kawał ziemi mozna dostać pod Cleves, Mariborem czy Carreras...
+   1073002|00000000||Tam czarne ziemie, urodzajne... Nic tylko miecz nad kominkiem powiesić i za gospodarkę się zabrać.
+   1073004|00000000||A co z Temerczykami co tam mieszkają?
+   1073006|00000000||Jak to co? Przesiedli się ich gdzieś. Lud temerski musi jakoś nam zapłacić za bratnią pomoc.
+   1057706|c876372f||Rhosyn
+    549289|00000000||Będzie pikować!
+    549290|00000000||Cholera... Szybki jest.
+    549292|00000000||Krwawi. Zaraz osłabnie.
+    549291|00000000||Nie daj mu uciec!
+    533311|00000000||Uważaj!
+    565941|00000000||Na przykład?
+    565947|00000000||Na przykład?
+    565949|00000000||Cięcie w ósmą za bardzo markujesz.
+    565951|00000000||No, ale o tym później. Zanieś łeb gryfa Czarnym, a ja przyszykuję konie.
+    565953|00000000||Widzimy się w karczmie.
+    565943|00000000||Człowiek uczy się całe życie.
+    565945|00000000||Ale nie wiedźmin. Bo inaczej żyje bardzo krótko.
+    565940|00000000||Człowiek się uczy całe życie.
+    533312|00000000||Nieźle, nieźle...
+    565935|00000000||Chociaż parę rzeczy mógłbyś poprawić.
+   1012244|00000000||Moja mama cię lubi.
+   1012241|00000000||Idziemy polować na trolle.
+   1012239|00000000||Babciu! Babciu!
+   1075115|00000000||Pokaż, co tam masz za szynkwasem.
+   1075113|00000000||Pokaż, co masz za szynkwasem.
+    167190|00000000||Szukam pewnej kobiety. Ciemne włosy, fiołkowe oczy. Ubiera się tylko w czerń i biel. Jechała od strony Wierzbicy.
+    167226|00000000||I... Wiem, że to zabrzmi głupio, ale... Pachnie bzem i agrestem.
+    167228|00000000||Nie widziałam takiej. Zapamiętałabym, uwierzcie.
+    416891|00000000||Tak. Ją ciężko zapomnieć.
+    167230|00000000||To może kto inny wam pomoże? Dużo tu przejezdnych, ze wszystkich stron. Popytajcie się.
+    167198|00000000||Szukam pewnej kobiety.
+    574969|00000000||Jest zlecenie na tego gryfa?
+    574997|00000000||Póki co, to nie.
+    574999|00000000||Kiedyś, tak jaki potwór gniazdo w okolicy uwił, to sołtys zbiórkę na nagrodę robił albo jechał do seniora o pomoc prosić.
+    575001|00000000||No, ale teraz sołtys nawet do ustępu nie pójdzie bez zgody Czarnych, a seniora zdaje się powiesili... To i kontraktu nie ma.
+    575003|00000000||Szkoda. Moglibyśmy coś poradzić, ale nie za darmo.
+    574966|00000000||Jest zlecenie na tego gryfa?
+    548083|00000000||Mości wiedźmini... A może wy byście gryfa ubili? Skaranie boskie z nim mamy.
+    548422|00000000||Wpierw tylko bydło z pól porywał, ale ostatnio jakoś w ludzkim mięsie posmakował. Strach z chałupy wyjść.
+    548085|00000000||Jak nam kto zapłaci... Nie mówię nie.
+    548087|00000000||Pomóc ci z opatrunkami?
+    548089|00000000||Daj spokój. Jeszcze nie zniedołężniałem.
+    548091|00000000||To popytam o Yennefer.
+    343550|00000000||Mhm. Tylko pamiętaj – lepiej, żebyśmy nie zwracali na siebie uwagi.
+    575009|00000000||Dzięki. To wszystko.
+    416897|00000000||Dzięki. To wszystko.
+    167200|00000000||Spory tu ruch macie.
+    548093|00000000||Niezły ruch tu macie.
+    548095|00000000||Cały naród w drodze. Ten krewnych szuka, inny z dala od frontu bieży... A każden zjeść musi, wypić, noc w cieple spędzić.
+    548097|00000000||Czyli wam wojna jest na rękę?
+    548099|00000000||Póki co, owszem... Ale i tak wolałabym, żeby pokój wrócił. W takie czasy nigdy nie wiadomo, co jutro przyniesie.
+    548584|00000000||Wredna bestia.
+    548586|00000000||Wredna? Mało powiedziane! Biedną Lenę tak poszarpał, że biedaczka nad grobem stoi...
+    548588|00000000||No, ale dość o nieszczęściach. Czym mogę służyć?
+    548590|00000000||Dla mnie wódeczka.
+   1075229|00000000||A wy? Też się czegoś napijecie?
+    548576|00000000||Napadł na twojego krewnego, Brama.
+    548578|00000000||Brama?! Co z nim?
+    548580|00000000||Żyje. I pozdrawia.
+    548582|00000000||Mości wiedźmini... Jadło i napitek na mój rachunek. Co podać?
+    166002|00000000||Przepraszam za tych hultajów.
+    343548|00000000||Nie ma za co. Jesteśmy nawykli.
+    167180|00000000||Ludzie tu nerwowe. Nie dość, że dopiero co wojska przeszły, to jeszcze gryf nam się zalągł...
+    548074|00000000||Mhm. Zdążyliśmy się z nim poznać.
+    351762|00000000||Czego?
+    351764|00000000||Zdejmijcie to, bo będą kłopoty.
+    351766|00000000||Nie żadne to, tylko herb – temerskie lilie! I mają tu wisieć!
+    351768|00000000||To już nie jest Temeria, dziadku. To już Nilfgaard.
+    351770|00000000||Po moim trupie!
+    351774|00000000||Wiedźminy...?
+    351776|00000000||Nie będę pił z parszywymi odmieńcami.
+   1064988|00000000||[Weź pieniądze]
+   1064989|00000000||[Odmów przyjęcia pieniędzy]
+   1044377|00000000||Wywiązałem się z umowy. Teraz twoja kolej. Gdzie pojechała Yennefer?
+    562577|00000000||Do Wyzimy.
+   1044350|00000000||Czyli cały czas była dzień drogi stąd... Pod moim nosem. Mogłeś powiedzieć.
+   1044378|00000000||Mogłem. Ale wtedy nie zabiłbyś gryfa. Coś za coś.
+    562580|00000000||Stój!
+   1044380|00000000||Nie skończyliśmy rozmawiać. Masz... Weź jeszcze to złoto. Żebyś nie czuł, że jesteś stratny.
+    562566|00000000||Zabiłem gryfa.
+    562567|00000000||Przestałeś udawać dobrego wujka?
+    562586|00000000||Widzę, że przestałeś udawać dobrego wujka.
+    562588|00000000||Niczego nie udawałem. Wyciągnąłem do tych ludzi dłoń... A oni ją odepchnęli.
+    562590|00000000||Może dlatego, że ta sama dłoń trzymała miecz, od którego zginęli ich bliscy?
+    562592|00000000||Ha! Moralista się znalazł. A co ty byś zrobił na moim miejscu, co?
+    562594|00000000||Nie byłbym na twoim miejscu.
+    562596|00000000||Mów, po co przyszedłeś.
+    562549|00000000||Co to jest, do cholery?
+    562551|00000000||Ży-żyto.
+    562553|00000000||Masz mnie za ślepca czy głupiego? To ziarno jest spleśniałe.
+    562555|00000000||Nie... Nie wiedziałem.
+    562557|00000000||Czyli za głupiego. Cholera, nigdy się nie nauczycie...
+   1046133|00000000||Kodeks wojskowy, paragraf drugi, ustęp trzeci: „Za dostarczenie wadliwych dóbr – piętnaście razów kańczugiem”. Wykonać!
+    562562|00000000||Nie... Nie, nie! Na bogi, nie!!!
+    562565|00000000||Czego?
+   1005974|00000000||A czemu nazywają cię Białym Wilkiem?
+   1005976|00000000||Łaaa! Patrzcie!
+   1005972|00000000||Nieee!
+   1005951|00000000||Łaaaa!
+   1005949|00000000||Idziemy zabijać potwory!
+   1005946|00000000||Wcale się nie boję się!
+   1062742|00000000||Gorączkuje... Omdlewa... Źle z nią, mistrzu. Bardzo źle.
+   1062744|00000000||Dziękuję. Gdyby nie wy... Już by jej trzeba było trumienkę zbijać.
+   1062766|00000000||Jedno mieliśmy dziecko, naszą Lubę, Lubeczkę... I bogi ją zabrały.
+   1052070|00000000||W końcu ktoś się nad nami zlitował. Dziękujemy.
+   1005933|00000000||Cześć Geralt!
+   1005931|00000000||Jestem wiedźminem! Adzia!
+   1005929|00000000||A co to takiego?
+   1005927|00000000||Mamusiu!
+    491398|00000000||Deszcz zmyje z ulic brud tego miasta.
+    495260|00000000||Ten morderca to demon, nasłany przez mściwych czarowników.
+    495262|00000000||Kto ci takich rzeczy naopowiadał?
+    507327|00000000||Prawda to, że Menge pojamał jakąś wiedźmę?
+    507329|00000000||Na Wieczny Ogień! Chyba już o tym gadaliśmy!
+    491400|00000000||Pochwalony.
+    491402|00000000||Kto z was grzeszy, w Ogniu spłonie!
+    507334|00000000||Tfu!
+    507332|00000000||Myślisz że tobie stos nie grozi?
+   1031556|00000000||Lu-uudzie! Czarowniki spaliły dom łowców! Chcieli całe miasto podpalić!
+    491406|00000000||Twoja obecność tutaj, to obraza Wiecznego Ognia.
+    491404|00000000||Czarowniki, mutanty, bluźniercy, koboldy. Tfu!
+    491408|00000000||Czego!
+    491410|00000000||Mieeeecz!
+    491412|00000000||Ludzieeee, ratujcie!
+    491413|00000000||Daj mi siłę!
+   1018707|00000000||Pomocy! Kradną!
+   1052072|00000000||I nie porwiecie żadnego dzieciaka? W zamian za pomoc?
+   1055571|d519a2f3||Kupiec
+   1062746|00000000||Boli...
+   1062748|00000000||Mamusia mówi, że to ty przegnałeś ducha. I że mam nigdy złego słowa o wiedźminach nie powiedzieć.
+   1030094|00000000||Zabieram cię do Nilfgaardczyków. Jesteś mordercą, nie żołnierzem.
+   1030830|00000000||A ty jesteś zdrajcą. Kiedyś jeszcze zawiśniesz.
+   1030195|00000000||Zabieram cię do Nilfgaardczyków.
+   1030103|00000000||Dobra... Jedź. Życzę tobie i twoim chowającym się po krzakach żołnierzom wiktorii w starciu z Nilfgaardem.
+   1030104|00000000||Poczucie humoru masz podłe... Ale porządny z ciebie chłop. Masz, to złoto, które obiecałem. Wypij za nie za srebrne lilie i pamięć Foltesta.
+   1030196|00000000||Dobra. Jedź.
+   1030100|00000000||Puszczę cię... Ale leki zachowam dla siebie. Nilfgaard i tak was znajdzie i wybije. Po co się mają marnować.
+   1030101|00000000||Weź. I się udław.
+   1030827|00000000||Puszczę cię... Ale leki sobie zachowam.
+   1030089|00000000||Pobudka. Widzisz, kłamstwo ma krótkie nogi... Choćby nawet wlazło na konia. A teraz mów, coś za jeden. I czemu napadłeś na ten wóz.
+   1030824|00000000||Starszy szeregowy Jan Geermer. Temerski szósty pułk, druga kompania. Rozwiązana... Ale wciąż działa. Po cichu. Z lasu.
+   1030826|00000000||To był transport medyczny. Nie chciałem, żeby dotarł do Czarnych. A leki... Przydałyby się naszym chłopcom. Wielu choruje. Puść mnie, to może przeżyją – i jeszcze zawalczą o wolną Północ.
+   1030192|00000000||Trzeba go stąd zabrać...
+    596144|00000000||Nie obraź się, ale... Po co te remonty?
+    596146|00000000||Żeby nam dachówki nie spadały na głowę?
+    596148|00000000||Dachówki mają do to siebie, że spadają z dachu. A ty stawiasz mury. Odbudowujesz twierdzę... Dla trzech osób. Czemu?
+    596154|00000000||Bo pamiętam, jak tu było kiedyś. Przed pogromem. Samych nauczycieli było dwudziestu. A uczniów...
+    596156|00000000||Nie cofnę czasu, wiem. Ale nie mogę po prostu bezczynnie patrzeć na te ruiny.
+    596140|00000000||Po co remontujesz Kaer Morhen?
+    596172|00000000||No, jak się czujesz przed walką?
+    596174|00000000||Staro.
+    596176|00000000||Jeśli bitwa pójdzie nie po naszej myśli... Zabierz Ciri i uciekaj stąd. Jak najdalej.
+    596178|00000000||Nie ma mowy. Nie zostawię was.
+    596180|00000000||To nie była prośba, Geralt.
+    596182|00000000||Wiem. Ale ja nie jestem już twoim uczniem.
+    596184|00000000||A szkoda. Bo jednej rzeczy ci widać nie wpoiłem. Że czasem nie można wygrać bez poświęcenia.
+    596170|00000000||Jak nastroje przed walką?
+    596207|00000000||Widziałem się z Emhyrem.
+    596208|00000000||A są jeszcze jakieś koronowane głowy, których nie widziałeś?
+   1000008|00000000||Kilka. I miejmy nadzieję, że tak już zostanie.
+   1000010|00000000||Pamiętasz pierwszą wojnę z Nilfgaardem? Bitwę pod Sodden? Cała Północ walczyła razem, Temeria, Redania, Kaedwen, Aedirn... A czarodzieje byli bohaterami, o których śpiewało się pieśni.
+   1000012|00000000||Niewiele już zostało z tego świata.
+    596206|00000000||Widziałem się z Emhyrem.
+    170696|00000000||Na razie.
+    170686|00000000||Na razie.
+    170684|00000000||Już pół roku jesteśmy na szlaku.
+    170692|00000000||Wiesz, że minęło już ponad pół roku, odkąd załatwiliśmy biesa z Vorune?
+    170694|00000000||Tak. Biesa... I nie tylko. Jak się nazywał tamten sukinsyn? Drugan? Niech mu ziemia lekką będzie.
+    596142|00000000||Dawniej wszystko wydawało się prostsze. Potwory były złe, ludzie dobrzy. A teraz... Pogmatwane to wszystko.
+   1007652|00000000||Dawniej było dokładnie tak samo. Tylko już zdążyłeś zapomnieć.
+    353292|00000000||Sam masz prawie setkę na karku, więc nie wypominaj mi wieku.
+    170680|00000000||Tak? W czym rzecz?
+   1052122|00000000||Bo gdy przeciw potworom nikt nie uradzi, wiedźmak uradzi!
+   1029932|00000000||Co się stało?
+   1030582|00000000||Potwory! Potwory z bagien! Mówili, że to niebezpieczna droga... Ale nie usłuchałem! No to mam za swoje!
+   1030584|00000000||Mniej samokrytyki, więcej konkretów.  Powiedz co się stało i jak ci pomóc. I pamiętaj, że wiedźmini nie pracują za darmo - Kodeks zabrania.
+   1030585|00000000||No... Wybierałem się do Czarnych na handel. Nagle koń się spłoszył i zjechał z drogi. Na wyboju zleciałem z kozła, a wóz poturlał się dalej. Zaraz usłyszałem jakieś bulgotanie, rżenie... I mlaskanie. Coś tam było. Chyba zżarło Siwka z kopytami!
+   1030586|00000000||Towar został pewnie na wozie... Ale samemu strach sprawdzić. Myślałem, że może wy...? Najbardziej mi na takiej skrzyneczce zależy. Przynieście ją, błagam!
+   1029925|00000000||Niech będzie. Idę... Jeśli znajdę tę skrzynkę, dam znać.
+   1029923|00000000||Poszukam tej skrzynki.
+   1029930|00000000||Przykro mi, nie mam teraz czasu... Może później.
+   1029924|00000000||Nie mam teraz czasu.
+   1030599|00000000||To jak w końcu? Pomożecie podróżnemu w potrzebie?
+    491375|00000000||Ocho.
+    495234|00000000||Przylazła taka jedna, zielarka, schronienia szukała.
+    576258|00000000||A furtian - co? Oszalał! Straży jej nie wydał tylko kijem pogonił!
+    507310|00000000||Wdowa po jubilerze podobno taki datek złożyła, że możnaby całą kaplicę za to postawić!
+    495236|00000000||Jak opowiem braciom, nie zechcą uwierzyć...
+    507312|00000000||Wieczny Ogniu!
+    507294|00000000||Powinienem poprawadzić wieczorne nabożeństwo? Ten morderca co po ulicach grasuje...
+    507296|00000000||Po trzykroć nie wiem.
+    491377|00000000||Niech Wieczny Ogień oświetli ci drogę
+    491379|00000000||Niech prowadzi cię Wieczny Blask.
+    491381|00000000||Tyś gwałtownik, ale serce twe nie zna prawdziwego Ognia.
+    507303|00000000||Módl się.
+   1031525|00000000||Jak jesteś nieludź, to lepiej uciekaj z tego miasta.
+    491383|00000000||Nie jest jeszcze za późno na nawrócenie.
+    507305|00000000||Wiesz co to Chrzest Ognia, białowłosy?
+    507306|00000000||W twoich oczach widać, że masz na sumieniu krew wielu istot.
+    491389|00000000||Wieczny Ogień wskaże ci drogę
+    491385|00000000||Ty!
+    491387|00000000||Hmmm?
+    491391|00000000||Nie ośmielisz się chyba...
+    491393|00000000||Mordująąąą!
+    491395|00000000||...bo w tobie jest życie nasze, i potęga, i moc.
+   1018705|00000000||A ty złodziejaszku! Pomocy!
+   1052096|00000000||Słyszałem, żeś jakąś wioskę z kłopotów wyratował...
+    167311|00000000||Lepiej wezwijcie jeszcze kogoś na pomoc. We trzech możecie nie dać rady.
+    351919|00000000||Sam bym ci naklepał.
+    575500|00000000||Gdybym miał worek na głowie i związane ręce... Chociaż nie, wtedy też nie.
+    351921|00000000||Ciesław, Leszko, odstąpcie. Dam przybłędzie nauczkę w pojedynkę.
+    167317|00000000||Trzech na jednego? Tacy jesteście odważni?
+    167309|00000000||Nie zostanę tu na długo.
+    167322|00000000||Może i nie. A może zostaniesz tu na zawsze.
+    167324|00000000||Dwie piędzie pod ziemią.
+    167315|00000000||Nie zostanę na długo.
+    351925|00000000||Nic wam nie zrobiłem. Uspokój się.
+    351927|00000000||Racja... Nic... Nie zrobiłeś...
+    351929|00000000||Już z gusłami zaczyna, skurwysyn! Na niego!
+    351923|00000000||Uspokój się.
+    166269|00000000||Już sobie wypiłeś?
+    166271|00000000||Mhm.
+    167307|00000000||To wypierdalaj.
+    351917|00000000||Nie chcemy tu takich jak ty.
+   1061961|05edbbdd||Koń
+   1015004|00000000||Ceadmil.
+   1015002|00000000||Barbarzyńcy!
+   1014994|00000000||Nordlingowie.
+   1015000|00000000||Ceadmil.
+   1014992|00000000||Barbarzyństwo.
+    558366|00000000||Nie chce mi się gadać.
+    558368|00000000||Nie chce mi się gadać.
+    558370|00000000||Rozumiem.
+   1046363|00000000||To co? Jedziemy?
+   1046411|00000000||Chodzi o wypchanego jednorożca. Służył nam za łóżko.
+   1046417|00000000||Chodzi o wypchanego jednorożca... Który służył nam czasem za łóżko. W określonych sytuacjach.
+   1046419|00000000||Hm, hm. Czego ta młodzież nie wymyśli.
+   1046409|00000000||Wracając do tematu... Jak myślisz, ile mamy straty do Yennefer?
+    173406|00000000||Dwa, trzy dni. Trop jest świeży. Gorzej, że prowadzi do gościńca, a tam pewnie podróżni już go zatarli.
+   1028605|00000000||Czekaj... Słyszysz?
+   1028606|00000000||Słyszę i czuję. Ghule.
+   1046413|00000000||To prywatna sprawa. Bardzo prywatna.
+   1046415|00000000||Aha... Rozumiem. Znaczy, nie do końca... Ale może to i lepiej.
+   1046410|00000000||To prywatna sprawa.
+   1046365|00000000||Chwila... Pokaż mi wreszcie ten list od Yennefer. Może przeoczyłeś jakąś wskazówkę.
+   1046367|00000000||Nic nie przeoczyłem. Mieliśmy się spotkać w Wierzbicy, ale w międzyczasie wojsko puściło wieś z dymem. Jedyne, co możemy zrobić, to jechać jej tropem, więc...
+   1046369|00000000||Nie gadaj tyle, tylko dawaj list... A niech mnie! Rzeczywiście pachnie bzem i agrestem.
+   1046371|00000000||Miałeś czytać. Nie wąchać.
+   1046373|00000000||„Musimy się spotkać. Szybko”... „Wierzbica, pod Wyzimą”... Faktycznie, nic, co by nas mogło nakierować.
+   1046375|00000000||A o co chodzi z postscriptum? „Wciąż mam jednorożca. Wiesz, którego”.
+    568314|00000000||Zaraz będzie jasno. Pora jechać.
+    568350|00000000||Pora jechać.
+    568351|00000000||Ciri śniła mi się, kiedy coś jej groziło.
+    568657|00000000||Właśnie, że nie tylko.
+    568660|00000000||Zawsze, kiedy Ciri mi się śniła, coś było nie tak. Coś jej groziło.
+    568662|00000000||Nauczyliśmy ją, jak się bronić. Przed upiorami też.
+    568643|00000000||Potem poszedłem po Ciri. Razem ćwiczyliśmy.
+    568655|00000000||To były czasy... Mała diablica.
+    572997|00000000||Trenowałem dzieciaki, które były szybsze, silniejsze. Ale żaden nie miał jej charakteru.
+    572999|00000000||Nie było szczęśliwego zakończenia, prawda?
+    573001|00000000||Nie. Pojawił się Dziki Gon. Rzucili się na Ciri... A ja nie mogłem się ruszyć. Stałem jak słup.
+    573003|00000000||To tylko sen.
+    568321|00000000||Potem trenowaliśmy Ciri...
+    568322|00000000||Znajdziemy. Nie o to się martwię.
+    568353|00000000||Znajdziemy. Nie o to się martwię.
+   1046288|00000000||Widziałeś jej ślady. Coś jej zagraża, a ja nie wiem co. Pędzi na złamanie karku, przez bezdroża, pola bitew. Albo gdzieś jej się strasznie śpieszy... Albo przed czymś ucieka. W każdym razie w coś się wpakowała.
+   1046290|00000000||Zdziwiłbym się, gdyby było inaczej.
+   1046292|00000000||Ona przecież zawsze pchała palce między drzwi. Tu dworskie intrygi, tam czarodziejskie spiski... Czego się spodziewałeś?
+   1046294|00000000||Sam nie wiem... Że jak już się spotkamy, będzie spokój. Chociaż przez chwilę.
+   1046355|00000000||Spokój? Z Yennefer? Powodzenia.
+    173254|00000000||Zaczęło się w komnacie gościnnej Kaer Morhen. Grzałem się w balii, a obok...
+    568308|00000000||Triss?
+    568318|00000000||Yennefer. Zabawne, co? Nigdy jej tam przecież nie było. Ale we śnie wszystko wydawało się prawdziwe.
+    416903|00000000||A suszyła ci o coś głowę?
+    416905|00000000||Mhm.
+    343534|00000000||To rzeczywiście całkiem jak na jawie.
+    572995|00000000||Znajdziemy ją.
+    558365|00000000||Śniło mi się Kaer Morhen...
+    163738|00000000||W porządku?
+    166937|00000000||Miałem koszmar.
+    166939|00000000||O czym?
+    166941|00000000||Długo by mówić.
+    184882|00000000||Do świtu jeszcze chwila. Mamy czas.
+   1058641|00000000||Oj, weź już się odpierdol...
+   1058639|00000000||Muszę iść do kowala... Muszę błagać o wybaczenie...
+    421121|00000000||Bywaj.
+    421115|00000000||Bywaj.
+    421113|00000000||Pokaż mi swoje towary.
+    421119|00000000||Pokaż mi swoje towary.
+    497853|00000000||Witajcie.
+   1014876|00000000||Zachować zimną krew!
+   1014878|00000000||Czy tutaj bez przerwy pada?
+   1014930|00000000||Wiedźmin?
+   1014926|00000000||Hm.
+   1014921|00000000||Cholerni barbarzyńcy.
+    594492|00000000||Mój tata też ma siwe włosy.
+    594494|00000000||To prawda, że elfy robią z dzieci zupę?
+    594496|00000000||Mój dziadek jest chory.
+    580076|00000000||No co, no co?!
+    580078|00000000||Chyba sie zeszczałem w gacie...
+   1029185|00000000||Sprawa załatwiona. Studnię nawiedzał duch kobiety, którą tam zabito. Przegnałem go.
+   1036780|00000000||Tylko żeby tak każdy niepogrzebany nieszczęśnik nie zaczynał straszyć, bo przez to pobojowisko kłopoty będą.
+   1036782|00000000||Jakby co, polecam się na przyszłość. A póki co... Klara, Volker. Mówią ci coś te imiona?
+   1029186|00000000||Nie znam takich... Ale słyszałem, jak nasza zielarka, Tomira, rozprawiała raz o jakiejś Klarze. Może o tę samą się rozchodzi?
+   1029189|00000000||No, proszę. Nie myślałem, że ktoś mi kiedyś da posag.
+   1029190|00000000||Ani ja żem nie przypuszczał, że on wiedźminowi przypadnie... Ciekawe czasy nastały, prawda? Ciekawe i smutne.
+   1029187|00000000||Dziękuję.
+   1029191|00000000||Ja się żenić już raczej nie będę... Zachowaj te pieniądze na ślub Luby. Wypijecie wtedy moje zdrowie.
+   1029192|00000000||Dziękuję, mości wiedźminie. Za dobre serce i ciepłe słowo. Ale z pustymi rękoma was nie puszczę... Weźcie chociaż to. Na szczęście.
+   1029188|00000000||Zachowaj te pieniądze. Dla córki.
+   1029749|00000000||Wasza nagroda, mistrzu. Złoto, co dla Luby na posag zebrałem. Bez was ślubu i tak by nie dożyła... A teraz jest chociaż nadzieja.
+   1058320|00000000||Wyście Odolan? Ten od zlecenia na licho, które straszy koło studni?
+   1058366|00000000||Wasza nagroda, mistrzu. Dziękuję... Pięknie dziękuję.
+   1011996|00000000||Brrr.
+   1011994|00000000||Pozdrawiam.
+   1011992|00000000||Zimno jakoś się zrobiło.
+   1011990|00000000||Dziadostwo!
+    580012|00000000||Na rany Lebiody...
+    580014|00000000||Jednego wypiłem!
+   1029861|00000000||Jest i wóz...
+   1029860|00000000||To musi być ta skrzyneczka, o której mówił. Zachlapana krwią... Ludzką.
+   1029863|00000000||Albo ten mój kupiec ma poważne problemy z pamięcią... Albo kłamie.
+   1030027|00000000||Ślady wozu. Zjechał w bagna...
+   1030190|00000000||Ciekawe... Warto się tu dokładniej rozejrzeć.
+   1029847|00000000||Strzała... O tym nie było mowy.
+   1029851|00000000||Prosto w szyję. Dobry strzał.
+   1071461|00000000||Wóz jest naszpikowany strzałami.
+    565863|00000000||Co to za jedni?
+    565869|00000000||Co to za jedni?
+    565871|00000000||Patrioci. Piją siódmą kolejkę za Temerię i już ich pięści świerzbią.
+    565873|00000000||Nie widzę tu Nilfgaardczyków.
+    565875|00000000||Kogoś sobie znajdą.
+    582157|00000000||Co się stało z tarczą?
+    582159|00000000||Zdjęłam.
+    582161|00000000||Zdjęłaś? Może złote słońce zawiesisz?
+    582163|00000000||Nie mogę tu mieć temerskich barw. Jeszcze przyjdą i karczmę spalą.
+    582165|00000000||Może to prawda, co gadają? Że cesarscy ci mili? Żeś nilfgaardzka kurwa?
+    582167|00000000||Puszczę to w niepamięć, Litka. Bo wiem, że ci żal serce toczy.
+    582169|00000000||Gówno wiesz. Powiesili mi siostrę. Wywlekli ją przed klasztor jak psa. Powiedzieli, że w Nilfgaardzie nie ma miejsca na zabobony. Że gniewu boskiego się nie boją. A ty, nie boisz się?
+    582174|00000000||Gdyby nie Anulka, dzieciak by ci się pępowiną zadusił. Masz syna, bo cię siostra w połogu pilnowała. Nie boisz się gniewu boskiego?!
+    582172|00000000||Puszczaj!
+    582178|00000000||Nie boisz się, ty suko?!!
+    582183|00000000||Zostaw mnie!
+    582189|00000000||Znacie ten medalion, ludzie. Wiecie, co oznacza. Odstąpcie.
+    582197|00000000||Cała jesteś?
+    582193|00000000||Ludzie! Mówią, że wiedźmini dzieci porywają.
+    582195|00000000||Prawda to?
+    582199|00000000||Co wam cesarz obiecał, odmieńcy, co? Może państwo własne? Jak drzewiej elfom?
+    582201|00000000||Precz stąd. Wszyscy.
+    582203|00000000||My nigdzie nie idziemy.
+    582205|00000000||Wy też zostajecie.
+    582207|00000000||Oni już się nie cofną.
+    582209|00000000||Widzę.
+   1046738|00000000||Kupię prowiant na drogę i jedziemy.
+    565880|00000000||Geralt... Nie mieszajmy się. Ten jeden raz.
+    565865|00000000||To pora się zbierać.
+    565867|00000000||Mhm.
+    565862|00000000||W takim razie pora się zbierać.
+    543558|00000000||Yennefer jest w Wyzimie. Mam tam paru znajomych, więc...
+    565818|00000000||Coś nie tak?
+    543559|00000000||Rozejrzyj się. Będzie awantura.
+   1055654|070e22a1||Koń Dzikiego Gonu
+   1034499|00000000||Pęknięty monokl. Ciekawe.
+   1034500|00000000||Jakieś dokumenty. Spalone prawie do szczętu... Ale niektóre fragmenty dałoby się odczytać.
+   1038614|00000000||Uduszony. Garotą... I do tego stare blizny. Jak u żołnierza.
+   1058274|00000000||Ciało... To tłumaczy smród.
+   1072990|00000000||Zdrowie króla!
+   1072992|00000000||Zdrowie króla Radowida Tańczącego na Kurhanach Nilfgaardczyków!
+   1072994|00000000||I na stosach czarownic!
+   1072996|00000000||Głupi jesteś, jakby tańczył na stosach, to by se stopy poparzył.
+   1072998|00000000||Naszemu królowi umiłowanemu żadne poparzenia nie straszne, on w Wiecznym Ogniu hartowany!
+   1032031|00000000||Śpij, dziecko, śpij. Sen cię wzmocni.
+   1009868|00000000||Pożałujesz!
+   1009866|00000000||Ach!
+   1009864|00000000||Hi, hi.
+   1009862|00000000||No co ty?
+   1012165|00000000||Ładny dzień.
+   1012163|00000000||Ha, byle sił na robotę starczyło.
+   1012161|00000000||Witaj.
+   1012159|00000000||No, no!
+   1012157|00000000||Dzieci, uciekajcie!
+    166036|00000000||Szukam kogoś.
+    166038|00000000||A my szukamy spokoju.
+    166040|00000000||Odejdź, przybłędo, bo nam piwo w kuflach skwasisz.
+    351879|00000000||Tracę cierpliwość. A jak ją stracę do reszty, wasze głowy potoczą się po ziemi.
+    351881|00000000||Myśmy tylko sobie dworowali, nie nerwujcie...
+    351883|00000000||Była tu kobieta o kruczoczarnych włosach? Ubrana w czerń i biel?
+    548756|00000000||Panie, my nic nie wiemy. Ostawcie.
+    351875|00000000||Moja cierpliwość się kończy.
+    166042|00000000||Gadaj, ale już.
+    572901|00000000||Gadaj, ale już. Była tu kobieta ubrana w czerń i biel?
+    166054|00000000||Mówią, że gnała taka nocą przez wieś... Tak pędziła, że Radobora do rowu zepchnęła.
+    331613|00000000||Gdzie pojechała?
+    331615|00000000||Nie wiem... Z gościńca drogi na wszystkie strony idą...
+    166056|00000000||Ludzie! Wiedźmak rozum Dromiłowi odjął!
+    167525|00000000||Tak. A tobie odejmę język, jak się nie zamkniesz.
+    351877|00000000||Odpowiadaj na moje pytanie. Już.
+    166046|00000000||Chcę tylko chwilę porozmawiać.
+    166048|00000000||Głuchyś, czy jak? Nikt tu z tobą gadać nie będzie.
+    572903|00000000||Jak ci kompanii trza, to do obory idź z bydłem się przy żłobach obracać.
+    167513|00000000||He, he! Toś mu dosrał, Dromił!
+    166044|00000000||Chcę tylko porozmawiać.
+    351608|00000000||Nieważne. Nie będę tracić na was czasu.
+    351784|00000000||Dobrze kombinujesz. Swego czasu nie trać, a i naszego nie marnuj.
+    351606|00000000||Nieważne. Nie będę na was tracił czasu.
+    351786|00000000||Patrzaj. Znowu przylazł.
+    351788|00000000||No? Czego nas nachodzisz? Gryfa byś lepiej ubił!
+    576402|00000000||Słyszałeś, że Czarne już się po polach rozlazły i mierzą?
+    576404|00000000||Lepiej, żeby mierzyli, niż żeby plony mieli palić.
+    576406|00000000||Oj, Mieszko, Mieszko, głupi jesteś jak kogut bez głowy.
+    576408|00000000||Po co oni te linie tyczą, hę? Żeby naszą ojcowiznę na działki podzielić i swoim rozdać!
+   1005163|00000000||Módlmy się!
+   1005161|00000000||Módl się za siebie, za nas...
+   1055657|22a35b2c||Baran
+    170812|f3248005||Baba wodna
+   1085583|22a322e4||Kot
+   1014034|00000000||Straszny jest.
+   1014046|00000000||Trochę się go boję.
+   1014048|00000000||Nieeee!
+   1052076|00000000||Dziwne są wyroki boskie. Wiedźmaka nam na pomoc zesłali.
+   1090890|00000000||Bogowie...
+   1090892|00000000||Kurza stopa!
+   1090894|00000000||Boćkać mnie chcecie?
+   1090896|00000000||Cholibcia! A dziadka żem do lasu po suchy chrust wysłał.
+   1090898|00000000||Witajcie, hej!
+   1090900|00000000||Szczęść bogowie na robotę!
+    571795|00000000||Co?
+    571797|00000000||Jakoś zmęczona jestem...
+    571799|00000000||Zieeew.
+    561899|00000000||To ile wieś da żyta?
+    561901|00000000||I... Ile powiecie, Wasza Ekscelencjo.
+    561904|00000000||Spójrz mi na ręce. No, spójrz! Widzisz te odciski?
+    561906|00000000||To nie są ręce żadnej ekscelencji, tylko rolnika. Więc rozmawiajmy jak chłop z chłopem. Ile możecie dać?
+    561908|00000000||Czterdzieści korców. Byłoby więcej, ale nasi, to jest Temerczycy, wcześniej już zabrali i...
+    561911|00000000||Dacie trzydzieści i też będzie dobrze. No, przybijmy targu... Spodziewam się transportu niedługo!
+    561913|00000000||Dziękuję! Pięknie dziękuję!
+   1044734|00000000||Poza sołtysem wzywałem tu tylko kowala Williego... Krasnoluda. Trochę jesteś na niego za wysoki.
+   1044742|00000000||Jemu też coś skonfiskujesz?
+   1044744|00000000||Jeśli to będzie konieczne, oczywiście. Jest wojna, jeśli nie zauważyłeś.
+   1044746|00000000||Coś ty za jeden? Mów.
+   1044738|00000000||Jemu też coś skonfiskujesz?
+   1044737|00000000||Ciężko odmówić ci racji.
+   1044740|00000000||Ciężko odmówić ci racji.
+   1044736|00000000||Geralt z Rivii. Wiedźmin.
+    562021|00000000||Vatt'ghern... To tłumaczy, czemu nie słyszałem kroków. Czego tu szukasz?
+    562023|00000000||Yennefer z Vengerbergu. Gdzie pojechała?
+    562025|00000000||To tajemnica wojskowa.
+    562028|00000000||Nie wywaliłeś mnie jeszcze za drzwi. Nie wezwałeś straży. Czyli złożysz ofertę.
+    562030|00000000||Gdzieś w okolicy zalągł się gryf. Zabij go... A wtedy zobaczę, co da się zrobić.
+    562032|00000000||Czemu tak ci zależy na tym gryfie?
+    562053|00000000||Czemu tak ci zależy na tym gryfie?
+    562055|00000000||Bo zależy mi na ludziach.
+   1044748|00000000||Ta bestia zabiła już dziewięć osób. W tym kilku moich żołnierzy.
+   1044750|00000000||Żeby ją utłuc, musiałbym wyprowadzić cały garnizon, przeczesać las, puścić nagonkę. A to niemożliwe.
+   1044752|00000000||A co, za duża fatyga?
+   1044754|00000000||Nie. Za duże ryzyko.
+   1044756|00000000||Nie mogę rozpraszać sił. Wojska temerskie zostały rozbite, ale ludzie tylko czekają, żeby chwycić za broń. W sprawie gryfa mogę więc albo siedzieć z założonymi rękoma... Albo nająć profesjonalistę.
+    562031|00000000||Umowa stoi.
+    562062|00000000||Umowa stoi – ale nim zacznę, parę pytań. Wiesz, gdzie gryf może mieć leże?
+    563027|00000000||Z początku trzymał się Lisiego Boru. Wysłałem tam patrol, pięciu młodych chłopaków. Dwa dni później znalazł ich myśliwy. Gdyby nie nasze blachy, nie poznałbym ich.
+    563031|00000000||Od tego czasu gryf atakuje, gdzie popadnie. Na wsi, na polach, na trakcie.
+    563033|00000000||Czyli porzucił legowisko. Trzeba zastawić pułapkę.
+    563035|00000000||Po tonie wnoszę, że to nie będzie proste. Czego ci trzeba?
+    547916|00000000||Potrzebuję więcej informacji o tym osobniku. Jakiej jest płci, czemu porzucił leże.
+    547917|00000000||Przyprowadzić świadków?
+    563119|00000000||Nie powiedzą nic ponad to, co już wiem. Muszę obejrzeć miejsce, gdzie zginęli twoi ludzie. Jak nazywa się myśliwy, który ich znalazł?
+    563125|00000000||Mysław. Ma chatę na południe od wsi, pod samym lasem. Pomocny człowiek... Chociaż nieco dziwny.
+    547872|00000000||Przydałoby się więcej informacji o gryfie.
+    563127|00000000||Bywaj.
+    525746|00000000||Tomira i Mysław... Dzięki.
+    563115|00000000||{Ess soond jakkten} [Udanego polowania].
+    563022|00000000||Bywaj.
+    547867|00000000||Muszę zebrać pewne zioło.
+    547896|00000000||Muszę zdobyć pewne zioło na przynętę. Szakłak. Gryf wyczuje jego zapach z dziesięciu mil.
+    547897|00000000||Sza... Szakłak? Pierwsze słyszę. Ale nie jestem jeszcze zbyt biegły we wspólnym.
+    547915|00000000||Mhm. Najpierw pewnie opanowałeś podstawowe zwroty. „Ręce do góry”, „egzekucja”.
+    563056|00000000||Nie. Najpierw były powiedzenia. Na przykład „Nie igraj z ogniem”.
+    563058|00000000||Idź do Tomiry. To zielarka, mieszka przy rozstajach. Pokieruje cię.
+    525749|00000000||Chcę cię o coś dopytać...
+    563117|00000000||Tak? O co?
+   1010723|00000000||Jak dorosnę, to też zostanę mutatnką!
+   1010721|00000000||Po co mu dwa miecze? Gubi je, czy co?
+   1010717|00000000||Tere-fere.
+   1010719|00000000||Bueee! Łeeee!
+   1032089|00000000||Połów udany. Bransoleta... Z wygrawerowanym napisem. „Dla mojej ukochanej Klary - Volker".
+   1057989|00000000||Ta bransoleta musiała należeć do kobiety, którą znalazłem w studni...
+   1057987|00000000||Bransoleta była na kości łokciowej. Ciekawe, gdzie reszta ciała...
+   1058228|00000000||Ładna robota. Ale trzeba będzie ją spalić razem z ciałem gdzieś blisko studni, żeby na dobre przegnać tę południcę.
+   1057984|00000000||Rzućmy jeszcze okiem...
+   1036422|00000000||Trup jak trup. Sam nie poznam, czy to Bastien.
+   1084298|4a51c663||Warg
+   1090878|00000000||Mordują!
+   1090880|00000000||O Matuś.
+   1090882|00000000||Zara!
+   1090884|00000000||Miecze ci w deszczu nie rdzewieją?
+   1090886|00000000||Kłaniam się.
+   1090888|00000000||Nic, tylko modlic się i błagać, by choć nas zło ominęło.
+   1052114|00000000||Wiesz, wiedźminie, źle o tobie gadają. Ale ja nie zapomnę, co dla nas zrobiłeś!
+    335378|05e21ea5||Strażnik
+   1058087|00000000||Muszę... Przeprosić. Iść... Przeprosić...
+    571789|00000000||Gdzie z tymi łapskami?
+    571791|00000000||Chamy buraczane.
+    571793|00000000||Każdy facet to wieprz. Tyle powim.
+    546191|00000000||Chodźcie. To niedaleko... I ciężko nie trafić. Jeszcze krew stamtąd czuć.
+    533211|00000000||Wiesz coś o tym gryfie?
+    546209|00000000||O, niewiele. To nie zwierzyna dla mnie.
+    564182|00000000||Za to ty dla gryfa jesteś w sam raz... Choćby dlatego powinieneś się nim interesować.
+    546210|00000000||Ja wiem, jak cicho po lesie chodzić. Tak, że nawet gryf nie zoczy.
+    562834|00000000||Za późno. Znów kogoś dopadły.
+    533205|00000000||Od dawna macie problem z tymi psami?
+    533206|00000000||Odkąd zaczęła się wojna.
+    533207|00000000||Jak żołnierz przez wieś idzie, babę zgwałci i zadusi, chłopa zabije dla zabawy, a krowę na mięso. Ale kundla? Najwyżej kopnie.
+    564117|00000000||No to łączą się te bezdomne burki w stada. Głodne, wychudzone, całe w strupach... Ale zdechnąć nie chcą.
+    564119|00000000||Bo te psy są cwane. Cwańsze nawet niż lisy. I strasznie cięte na ludzi.
+    570554|00000000||Nie ma co płakać. To byli Nilfgaardczycy.
+    570560|00000000||Nie ma co płakać. To byli Nilfgaardczycy.
+    570562|00000000||To byli chłopcy. Tylko zakuci w czarne blachy.
+    570564|00000000||Bywajcie.
+    570556|00000000||Poradzę sobie. To nie pierwszy gryf, z którym mam do czynienia. I nie ostatni.
+    570558|00000000||Oby tak było.
+    570553|00000000||Poradzę sobie.
+    533219|00000000||To tu.
+    570551|00000000||Jeden leżał tam, pod pieńkiem. Bez głowy. Drugi wisiał na gałęzi, a flaki mu zwisały aż do...
+    533220|00000000||Uważajcie na siebie.
+    571893|00000000||Grzeszniku!
+    571895|00000000||Bo czarownica to siedlisko zła!
+    596234|00000000||Z kobodlami spółkuje, z dzieciątek krew spija!
+    571897|00000000||Odmieńcze! Twoje miejsce jest w lochu!
+   1046160|00000000||Co?
+   1046158|00000000||Wrrrr.
+   1046162|00000000||Ajć!
+   1046164|00000000||Ja... przecież... nie rób mi... krzywdy...
+   1046166|00000000||Uciekamy!
+    571777|00000000||Piękny kawalerze?
+    571779|00000000||Kobity ci nie brakuje? Hihihihi.
+    571781|00000000||Chcesz się poprzytulać, brzydalu?
+    578228|00000000||Grywasz czasami w gwinta?
+    578229|00000000||Pewnie. Próbowałem nawet nauczyć Vesemira, ale okazał się zbyt oporny. A co, masz ochotę na małą partyjkę?
+    578240|00000000||Zagramy kiedy indziej.
+    578225|00000000||Nie teraz.
+    578232|00000000||Zagrajmy.
+    578241|00000000||A żebyś wiedział. Po wszystkim będziesz płakał jak dziecko.
+    578230|00000000||To co, gramy?
+    578231|00000000||Pewnie.
+    578252|00000000||Zagrajmy w gwinta.
+   1076520|00000000||Wygrałeś, ale płakał nie będę. Masz tu unikatową kartę. Idzie w dobre ręce.
+    578242|00000000||I przegrałeś. Chusteczkę na otarcie łez?
+    578243|00000000||Wygrałeś, ale płakał nie będę. Może doprowadzisz do płaczu tego szkutnika z Velen – sprawiał wrażenie wrażliwego.
+   1042523|00000000||Albo tego szewca, który kręci się przy nilfgaardzkim obozie. Masz tu kartę do talii, na wypadek gdyby ci nie szło.
+    543165|72eeb4b2||Zielarz
+   1046203|00000000||Ała!
+   1046205|00000000||Kryć się!
+   1046207|00000000||Aaaaa!
+   1046209|00000000||Odejdź!
+   1046211|00000000||Odczep się!
+   1071334|00000000||O... Przy studni jest kolejny ślad.
+   1043975|00000000||Mhm?
+   1043977|00000000||*Pfff*
+   1043979|00000000||Odłóż broń.
+   1043981|00000000||Masz jakieś ostatnie życzenie?
+   1043983|00000000||Do mnie tu!
+   1074164|00000000||Ja tam się cieszę, że nas zagonili do roboty.
+   1074763|00000000||Wolę tyrać w tartaku niż iść na wojnę.
+    572465|00000000||Poluję na gryfa. Szakłak jest mi potrzebny na przynętę.
+    563743|00000000||Nilfgaard ceni sobie porządek.
+    563747|00000000||Nilfgaard ceni sobie jedno – porządek. Gryf go zaburza, więc musi zniknąć.
+    563850|00000000||Tak. Najpierw wezmą się za potwora, potem za ludzi.
+    563851|00000000||Nie jesteś stąd, prawda?
+    563928|00000000||Dużo w tobie goryczy. Za dużo jak na kogoś, kto spędził całe życie w chatce na końcu świata.
+    563930|00000000||Zgadza się.
+    563932|00000000||A tobie gdzieś się spieszy. Inaczej nie robiłbyś przynęty, tylko czekał, aż gryf znowu uderzy.
+    563934|00000000||Czuję, że moglibyśmy odbyć ciekawą rozmowę.
+    563936|00000000||Może następnym razem.
+    563745|00000000||Nie sądzę, żeby wasze dobro obchodziło cesarza Emhyra... Ale kapitana chyba tak. To przyzwoity facet.
+    563848|00000000||W wojsku nie ma przyzwoitych ludzi. Są tylko rozkazy.
+    563742|00000000||Kapitanowi Peterowi akurat leży.
+    572469|00000000||Tak sobie myślę... Parę lat temu pod mostem zalęgły się utopce. Cała wieś musiała się zrzucić, żeby starczyło na wiedźmina.
+    572471|00000000||To kogo tu stać na to, żeby zapłacić za gryfa?
+    572473|00000000||Kapitana Petera Saar... Coś-tam coś-tam.
+    572475|00000000||Ach. Dobrze wiedzieć, że Czarnym nasze dobro leży na sercu.
+    572467|00000000||No tak, gryf... Powinnam była się domyślić.
+    563731|00000000||Szukam szakłaku. Rośnie tu gdzieś w okolicy?
+    563733|00000000||Mhm. Na dnie rzeki, tam, gdzie koryto najszersze. Ale wiecie, że jak się go wyjmie z wody...
+    572415|00000000||...będzie śmierdzieć gorzej niż padlina? Na to liczę.
+    563336|00000000||Szukam szakłaku.
+    352033|00000000||Mam eliksir dla Leny. To Jaskółka.
+    564018|00000000||Zwiastun wiosny i symbol odrodzenia... Adekwatna nazwa.
+    564020|00000000||To się jeszcze okaże. Tak jak mówiłem, może jej zaszkodzić. Bardzo.
+   1058430|00000000||Na mnie to działa natychmiast... Ale ja mam szybszy metabolizm. U niej efekty wystąpią dopiero po kilku dniach.
+    564022|00000000||Czemu się w końcu zdecydowałeś?
+    564024|00000000||Uznałem, że lepsze to niż bezczynność.
+    564026|00000000||Podobasz mi się, wiedźminie. Masz... To taki mały podarek. Za to, że nie jest ci wszystko jedno.
+   1075134|00000000||Mam eliksir, który może pomóc Lenie.
+    563337|00000000||To gryf ją tak urządził?
+   1057727|00000000||To gryf tak poranił tę kobietę?
+    563514|00000000||To gryf ją tak urządził?
+    563516|00000000||Lenę? Tak. Dopadł ją, jak szła nocą przez las.
+    563518|00000000||Nocą... Przez las? W czasie wojny?
+    563520|00000000||Umówiła się na schadzkę. Wiecie, młodzi... Z miłości zrobią każdą głupotę.
+    563522|00000000||Rany się goją, ale i tak umrze. Krew zbiera jej się pod czaszką. Na to moje eliksiry nic nie poradzą.
+    563524|00000000||Mógłbym spróbować jej pomóc.
+    563526|00000000||Mógłbym spróbować jej pomóc. Jaskółka leczy nawet wewnętrzne obrażenia...
+    563528|00000000||Ale?
+    563530|00000000||Wiedźmińskie eliksiry nie są dla ludzi.
+    563531|00000000||Ona i tak umrze.
+    563577|00000000||Tak. Spokojną śmiercią pod wpływem twoich specyfików. A jeśli podam Jaskółkę i coś pójdzie nie tak... Cała wieś będzie słyszeć jej wycie.
+    563581|00000000||Rozumiem. Zrobisz, jak uważasz.
+    563523|00000000||Zabiję gryfa. Nie będzie więcej ofiar.
+    563570|00000000||Przyjąłem kontrakt na gryfa. Nie będzie więcej ofiar.
+    563574|00000000||Oczywiście, że będą. Zabraknie gryfa, to zacznie zabijać inny potwór... Albo człowiek.
+    563602|00000000||To co mam według ciebie robić?
+    563604|00000000||Swoje. Ale nie łudź się, że to coś zmieni.
+    563301|00000000||Przeszkadzam?
+    563303|00000000||Wręcz przeciwnie. Podaj mi dwugrot. To ten…
+    563306|00000000||...czerwony kwiat. No, no. Widzę, że mam do czynienia ze znawcą.
+    563308|00000000||To za dużo powiedziane... Ale coś o ziołach wiem. Na przykład, że dwugrot jest trujący.
+    563309|00000000||W dużych dawkach. W małych uśmierza ból i wywołuje miłe sny.
+    563320|00000000||To wszystko, co mogę dla niej zrobić.
+    571861|00000000||Niech Wieczny Ogień wypali twoje grzechy.
+    571863|00000000||Rzeźnik z Blaviken...
+    571865|00000000||Wieczny Ogniu, miej mnie w opiece...
+    562830|00000000||{Ess’ve vairich, corpail’ear Cerid ess marv?} [Słyszałeś, że kapral Cerid nie żyje?]
+    562831|00000000||{Cerid? Cerid Stàilinn Ceann? N’ees theenk a faigh aep eveliien Norlding badass cò tuve’an esan.} [Cerid? Cerid Stalowy Łeb? Nie myślałem, że znajdzie się wśród Nordlingów taki, co go ubije.]
+    562832|00000000||{An n'faigh.} [I nie znalazł się.]
+    563228|00000000||{Ess’va dicette, esan morv aep pest. Es heet. Dhu gucagan yn niss, yn niss.} [Mówią, że zmarł na jakąś chorobę. Gorączka. Czarne bąble pod pachami.]
+    563230|00000000||{N’ess dicette hy’in! Phoilitigeac ess feargach.} [Ale nie powtarzaj nikomu, bo polityczni krzywo patrzą.]
+   1038046|00000000||Ślady butów... Męskie. Duży rozmiar.
+   1038049|00000000||Zdjął buty i wszedł do wody... Pewnie chciał zatrzeć ślady.
+   1038051|00000000||Coś wyskoczyło na niego z szuwarów... Utopce. Ale zdołał uciec.
+   1038053|00000000||Z tego wszystkiego zgubił buty...
+   1038055|00000000||Ślady prowadzą z powrotem do wsi.
+   1038057|00000000||Krwawił... Ale niezbyt obficie. Rana powierzchowna.
+   1038059|00000000||Ślady pazurów utopca... To musi być on.
+   1039003|00000000||Tu ślad się urywa... Ale mogę go poznać po ranie.
+   1039019|00000000||Smród ludzkich szczyn... I wódki.
+   1038029|00000000||Opiłki z krzesiwa. Podpalacz zapalił tu pewnie pochodnię, wrzucił ją na dach... A potem poszedł w stronę sadu.
+   1049565|00000000||{Que suecc's?} [Co się dzieje?]
+   1049563|00000000||*Zieeew*
+   1049561|00000000||{Va caelm!} [Spokojnie!]
+   1049567|00000000||{Glaeddyv vort.} [Odłóż miecz]
+    432590|d184d9f7||Upiór
+   1043949|00000000||Odejdź.
+   1043951|00000000||Precz.
+   1043953|00000000||Arrgh!
+   1043955|00000000||Bijcie chłopy! Za Redanię!
+   1043957|00000000||Podnosisz miecz na redańskiego oficera?
+    571855|00000000||Zgiń, przepadnij.
+    571857|00000000||Mutant.
+    571859|00000000||Czego tu szukasz, sadysto?
+    571843|00000000||Chwalmy Wieczny Ogień
+    571845|00000000||Eeeeee, spać mi się chce.
+    571847|00000000||Dość mam tych szat.

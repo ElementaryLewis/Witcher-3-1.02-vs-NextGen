@@ -1,0 +1,1037 @@
+;meta[language=cleartext]
+; id      |key(hex)|key(str)| text
+    530186|27bce67d||Amuleto mágico
+    592263|00000000||Encontre o local onde o monstro saiu da água usando os seus sentidos de bruxo.
+   1047249|baa6fb37||Jesse
+   1049943|60ea26e0||Espada de aço. Para lutar contra adversários humanos, humanoides e feras comuns.
+   1062564|d7dd1caa||Patrulha desaparecida - Recompensa
+   1063947|e71d7c8e||Se você possui Vigor disponível, ataques fortes consomem tudo e reduzem a Vitalidade do oponente golpeado em 10%, após o dano normal ser calculado.
+   1063956|fc921508||Limita significativamente a duração de Nocaute, Hipnose, Atordoamento e Cegueira.
+   1063965|fc921527||Aplica um fortalecimento, aumentando a intensidade de um Sinal aleatoriamente selecionado ao anoitecer e ao amanhecer. Dura mais do que outros elixires mutagênicos.
+   1064031|3a84c32a||Duração estendida. Venenos agora curam ao invés de causarem dano.
+   1069036|0b5e880d||Fétidas paixões: uma vida de tiromancia
+   1071257|73e75aa8||Eficiente contra humanos, não-humanos e feras comuns.
+   1073410|00000000||Execute um ataque rápido contra Vesemir apertando <<AttackWithAlternateLight>>.
+   1073412|00000000||Execute um ataque forte contra Vesemir segurando <<PCAlternate>> e apertando <<AttackWithAlternateLight_mod>>.
+   1075370|00000000||Para executar um ataque rápido, aperte <<AttackWithAlternateLight>>.
+   1075376|00000000||Para executar um ataque forte, segure <<PCAlternate>> e aperte <<AttackWithAlternateLight_mod>><br><br>Ataques fortes são mais lentos do que ataques rápidos, mas causam mais dano contra oponentes fortes.<br><br>Oponentes fracos não conseguem bloquear ataques fortes.
+   1075380|00000000||Aperte <<RadialMenu>> para abrir o <font color="#CD7D03">Menu de Acesso Rápido</font>.<br><br>Aqui você poderá ativar Sinais, armas de longo alcance, itens especiais e bombas.<br><br>O <font color="#CD7D03">Menu de Acesso Rápido</font> também mostra todos os efeitos do seu personagem no momento.
+   1075382|83487b7d||Lobisomens, também conhecidos como licantropos, são pessoas capaz de alterar sua forma para a de um lobo ou um híbrido meio humano, meio lobo. A maioria dos afetados pela licatropia não tem controle total sobre essas transformações. Quando na forma de lobo, eles agem puramente com base no instinto de predador, conduzidos pela fome e cegos para as morais humanas.
+   1075722|00000000||Para usar um Sinal, aperte <<CastSign>>.<br><br>Sinais e algumas outras ações consomem Vigor. Antes de usar novamente um Sinal, você precisará esperar para o seu Vigor regenerar.<br>Para selecionar um Sinal, você pode usar os atalhos do teclado <<SelectAard>> - <<SelectAxii>>.
+   1075726|00000000||Aperte <<ThrowItem>> para disparar um virote com sua besta. Você também pode mirar mais cuidadosamente segurando <<ThrowItem>> para mirar e então soltando <<ThrowItem>> para disparar.<br><br>No Painel de Inventário, você pode escolher os virotes da sua besta. Alguns virotes têm habilidades especiais. A besta é uma arma tática útil em certas situações. Ela não faz tanto dano quanto espadas ou Sinais.
+   1075874|00000000||Quando a posição exata do objetivo for desconhecida, o minimapa indicará uma área onde você deverá procurar.
+   1075983|00000000||Para fazer seu cavalo vir até você, aperte <<SpawnHorse>>.
+   1076122|00000000||Use <font color="#CD7D03">pedras de amolar</font><<ICO_RepairWeapons>> para adicionar melhorias temporárias à sua arma.<br><br>Use <font color="#CD7D03">bancadas de armeiro</font><<ICO_RepairArmor>> para adicionar melhorias temporárias à sua armadura.<br><br>Itens melhorados recebem um <font color="#CD7D03">bônus de defesa ou dano causado</font>. Esse bônus irá desaparecer depois de certo tempo, mas você pode renová-lo usando uma pedra de amolar ou bancada de armeiro novamente.
+   1076197|db9330e8||Controle Direito
+   1076214|9dae9bd8||Enter
+   1076228|7520233b||* (Teclado Numérico)
+   1076229|751eaa83||+ (Teclado Numérico)
+   1076231|2e8ae8a7||- (Teclado Numérico)
+   1076232|a7b9fc6a||. (Teclado Numérico)
+   1076233|2ee0a1b4||/ (Teclado Numérico)
+   1076235|86435a35||Scroll Lock
+   1076241|54561b6c||Mouse 4
+   1076257|00000000||Aperte <<ThrowItem>> para invocar uma bola de fogo. Ele irá acertar o seu local atual.
+   1076377|b4c7ffbe||As Alegre Aventuras de Muriel a Adorável Meretriz, Decorado com Gravuras Engraçadas
+   1076379|b4c7ffbf||O Tratamento de Furúnculos Através da Cauterização: Um Estudo
+   1076492|b4c7ffbc||Moribundia: A Última Aparência do Vampiro
+   1076495|b4c7ffbd||Tiromancia, ou a Nobre Arte de Divinação pelo Queijo
+   1076503|00000000||Use <<Mouse>> para selecionar um destino, e depois clique duas vezes nele para viajar até lá.
+   1076545|00000000||Escolha uma Habilidade e clique nela usando <<IK_RightMouse>> para desenvolvê-la.
+   1076655|00000000||Selecione o <font color="#CD7D03">Sinal Axii</font> usando <<Mouse>> e aperte <<IK_LeftMouse>> para ativá-lo.
+   1076657|00000000||Selecione o <font color="#CD7D03">Sinal Igni</font> usando <<Mouse>> e aperte <<IK_LeftMouse>> para ativá-lo.
+   1076659|00000000||Selecione o <font color="#CD7D03">Sinal Yrden</font> usando <<Mouse>> e aperte <<IK_LeftMouse>> para ativá-lo.
+   1076767|00000000||Aperte <<AttackWithAlternateLight>> para provocar um inimigo a atacar imediatamente.
+   1076769|00000000||Segure <<PCAlternate>> e <<AttackWithAlternateLight_mod>> para executar uma investida.<br><br>Quanto mais segurar, maior será o alcance do seu ataque.
+   1077593|00000000||De vez em quando, o seu personagem sofrerá efeitos.<br><br>Eles podem ser positivos (ex. causados por poções ou Locais de Poder) ou negativos (ex. envenenamento, sangramento ou atordoamento).<br><br>Todos os efeitos ativos e suas durações são mostradas no topo da tela.
+   1077846|00000000||Portais
+   1077859|00000000||Portais
+   1078009|dfefb296||Chave do esconderijo do katakan
+   1078101|00000000||Encontre o baú dos ladrões de sepulturas.
+   1078833|00000000||Tradição dos Bruxos: Diagrama de Melhorias do Equipamento da Escola do Urso - Parte 1
+   1078834|00000000||Tradição dos Bruxos: Diagrama de Melhorias do Equipamento da Escola do Urso - Parte 2
+   1078835|00000000||Tradição dos Bruxos: Diagrama de Melhorias do Equipamento da Escola do Urso - Parte 3
+   1078836|00000000||Tradição dos Bruxos: Diagrama de Melhorias do Equipamento da Escola do Urso - Parte 4
+   1082169|ba23d79d||Poder de ataque contra humanoides
+   1082181|c596d25a||Bastião
+   1083490|888281ec||Configurações de controle
+   1083748|d25344ee||Poder de ataque contra humanos e humanoides
+   1083785|00000000||Opções de diálogo - com tempo
+   1084324|6dc029ce||Passou a rodada.
+   1084535|00000000||Pedras de runas aprimoram as suas armas.<br><br> Vá para a aba de Equipamento no seu Inventário e clique em uma pedra de runa.
+   1084602|9a8d5c2b||Portal criado pela Caçada Selvagem. Pode ser fechado com Yrden ou com uma bomba de dimerítio.
+   1084748|00000000||Meditação
+   1084762|00000000||Meditação
+   1084790|5ef808bb||Sensibilidade do mouse (no jogo)
+   1085700|6d1ad38f||Fique de olho no nível de medo do seu cavalo. Se ele entrar em pânico, vai empinar, derrubá-lo e sair correndo. Acalme seu cavalo usando o Sinal Axii.
+   1086199|00000000||Bruxos passam a maior parte do seu tempo na estrada, em busca do próximo contrato. Eles viajam por grandes vales, escalam montanhas e perambulam por pântanos fechados.<br><br>Por sorte, Geralt sempre pode contar com <font color="#CD7D03">seu cavalo</font>, <font color="#CD7D03">Carpeado</font> para ajudar nas suas viagens.<br><br>Para chamar o <font color="#CD7D03">Carpeado</font> até você, aperte <<SpawnHorse>>.
+   1086243|00000000||Para enfrentar longas distâncias e certos obstáculos, como este, um cavalo é a sua única opção.<br><br>Para chamar o seu cavalo, aperte <<SpawnHorse>>.
+   1086321|00000000||Ativar certas habilidades permite que você prepare ataques especiais.<br><br>Para preparar um ataque rápido especial, segure <<SpecialAttackWithAlternateLight>><br>Para preparar um ataque forte especial, segure <<PCAlternate>> e <<SpecialAttackWithAlternateLight_mod>>.
+   1086323|00000000||Ativar certas habilidades permite que você prepare ataques especiais.<br><br>Para preparar um ataque rápido especial, segure <<SpecialAttackWithAlternateLight>><br>Para preparar um ataque forte especial, segure <<PCAlternate>> e <<SpecialAttackWithAlternateLight_mod>>.
+   1086777|00000000||Do lado esquerdo da tela, há uma lista de diagramas que você possui. Clique para selecionar uma categoria ou diagrama.
+   1086785|00000000||Artesãos também comem! Para que eles criem um item, você precisará pagar pelos seus serviços!<br><br>Se possuir o dinheiro necessário, aperte <<GUI_PC_Select>> para produzir o diagrama selecionado.
+   1087085|bfca50d2||VANTAGEM DA FACÇÃO:
+   1087246|00000000||Para navegar no mapa, segure <<IK_LeftMouse>> e mova o mouse.
+   1087544|00000000||Escolha uma <font color="#CD7D03">comida</font> e clique nela.
+   1087548|00000000||Você pode equipar comida para ter acesso rápido durante o jogo. Para fazer isso, clique duas vezes no item de comida ou arraste ele para um dos espaços de consumíveis.
+   1089426|00000000||Jogadores de Gwent usam os seus próprios <<Color_Gwint>>baralhos<<End_Color>> personalizados.<br><br>Você pode construir um baralho para cada uma das quatro <<Color_Gwint>>facções<<End_Color>> – Nilfgaard, Reinos do Norte, Monstros e Scoia'tael.<br><br>Após abrir o Construtor de Baralhos de Gwent, use <<GUI_GwintFactionLeft>> e <<GUI_GwintFactionRight>> para trocar as <<Color_Gwint>>facções<<End_Color>>.<br>Cada facção possui uma quantidade de <<Color_Gwint>>cartas<<End_Color>> únicas que incentivam um <<Color_Gwint>>estilo de jogo<<End_Color>> diferente. Cada facção também possui uma <<Color_Gwint>>vantagem da facção<<End_Color>>:<br><br><<Color_Gwint>>NILFGAARD<<End_Color>> – Vence qualquer rodada que terminar em empate.<br><<Color_Gwint>>REINOS DO NORTE<<End_Color>> – Recebe uma carta extra após cada rodada vitoriosa.<br><<Color_Gwint>>SCOIA'TAEL<<End_Color>> – Decide quem jogará o primeiro turno de uma batalha.<br><<Color_Gwint>>MONSTROS<<End_Color>> – Mantém uma carta de unidade aleatória no campo de batalha após cada rodada.
+   1089432|f84c6a16||HBAO+
+   1090228|cc124271||Florka
+   1090229|85df3483||Contrato: a Fera de Honorton
+   1090230|cd279328||Gaetan
+   1090231|ee7d2369||Bom povo!<br><br>Há um vil e perigoso fantasma, fera ou diabo de algum tempo, causando problemas perto de nossa vila, Honorton. Prometemos nossa mais profunda gratidão, e uma recompensa considerável, para o bravo jovem que conseguir matá-la.<br><br>Se quiser saber mais, venha nos visitar. Pergunte pelo magistrado, Sobemir.
+   1090232|aa4dec89||Aviso colocado pelo magistrado de Honorton.
+   1091114|6c0ea73c||Boneca
+   1091383|500d45e6||Precisa-se de bruxo!
+   1091384|fc6177e6||Eu, o autor desse aviso, busco a ajuda de um bruxo. O trabalho ofertado é difícil, sim, mas para um bruxo, deve ser algo fácil. Pagarei bem. Não há tempo para mais delongas. Quaisquer bruxos interessados, me procurem do lado de fora da estalagem em Fyresdal.<br><br>Uggo, filho de Olaf
+   1092033|c4b43cf1||Esquema dos controles
+   1092299|c1c15e8d||Cartão de agradecimento
+   1092300|ec388dc7||Presente de uma jovem garota agradecida.
+   1092301|8c75af9f||Para Gerahlt de Révia:<br><<bk_texture_mq1058_girls_drawing>>
+   1092302|aa5b822c||Carta para Gaetan
+   1092303|bd0bf760||Gaetan,<br><br>Acabou. Soldados tomaram a escola. Eles mataram Axel e Cedric. Quanto a Schrödinger, bem, eu não sei dizer ao certo. Ele pode estar vivo ou morto. Recompensas foram oferecidas pela sua cabeça e pela minha. Evite cidades e estradas. Não atraia atenção.<br><br>-Joël
+   1092304|ceca3a32||Carta escrita por alguém não acostumado a segurar uma pena.
+   1093655|203d5552||Carta para Lisbeth
+   1093656|1b2e2bfa||[carta escrita com uma mão tremida]<br><br>Minha cara Lisbeth!<br><br>Eu escrevo para você com muita pressa: o bastião e a torre vigia estão em chamas! Eles atacaram cedo demais! O composto continua instável, mas devo usá-lo para fugir daqui.<br><br>Assim que o gavião carregando esta carta chegar até você, contate Leticia Charbonneau. Não há como saber aonde este portal instável irá me levar, e apenas ela poderá encontrar minha localização.<br><br>Se ela estiver relutante em ajudar, conte sobre os mutagênicos que roubei do laboratório dos bruxos. Aqueles cogumelos e ervas são um tesouro que permitirão a ela retomar a pesquisa sobre a peste negra e tétano. Por tal dádiva, acredito que ela aceitará ajudar um mago amigo, mesmo um considerado renegado e perseguido pelo Conclave.<br><br>Se tudo correr bem, te vejo em breve!
+   1093657|203d5553||Carta
+   1093658|1ce30499||Para o bruxo que encontrar esta carta:<br><br>O mago Hieronymus é um traidor. Se ele conseguir fugir de Kaer Morhen, jure que irá encontrar e matar aquele filho da puta. Devagar, para que ele sinta a morte aos poucos.<br><br>Encontrei o diário dele na torre de vigia, e na velha torre sinalizadora eu encontrei um estranho dispositivo de teletransporte mágico. Este portal deve ter sido o plano dele para uma fuga rápida.<br><br>Quando a corneta de alarme soou, eu já sabia o que estava acontecendo. Foi ele o responsável em trazer a multidão ralé com ancinhos e tochas sobre nós. De onde estou, no topo das muralhas do bastião, consigo ver a torre de vigia queimar. Que o sangue de todos os bruxos mortos neste dia amaldiçoem o desgraçado Hieronymus por toda eternidade!
+   1095340|0fb9fb48||Teigr
+   1098488|00000000||Cavalos - Chamar
+   1098489|00000000||Para fazer seu cavalo vir até você, aperte <<SpawnHorse>> duas vezes.
+   1098490|00000000||Cavalos
+   1098491|00000000||Bruxos passam a maior parte do seu tempo na estrada, em busca do próximo contrato. Eles viajam por grandes vales, escalam montanhas e perambulam por pântanos fechados.<br><br>Por sorte, Geralt sempre pode contar com <font color="#CD7D03">seu cavalo</font>, <font color="#CD7D03">Carpeado</font> para ajudar nas suas viagens.<br><br>Para chamar o <font color="#CD7D03">Carpeado</font> até você, aperte <<SpawnHorse>> duas vezes.
+   1098492|00000000||Cavalos - chamar
+   1098493|00000000||Para enfrentar longas distâncias e certos obstáculos, como este, um cavalo é a sua única opção.<br><br>Para chamar o seu cavalo, aperte <<SpawnHorse>> duas vezes.
+   1099463|00000000||Ataque forte
+   1099464|00000000||Execute um ataque forte contra Vesemir apertando <<AttackHeavy>>.
+   1099516|6ba9f2a1||Álcool
+   1099517|efb1f4c5||Elixires
+   1100105|00000000||Ataque forte
+   1100106|00000000||Para executar um ataque forte, aperte <<AttackHeavy>>.<br><br>Ataques fortes são mais lentos do que ataques rápidos, mas causam mais dano contra oponentes fortes.<br><br>Oponentes fracos não conseguem bloquear ataques fortes.
+   1100114|00000000||Usando Sinais
+   1100115|00000000||Para usar um Sinal, aperte <<CastSign>>.<br><br>Sinais e algumas outras ações consomem Vigor - antes de usar novamente um Sinal, você precisará esperar para o seu Vigor regenerar.
+   1100128|fc14eac1||Ordenar itens
+   1100401|203d5550||Diário de Hieronymus
+   1100402|17c47abc||[parece ser parte de um diário, embora apenas as últimas páginas tenham sobrevivido<br><br>dias em serviço: MMMMCMXVIII<br><br>Finalmente acabei de decifrar os manuscritos gnomos. Usei-os para desenhar diagramas de um par de espadas: uma de prata, a outra de aço. Varin já as forjou. Levou-as ao Bastião para testar do seu modo favorito: golpeando jovens bruxos durante os treinamentos. Agora, eu posso finalmente voltar para a velha torre sinalizadora e continuar a mexer com a construção do dispositivo de teletransporte. Talvez eu consiga estabilizá-lo.<br><br>dias em serviço: MMMMCMXIX<br><br>A vergonhosa impotência que me impede de realizar um feitiço de teletransporte pode trazer grandes benefícios para a humanidade. O composto que estive pesquisando deve permitir que o teletransporte se torne uma ferramenta bem difundida... se eu conseguir aperfeiçoá-lo. Talvez, quando eu patentear a descoberta, o Conclave me deixará sair desta prisão... só espero conseguir finalizar meu trabalho antes que os bruxos me forcem a conduzir outro Teste... <br><br>dias em serviço: MMMCMXXII<br><br>Minha terceira noite seguida sem dormir. Esta torre é muito fria. O composto ainda é incapaz de gerar um portal estável. Enquanto isso, Varin continua a me torturar com mais manuscritos não traduzidos. Dessa vez tenho que desenhar um diagrama de armadura.<br><br>dias em serviço: MMMMCMXXVII<br><br>O diagrama de armadura está finalizado, mas não posso voltar a trabalhar no composto. Em breve, começaremos outro Teste das Ervas. Juro pelo Poder que não posso aguentar mais isso. Por que o Conclave teve que sentenciar justo a mim para ser residente de Kaer Morhen?<br><br>data do serviço: MMMMCMXKVIII<br><br>Bartel, Diederik, Jaap, Aleid... essas foram as últimas vítimas. Eu ainda vejo o rosto deles, sinto o cheiro do vômito e do excremento em que morreram. Um pesadelo sem fim.<br><br>O punhado que sobreviveu aos venenos dos mutagênicos, elixires alquímicos e misturas feitas de cogumelos alucinógenos irá, depois, ser confiado a instrutores psicopatas, como Varin. Por duas semanas, eu mantive vigília na cabeceira de Koenrad e por duas semanas cuidei para que voltasse à terra dos vivos, apenas para Varin espancá-lo até quase a morte, em seu primeiro dia de treinamento no Bastião.<br><br>Bruxos enfrentam monstros? Os próprios bruxos são monstros! Eles olharam para o abismo por tempo demais... Como não se pode contar com a ira dos deuses, talvez a ira das pessoas deva ser usada então...
+   1100403|203d5551||Anotações de Varin
+   1100404|1979535b||[anotações contendo detalhes completos de longas sessões de instruções de esgrima para jovens bruxos, com muitas anotações nas margens]<br><br>Aquele mago finalmente se mostrou bom para alguma coisa. A espada de aço que forjei seguindo as instruções dele é de primeira linha. Parece que ele decifrou o segundo manuscrito também. Preciso dar uma passada na torre de vigia e pegar dele.<br><br>Aquele velhote, Hieronymus, veio me incomodar de novo. Não gosto de como ele olha para meus pupilos. Não gosto da arrogância e necessidade dele em se meter na vida dos outros. Ontem à noite, ele até me repreendeu em frente aos molengas por, como ele diz, "sobrecarregar corpos exaustos de intoxicação de longo prazo". Eles são bruxos, droga, não futuros escribas catarrentos em uma escola de reitoria!<br><br>Para tornar as coisas piores, em vez de preparar o próximo Teste das Ervas, ele se fechou na velha torre sinalizadora, trabalhando em algo a noite toda. Tenho que ver o que ele está aprontando lá.
+   1100439|867ab9d9||Mapa bem preservado
+   1100441|867ab9da||Mapa levemente rasgado
+   1100442|db0c3789||Mapa úmido e mofado
+   1100443|db0c378a||Mapa gasto e desbotado
+   1100688|331dbc92||[EN] Painter
+   1101187|7a1c1281||Configurações de teclado
+   1101188|0b8fdf52||Ação
+   1101189|35c5e315||Tecla
+   1101190|a981389a||Pressione a tecla à qual gostaria de vincular:
+   1101191|d03e0a6d||foi desvinculada.
+   1101598|3f40ab70||Calças felinas superiores
+   1101599|3f40ab71||Calças felinas obra-prima
+   1101600|729b5e15||Botas felinas superiores
+   1101601|729b5e16||Botas felinas obra-prima
+   1101602|4999b58e||Manoplas felinas superiores
+   1101603|4999b58f||Manoplas felinas obra-prima
+   1101604|92fe3f05||Diagrama: Calças felinas superiores
+   1101608|92fe3f06||Diagrama: Calças felinas obra-prima
+   1101609|6aa1726a||Diagrama: Botas felinas superiores
+   1101610|6aa1726b||Diagrama: Botas felinas obra-prima
+   1101611|938df52d||Diagrama: Manoplas felinas superiores
+   1101612|938df52e||Diagrama: Manoplas felinas obra-prima
+   1101613|a2143e0e||Calças de grifo superiores
+   1101614|a2143e0f||Calças de grifo obra-prima
+   1101615|d56ef0b3||Botas de grifo superiores
+   1101616|d56ef0b4||Botas de grifo obra-prima
+   1101617|413876b0||Manoplas de grifo superiores
+   1101618|413876b1||Manoplas de grifo obra-prima
+   1101619|7bce946d||Diagrama: Calças de grifo superiores
+   1101620|7bce946e||Diagrama: Calças de grifo obra-prima
+   1101621|5371c7d2||Diagrama: Botas de grifo superiores
+   1101622|5371c7d3||Diagrama: Botas de grifo obra-prima
+   1101623|c4c84cc5||Diagrama: Manoplas de grifo superiores
+   1101624|c4c84cc6||Diagrama: Manoplas de grifo obra-prima
+   1101625|6f1ce60d||Calças ursídeas superiores
+   1101637|6f1ce60e||Calças ursídeas obra-prima
+   1101638|a27798b2||Botas ursídeas superiores
+   1101639|a27798b3||Botas ursídeas obra-prima
+   1101640|1544ce91||Manoplas ursídeas superiores
+   1101641|1544ce92||Manoplas ursídeas obra-prima
+   1101642|bf7dec62||Diagrama: Calças ursídeas superiores
+   1101643|bf7dec63||Diagrama: Calças ursídeas obra-prima
+   1101644|97211fc7||Diagrama: Botas ursídeas superiores
+   1101645|97211fc8||Diagrama: Botas ursídeas obra-prima
+   1101646|f703f370||Diagrama: Manoplas ursídeas superiores
+   1101647|f703f371||Diagrama: Manoplas ursídeas obra-prima
+   1101648|6d911aab||Calças de lobo superiores
+   1101653|6d911aac||Calças de lobo obra-prima
+   1101654|a0ebcd50||Botas de lobo superiores
+   1101655|a0ebcd51||Botas de lobo obra-prima
+   1101656|e5572db3||Manoplas de lobo superiores
+   1101657|e5572db4||Manoplas de lobo obra-prima
+   1101658|13f57580||Diagrama: Calças de lobo superiores
+   1101661|13f57581||Diagrama: Calças de lobo obra-prima
+   1101662|eb98a8e5||Diagrama: Botas de lobo superiores
+   1101663|eb98a8e6||Diagrama: Botas de lobo obra-prima
+   1101664|317d8e12||Diagrama: Manoplas de lobo superiores
+   1101674|317d8e13||Diagrama: Manoplas de lobo obra-prima
+   1102051|9615a0a1||Botão esquerdo do mouse
+   1102056|305248c6||Botão direito do mouse
+   1102057|e035d313||Botão do meio do mouse
+   1102439|8035c2a4||Sensibilidade do mouse (nos menus)
+   1102490|97b582f2||Botas de couro de nekker
+   1102491|4ec338ac||Botas surpreendentemente confortáveis. As garras nos dedos farão você se destacar em meio à multidão.
+   1102492|907db547||Arquivos salvos indisponíveis
+   1102493|04b09b99||Arquivos salvos indisponíveis
+   1102569|98ca5985||Tempo total de jogo
+   1103776|4ce23aeb||[EN] Diagram: Silk
+   1103777|02280e89||[EN] Days
+   1103778|43186f1d||[EN] Hours
+   1103779|dc99f96d||[EN] Minutes
+   1103780|128e270d||[EN] Seconds
+   1103781|23c93ed5||[EN] Importing The Witcher 2 saved game failed.
+   1103843|c5784d99||Medalhão da Escola do Gato
+   1104035|d65dcc27||[EN] New Game Plus
+   1104036|651a4149||[EN] There are no saves available to use for a New Game Plus.
+   1104038|1259b0a8||[EN] An error occurred while loading save data.
+   1104039|0d4964f9||[EN] You cannot start a New Game Plus at this time.
+   1104040|598f936d||[EN] The chosen save is not currently valid. Please load it and resave to proceed.
+   1104041|61f0d99d||[EN] Character level too low or game not completed in this save.
+   1104042|7326ef5c||[EN] An unknown error occurred while importing save data.
+   1104043|c76954c9||[EN] Save could not be loaded due to incomplete game content.
+   1104106|710f8a92||Você desbloqueou a habilidade de iniciar um Novo Jogo +. Para isso, crie um novo jogo salvo, inicie um novo jogo, escolha a opção Novo Jogo + e selecione o jogo salvo do qual deseja importar o seu personagem. Apenas jogos salvos feitos após desbloquear a opção Novo Jogo + podem ser usados para este propósito.
+   1104865|867ab9f9||Mapa de pano muito borrado
+   1104866|867aba18||Mapa de pano em ótimas condições
+   1104884|28d5b1ee||Rolar
+   1104914|8fb89d65||Alternar Acelerar
+   1104915|f50ceca4||DESIGN DE WEB TERCEIRIZADO
+   1104918|ffe663a0||Alternar Caminhar/Correr
+   1104919|7ab8ea05||Travar no Alvo
+   1104920|e65bd07f||Modificar Tipo de Ataque
+   1104923|5711adb4||Alternar entre Sinais
+   1105789|5a3c3311||Conjunto de armadura temeriana
+   1105790|5a4a4a92||Conjunto de barba e penteado
+   1105791|5a586213||Nova Missão - "Contrato: Mineiros Desaparecidos"
+   1105792|5a667994||Aparência alternativa para a Yennefer
+   1105793|5a749115||Conjunto de armadura nilfgaardiana
+   1105794|5a82a896||Aparência alternativa para a Triss
+   1105795|5a90c017||Nova Missão - "Ouro de Tolo"
+   1105796|5a9ed798||Conjunto de cartas neutras de gwent "Heróis das Baladas"
+   1105797|5aacef19||NOVO JOGO +
+   1105798|5be2f42f||Nova Missão - "Tradição dos Bruxos: Equipamento da Escola do Lobo"
+   1105799|5bf10bb0||Aparência alternativa para a Ciri
+   1105800|5bff2331||Nova Missão - "Contrato: Mais Procurado de Skellige"
+   1105801|5c0d3ab2||Conjunto de besta de elite
+   1105802|5c1b5233||Conjunto de armadura de Skellige
+   1105803|5c2969b4||Nova Missão - "Onde os Gatos e Lobos brincam..."
+   1105804|5c378135||Novas animações de finalização
+   1105805|6937efd0||Você não tem o seguinte conteúdo para baixar necessário para abrir este jogo salvo
+   1105806|667dad9a||Você não tem o seguinte conteúdo para baixar necessário para abrir este jogo salvo
+   1105866|b654820b||Jogos salvos criados com esta versão do jogo são incompatíveis com versões anteriores do jogo.
+   1105867|950b665d||Jogos salvos criados com esta versão do jogo são incompatíveis com versões anteriores do jogo.
+   1106069|5141493d||Galopar/Trotar
+   1106077|dacadae9||Desmontar
+   1106078|c3669d60||Parar
+   1106079|2e453c85||Utilizáveis 1
+   1106080|2e453c86||Utilizáveis 2
+   1106081|0f285f10||Sacar Espada de Aço
+   1106082|d54bee68||Sacar Espada de Prata
+   1106090|0cced3b5||Sinais - Aard
+   1106093|8e655d51||Sinais - Yrden
+   1106097|0cd66330||Sinais - Quen
+   1106098|0cd28cbc||Sinais - Igni
+   1106104|0ccf28fa||Sinais - Axii
+   1106105|9397656e||Personagem
+   1106106|8790195c||Inventário
+   1106107|0001a55c||Mapa
+   1106108|0d5c0a69||Menu do Jogo
+   1106117|ab64af37||Missões
+   1106118|e0ae4a1e||Glossário
+   1106120|5700d7e9||Baralho de gwent
+   1106367|46c53be2||Alcance da visibilidade da folhagem
+   1106616|121562a0||Mutagênico vermelho superior
+   1106617|acbde652||Mutagênico verde superior
+   1106618|27743163||Mutagênico azul superior
+   1106619|d56ca54e||Página rasgada: Mutagênico vermelho
+   1106620|2c438080||Página rasgada: Mutagênico verde
+   1106621|d820db3d||Página rasgada: Mutagênico azul
+   1106622|5a48d789||Página rasgada: Mutagênico vermelho superior
+   1106623|eadc0ffb||Página rasgada: Mutagênico verde superior
+   1106624|eecaf062||Página rasgada: Mutagênico azul superior
+   1106641|5625d6ee||Este jogo foi atualizado. Todas as configurações de usuário foram reiniciadas ao padrão.
+   1106707|f3f5fddc||O jogo salvo não pode ser carregado porque foi feito usando uma versão mais nova do jogo.
+   1107415|b7af1a38||Você pode usar barcos para atravessar corpos de água.
+   1107416|e72b5002||As mesas dos Armeiros fornecem ao seu equipamento uma melhoria de Armadura por tempo limitado.
+   1107417|e88df9f3||Você pode contratar os serviços de uma prostituta aqui.
+   1107461|471de117||Voltar às configurações padrão
+   1107462|e8384175||Voltar todas as opções às configurações padrão
+   1107506|37ccab34||Voltou com sucesso às configurações padrão
+   1107545|00000000||Investida
+   1107546|00000000||Segure <<CiriAttackHeavy>> para executar uma investida.<br><br>Quanto mais segurar o botão, maior será o alcance do seu ataque.
+   1107562|97bd647b||`
+   1107564|975ac993||-
+   1107609|db981db5||Nada
+   1107610|46cb42fc||=
+   1107611|254901a4||[
+   1107612|22fc3489||]
+   1107613|1cd4b3ee||\
+   1107614|601ce217||'
+   1107615|02edec54||;
+   1107616|96d093f8||,
+   1107617|58e638fe||.
+   1107618|97b082a0||/
+   1107619|54561bb2||Roda do mouse
+   1107625|34f56ad4||1
+   1107626|34f56ad5||2
+   1107627|34f56ad6||3
+   1107628|34f56ad7||4
+   1107629|34f56ad8||5
+   1107630|34f56ad9||6
+   1107647|34f56ada||7
+   1107648|34f56adb||8
+   1107649|34f56adc||9
+   1107650|34f56ad3||0
+   1107654|34f56b14||Q
+   1107655|34f56b1a||W
+   1107656|00000000||Ataques especiais
+   1107657|00000000||Para preparar um ataque rápido, segure <<SpecialAttackLight>><br>Para preparar um ataque forte, segure <<SpecialAttackHeavy>>
+   1107658|34f56b08||E
+   1107659|34f56b15||R
+   1107660|34f56b17||T
+   1107661|34f56b1c||Y
+   1107662|34f56b18||U
+   1107663|34f56b0c||I
+   1107675|34f56b12||O
+   1107676|34f56b13||P
+   1107677|34f56b04||A
+   1107678|34f56b16||S
+   1107679|00000000||Ataques especiais
+   1107680|00000000||Para preparar um ataque rápido, segure <<SpecialAttackLight>><br>Para preparar um ataque forte, segure <<SpecialAttackHeavy>>
+   1107681|34f56b07||D
+   1107682|34f56b09||F
+   1107683|34f56b0a||G
+   1107684|34f56b0b||H
+   1107692|34f56b0d||J
+   1107698|34f56b0e||K
+   1107699|34f56b0f||L
+   1107700|34f56b1d||Z
+   1107704|34f56b1b||X
+   1107705|34f56b06||C
+   1107706|34f56b19||V
+   1107707|34f56b05||B
+   1107708|34f56b11||N
+   1107714|34f56b10||M
+   1107715|69b7f648||F1
+   1107716|69b7f649||F2
+   1107717|69b7f64a||F3
+   1107718|69b7f64b||F4
+   1107719|69b7f64c||F5
+   1107720|69b7f64d||F6
+   1107721|69b7f64e||F7
+   1107722|69b7f64f||F8
+   1107723|69b7f650||F9
+   1107724|cd46d2e8||F10
+   1107725|cd46d2e9||F11
+   1107726|cd46d2ea||F12
+   1107733|00000000||Ataque rápido
+   1107734|00000000||Para executar um ataque rápido, aperte <<AttackLight>>.
+   1107735|00000000||Ataque rápido
+   1107736|00000000||Execute um ataque rápido contra Vesemir apertando <<AttackLight>>.
+   1107831|00000000||Baralho de gwent
+   1107832|00000000||Você ganhou uma nova carta de gwent!<br>Se quiser examiná-la, abra o <font color="#CD7D03">Menu do Jogo</font> e vá até o <font color="#CD7D03">painel de Baralhos de Gwent</font>.
+   1108617|d65f831f||teste
+   1108620|80b9cac9||Armadura ursídea lendária
+   1108623|3972483b||Armadura ursídea lendária melhorada
+   1108624|3972483c||Armadura ursídea lendária superior
+   1108625|3972483d||Armadura ursídea lendária obra-prima
+   1108626|a8383957||Diagrama: Armadura ursídea lendária
+   1108627|6958723d||Botas ursídeas lendárias
+   1108628|6958723e||Botas ursídeas lendárias melhoradas
+   1108629|6958723f||Botas ursídeas lendárias superiores
+   1108630|69587240||Botas ursídeas lendárias obra-prima
+   1108631|f4dd4159||Diagrama: Botas ursídeas lendárias
+   1108632|2a7f26a2||Manoplas ursídeas lendárias
+   1108633|2a7f26a3||Manoplas ursídeas lendárias melhoradas
+   1108634|2a7f26a4||Manoplas ursídeas lendárias superiores
+   1108635|2a7f26a5||Manoplas ursídeas lendárias obra-prima
+   1108636|cd0fc0be||Diagrama: Manoplas ursídeas lendárias
+   1108637|35fdbf98||Calças ursídeas lendárias
+   1108638|35fdbf99||Calças ursídeas lendárias melhoradas
+   1108639|35fdbf9a||Calças ursídeas lendárias superiores
+   1108640|35fdbf9b||Calças ursídeas lendárias obra-prima
+   1108641|963903b4||Diagrama: Calças ursídeas lendárias
+   1108642|4b36faff||Besta ursídea lendária
+   1108643|84371e0d||Diagrama: Besta ursídea lendária
+   1108645|34f98940||Espada de prata ursídea lendária
+   1108646|dcbc44f2||Espada de prata ursídea lendária melhorada
+   1108647|dcbc44f3||Espada de prata ursídea lendária superior
+   1108648|dcbc44f4||Espada de prata ursídea lendária obra-prima
+   1108649|4cb18f0e||Diagrama: Espada de prata ursídea lendária
+   1108651|e68a0f40||Diagrama: Espada de prata ursídea lendária melhorada
+   1108652|e68a0f41||Diagrama: Espada de prata ursídea lendária superior
+   1108653|e68a0f42||Diagrama: Espada de prata ursídea lendária obra-prima
+   1108654|19d3d8f4||Espada de aço ursídea lendária
+   1108655|f44177a6||Espada de aço ursídea lendária melhorada
+   1108656|f44177a7||Espada de aço ursídea lendária superior
+   1108657|f44177a8||Espada de aço ursídea lendária obra-prima
+   1108896|5a090a64||[EN] Alfred Mauss
+   1108897|766d842e||[EN] Marcel Kroeber
+   1108905|ad02cdc2||Diagrama: Espada de aço ursídea lendária
+   1108906|778670f4||Diagrama: Espada de aço ursídea lendária melhorada
+   1108907|778670f5||Diagrama: Espada de aço ursídea lendária superior
+   1108908|778670f6||Diagrama: Espada de aço ursídea lendária obra-prima
+   1108909|06bfae50||Armadura de grifo lendária
+   1108910|558d6602||Armadura de grifo lendária melhorada
+   1108911|558d6603||Armadura de grifo lendária superior
+   1108912|558d6604||Armadura de grifo lendária obra-prima
+   1108913|7b18a01e||Diagrama: Armadura de grifo lendária
+   1108914|85739004||Botas de grifo lendárias
+   1108915|85739005||Botas de grifo lendárias melhoradas
+   1108916|85739006||Botas de grifo lendárias superiores
+   1108917|85739007||Botas de grifo lendárias obra-prima
+   1108918|c7bda820||Diagrama: Botas de grifo lendárias
+   1108919|91c7c1bb||Manoplas de grifo lendárias
+   1108920|91c7c1bc||Manoplas de grifo lendárias melhoradas
+   1108921|91c7c1bd||Manoplas de grifo lendárias superiores
+   1108922|91c7c1be||Manoplas de grifo lendárias obra-prima
+   1108923|563c32d7||Diagrama: Manoplas de grifo lendárias
+   1108924|5218dd5f||Calças de grifo lendárias
+   1108925|5218dd60||Calças de grifo lendárias melhoradas
+   1108926|5218dd61||Calças de grifo lendárias superiores
+   1108927|5218dd62||Calças de grifo lendárias obra-prima
+   1108928|69196a7b||Diagrama: Calças de grifo lendárias
+   1108929|77dfe25b||Diagrama: Espada de aço de grifo lendária
+   1108930|402b3487||Espada de prata de grifo lendária
+   1108931|e2303a79||Espada de prata de grifo lendária melhorada
+   1108932|e2303a7a||Espada de prata de grifo lendária superior
+   1108933|e2303a7b||Espada de prata de grifo lendária obra-prima
+   1108934|dd770d95||Diagrama: Espada de prata de grifo lendária
+   1108935|5bea0807||Diagrama: Espada de prata de grifo lendária melhorada
+   1108936|5bea0808||Diagrama: Espada de prata de grifo lendária superior
+   1108937|5bea0809||Diagrama: Espada de prata de grifo lendária obra-prima
+   1108938|09ac28cd||Espada de aço de grifo lendária
+   1108939|4f45353f||Espada de aço de grifo lendária melhorada
+   1108940|4f453540||Espada de aço de grifo lendária superior
+   1108941|4f453541||Espada de aço de grifo lendária obra-prima
+   1108942|ff70c34d||Diagrama: Espada de aço de grifo lendária melhorada
+   1108943|ff70c34e||Diagrama: Espada de aço de grifo lendária superior
+   1108944|ff70c34f||Diagrama: Espada de aço de grifo lendária obra-prima
+   1108953|35261564||Diagrama: Botas de grifo lendárias melhoradas
+   1108954|35261565||Diagrama: Botas de grifo lendárias superiores
+   1108955|35261566||Diagrama: Botas de grifo lendárias obra-prima
+   1108956|199db191||Diagrama: Manoplas de grifo lendárias melhoradas
+   1108957|199db192||Diagrama: Manoplas de grifo lendárias superiores
+   1108961|199db193||Diagrama: Manoplas de grifo lendárias obra-prima
+   1108963|7d7b0925||Diagrama: Armadura de grifo lendária melhorada
+   1108964|7d7b0926||Diagrama: Armadura de grifo lendária superior
+   1108966|7d7b0927||Diagrama: Armadura de grifo lendária obra-prima
+   1108967|5d82e1ff||Diagrama: Calças de grifo lendárias melhoradas
+   1108968|5d82e200||Diagrama: Calças de grifo lendárias superiores
+   1108969|5d82e201||Diagrama: Calças de grifo lendárias obra-prima
+   1108970|cedaf313||Diagrama: Botas ursídeas lendárias melhoradas
+   1108971|cedaf314||Diagrama: Botas ursídeas lendárias superiores
+   1108972|cedaf315||Diagrama: Botas ursídeas lendárias obra-prima
+   1108973|b68489c2||Diagrama: Manoplas ursídeas lendárias melhoradas
+   1108974|b68489c3||Diagrama: Manoplas ursídeas lendárias superiores
+   1108975|b68489c4||Diagrama: Manoplas ursídeas lendárias obra-prima
+   1108976|1a61e156||Diagrama: Armadura ursídea lendária melhorada
+   1108977|1a61e157||Diagrama: Armadura ursídea lendária superior
+   1108978|1a61e158||Diagrama: Armadura ursídea lendária obra-prima
+   1108979|f737bfae||Diagrama: Calças ursídeas lendárias melhoradas
+   1108980|f737bfaf||Diagrama: Calças ursídeas lendárias superiores
+   1108981|f737bfb0||Diagrama: Calças ursídeas lendárias obra-prima
+   1108982|24c58cec||Armadura felina lendária
+   1108983|09960d9e||Armadura felina lendária melhorada
+   1108984|09960d9f||Armadura felina lendária superior
+   1108985|09960da0||Armadura felina lendária obra-prima
+   1108986|a53debba||Diagrama: Armadura felina lendária
+   1108987|397c37a0||Botas felinas lendárias
+   1108988|397c37a1||Botas felinas lendárias melhoradas
+   1108989|397c37a2||Botas felinas lendárias superiores
+   1108990|397c37a3||Botas felinas lendárias obra-prima
+   1108991|f1e2f3bc||Diagrama: Botas felinas lendárias
+   1108992|5ed40d9f||Manoplas felinas lendárias
+   1108993|5ed40da0||Manoplas felinas lendárias melhoradas
+   1108994|5ed40da1||Manoplas felinas lendárias superiores
+   1108995|5ed40da2||Manoplas felinas lendárias obra-prima
+   1108996|70c05abb||Diagrama: Manoplas felinas lendárias
+   1108997|062184fb||Calças felinas lendárias
+   1108998|062184fc||Calças felinas lendárias melhoradas
+   1108999|062184fd||Calças felinas lendárias superiores
+   1109000|062184fe||Calças felinas lendárias obra-prima
+   1109001|933eb617||Diagrama: Calças felinas lendárias
+   1109002|483cad62||Besta felina lendária
+   1109003|57b770b0||Diagrama: Besta felina lendária
+   1109004|f9495223||Espada de prata felina lendária
+   1109005|cc3d6115||Espada de prata felina lendária melhorada
+   1109006|cc3d6116||Espada de prata felina lendária superior
+   1109011|cc3d6117||Espada de prata felina lendária obra-prima
+   1109012|ecb1d831||Diagrama: Espada de prata felina lendária
+   1109013|0daf2600||Diagrama: Espada de prata felina lendária melhorada
+   1109016|0daf2601||Diagrama: Espada de prata felina lendária superior
+   1109017|0daf2602||Diagrama: Espada de prata felina lendária obra-prima
+   1109020|93c5e7b1||Espada de aço felina lendária
+   1109021|4f13543f||Diagrama: Espada de aço felina lendária
+   1109027|b9eacb23||Espada de aço felina lendária melhorada
+   1109028|b9eacb24||Espada de aço felina lendária superior
+   1109029|b9eacb25||Espada de aço felina lendária obra-prima
+   1109034|d78f4c31||Diagrama: Espada de aço felina lendária melhorada
+   1109035|d78f4c32||Diagrama: Espada de aço felina lendária superior
+   1109041|d78f4c33||Diagrama: Espada de aço felina lendária obra-prima
+   1109042|a25b45b6||Diagrama: Botas felinas lendárias melhoradas
+   1109043|a25b45b7||Diagrama: Botas felinas lendárias superiores
+   1109044|a25b45b8||Diagrama: Botas felinas lendárias obra-prima
+   1109045|530e8b7f||Diagrama: Manoplas felinas lendárias melhoradas
+   1109046|530e8b80||Diagrama: Manoplas felinas lendárias superiores
+   1109047|530e8b81||Diagrama: Manoplas felinas lendárias obra-prima
+   1109048|b6ebe313||Diagrama: Armadura felina lendária melhorada
+   1109049|b6ebe314||Diagrama: Armadura felina lendária superior
+   1109050|b6ebe315||Diagrama: Armadura felina lendária obra-prima
+   1109051|cab81251||Diagrama: Calças felinas lendárias melhoradas
+   1109052|cab81252||Diagrama: Calças felinas lendárias superiores
+   1109053|cab81253||Diagrama: Calças felinas lendárias obra-prima
+   1109212|c6c10041||Armadura de lobo lendária
+   1109213|90c38de6||Manoplas de lobo lendárias
+   1109214|5ba47484||Calças de lobo lendárias
+   1109215|067511f8||Botas de lobo lendárias
+   1109216|23527c31||Diagrama: Botas de lobo lendárias melhoradas
+   1109217|23527c32||Diagrama: Botas de lobo lendárias superiores
+   1109218|23527c33||Diagrama: Botas de lobo lendárias obra-prima
+   1109219|f0fe2464||Diagrama: Manoplas de lobo lendárias melhoradas
+   1109220|f0fe2465||Diagrama: Manoplas de lobo lendárias superiores
+   1109223|f0fe2466||Diagrama: Manoplas de lobo lendárias obra-prima
+   1109224|54db7bf8||Diagrama: Armadura de lobo lendária melhorada
+   1109225|54db7bf9||Diagrama: Armadura de lobo lendária superior
+   1109226|54db7bfa||Diagrama: Armadura de lobo lendária obra-prima
+   1109227|4baf48cc||Diagrama: Calças de lobo lendárias melhoradas
+   1109228|4baf48cd||Diagrama: Calças de lobo lendárias superiores
+   1109229|4baf48ce||Diagrama: Calças de lobo lendárias obra-prima
+   1109231|9d7d4d3a||Número de Personagens de Fundo
+   1109242|514e8ee7||Armadura de lobo lendária
+   1109243|37e67cd9||Armadura de lobo lendária melhorada
+   1109244|37e67cda||Armadura de lobo lendária superior
+   1109245|37e67cdb||Armadura de lobo lendária obra-prima
+   1109246|5b74eff5||Diagrama: Armadura de lobo lendária
+   1109253|67cca6db||Botas de lobo lendárias
+   1109255|67cca6dc||Botas de lobo lendárias melhoradas
+   1109256|67cca6dd||Botas de lobo lendárias superiores
+   1109260|67cca6de||Botas de lobo lendárias obra-prima
+   1109261|a819f7f7||Diagrama: Botas de lobo lendárias
+   1109268|fa9185c4||Manoplas de lobo lendárias
+   1109269|fa9185c5||Manoplas de lobo lendárias melhoradas
+   1109270|fa9185c6||Manoplas de lobo lendárias superiores
+   1109271|fa9185c7||Manoplas de lobo lendárias obra-prima
+   1109272|8169dde0||Diagrama: Manoplas de lobo lendárias
+   1109273|3471f436||Calças de lobo lendárias
+   1109274|3471f437||Calças de lobo lendárias melhoradas
+   1109275|3471f438||Calças de lobo lendárias superiores
+   1109276|3471f439||Calças de lobo lendárias obra-prima
+   1109277|4975ba52||Diagrama: Calças de lobo lendárias
+   1109278|f79dc0de||Espada de prata de lobo lendária
+   1109279|87310d10||Espada de prata de lobo lendária melhorada
+   1109280|87310d11||Espada de prata de lobo lendária superior
+   1109281|87310d12||Espada de prata de lobo lendária obra-prima
+   1109282|4677abc9||Diagrama: Espada de prata de lobo lendária
+   1109283|873be93b||Diagrama: Espada de prata de lobo lendária melhorada
+   1109284|873be93c||Diagrama: Espada de prata de lobo lendária superior
+   1109289|873be93d||Diagrama: Espada de prata de lobo lendária obra-prima
+   1109290|201b3596||Espada de aço de lobo lendária
+   1109291|862433c8||Espada de aço de lobo lendária melhorada
+   1109292|862433c9||Espada de aço de lobo lendária superior
+   1109293|862433ca||Espada de aço de lobo lendária obra-prima
+   1109294|30766281||Diagrama: Espada de aço de lobo lendária
+   1109295|ec67d1f3||Diagrama: Espada de aço de lobo lendária melhorada
+   1109296|ec67d1f4||Diagrama: Espada de aço de lobo lendária superior
+   1109308|ec67d1f5||Diagrama: Espada de aço de lobo lendária obra-prima
+   1109331|1bd8308c||[EN] Legendary Viper silver sword
+   1109332|1a90875a||[EN] Diagram: Legendary Viper silver sword
+   1109333|0e7d9bf6||[EN] Diagram: Legendary Viper steel sword
+   1109334|7c1d1828||[EN] Legendary Viper steel sword
+   1109406|4e49a790||Exibição
+   1109407|9f80dab6||Resolução
+   1109408|d3c3ace8||Modo de Exibição
+   1109409|4fc5c663||720x576
+   1109440|8df0f78c||2560x1440
+   1109441|6782ecfd||Modo em janela
+   1109442|9040fcb3||Janela sem contornos
+   1109443|29ff58a9||Tela cheia
+   1110156|7d49be54||[EN] Plan B
+   1110452|f1838f72||Tem certeza de que deseja fazer estas mudanças?
+   1110453|f8d17716||Você deve reiniciar o jogo para que estas mudanças tenham efeito.
+   1110534|8087e1b0||[EN] Trophy hunter
+   1110797|fb2cd197||REPRESENTANTE JÚNIOR DE SERVIÇOS AO CONSUMIDOR
+   1110903|16f1acff||Maximo de quadros por segundo
+   1110908|447d8081||30
+   1110909|447d80de||60
+   1110910|8076ee3d||Ilimitado
+   1110954|27e189c3||Cursor de hardware
+   1106107|0001a55c||Mapa
+   1103777|02280e89||[EN] Days
+   1107615|02edec54||;
+   1102493|04b09b99||Arquivos salvos indisponíveis
+   1108997|062184fb||Calças felinas lendárias
+   1108998|062184fc||Calças felinas lendárias melhoradas
+   1108999|062184fd||Calças felinas lendárias superiores
+   1109000|062184fe||Calças felinas lendárias obra-prima
+   1109215|067511f8||Botas de lobo lendárias
+   1108909|06bfae50||Armadura de grifo lendária
+   1108983|09960d9e||Armadura felina lendária melhorada
+   1108984|09960d9f||Armadura felina lendária superior
+   1108985|09960da0||Armadura felina lendária obra-prima
+   1108938|09ac28cd||Espada de aço de grifo lendária
+   1101188|0b8fdf52||Ação
+   1106090|0cced3b5||Sinais - Aard
+   1106104|0ccf28fa||Sinais - Axii
+   1106098|0cd28cbc||Sinais - Igni
+   1106097|0cd66330||Sinais - Quen
+   1104039|0d4964f9||[EN] You cannot start a New Game Plus at this time.
+   1106108|0d5c0a69||Menu do Jogo
+   1109013|0daf2600||Diagrama: Espada de prata felina lendária melhorada
+   1109016|0daf2601||Diagrama: Espada de prata felina lendária superior
+   1109017|0daf2602||Diagrama: Espada de prata felina lendária obra-prima
+   1109333|0e7d9bf6||[EN] Diagram: Legendary Viper steel sword
+   1106081|0f285f10||Sacar Espada de Aço
+   1095340|0fb9fb48||Teigr
+   1106616|121562a0||Mutagênico vermelho superior
+   1104038|1259b0a8||[EN] An error occurred while loading save data.
+   1103780|128e270d||[EN] Seconds
+   1101658|13f57580||Diagrama: Calças de lobo superiores
+   1101661|13f57581||Diagrama: Calças de lobo obra-prima
+   1101640|1544ce91||Manoplas ursídeas superiores
+   1101641|1544ce92||Manoplas ursídeas obra-prima
+   1110903|16f1acff||Maximo de quadros por segundo
+   1100402|17c47abc||[parece ser parte de um diário, embora apenas as últimas páginas tenham sobrevivido<br><br>dias em serviço: MMMMCMXVIII<br><br>Finalmente acabei de decifrar os manuscritos gnomos. Usei-os para desenhar diagramas de um par de espadas: uma de prata, a outra de aço. Varin já as forjou. Levou-as ao Bastião para testar do seu modo favorito: golpeando jovens bruxos durante os treinamentos. Agora, eu posso finalmente voltar para a velha torre sinalizadora e continuar a mexer com a construção do dispositivo de teletransporte. Talvez eu consiga estabilizá-lo.<br><br>dias em serviço: MMMMCMXIX<br><br>A vergonhosa impotência que me impede de realizar um feitiço de teletransporte pode trazer grandes benefícios para a humanidade. O composto que estive pesquisando deve permitir que o teletransporte se torne uma ferramenta bem difundida... se eu conseguir aperfeiçoá-lo. Talvez, quando eu patentear a descoberta, o Conclave me deixará sair desta prisão... só espero conseguir finalizar meu trabalho antes que os bruxos me forcem a conduzir outro Teste... <br><br>dias em serviço: MMMCMXXII<br><br>Minha terceira noite seguida sem dormir. Esta torre é muito fria. O composto ainda é incapaz de gerar um portal estável. Enquanto isso, Varin continua a me torturar com mais manuscritos não traduzidos. Dessa vez tenho que desenhar um diagrama de armadura.<br><br>dias em serviço: MMMMCMXXVII<br><br>O diagrama de armadura está finalizado, mas não posso voltar a trabalhar no composto. Em breve, começaremos outro Teste das Ervas. Juro pelo Poder que não posso aguentar mais isso. Por que o Conclave teve que sentenciar justo a mim para ser residente de Kaer Morhen?<br><br>data do serviço: MMMMCMXKVIII<br><br>Bartel, Diederik, Jaap, Aleid... essas foram as últimas vítimas. Eu ainda vejo o rosto deles, sinto o cheiro do vômito e do excremento em que morreram. Um pesadelo sem fim.<br><br>O punhado que sobreviveu aos venenos dos mutagênicos, elixires alquímicos e misturas feitas de cogumelos alucinógenos irá, depois, ser confiado a instrutores psicopatas, como Varin. Por duas semanas, eu mantive vigília na cabeceira de Koenrad e por duas semanas cuidei para que voltasse à terra dos vivos, apenas para Varin espancá-lo até quase a morte, em seu primeiro dia de treinamento no Bastião.<br><br>Bruxos enfrentam monstros? Os próprios bruxos são monstros! Eles olharam para o abismo por tempo demais... Como não se pode contar com a ira dos deuses, talvez a ira das pessoas deva ser usada então...
+   1100404|1979535b||[anotações contendo detalhes completos de longas sessões de instruções de esgrima para jovens bruxos, com muitas anotações nas margens]<br><br>Aquele mago finalmente se mostrou bom para alguma coisa. A espada de aço que forjei seguindo as instruções dele é de primeira linha. Parece que ele decifrou o segundo manuscrito também. Preciso dar uma passada na torre de vigia e pegar dele.<br><br>Aquele velhote, Hieronymus, veio me incomodar de novo. Não gosto de como ele olha para meus pupilos. Não gosto da arrogância e necessidade dele em se meter na vida dos outros. Ontem à noite, ele até me repreendeu em frente aos molengas por, como ele diz, "sobrecarregar corpos exaustos de intoxicação de longo prazo". Eles são bruxos, droga, não futuros escribas catarrentos em uma escola de reitoria!<br><br>Para tornar as coisas piores, em vez de preparar o próximo Teste das Ervas, ele se fechou na velha torre sinalizadora, trabalhando em algo a noite toda. Tenho que ver o que ele está aprontando lá.
+   1108956|199db191||Diagrama: Manoplas de grifo lendárias melhoradas
+   1108957|199db192||Diagrama: Manoplas de grifo lendárias superiores
+   1108961|199db193||Diagrama: Manoplas de grifo lendárias obra-prima
+   1108654|19d3d8f4||Espada de aço ursídea lendária
+   1108976|1a61e156||Diagrama: Armadura ursídea lendária melhorada
+   1108977|1a61e157||Diagrama: Armadura ursídea lendária superior
+   1108978|1a61e158||Diagrama: Armadura ursídea lendária obra-prima
+   1109332|1a90875a||[EN] Diagram: Legendary Viper silver sword
+   1093656|1b2e2bfa||[carta escrita com uma mão tremida]<br><br>Minha cara Lisbeth!<br><br>Eu escrevo para você com muita pressa: o bastião e a torre vigia estão em chamas! Eles atacaram cedo demais! O composto continua instável, mas devo usá-lo para fugir daqui.<br><br>Assim que o gavião carregando esta carta chegar até você, contate Leticia Charbonneau. Não há como saber aonde este portal instável irá me levar, e apenas ela poderá encontrar minha localização.<br><br>Se ela estiver relutante em ajudar, conte sobre os mutagênicos que roubei do laboratório dos bruxos. Aqueles cogumelos e ervas são um tesouro que permitirão a ela retomar a pesquisa sobre a peste negra e tétano. Por tal dádiva, acredito que ela aceitará ajudar um mago amigo, mesmo um considerado renegado e perseguido pelo Conclave.<br><br>Se tudo correr bem, te vejo em breve!
+   1109331|1bd8308c||[EN] Legendary Viper silver sword
+   1107613|1cd4b3ee||\
+   1093658|1ce30499||Para o bruxo que encontrar esta carta:<br><br>O mago Hieronymus é um traidor. Se ele conseguir fugir de Kaer Morhen, jure que irá encontrar e matar aquele filho da puta. Devagar, para que ele sinta a morte aos poucos.<br><br>Encontrei o diário dele na torre de vigia, e na velha torre sinalizadora eu encontrei um estranho dispositivo de teletransporte mágico. Este portal deve ter sido o plano dele para uma fuga rápida.<br><br>Quando a corneta de alarme soou, eu já sabia o que estava acontecendo. Foi ele o responsável em trazer a multidão ralé com ancinhos e tochas sobre nós. De onde estou, no topo das muralhas do bastião, consigo ver a torre de vigia queimar. Que o sangue de todos os bruxos mortos neste dia amaldiçoem o desgraçado Hieronymus por toda eternidade!
+   1109290|201b3596||Espada de aço de lobo lendária
+   1100401|203d5550||Diário de Hieronymus
+   1100403|203d5551||Anotações de Varin
+   1093655|203d5552||Carta para Lisbeth
+   1093657|203d5553||Carta
+   1107612|22fc3489||]
+   1109216|23527c31||Diagrama: Botas de lobo lendárias melhoradas
+   1109217|23527c32||Diagrama: Botas de lobo lendárias superiores
+   1109218|23527c33||Diagrama: Botas de lobo lendárias obra-prima
+   1103781|23c93ed5||[EN] Importing The Witcher 2 saved game failed.
+   1108982|24c58cec||Armadura felina lendária
+   1107611|254901a4||[
+   1106618|27743163||Mutagênico azul superior
+   1110954|27e189c3||Cursor de hardware
+   1104884|28d5b1ee||Rolar
+   1109443|29ff58a9||Tela cheia
+   1108632|2a7f26a2||Manoplas ursídeas lendárias
+   1108633|2a7f26a3||Manoplas ursídeas lendárias melhoradas
+   1108634|2a7f26a4||Manoplas ursídeas lendárias superiores
+   1108635|2a7f26a5||Manoplas ursídeas lendárias obra-prima
+   1106620|2c438080||Página rasgada: Mutagênico verde
+   1106079|2e453c85||Utilizáveis 1
+   1106080|2e453c86||Utilizáveis 2
+   1102056|305248c6||Botão direito do mouse
+   1109294|30766281||Diagrama: Espada de aço de lobo lendária
+   1101664|317d8e12||Diagrama: Manoplas de lobo superiores
+   1101674|317d8e13||Diagrama: Manoplas de lobo obra-prima
+   1100688|331dbc92||[EN] Painter
+   1109273|3471f436||Calças de lobo lendárias
+   1109274|3471f437||Calças de lobo lendárias melhoradas
+   1109275|3471f438||Calças de lobo lendárias superiores
+   1109276|3471f439||Calças de lobo lendárias obra-prima
+   1107650|34f56ad3||0
+   1107625|34f56ad4||1
+   1107626|34f56ad5||2
+   1107627|34f56ad6||3
+   1107628|34f56ad7||4
+   1107629|34f56ad8||5
+   1107630|34f56ad9||6
+   1107647|34f56ada||7
+   1107648|34f56adb||8
+   1107649|34f56adc||9
+   1107677|34f56b04||A
+   1107707|34f56b05||B
+   1107705|34f56b06||C
+   1107681|34f56b07||D
+   1107658|34f56b08||E
+   1107682|34f56b09||F
+   1107683|34f56b0a||G
+   1107684|34f56b0b||H
+   1107663|34f56b0c||I
+   1107692|34f56b0d||J
+   1107698|34f56b0e||K
+   1107699|34f56b0f||L
+   1107714|34f56b10||M
+   1107708|34f56b11||N
+   1107675|34f56b12||O
+   1107676|34f56b13||P
+   1107654|34f56b14||Q
+   1107659|34f56b15||R
+   1107678|34f56b16||S
+   1107660|34f56b17||T
+   1107662|34f56b18||U
+   1107706|34f56b19||V
+   1107655|34f56b1a||W
+   1107704|34f56b1b||X
+   1107661|34f56b1c||Y
+   1107700|34f56b1d||Z
+   1108645|34f98940||Espada de prata ursídea lendária
+   1108953|35261564||Diagrama: Botas de grifo lendárias melhoradas
+   1108954|35261565||Diagrama: Botas de grifo lendárias superiores
+   1108955|35261566||Diagrama: Botas de grifo lendárias obra-prima
+   1101189|35c5e315||Tecla
+   1108637|35fdbf98||Calças ursídeas lendárias
+   1108638|35fdbf99||Calças ursídeas lendárias melhoradas
+   1108639|35fdbf9a||Calças ursídeas lendárias superiores
+   1108640|35fdbf9b||Calças ursídeas lendárias obra-prima
+   1107506|37ccab34||Voltou com sucesso às configurações padrão
+   1109243|37e67cd9||Armadura de lobo lendária melhorada
+   1109244|37e67cda||Armadura de lobo lendária superior
+   1109245|37e67cdb||Armadura de lobo lendária obra-prima
+   1108623|3972483b||Armadura ursídea lendária melhorada
+   1108624|3972483c||Armadura ursídea lendária superior
+   1108625|3972483d||Armadura ursídea lendária obra-prima
+   1108987|397c37a0||Botas felinas lendárias
+   1108988|397c37a1||Botas felinas lendárias melhoradas
+   1108989|397c37a2||Botas felinas lendárias superiores
+   1108990|397c37a3||Botas felinas lendárias obra-prima
+   1101598|3f40ab70||Calças felinas superiores
+   1101599|3f40ab71||Calças felinas obra-prima
+   1108930|402b3487||Espada de prata de grifo lendária
+   1101617|413876b0||Manoplas de grifo superiores
+   1101618|413876b1||Manoplas de grifo obra-prima
+   1103778|43186f1d||[EN] Hours
+   1110908|447d8081||30
+   1110909|447d80de||60
+   1109282|4677abc9||Diagrama: Espada de prata de lobo lendária
+   1106367|46c53be2||Alcance da visibilidade da folhagem
+   1107610|46cb42fc||=
+   1107461|471de117||Voltar às configurações padrão
+   1109002|483cad62||Besta felina lendária
+   1109277|4975ba52||Diagrama: Calças de lobo lendárias
+   1101602|4999b58e||Manoplas felinas superiores
+   1101603|4999b58f||Manoplas felinas obra-prima
+   1108642|4b36faff||Besta ursídea lendária
+   1109227|4baf48cc||Diagrama: Calças de lobo lendárias melhoradas
+   1109228|4baf48cd||Diagrama: Calças de lobo lendárias superiores
+   1109229|4baf48ce||Diagrama: Calças de lobo lendárias obra-prima
+   1108649|4cb18f0e||Diagrama: Espada de prata ursídea lendária
+   1103776|4ce23aeb||[EN] Diagram: Silk
+   1109406|4e49a790||Exibição
+   1102491|4ec338ac||Botas surpreendentemente confortáveis. As garras nos dedos farão você se destacar em meio à multidão.
+   1109021|4f13543f||Diagrama: Espada de aço felina lendária
+   1108939|4f45353f||Espada de aço de grifo lendária melhorada
+   1108940|4f453540||Espada de aço de grifo lendária superior
+   1108941|4f453541||Espada de aço de grifo lendária obra-prima
+   1109409|4fc5c663||720x576
+   1091383|500d45e6||Precisa-se de bruxo!
+   1106069|5141493d||Galopar/Trotar
+   1109242|514e8ee7||Armadura de lobo lendária
+   1108924|5218dd5f||Calças de grifo lendárias
+   1108925|5218dd60||Calças de grifo lendárias melhoradas
+   1108926|5218dd61||Calças de grifo lendárias superiores
+   1108927|5218dd62||Calças de grifo lendárias obra-prima
+   1109045|530e8b7f||Diagrama: Manoplas felinas lendárias melhoradas
+   1109046|530e8b80||Diagrama: Manoplas felinas lendárias superiores
+   1109047|530e8b81||Diagrama: Manoplas felinas lendárias obra-prima
+   1101621|5371c7d2||Diagrama: Botas de grifo superiores
+   1101622|5371c7d3||Diagrama: Botas de grifo obra-prima
+   1107619|54561bb2||Roda do mouse
+   1109224|54db7bf8||Diagrama: Armadura de lobo lendária melhorada
+   1109225|54db7bf9||Diagrama: Armadura de lobo lendária superior
+   1109226|54db7bfa||Diagrama: Armadura de lobo lendária obra-prima
+   1108910|558d6602||Armadura de grifo lendária melhorada
+   1108911|558d6603||Armadura de grifo lendária superior
+   1108912|558d6604||Armadura de grifo lendária obra-prima
+   1106641|5625d6ee||Este jogo foi atualizado. Todas as configurações de usuário foram reiniciadas ao padrão.
+   1108923|563c32d7||Diagrama: Manoplas de grifo lendárias
+   1106120|5700d7e9||Baralho de gwent
+   1104923|5711adb4||Alternar entre Sinais
+   1109003|57b770b0||Diagrama: Besta felina lendária
+   1107617|58e638fe||.
+   1104040|598f936d||[EN] The chosen save is not currently valid. Please load it and resave to proceed.
+   1108896|5a090a64||[EN] Alfred Mauss
+   1105789|5a3c3311||Conjunto de armadura temeriana
+   1106622|5a48d789||Página rasgada: Mutagênico vermelho superior
+   1105790|5a4a4a92||Conjunto de barba e penteado
+   1105791|5a586213||Nova Missão - "Contrato: Mineiros Desaparecidos"
+   1105792|5a667994||Aparência alternativa para a Yennefer
+   1105793|5a749115||Conjunto de armadura nilfgaardiana
+   1105794|5a82a896||Aparência alternativa para a Triss
+   1105795|5a90c017||Nova Missão - "Ouro de Tolo"
+   1105796|5a9ed798||Conjunto de cartas neutras de gwent "Heróis das Baladas"
+   1105797|5aacef19||NOVO JOGO +
+   1109246|5b74eff5||Diagrama: Armadura de lobo lendária
+   1109214|5ba47484||Calças de lobo lendárias
+   1105798|5be2f42f||Nova Missão - "Tradição dos Bruxos: Equipamento da Escola do Lobo"
+   1108935|5bea0807||Diagrama: Espada de prata de grifo lendária melhorada
+   1108936|5bea0808||Diagrama: Espada de prata de grifo lendária superior
+   1108937|5bea0809||Diagrama: Espada de prata de grifo lendária obra-prima
+   1105799|5bf10bb0||Aparência alternativa para a Ciri
+   1105800|5bff2331||Nova Missão - "Contrato: Mais Procurado de Skellige"
+   1105801|5c0d3ab2||Conjunto de besta de elite
+   1105802|5c1b5233||Conjunto de armadura de Skellige
+   1105803|5c2969b4||Nova Missão - "Onde os Gatos e Lobos brincam..."
+   1105804|5c378135||Novas animações de finalização
+   1108967|5d82e1ff||Diagrama: Calças de grifo lendárias melhoradas
+   1108968|5d82e200||Diagrama: Calças de grifo lendárias superiores
+   1108969|5d82e201||Diagrama: Calças de grifo lendárias obra-prima
+   1108992|5ed40d9f||Manoplas felinas lendárias
+   1108993|5ed40da0||Manoplas felinas lendárias melhoradas
+   1108994|5ed40da1||Manoplas felinas lendárias superiores
+   1108995|5ed40da2||Manoplas felinas lendárias obra-prima
+   1107614|601ce217||'
+   1104041|61f0d99d||[EN] Character level too low or game not completed in this save.
+   1092944|63a4a2f5||Cabelo de aparição noturna
+   1104036|651a4149||[EN] There are no saves available to use for a New Game Plus.
+   1105806|667dad9a||Você não tem o seguinte conteúdo para baixar necessário para abrir este jogo salvo
+   1109441|6782ecfd||Modo em janela
+   1109253|67cca6db||Botas de lobo lendárias
+   1109255|67cca6dc||Botas de lobo lendárias melhoradas
+   1109256|67cca6dd||Botas de lobo lendárias superiores
+   1109260|67cca6de||Botas de lobo lendárias obra-prima
+   1108928|69196a7b||Diagrama: Calças de grifo lendárias
+   1105805|6937efd0||Você não tem o seguinte conteúdo para baixar necessário para abrir este jogo salvo
+   1108627|6958723d||Botas ursídeas lendárias
+   1108628|6958723e||Botas ursídeas lendárias melhoradas
+   1108629|6958723f||Botas ursídeas lendárias superiores
+   1108630|69587240||Botas ursídeas lendárias obra-prima
+   1107715|69b7f648||F1
+   1107716|69b7f649||F2
+   1107717|69b7f64a||F3
+   1107718|69b7f64b||F4
+   1107719|69b7f64c||F5
+   1107720|69b7f64d||F6
+   1107721|69b7f64e||F7
+   1107722|69b7f64f||F8
+   1107723|69b7f650||F9
+   1101609|6aa1726a||Diagrama: Botas felinas superiores
+   1101610|6aa1726b||Diagrama: Botas felinas obra-prima
+   1099516|6ba9f2a1||Álcool
+   1101648|6d911aab||Calças de lobo superiores
+   1101653|6d911aac||Calças de lobo obra-prima
+   1101625|6f1ce60d||Calças ursídeas superiores
+   1101637|6f1ce60e||Calças ursídeas obra-prima
+   1108996|70c05abb||Diagrama: Manoplas felinas lendárias
+   1104106|710f8a92||Você desbloqueou a habilidade de iniciar um Novo Jogo +. Para isso, crie um novo jogo salvo, inicie um novo jogo, escolha a opção Novo Jogo + e selecione o jogo salvo do qual deseja importar o seu personagem. Apenas jogos salvos feitos após desbloquear a opção Novo Jogo + podem ser usados para este propósito.
+   1101600|729b5e15||Botas felinas superiores
+   1101601|729b5e16||Botas felinas obra-prima
+   1104042|7326ef5c||[EN] An unknown error occurred while importing save data.
+   1108897|766d842e||[EN] Marcel Kroeber
+   1108906|778670f4||Diagrama: Espada de aço ursídea lendária melhorada
+   1108907|778670f5||Diagrama: Espada de aço ursídea lendária superior
+   1108908|778670f6||Diagrama: Espada de aço ursídea lendária obra-prima
+   1108929|77dfe25b||Diagrama: Espada de aço de grifo lendária
+   1101187|7a1c1281||Configurações de teclado
+   1104919|7ab8ea05||Travar no Alvo
+   1108913|7b18a01e||Diagrama: Armadura de grifo lendária
+   1101619|7bce946d||Diagrama: Calças de grifo superiores
+   1101620|7bce946e||Diagrama: Calças de grifo obra-prima
+   1109334|7c1d1828||[EN] Legendary Viper steel sword
+   1110156|7d49be54||[EN] Plan B
+   1108963|7d7b0925||Diagrama: Armadura de grifo lendária melhorada
+   1108964|7d7b0926||Diagrama: Armadura de grifo lendária superior
+   1108966|7d7b0927||Diagrama: Armadura de grifo lendária obra-prima
+   1102439|8035c2a4||Sensibilidade do mouse (nos menus)
+   1110910|8076ee3d||Ilimitado
+   1110534|8087e1b0||[EN] Trophy hunter
+   1108620|80b9cac9||Armadura ursídea lendária
+   1109272|8169dde0||Diagrama: Manoplas de lobo lendárias
+   1075382|83487b7d||Lobisomens, também conhecidos como licantropos, são pessoas capaz de alterar sua forma para a de um lobo ou um híbrido meio humano, meio lobo. A maioria dos afetados pela licatropia não tem controle total sobre essas transformações. Quando na forma de lobo, eles agem puramente com base no instinto de predador, conduzidos pela fome e cegos para as morais humanas.
+   1108643|84371e0d||Diagrama: Besta ursídea lendária
+   1108914|85739004||Botas de grifo lendárias
+   1108915|85739005||Botas de grifo lendárias melhoradas
+   1108916|85739006||Botas de grifo lendárias superiores
+   1108917|85739007||Botas de grifo lendárias obra-prima
+   1109291|862433c8||Espada de aço de lobo lendária melhorada
+   1109292|862433c9||Espada de aço de lobo lendária superior
+   1109293|862433ca||Espada de aço de lobo lendária obra-prima
+   1100439|867ab9d9||Mapa bem preservado
+   1100441|867ab9da||Mapa levemente rasgado
+   1104865|867ab9f9||Mapa de pano muito borrado
+   1104866|867aba18||Mapa de pano em ótimas condições
+   1109279|87310d10||Espada de prata de lobo lendária melhorada
+   1109280|87310d11||Espada de prata de lobo lendária superior
+   1109281|87310d12||Espada de prata de lobo lendária obra-prima
+   1109283|873be93b||Diagrama: Espada de prata de lobo lendária melhorada
+   1109284|873be93c||Diagrama: Espada de prata de lobo lendária superior
+   1109289|873be93d||Diagrama: Espada de prata de lobo lendária obra-prima
+   1106106|8790195c||Inventário
+   1092301|8c75af9f||Para Gerahlt de Révia:<br><<bk_texture_mq1058_girls_drawing>>
+   1109440|8df0f78c||2560x1440
+   1106093|8e655d51||Sinais - Yrden
+   1104914|8fb89d65||Alternar Acelerar
+   1109442|9040fcb3||Janela sem contornos
+   1102492|907db547||Arquivos salvos indisponíveis
+   1109213|90c38de6||Manoplas de lobo lendárias
+   1108919|91c7c1bb||Manoplas de grifo lendárias
+   1108920|91c7c1bc||Manoplas de grifo lendárias melhoradas
+   1108921|91c7c1bd||Manoplas de grifo lendárias superiores
+   1108922|91c7c1be||Manoplas de grifo lendárias obra-prima
+   1101604|92fe3f05||Diagrama: Calças felinas superiores
+   1101608|92fe3f06||Diagrama: Calças felinas obra-prima
+   1109001|933eb617||Diagrama: Calças felinas lendárias
+   1101611|938df52d||Diagrama: Manoplas felinas superiores
+   1101612|938df52e||Diagrama: Manoplas felinas obra-prima
+   1106105|9397656e||Personagem
+   1109020|93c5e7b1||Espada de aço felina lendária
+   1105867|950b665d||Jogos salvos criados com esta versão do jogo são incompatíveis com versões anteriores do jogo.
+   1102051|9615a0a1||Botão esquerdo do mouse
+   1108641|963903b4||Diagrama: Calças ursídeas lendárias
+   1107616|96d093f8||,
+   1101644|97211fc7||Diagrama: Botas ursídeas superiores
+   1101645|97211fc8||Diagrama: Botas ursídeas obra-prima
+   1107564|975ac993||-
+   1107618|97b082a0||/
+   1102490|97b582f2||Botas de couro de nekker
+   1107562|97bd647b||`
+   1102569|98ca5985||Tempo total de jogo
+   1109231|9d7d4d3a||Número de Personagens de Fundo
+   1109407|9f80dab6||Resolução
+   1101654|a0ebcd50||Botas de lobo superiores
+   1101655|a0ebcd51||Botas de lobo obra-prima
+   1101613|a2143e0e||Calças de grifo superiores
+   1101614|a2143e0f||Calças de grifo obra-prima
+   1109042|a25b45b6||Diagrama: Botas felinas lendárias melhoradas
+   1109043|a25b45b7||Diagrama: Botas felinas lendárias superiores
+   1109044|a25b45b8||Diagrama: Botas felinas lendárias obra-prima
+   1101638|a27798b2||Botas ursídeas superiores
+   1101639|a27798b3||Botas ursídeas obra-prima
+   1108986|a53debba||Diagrama: Armadura felina lendária
+   1109261|a819f7f7||Diagrama: Botas de lobo lendárias
+   1108626|a8383957||Diagrama: Armadura ursídea lendária
+   1101190|a981389a||Pressione a tecla à qual gostaria de vincular:
+   1092302|aa5b822c||Carta para Gaetan
+   1106117|ab64af37||Missões
+   1106617|acbde652||Mutagênico verde superior
+   1108905|ad02cdc2||Diagrama: Espada de aço ursídea lendária
+   1105866|b654820b||Jogos salvos criados com esta versão do jogo são incompatíveis com versões anteriores do jogo.
+   1108973|b68489c2||Diagrama: Manoplas ursídeas lendárias melhoradas
+   1108974|b68489c3||Diagrama: Manoplas ursídeas lendárias superiores
+   1108975|b68489c4||Diagrama: Manoplas ursídeas lendárias obra-prima
+   1109048|b6ebe313||Diagrama: Armadura felina lendária melhorada
+   1109049|b6ebe314||Diagrama: Armadura felina lendária superior
+   1109050|b6ebe315||Diagrama: Armadura felina lendária obra-prima
+   1107415|b7af1a38||Você pode usar barcos para atravessar corpos de água.
+   1109027|b9eacb23||Espada de aço felina lendária melhorada
+   1109028|b9eacb24||Espada de aço felina lendária superior
+   1109029|b9eacb25||Espada de aço felina lendária obra-prima
+   1092303|bd0bf760||Gaetan,<br><br>Acabou. Soldados tomaram a escola. Eles mataram Axel e Cedric. Quanto a Schrödinger, bem, eu não sei dizer ao certo. Ele pode estar vivo ou morto. Recompensas foram oferecidas pela sua cabeça e pela minha. Evite cidades e estradas. Não atraia atenção.<br><br>-Joël
+   1101642|bf7dec62||Diagrama: Calças ursídeas superiores
+   1101643|bf7dec63||Diagrama: Calças ursídeas obra-prima
+   1092299|c1c15e8d||Cartão de agradecimento
+   1106078|c3669d60||Parar
+   1101623|c4c84cc5||Diagrama: Manoplas de grifo superiores
+   1101624|c4c84cc6||Diagrama: Manoplas de grifo obra-prima
+   1103843|c5784d99||Medalhão da Escola do Gato
+   1109212|c6c10041||Armadura de lobo lendária
+   1104043|c76954c9||[EN] Save could not be loaded due to incomplete game content.
+   1108918|c7bda820||Diagrama: Botas de grifo lendárias
+   1109051|cab81251||Diagrama: Calças felinas lendárias melhoradas
+   1109052|cab81252||Diagrama: Calças felinas lendárias superiores
+   1109053|cab81253||Diagrama: Calças felinas lendárias obra-prima
+   1090228|cc124271||Florka
+   1109005|cc3d6115||Espada de prata felina lendária melhorada
+   1109006|cc3d6116||Espada de prata felina lendária superior
+   1109011|cc3d6117||Espada de prata felina lendária obra-prima
+   1108636|cd0fc0be||Diagrama: Manoplas ursídeas lendárias
+   1107724|cd46d2e8||F10
+   1107725|cd46d2e9||F11
+   1107726|cd46d2ea||F12
+   1092304|ceca3a32||Carta escrita por alguém não acostumado a segurar uma pena.
+   1108970|cedaf313||Diagrama: Botas ursídeas lendárias melhoradas
+   1108971|cedaf314||Diagrama: Botas ursídeas lendárias superiores
+   1108972|cedaf315||Diagrama: Botas ursídeas lendárias obra-prima
+   1101191|d03e0a6d||foi desvinculada.
+   1109408|d3c3ace8||Modo de Exibição
+   1106082|d54bee68||Sacar Espada de Prata
+   1106619|d56ca54e||Página rasgada: Mutagênico vermelho
+   1101615|d56ef0b3||Botas de grifo superiores
+   1101616|d56ef0b4||Botas de grifo obra-prima
+   1104035|d65dcc27||[EN] New Game Plus
+   1108617|d65f831f||teste
+   1109034|d78f4c31||Diagrama: Espada de aço felina lendária melhorada
+   1109035|d78f4c32||Diagrama: Espada de aço felina lendária superior
+   1109041|d78f4c33||Diagrama: Espada de aço felina lendária obra-prima
+   1062564|d7dd1caa||Patrulha desaparecida - Recompensa
+   1106621|d820db3d||Página rasgada: Mutagênico azul
+   1106077|dacadae9||Desmontar
+   1100442|db0c3789||Mapa úmido e mofado
+   1100443|db0c378a||Mapa gasto e desbotado
+   1107609|db981db5||Nada
+   1103779|dc99f96d||[EN] Minutes
+   1108646|dcbc44f2||Espada de prata ursídea lendária melhorada
+   1108647|dcbc44f3||Espada de prata ursídea lendária superior
+   1108648|dcbc44f4||Espada de prata ursídea lendária obra-prima
+   1108934|dd770d95||Diagrama: Espada de prata de grifo lendária
+   1078009|dfefb296||Chave do esconderijo do katakan
+   1102057|e035d313||Botão do meio do mouse
+   1106118|e0ae4a1e||Glossário
+   1108931|e2303a79||Espada de prata de grifo lendária melhorada
+   1108932|e2303a7a||Espada de prata de grifo lendária superior
+   1108933|e2303a7b||Espada de prata de grifo lendária obra-prima
+   1101656|e5572db3||Manoplas de lobo superiores
+   1101657|e5572db4||Manoplas de lobo obra-prima
+   1104920|e65bd07f||Modificar Tipo de Ataque
+   1108651|e68a0f40||Diagrama: Espada de prata ursídea lendária melhorada
+   1108652|e68a0f41||Diagrama: Espada de prata ursídea lendária superior
+   1108653|e68a0f42||Diagrama: Espada de prata ursídea lendária obra-prima
+   1107416|e72b5002||As mesas dos Armeiros fornecem ao seu equipamento uma melhoria de Armadura por tempo limitado.
+   1107462|e8384175||Voltar todas as opções às configurações padrão
+   1107417|e88df9f3||Você pode contratar os serviços de uma prostituta aqui.
+   1106623|eadc0ffb||Página rasgada: Mutagênico verde superior
+   1101662|eb98a8e5||Diagrama: Botas de lobo superiores
+   1101663|eb98a8e6||Diagrama: Botas de lobo obra-prima
+   1092300|ec388dc7||Presente de uma jovem garota agradecida.
+   1109295|ec67d1f3||Diagrama: Espada de aço de lobo lendária melhorada
+   1109296|ec67d1f4||Diagrama: Espada de aço de lobo lendária superior
+   1109308|ec67d1f5||Diagrama: Espada de aço de lobo lendária obra-prima
+   1109012|ecb1d831||Diagrama: Espada de prata felina lendária
+   1106624|eecaf062||Página rasgada: Mutagênico azul superior
+   1099517|efb1f4c5||Elixires
+   1109219|f0fe2464||Diagrama: Manoplas de lobo lendárias melhoradas
+   1109220|f0fe2465||Diagrama: Manoplas de lobo lendárias superiores
+   1109223|f0fe2466||Diagrama: Manoplas de lobo lendárias obra-prima
+   1110452|f1838f72||Tem certeza de que deseja fazer estas mudanças?
+   1108991|f1e2f3bc||Diagrama: Botas felinas lendárias
+   1106707|f3f5fddc||O jogo salvo não pode ser carregado porque foi feito usando uma versão mais nova do jogo.
+   1108655|f44177a6||Espada de aço ursídea lendária melhorada
+   1108656|f44177a7||Espada de aço ursídea lendária superior
+   1108657|f44177a8||Espada de aço ursídea lendária obra-prima
+   1108631|f4dd4159||Diagrama: Botas ursídeas lendárias
+   1104915|f50ceca4||DESIGN DE WEB TERCEIRIZADO
+   1101646|f703f370||Diagrama: Manoplas ursídeas superiores
+   1101647|f703f371||Diagrama: Manoplas ursídeas obra-prima
+   1108979|f737bfae||Diagrama: Calças ursídeas lendárias melhoradas
+   1108980|f737bfaf||Diagrama: Calças ursídeas lendárias superiores
+   1108981|f737bfb0||Diagrama: Calças ursídeas lendárias obra-prima
+   1109278|f79dc0de||Espada de prata de lobo lendária
+   1110453|f8d17716||Você deve reiniciar o jogo para que estas mudanças tenham efeito.
+   1109004|f9495223||Espada de prata felina lendária
+   1109268|fa9185c4||Manoplas de lobo lendárias
+   1109269|fa9185c5||Manoplas de lobo lendárias melhoradas
+   1109270|fa9185c6||Manoplas de lobo lendárias superiores
+   1109271|fa9185c7||Manoplas de lobo lendárias obra-prima
+   1110797|fb2cd197||REPRESENTANTE JÚNIOR DE SERVIÇOS AO CONSUMIDOR
+   1100128|fc14eac1||Ordenar itens
+   1091384|fc6177e6||Eu, o autor desse aviso, busco a ajuda de um bruxo. O trabalho ofertado é difícil, sim, mas para um bruxo, deve ser algo fácil. Pagarei bem. Não há tempo para mais delongas. Quaisquer bruxos interessados, me procurem do lado de fora da estalagem em Fyresdal.<br><br>Uggo, filho de Olaf
+   1108942|ff70c34d||Diagrama: Espada de aço de grifo lendária melhorada
+   1108943|ff70c34e||Diagrama: Espada de aço de grifo lendária superior
+   1108944|ff70c34f||Diagrama: Espada de aço de grifo lendária obra-prima
+   1104918|ffe663a0||Alternar Caminhar/Correr
+    480852|00000000||A julgar por o que o Kluhg disse, o pacote deve estar no fundo desta área. A menos que o coitado tenha se enganado. Ele anda meio esquecido desde o interrogatório com Menge. Aparentemente também criou um complexo de perseguição.
+   1020534|00000000||"Moribundia: A Última Aparência do Vampiro".
+   1020536|00000000||"As Alegre Aventuras de Muriel a Adorável Meretriz, Decorado com Gravuras Engraçadas".
+   1020537|00000000||"O Tratamento de Furúnculos Através da Cauterização: Um Estudo".
+   1066771|00000000||Bem-vindo, honrado cavalheiro. Lâminas, tesouras, facas, todas recém-afiadas.
+   1077548|00000000||Droga!
+    421762|00000000||Gostaria de ver seus outros itens.
+    496987|00000000||Poderia falar com o filho de Tordar, Einar. Ele viu Morkvarg e os seus homens atacarem o jardim. Por mais triste que seja, ele foi o único peregrino a escapar com vida naquele dia.
+   1036621|00000000||"Grimório Omni-abertura de Gottfried". É este!
+   1037490|00000000||"Grimório Omni-abertura de Gottfried". É um tratado.
+   1042300|00000000||Então precisa achar o "Grimório Omni-abertura de Gottfried".

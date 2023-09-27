@@ -1,0 +1,405 @@
+;meta[language=pl]
+; id      |key(hex)|key(str)| text
+    575260|00000000||Wolę sam się tym zająć.
+    575770|00000000||Wątpię. Dziki Gon to nie temerscy tarczownicy albo łucznicy z Lyrii.
+    575219|00000000||Wydanie mu bitwy tutaj, naraziłoby to całą Wyzimę, setki niewinnych istnień.
+    575777|00000000||Kaer Morhen jest na odludziu. I tam twoje wojsko bardziej by nam pomogło.
+    575778|00000000||Hmm... Zgoda. Poślę z tobą chorągiew. Ale mam warunek - dowodził będzie generał Voorhis.
+    575780|00000000||Nie mogę się na to zgodzić.
+    575820|00000000||A ja nie oddam wojska pod dowództwo wiedźminowi.
+    575821|00000000||W takim razie zdaje się, że nie dojdziemy do porozumienia.
+    575826|00000000||Wybacz, Wasza Wysokość, że zająłem twój czas.
+    575839|00000000||Przyprowadź mi Ciri.
+    575841|00000000||Tak... O ile się zgodzi.
+    575679|00000000||Nie wątpię - gdyby chodziło o zwykłych wrogów. Ale Dziki Gon to co innego.
+    575259|00000000||Nie wątpię.
+   1062496|00000000||Wasza cesarska mość.
+   1062499|00000000||Wiedźminie. Co cię sprowadza?
+    554325|00000000||Udało mi się ustalić, gdzie jest Ciri.
+    575193|00000000||Nareszcie. Już zaczynałem wątpić, czy dobrze zrobiłem zwracając się do ciebie. Przywieź ją niezwłocznie.
+    575194|00000000||Ściga ją Dziki Gon, bezpieczna będzie tylko w Kaer Morhen.
+    554326|00000000||To nie była propozycja, tylko polecenie. Potrafię bronić własnej córki.
+    446004|00000000||Coś zaatakowało ich znienacka. Nie mieli większych szans.
+    446006|00000000||Widać spore wgniecenia... To musiło być coś dużego.
+   1060566|00000000||Świetlik zatrzymał się przy chatce. Muszę tam zajrzeć.
+    446002|00000000||Ciało jest jeszcze ciepłe, a krew nie zdążyła zaschnąć...
+    559458|05cea138||Bies
+   1058289|0a09c08e||Wodnica
+    560503|00000000||Nikogo więcej nie znalazłem. Gaspard mówi, że nie żyją.
+    560548|00000000||Dlaczego ci przykro?
+    581386|00000000||O co chodzi?
+    554320|00000000||Jest zimna i leży bez ducha.
+    554321|00000000||Musiała umrzeć krótko przed naszym przybyciem.
+    581369|00000000||Zaczekajmy przy łodzi.
+    584305|00000000||Jest zimna i leży bez ducha. Nic nie mogliśmy zrobić.
+    584307|00000000||Zaczekajmy przy łodzi.
+    560549|00000000||Z drogi.
+    560547|00000000||Odsuńcie się.
+    560553|00000000||Ech. Wszystko nie tak. Co my teraz poczniemy?
+    560554|00000000||Możecie wrócić ze mną, mam tu łódź, ale najpierw muszę kogoś znaleźć.
+    560555|00000000||Szarowłosą dziewuszkę?
+    581382|00000000||Tak.
+    581384|00000000||Przykro mi.
+    560504|00000000||Dziękuję za pomoc. I przepraszam, że ci nie ufałem.
+    560501|00000000||Drugi na moich oczach spadł ze skały i złamał sobie kark.
+    560502|00000000||Cholera. Rabenick kazał mi pilnować tę pierdołę. To był jego siostrzeniec.
+    560488|00000000||Jednego znalazłem w pobliżu legowiska potwora. Niestety, był już martwy.
+    554315|00000000||Gaspard! Ha! Coś ty taki niewyraźny?!
+    560411|00000000||E tam, zaraz niewyraźny. Niewyspany jestem.
+    560412|00000000||Co z pozostałymi?
+    560302|00000000||Przyjaciele prosili, bym odnalazł ciebie, Ferenca i Ivo.
+    560303|00000000||Niestety, oni już nie żyją. Widziałem, jak Ivo osaczają potwory, a Ferenc... słyszałem jego przeraźliwy wrzask, a potem ryk potowra.
+    560304|00000000||Wracajmy do chaty. Będę cię chronił po drodze.
+    560305|00000000||Szkoda chłopaków, ale cóż zrobić... Chodźmy.
+    584233|00000000||Tylko muszę cię uprzedzić, że cierpię na narkolepsję, to znaczy...
+    560306|00000000||Wiem, co to narkolepsja. Będę cię budził.
+    576082|00000000||No, to w drogę...
+    560277|00000000||Twoi przyjaciele kazali mi Cię odnaleźć.
+    560300|00000000||Widziałeś może młodą, szarowłosą dziewczynę?
+    560301|00000000||Tutaj? Nie, nie widziałem.
+    575966|00000000||Dużo mnie omija, bo często śpię.
+    560276|00000000||Szukam szarowłosej dziewczyny.
+    560311|00000000||Chcę się tu trochę rozejrzeć, a potem wrócę i zabiorę cię do przyjaciół. Chyba, że chcesz iść ze mną?
+    560312|00000000||Tylko bym ci przeszkadzał. Wiesz, narkolepsja...
+    576086|00000000||To miejsce wygląda na bezpieczne. Po prostu wróć, gdy się rozejrzysz. Tylko pośpiesz się, proszę.
+   1062217|00000000||Chcę się rozejrzeć po wyspie, ale wrócę po ciebie.
+    560275|00000000||Kim wy w ogóle jesteście?
+    560296|00000000||Kim wy w ogóle jesteście?
+    560297|00000000||Rabenick i Wspólnicy. Wycena nieruchomości, ubezpieczenia, organiacja imprez masowych.
+    560298|00000000||Ja nazywam się Gaspard Sutter, dla przyjaciół Śpioch.
+    575985|00000000||Spałem nawet podczas tamtej burzy.
+    584230|00000000||Szkoda, że tylu zginęło...
+    560254|00000000||Hej, wstawaj.
+    560255|00000000||Sio... Do budy, Mruczek...
+    560256|00000000||Wstawaj!
+    560257|00000000||Co się dzieje?
+    575945|00000000||Coś ty za jeden?
+    560258|00000000||Jestem Geralt.
+    560313|00000000||Co tam?
+    560203|00000000||Hm. Ciekawe, jak tu trafił.
+   1075759|00000000||Uciekał przed biesem. Za wolno.
+    560202|00000000||Jeden z trzech zaginionych. Szkoda, że nie żyje.
+    560213|00000000||Zejdź do mnie!
+    560218|00000000||Dobra! Już schodzę!
+    576155|00000000||A to ci dopiero.
+    560230|00000000||Wiesz, żałuję tylko jednego...
+    584217|00000000||Aaa!
+    560232|00000000||Nie żyje.
+    560233|00000000||Zaraza.
+    560212|00000000||Spotkałem twoich przyjaciół! Chodź!
+    560208|00000000||Człowiek! Ha! Nawet nie wiesz, jak się cieszę!
+    582064|00000000||Tutaj! Tutaj jestem!
+    582066|00000000||Słyszysz mnie?! Tutaj!
+   1062052|00000000||Znam twoją historię. Powiedz, co robiłaś tutaj.
+   1062057|00000000||A jak w końcu tu dotarłaś? Co się działo?
+   1062059|00000000||Ostatnie, co pamiętam, to jak kłóciliśmy się z Avallac'hem na brzegu. Powiedział, że zabiera mnie w bezpieczne miejsce.
+   1062061|00000000||Potem były już tylko sny.
+    580354|00000000||Resztę już znam.
+    580522|00000000||Resztę już znam.
+    580385|00000000||Resztę już znam.
+   1062535|00000000||Resztę już znam.
+    580636|00000000||Hmm... Zdaje się, że resztę już znam.
+    580639|00000000||Powinniśmy się zbierać.
+    580547|00000000||Chodźmy, czas na nas.
+    580608|00000000||Nie tym razem.
+    580610|00000000||Chodź, zbierajmy się, długa droga przed nami.
+    554286|00000000||Musimy iść, Dziki Gon może nas odnaleźć.
+    580615|00000000||Czeka w Kaer Morhen, razem z innymi.
+    580622|00000000||Odczarowaliście go?
+    580624|00000000||Tak, opowiem ci po drodze.
+   1062053|00000000||Musimy iść.
+    580253|00000000||Musimy ruszać.
+    584980|00000000||Powinniśmy się zbierać.
+    585026|00000000||Powinniśmy się zbierać.
+    580197|00000000||Musimy ruszać.
+    580650|00000000||Powinniśmy się zbierać.
+    586674|00000000||Zaraza...
+    586676|00000000||Słuchaj, musimy coś wymyślić, żeby wró….
+    586679|00000000||Zabierz nas stąd.
+    586681|00000000||Będą wiedzieli gdzie jesteśmy, będą wiedzieli, jak mnie znaleźć!
+    586684|00000000||Już to wiedzą.
+    586688|00000000||Ciri, zabierz nas do domu.
+    580612|00000000||Na brzegu czeka łódka, a potem musimy dotrzeć do Kaer Morhen. Konno.
+    580614|00000000||Racja, lepiej podróżować w konwencjonalny sposób.
+    585074|00000000||Chociaż przez portal byłoby szybciej...
+    585076|00000000||To w mgnieniu oka ściągnie Eredina, wolę nie ryzykować.
+    585078|00000000||Poza tym nie cierpię portali.
+    580550|00000000||Ja się bałem, że nie żyjesz.
+    580555|00000000||Spotkałem tu kilku kranosludów, którzy próbowali cię obudzić. Mówili, że jesteś lodowata i nie oddychasz.
+    580580|00000000||A jednak przyszedłeś.
+    580583|00000000||Kto by tam słuchał kranoludów.
+    580588|00000000||A'propos - pewnie już się niecierpliwią. Zbierajmy się.
+    580546|00000000||Bałem się, że nie żyjesz.
+    585028|00000000||Znasz tę wieżę? Wiesz, gdzie jest?
+    585030|00000000||Nie wiem... Wydaje mi się, że nie, ale z drugiej strony było w niej coś znajomego... I przerażającego.
+    585031|00000000||Była surowa i martwa, ale jednocześnie czułam, że muszę wejść do środka.
+    585035|00000000||Udało ci się?
+    585037|00000000||Nie, zawsze kończyło się na poszukiwaniu wejścia.
+    585038|00000000||A ostatnim razem, zamiast wieży, zobaczyłam twój siwy łeb.
+    585043|00000000||Gdyby nie ta blizna nad okiem, myślałabym, że to dalej sen.
+    585025|00000000||Znasz to miejsce?
+    584982|00000000||Co ci się śniło? Bo ja miałem ostatnio same koszmary...
+    585006|00000000||Ja w większości też... W jednym czaił się na ciebie stwór, który wyrósł z martwego dziecka.
+    585008|00000000||Uch, to było okropne...
+    585010|00000000||Ale były też miłe rzeczy - na przykład siedzieliśmy przy ognisku i piliśmy dobre wino, a wszędzie wokół ludzie tańczyli i śmiali się.
+    585012|00000000||To podoba mi się znacznie bardziej.
+    585023|00000000||Mnie też. Ale i tak zawsze wszystko kończyło się w jakiejś wieży. O czym bym nie śniła, w końcu zawsze i tak wchodziłam do wieży...
+    584979|00000000||Co ci się śniło?
+    584955|00000000||I wtedy przeniosłaś się na Skellige.
+    580497|00000000||Wybrzeże Hindarsfjall to było pierwsze przyjemne miejsce, jakie mi przyszło do głowy. Kiedyś pływałam tam z Hjalmarem.
+    580525|00000000||Czyli to w zasadzie był przypadek, że tam wylądowałaś? Myślałem, że się tam umówiliście z Avallac'hem.
+    580527|00000000||Nie, on po prostu poczuł, że użyłam mocy. Na takiej samej zasadzie Eredin potrafi wyczuwać, gdzie jestem.
+    580539|00000000||Zresztą, właśnie dlatego niedługo potem pojawił się tam ze swoimi Jeźdźcami...
+    580541|00000000||I znowu wszystko potoczyło się szybko: Lofoten, atak Gonu, ucieczka... Następne, co pamiętam, to sny. Tylko sny.
+    580523|00000000||Padło na Skellige.
+    585045|00000000||Przeczucie cię nie zawiodło. Skurwiel to nie był najlepszy materiał na wspólnika.
+    584945|00000000||To ten cholerny prostak ubzdurał sobie, że go oszukaliśmy i porwał Dudu.
+    580476|00000000||A wy go odbiliście i uciekliście na Wyspę Świątynną. Świetny pomysł.
+    580487|00000000||Nie było czasu się zastanawiać, po prostu wialiśmy przed siebie.
+    580496|00000000||Nawet się nie zorientowałam, kiedy strażnicy zapędzili mnie w kozi róg. Wiedziałam, że muszę zniknąć. Natychmiast.
+   1062534|00000000||Junior w końcu was oszukał.
+    580401|00000000||To jak to się stało, że trafiłaś do Juniora?
+   1062523|00000000||Nie mogłam was znaleźć, a potrzebowałam kogoś, kto byłby w stanie naprawić filakterium.
+    580446|00000000||Zwykli rzemieślnicy nie wchodzili w grę. To musiał być ktoś, kto włada silną magią.
+   1062786|00000000||Jaskier wziął sobie za punkt honoru, żeby mi pomóc. Zorganizował spotkanie z jakimś czarodziejem, ale okazało się, że to pułapka straży świątynnej.
+   1062788|00000000||Nic mi o tym nie mówił.
+   1062790|00000000||Pewnie nie chciał cię denerwować. Potem się dowiedzieliśmy, że straż regularnie urządzała takie prowokacje, żeby złapać  kolaborujących z czarodziejami.
+   1062792|00000000||Stało się oczywiste, że musimy znaleźć inny sposób.
+   1062525|00000000||Wtedy Jaskier powiedział, że jest w Novigradzie człowiek, który może więcej niż inni. I na pewno ma dojście do kogoś, kto może naprawić filakterium.
+   1062527|00000000||Skurwiel Junior.
+    580448|00000000||Mhm. Czułam, że to nie jest najlepszy pomysł, ale byłam zdesperowana. Nie miałam wyboru.
+    580386|00000000||Jak trafiłaś do Skurwiela Juniora?
+    584814|00000000||Ale nie udało wam się spotkać...
+    580369|00000000||Nie. Przeszłam przez portal i zamiast do kryjówki Avallac'ha wpadłam w sam środek Krzywuchowych Moczarów.
+    580375|00000000||Ledwie uciekłam od wiedźm... A potem był Baron.
+   1062585|00000000||Wiesz, że wziął mnie na polowanie? I ubiłam dzika mieczem?
+   1062587|00000000||Słyszałem.
+   1062589|00000000||W sumie to był przypadek. Tego dnia w ogóle nie chciało mi się jechać na to polowanie, ale głupio mi było odmówić.
+   1062595|00000000||Nie wzięłam żadnej sensownej broni, bo nie miałam zamiaru jej używać.
+   1062597|00000000||Chodziłam tylko po lesie i oddychałam świeżym powietrzem, aż nagle usłyszałam dziwny dźwięk.
+   1062599|00000000||Dzik cię zaatakował?
+   1062601|00000000||Mhm. Był wielki jak tur i szarżował prosto na mnie. A ja miałam tylko miecz. Musiałam sobie jakoś radzić.
+   1062603|00000000||I świetnie ci poszło. Ludzie Barona do dziś to wspominają.
+   1062772|00000000||To byli prości żołnierze, ale dobrze się z nimi dogadywałam. Szkoda, że musiałam stamtąd uciekać, ale nie chciałam im ściągać na głowy Dzikiego Gonu.
+    580379|00000000||Poza tym wiedziałam, że klątwa postępuje, więc zamiast szukać Avallac'ha, postanowiłam znaleźć ciebie i Yen.
+    580365|00000000||Wiem, szedłem waszym śladem.
+    554304|00000000||Tak czy siak umówiliśmy się, że gdyby coś poszło nie tak, spotkamy się w jego kryjówce w Velen.
+   1062062|00000000||No to opowiedz mi, jak to było. Po kolei.
+   1056958|00000000||Jak tylko pojawiliśmy się na Ard Skellig, Eredin od razu nas namierzył. Jego jeźdźcy nas osaczyli. Myślałam, że to koniec.
+   1056962|00000000||Ale okazało się, że Eredin ma inny plan. Wyciągnął filakterium i odkorkował je. Nagle wszystko spowiła mgła, a Avallac'h zaczął się dusić.
+   1056968|00000000||To wtedy Eredin rzucił klątwę, która zamieniła Avallac'ha w Umę?
+   1056966|00000000||Wtedy. Nie chciał go zabijać, tylko upokorzyć. Ale Avallac'h nie poddał się bez walki. Rzucił zaklęcie, które spusztoszyło szeregi żołnierzy Gonu.
+   1058674|00000000||I przy okazji połowę lasu na Ard Skellig.
+   1058676|00000000||Ale też dało nam czas na ucieczkę. Avallac'h otworzył portal, skoczyłam. Miał być tuż za mną, ale chyba przez tę klątwę coś poszło nie tak i... Nie zdążył.
+   1062042|00000000||Opowiedz mi, jak to było - wszystko po kolei.
+    554299|00000000||W takim razie po co wracałaś?
+    554300|00000000||Myślałam, że Dziki Gon zgubił mój trop na dobre, że jest już bezpiecznie.
+   1062032|00000000||Poza tym... chciałam was odnaleźć. Ciebie i Yennefer.
+    586669|00000000||Ty szukałaś nas, a my ciebie... Czasem wydawało mi się, że jestem o krok, a innym razem, że kręcę się w kółko.
+   1062044|00000000||Nie dziwię się. Często po prostu gnałam na oślep.
+    580254|00000000||To dlaczego wróciłaś?
+    580718|00000000||Co to był za świat?
+    580758|00000000||Co to był za świat? Ten, w którym Eredin nie mógł was znaleźć?
+    580934|00000000||Nie uwierzyłbyś, gdybym ci powiedziała.
+    580936|00000000||Spróbuj.
+    580937|00000000||Ludzie stamtąd mieli w głowach metal, a wojny prowadzili na odległość, przy pomocy czegoś w rodzaju megaskopów.
+    580938|00000000||No i nikt nie jeździł konno, za to każdy miał mały statek powietrzny.
+    580943|00000000||Ciri... Nie zgrywaj się.
+    581004|00000000||Mówiłam, że nie uwierzysz.
+    581008|00000000||Ech, trzeba było tam zostać...
+    580200|00000000||Jak to się w ogóle stało, że zaczęłaś podróżować z Avallac'hem?
+    580209|00000000||Odkąd zostawiłam ciebie i Yen na Wyspie Jabłoni, Eredin i jego Czerwoni Jeźdźcy cały czas deptali mi po piętach.
+    580210|00000000||Uciekałam przez różne światy, aż raz prawie mnie dopadli. Wtedy, kompletnie znikąd, zjawił się Avallac'h.
+    580237|00000000||Odnalazł portal i przeniósł nas do świata, w którym Eredin nie mógł nas wytropić chyba z pół roku.
+    580198|00000000||Jak się zaczęła wasza podróż z Avallac'hem?
+    584783|00000000||O co chodzi Eredinowi? Czego on od ciebie chce?
+   1062006|00000000||Tego, co wszyscy - mojej mocy.
+    584779|00000000||Jego światu grozi zagłada i Eredin wpadł na genialny pomysł, że najedzie nasz.
+   1062010|00000000||Ale sam oczywiście nic nie wskóra - potrzebuje armii.
+   1062012|00000000||Tyle, że przedostanie się tu razem z tysiącami innych Aen Elle przerasta możliwości jego nawigatorów.
+   1062014|00000000||Za to nie przerasta twoich...
+   1062024|00000000||Właśnie. A jeśli przy tym zginę - cóż, wliczy to w koszty.
+    580652|00000000||Czego chce od ciebie Eredin?
+    584754|00000000||Czemu Avallac'h ci pomaga?
+    584757|00000000||Czemu właściwie Avallac'h ci pomaga? Wiedzący raczej nie przepadają za ludźmi...
+    584768|00000000||Tu nie chodzi o mnie, tylko o moją moc.
+    584770|00000000||Zresztą, o co innego mogłoby chodzić.
+    584771|00000000||Avallac'h uczył mnie ją kontrolować. I pilnował, żebym nie wpadła w ręce Eredina.
+    554293|00000000||Zdjęliśmy z niego klątwę. Jest w Kaer Morhen i czeka na ciebie.
+    580195|00000000||Żartujesz? Nie, nie żartowałbyś z czegoś takiego... Ha! Miły prezent po przebudzeniu.
+   1062001|00000000||Ufasz mu?
+   1062003|00000000||Avallac'howi? Jeszcze nigdy mnie nie zawiódł.
+    554287|00000000||Odczarowaliśmy go, jest w Kaer Morhen.
+   1072012|00000000||Widzę, że nauki Vesemira nie poszły w las.
+   1072014|00000000||"Wiedźmin może zapomnieć o jedzeniu, o piciu, nawet o oddychaniu, ale nigdy, przenigdy nie może zapomnieć o swoim mieczu".
+   1072019|00000000||Ech, tak, powtarzał to bez przerwy... I nigdy mu się nie nudziło.
+    577018|00000000||Co to było za stworzenie?
+    577020|00000000||Co? Jakie stworzenie?
+    577022|00000000||To, które zostawiło ci tę bliznę nad lewym okiem. Jest nowa, nie pamiętam jej.
+    577027|00000000||To pamiątka po kuroliszku ze Spalli. A blizna... Cóż, kolejna do kolekcji, nie ma o czym mówić.
+    577030|00000000||Za to ta twoja to całkiem ładnie się zagoiła.
+    577031|00000000||Avallac'h zrobił dla mnie specjalne maści.
+    580181|00000000||Ale to było zanim spadła na niego klątwa... Ciekawe, gdzie teraz jest.
+    580367|00000000||Ty trafiłaś do wiedźm i Barona, a on do Keiry.
+    584801|00000000||Do Keiry? Keiry Metz? A co ona robi w Velen?
+    585051|00000000||Nic... Zupełnie nic... Mów dalej.
+    585046|00000000||Nic, mów dalej.
+    585059|00000000||Hmm... Niech pomyślę... Jest gadatliwy i histeryczny, a odwagi ma tyle, co zając.
+    585061|00000000||Idealny kandydat na wspólnika do skoku stulecia.
+    585047|00000000||Jest stworzony do innych rzeczy.
+    580458|00000000||I padło na Jaskra. To dobry przyjaciel... Ale w tym przypadku chyba niekoniecznie trafny wybór.
+    580459|00000000||Najlepszy, jaki miałam. Zresztą, co ty masz do Jaskra?
+    580452|00000000||Wtedy znalazłaś Jaskra.
+    580451|00000000||Resztę już znam.
+    584805|00000000||Ukrywa się przed prześladowaniami.
+    584802|00000000||Ukrywa się.
+    584818|00000000||Zasmakowało jej życie na wsi i otworzyła praktykę magiczną.
+    584820|00000000||Taa, i pewnie co rano chodzi pasać krowy, a potem własnoręcznie je doi. To byłby widok!
+    584822|00000000||Byłby, gdyby miała krowy. W Velen to luksus, który przyciąga uwagę, a Keirze teraz wyjątkowo na tym nie zależy.
+    584913|00000000||Uciekła przed prześladowaniami magów.
+    584803|00000000||Otworzyła praktykę.
+    591830|00000000||Geraaalt!
+    591832|00000000||Nie odchodź! Nie odchoooodź!
+    592469|00000000||Geralt!
+    574120|00000000||Nie mogę narażać twoich ludzi. W grę wchodzi tylko Kaer Morhen.
+    554339|00000000||Kaer Morhen jest setki mil stąd, przeprawa wojska zajęłaby tygodnie. Nie mówiąc już o tym, że odsłoniłbym Wyspy na ciosy Nilfgaardu...
+    574204|00000000||Geralt, wybacz, ale nie mogę tego zrobić.
+    574240|00000000||Rozumiem... W takim razie nie zabieram ci czasu. Bywaj.
+    574243|00000000||Zaczekaj.
+    574245|00000000||Nie zostawię cię tak całkiem bez pomocy. Chodź ze mną.
+    574237|00000000||W grę wchodzi tylko Kaer Morhen.
+    574238|00000000||Wspomniałeś o Nilfgaardzie?
+    574875|00000000||Wspomniałeś coś o Nilfgaardczykach?
+    574877|00000000||Ostatnio widujemy coraz więcej okrętów ze znakiem słońca na żaglu.
+    574879|00000000||Nie pojmaliśmy jeszcze nikogo z ich załogi, ale tylko głupiec nie zorientowałby się, że coś szykują.
+    574881|00000000||Ale bez obaw, przegnamy i Czarnych, i Dziki Gon. Dwie pieczenie na jednym ogniu, he he.
+    574883|00000000||W Kaer Trolde Ciri będzie bezpieczna.
+    554334|00000000||Potrzebuję pomocy w walce z Dzikim Gonem.
+    554333|00000000||To dość delikatna sprawa. Chcę cię prosić o wielką przysługę.
+    554335|00000000||Mów, przyjacielu.
+    554336|00000000||Wiem, gdzie jest Ciri. Ale wiem też, że kiedy do niej dotrę, Dziki Gon natychmiast się o tym dowie.
+    574114|00000000||Będą nas ścigać. Zaatakują nas, a my będziemy musieli odpowiedzieć siłą. Mogę na ciebie liczyć?
+    554337|00000000||Najpierw Czarni, teraz upiory... Cóż, co robić. Przywieź ją tutaj, a wydamy im bitwę!
+    574867|00000000||Nie wezmę go.
+    574468|00000000||Nie mogę tego przyjąć.
+    574301|00000000||Możesz i musisz. Pozwól mi zrobić choć tyle.
+    574471|00000000||Jeśli tak stawiasz sprawę... Dzięki.
+    574473|00000000||Niech ci dobrze służy. Poślij te upiory tam, skąd przybyły.
+    574871|00000000||Taki mam zamiar. Bywaj.
+    574869|00000000||Dzięki... Wiem, że to dla ciebie niełatwe. I tym bardziej doceniam.
+    574866|00000000||Dzięki.
+    574290|00000000||Piękna robota. Masz zdolnego kowala.
+    574291|00000000||Nie ja, król Erlend an Craite.
+    574293|00000000||Erlend Kamienna Pięść? Czyli to jest... Ostrze Zimy? Myślałem, że nie istnieje...
+    574295|00000000||Kuty w Mahakamie, hartowany w smoczym ogniu... Należał do rodu an Craite od stuleci.
+    574299|00000000||A teraz należy do ciebie.
+    439424|00000000||Nie wpuszczę cię, dopóki nie wrócisz z moimi przyjaciółmi.
+    560360|00000000||He, he, strychulec w rzyci...
+    560361|00000000||Hi, hi. Nie dokazuj, ladacznico.
+    560371|00000000||To silniejsze odeeee mnie, wyyyybacz...
+    560372|00000000||Uteszamp w kimmee...
+    560370|00000000||Odpływam! Zaraz się wykopyrtnę...
+    575935|00000000||Obudź się.
+    575937|00000000||Ja wcale nie śpię...
+    576364|00000000||No, dalej.
+    575922|00000000||Obudź się.
+    575924|00000000||Już, już... Jeszcze chwilka...
+    576360|00000000||Wstawaj.
+    575925|00000000||No, wstawaj.
+    575927|00000000||Mruczek, no zo dzi choci?
+    576362|00000000||No już, już.
+    560379|00000000||Wstawaj.
+    560380|00000000||Nie chcę do szkoły.
+   1074031|00000000||Wiesz cokolwiek o tej wyspie?
+   1074033|00000000||Prawie nic.
+   1074552|00000000||Nie ma jej na żadnej mapie.
+   1074554|00000000||Tak bywa z zaczarowanymi wyspami.
+   1074556|00000000||Myślisz, że jest zaczarowana?
+   1074558|00000000||To jedyne, co wiem na pewno o tym miejscu.
+   1074035|00000000||A co ty robisz na tej dziwnej wyspie?
+   1074037|00000000||Szukam kogoś.
+   1074560|00000000||Tutaj?
+   1074562|00000000||Tak wypadło.
+   1074564|00000000||Nie masz ochoty o tym rozmawiać?
+   1074566|00000000||Nie bardzo.
+    560359|00000000||Odejdź... odejdź, siło nieczysta.
+    370828|00000000||A wy, kim jesteście?
+    370830|00000000||Mówią na mnie Geralt. A wy, coście za jedni?
+    370832|00000000||To wiedźmin! Słyszałem balladę o nim i tej czarodziejce... jak jej było...
+    370938|00000000||Cichaj!
+    371135|00000000||Ilu was tam jest?
+    371141|00000000||Ilu was tam jest?
+    371143|00000000||A co, prowadzisz spis powszechny?
+   1063389|00000000||Czego chcecie?
+   1063406|00000000||Ta rozmowa za bardzo się przeciąga. Dogadajmy się jakoś.
+   1063586|00000000||Jeśli to demon, to teraz będzie próbował nas zwieść.
+   1063588|00000000||Nie jestem demonem. Przekonam was, że nie macie się czego bać.
+   1063590|00000000||Niby jak?
+   1062621|00000000||Otwórzcie, bo zrobię się zły.
+   1062633|00000000||Otwórzcie drzwi, albo sam je sobie otworzę.
+   1062635|00000000||Zawiasy i zamek wytrzymają wszystko. No, chyba że wrócisz brygadą saperów, taranem i mahakamskim ślusarzem.
+   1062637|00000000||I po co te groźby? Wszyscy jedziemy na tym samym wózku, a kłócimy się zamiast sobie pomagać.
+   1062639|00000000||A zatem - czego chcesz?
+   1062641|00000000||Chcę, żebyś odnalazł moich przyjaciół. Ivo, Ferenc i Gaspard - rozeszli się gdzieś po całej wyspie i zaginęli.
+   1062643|00000000||Pomóż mi proszę. Wiem, że zdołasz ich znaleć.
+   1059901|00000000||Postaram się odnaleźć wszystkich trzech. Do zobaczenia.
+   1059854|00000000||Cieszę się, że rozumiesz.
+   1062131|00000000||Odszukam waszych przyjaciół.
+   1062142|00000000||Gdzie szukać Gasparda?
+   1062144|00000000||Powiedział, że nie możemy siedzieć i czekać na ratunek, tylko trzeba działać.
+   1062146|00000000||Widział latarnię i powiedział, że wejdzie na szczyt, by wypatrywać statków.
+   1062133|00000000||Jak znaleźć Gasparda?
+   1062148|00000000||Gdzie poszedł Ferenc?
+   1062150|00000000||Na zachód. Ponoć jest tam jakiś statek.
+   1062152|00000000||Ferenc – to złota rączka. Myślał, że zdoła go naprawić.
+   1062134|00000000||Gdzie szukać Ferenca?
+   1062132|00000000||Gdzie znajdę Ivo?
+   1062136|00000000||Ten Ivo... Gdzie go szukać?
+   1062138|00000000||Kretyn uparł się, że przeszuka jaskinie na wschodzie.
+   1062140|00000000||Nie zdołałem wybić mu z głowy tego pomysłu.
+   1062623|00000000||A jeśli znajdę waszych przyjaciół, to uwierzycie, że nie jestem groźny?
+   1062625|00000000||No... To nie będzie łatwe....
+   1062627|00000000||Ilu ich było?
+   1062631|00000000||Trzech: Ivo, Gaspard i Ferenc.
+   1062620|00000000||Poszukam waszych zaginionych towarzyszy.
+   1063404|00000000||Mnie nie musicie się obawiać...
+   1063582|00000000||...Jak powiedział lis do stada kurcząt.
+   1063584|00000000||Straciłem już zbyt wielu przyjaciół. Nie będę ryzykował.
+   1063388|00000000||Nie zrobię wam krzywdy.
+   1063390|00000000||Jak trafiliście na wyspę?
+   1063392|00000000||Na tę wyspę nie da się trafić w zwykły sposób.
+   1063394|00000000||Katastrofa morska to nie jest "zwykły sposób".
+   1063396|00000000||Dajże już spokój. Dobrze wiesz, o co mu chodzi.
+   1063398|00000000||Apsik! Ja wytłumaczę. Jakiś czas temu płynęliśmy ze Skellige do Novigradu.
+   1063400|00000000||I Ferenc kupił od kapitana magicznego świetlika, który ponoć znał drogę do ukrytego skarbu.
+    575809|00000000||Jak pragnę zdrowia, ogarnijcie się chłopaki.
+    560199|00000000||A ty tam, a drzwiami... Geralt? Dobrze mówię?
+    575812|00000000||Tak, Geralt.
+    575814|00000000||Słuchaj, Geralt. Przejdźmy do konkretów.
+   1062617|00000000||Przeżyliśmy katastrofę morską, kilku moich chłopaków zeżarły bestie, aż w końcu znaleźliśmy schronienie tutaj.
+   1063387|00000000||Ta wyspa jest pełna niebezpieczeństw, więc nie dziw się, że jesteśmy nieufni.
+    371137|00000000||Yennefer. Czarodziejka to Yennefer z Vengerbergu.
+    371139|00000000||O, to to! "Jej oczy miotają błyskawice, a serce jak bryła lodu..." eee... jak to szło?
+    371127|00000000||Czarodziejka nazywa się Yennefer.
+    370946|00000000||Zaczynam tracić cierpliwość.
+    371129|00000000||Powoli kończy mi się cierpliwość.
+    371131|00000000||Świetnie. To znaczy, że zaraz sobie pójdziesz.
+    371133|00000000||Zaczynam tracić cierpliwość.
+    370930|00000000||Jestem Geralt, wiedźmin.
+    370932|00000000||Idź sobie!
+    370934|00000000||Szukam dziewczyny o popielatych włosach, z blizną na twarzy. Pozwolicie mi wejść?
+    370936|00000000||...Nie.
+    370826|00000000||Szukam dziewczyny o popielatych włosach.
+    370812|00000000||Zamknięte...
+    370814|00000000||Jest tam kto?
+    370816|00000000||Zaraza...
+    370818|00000000||Apsik!
+    370820|00000000||Nie zrobię ci krzywdy, otwórz.
+    370822|00000000||No i konspirację szlag trafił.
+    370824|00000000||Coś ty za jeden i czego tu szukasz?
+    312802|05e75e62||Harpia
+    305735|00000000||Przyprowadziłem waszego przyjaciela.
+    576264|00000000||Doprawdy? Niech się odezwie.
+    576266|00000000||Nie śpij.
+    305737|00000000||Ja nie śpię!
+    560391|00000000||To Gaspard! Odsuńcie się, otwieram drzwi!

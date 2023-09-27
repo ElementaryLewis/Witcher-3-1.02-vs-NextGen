@@ -1,0 +1,984 @@
+;meta[language=de]
+; id      |key(hex)|key(str)| text
+    320960|00000000||Ich werde nicht zulassen, dass sie dich kriegen.
+    320972|00000000||Ich lass nicht zu, dass sie dich kriegen, hörst du?
+    320974|00000000||Ich weiß.
+    561082|00000000||Halte dich einfach aus allem raus.
+    320982|00000000||Behandle mich nicht wie ein Kind.
+    320984|00000000||Das hab ich nicht mal getan, als du noch eines warst.
+    320986|00000000||Ich mag's, wenn du lächelst.
+    320988|00000000||Komm her.
+    320990|00000000||Alles wird gut.
+    320964|00000000||Sie sind hinter dir her. Was auch passiert, du darfst dich nicht in Gefahr begeben.
+    320966|00000000||Soll ich nur dasitzen und warten, während andere ihr Leben für mich riskieren?
+    320968|00000000||Hör nur dieses eine Mal auf mich. Tu auf keinen Fall etwas Unbedachtes.
+    320958|00000000||Denk dran, du darfst dich nicht in Gefahr bringen.
+    311661|00000000||Kann ich dich kurz sprechen?
+    320956|00000000||Oha. Jetzt wird's ernst.
+    520472|00000000||Es geht bald los.
+    548190|00000000||Hahaha!
+    586567|00000000||Du hattest recht, es funktioniert tatsächlich.
+    586570|00000000||Danke.
+    586572|00000000||Freut mich, wenn ich helfen kann.
+    586574|00000000||Und was jetzt?
+    586576|00000000||Ich schau mal, wo unser lieber Wissender ist ...
+    548186|00000000||Haha! Geralt von Riva besiegt! Das mit dem Ausweichen musst du noch üben.
+    549111|00000000||Ich hab dich gewinnen lassen.
+    549151|00000000||Du willst doch nur davon ablenken, dass du deinen Meister gefunden hast.
+    547898|07606bf7||Schatzmeister
+   1076927|00000000||So ein Kampf gegen die Wilde Jagd ... ist was anderes als ein Scharmützel.
+    546798|00000000||Ich pack das schon, keine Sorge.
+   1076925|00000000||Ves ... sei nicht sauer.
+    572659|00000000||Es war nicht gut, den Königsmörder herzubringen.
+    307008|103d66e3||Hase
+    550116|00000000||Das interessiert mich nicht.
+    550129|00000000||Keine Ahnung, und es ist mir ehrlich gesagt auch egal.
+    550131|00000000||Nach dem Training mit Avallac'h reisen wir nach Novigrad. Schon vergessen?
+    550133|00000000||Planänderung. Imlerith ist auch beim Sabbat. Wir erwischen ihn dort.
+    550139|00000000||Was sagt Avallac'h dazu?
+    550147|00000000||Warum glaube ich, dass Avallac'h das nicht gefallen wird?
+    550154|00000000||Triffst du ihn hier noch? Ich hab ihm eine Nachricht hinterlassen, dass wir uns in Novigrad treffen.
+    554385|00000000||Wie hast du vom Sabbat erfahren?
+    554387|00000000||Woher weißt du das alles? Von Imlerith, dem Sabbat ...
+    554388|00000000||Avallac'h. Er hat mir von unseren Jägern erzählt. Er sagt, Wissen allein macht den Unterschied.
+    550164|00000000||Also gut, auf nach Velen.
+    550352|00000000||Geh vor.
+    550212|00000000||Ich an deiner Stelle würde es nicht tun.
+    550258|00000000||*Seufz* Schwarz steht dir nicht.
+    550260|00000000||Was meinst du damit?
+    550262|00000000||Glaubst du, er will dich sehen, weil er dich vermisst hat? Ich denke eher, er hat etwas Bestimmtes mit dir vor.
+    550263|00000000||Oh. Das hätte ich mir denken können ...
+    550354|00000000||Geralt, es reicht mir. Ich will nicht, dass andere über mich bestimmen. Wir reiten nach Velen.
+    550235|00000000||Er will bestimmt nur mit dir reden.
+    550237|00000000||Woher weißt du das? Was, wenn er mehr will?
+    550239|00000000||Er hat mir versprochen, dich zu nichts zu zwingen.
+    550246|00000000||Dann sollte ich gehen.
+    550247|00000000||Er ist dein Vater ...
+    550252|00000000||Wyzima liegt auf dem Weg. Wir können ja vorbeischauen.
+    550211|00000000||Ja, das solltest du.
+    550218|00000000||Das musst du für dich entscheiden.
+    550220|00000000||Das musst du selbst entscheiden.
+    550222|00000000||Aber ich will deine Meinung hören. Soll ich gehen oder nicht?
+    550177|00000000||Warte ... bevor wir gehen, muss ich dir noch etwas sagen.
+    550179|00000000||Du weißt, dass der Kaiser dich unbedingt finden wollte?
+    550181|00000000||Yennefer hat so etwas gesagt.
+    550183|00000000||Er wollte, dass du ihn besuchst.
+    550185|00000000||Warum erzählst du mir das jetzt?
+    550194|00000000||Weil das deine letzte Chance sein könnte, deinen ... Vater zu sehen.
+    550197|00000000||Meinst du, ich sollte gehen?
+    550163|00000000||Wir müssen zuerst den Kaiser sehen.
+    550162|00000000||Komm, wir reden unterwegs.
+    550135|00000000||Ciri ... Weißt du auch wirklich, worauf du dich da einlässt?
+    550137|00000000||Ja. Und ich muss es tun.
+    550138|00000000||Weißt du, was du da vorhast?
+    550141|00000000||Wo hast du das denn her? Was ist denn in dich gefahren?
+    550143|00000000||Ich muss Vesemir rächen.
+    550145|00000000||Der Sabbat ... das ist die Gelegenheit. Imlerith wird betrunken sein und mit seinen Leuten feiern. Er wird nicht mit einem Angriff rechnen.
+    550123|00000000||Keine Ahnung. Klär mich auf.
+    550125|00000000||Imlerith.
+    550127|00000000||Das ist eine einmalige Chance, ihn zu kriegen.
+    550115|00000000||Klär mich auf.
+    549156|00000000||Geralt! Geeeraaalt!
+    549157|00000000||Wach auf!
+    549160|00000000||Wa... was? Was ist los?
+    549162|00000000||Steh auf, wir müssen gehen. Ich hab die Pferde gesattelt.
+    549197|00000000||Ciri ... Es ist noch dunkel. Wo willst du denn hin?
+    547528|00000000||Nach Velen. Zum Kahlen Berg. In ein paar Tagen ist Hexensabbat.
+    550114|00000000||Und rate mal, wer als Ehrengast eingeladen ist.
+    529751|00000000||Ciri! Geh in den Burgfried!
+    529752|00000000||Nein!
+    531828|00000000||Geralt hat das Signal gegeben!
+    531830|00000000||Ich bin bereit!
+    543483|00000000||Elli Abadabra Sani!
+    543485|00000000||Tetrah ... Tetragh ... Tetraglarie!
+    543480|00000000||Ich weiß! Gib mir Deckung!
+    548151|00000000||Oh, jetzt bist du fällig!
+    548152|00000000||Du wirst alt! Du triffst nicht mehr!
+   1064962|00000000||Hahaha! Oh, ich werde dich vernichten!
+    548150|00000000||Hey, das ist unfair!
+    565655|00000000||Wir sind zu wenige.
+    565707|00000000||Wir sind zu wenige. Wir haben den Angriff abgewehrt, ja, aber das war ein schlichtes Wunder. Das nächste Mal haben wir nicht so viel Glück.
+    565709|00000000||Vergib mir, Geralt, aber das ist doch das Gerede eines Mannes, der einen tragischen Verlust nicht überwinden kann.
+    565711|00000000||Trink darüber, schlaf darüber, was auch immer ... Aber reiß dich zusammen und überdenke die Dinge.
+    565713|00000000||Das mach ich, Zoltan.
+    565656|00000000||So einfach ist das leider nicht. Wir können sie nicht finden, sie uns aber jederzeit. Sie können uns überraschen, wann sie wollen.
+    565654|00000000||So einfach ist das nicht.
+    465924|00000000||Du willst wissen, wie ich mich fühle? Danke, nicht schlecht.
+    524918|00000000||Das ist gut.
+    524919|00000000||Ah, schrecklich, das mit Vesemir. Ich weiß, ihr standet euch nahe.
+    524920|00000000||Danke. Das stimmt.
+    524925|00000000||Hör mal, ich will meinen Bart nicht in fremde Angelegenheiten stecken, versteh mich nicht falsch. Ich will helfen, was immer du entscheidest, aber für meine Begriffe brauchen wir einen Gegenangriff.
+    524926|00000000||Wir müssen die Jagd und Eredin finden und auf sie losgehen wie der Bulle auf die Kuh.
+    572961|00000000||Verflucht, er wird uns fehlen.
+    466174|00000000||Na los!
+    466172|00000000||Kommt schon!
+    466170|00000000||Haltet die Stellung!
+    319846|00000000||Ich werde ein Auge auf ihn haben.
+    310326|00000000||Ich werde ein Auge auf Letho haben.
+    319901|00000000||Und ich werde mich zu benehmen wissen, versprochen.
+    319903|00000000||Wenn du ein Auge auf den Mörder hast, hast du den Gegner nicht im Blick. Warum ist der Königsmörder so wichtig?
+    319905|00000000||Eredin ist ein König, oder?
+    559318|00000000||Zur Hölle. Mit euch beiden.
+    319848|00000000||Ich habe hier das Sagen.
+    319959|00000000||Ich habe hier das Kommando. Ich treffe die Entscheidungen. Ihr beide wisst, dass es im Krieg keine Diskussionen gibt.
+    319961|00000000||Weißt du was, Geralt? Im Leben hab ich vieles getan, was nicht gut war. Aber ich habe immer diejenigen respektiert, denen ich diene, habe ihnen vertraut.
+    319963|00000000||Hier, in Kaer Morhen, wird zum ersten Mal weder das eine noch das andere zutreffen.
+   1062868|00000000||Wir bleiben und helfen. Aber den wollen wir nicht im Rücken haben.
+    319887|00000000||Ich muss Ciri retten ... um jeden Preis. Und Letho hat schon gegen die Jagd gekämpft.
+    319889|00000000||Ich stelle auch nicht seine Fähigkeiten infrage. Ich trau ihm einfach nicht.
+    319891|00000000||Letho wird uns nicht hintergehen.
+    319893|00000000||Du bist naiv, warst es schon immer. Normalerweise ist es mir egal, aber diesmal könnte es Ves und mich das Leben kosten.
+    559312|00000000||Denk drüber nach, bevor es zu spät ist.
+    319844|00000000||Du musst mich verstehen.
+    535946|00000000||Ah, alte Freunde.
+    536191|00000000||Was hat dieser Dreckskerl hier zu suchen?
+    536194|00000000||Wir brauchen ihn.
+    559315|00000000||Vielleicht hast du vergessen, was er getan hat. Ich nicht.
+    535941|00000000||Wie schön, euch zu sehen.
+    535942|00000000||Ich bin allein losgezogen, aber Ves hat mich aufgespürt. Sie hat darauf bestanden, mitzukommen.
+    536186|00000000||Ich sollte dich versohlen, weil du mich nicht um Hilfe gebeten hast. Aber ich hab's unterwegs an Roche ausgelassen.
+   1061994|00000000||Schön, dich wiederzusehen.
+   1061992|00000000||Verdammt, wie schön, dich wiederzusehen.
+    462992|00000000||Schön, dich zu sehen, Triss.
+    522511|00000000||Bedank dich bei Yennefer. Sie hat mich eingeladen.
+    549984|00000000||Wir besprechen das später. Wir sollten uns beraten, drinnen.
+    522515|00000000||Es ist kalt geworden. Kommt. Wir sollten den Rat einberufen.
+    522544|00000000||Wir sollten nicht hier draußen bleiben.
+    520117|00000000||Ja. Kommt, wir sollten den Rat einberufen.
+   1061996|00000000||Uns bleibt kaum Zeit. Die Wilde Jagd wird bald hier sein.
+   1061993|00000000||Die Jagd wird bald hier sein.
+    462983|00000000||Kein Grund, das hier draußen zu tun. Kommt rein.
+    462858|00000000||Alle sind hier, die du um Hilfe gebeten hast. Avallac'h ruht sich im Turm aus ... sein Zustand ist immer noch schlecht.
+    522469|00000000||Na na, ganz ruhig. Schon gut.
+    522472|00000000||Was zum ...?
+    522475|00000000||Willkommen zurück, Kind ...
+    522478|00000000||Ciri!
+    522481|00000000||Mann, bist du hübsch geworden.
+    522484|00000000||Stehen wir hier nicht rum, begrüßt lieber die anderen.
+    522486|00000000||Ihr habt euch gar nicht verändert. Ihr seid so wie in meiner Erinnerung.
+    522488|00000000||Was?
+    549628|00000000||Kleine Schwester.
+   1061976|00000000||Yen, du kennst die Wilde Jagd besser als alle anderen. Was kannst du uns über die Magie sagen, die sie benutzt?
+   1061978|00000000||Ihre Navigatoren öffnen Portale, denen wir vielleicht Dimeritium oder unsere eigene Magie entgegensetzen könnten.
+   1061980|00000000||Außerdem beschwören sie die Kälte, die sich in der Leere festsetzt, die sie durchschreiten.
+   1062794|00000000||Wir sind einfach zu wenige. Das wird ein harter Kampf.
+    466075|00000000||Da kommen noch mehr! Achtung!
+    466077|00000000||Verdammt!
+    466073|00000000||Es sind einfach zu viele!
+    572909|00000000||Mach dich bereit, bald kommt eine neue Welle!
+    572908|00000000||Pass auf dich auf.
+    572917|00000000||Mach das verdammte Tor zu!
+    572918|00000000||Das Tor, verdammt! Mach es zu!
+   1074923|00000000||Große Abteilung nähert sich aus dem Wald!
+    577451|00000000||Wir müssen das Tor schließen, bevor sie reinkommen.
+   1074921|00000000||Wachsam bleiben, aufeinander aufpassen! Sie haben einen Weg nach drinnen gefunden!
+    532804|00000000||Riegelt den Burghof ab! Macht das Tor zu!
+    532922|00000000||Lambert, spiel nicht den Helden.
+    532923|00000000||Geralt, geh zu Lambert, sofort!
+    532951|00000000||Wir müssen uns zurückziehen! Yennefers Kraft lässt nach!
+    532933|00000000||Sie haben ihn getötet! Diese verfluchten Mistkerle!
+    562205|00000000||Sie haben Lambert getötet!
+    532946|00000000||Lambert, verdammt! Bleib bei uns!
+   1074915|00000000||Wie ist es im Wald gelaufen?!
+   1074919|00000000||Wir haben zwei Risse versiegelt und sind dann einem Leutnant der Jagd in die Arme gelaufen.
+   1076913|00000000||Bereit für die Schlacht?
+    465103|00000000||Ich wurde schon bereit geboren.
+   1076911|00000000||Wenn es losgeht ... keine Heldenaktionen, ja?
+    465101|00000000||Ich versteh schon. Sind wohl keine Alltagsgeister.
+   1062948|00000000||Verdammter Schrotthaufen. So alt wie Vesemir.
+    542145|00000000||Und, wie läuft's?
+   1076915|00000000||Was gibt es für Fortschritte?
+   1062950|00000000||Ich krieg das Ding nicht dazu, auch nur einen Bolzen zu schnipsen. Eher macht man mich zum Hierarchen von Novigrad.
+    321078|00000000||Verflucht! Keine Sekunde zu früh!
+    321080|00000000||Geh zurück auf deine Position.
+    533060|00000000||Zurückziehen! Durch das Tor in den Hof!
+    533061|00000000||Durchgang zum Haupthof überprüfen!
+    565503|00000000||Alles Gute.
+    565515|00000000||Passt auf euch auf.
+    565517|00000000||Und danke noch einmal für alles.
+    565505|00000000||Geht ihr zusammen?
+    565507|00000000||Ich habe eine Idee, aber bei der Umsetzung muss mir ein Hexer helfen. Lambert will mich unterstützen.
+    565509|00000000||Hm. Viel Glück. Und danke noch mal.
+    565511|00000000||Wir sind jetzt quitt.
+    565502|00000000||Ihr geht zusammen?
+    565523|00000000||Ich bin froh, dass ich helfen konnte, aber ich werde gehen, sobald Lambert sich besser fühlt.
+    558916|00000000||Danke für alles, was du für mich und für Ciri getan hast.
+    558917|00000000||Darf ich ehrlich sein? Hätte ich gewusst, was hier passiert, wäre ich nie in die Nähe von Kaer Morhen gekommen.
+    572963|00000000||Dein Verlust tut mir leid, Geralt.
+    572964|00000000||Ich bin nicht in Plauderlaune.
+    566035|00000000||Wer auch immer diese Mauer repariert hat, hat schlampig gearbeitet.
+   1062930|00000000||Wozu das Gas?
+   1062932|00000000||Was bringt uns das Gas?
+   1062934|00000000||Es ist hochentzündlich. Ich will es hochgehen lassen und dabei ein paar Reiter der Jagd einäschern.
+   1062936|00000000||Die Festungsmauern halten das aus?
+   1062938|00000000||Das sind doch ohnehin Ruinen. Wie sollen die noch kaputter gehen?
+    319685|00000000||Wir sind keine Maurer.
+    319687|00000000||Wie schade. Wir werden die Jagd nicht aus der Festung raushalten können.
+    319689|00000000||Das ist nicht schlimm. Wir wissen auch nicht, wie man Belagerungen durchbricht.
+    319691|00000000||Wir stellen uns ihnen im Burghof.
+    566036|00000000||Mauern sind nicht gerade unser Fachgebiet.
+    566037|00000000||Wir sollten die Löcher stopfen.
+    566055|00000000||Vielleicht können wir trotzdem diese Löcher schließen.
+    566057|00000000||Das Material haben wir da.
+    566059|00000000||Ich helfe, wenn du willst.
+    566061|00000000||Was ist mit Lambert?
+    566063|00000000||Hm, ich weiß schon, was er von Maurerarbeiten hält.
+   1062927|00000000||Wer hätte gedacht, dass Gas so stinken kann? Wir müssen die anderen warnen, damit keiner mit offenem Feuer hier durchmarschiert.
+   1062929|00000000||Und nun?
+    465239|00000000||Ich könnte was zu Trinken vertragen.
+    551709|00000000||Ich auch. Nach dem Rat werden wir schon was finden.
+    541760|00000000||Hihihi, du hast eine gute Truppe versammelt.
+   1062924|00000000||Anair, anadar, vallanda!
+   1062914|00000000||Ich hoffe doch sehr, dass das Gas funktioniert.
+   1062916|00000000||Wird es. Wir müssen es nur im richtigen Moment zünden.
+   1062918|00000000||Und das Loch - bleibt das für immer?
+   1062920|00000000||Um das Loch machen wir uns Sorgen, wenn alles vorbei ist. Nun tritt zurück, Meister Hexer.
+    550680|00000000||Ich weiß nicht, ob Ciri dem zustimmen wird.
+    550695|00000000||Ciri hat noch nicht zugestimmt.
+    550750|00000000||Wirklich nicht?
+    550816|00000000||Wirklich nicht?
+    550818|00000000||Kennst du etwa irgendjemanden, der nicht gerne Kaiser von Nilfgaard wäre?
+    550784|00000000||Kannst du dir das vorstellen? Ich dachte, nur die weinvernebelten Köpfe von Barden und Poeten würden solche Geschichten hervorbringen.
+    552371|00000000||Die verlorene Tochter des mächtigsten Herrschers in der Geschichte des Festlands kehrt am Vorabend seines endgültigen Triumphs zurück, um ihr Erbe anzutreten.
+    550815|00000000||Einfaltspinsel lieben solche Geschichten - genau wie sie Prinzessinnen lieben, grazil und schön, die ...
+    550776|00000000||In der Tat.
+    550749|00000000||Natürlich nicht.
+    550747|00000000||Ja, natürlich, sie ist sehr taktvoll und feiert kein Angebot, das noch nicht ausgesprochen wurde ... Aber dieses kann sie nicht ablehnen.
+    550681|00000000||Natürlich.
+    550694|00000000||Wenn wir schon dabei sind, wie geht es unserer zukünftigen Herrscherin? Ich bin auf ihre Reaktion gespannt, wenn sie hört, dass der Thron ihr gehört. Sie wird sich sicher freuen ...
+    550752|00000000||Wer weiß das schon ...
+    550664|00000000||Ja, keine Frage, das ist beschlossene Sache.
+    547869|00000000||Weißer Wolf! Gut, dich zu sehen!
+    550649|00000000||Hallo, General.
+    550644|00000000||Du hattest keine Probleme, den Pontar zu überqueren, oder?
+    547871|00000000||Nein.
+    550652|00000000||Ich nehme an, du bist über die Furt bei Ban Gleán gekommen.
+    550657|00000000||Gut, dass du nicht durch Rinde gereist bist. Dort geht's noch immer drunter und drüber. Radovid will die Front im Westen durchbrechen.
+    550662|00000000||Aber er wird keinen Erfolg haben. Wird werden dort wieder für Recht und Ordnung sorgen, ehe die Prinzessin Kaiserin wird.
+    524739|00000000||Ladd nahw!
+    524776|00000000||Ni'l ceim siaar!
+    524777|00000000||Trooid'i!
+    524775|00000000||Hoinne heets!
+    524358|00000000||Die Pflicht ruft.
+    524369|00000000||Aber hör mal, Geralt, du hast einen König zum Freund. Das kann nicht jeder behaupten.
+    524471|00000000||Wenn du oder Ciri ... oder du und Ciri ... wenn ihr je Hilfe braucht - die Tore von Kaer Trolde stehen euch offen.
+    565588|00000000||Danke, ich werde dran denken.
+    565580|00000000||Leb wohl.
+    566135|00000000||Bis dann, Hjalmar.
+    524355|00000000||Es wäre nicht recht, zu trödeln ... der Krieg gegen die Schwarzen wartet nicht.
+    524360|00000000||Du kannst dich auf mich verlassen, weißt du? Immer.
+    524362|00000000||Ich weiß. Danke.
+    565582|00000000||Du gehst direkt zurück nach Skellige?
+    565579|00000000||Direkt zurück nach Skellige?
+    321589|00000000||Da bist du.
+    321591|00000000||Verdammt schade um Vesemir. Es tut mir so leid.
+    321593|00000000||Danke für deine Hilfe.
+    524342|00000000||Ich hatte noch 'ne Schuld offen.
+    572962|00000000||Ah, was hatte er für einen Mut.
+    564544|00000000||Ich werde dran denken.
+    564546|00000000||Danke, ich werde dran denken.
+    564548|00000000||Ich sehe noch mal nach den Verwundeten, aber ich muss bald los. Ich lass euch ein paar Medikamente da.
+    564550|00000000||Möge es dir wohl ergehen, Mäussack.
+    564552|00000000||Bis zum nächsten Mal.
+    564554|00000000||Ich weiß noch gar nicht, was ich jetzt mache.
+    564556|00000000||Wenn Zweifel deinen Verstand plagen, folge deinen Instinkten.
+    564558|00000000||Leiten sie dich fehl, und du landest in der Patsche, machst du dir wenigstens keine Vorwürfe. Das ist das Wichtigste.
+    564560|00000000||Guter Rat.
+    564562|00000000||Pah, natürlich! Bin schließlich ein Hierophant, oder nicht?
+    564564|00000000||Ich muss bald nach Hause aufbrechen. Pass auf dich auf, und auf Ciri.
+    564566|00000000||Noch einmal danke für alles.
+    564543|00000000||Ich weiß noch nicht, was ich jetzt mache.
+    321491|00000000||Danke.
+    321493|00000000||Also bitte. Sie war mir auch anvertraut. Und die Alten sollen ja nur den Jungen helfen.
+    321495|00000000||Du weißt, dass der Kampf damit kaum vorbei ist?
+    321497|00000000||Ich weiß.
+    321501|00000000||Was immer du jetzt vorhast, denk dran, dass du in Skellige Leute findest, die dir helfen. Mich, Crach, seine Kinder ...
+    572957|00000000||Ich bereue, ihn nicht besser gekannt zu haben.
+    542689|00000000||Er sieht nicht gut aus.
+    564393|00000000||Wie kann ich euch danken?
+    564399|00000000||Ihr habt euer Leben für mich riskiert. Wie kann ich euch danken?
+    564401|00000000||Wir denken uns was aus, nicht wahr?
+    564403|00000000||Auf jeden Fall.
+    564404|00000000||Was habt ihr vor?
+    564405|00000000||Wir gehen nach Novigrad und kämpfen den nächsten Kampf.
+    564406|00000000||Wenn du uns vermisst, such uns im Feldlager.
+    564395|00000000||Danke, dass ihr gekommen seid und euer Leben für mich riskiert habt.
+    564397|00000000||Pass auf das Mädchen auf. Lass nicht zu, dass ihr jemand was tut.
+    564392|00000000||Danke für eure Hilfe.
+   1071971|00000000||Und? Erzähl.
+    321386|00000000||Jetzt kann ich sagen, ich hab alles gesehen.
+    321388|00000000||Ich glaube immer noch nicht alles, was passiert ist.
+    572958|00000000||Verdammt schade.
+    572959|00000000||Uff.
+   1076904|00000000||Achtung, Folan. Die Wilde Jagd ist gleich da.
+    520063|00000000||Die Erscheinungen von Mörhogg? Hjalmar und ich haben schon Schlimmeres besiegt.
+    520062|00000000||Ragh nar Roog steht uns bevor.
+    548042|00000000||Geralt! Wir brechen auf!
+    548044|00000000||Wie schön, dich zu sehen, meine Holde.
+    548052|00000000||Ganz meinerseits.
+    550579|00000000||Wir brechen auf.
+    550600|00000000||Schade, dass du nicht bleiben kannst. Ich hoffe, wir können uns bei Gelegenheit mal unterhalten.
+    550602|00000000||Ich nicht unbedingt.
+    575458|00000000||Verdammt!
+    575460|00000000||Geralt!
+   1061955|00000000||Zurück!
+   1061957|00000000||*Pfeif*
+    533413|00000000||Du hättest im Burgfried auf deinem Hintern sitzen bleiben sollen, so wie ausgemacht.
+    533414|00000000||Mhm. Wer hätte dann deinen gerettet?
+    533425|00000000||Danke!
+    533426|00000000||Wir müssen ihnen das Tor aufmachen!
+    524548|00000000||Seht ihr das?
+    524550|00000000||Es geht los. In den Wald! Sofort!
+    533349|00000000||Gerade rechtzeitig!
+    575408|00000000||*Pfeift auf zwei Fingern*
+    575412|00000000||Siehst du? Ich kann das auch.
+    533353|00000000||Was ist mit Eskel?! Wir müssen den Rückzug antreten!
+    533354|00000000||Er ist in Schwierigkeiten! Ich geh ihm helfen!
+    562633|00000000||Denk an den Stein, den ich dir gegeben habe!
+    533350|00000000||Alles in Ordnung?
+    533351|00000000||Ja, danke ... Es sah nicht gut aus ...
+    533352|00000000||Wir mussten uns zurückziehen. Sie haben versucht, durchs Haupttor reinzukommen. Ich fürchte, das nächste Mal könnten sie es schaffen.
+   1055661|6bf543da||Spatz
+    533661|00000000||Sie kommen durch die Lücken rein!
+    534386|00000000||Dimeritiumbomben.
+    546099|00000000||In den Kisten bei den Mauern sind noch mehr.
+    321106|00000000||Du sollst doch nicht hier draußen sein!
+    321108|00000000||Zu spät jetzt.
+    533655|00000000||Eskel hat das Tor aufgemacht! Wir können uns dahinter zurückziehen!
+    533656|00000000||Rückzug!
+    465851|00000000||Kaer Morhen. Ich kann mir den Ort nicht ohne Vesemir vorstellen.
+    565472|00000000||Ich verstehe.
+    565478|00000000||Ich verstehe dich.
+    565480|00000000||Werd mein Glück in Niedermark versuchen. Wo es Krieg gibt, gibt es Arbeit. Danach ... mal sehen.
+    565482|00000000||Bis zum nächsten Mal.
+    565484|00000000||Bis dann, Wolf.
+    565474|00000000||Komm schon. Es ist die einzige Heimat, die wir je hatten. Bleib.
+    565476|00000000||Nein, Geralt. Der Ort stirbt schon seit einer Weile. Das heute war der letzte Sargnagel. Wird Zeit, dass wir es akzeptieren.
+    565153|00000000||Bleib.
+    524892|00000000||Ich ziehe bald das Tal hinunter. Dann such ich mir was anderes zum Überwintern.
+    465853|00000000||An diesen Ort. Es ist sinnlos, jemals zurückzukommen.
+    465849|00000000||Woran denkst du?
+    572942|00000000||Sinnlos, hierher zurückzukommen. Als sei Kaer Morhen heute gestorben.
+    466232|00000000||Komm schon!
+    466230|00000000||Komm, hol mich doch!
+    466228|00000000||Hah!
+    466372|00000000||Sie kommen in den Burghof!
+    466095|00000000||Wie viele hat eure Mama noch geboren?
+    466091|00000000||Verdammt.
+    466093|00000000||Uff!
+   1074926|00000000||Der Bastard will durchbrechen und reinkommen!
+   1063029|00000000||Wenn du das nächste Mal merkst, dass ich Merigold sauer mache, dann hau mir eins drüber.
+    520509|00000000||Nicht, dass ich diesem Unsichtbarkeitsscheiß nicht trauen würde, aber wir sollten von diesen Kreaturen Abstand halten.
+   1074961|00000000||Sie ist eine von uns, Geralt. Wir lassen nicht zu, dass sie sie kriegen.
+    464404|00000000||Komm zu Mama.
+    464406|00000000||Komm nur.
+    464402|00000000||Hah.
+    558820|00000000||Das war umwerfend. Danke.
+   1074929|00000000||Er ist durch!
+    564505|00000000||Was hast du vor?
+    564513|00000000||Was hast du jetzt vor?
+    564515|00000000||Wohl nach Osten gehen, über die Berge.
+    564517|00000000||Und dann? Mal sehen.
+    564519|00000000||Leb wohl.
+    564507|00000000||Würdest du in Kaer Morhen bleiben wollen?
+    564509|00000000||Das wäre schön. Eine Weile jedenfalls, bis ich weiß, wie es weitergeht.
+    564511|00000000||Einverstanden. Dann tu das.
+    564476|00000000||Willst du in Kaer Morhen bleiben?
+    321440|00000000||Das war hart.
+    321442|00000000||Wir haben's hingekriegt.
+    564502|00000000||Danke für deine Hilfe.
+    564504|00000000||Gern geschehen.
+    572960|00000000||Hexer sterben nie in ihren Betten.
+    550900|2b0e5344||Nilfgaardische Hofdame
+   1063565|00000000||Hey, das ist unfair!
+   1063567|00000000||Nulpe!
+   1063569|00000000||Das werden wir ja sehen!
+   1063571|00000000||Hahaha, fang mich doch!
+    520100|00000000||Wie schade, dass Vigi und Folan nicht hier sind.
+    523431|00000000||Vielen Dank, dass ihr gekommen seid.
+    520113|00000000||Wir haben uns ein Leben lang auf die Schatten von Mörhogg vorbereitet.
+    569882|00000000||Wir haben den Riesen besiegt, die Erscheinungen werden wir auch erledigen.
+    569884|00000000||Pah!
+    523422|00000000||Vielen Dank, dass ihr gekommen seid.
+    520101|00000000||So was sollen wir uns entgehen lassen? Niemals!
+    549786|00000000||Wie schade, dass Folan nicht dabei ist.
+    523426|00000000||Vielen Dank, dass ihr gekommen seid.
+    520110|00000000||So was sollen wir uns entgehen lassen? Niemals im Leben!
+    520111|00000000||Wie traurig, dass Vigi nicht hier ist.
+    541556|00000000||Wie schön, dich zu sehen!
+   1000357|00000000||Wie's aussieht, wird Ciri deine Hilfe bald nicht mehr brauchen.
+   1000359|00000000||Und deine auch nicht.
+   1000361|00000000||Stimmt. Sie wird tun, was sie will ... und ich unterstütze sie. Was ist mit dir? Bist du bereit, sie ihr eigenes Leben leben zu lassen?
+   1000362|00000000||Ich werde sie zu nichts zwingen, wenn das deine Frage ist.
+   1000123|00000000||Bald wird Ciri deine Hilfe nicht mehr brauchen.
+   1000343|00000000||Nette Welt, die ihr Aen Elle da habt. Man könnte sich glatt in sie verlieben.
+   1000345|00000000||Sag mir ... Wie macht ihr das? Ihr sitzt da und spielt Flöte, malt brünftige Einhörner in prachtvollen Landschaften, baut reich verzierte Türme ...
+   1000347|00000000||Und dann bringt ihr uns um. Ohne mit der Wimper zu zucken. Ohne Schuldgefühle. Wie?
+   1000349|00000000||Fühlt ihr Menschen euch schuldig, wenn ihr Aen Seidhe tötet? Oder Zwerge? Oder Dryaden?
+   1000351|00000000||Wir sind gleich ... weil wir gleichermaßen fest an die Unterlegenheit anderer glauben.
+   1000121|00000000||Ziemlich nett, die Welt der Aen Elle.
+   1000353|00000000||Wahrscheinlich hältst du mich für einen primitiven Menschen ... aber warum töten wir Ge'els nicht einfach?
+   1000337|00000000||Weil es uns kurzfristig nichts nützt ... Und wir leben vielleicht nicht lange genug, um das Langfristige zu erleben.
+   1000339|00000000||Bei Ge'els geht es nicht um das, was er auf dem Schlachtfeld tut, sondern darüber hinaus. Er manipuliert. Er hält die Aen Elle in Schach.
+   1000341|00000000||Wenn man diesen Bauern vom Spielfeld nimmt, ändert sich das Ergebnis nicht. Lässt man ihn aber stehen, könnte man mit ihm vielleicht die Regeln ändern.
+   1000355|00000000||Du hast immer noch nicht erklärt, warum diese List notwendig ist und wir Ge'els nicht einfach töten können.
+   1000122|00000000||Warum Ge'els nicht einfach töten?
+   1000285|00000000||Erzähl mir mehr über Caranthir ... Kennst du ihn gut?
+   1000287|00000000||Ihn kennen? Ich habe ihn gezüchtet.
+   1000289|00000000||Du meinst wohl aufgezogen?
+   1000291|00000000||Nein, Geralt. Ich habe ihn lange vor seiner Geburt geformt.
+   1000293|00000000||Viele Jahrhunderte habe ich fähige Elfenpaare ... zusammengeführt, die Zeit und Raum beeinflussen konnten. Er ist das Ergebnis dieser Mühen. Caranthir, das goldene Kind.
+   1000295|00000000||Das goldene Kind, das zu einem Verbrecher wurde.
+    307750|00000000||Caranthir ... erzähl mir von ihm.
+   1000192|00000000||Leb wohl.
+   1000125|00000000||Leb wohl.
+   1000124|00000000||Warum hilfst du Ciri?
+   1000196|00000000||Du hast Ciri eingesperrt, als du sie zum ersten Mal getroffen hast. Jetzt beschützt du sie ... und bekämpfst deinesgleichen. Ziemliche Kehrtwende.
+   1000198|00000000||Erstens hab ich sie nicht eingesperrt. Sie hat mich gefunden. Es war ihr Schicksal.
+   1000200|00000000||Ja, natürlich. Und zweitens? Warum hilfst du ihr?
+   1000202|00000000||Weil sie eine Gefahr ist. Eine tödliche.
+   1000204|00000000||Du siehst in ihr einen Menschen, einen Schützling, sogar eine Tochter. Ich sehe in ihr das Ältere Blut. Eine Kraft, die die Welt zerstören kann, die unter keinen Umständen in Eredins machtgierige Hände fallen darf.
+   1000206|00000000||Unsere Motive sind verschieden, ja. Und doch verfolgen wir dasselbe Ziel. Es wäre gut, wenn du mir vertraust ... oder es zumindest versuchst.
+   1000194|00000000||Ja, Geralt?
+   1000190|00000000||Finde Zireael ... Die Zeit wird knapp ...
+    531907|00000000||Ob ihn das erwischt hat?
+    531908|00000000||Imlerith? Wohl kaum.
+   1063050|00000000||Yennefers Zauber lässt nach! Der Schneesturm hat die Festung fast erreicht!
+   1063052|00000000||Schneller, Plötze!
+   1063054|00000000||Nicht anhalten! Merigold gibt uns Deckung!
+    524786|00000000||Was ist mit Merigold?!
+    524787|00000000||Scheiße.
+    523714|00000000||Geralt! Hierher!
+    523716|00000000||Schau - sie formieren sich neu.
+    523717|00000000||Siehst du den Kommandanten? Das ist Imlerith. An den kann ich mich erinnern, als ich noch mit der Wilden Jagd ritt.
+   1074756|00000000||Verdammt, der Zauber lässt nach. Wir werden sichtbar.
+    523723|00000000||Versuchen wir, ihn zu töten?
+    562436|00000000||Zu riskant.
+    573029|00000000||Schlappschwanz.
+   1076921|00000000||Roche ...
+    572658|00000000||Ich möchte jetzt nicht mit dir reden, Geralt.
+    546841|00000000||Das soll eine Festung sein? Wie hast du dir die Verteidigung dieser Ruine vorgestellt?!
+    575685|00000000||Aaarrrhhh!
+    575687|00000000||Pah. In Skellige wird's kälter.
+   1076919|00000000||Hast du einen Ratschlag, Mäussack?
+    520131|00000000||Im offenen Kampf werden wir sie nie besiegen. Wir müssen uns eine List einfallen lassen.
+    520130|00000000||Wir müssen unsere Verteidigung vorbereiten.
+    522824|00000000||Unser Gegner ist gefährlich und wir wissen wenig über ihn.
+    554484|00000000||Schluss mit lustig!
+    554485|00000000||Das wird dir noch leidtun!
+    554483|00000000||Uff! Guter Wurf!
+    561026|00000000||Ciri ist am wichtigsten.
+    561028|00000000||Ciri ist bei dieser ganzen Sache am wichtigsten. Die Jagd ist hinter ihr her und wir müssen sie um jeden Preis verteidigen.
+    561030|00000000||Was soll ich machen?
+    561032|00000000||Du bleibst im Burgfried. Wenn sie durchbrechen, werden wir alle kommen um dir zu helfen.
+    566159|00000000||Das kommt nicht in Frage. Ich kann auf mich selbst aufpassen.
+    566160|00000000||Daran zweifelt auch keiner. Aber erinnerst du dich noch an den wichtigsten Moment bei der Monsterjagd?
+    566164|00000000||"Warte auf eine Gelegenheit."
+    566166|00000000||Nach der Ratsversammlung gebe ich dir ein Amulett. Wenn du es benutzt, landet ein Feuerball dort, wo du stehst. Für den Notfall.
+    566168|00000000||Wir müssen zusammenarbeiten.
+    566172|00000000||Vergesst nicht, dass wir nicht sehr viele sind. Wir müssen uns gegenseitig helfen, uns unterstützen.
+    566174|00000000||Wenn etwas schief geht und die Jagd uns in die Defensive zwingt, ziehen wir uns zurück und verteidigen die Tore der Festung.
+    566176|00000000||Der innere Burghof ist unsere letzte Verteidigungslinie. Wenn wir sie dort nicht aufhalten, sind wir verloren.
+   1062490|00000000||Ruft alle zusammen. Wir müssen reden.
+    524316|00000000||Vielen Dank, dass ihr gekommen seid.
+    549991|00000000||Die Wilde Jagd wird bald hier sein. Sie ist hinter Ciri her, will sie mitnehmen. Wir werden sie aufhalten.
+    524318|00000000||Woher willst du überhaupt wissen, dass die Jagd auftaucht?
+    535815|00000000||Sie weiß immer, wohin ich mich teleportiere, und sie bewegt sich blitzschnell von Ort zu Ort.
+    550012|00000000||Und wie lautet unser Plan?
+    561013|00000000||Eredin, der König der Jagd, ist überzeugt, dass er uns mit seinem Angriff auslöschen wird. Wir müssen die Initiative an uns reißen, seine Pläne durchkreuzen.
+    561014|00000000||Ich erschaffe eine magische Kuppel über der Festung. Das wird sie zurückschlagen und zwingen, im Wald zu landen.
+    561011|00000000||Wir müssen die Initiative ergreifen.
+    561012|00000000||Jeder wird eine Aufgabe haben.
+    561015|00000000||Wir sind nicht viele, aber ich würde jedem von euch mein Leben anvertrauen. Arbeitet zusammen, dann können wir die Jagd besiegen.
+    561016|00000000||Wenn sie angreifen, wird Yen die Festung mit einer magischen Kuppel abschirmen. Die Jagd muss außerhalb der Mauern landen.
+    561017|00000000||Wenn sie im Wald verstreut sind, könnten wir kleine Gruppen von Reitern verfolgen.
+    561018|00000000||Einen Freiwilligen für die Jagdgesellschaft gibt es schon. Ich bin der zweite.
+   1062847|00000000||Ich bin auch dabei. Für mich war Angriff immer die beste Verteidigung.
+    561023|00000000||Die Jagd wird versuchen, durch Navigatorenportale in die Festung einzudringen. Gegen diese Art von Magie kann ich nichts ausrichten, deshalb müsst ihr so viele wie möglich schließen, während ihr im Wald kämpft.
+    562123|00000000||Lambert wird Dimeritiumbomben für uns herstellen. Weißt du die Formel noch?
+    562125|00000000||Aber klar.
+    562127|00000000||Ausgezeichnet. Yrden müsste auch bei den Portalen funktionieren. Ich geb jedem von euch außerdem noch ein Amulett, das ihr durchbrechen könnt, um unsichtbar zu werden, aber der Zauber hält nur, wenn ihr stillsteht oder euch langsam bewegt. Wenn ihr hastige Bewegungen macht oder gegen Feinde kämpft, seid ihr sichtbar.
+   1062897|00000000||Außerdem können sie euch hören und riechen. Wenn ihr auf eine große Einheit stoßt, greift nicht an. Gebt Triss Bescheid, sie unterstützt euch.
+    561024|00000000||Ich warte auf euer Signal. Sobald ich es sehe, lasse ich Feuer auf den Wald regnen.
+    561025|00000000||Und jetzt zum Rest des Plans.
+    561033|00000000||Was können wir sonst noch verwenden?
+    520448|00000000||Wenn ihr die Jagd im Wald angreifen wollt, kann ich ein paar Fallgruben ausheben. Nach Art der Blauen Streifen.
+   1062493|00000000||Das heißt?
+    520449|00000000||Tief wie die Hölle, am Boden voller spitzer Pflöcke.
+    520435|00000000||Ich hab diese Mahakamer-Mischung mitgebracht - brennt wie knochentrockener Salpeter und klebt einfach an allem.
+    545958|00000000||Wir füllen ein paar Fässer, stellen sie in einen engen Durchgang und jagen sie im richtigen Moment hoch.
+    520454|00000000||Weisst du, dass wir hier auf einem riesigen Gasvorkommen stehen?
+    545962|00000000||Ich könnte Spalten im Boden öffnen und Explosionen erzeugen. Aber das müsste ich vorbereiten.
+    520430|00000000||Es gibt noch das Labor ... und die Werkstatt.
+   1062888|00000000||Vergesst eins nicht: Unsere Ressourcen sind knapp bemessen, unsere Zeit noch knapper. Wir müssen überlegen, welche Waffen gegen die Jagd am nützlichsten sind.
+   1062890|00000000||Das stimmt. Wir müssen dem Labor und der Werkstatt jeweils einen Waffentyp zuweisen.
+   1062878|00000000||Geralt soll entscheiden. Ich geh auf jeden Fall mit ins Labor. Ich brauche nur ein paar Zutaten, eine Flasche und den Herd.
+    520452|00000000||Ich bin zu einigen Experimenten gekommen, seit wir das Karadin-Problem gelöst haben. Die würde ich gerne fertigstellen.
+   1062859|00000000||Ich glaube, ich weiß, wie ich besonders starken Absud Raffards des Weißen herstellen kann.
+    520462|00000000||Wir sind nicht viele, darum brauchen wir so viele Fallen wie möglich.
+    520456|00000000||Hexerfallen sind die beste Idee.
+    520455|00000000||Tränke wären das Beste.
+    520463|00000000||Wir benutzen seit jeher Tränke. Wir brauchen so viele wie möglich.
+    577623|00000000||Reden wir über die Werkstatt.
+    589008|00000000||Dort warten Lambert und Geralt. Sie benutzen das Dimeritium, um die Navigatorenportale zu schließen, und so viele Krieger wie möglich am Betreten der Festung zu hindern.
+    561068|00000000||Sprechen wir über das, was uns erwartet.
+    561071|00000000||Ich möchte darüber sprechen, was uns erwarten wird ...
+    561073|00000000||Danke, kein Interesse. Sprich mit Ciri ... die ist in 'ner tollen Stimmung.
+    320912|00000000||Deine Tränke.
+   1067621|00000000||Ich bringe euch alle in Gefahr. Unnötig.
+   1063130|00000000||Du machst dir zu viele Sorgen. Schau nicht so grimmig. Wir schaffen das.
+    572362|00000000||Wir nehmen Letho mit.
+    572392|00000000||Du kennst meine Meinung.
+    311653|00000000||Danke. Für alles.
+    320926|00000000||Ich sattle die Pferde. Komm, wenn du bereit bist, in den Wald zu reiten.
+    320918|00000000||Ich mache mir Sorgen. Wir haben zu wenige Schwerter aus Meteoritenstahl.
+    320920|00000000||Genug für alle. Hier, Vesemir hat das für dich aufgegabelt.
+    562442|00000000||Eine Gnomenklinge, die Parierstange ist Elfenhandarbeit. Schneidet durch jede Rüstung wie durch Butter.
+    320914|00000000||Ich hab ein neues Trankrezept für dich. Der Absud Raffards des Weißen - extra stark. Hier.
+    561069|00000000||Was ist fertig?
+   1067619|00000000||Wir hatten wenig Zeit zum Vorbereiten, also nicht viel.
+    561067|00000000||Wie laufen die Vorbereitungen?
+    320904|00000000||Ich werde das Gefühl nicht los, dass wir etwas Wichtiges vergessen haben.
+    320910|00000000||Denk einfach nicht dran.
+    520466|00000000||Denkt dran, Ciri darf Eredin nicht in die Hände fallen. Das ist das Wichtigste.
+    520467|00000000||Sehen wir uns den Plan der Festung an und überlegen uns die Details.
+    589009|00000000||Triss wartet auf ihr Signal und gibt den Reitern dann Saures.
+    589010|00000000||Alle anderen werden gegen die Gegner kämpfen, die es bis in die Festung schaffen.
+    589464|00000000||Falls etwas schiefgeht, geben wir den äußeren Hof auf und ziehen uns in den Burgfried zurück.
+   1062844|00000000||Dort warten Lambert, Geralt und Letho. Sie benutzen das Dimeritium, um die Navigatorenportale zu schließen und möglichst viele Krieger von der Festung fernzuhalten.
+    577675|00000000||Fassen wir zusammen: Yennefer erschafft eine magische Barriere, um den Hauptansturm zurückzuschlagen. Das sollte sie in den Wald treiben.
+    577572|00000000||Ja, erledigt. Uns bleibt nicht mehr viel Zeit, an die Arbeit.
+    577555|00000000||Ja, an die Arbeit.
+    577556|00000000||Ich möchte etwas ändern.
+    577583|00000000||Hm. Nein, wir sollten etwas anderes tun.
+    577600|00000000||Was möchtest du ändern, Wolf?
+    577610|00000000||Wir sollten das Labor anders nutzen.
+    577584|00000000||Was das Labor angeht ...
+    577585|00000000||Was die Werkstatt angeht ...
+    577635|00000000||Wir sollten die Werkstatt für etwas anderes nutzen.
+    577632|00000000||Wir brauchen Waffen, die die Rüstungen der Jagd durchschlagen ... Räumen wir die Trümmer aus der Schmiede.
+    577627|00000000||Räumen wir die Trümmer aus der Schmiede.
+    577626|00000000||Wir sollten die Mauer reparieren.
+    577630|00000000||Wir müssen zuerst das Loch in der Mauer reparieren. Dazu ist die gesamte Werkstatt notwendig.
+    577634|00000000||Und das Labor?
+    577607|00000000||Wir sind nicht viele, darum brauchen wir so viele Fallen wie möglich. Das hat absoluten Vorrang.
+    577604|00000000||Hexerfallen sind die beste Idee.
+    577603|00000000||Tränke wären das Beste.
+    577602|00000000||Wir benutzen seit jeher Tränke. Wir brauchen so viele wie möglich. Dazu benötigen wir unsere gesamte Ausrüstung.
+    577554|00000000||Alles erledigt?
+    577482|00000000||Wir haben keine Zeit, noch viel mehr zu tun.
+    520465|00000000||Reden wir über die Werkstatt.
+    520445|00000000||Ich wollte die Mauer reparieren. Aber wir brauchen das Werkzeug auch, um die Trümmer aus der Schmiede zu schaffen.
+   1076851|00000000||Trümmer?
+   1076853|00000000||Weißt du das nicht? Vor ein paar Jahren ist das Dach eingestürzt. Hat ein paar exzellente Schwerter begraben ... die könnten wir gut gebrauchen.
+   1076855|00000000||Die Mauer ist genauso wichtig. Wenn sie hier durchkommen, ist die Belagerung schnell vorbei.
+    520443|00000000||Wir brauchen Waffen, die die Rüstungen der Jagd durchschlagen ... Räumen wir die Schmiede aus.
+    520438|00000000||Räumen wir die Schmiede aus.
+    520437|00000000||Repariere die Mauer.
+    520440|00000000||Das Schließen der Mauer hat Vorrang.
+    520446|00000000||Lasst uns das Labor nicht vergessen.
+    520451|00000000||Ich habe angefangen, Tränke zu brauen. Das würde ich gerne beenden, wenn ich darf.
+   1062876|00000000||Ich könnte noch mehr von diesen Hexerfallen vorbereiten ... aber dazu bräuchte ich die ganze Laborausrüstung.
+    520447|00000000||Wer möchte das Labor benutzen?
+    520431|00000000||Was können wir im Labor machen?
+    520432|00000000||Reden wir über die Werkstatt.
+    520433|00000000||Hat jemand eine Idee zur Werkstatt?
+    466202|00000000||Haltet die Stellung!
+    466206|00000000||Tod den Bastarden!
+    466204|00000000||Nur noch ein paar!
+    546067|00000000||Ciri! Pass auf!
+    564598|00000000||Stimmt was nicht?
+    564600|00000000||Was ist los mit dir?
+    564602|00000000||Weißt du das wirklich nicht?
+    564604|00000000||Verschwinde. Ich bin fertig mit diesem idiotischen Gespräch.
+    564606|00000000||Werd wieder gesund.
+    564608|00000000||Lass mich zufrieden.
+    564597|00000000||Erhol dich, werd gesund.
+    321510|00000000||Wie fühlst du dich?
+    321512|00000000||Bitte.
+    321514|00000000||Danke für alles.
+    321516|00000000||Sicher.
+    572967|00000000||Danke für deine Hilfe bei der Schlacht. Schade, dass Vesemir weniger Glück hatte.
+   1076917|00000000||Wir haben einen schweren Kampf vor uns. Was macht die Moral?
+    546839|00000000||Erinnerst du dich an die Begegnung mit ihnen, am Galgenhügel?
+    549678|00000000||Wir werden sie ein weiteres Mal besiegen.
+    522215|00000000||Die alte Quälerei. Erinnerst du dich?
+    524938|00000000||Mal sehen, ob die Ballisten noch funktionieren.
+    522532|00000000||Erst ranziehen und dann Löcher reinmachen.
+   1074995|00000000||{Mae rhyvin in lenu! Unds sinhviro ie folt! } [Jemand ist in der Nähe, die Hunde spüren es!]
+   1074993|00000000||{Unds sinvir in riven! Arpha in barodd! } [Die Hunde wittern jemanden! Waffen bereithalten!]
+   1074999|00000000||{Enkillio. } [Sie haben sich zurückgezogen.]
+   1075002|00000000||{Laet ihew! } [Tötet sie!]
+    466152|00000000||Es kommen immer neue Mistkerle!
+    466150|00000000||Aufpassen!
+    466148|00000000||Verdammt!
+    550486|00000000||Wir sind dank Ciri hier.
+    550491|00000000||Ciri wollte hören, was Ihr zu sagen habt.
+    550495|00000000||Und das wird sie.
+    547575|00000000||Es geht mir nicht ums Geld.
+    581817|00000000||Ich bin nicht gekommen, um eine Belohnung zu holen. Ihr habt verlangt, dass ich Eure Tochter herbringe. Und hier ist sie.
+    581939|00000000||Ciri hört Euch an. Dann gehen wir.
+    581942|00000000||Bist du sicher?
+    581944|00000000||Du müsstest nie wieder durch Abwasserkanäle waten und Monster jagen.
+    581946|00000000||Ich bin sicher.
+    581948|00000000||Ich verstehe. Die Ehre hindert dich daran, Geld zu nehmen.
+    581951|00000000||In diesem Fall wartet ein Hengst auf dich in den Ställen, ein reinrassiger Nilfgaarder. Nimm ihn als Zeichen meiner Dankbarkeit.
+    581954|00000000||Danke.
+    550513|00000000||Und jetzt verzeih. Ich will mit meiner Tochter sprechen.
+    550557|00000000||Folge mir, Herr.
+    581800|00000000||Danke.
+    581803|00000000||Geralt ...
+    581806|00000000||Zehn ...
+   1069330|00000000||Zwanzig ...
+   1069332|00000000||Dreißig ...
+    581809|00000000||Vierzig ...
+   1069334|00000000||Fünfzig ...
+   1069336|00000000||Sechzig ...
+    581811|00000000||Siebzig ...
+   1069338|00000000||Achtzig ...
+   1069340|00000000||Neunzig ...
+    581814|00000000||... und das macht glatte Hundert. Das wär's. Hier unterschreiben, bitte.
+    547574|00000000||Danke. Ich brauche sie wahrlich mehr als Ihr.
+    550595|00000000||Deine Belohnung.
+    550487|00000000||Ich halte immer Wort.
+    550490|00000000||So wie ich.
+    550485|00000000||Ich halte immer Wort.
+    550471|00000000||Kaiserliche Hoheit, Geralt von Riva und ...
+    550473|00000000||Cirilla Fiona Elen Riannon, Königin von Cintra, Prinzessin von Brugge und Herzogin von Sodden, Erbin von Inis Ard Skellig und Inis An Skellig und Suzerän von Attre und Abb Yarra.
+    550477|00000000||Gewöhn dich dran. Schon bald wird jede Seele von Nilfgaard bis zu den Drachenbergen vor dir niederknien.
+    550480|00000000||Ich hätte nicht gedacht, dass du dein Wort hältst, Hexer.
+    466258|00000000||Sieht gut aus!
+    466256|00000000||Die gehören mir!
+    466254|00000000||Nicht verteilen!
+   1076933|00000000||Die Jagd wird bald hier sein.
+    520067|00000000||Jetzt müssen wir nur noch auf den Klang von Hemdalls Horn warten.
+    520066|00000000||Tedd Deireádh ist nah. Das Letzte Zeitalter, die Endzeit.
+    566109|00000000||Ich werde ein Auge auf ihn haben.
+    566120|00000000||Ich werde ein Auge auf Letho haben.
+    566122|00000000||Und ich verspreche, ein braver Junge zu sein.
+    566124|00000000||Ach, verpiss dich.
+    566126|00000000||Geralt, das ist ein Problem. Nimm es bitte ernst.
+    566111|00000000||Ich brauche Letho.
+    566113|00000000||Unsere Meinung zählt auch.
+    566116|00000000||Ich brauche jeden, der sich den Reitern der Jagd im Kampf entgegenstellen kann. Eure Wünsche und Abneigungen sind zweitrangig.
+    566118|00000000||Du machst einen Fehler.
+    566071|00000000||Ich brauche Letho.
+    319746|00000000||Du hättest ablehnen sollen.
+    319748|00000000||Das geht euch nichts an.
+    319750|00000000||Falsch ... es geht uns was an. Wir wollen dich im Kampf lieber nicht im Rücken haben.
+    319752|00000000||Was ist jetzt schon wieder?
+    319754|00000000||Warum hast du ihn überhaupt mitgebracht?
+    465214|00000000||Du kannst immer noch gehen.
+    523502|00000000||Stimmt, aber ich werde es nicht.
+    465216|00000000||Überleg's dir noch mal.
+    465218|00000000||Das mach ich. Aber ich überlege lieber alleine.
+   1076923|00000000||Ich kenne dieses Gesicht. Was beschäftigt dich?
+    465194|00000000||Wir werden Ciri niemals übergeben.
+    465192|00000000||Die Jagd kann jeden Augenblick hier sein.
+    548632|00000000||Hmm ... Ich kenn mich mit Vanillepudding zwar nicht aus, aber für mich geht nichts über Lamberts selbstgebrauten Fusel ...
+    548634|00000000||Wird mich wohl nicht umbringen. Ich probier mal.
+    547453|00000000||Entspann dich. Du musst nicht in allem gut sein.
+    584090|00000000||Hmm ... Es gibt eine bestimmte alte Methode ... Vesemir hat sie mir beigebracht, und Barmin hat sie ihm beigebracht ...
+    584092|00000000||Bringst du mich in die Berge und lässt mich Schierling trinken?
+    584095|00000000||Die Druiden von Skellige setzen sie seit Jahrhunderten ein. Funktioniert immer ...
+    584098|00000000||Heeey!
+    584101|00000000||Das wirst du bereuen!
+    547454|00000000||Ich habe eine Idee, was dich aufmuntern könnte.
+    548521|00000000||Es geht nicht, siehst du das nicht?
+    547445|00000000||Du willst aufgeben? Nach nur acht Versuchen? Zireael ...
+    547447|00000000||Wie oft muss ich's denn versuchen?
+    548524|00000000||So oft wie nötig.
+    548535|00000000||Aber ich mach keine Fortschritte.
+    547449|00000000||Wir machen später weiter.
+    547451|00000000||Als du das erste Mal die Spur versucht hast, bist du auch nicht weit gekommen.
+    581716|00000000||Geralt, bitte. Nicht jetzt.
+    548798|00000000||Verglichen damit ist die Spur ein Spaziergang. Aber darum geht es nicht.
+    548627|00000000||Sondern?
+    548623|00000000||Avallac'h sagt, ich werde es erst schaffen, wenn ich aufhöre, an den Kampf zu denken.
+    548625|00000000||Aber ich kann im Moment einfach nicht an kleine Kätzchen und Vanillepudding denken.
+    552141|00000000||Sag mal ... Wie machst du das?
+    552146|00000000||Was denn?
+    552148|00000000||Dich immer unter Kontrolle zu haben, immer konzentriert zu sein, egal, was passiert.
+    543218|00000000||Du warst ein guter Freund, Lambert.
+    543217|00000000||Ich werde mich immer an deine Lehren erinnern. Und an dein Opfer.
+    575404|00000000||Achtung!
+   1076588|00000000||Roches Fallgruben ... die sind wirklich ideal.
+   1076592|00000000||Du scherzt wohl? Gut, dass wir nicht reingefallen sind.
+   1076594|00000000||Ganz ruhig. Roche kennt sich mit dieser Kampftaktik aus. Die Abdeckung würde unser Gewicht tragen. Bei einem Reiter der Jagd in voller Rüstung ist das was anderes.
+   1076897|00000000||Den Hals sollst du dir brechen, du mieser Schwanz!
+   1076899|00000000||Na dann ... holen wir einen hierher.
+   1076895|00000000||Mal sehen, ob es wahr ist. Bringen wir einen hierher.
+   1076941|00000000||Schön, dich so guter Stimmung zu sehen, Zoltan.
+    465186|00000000||Die kleine Ciri ist erwachsen geworden!
+    465184|00000000||Ich bin froh, dass du sie hergebracht hast.
+   1076938|00000000||Alles in Ordnung?
+   1062909|00000000||Verdammt, in der Nähe dieser Fässer hab ich sogar Angst zu niesen.
+    541507|00000000||Du hast sie gefunden! Hah!
+   1062905|00000000||Sie haben mir gesagt, die Jagd ist hinter ihr her und kann jederzeit ungebeten reinplatzen.
+   1062907|00000000||Also hab ich eine Mahakamer-Mischung vorbereitet. Wenn die hochgeht, bleiben nur Fetzen übrig.
+   1075245|00000000||Du hast dein Werkzeug mitgebracht?
+   1074867|00000000||Ich dachte mir, das wär bei einer Schlacht sinnvoll. Schwerter schärfen, Rüstungen ausbeulen und so weiter.
+   1074869|00000000||Hast ganz recht. Danke, Zoltan.
+   1074871|00000000||Und dann werde ich noch etwas Mahakamer-Mischung brauen. Die ist so explosiv, dass man sie nur scharf ansehen muss, schon geht sie hoch wie ein Flammenfurz. Sehr nützlich bei Belagerungen.
+   1074883|00000000||Na schön, wir reden später, Zoltan.
+   1074881|00000000||Wir reden später.
+   1074880|00000000||Würdest du mir etwas anfertigen?
+   1074891|00000000||Würdest du mir etwas anfertigen?
+   1074893|00000000||Klar. Wenn du ein Schema hast?
+   1074879|00000000||Wie läuft's denn, Geralt?
+    321094|00000000||Wo ist Eskel?
+    321096|00000000||Verdammt. Er sollte doch das Tor öffnen.
+    321098|00000000||Hat er noch nicht getan, also ...
+    321100|00000000||Der kommt klar. Wir müssen uns jetzt um Triss kümmern.
+    311703|00000000||Gefällt euch das, Hurensöhne? Hä?!
+   1076901|00000000||Viele Grüße von Zoltan, ihr Bastarde!
+    563002|00000000||Wir haben wohl keine Wahl.
+    563018|00000000||Ich vertraue der Loge kein bisschen, aber es sieht so aus, als hätten wir keine Wahl.
+    563019|00000000||Haben wir auch nicht.
+    563163|00000000||Du hast recht.
+    563194|00000000||Du hast recht. Hast ja heute gezeigt, dass du auf dich aufpassen kannst.
+    563327|00000000||Es ist einfacher, jemanden zu trösten und zu hoffen, dass schon alles gut geht, als der Wahrheit ins Gesicht zu sehen.
+    563329|00000000||Zireael besitzt große Macht, die sie nicht kontrollieren kann. Sie ist eine Gefahr für sich und andere. Bis sie lernt, sie zu kontrollieren, sollte sie isoliert bleiben.
+    563331|00000000||Erstens - Schwachsinn. Zweitens - wenn du schon von Mut redest, sprich direkt mit mir und nicht über Geralt.
+    563332|00000000||Ich bin weg.
+    564205|00000000||Lass sie gehen.
+    564211|00000000||Ciri braucht Zeit.
+    564213|00000000||Stimmt. Aber auch eine Ausbildung. Sie muss lernen, ihre Fähigkeiten zu kontrollieren.
+    564215|00000000||Ist es wirklich nötig, sie auszubilden?
+    564217|00000000||Du hast gesehen, was passiert ist. Sie könnte eine größere Bedrohung als die Jagd darstellen.
+    564219|00000000||Gut. Wir bleiben noch eine Weile hier. Dann kommen wir zu dir und Triss nach Novigrad. Wir treffen uns in Rittersporns Taverne.
+    564220|00000000||Los, Yen. Je schneller wir aufbrechen, desto besser.
+    564222|00000000||Bis dann.
+    564207|00000000||Ich geh ihr besser nach.
+    564209|00000000||Warte. Sie braucht Zeit. Sie muss selbst mit ihrer Trauer fertig werden.
+    575276|00000000||Wir sollten möglichst schnell anfangen, sie auszubilden. Sie muss lernen, ihre Fähigkeiten zu kontrollieren.
+    564204|00000000||Ich geh ihr nach.
+    563195|00000000||Du darfst dich nicht zeigen.
+    563197|00000000||Bin ich ein Banner, das von den Feinden ferngehalten wird? So behandelt ihr mich. Niemand wagt es, der Bedrohung entgegenzutreten!
+    563198|00000000||Aber wir müssen sie töten, sonst sterben wir früher oder später alle.
+    563164|00000000||Wir müssen dich schützen.
+    575167|00000000||Ich habe eine Abmachung mit dem Kaiser getroffen. Im Gegenzug für ihre Hilfe erhält die Loge Amnestie und Asyl in Nilfgaard. Das ist unser Faustpfand.
+    563020|00000000||Triss, ich will heute aufbrechen und die Zauberinnen finden. Hilfst du mir?
+    563021|00000000||Natürlich. Ich weiß sogar, wo du anfangen könntest.
+    563158|00000000||Verdammt!
+    563160|00000000||Ihr plant schon wieder, ohne auch nur zu fragen, was ich denke! Mir reicht es!
+    563162|00000000||Ich lass mich nicht irgendwo hinbringen wie ein ... Bündel! Ich sitze nicht herum und drehe Däumchen. Ich bin das Warten und das Versteckspiel leid!
+    563013|00000000||Ich will die Loge nicht in Ciris Nähe haben. Ich traue diesen Frauen einfach nicht.
+    563015|00000000||Was sollen wir denn machen? Alleine kämpfen und einen schönen, aber sinnlosen Tod sterben?
+    563017|00000000||Nein, Geralt. Durch irgendein Wunder haben wir diesen Kampf überlebt und einen jämmerlichen Sieg zu einem enormen Preis herausgeschlagen. Schluss mit den Scharmützeln. Wir müssen den Gegner in offener Schlacht stellen.
+    563001|00000000||Ich will die Loge da nicht hineinziehen.
+    563003|00000000||Die Loge ist am Ende.
+    563005|00000000||Viele Logenmitglieder sind tot, der Rest ist untergetaucht.
+    563007|00000000||Philippa Eilhart, Margarita Laux-Antille und Fringilla Vigo leben vermutlich noch.
+    563009|00000000||Und Francesca und Ida? Würden sie mitmachen?
+    563011|00000000||Ich glaube, man könnte sie überzeugen. Würdest du mit Keira lieber alleine reden?
+    579417|00000000||Das wäre wohl am besten.
+    535737|00000000||Wir konnten noch nicht sprechen. Danke für deine Hilfe. Und deine Fürsorge für Ciri.
+    534850|00000000||Dank mir später. Jetzt müssen wir Zireael von hier fortbringen, sie verstecken. Wir brauchen eine größere Streitmacht.
+    535739|00000000||Alle, auf die wir uns verlassen können, sind nach Kaer Morhen gekommen.
+    535741|00000000||Darum müssen wir die Hilfe von Feinden suchen. Magie ist die beste Verteidigung gegen die Jagd. Wir brauchen Zauberinnen. Erzmeisterinnen der Magie.
+    535743|00000000||Du meinst die Loge?
+    572977|00000000||Zireael kann riesige Machtmengen nutzen. Warum hat sie keiner gelehrt, sie zu kontrollieren?
+    579390|00000000||Das haben durchaus welche getan.
+    572978|00000000||Offensichtlich vergebens.
+    579393|00000000||Darüber streite ich gerne mit dir - ein andermal.
+   1003639|00000000||Wie ist es denn so, zwischen den Welten zu reisen?
+   1003641|00000000||Es ist ... schön.
+   1003643|00000000||Schwierig?
+   1003645|00000000||Zuerst schon, aber dann klappte es automatisch, wie beim Reiten.
+   1003647|00000000||Das würden viele Magier doch sicher gerne machen ...
+   1003649|00000000||Bestimmt würden sie das ... Aber Avallac'h sagt, dass sie weder das Wissen noch das Talent dazu besitzen. Er hat vier Jahrhunderte damit verbracht, es zu lernen, und er kann trotzdem nur Portale aufspüren und benutzen, die es schon gibt.
+   1003653|00000000||Ich gehe, wo und wann immer ich will.
+   1003636|00000000||Wie ist es, zwischen den Welten zu reisen?
+   1003655|00000000||Eredin hat dich immer wieder aufgespürt. Wie war das möglich?
+   1003573|00000000||Wenn ich zwischen den Welten wechsle, entsteht dabei eine Art Stoßwelle. Jeder, der entsprechend ausgebildet ist, kann sie spüren. So erklärt es jedenfalls Avallac'h. Er kann das auch.
+   1003666|00000000||Dann solltest du deine Macht wohl nie mehr einsetzen ...
+   1003574|00000000||So ist das nicht. Der Impuls ist um so stärker, je weiter die "Reise" ist. Bei kurzen Strecken ist die Störung kaum zu merken.
+   1003637|00000000||Wie kann Eredin dich aufspüren?
+    308532|00000000||Ich sollte gehen.
+   1003486|00000000||Gut, wir reden später.
+    308530|00000000||Leb wohl.
+   1003482|00000000||Was hast du vor deiner Rückkehr gemacht?
+   1003394|00000000||Als du Yen und mich auf die Malus Insel gebracht hast ... was ist mit dir geschehen? Was hast du gemacht?
+   1003395|00000000||Ich bin gereist ... durch Raum und Zeit und verschiedene Welten ... Ich habe Häuser aus Glas gesehen, ich bin am Ende der Welt mit Einhörnern gerannt, ich habe sogar eine Weile in einem Königreich unter Wasser gelebt.
+   1003397|00000000||Hm ... Freiheit. Hat dir immer gefallen.
+   1003398|00000000||Gefällt mir heute noch.
+   1003399|00000000||Warum bist du dann zurückgekehrt?
+   1003400|00000000||Es wurde mir zu viel. Ich bin fast ertrunken darin. Wenn alles möglich ist, ist das bald gar nicht mehr so verlockend.
+   1062485|00000000||Einst hatte ich Angst vor diesen Übungen.
+   1062487|00000000||Argh, die ganzen blauen Flecken ...
+   1003372|00000000||Hast du kurz Zeit?
+   1003374|00000000||Natürlich.
+   1076931|00000000||Da hat ja jemand gute Laune ...
+    465166|00000000||Wir können es schaffen.
+    465164|00000000||Wenn sie bluten, können wir sie töten.
+   1076929|00000000||Vesemir.
+    541560|00000000||Willkommen zu Hause.
+   1062943|00000000||Ich hab ein paar alte Schwerter aus Meteoritenstahl gefunden.
+   1062945|00000000||Sie liegen gut in der Hand. Und sie dürften die Rüstungen der Wilden Jagd glatt durchbohren.
+    562491|00000000||Ich will auch kämpfen.
+    562497|00000000||Ich sitze nicht rum, während ihr euer Leben für mich riskiert.
+    562499|00000000||Geh wieder rein!
+    575678|00000000||Duvvelsheyss!
+    562501|00000000||Nein! Geralt hat das Signal aus den Wäldern gegeben, und Triss hat den Zauber nicht gewirkt!
+    562503|00000000||Verdammt! Renn zu ihr!
+    562493|00000000||Ich kann mich nicht ewig verstecken! Ich muss mich ihnen stellen!
+    562495|00000000||Geh wieder rein, sofort!
+    562490|00000000||Ich muss mich ihnen stellen.
+    529468|00000000||Du solltest drinnen warten!
+    529686|00000000||Halt durch, Triss!
+   1077942|00000000||Geralt ... Wo ist er ...? Wir müssen ...
+   1077944|00000000||Argh!
+   1077946|00000000||Diesmal entkommst du mir nicht!
+   1077948|00000000||Aaaah!
+   1077950|00000000||Imlerith!
+   1077952|00000000||Los lauf!
+   1077954|00000000||Sie kann dich nicht im Stich lassen.
+   1077956|00000000||Ihr Menschen seid einfach so ... unpraktisch veranlagt.
+   1077958|00000000||Ciri! Nein!
+   1077960|00000000||Tu´s nicht. Ich verbiete es dir!
+   1077962|00000000||Du warst schon als Kind so widerspenstig.
+   1077964|00000000||Das mochte ich an dir.
+   1077966|00000000||Flieh jetzt!
+   1077968|00000000||Neeeeiiiiiin! Neeiiin!
+   1077938|00000000||Komm!
+   1077940|00000000||Ah!
+   1077974|00000000||Gvaed, gvaed uncym, cym'morth!
+   1077970|00000000||{Emitting a mind-piercing, ear-bleed inducing shriek.}
+   1076935|00000000||Verdammt ... ich war vor dem Kampf gegen den Drachen nicht so nervös.
+    465190|00000000||Nur du und ich wissen wirklich, was uns allen bald bevorsteht.
+    465188|00000000||Du hast sie schon einmal besiegt. Ich weiß, du wirst es wieder schaffen.
+    550425|00000000||Warte noch kurz. Ich hab etwas vergessen.
+    550427|00000000||Beeil dich.
+    547548|00000000||Warte noch.
+    547547|00000000||Ja.
+    547554|00000000||Gehen wir.
+    550421|00000000||Bereit?
+    582097|00000000||Puh, ist der stark.
+    548945|00000000||Vielleicht versucht ihr es mit 'ner anderen Methode.
+    548947|00000000||Wir haben mindestens zwanzig probiert.
+    548949|00000000||Mach dir nichts draus ... Du musst nicht alles können.
+    549147|00000000||Du bist gut mit dem Schwert und mit dem Bogen ... Überlass die Magie den Magiern.
+    582102|00000000||Ja ... Schenk noch einen ein.
+   1062964|00000000||Ellbogen höher.
+   1062966|00000000||Der ist hoch genug.
+   1062968|00000000||Du lässt ihn jedesmal sinken, wenn du die Sehne loslässt.
+   1062970|00000000||Außerdem verlangen Brandprojektile eine andere Flugbahn.
+   1062984|00000000||Was ist an Flammenpfeilen eigentlich so toll?
+   1062986|00000000||Sie setzen das Ziel in Brand.
+    463213|00000000||Vielen Dank, dass ihr beide gekommen seid.
+    524215|00000000||Keine Ursache. Aber du hast vergessen, mich einzuladen.
+    524219|00000000||Spar dir die Entschuldigung, Geralt. Ves hat ihre Wut unterwegs an mir ausgelassen, sie ist fast drüber hinweg.
+    524221|00000000||Sind wir wirklich nur so wenige?
+    561010|00000000||Wir sehen uns um. Ich muss mich mit dem Schlachtfeld vertraut machen.
+    561004|00000000||Nur die Qualität zählt, nicht die Quantität.
+    561006|00000000||Die Denkweise eines Hexers. Das mag fürs Jagen und Bekämpfen von Monstern gelten, aber nicht für große Schlachten.
+    561008|00000000||Ich hoffe, du weißt, was du tust.
+    561002|00000000||Ja, aber wir werden gewinnen.
+    561001|00000000||Ja.
+    560998|00000000||Ja.
+    561000|00000000||Ich hoffe, du weißt, was du tust.
+    542224|00000000||Du bist hier.
+    550634|00000000||Hat er dir was Besonderes angeboten?
+    547836|00000000||Ja, was sehr Besonderes. Und sehr Absurdes.
+    547842|00000000||Tut mir leid, ich möchte nicht darüber sprechen. Zumindest jetzt nicht.
+    547843|00000000||Ich dränge dich nicht. Wann du willst. Gehen wir.
+    547838|00000000||Was war das übrigens für eine Sache mit dem Geld?
+    547839|00000000||Der Kaiser hat mehr als genug davon. Warum sollte er es nicht mit uns teilen?
+    547840|00000000||Ging es dir die ganze Zeit nur darum? Von Anfang an?
+    550609|00000000||Nein. Es ging immer nur um dich. Um dich allein.
+    581839|00000000||Es wirkte da drinnen aber so, als ginge es ums Geld.
+    550612|00000000||Ciri, ich ...
+    581882|00000000||Sonst hättest du es nicht annehmen sollen.
+    550614|00000000||Sei still. Bis Velen hab ich mich hoffentlich wieder beruhigt.
+    547835|00000000||Und?
+    550632|00000000||Wenn er denkt, er könnte mich kaufen, hat er sich geschnitten.
+    546415|00000000||Geralt, halt sie auf!
+    546416|00000000||Ich muss einen Vitalitätskreis formen!
+    575674|00000000||Azar! Anatha! Vellos!
+   1075126|00000000||Die Wand hält! Und Hjalmar hat den Riss versiegelt!
+   1075307|00000000||Tolle Arbeit!
+    466366|00000000||Die Mauer hat sie aufgehalten!
+   1063022|00000000||Verdammte Hunde. Wir hätten die Wand flicken sollen!
+   1075121|00000000||Hjalmar hat das Portal versiegelt!
+   1075090|00000000||Wir müssen die Portale schließen, sonst sind wir tot!
+   1075108|00000000||Es werden immer mehr!
+   1075110|00000000||Hilfe! Ich bin bei den Pendeln!
+   1075112|00000000||Schon unterwegs!
+   1075130|00000000||Geralt! Ich kann sie nicht mehr aufhalten!
+   1075132|00000000||Sie kommen durchs Haupttor in den Hof!
+   1075102|00000000||Geralt! Sie kommen durch Savollas Lücke rein!
+   1075104|00000000||Zu Eskel! Alles vorwärts!
+    565955|00000000||Du hast uns gerettet.
+    565974|00000000||Ohne dich wären wir alle tot.
+    565976|00000000||Nein, Geralt. Die Jagd wäre nie nach Kaer Morhen gekommen, wäre ich nicht hier gewesen.
+    465711|00000000||Vesemirs Begräbnis ... wir sollten es vorbereiten.
+    571205|00000000||Du weißt nicht, wie das ist. Geliebte sterben zu sehen ... wegen dir, für dich.
+    571207|00000000||Alle wussten, worauf sie sich einlassen.
+    571209|00000000||Ja, und ihr habt mich gerettet. Für eine Woche? Zwei?
+    575122|00000000||Wir verstecken dich, tarnen Spuren ...
+    575124|00000000||Nein. Ich fliehe nicht mehr.
+    571203|00000000||Quäl dich nicht. Kein Hexer stirbt je in seinem Bett.
+    565925|00000000||Zollt eurem Freund den letzten Respekt. Dann müssen wir beraten.
+    565922|00000000||Zollt euren Freunden den letzten Respekt. Dann müssen wir beraten.
+    535609|00000000||Va fail.
+    535611|00000000||Für die, die übrig bleiben, darf der Tod nie Vorrang vor dem Leben haben.
+    465713|00000000||Vesemir und Lambert verdienen einen würdigen Abschied. Bereiten wir ihn vor.
+    575112|00000000||Ich kann nicht weinen, ich weiß nicht, wie ...
+    575101|00000000||Es gibt keine Schuld, nur Trauer.
+    535599|00000000||Ich hätte euch fast umgebracht ... euch alle ...
+    465701|00000000||Avallac'h ist schwach, aber er lebt. Triss kümmert sich um die anderen.
+    565918|00000000||Und Lambert … tot ... wegen mir.
+    535489|00000000||Ich ... war zu spät ... um ihm zu helfen.
+    535491|00000000||Das ist nicht deine Schuld.
+    535493|00000000||Ich hätte nicht hierher nach Kaer Morhen fliehen sollen.
+   1076888|00000000||Sie sind hier. Zeit für ein Grußwort.
+   1076891|00000000||Langsam. Das Überraschungsmoment ist elementar. Verbergen wir uns und geben Triss die Möglichkeit, es ihnen zu zeigen. Dann schlagen wir zu.
+    543267|00000000||Gute Arbeit mit den Bomben übrigens.
+    543268|00000000||Immer sorgfältig auf die Portale zielen. Ich hab kein Dimeritium mehr.
+   1062886|00000000||Yen hat erwähnt, dass man Yrden auf die Risse wirken kann. Um sie zu versiegeln.
+    520505|00000000||Ich muss mich bei Yen bedanken, wenn alles vorbei ist. Dieser Zauber ... hat's in sich.
+    561945|00000000||Und die Unsichtbarkeit.
+    520508|00000000||Ihre Hunde könnten dich wittern. Geh nicht zu nah ran. Und denk dran, dass du sichtbar wirst, wenn du kämpfst.
+    520507|00000000||Redet der immer so viel?
+    573009|00000000||Nur, wenn er nervös ist.
+    543272|00000000||Du meinst, Merigold kriegt mehr beschworen als ein paar Schmetterlinge?
+   1076894|00000000||Viel mehr. Wart's ab.
+   1076879|00000000||Eskel.
+   1076881|00000000||Grüß dich, Wolf.
+   1062956|00000000||Ich brauche Ruhe. Muss mich vorbereiten.
+    465105|00000000||Die Wilde Jagd? Das könnte interessant werden.
+    465107|00000000||Wie schön, dich zu sehen.
+    465097|00000000||Wie geht es dir? Gefällt dir Kaer Morhen?
+   1076909|00000000||Besser als Velen, aber das heißt nicht viel.
+   1076906|00000000||Wie war die Reise? Lief alles glatt?
+    465099|00000000||Ich bin lange Zeit über Bergpfade gewandert ... Ihr habt Glück, dass ich's geschafft habe.
+    542422|00000000||Sei gegrüßt, Geralt.
+   1062989|00000000||Wenn ich heute sterbe, will ich dabei wenigstens umwerfend aussehen.
+    573755|00000000||Fühl dich ganz wie zu Hause.
+    573765|00000000||Du wirst keine großen Annehmlichkeiten finden, fühl dich trotzdem wie zu Hause.
+    573757|00000000||Ich hatte dich früher erwartet.
+    573759|00000000||Erst bin ich in die andere Richtung gelaufen, dann aber doch umgekehrt.
+    573761|00000000||Wieso hast du deine Meinung geändert?
+    573763|00000000||Manchmal sollten Frauen ihre Entscheidungen nicht erklären. Das gilt erst recht für Zauberinnen.
+    573754|00000000||Ich dachte, du würdest früher kommen.
+   1062992|00000000||Wirfst du dich für die Wilde Jagd in Schale?
+   1062994|00000000||Frauen werfen sich nur für sich selbst in Schale.
+    572599|00000000||Wie gut, dass du hier bist.
+    572600|00000000||Es ist schön, dich wiederzusehen.
+   1062997|00000000||Lass meine Kommode in Ruhe!
+    521492|00000000||Eine Krabbspinne.
+    521493|00000000||Wir müssen sie locken.
+   1063043|00000000||Halt Wache. Ich lege Fleisch als Köder aus.
+   1063039|00000000||Ich hab hier vor einer Weile Spuren von einer Krabbspinne gefunden.
+   1063041|00000000||Wenn das Vieh nicht weitergezogen ist, könnten wir es aufspüren und der Jagd auf den Hals hetzen.
+    521435|00000000||Siehst du die Wunden?
+   1074969|00000000||Das macht diese Krabbspinnengeschichte doch glaubwürdig.
+   1063047|00000000||Hehehe. Natürliche Auslese bei der Arbeit.
+    464415|00000000||Wir müssen sie schneller besiegen.
+    464411|00000000||Va fail!
+    464413|00000000||Harte Nuss.
+    466087|00000000||Me a'baeth aep arse.
+    466083|00000000||Mist.
+    466085|00000000||So viele.
+    520473|00000000||Ich liebe diese Augenblicke. Die Luft vor einem Kampf ... nichts riecht süßer.

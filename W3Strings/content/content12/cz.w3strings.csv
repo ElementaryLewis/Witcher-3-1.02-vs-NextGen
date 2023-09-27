@@ -1,0 +1,884 @@
+;meta[language=cz]
+; id      |key(hex)|key(str)| text
+    581146|00000000||Aaaaaa!
+    581147|00000000||Milost!
+   1061012|00000000||Rozvaž mě! Rychle!
+    581145|00000000||Pomoc!
+    581222|00000000||Díky...
+    584339|00000000||Potřebuješ ošetřit?
+    581225|00000000||Teď už to zvládnu.
+    584342|00000000||Lovci se mohou vrátit...
+    584344|00000000||Nehodlám tady na ně čekat.
+    584346|00000000||Hodně štěstí.
+    584348|00000000||Bude se hodit.
+    584658|00000000||Ústup? Přece jsme válku neprohráli.
+    584660|00000000||Ticho.
+    584662|00000000||Celý Sever jsme měli na talíři. Co se stalo?
+    584712|00000000||Ticho, nebo ti srazí hlavu za podněcování vzpoury.
+    580688|00000000||Redanijci tady budou každou chvíli.
+    577580|00000000||Je třeba rozhodnout. Pokud císař odmítne, musí to udělat někdo jiný.
+    577582|00000000||Jak se opovažuješ?
+    577589|00000000||Nebýt toho, že moji muži včera v noci zabili vraha, byla by Jeho výsost teď mrtvá.
+    577591|00000000||A ty si myslíš, že ti to dává právo chovat se povýšenecky?
+    577593|00000000||Já si myslím, že další pokus je jen otázkou času a nemohu s jistotou říct, že mu dokážeme zabránit.
+    577597|00000000||Co Novigradský hierarcha?
+    577599|00000000||Co s ním má být?
+    577613|00000000||Půjde na zasloužený odpočinek, nebo ho pošlou rovnou do Darn Ruachu?
+    577615|00000000||V jeho věku by taková cesta byla nemoudrá. A drahá.
+    577617|00000000||Mhm.
+   1068673|00000000||Dobrá. Jdeme.
+    578175|00000000||Kdo tě to naučil?
+    553330|00000000||Vesemir. Už je to dávno.
+    562382|00000000||Jak dávno?
+    553331|00000000||Hodně. Ještě když jsem si chtěl říkat Geralt Roger Erik du Haute-Bellegarcie.
+    572394|00000000||Cože? Hahahah.
+    578177|00000000||Večer ti o tom povyprávím.
+   1068675|00000000||I o tom, jak sis zlomil nohu poté, co ses vsadil, že skočíš ze středy Kaer Morhen a přistaneš v sedle na koni?
+   1068677|00000000||Hm, jak to vůbec víš?
+   1068679|00000000||Eskel mi to řekl. Ale já to chci slyšet od tebe. Určitě máš rozumné vysvětlení.
+    584083|00000000||Čerstvá stopa... Medailon se cuká. Možná bych to měl zkusit...
+    172329|52a3f146||Vesničan
+    577437|00000000||Trpí…
+    577438|00000000||Stará vlčice…
+    578820|00000000||Pořád bojuje…
+    578821|00000000||Ví, že umírá…
+   1030982|d9a6387b||Temerský voják
+   1051892|00000000||Otisky. Trpasličí...
+    579138|00000000||Někdo na mě čeká.
+    579129|00000000||Někdo na mě čeká.
+    579130|00000000||Triss Ranuncul? Neboj, nehodlám ji pronásledovat.
+    579126|00000000||Yennefer mě potřebuje. Nemohu ji opustit.
+    579127|00000000||Chápu.
+    579897|00000000||Do toho ti nic není.
+    579901|00000000||Do toho ti nic není. Už ne.
+    580118|00000000||Hmmm.
+    579142|00000000||Nebyl jsi dobrý otec...
+    579144|00000000||Nebyl jsi dobrý otec. Ciri se tě bála.
+    580462|00000000||I kdyby mě požádala, abych ti něco vzkázal, pochybuji, že by se ti to líbilo.
+    579145|00000000||Rozumím.
+    579143|00000000||Nemluvila o tobě.
+    579148|00000000||Nemluvili jsme o tobě.
+    580471|00000000||Aha.
+    579135|00000000||Jestli je to všechno...
+    577341|00000000||Není. Ale můžeš jít.
+    579136|00000000||Zaklínači. Už tě nechci vidět. Už nikdy.
+    579146|00000000||Mrzelo ji, že se s tebou nemohla rozloučit.
+    579147|00000000||To ti řekla? Opravdu?
+    580421|00000000||Nemusela. Chtěla se usmířit, vím to.
+    579141|00000000||Mrzelo ji, že se nemůže rozloučit.
+    579140|00000000||Říkala Cirilla... požádala tě, abys mi něco vzkázal?
+    579123|00000000||Po válce je pro zaklínače spousta práce. Pojedu na východ, nebo možná na sever...
+    579137|00000000||Po válce je spousta práce.
+    576114|00000000||Kde je tělo?
+    576122|00000000||Nemyslím, že ho někdy někdo najde.
+    577275|00000000||Kdo to ještě ví?
+    577277|00000000||Avallac'h, ten elfí Vědoucí... Ale toho nejspíš také nenajdeš.
+    579115|00000000||A Yennefer?
+    576167|00000000||Rozhodla se zůstat na severu. Tedy jestli proti tomu nenamítáš.
+    579116|00000000||Nenamítám. A ty?
+    573735|00000000||Mluv.
+    575807|00000000||Ciri je mrtvá.
+    575833|00000000||Jak se to stalo?
+    576006|00000000||Znáš věštbu o Bílé zimě? Ciri se ji pokusila zastavit. Podařilo se, ale ji to stálo život.
+   1058925|00000000||Dost.
+    582651|00000000||Trpaslíci se schovávají v křoví.
+    582644|00000000||Trpaslíci - ven s tím.
+    583360|00000000||Jací trpaslíci?
+    583362|00000000||Na tvoje hry nemáme čas. Velitel bude mít ten ukradený pohár zpět.
+    583364|00000000||Kde jsou ti zloději? Mluv, nebo tě...
+    582653|00000000||Tady žádní trpaslíci nejsou.
+    582638|00000000||Tady žádní trpaslíci nejsou.
+    582645|00000000||Kde jsou trpaslíci?
+    583424|00000000||Jací trpaslíci?
+    583425|00000000||Nehraj si s námi, zaklínači. Jsou to zloději. Ukradli zlatý pohár velkomožného Dagborga.
+    583437|00000000||A to je kdo?
+    583438|00000000||Nový guvernér této země.
+    583442|00000000||Pohár musí být nalezen. Řekni co víš, nebo to z tebe vytáhneme sami.
+    582654|00000000||Já to věděl! Věčný oheň se ti odmění. Na ně!
+    583472|00000000||To snad není pravda! Zasratý zaklínač!
+    582656|00000000||Díky, zaklínači. Na ně!
+    582655|00000000||Díky, zaklínači. Na ně!
+    582641|00000000||Trpaslíci jsou schovaní v křoví.
+    583340|00000000||To má být hrozba?
+    583336|00000000||Vy mi vyhrožujete?
+    583366|00000000||Zaklínač nespolupracuje. Chopte se ho.
+    583358|00000000||Vy mi vyhrožujete?
+    583445|00000000||Tak po dobrém to zjevně nepůjde.
+    583447|00000000||Chopte se ho!
+    583348|00000000||Tvůj tón se mi nelíbí, mutante. Nenuť mě, abych tě naučil úctě ke služebníkům Věčného plamene.
+    583350|00000000||Zkus to.
+    583439|00000000||Vy mi vyhrožujete?
+    582642|00000000||Tady žádní trpaslíci nejsou.
+    582661|00000000||To chceš tvrdit, že je to tvůj tábor? Pět korbelů, pět sedel. To je všechno tvoje?
+    583410|00000000||Už ty trpaslíky nějakou dobu sleduji. Mají náskok asi dva dny. Tenhle tábor opustili ve spěchu, asi je něco vyplašilo.
+    583413|00000000||Proč je sleduješ?
+    583415|00000000||I mě okradli.
+    583417|00000000||Okrást zaklínače, to jsou tedy chytráci.
+    583419|00000000||Musíme jet. Kdybys je chytil... no, vlastně nic. Vždyť zítra mašírujeme.
+    582662|00000000||To mi chceš říct, že tady táboříš sám? Pět korbelů a pět sedel? To je všechno tvoje?
+    583450|00000000||Už ty trpaslíky nějakou dobu sleduji. Mají náskok asi dva dny. Tenhle tábor opustili ve spěchu, asi je něco vyplašilo.
+    583452|00000000||Proč je sleduješ?
+    583454|00000000||I mě okradli.
+    583456|00000000||Okradli zaklínače? Vychytralý trpajzlíci.
+    583458|00000000||Pojeďme, ještě je chytíme.
+    583421|00000000||Chceš říct, že je to tvůj tábor? Pět korbelů, pět sedel. To je všechno tvoje?
+    582660|00000000||Už ty trpaslíky nějakou dobu sleduji. Mají náskok asi dva dny. Tenhle tábor opustili ve spěchu, asi je něco vyplašilo.
+    583344|00000000||Hm...
+    583346|00000000||Možná se dozvěděli, jak je velebný Michelius naštvaný.
+    583407|00000000||Pojďme. A ty, mutante, se nám raději nepleť do cesty.
+    582640|00000000||Tady žádní trpaslíci nejsou.
+    582639|00000000||Trpaslíci jsou schovaní v křoví.
+    582637|00000000||Trpaslíci jsou schovaní v křoví.
+    583321|00000000||Velebný Michelius? To je kdo?
+    583323|00000000||Co je zač ten velebný Michelius?
+    583325|00000000||Potulný kazatel, svatý muž pomazaný samotným hierarchou. Už očistil tisíce duší.
+    583327|00000000||A tím, hm, očištěním, myslíte očistný oheň na hranici?
+    583329|00000000||Znáš snad lepší způsob?
+    582643|00000000||Kde jsou ti trpaslíci?
+    583297|00000000||Trpaslíci?
+    583299|00000000||Nedělej, že nic nevíš. Pronásledujeme je už od včera. Ukradli velebnému Micheliovi zlatý kalich.
+    583300|00000000||Každý, kdo pomáhá zločincům, bude potrestán Svatým tribunálem Věčného ohně.
+    170734|00017dcc||Chlapec
+   1061202|7baad1c6||Temerský voják
+    583647|00000000||Stříbrný zaklínačský meč...
+    583648|00000000||Líbí se ti?
+    583649|00000000||Je nádherný! Mohu?
+    583650|00000000||Tady raději ne. Brzy budeš mít příležitostí až dost, zaklínačko.
+    583651|00000000||Co je tam napsáno?
+    583652|00000000||Staré zaklínačské heslo. Kdysi jsem míval podobný meč... Ale tenhle je lepší. Mnohem lepší.
+   1077577|00000000||Tak ho pojďme vyzkoušet.
+    583641|00000000||Zaklínačský meč... Vlaštovka.
+    583642|00000000||Jééee...
+    583643|00000000||Je nádherný. Mohu?
+    583644|00000000||Tady raději ne. Brzy budeš mít příležitostí až dost, zaklínačko.
+    575132|00000000||Hotovo?
+    575133|00000000||Ano.
+    576809|00000000||Uvěřil ti?
+    576811|00000000||Netuším.
+    576799|00000000||To je za toho kuroliška. A už máme další zakázku. Platí málo, ale za námahu to asi stát bude.
+    576801|00000000||Ty teda nezahálíš.
+    583639|00000000||Je tvůj.
+    579151|00000000||Triss čeká v Ellanderu.
+    579152|00000000||Když si pospíšíme, budeme tam za dva dny.
+    579149|00000000||Yen čeká v Ellanderu.
+    579150|00000000||Když si pospíšíme, budeme tam za dva dny.
+   1077618|00000000||Stezka čeká. No tak.
+    579054|00000000||Urážel sluhy Věčného ohně a Jeho výsost, že?
+    579055|00000000||A jak!
+    574781|00000000||Můj švagr schovává nilfgaardské špehy.
+    582006|00000000||Hmmm…
+    582008|00000000||Hlavně sestře neříkej, že jsem ti to prozradil já.
+    582010|00000000||Sestra v tom evidentně jede také. Posvítíme si i na ni.
+    582015|00000000||Tvoje obvinění budeme muset prověřit.
+    582025|00000000||Jasně, jasně.
+    582027|00000000||Víme, co je to za dům. Můžeš jít.
+    582029|00000000||No, povídá se... tedy, slyšel jsem, že prý za informace něco platíte. Trochu peněz.
+    582031|00000000||Tos slyšel špatně. To mluvili o nových daních.
+    574783|00000000||Vím, co jsem viděla. Celou zimu jebala s Nilfgaardskými.
+    582046|00000000||Cyril to taky viděl. Však řekni, Cyrile.
+    582043|00000000||Hm.
+    582072|00000000||Uctívala nilfgaardské bůžky?
+    582074|00000000||Jak to mám vědět? Jsem slušná ženská.
+    582076|00000000||Ale když jí připečete žhavým železem, řekne vám to sama.
+    582047|00000000||Nilfgaardští jsou pryč.
+    582051|00000000||Ale ona tady zůstala! Měli bychom ji odsud vyhnat bičem!
+    579073|00000000||Není na seznamu. Co udělal? A přesně.
+    579075|00000000||Pletichařil s Černými! Intrikoval a kul pikle proti králi.
+    579083|00000000||Pelko Sambor, padesát let, dvě děti, políčko žita a jedna koza...?
+    579084|00000000||Dělejte jak chcete. Já to jen nahlásil.
+    579046|00000000||Bylo to, jak říkám. Donášel Černým, fuj!
+    595889|83463c36||Zbrojířův učeň
+    575034|00000000||Támhle, pane! To je on.
+    575055|00000000||Zbláznil ses?
+    575023|00000000||Hned jsem věděl, že je to Nilfgaarďan! Chci říct špeh. Schovává je už týden.
+    575025|00000000||Určitě?
+    575026|00000000||Jasně že jo. Skaro byl vždycky liška podšitá. Kdysi mi rozoral mez, zloděj jeden. Pojďte, ukážu vám ho!
+    577991|00000000||Pojď blíž, něco ti ukážu.
+    572153|00000000||Co nabízíš?
+    572421|00000000||Tak zatím.
+    572154|00000000||Sbohem.
+    572152|00000000||Co jsme to včera měli?
+    572155|00000000||Co jsme to včera měli za pití? Po té pálence ze spáleného dubu?
+    572156|00000000||Mou vlastní třikrát destilovanou švestkovici. Všichni o ní mluvěj, a to jsem sud načal teprvá nedávno.
+    572644|00000000||Teď asi budeš mít víc hostů.
+    572647|00000000||Abych pravdu řek, mám s váma plný ruce práce. Ale jo, večer se to tady asi naplní víc.
+    572862|00000000||Nejde mi na rozum, proč ta stará krčmářka tuhle hospodu opustila a odjela do Rezavína.
+    572151|00000000||Bohužel, veškerou naši syrovátku… Teda pokud se ti motá hlava.
+    577752|00000000||Hmm.
+    577753|00000000||Smůla.
+    577751|00000000||Staré stopy, ale...
+   1044165|002e13b4||Medvěd
+    575125|00000000||Tehu hrábju sis ale vymyslel? Takový fantas a přitom si taký střízlivý.
+    575503|00000000||Geralt se za mě zaručí. No řekni - vždycky jsem říkal, že jsem hrabě.
+    575505|00000000||Pravda. Vždycky jsi to říkal.
+    575507|00000000||Akorát sa nikdá nikdo neobtěžoval si to ověřit, heheheh.
+    575509|00000000||Co to z ničeho nic máš s tím hrabětem?
+    575527|00000000||No, až se vyhrabeme z týhle bohy zapomenutý díry, mám v plánu se znovu přihlásit o své dědictví - tituly a statky, které mi právem patří.
+    575588|00000000||A co s nimi budeš dělat?
+    575590|00000000||Máš se všemi těmi pozemky a tituly plány?
+    575592|00000000||Prostě je budu mít ve vlastnictví. Samozřejmě je tady taky otázka potomků.
+    575594|00000000||Nekecej. To jako že by sis konečně našel babu hodnů velkého poéta Marigolda?
+    575595|00000000||Můj drahý příteli a společníku, mé srdce patří jen a pouze Priscille, též známé jako Callonetta.
+    575617|00000000||Tvoje srdce možno… ale zbytok tvého těla…
+    575619|00000000||Tu narážku odmítám! A připomínám ti, že mluvíš s hrabětem!
+   1075523|00000000||Není třeba, aby se hrabě rozčiloval. Radši nám řekni, jak se má tvoje milovaná.
+   1075532|00000000||Zotavila se, tělesné zdraví se jí vrátilo, to duševní téměř…
+   1075534|00000000||Zotavila? O co jsem přišel?
+   1075536|00000000||Aaach, jasně… Tys o tom nakonec neslyšel.
+   1075538|00000000||Zaútočili na ňu. Ňáko v tej době, cos byl v Novigradu. Ten pazgřivec ju hrozně zrychtoval.
+   1075540|00000000||Ale jak říkám, už je jí líp. Začala opět účinkovat. Díky bohům.
+   1075529|00000000||Téměř se zotavila. Už dokonce začala znova zpívat. Její hlas je teď trochu hlubší, temnější… Vlastně zní o něco líp.
+   1075546|00000000||Díky za pomoc, Geralte. Znamená to pro mě hodně. Vážně.
+   1075548|00000000||Od čeho jsou přátelé…?
+   1075542|00000000||Promiň, že jsem ti nemohl pomoct. Musel jsem--
+   1075544|00000000||Za pomeň na to, Geralte. Co bylo, bylo.
+   1075550|00000000||Tak ji pozdravuj.
+   1075552|00000000||Neboj se, vyřídím. I ji za tebe políbím - trochu za tebe, většinou za mě!
+    570444|00000000||Jdu na lov.
+    571969|00000000||Jdu na lov králíků. Marigolde?
+    571971|00000000||Králičím gulášem bych nepohrdnul. Ale aby mi mrznul zadek při sběru surovin? Tak s tím nepočítej.
+    571973|00000000||Nasbírám bylinky, koření. Guláš není hotový bez sluncem vysušeného tymiánu a vůně rozmarýnu...
+    571975|00000000||Tak. Pola sů plná rozmarýnu. Kvete jak šílený hned před Yule, né?
+    571977|00000000||A proto půjdu sbírat bylinky do kuchyně.
+    575654|00000000||Eh, nashle.
+   1061558|00000000||Nemáte srdce, ani jeden z vás! I Černý měli větší slitování!
+   1061560|00000000||Jó, Černý měli slitování na rozdávání, jasně, a ještě vám snad platili, ne? Viděl jsem ošklivější...
+   1061562|00000000||Jdi dovnitř, ženská. Nejni moudrý si něco začínat.
+   1061564|00000000||Heheheh.
+   1061553|00000000||Dva pytle ječmene, jeden pohanky, tři ubohý slípky a jedna vychrtlá koza.
+   1061702|00000000||Je to všechno?
+   1061704|00000000||Ano, pane. Prohledal jsem to dvakrát, jestli něco neukrývají.
+   1061555|00000000||Tak to prohledej potřetí. A pořádně!
+    574465|00000000||Takže budou pálit čarodějnice.
+    574466|00000000||Kde tady chtějí najít čarodějnice?
+    574485|00000000||Neboj, však je najdou.
+    584377|00000000||Kdo je to ten lord Darborg?
+    584379|00000000||Jak to mám vědět?
+    575975|00000000||Co říká?
+   1008572|00000000||Že maj bejt nový daně.
+    578012|00000000||Vážně tě to zajímá?
+    578015|00000000||Tebe to vážně zajímá?
+    578018|00000000||Rozhodně. Říkal jsi to sám - královský gryf se jen tak nevidí.
+    578020|00000000||Zas tak vzácné to není. Hádám, že jich budeme muset pár zabít, než se vrátíme na Kaer Morhen. Ale pokud chceš vidět to hnízdo, je hned na tomhle kopci...
+    578025|00000000||Jdeme!
+    578022|00000000||Měli bychom posbírat ty pasti.
+    578031|00000000||Mislav je posbírá. A my bychom se měli pokusit chytit něco po cestě.
+    578065|00000000||Ještě dneska ráno byli ti králíci otázkou života a smrti.
+    578067|00000000||Abych se přiznala, chtěla jsem se s tebou jen projít.
+    578069|00000000||Tak tedy pojďme. To hnízdo je hned na tomhle kopci. Možná tam pořád je mrtvola toho gryfa.
+    578071|00000000||Mmm, výborně!
+    578011|00000000||Měli bychom posbírat ty pasti.
+    577994|00000000||Lovit králíky už se ti nechce?
+    577996|00000000||Pche. Ani ne.
+    577998|00000000||Co teď?
+    578000|00000000||Nic. Jen tak sedím, čekám na tebe. Je tady hezky.
+    578002|00000000||Počkej, až uvidíš Dol Blathanna v zimě. A Modré hory.
+    578010|00000000||Vyrazíme na východ, jakmile roztaje sníh. Myslím, že jsme se tady moc usadili...
+    578004|00000000||Slíbils, že mi ukážeš to gryfí hnízdo, než půjdeme. Tak pojď teď.
+   1061583|00000000||Pane... moje obilí...
+   1061585|00000000||Nepleť se do toho. Tohle je vojenská operace.
+   1061726|00000000||Na mým poli? V mým obilí? Víte, jakou má cenu?
+   1061587|00000000||No, u tvé hraniční čáry jsme vykopali truhlu s nilfgaardským zlatem. Myslíš, že tvoje obilí je cennější?
+   1061728|00000000||Takže hádám, že když budeme důslední, nejspíš najdeme další. Ve tvém obilí...
+   1061730|00000000||Ale--
+   1061732|00000000||Pryč s tebou! A koukej zůstat ve vesnici. Chceme si s tebou promluvit.
+   1061581|00000000||Tak hlouběji! Kopejte hlouběji!
+   1061724|00000000||Prosejete každou píď, je to jasné?! Každou zkurvenou krtinu!
+    458124|f759b018||Nilfgaardský voják
+    577129|00000000||Vlkodlak…
+    552365|00000000||Brr, to je zima.
+    563748|00000000||Tak pojď.
+    579546|00000000||Hm?
+    578145|00000000||Dobře. Stačí. Pojďme na ryby.
+    578135|00000000||Ciri? O čem to mluvíš?
+    578138|00000000||Promiň. Já jen... Teď se to nehodí.
+    578141|00000000||Chceš jít zpátky?
+    578125|00000000||Cože?
+    577573|00000000||Trochu větší rychlost - to by mu stačilo, aby ti roztrhnul ramena dokořán.
+    577574|00000000||Ale rychlý nebyl a neroztrhnul. O co ti jde?
+    577575|00000000||Máš vztek, chceš se vybít. Ale jestli budeš tak neopatrná, příště...
+    577576|00000000||Copak to nechápeš?! Žádný příště nebude!
+    577680|00000000||Něco vymyslím. Počkej tady.
+    577682|00000000||S petardami.
+    577676|00000000||No to mě podrž...
+    577677|00000000||Půjdeme?
+    577678|00000000||Ne. Ani omylem.
+    578161|00000000||To jezero bude určitě plné okounů, cejnů a tresek. Čerstvá treska - tu by sis dala?
+    578165|00000000||Nevadila by mi, ale to budeme čekat, dokud neodejde?
+    578167|00000000||Ne, vystrašíme ho.
+    578171|00000000||Jak?
+   1061579|00000000||Chudák Miloš.
+   1061773|00000000||Nevidím důvod ho litovat. U Černejch pěkně ztloustnul. Samý dobroty.
+   1061777|00000000||Hmm. Před měsícem se na mě tak nějak divně koukal. Teď už vím proč.
+   1061775|00000000||Nilfgaardskej poklad! A nám se o tom ani slovem nezmínil.
+   1061779|00000000||Vážně si říkám, co najdou.
+   1061571|00000000||Vidělas? Redanský na Milošově poli - celý mu to tam překopali.
+   1061573|00000000||Teď?! No vždyť zničej celou úrodu, podupou obilí!
+   1061575|00000000||Pff, obilí! Lidi říkaj, že Černý na tom poli něco zakopali a přikázali Milošovi, aby tam nasel pšenici a schoval to.
+   1061769|00000000||Aaah!
+   1061771|00000000||Pojď. Podíváme se, jestli něco našli.
+    575860|00000000||Tam, v té chatrči...
+    575853|00000000||Pomoc! Rozvaž mě...
+   1059138|00000000||Vydrž, pane! prosím!
+   1059141|00000000||V čem je potíž?
+   1059143|00000000||Svázali je vojáci! Tam! V chalupě!
+   1062036|00000000||Svázali koho?
+   1062038|00000000||Zajali mýho taťku! A strejdu Bogurta! A Klimka! Pomoz mi!
+    578973|00000000||Byl bych ti věřil, kdybys mi ukázal krajkový spoďáry s vyšitejma iniciálama.
+    578986|00000000||To bys spíš řekl, že jsem je ukradl.
+    578988|00000000||Heheheh.
+    578975|00000000||Blbouni.
+    578978|00000000||Neměl jsi někde být?
+    578980|00000000||Jo.
+    578983|00000000||Dobrá.
+    579026|00000000||Kde jste se to měli sejít?
+    579028|00000000||U chatrče toho lovce.
+    579007|00000000||Byl bych ti věřil, kdybys mi ukázal krajkový spoďáry s vyšitejma iniciálama.
+    579009|00000000||To bys spíš řekl, že jsem je ukradl.
+    579011|00000000||Heheheh.
+    579013|00000000||Blbouni.
+    579016|00000000||Tys měl někde být.
+    579018|00000000||To měl.
+    579021|00000000||Dobrá.
+    579030|00000000||Kde se setkáte?
+    579032|00000000||Poblíž chatrče toho lovce.
+    579035|00000000||Nechceš donýst ještě krapet tý pálenky, co sis včera tak pochvaloval?
+    579037|00000000||Ne, musím jít. Slíbil jsem, že budu za úsvitu u chatrče toho lovce.
+    579039|00000000||Jo, no jo vlastně: lov králíků.
+    579041|00000000||Mhm.
+    578990|00000000||Byl bych ti věřil, dybys mi ukázal krajkový spoďáry s vyšitýma iniciálama.
+    578992|00000000||Hahaha. To bys spíš řekl, že jsem je ukradl.
+    578994|00000000||Heheheh.
+    578996|00000000||Blbouni.
+    578920|00000000||Rád vidím, že je ten kůň v dobrých rukou.
+   1074799|00000000||V těch nejlepších. Je u majitele. Stejskalo se ti, Zlaťáku, co? Stejskalo?
+   1074801|00000000||Řekl bych, že ano. Vyrazil, jakmile tě ucítil. Porazil všechny, co mu stáli v cestě.
+   1074803|00000000||Ehm… Neslyšels, jak za ním někdo volá? "Zasraný podpaží" nebo něco takovýho?
+   1075628|00000000||Ale jeden chlap tady divně kleje. Můj soused, Mirko. Dal jsem mu Zlaťáka do opatrování, když jsem odešel… Měl bych za ním zajít.
+   1075631|00000000||Na… Jako důkaz vděčnosti. Za to žes, Zlaťáka přivedl a že je v pořádku.
+    578904|00000000||Vidím, že je ten kůň v dobrých rukou.
+    578951|00000000||A šílenec Radovid to nakonec vyhrál. Prostý vojáci vědí, že mu pár koleček chybí.
+   1075606|00000000||Ale ještě se to může zvednout. Lidi říkaj, že kancléř Dijkstra je moudrej, že vládne rozumem…
+   1075608|00000000||Moudrý? Přesněji řečeno spíš vychytralý.
+    578953|00000000||Ale říkám si, co mě čeká doma...
+    578955|00000000||Neviděl jsem, jak císař zabral Novigrad, ale nelituju toho. Krásný město...
+    578910|00000000||Už jsi pryč dlouho?
+    578912|00000000||Rok, ani ne. Ale řeknu ti, připadá mi to delší.
+    578924|00000000||Donutili tě přidat se k nim?
+    578914|00000000||Ne. Já byl do boje zapálenej. Myslel jsem, že se vrátím s něčím víc než s jizvama na zádech.
+    578922|00000000||Ale kus světa jsem viděl, to zase jo. Pár mamutích bitev. Nějaký ty slavný generály zdaleka. A spoustu zkurvysynů.
+    578903|00000000||Už jsi pryč dlouho?
+    578902|00000000||Na které straně jsi byl?
+    578906|00000000||Na které straně bojuješ?
+    578908|00000000||Jako většina - na vlastní. Bojuju, abych přežil.
+    578918|00000000||Umírání je stejný - hlína a sračky, ať už pod redanskejma orlama, nebo císařským sluncem. V tom žádná sláva nejni.
+    578885|00000000||Že mě ta herka pozná po všech těch letech...
+    578899|00000000||Jsou chytrý, vypěstujou si pouto - trochu jako lidi. Viděl jsem důstojníky, co kvůli padlejm koním brečeli.
+    578901|00000000||Ačkoliv kvílející ženský a brečící děti s nima ani nehnou.
+    578957|00000000||Říká se, že císař otrávil svou vlastní armádu. To je celá politika. Jednomu to nejde na rozum.
+    582809|00000000||Tož, díky za pomoc, zaklínaču. Sem ogarům říkal, že si férový chlap, že sme ti šíf čórnůt nemali.
+    583261|00000000||Slyšel jsem, že teď děláte do investic...
+    583263|00000000||Tož ja, investýrujeme do movitostí. Bo dneska vážně jinak nevíš…
+    583265|00000000||Ten zlatý pohár navíc se bude hodit... jasně, chápu.
+    583267|00000000||Co jste s ním udělali?
+    583268|00000000||Eh, no už ho nemáme. Kupčík sa našel. Akýsi pan Zrcadélko, či tak cosyk. Ale dobré prachy cáloval, to jo.
+    583274|00000000||Bysme sa s tebů aj podělili, ale ty si od ksichtu takový ten, co zisky z čórky bere ako cosyk špinavého.
+    583276|00000000||Ja ja, máš takový ten spravedlivě nasratý kukuč, no fakt.
+    583286|00000000||Vaše peníze nechci.
+    583287|00000000||Tož čumte na něj, jak sa urazil! Jakbysme mu obrázek nahatej baby ukázali!
+    583290|00000000||Zaklínači majů svoje zásady. Nečórovat, baby v knajpách po řiti neplácat a poctivé pocestné nepřepadávat.
+    583292|00000000||Občas uděláme výjimku. Zvlášť u těch pocestných.
+    583294|00000000||Tož ať sa daří, zaklínaču.
+    583278|00000000||Neboj. Nechte si vaše peníze.
+    583277|00000000||Když na tom tak trváš, vezmu si peníze.
+    583279|00000000||Přece neodmítnu přátelskou nabídku. Trocha peněz by se mi vlastně docela hodila.
+    583281|00000000||Zaklínačská morálka. Pche. Svět sa do řiti řítí.
+    583284|00000000||Dobře, že sme mu ten zasratý šíf čorli.
+    582142|00000000||Schovajte sa! Dů po nás!
+   1059837|00000000||Heh?
+    583252|00000000||Co se děje?
+    582143|00000000||Vobec si nás neviděl.
+    583244|00000000||Jak jste se sem dostali?
+    583246|00000000||Máme tady obchodné kšefty. Zlé časy, sám víš. Je třeba zarábat prachy, ako to len ide.
+    583249|00000000||Lidi tady potřebují geodety?
+    583255|00000000||Překvalifikovali sme sa. Teďkonc sme investóři.
+    583258|00000000||Investoři?
+    583179|00000000||Co tady děláte?
+    583180|00000000||Ukradli jste mi loď.
+    583184|00000000||Ukradli jste mi loď.
+    583189|00000000||Enem sme si ji vypučili. Věděli sme, že je tvoja. Myslíš si snad, že bysme cosi takého zrobili kámošovi? Ojebali ho do řiti bez mýdla, kým kocovinu vyspává?
+   1059839|00000000||Hm? Aj, to by sa mi lůbilo... Hehehe.
+    583192|00000000||Takže mi ji vrátíte?
+    583236|00000000||A čemu bys u všetkých bohů a nebohů potřeboval šíf zrovna tady?
+    583238|00000000||No dobrá. Jako bych nic neřekl.
+    583996|00000000||Dobrá. Vylezte.
+    583166|00000000||Jaká byla plavba?
+    582136|00000000||To mluvíš o tých zasratých děravých neckách z Ostrova mlh? Svinsků kliku máš ty a ta ďevčica, že ste tam s náma neboli.
+    583171|00000000||Ani by si sa tam nevlezl. Naložený sme boli, že sme skorem na súšinu nedojeli.
+    583173|00000000||A po rybích hovnech smrděla, fuj.
+   1059835|00000000||...
+    579282|00000000||Tys mě na Kaer Morhen na zádech nikdy nevozil, pamatuješ? K tomu se uvolil jen Vesemir.
+    579280|00000000||Ugh!
+    579284|00000000||Tos musela čekat až doteď, abys mi to připomněla? Od Kaer Morhen jsi něco přibrala.
+    579287|00000000||Hahahah.
+    579289|00000000||Hahahah.
+    579292|00000000||Ciri?
+    579294|00000000||Měli bychom se vrátit.
+    569886|00000000||Moc díky! Sám bych ho nikdá nechytil.
+   1074807|00000000||Zasraný uši! Kdo to je? Hubrecht! Tak proto byl Zlaťák tak rozdováděnej! Kopal, jako by ho kousaly hovada!
+   1074809|00000000||Rád tě vidím, Mirko. Nezměnil ses ani trochu. Ani trošičku.
+   1074811|00000000||Pojď dovnitř. Shoď ten kabát a posaď se ke krbu! Já ještě přivážu Zlaťáka a hnedle se vrátím s nějakou lahvinkou!
+    578096|00000000||Je pryč.
+    577477|00000000||Zlobila se, že musela čekat?
+    577478|00000000||Ne, chtěla se toulat po polích. Připravila krycí pachy a úplně sama naolejovala pasti s čelistma.
+    577479|00000000||Byl by z ní dobrý lovec, že ano?
+    577480|00000000||Ani ne, je holka moc netrpělivá.
+    578109|00000000||Nejspíš by chytala králiky holejma rukama a strkala je do pastí, protože by jim trvalo moc dlouho, než by do nich vlezli sami.
+    577481|00000000||Kam šla?
+    578103|00000000||Nedaleko. Jen támhle.
+    578106|00000000||Sbohem.
+    574033|00000000||Jasné?
+    574039|00000000||Ať je to kámoš nebo třeba brácha, to mě nezajímá.
+    578814|00000000||Dezertéry je třeba popravovat na potkání. Bez soudu.
+    574037|00000000||Rabování ve svatyních a krádeže uměleckých děl jsou zakázány a budou se trestat smrtí.
+    578858|00000000||Všechny takové předměty budou oficiálně zkonfiskovány, zabaleny a odvezeny do Nilfgaardu.
+    578861|00000000||Náležitá prémie k žoldu bude vyplacena po návratu.
+    172334|06c10782||Skelližanka
+    568547|00000000||Pomoc!
+    568544|00000000||Heeeej! Zatraceně! Aaaaaaau! Zkurvený uši…
+    595891|fbee3e23||Selka
+   1061290|00000000||Na pochod vyrážíme za dvě hodiny!
+   1061734|00000000||Každý, kdo nebude připraven v plné polní, bude považován za zběha.
+   1061736|00000000||Zlenivěli jste, vy podělanci, to máte z toho temerského žitného piva!
+   1061738|00000000||Já vám připomenu, co to znamená, když pochoduje císařské vojsko!
+    577221|00000000||Co ti ta Ježibaba udělala?
+    577308|00000000||Ukradla mé dceři medailon.
+    577310|00000000||Dej na má slova. Ta čarodějnice bude bojovat jako štvaný rosomák. Může tě zmrzačit, nebo i zabít…
+    583061|00000000||Proč to riskovat? Najdi té dívce nový přívěsek. Její žal časem přebolí.
+    577312|00000000||Nepřebolí. Má dcera je mrtvá.
+    577218|00000000||Dobrá.
+    577223|00000000||Mluv.
+    577224|00000000||Nedaleko je vlčí doupě. Uvnitř jsou vlčata. Dostaň je z močálu.
+    577225|00000000||Proč?
+    577226|00000000||Tady nepřežijou, anebo se změní v něco… zlého.
+    578819|00000000||Zkusím to.
+    578948|00000000||Ne.
+    577217|00000000||Ne.
+    577141|00000000||Ne. Kolik už jsi jich zabil? Kolik jich ještě zabít můžeš?
+    577142|00000000||Nevím. Většinou jsem neměl na vybranou. Je to prašivá doba.
+    577143|00000000||To tedy je.
+    577182|00000000||Nějaké poslední přání?
+    577139|00000000||Ne.
+    577212|00000000||Jeden tu je. Najdi tu Ježibabu, proveď mě močálem - k ní.
+    577213|00000000||A pak?
+    577214|00000000||Pak se uvidí.
+    577215|00000000||Eh… Co ti ta Ježibaba udělala?
+    577216|00000000||Ukradla mé dceři medailon.
+    577304|00000000||Když dovolíš… Proč to riskovat? Ježibaba bude bojovat. Bude bojovat jako štvaný rosomák. Může tě zmrzačit, nebo i zabít…
+    583084|00000000||Najdi té dívce nový přívěsek. Její žal časem přebolí.
+    577305|00000000||Nepřebolí. Má dcera je mrtvá.
+    577307|00000000||Běž.
+    577140|00000000||Jeden tu je.
+    577130|00000000||Kdo jsi?
+    577131|00000000||Ty víš, kdo jsem. A proč tu jsem.
+    577132|00000000||Vím. Nemusíš… Už nejsem nebezpečný. Hladovím, neboť močál je otrávený. Nemám sílu lovit lidi.
+    577133|00000000||Vyvolala tě Ježibaba?
+    577134|00000000||Ve spánku… Měl jsem kdysi vlčí sny… Teď sním o hladu, bolesti a krvi…
+    577135|00000000||Kde je?
+    577136|00000000||Tam někde… v močálu.
+    577181|00000000||Jiný způsob není?
+    573702|00000000||Jsou to jen řeči. Císař teď nemá důvod plenit Novigrad. To je jako kdyby přesypával zlaťáky z jedné kapsy do druhé.
+    573703|00000000||Otec tvrdí, že pod chrámem Věčného ohně je pokladnice. A císař ji vybrakuje a najme za to žoldáky.
+    573704|00000000||To je něco jiného. Novigradští kupci sotva budou protestovat, když císař rozpráší kněží na všechny strany.
+    516508|b0678eeb||Kůň
+   1061683|00000000||Čím dál kráčíme od Svatého plamene Jediné pravé víry, tím jsou pověry temnější.
+   1061362|00000000||Tady na venkově ani netuší, jak často se proti Svatému ohni rouhají.
+   1061684|00000000||Je to tu rozhodně lepší. Novigradští kacíři jsou moc chytří.
+   1061686|00000000||Ukaž jim doruda rozpálené železo a ti prašivci vás zatáhnout do debat o etice.
+   1061366|00000000||Já to vidím tak, že tady venku je víc paliva pro hranice. Je to dobré místo, o tom není pochyb.
+    577544|00000000||Dnes jsme měli cvičit.
+    577545|00000000||Uh-huh.
+    577546|00000000||Takže zítra za úsvitu?
+   1068722|00000000||Dám ti zabrat jako za starých časů.
+   1068724|00000000||Nejspíš už je to nějaká doba, co ti někdo ukázal, kolik se toho ještě musíš naučit.
+    577547|00000000||Mhm.
+   1068727|00000000||A-hem. Už jsme skoro tam.
+    553394|00000000||Pamatuješ, jak jsem cvičila na kyvadle?
+   1068716|00000000||Jak jsem se bála, že to nezvládnu, a tys mi zakázal to vzdát?
+   1068718|00000000||Byla jsem černomodrá od modřin skoro pořád. To kyvadlo byla noční můra.
+    553397|00000000||Jak bych mohl zapomenout?
+    553398|00000000||Ty měsíce na Kaer Morhen - utekly tak rychle.
+    562408|00000000||Kéž bychom spolu tehdy trávili víc času.
+    578869|00000000||Jak se jmenuješ, vlkodlaku?
+    578870|00000000||Berem.
+    578871|00000000||Doveď mě k čarodějnici, Bereme.
+    577227|00000000||Možná, kdysi, v jiný čas… bych byl pomohl.
+   1065298|00000000||Nemůžu se na to dívat... Musíš zemřít...
+   1065300|00000000||Nepleť se do toho!
+    579153|00000000||Jedno vlče žije…
+    579154|00000000||No tak, na to nemáme čas.
+    579155|00000000||Samo nepřežije.
+    579156|00000000||Doveď mě k Ježibabě.
+    578938|00000000||Je blízko. Někde tady…
+    578939|00000000||Vrať se do svých vlčích snů, Bereme. Zachraň to vlče. Jdi pryč, daleko. Najdi si pohlednou vlčici. A žij.
+    578940|00000000||Nech mě, abych ti pomohl.
+    578941|00000000||Ne.
+    578942|00000000||Pamatuj - bude bojovat jako štvaný rosomák. Může tě zabít.
+    578943|00000000||Vím. A teď jdi.
+   1061689|00000000||O politice toho moc nenamluvím, protože toho moc nevím. Ale popořádku - vždycky musíš mít jmění.
+   1061691|00000000||Tři sta padesát, tři šedesát...
+   1061693|00000000||Popadni je za měšce a budou tě následovat srdcem i duší.
+   1061695|00000000||Čtyři sta deset, čtyři dvacet...
+   1061697|00000000||Černí tady toho hodně zanechali. Ta truhla, co jsme našli, ta byla... kolik?
+   1061699|00000000||Čtyři sta... do prdele, už jsem vám to říkal! Buď přestanu chlastat, nebo mě kurva přestanete přerušovat!
+    583007|00000000||Zoufalost tě požírá, jako červi požírají mrtvolu.
+    583009|00000000||Tvé maso uzené toxiny… nasládlé bolestí.
+    583011|00000000||Ona trpěla taky. Ubohá a sama, tak sama…
+    583013|00000000||Tohle tě bude strašit navždy.
+    579063|00000000||Už ne.
+    582987|00000000||Přeješ si zemřít, zaklínači? Chceš, aby tvé utrpení skončilo?
+    578944|00000000||Změnil ses. Trpíš.
+    578946|00000000||Vyhledáváš smrt, cítím to. Poznám dech sebevraždy… Znamení nelžou.
+    578947|00000000||Ta malá kurvička, její prokletá krev… Zabila mé sestry. Jsem sama - je to tvoje vina.
+    584873|00000000||"Blesk, jenž prořízne temnotu..."
+    584867|00000000||Dubhenn haern am glâdeal, morc'h am fhean aiesin"
+    584869|00000000||Blesk, jenž prořízne temnotu, světlo rozhánějící noc.
+    584871|00000000||Přesně.
+    584855|00000000||Runy v klasické starší mluvě. Žádná stylizace, prosté a přesné.
+    584857|00000000||Mohu?
+    584859|00000000||Je tvůj. Pokud si ho chceš vyzkoušet... nechal jsem pomocníky připravit výcvikovou figurínu.
+    584861|00000000||Hmm. Tady je tvá odměna. Samé drahokamy, jak jsi chtěl
+    584863|00000000||Jestli hledáš práci, v Mariborském lese prý řádí striga.
+    584864|00000000||Díky. Nejdřív se chci stavit v hospodě, ale pak... kdo ví.
+    584865|00000000||Hodně štěstí na Stezce, zaklínači.
+    584895|00000000||"Zireael". Vlaštovka.
+    584872|00000000||"Zireael."
+    584875|00000000||Jdeš pozdě.
+    584877|00000000||Vojáci...
+    584879|00000000||...blokovali cesty, já vím. Nevadí. Máš to?
+    584881|00000000||Jak jsme se dohodli.
+    584883|00000000||Čepel dlouhá třicet osm a půl coulu, váha necelých 40 uncí, ocelové jádro okuté stříbrem. Glyfy a runy na čepeli i na jílci.
+    584885|00000000||Nádherný.
+    584887|00000000||Kovařinou se živím třicet let. Na moje zbraně mají jen ti nejlepší šermíři.
+    584889|00000000||Když ti říkám, že žádný zaklínač lepší zbraň nemá a ani nikdy neměl, raději mi věř.
+    584891|00000000||Tvá pověst tě předchází, mistře Orte. Nikdy bych o tobě nepochyboval.
+    584893|00000000||A nápis přesně, jak jsi chtěl...
+    575206|00000000||Ten stařík pro mě měl vždycky slabost. Vycítil, že jsem rodinný muž, mírumilovný... dobrosrdečný jako on.
+    575224|00000000||Nebýt té baby, které říkám "sestro", nikdy by ho ani nenapadlo mě vydědit.
+    575226|00000000||Jakže je to méno? Hrábja Julian Alfonzo de cože?
+    575232|00000000||Vikomt Julian Alfred Pankratz de Lettenhove.
+    575233|00000000||Heheheheh.
+    575234|00000000||Nevěříš? Tak sleduj - však si ten úšklebek z tváře smázneš, až půjdeme navštívit mé sídlo.
+    575467|00000000||Heheheheh.
+    577548|00000000||Teď opatrně.
+    577549|00000000||Na poučování teď není čas.
+    577550|00000000||Ciri, počkej. Něco je tam--
+    577551|00000000||Vážně si nemusíme hrát na zajíce a psa.
+    577552|00000000||Ciri!
+    581646|00000000||Když se přiznáš a vydáš nám je, možná z toho vyvázneš živý.
+    581648|00000000||To vám napovídal tenhle?
+    584960|00000000||Jen do toho, prohledejte můj dům. Nikoho tam nenajdete.
+    581649|00000000||Uvidíme.
+    576003|00000000||Milost, pane!
+    576004|00000000||Ticho!
+    584988|00000000||Já? Nikdy. To vám namluvil on?
+    581635|00000000||Půjdeš s námi.
+    584991|00000000||Hehehe.
+    584993|00000000||Ty hajzle!
+    585004|00000000||Chopte se ho.
+    575076|00000000||Prý doma schováváš nilfgaardské špehy.
+   1059136|00000000||Hej! Ty tam! Vodprejskni! Ve jménu krále!
+    575878|00000000||Prý schováváš kacířské knihy.
+    575867|00000000||Pane... j-já přece ani neumím číst.
+    575879|00000000||Uvidíme.
+    575871|00000000||Přísahám při všech bozích, že...
+    575884|00000000||Hele ho, kacíře! Už jsme dlouho nikoho nevláčeli koňmi.
+    575883|00000000||Smilování!
+    575971|00000000||Ven.
+    575986|00000000||Chtělo by to uklidit.
+    575987|00000000||A rychle.
+    172316|3a2616f8||Lovec čarodějnic
+   1055084|06691856||Muž
+    578825|00000000||Cítím vlka… a lidi.
+    578826|00000000||Kolik?
+    578827|00000000||Deset, víc ne.
+    578828|00000000||Drž se dál.
+    585744|00000000||Něco ho asi zadrželo.
+   1059036|00000000||Mistře Orte!
+   1061386|00000000||Hmm...
+   1062260|00000000||Radovid měl mnoho chyb. Byl krutý, zbrklý a až nemocně ctižádostivý.
+   1062262|00000000||Ale byl to taktický génius - o tom nebylo sporu. V čele vojska, nad kterým měl nepřítel obrovskou převahu, šikovně porazil vetřelce z jihu.
+   1062264|00000000||Redanský orel pod svá křídla pojal celý Sever, a to včetně Novigradu.
+   1062266|00000000||Ve třetí válce se Severem se utkali dva skvělí stratégové: Radovid V. řečený Nemilosrdný a Emhyr var Emreis.
+   1062268|00000000||Oba se zdáli být neporazitelní, a přesto oba utrpěli porážku. Nilfgaardský vetřelec z Jihu byl odražen na bojišti, zatímco "svrchovaný vládce" Severu padl jako oběť atentátu.
+   1062270|00000000||Ve vítězné Redanii se otěží moci ujal muž, který se až dosud ukrýval ve stínu. Tím mužem byl Sigismund Dijkstra.
+   1062254|00000000||Třetí válka se Severem skončila naprostým vítězstvím pro vetřelce z Jihu.
+   1062256|00000000||Severní říše, kterým chyběl Radovidův taktický génius, nakonec nedokázaly ustát nápor Emhyrových početných legií.
+   1062258|00000000||Nad Novigradem, jakož i nad celou Redanií, zavlály černé prapory.
+   1062273|00000000||Když Radovid zvítězil ve válce s Nilfgaardem, napadlo ho, že je nejvyšší čas dokončit svůj hon na čarodějnice.
+   1062275|00000000||Stejně jako předtím v Novigradu plály hranice nyní i v Temerii i Aedirnu, čili v zemích, které redanský monarcha nově "osvobodil". V honbě za mravní obrodu byly povražděny tisíce obyčejných bylinkářek, zaříkávačů, léčitelů a nelidí - všichni považovaní za kacíře.
+   1062277|00000000||Svoboda pod Radovidovým žezlem se pro mnohé ukázala být tragičtější než služba jinému.
+   1062279|00000000||Dijkstra, kdysi pevně usazen na místě kancléře, vládl Severu svým osobitým cynickým a nelítostným způsobem.
+   1062281|00000000||Věděl, že mír může zachovat jen tím, že bude připraven na válku. Po vzoru Nilfgaardu tedy upevnil svou vládu nad rozsáhlými zeměmi tak, že je zhusta obsazoval a dělal z nich průmyslová střediska.
+   1062283|00000000||To vše pro dobro svých poddaných - třebaže proti jejich vůli.
+   1062285|00000000||Emhyr var Emreis, vyčerpán nájezdy temerských partyzánů, ustoupil a obnovil jejich kraj jako zem, jež bude vazalem říše.
+   1062287|00000000||Povstalci složili zbraně a císař mohl odklonit svá vojska na jiné fronty.
+   1062289|00000000||A tak díky naprostému vítězství Nilfgaardu Temeřané získali zpět svou zemi, zatímco historie se opět ukázala být lstivým šejdířem.
+   1062291|00000000||Když se Emhyr var Emreis vypořádal s Radovidem, vydal se udělat to samé se svými vnitrostátními nepřáteli.
+   1062293|00000000||Špehové věrní císaři udali všechny, kdo proti němu kuli pikle - obchodníky, vojáky i šlechtice.
+   1062295|00000000||Ačkoliv se jejich vzpoura nikdy nedostala dál než k pochybným plánům, císař neměl slitování. Jak už to měl ve zvyku.
+   1062297|00000000||Dokud Emhyrova vojska zaznamenávala jedno vítězství za druhým, jeho poddaní zůstávali bezmezně poslušní.
+   1062299|00000000||Když ho však řada potupných porážek zbavila aury neomylnosti, jeho odpůrci - dosud tajní - udeřili.
+   1062301|00000000||Poddaní císaře, který tančil na mohylách nepřátel, se nyní postarali, aby v jedné mohyle spočinul on sám.
+   1062303|00000000||Zatímco pevninou zmítala válka, Skellige pod Cerysinou vládou vzkvétalo.
+   1062305|00000000||Mladá královna na rozdíl od svých předchůdců nepodnikala nájezdy a neplenila cizí břehy, místo toho se starala o svůj vlastní lid a své vlastní země.
+   1062307|00000000||Ostrovnímu národu se nesmírně dařilo, ačkoliv jeho někdejší tesáky byly otupeny.
+   1062309|00000000||Ačkoliv válka na pevnině skončila, Hjalmar odmítl složit zbraně.
+   1062311|00000000||Mladý král přísahal, že každé jaro vyplení a vypálí břehy nenáviděného nilfgaardského císařství. Svá slova hodlal dodržet, i kdyby měl utopit své vlastní lidi v krvi.
+   1062313|00000000||Mnozí lidé ve Svanrigovi viděli loutku v rukou jeho dychtivé matky. Mladý král je však z omylu vyvedl, neboť vládl nezávisle na jejích rozmarech a s železnou pěstí, která patřila jen jemu.
+   1062315|00000000||Byl znaven neustálými přemi jarlů a rozhodl se přetvořit ostrovy v absolutistickou monarchii podle vzoru těch z pevniny.
+   1062317|00000000||To se mu podařilo, ale jen tak, že prolil krev mnoha svých krajanů.
+   1062319|00000000||Cirilla Fiona Ellen Riannon, dědička nilfgaardského trůnu, se rozhodla žít jako zaklínač - na Stezce.
+   1062321|00000000||Geralt jí naučil vše, co uměl, každou schopnost, kterou měl, a pak se oba vydali vlastní cestou.
+   1062323|00000000||Zvěsti o skutcích zaklínačky s popelavými vlasy se brzy rozšířily po krajích od Jarugy až po kovirské hory...
+   1062325|00000000||Po létech ve vyhnanství se Ciri vrátila do Nilfgaardu, své otčiny, a Emhyr se ji chystal jmenovat svou nástupkyní.
+   1062327|00000000||Tato mladá žena měla potřebné schopnosti - to je třeba podotknout. Od svého otce zdědila politický instinkt císařovny. Od Geralta se naučila smyslu pro prostou lidskou slušnost.
+   1062329|00000000||Tyto rysy se v případě monarchů málokdy snoubí - což je tak trochu škoda...
+   1062331|00000000||Co se týče Ciri... Těžko říct. Od těch pamětihodných událostech na Undviku ji ještě nikdo neviděl.
+   1062333|00000000||Což určitě neznamená, že se nikdy nevrátí.
+   1062335|00000000||Ačkoliv je těžké tomu vůbec uvěřit, Geralt se konečně usadil - v dalekém Koviru.
+   1062337|00000000||Spolu s Triss vytvořili domov - teplý a provoněný čerstvě upečenými koláči. Hosté zde byli vždy vítáni, nedbaje dne či hodiny.
+   1062339|00000000||Zaklínač příležitostně přijal nějakou práci, spíš ale ze zvyku než z nutnosti, neboť Triss coby poradkyně kovirského krále vydělávala pohádkové bohatství.
+   1062341|00000000||A co Geralt, můžete se ptát. Inu...
+   1062343|00000000||Zůstal u svého povolání, žil z ruky do huby, práce od práce, stále na cestě, stále bez peněz.
+   1062345|00000000||Občas jsme se sešli nad sklenkou silné pálenky, zavzpomínali na staré dny a dumali nad tím, co se stalo, co se stát mohlo a co se stát mělo...
+   1062347|00000000||Zatímco panovníci přesouvali hranice i obyvatelstvo, zaklínač a Yennefer se uchýlili k tichému životu daleko od politiky.
+   1062349|00000000||Snídali až pozdě odpoledne, většinou v posteli, a užívali si dny plné líných procházek a dlouhých rozhovorů.
+   1062351|00000000||Nudné, říkáte? Možná. Ale oba po tom toužili víc než po čemkoliv jiném.
+   1052050|00000000||Mistře zaklínači! Tady! Můžeš si vyzkoušet spoustu mečů, jestli chceš...
+   1061302|00000000||Tak rychle s tím kolem!
+   1061741|00000000||Nebo tu zůstanete, abyste přivítali Radovidovy muže?!
+    574752|00000000||Další!
+    574757|00000000||Chce ještě někdo něco říct?
+   1062041|00000000||To je pro dnešek vše! Rozejděte se!
+    574758|00000000||Ty! Jo, ty.
+    572807|00000000||Pán půjde za mnou.
+    572810|00000000||Jeho císařská výsost čeká...
+    595913|6b1268cb||Osadník
+   1051424|f11e033c||Mečíř
+    583129|00000000||Hej! Chopte se ho!
+    583128|00000000||Takhle skončí všichni zrádci. Vypálíme vzpouru i s kořeny.
+    584088|00000000||Můžeš se dívat, ale z dálky.
+    171353|39b3095b||Redanský voják
+    577981|00000000||Starý zaklínačský trik na tuhé zimy. Není to tiché, ale je to...
+    577983|00000000||Účinné.
+    577985|00000000||Mhm. Pamatuj, tohle nikdy nedělej.
+    577987|00000000||Tak proč mi to teda ukazuješ?
+    577989|00000000||Jen tak. Nikdy nevíš, co se na Stezce může stát, co ti může zachránit život.
+    578288|00000000||Ano, musíme.
+    578689|00000000||Ano, musíme.
+    578692|00000000||Mohl bys jít se mnou.
+    578694|00000000||Ne, Ciri. Takový já nejsem, to víš.
+    578696|00000000||Vím, jen jsem myslela...
+    578698|00000000||Rozhodla ses za sebe. A já taky, už dávno.
+    578700|00000000||Válka skončila. Budu mít plné ruce práce s lovením příšer kolem zapomenutých vesnic.
+    578703|00000000||Kdy chceš odejít?
+    578709|00000000||Hned.
+    578764|00000000||Nedáš Yennefer aspoň trochu času, aby se sbalila?
+    578711|00000000||Nedáš Triss aspoň trochu času, aby se sbalila?
+    578714|00000000||Takže tohle je...
+    578338|00000000||Jistě že ne.
+    578347|00000000||Nevím, kdy se zase uvidíme.
+    578349|00000000||Víš, kde mě můžeš najít.
+    578353|00000000||Nemůžeš přeci napořád zůstat na Kaer Morhen.
+    578355|00000000||Na tom nezáleží. Najdeš mě.
+    578375|00000000||Pravda.
+    578361|00000000||Pamatuj, co jsem tě naučil. Nikdy nevíš - může se ti to hodit i tam...
+    578286|00000000||Jistě že ne.
+    578248|00000000||Tohle chceš?
+    578258|00000000||Ano.
+    578261|00000000||Nepokusíš se mě zastavit? Nevezmeš mě do Modrých hor násilím?
+    578775|00000000||Prošel jsem půl světa, abych tě našel, ale nikdy jsem tě do ničeho nechtěl nutit.
+    578283|00000000||Já vím.
+    578781|00000000||Povedeš si dobře, jsi zaklínač.
+    578285|00000000||Nemusíme se rozloučit.
+    578219|00000000||Tohle chceš?
+    578750|00000000||Pokud chceš naznačit, že s tím má něco společného Yennefer, pak zní odpověď ne.
+    578754|00000000||Skvělé. Ví to vůbec?
+    578756|00000000||Neví. A byla bych ráda, kdyby se jí to tentokrát netýkalo.
+    578761|00000000||Nechám tě jí to říct.
+    578752|00000000||Pokud se ptáš, jestli Emhyr vyhrožoval, že za tebou pošle divizi Alba, když nebudu souhlasit, pak zní odpověď ne.
+    578767|00000000||Ten dopis tedy musel být přesvědčivý.
+    578769|00000000||To byl.
+    578748|00000000||Tohle rozhodnutí jsi udělala sama?
+    578739|00000000||Tohle rozhodnutí jsi udělala sama?
+    578223|00000000||Mohla jsi mi to říct.
+    578221|00000000||Mohla jsi mi to říct, varovat mě.
+    578222|00000000||Chtěla jsem, ale... nevěděla jsem jak. Byla jsem tu šťastná. Bála jsem se, že to pokazím. Chtěla jsem, aby každá chvíle něco znamenala.
+    578777|00000000||Takže, to u toho hnízda - o tohle tedy šlo.
+    578779|00000000||Neptal jsem se, nechtěl jsem tě nutit mi něco říkat. Myslel jsem, že máme čas. Hodně času.
+    578706|00000000||Přišli si pro mě, Geralte. Půjdu do Nilfgaardu. Za Emhyrem.
+    578728|00000000||Vím, že jsi něco takového nečekal, ale...
+    578730|00000000||Ve Wyzimě jsme s otcem mluvili… dlouho. Spíš jsme se hádali a rozešli. Pak… přišel posel, přinesl dopis. Nejdřív jsem nic neříkala, protože jsem si nebyla jistá, a pak...
+    578738|00000000||Uvědomila jsem si, že pokud chci něco změnit, musím přestat utíkat. Když budu lovit příšery kolem zapomenutých vesnic, nic nezměním. To musím udělat odtamtud. Z Nilfgaardu.
+    578687|00000000||Málem jsem zapomněla, že je to dneska.
+    574832|00000000||Mariello! Počkáš na mě?
+    574833|00000000||Počkám.
+    574827|00000000||To jsou jen řeči.
+    574828|00000000||Vrátím se pro tebe, slibuji!
+    574830|00000000||Jo. Kdybys tak splnil alespoň půlku toho, cos slíbil!
+    582400|00000000||Vrátím se a vezmu tě sebou do Nilfgaardu.
+    582402|00000000||Tvrdil jsi, že zůstaneš tady!
+    175619|ea15b01b||Hospodský
+    552440|00000000||Na lovu, pane zaklínač? Myslel jsem, že jsi to tu od příšer vyčistil už posledně, cos tu byl.
+    552441|00000000||Tentokrát lovím králíky.
+    552971|00000000||Ah, tak se věci mají.
+    552972|00000000||Nechceš se k nám v podvečer stavit? Věrka peče koláč.
+    552979|00000000||Hm, nevím, jestli...
+    552984|00000000||Jak myslíš. U nás jsi vždy vítaný.
+    586286|00000000||Vidíš je? Přišli hodovat! Nakrmím je tvou bolestí!
+    586287|00000000||Ať se radši vrátí, odkud přišli, pokud si váží svých životů. Přišel jsem si pro tebe.
+    586288|00000000||Vědí, že je neušetříš… Jsi zaklínač, vrah. Lovíš a zabíjíš.
+    586289|00000000||Už mě to nebaví.
+    586290|00000000||Dělejte si, co chcete - pořád můžete odejít. Kdo zůstane, nepřežije.
+    586291|00000000||Zabte ho!
+    579064|00000000||Cítím tvou bolest. Vidím tvůj strach…
+    579065|00000000||Rozhlédni se! Cítíš jejich nenávist? Zabil jsi jejich bratry za hrst mincí. Chtějí tě vidět trpět, až ztratíš drápy, vlku.
+    579066|00000000||Proroctví nelžou... Tuto bitvu nepřežiješ.
+    579067|00000000||Zireael je mrtvá. Nic víc než malá zmrzlá mrtvola v ledové divočině.
+    579068|00000000||A ty se bojíš… Cítíš strach.
+    579069|00000000||Lžeš. Já už necítím nic.
+    578824|00000000||Trpělivost, sestry. Cítím ho, přichází. Jeho duši stále můžete získat…
+    578936|00000000||Jeho bolest, ledové utrpení bude vaše. A budete se na něm pást.
+    578937|00000000||Brzy, sestry, velmi brzy.
+    578958|00000000||Pojď ven!
+    576137|00000000||A koukejte si odnést všechno to harampádí. Ať tady nezůstane ani jeden zavšivenej hadr.
+    576139|00000000||Fuj! Stejně to tady budeme muset vybílit.
+    576147|00000000||Hajzli nilfgaardští.
+    581876|00000000||Tohle je Temerie, jasný?
+    581878|00000000||Však uvidíme, na jak dlouho.
+    582555|00000000||Mahakamská dvojitá medovina. Kde ji asi ukradli?
+    582569|00000000||Dost jídla pro celé vojsko.
+    582586|00000000||Jestlipak je chytí...
+    582538|00000000||Tábořit takhle blízko k cestě, to chce silné nervy.
+    582556|00000000||Pohár tady není.
+    582557|00000000||Vypadá to, že teď investují do movitého majetku.
+    581194|00000000||Zlé oko! Je to přítelíček té vědmy, seberte ho!
+    581170|00000000||Čarodějnici nesmí býti dovoleno dál žít život plný kacířství. Oheň nechť ji očistí a sežehne všechnu špínu...
+    581188|00000000||Ticho, čarodějnice!
+   1068563|00000000||Tak pojď!
+    578847|00000000||Nenuť mě, abych tě zabil.
+    578850|00000000||Uklidni se. Nemusíme bojovat.
+    578851|00000000||Prostě jdi. A Dámu z močálu - tu nech bejt…
+    578836|00000000||Dobrá, nezájem.
+    578841|00000000||To je pravda.
+    578842|00000000||Tak vodpal. Kazíš nám zábavu.
+    578843|00000000||[Udeřit ho.]
+    578854|00000000||Už jdu.
+   1065296|00000000||Nashle. Musím něco zařídit.
+    578845|00000000||Už jdu.
+    578844|00000000||Pusťte toho vlka.
+    578863|00000000||Pusťte tu vlčici.
+    578864|00000000||Ještě není oslabená.
+    578865|00000000||Běsní. Ví, že je už skoro mrtvá, ale ještě si to musí připustit.
+    578866|00000000||Vypadněte odsud.
+    578867|00000000||Cože? Nejseš padlej na hlavu? Ta šelma nám zabila dobytek a bude lovit dál. Zatracený zvíře! Je to kurva nepřítel! Buď vona, nebo my!
+    578868|00000000||Přesně moje slova.
+    578853|00000000||Pusťte toho vlka.
+    578852|00000000||[Udeřit ho.]
+    578835|00000000||Pusťte toho vlka.
+    578848|00000000||Uhh…
+    578849|00000000||Stáhneme tě zaživa z kůže, ty ubožáku!
+    578846|00000000||[Udeřit ho.]
+    578837|00000000||Kde je ta Ježibaba?
+    578838|00000000||Vodpal, tvůj druh tady není vítanej. Vodejdi z našich zemí.
+    578839|00000000||Až potom. Brzy. Nejdřív tu čarodějnici.
+    578840|00000000||Ty jseš jeden. Nás je deset a máme psy. Chceš skončit jako ta vlčice?
+    578834|00000000||Kde je Ježibaba?
+    578829|00000000||Co tady děláte?
+    578830|00000000||Posledních několik dnů je tu na lovu vlčice. Zabila krávu, zranila muže. Tak jsme nastražili pár pastí.
+    578831|00000000||To blbý zvíře do jedný z nich přímo nakráčelo, hehe. Jakmile se unaví, pustíme na ní psy a zalovíme si.
+    578832|00000000||Co se ti stalo s uchem?
+    578833|00000000||Co na tom záleží? Do toho ti kurva nic není.
+    584284|00000000||Poklekněte před svým novým pánem...
+    584286|00000000||...a ochráncem.
+    584253|00000000||Vznešený lord Dagborg se ujímá vlády nad touto zemí, aby vládl šlechetně a spravedlivě.
+    584254|00000000||Všechna jiná břemena, závazky i povinné platby se tímto velkomyslně promíjejí.
+    574281|00000000||Válka napáchala škody, které je nutno napravit. Daně tedy budou odteď zdvojnásobeny.
+    574282|00000000||Každý, kdo zaplatí pokladně, dostane potvrzení na příslušnou částku.
+    574278|00000000||Čarodějnice, falešní léčitelé, obchodníci s amulety a prašiví nelidé se tímto prohlašují za psance.
+    574279|00000000||Všichni, kdo takovým osobám poskytnou přístřeší nebo jim budou jinak pomáhat, budou souzeni a popraveni z vůle Svatého tribunálu Věčného plamene.
+    584266|00000000||Co to znamená?
+    584268|00000000||To znamená, že teď budeš muset platit daně šlechetnému lordu Dagborgovi.
+   1058998|00000000||Blíží se změny.
+   1059080|00000000||Potřebujete pomoct? S tou károu?
+   1059082|00000000||To zvládnem, kámo.
+   1059084|00000000||Děkujeme za starost.
+   1059086|00000000||Jo, páč nevypadáš jako žádnej kolář, to je jasný.
+   1059088|00000000||Potřebujete s tou vaší károu pomoct?
+   1059090|00000000||Myslím, že to zvládnem, heheh.
+   1059092|00000000||Hah, no to si piš, že to zvládnem.
+   1059094|00000000||Pravda, sudů je krdel, ale brzo si z každýho nalejeme.
+   1059102|00000000||Pravda, to nepopírám.
+   1059104|00000000||Nilfgaard prchá, ale tady se zdálo, že s nima nic nehne.
+   1059112|00000000||Nechali tady i svoje víno. To je štědrý.
+   1059096|00000000||Už jsme si zvykli, víš.
+   1059098|00000000||Když jsou Černý pryč, přijdou sem lovci čarodějnic. Ale život půjde dál. Musíme si vážit každýho dne.
+   1059100|00000000||To je pravda! Takže do práce, než nás přepadne noc!
+   1059116|00000000||Musím jít. Sbohem.
+   1059122|00000000||Je čas, abych šel. Hodně štěstí.
+    584839|00000000||Hodně štěstí.
+   1059013|00000000||Kam máš namířeno? Do nejbližší hospody, jak to tak vypadá.
+   1059114|00000000||Jo. Nejdřív se mám s někým setkat - v bývalém táboře Nilfgaarďanů. Tak se opatrujte.
+   1059118|00000000||Opravdu nepotřebujete pomoc?
+   1059120|00000000||Myslím, že to zvládneme.
+   1059115|00000000||Opravdu nepotřebujete pomoc?
+   1059107|00000000||Taková je pravda.
+   1059109|00000000||Nilfgaarďani uprchli, Redanský sotva dorazili a zbojníci cítí prázdnotu, v podstatě tady mají volnou ruku.
+   1059111|00000000||Sotva jsme unikli, pak nám upadlo kolo a jen jsme se dívali, jak koně mizí v lesích.
+   1059072|00000000||Potřebujete s tou vaší károu pomoct?
+   1059074|00000000||Errr... n-ne.
+   1059076|00000000||Ona není tak úplně naše, je to spíš zabraný vozidlo. Kořist, by se dalo říct.
+   1059078|00000000||Lidi ji museli opustit ve spěchu - kam spěchali, to netuším. Byla by škoda, kdyby ji Redanský vyplenili.
+    590603|00000000||Ah, už je to kyselý.
+    590605|00000000||Ahoj, ty tam.
+    590607|00000000||Co je novýho?
+    590609|00000000||Jestli nesneseš to vedro, tak se kliď z kovárny.
+    590619|00000000||Tady je jen prvotřídní zboží, žádný rezavý šméčko.
+    590611|00000000||Že si každej svůj osud tvoří sám? Pff. Spíš si ho každej sám posere.
+    590621|00000000||Má to nějakou cenu? Ty tvoje meče na zádech?
+    590613|00000000||Chceš dostat nakládačku?
+    590615|00000000||A co jako? Mám zavolat pro pomoc?
+    590617|00000000||Pomoc! Zachraňte mě!
+    573535|00000000||Podej hlášení.
+    573530|00000000||Kapitáne!
+    573536|00000000||Novigradská delegace je odsud půl dne cesty.
+    573537|00000000||Pospíšili si...
+    577531|00000000||Vrať se na stanoviště.
+    577533|00000000||Ano, pane.
+    573538|00000000||Čtvrtá švadrona... a vlastně celá divize Frundsberg... dezertovala.
+    573539|00000000||Generál Voorhis to už ví?
+    577540|00000000||Je na poradě, tam nikoho nepouštějí.
+    577542|00000000||Nesmysl. Okamžitě mu to jdi oznámit.
+    581879|00000000||...
+    581883|00000000||Kurva mať, zaklínač!
+    574700|00000000||Černí si asi mysleli, že tady zůstanou navždy, he he.
+    584444|00000000||Nilfgaardští, Redanští... Stejná pakáž.
+    574684|00000000||A to jsme si stěžovali na císařské...
+   1061437|00000000||Kdyby nebylo nás, seděli by tu Černí jen tak - až do Yule nebo i déle!
+   1061439|00000000||Ty jseš hrdina - a jenom můj! To se mám!
+   1061711|00000000||Směj se, jestli chceš, ale kdyby se tvůj Gordek nevrátil a nevyhnal Nilfgaarďany...
+   1061713|00000000||Hahahaha!
+   1061715|00000000||...dostal by tvoje panenství nějakej Cahir nebo Johann!
+   1061717|00000000||Ale ty, tys čekala na mě, moje malá Manny, že jo?
+   1061719|00000000||Čekala. Čekala!
+   1061721|00000000||Hahahahaaa!
+    577594|00000000||Doneseme Marigoldovi pěkně macatého okouna a třeba na králičí guláš dočista zapomene.
+    577595|00000000||Mhm.
+   1068729|00000000||Trochu lituju, že nešel s námi.
+   1068731|00000000||Trocha cvičení by mu prospěla.
+   1068733|00000000||Mhm.
+    578152|00000000||Led by tady neměl být tak silný.
+    578154|00000000||Uh-huh.
+    578150|00000000||Jak přesně chceš vůbec něco chytat?
+    578157|00000000||Uvidíš.

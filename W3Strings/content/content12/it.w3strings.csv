@@ -1,0 +1,884 @@
+;meta[language=it]
+; id      |key(hex)|key(str)| text
+    581146|00000000||Aaaaah!
+    581147|00000000||Pietà!
+   1061012|00000000||Slegami! Presto!
+    581145|00000000||Aiuto!
+    581222|00000000||Grazie...
+    584339|00000000||Hai qualche ferita da curare?
+    581225|00000000||Me la caverò.
+    584342|00000000||I cacciatori potrebbero tornare...
+    584344|00000000||Non resterò qui ad aspettarli.
+    584346|00000000||Buona fortuna.
+    584348|00000000||Ne avrò bisogno.
+    584658|00000000||Ritirarsi? Non abbiamo perso la guerra.
+    584660|00000000||Taci.
+    584662|00000000||Avevamo l'intero Nord su un piatto d'argento... Cos'è successo?
+    584712|00000000||Sta' zitto, o ti accuseranno di sedizione.
+    580688|00000000||I redaniani saranno qui a momenti.
+    577580|00000000||Bisogna decidere, ora. Se l'imperatore si rifiuta, deve farlo qualcun altro.
+    577582|00000000||Come osi?
+    577589|00000000||Sua maestà sarebbe un freddo cadavere se i miei uomini non avessero fermato l'assassino di ieri notte.
+    577591|00000000||E credi che questo ti dia il diritto di essere arrogante?
+    577593|00000000||Credo che presto ci sarà un altro tentativo, e non sono sicuro che saremo in grado di fermarlo.
+    577597|00000000||Che mi dici del gerarca di Novigrad?
+    577599|00000000||In che senso?
+    577613|00000000||Avrà il suo meritato riposo o verrà mandato subito a Darn Ruach?
+    577615|00000000||Alla sua età, quel viaggio è sconsigliabile. E costoso.
+    577617|00000000||Mmmh...
+   1068673|00000000||D'accordo, andiamo.
+    578175|00000000||Chi te l'ha insegnato?
+    553330|00000000||Vesemir, tanto tempo fa.
+    562382|00000000||Quanto?
+    553331|00000000||Molto. Quando ancora mi facevo chiamare Geralt Roger Eric du Haute-Bellegarcie.
+    572394|00000000||Cosa? Ahahah!
+    578177|00000000||Stasera ti racconto tutto.
+   1068675|00000000||Anche di quella volta che ti sei spezzato una gamba dopo aver scommesso che saresti saltato in sella al cavallo dal tetto di Kaer Morhen?
+   1068677|00000000||Mmmh, e tu come fai a saperlo?
+   1068679|00000000||Me l'ha detto Eskel. Ma voglio sentirlo da te... Sono certa che hai una spiegazione razionale.
+    584083|00000000||Tracce fresche... Il medaglione vibra. Forse dovrei provare a...
+    172329|52a3f146||Paesano
+    577437|00000000||Sta soffrendo...
+    577438|00000000||Una vecchia lupa...
+    578820|00000000||Lotta ancora.
+    578821|00000000||Sa che sta morendo.
+   1030982|d9a6387b||Soldato temeriano
+   1051892|00000000||Impronte... Di nano.
+    579138|00000000||Ho qualcuno che mi aspetta.
+    579129|00000000||Ho qualcuno che mi aspetta.
+    579130|00000000||Triss Merigold? Non temere... Non intendo darle la caccia.
+    579126|00000000||Yennefer ha bisogno di me. Non posso abbandonarla.
+    579127|00000000||Capisco.
+    579897|00000000||Non vi riguarda.
+    579901|00000000||Non sono affari vostri. Non più.
+    580118|00000000||Mmmh...
+    579142|00000000||Non siete stato un buon padre...
+    579144|00000000||Non siete stato un buon padre. Ciri vi vedeva come una minaccia.
+    580462|00000000||Anche se mi avesse chiesto di riferirvi qualcosa, non vi sarebbe piaciuto sentirlo.
+    579145|00000000||Capisco.
+    579143|00000000||Non ha parlato di voi.
+    579148|00000000||Non abbiamo parlato di voi.
+    580471|00000000||Capisco.
+    579135|00000000||Se non c'è altro...
+    577341|00000000||C'è. Ma puoi andare.
+    579136|00000000||Witcher. Non voglio rivederti. Mai più.
+    579146|00000000||Le è dispiaciuto non aver avuto l'occasione di dirvi addio.
+    579147|00000000||Davvero ti ha detto questo?
+    580421|00000000||Non ce n'è stato bisogno. Voleva fare pace, lo so.
+    579141|00000000||Le è dispiaciuto non potervi dire addio.
+    579140|00000000||Cirilla ha detto...? Ti ha chiesto di riferirmi qualcosa?
+    579123|00000000||C'è sempre parecchio lavoro per witcher dopo una guerra. Andrò a est, forse a nord...
+    579137|00000000||Ho del lavoro post-guerra da svolgere.
+    576114|00000000||Dov'è il corpo?
+    576122|00000000||Dubito che verrà mai trovato.
+    577275|00000000||Chi altri lo sa?
+    577277|00000000||Avallac'h, il Saggio elfico... Ma dubito che lo troverete.
+    579115|00000000||E Yennefer?
+    576167|00000000||Ha deciso di restare nel Nord. Sempre che non vi dispiaccia.
+    579116|00000000||No. E tu?
+    573735|00000000||Parla.
+    575807|00000000||Ciri è morta.
+    575833|00000000||Com'è successo?
+    576006|00000000||Il Bianco Gelo... Conoscete la profezia? Ciri ha provato a fermarlo. Ce l'ha fatta, ma ha pagato con la vita.
+   1058925|00000000||Ora basta.
+    582651|00000000||I nani si nascondono tra i cespugli.
+    582644|00000000||I nani... Sputa il rospo.
+    583360|00000000||Nani?
+    583362|00000000||Non ho tempo per i tuoi giochetti. Il comandante riavrà il suo calice rubato.
+    583364|00000000||I ladri... Dove sono? Dimmelo, altrimenti...
+    582653|00000000||Non ci sono nani qui.
+    582638|00000000||Non ci sono nani qui.
+    582645|00000000||Dove sono i nani?
+    583424|00000000||Nani?
+    583425|00000000||Niente giochetti con me, witcher. Sono dei ladri, hanno rubato il calice d'oro di Lord Dagborg.
+    583437|00000000||Dagborg? E chi è?
+    583438|00000000||Il nuovo governatore di queste terre.
+    583442|00000000||Dobbiamo trovare il calice. Dicci quello che sai, o te lo caveremo fuori con la forza.
+    582654|00000000||Lo sapevo! Che il Fuoco Eterno ti ricompensi. Prendeteli!
+    583472|00000000||Non ci credo! Il dannato witcher figlio di puttana!
+    582656|00000000||Grazie, witcher. Prendeteli!
+    582655|00000000||Grazie, witcher. Prendeteli!
+    582641|00000000||I nani sono tra i cespugli.
+    583340|00000000||È una minaccia?
+    583336|00000000||Mi state minacciando?
+    583366|00000000||Il witcher non vuole collaborare. Prendetelo.
+    583358|00000000||Mi state minacciando?
+    583445|00000000||Vedo che non risponderai ai modi cortesi.
+    583447|00000000||Prendetelo!
+    583348|00000000||Non mi piace il tuo tono, mutante. Vuoi costringermi a insegnarti il rispetto verso coloro che servono il Fuoco Eterno?
+    583350|00000000||Provaci.
+    583439|00000000||Mi state minacciando?
+    582642|00000000||Non ci sono nani qui.
+    582661|00000000||Insisti nell'affermare che questo è il tuo campo? Cinque boccali, cinque selle... Tutto tuo?
+    583410|00000000||È un po' che seguo questi nani. Hanno circa due giorni di vantaggio su di me. Hanno abbandonato il campo di fretta... Qualcosa deve averli spaventati.
+    583413|00000000||Perché li segui?
+    583415|00000000||Mi hanno rubato qualcosa.
+    583417|00000000||Sono dei bastardelli scaltri per aver rubato a un witcher...
+    583419|00000000||Dobbiamo andare. Se dovessi prenderli... Beh, non importa. Domani ci metteremo in marcia.
+    582662|00000000||Vuoi dire che questo è il tuo campo? Cinque boccali, cinque selle... Tutto tuo?
+    583450|00000000||È un po' che seguo questi nani. Hanno circa due giorni di vantaggio su di me. Hanno abbandonato il campo di fretta... Qualcosa deve averli spaventati.
+    583452|00000000||Perché li segui?
+    583454|00000000||Mi hanno rubato qualcosa.
+    583456|00000000||Rubare a un witcher... Dei nanerottoli scaltri.
+    583458|00000000||Proseguiamo. Possiamo ancora prenderli.
+    583421|00000000||Vorresti dire che questo è il tuo campo? Cinque boccali, cinque selle... Tutto tuo?
+    582660|00000000||È un po' che seguo questi nani. Hanno circa due giorni di vantaggio. Hanno abbandonato il campo di fretta... Qualcosa deve averli spaventati.
+    583344|00000000||Mmmh...
+    583346|00000000||Può darsi che abbiano saputo dell'ira del reverendo Michelis...
+    583407|00000000||Andiamo. E tu, mutante... Farai meglio a non ostacolarci.
+    582640|00000000||Non ci sono nani qui.
+    582639|00000000||I nani sono tra i cespugli.
+    582637|00000000||I nani sono tra i cespugli.
+    583321|00000000||Il reverendo Michelis? E chi è?
+    583323|00000000||Chi è questo reverendo Michelis?
+    583325|00000000||Un predicatore errante, un sant'uomo consacrato dal gerarca in persona. Ha già purificato migliaia di anime.
+    583327|00000000||Con... Ehm... "Purificato" intendi il fuoco purificatore dei roghi?
+    583329|00000000||Conosci altri modi?
+    582643|00000000||I nani... Dove sono?
+    583297|00000000||Nani?
+    583299|00000000||Non fare il finto tonto. È da ieri che li seguiamo, dopo che hanno rubato il calice d'oro del reverendo Michelis.
+    583300|00000000||Chiunque aiuti dei criminali sarà soggetto alle pene sancite dal Sacro Tribunale del Fuoco Eterno.
+    170734|00017dcc||Ragazzo
+   1061202|7baad1c6||Soldato temeriano
+    583647|00000000||Una spada d'argento da witcher...
+    583648|00000000||Ti piace?
+    583649|00000000||È bellissima. Posso?
+    583650|00000000||Non qui. Avrai presto occasione di provarla, witcher.
+    583651|00000000||Cos'è questa iscrizione?
+    583652|00000000||Un vecchio motto dei witcher. Un tempo, avevo una spada simile. Ma questa è migliore... Molto migliore.
+   1077577|00000000||Proviamola, allora.
+    583641|00000000||Una spada da witcher... "Rondine"...
+    583642|00000000||Oh...
+    583643|00000000||È bellissima. Posso?
+    583644|00000000||Non qui. Avrai presto occasione di provarla, witcher.
+    575132|00000000||È fatta?
+    575133|00000000||Sì.
+    576809|00000000||Ti ha creduto?
+    576811|00000000||Non ne ho idea.
+    576799|00000000||Per la cockatrice. E abbiamo un nuovo contratto. Non pagherà molto, ma credo che sia adeguato.
+    576801|00000000||Ti sei data da fare...
+    583639|00000000||È tua.
+    579151|00000000||Triss ci attende a Ellander.
+    579152|00000000||Se ci sbrighiamo, possiamo raggiungerla in due giorni.
+    579149|00000000||Yen ci attende a Ellander.
+    579150|00000000||Se ci sbrighiamo, possiamo raggiungerla in due giorni.
+   1077618|00000000||La Via ci attende. Andiamo.
+    579054|00000000||Calunniava i servitori del Fuoco Eterno e sua maestà, giusto?
+    579055|00000000||Eccome!
+    574781|00000000||Mio cognato nasconde delle spie nilfgaardiane.
+    582006|00000000||Mmmh...
+    582008|00000000||Non direte a mia sorella che ve l'ho detto io, vero?
+    582010|00000000||La sorella è chiaramente coinvolta. Prenderemo anche lei.
+    582015|00000000||Dovremo verificare le tue accuse.
+    582025|00000000||Sì... Sì, sì...
+    582027|00000000||Sappiamo quale casa è. Puoi andare.
+    582029|00000000||Mmmh, è che ho sentito dire... Che c'è una ricompensa per le informazioni... Del denaro...
+    582031|00000000||Hai sentito male. L'annuncio riguardava nuove tasse.
+    574783|00000000||So quello che ho visto. Ha trascorso tutto l'inverno a spassarsela con quei nilfgaardiani.
+    582046|00000000||L'ha visto anche Ciril. Coraggio, diglielo, Ciril.
+    582043|00000000||Hm.
+    582072|00000000||Venerava gli idoli nilfgaardiani? Le loro divinità?
+    582074|00000000||Come faccio a saperlo? Sono una donna discreta.
+    582076|00000000||Dovrete chiederlo a lei. Ve lo dirà, se la convincete con ferri roventi.
+    582047|00000000||I nilfgaardiani se ne sono andati.
+    582051|00000000||Ma lei è rimasta! Dovremmo fustigarla davanti a tutti!
+    579073|00000000||Non è sulla lista. Che cos'ha fatto? In dettaglio.
+    579075|00000000||Era in combutta con loro! Lavorava con loro! Complottava! Cospirava! Contro il re!
+    579083|00000000||Pelko Sambor, cinquant'anni, due figli, un campo di segale e una capra...?
+    579084|00000000||Fate come volete. Io ve l'ho detto.
+    579046|00000000||È come ho detto. Lavorava con gli Oscuri.
+    595889|83463c36||Apprendista dell'armaiolo
+    575034|00000000||Quaggiù, signore! È lui!
+    575055|00000000||Sei impazzito?
+    575023|00000000||L'ho capito subito che erano nilfgaardiani! Spie, intendo. Li nasconde da una settimana.
+    575025|00000000||Ne sei certo?
+    575026|00000000||Oh, sì... Skaro è sempre stato un farabutto. Una volta, quel ladro ha seminato nel mio solco. Vi porterò lì, a casa sua. Venite!
+    577991|00000000||Vieni, ti mostro una cosa.
+    572153|00000000||Cos'hai da offrirmi?
+    572421|00000000||Arrivederci.
+    572154|00000000||Arrivederci.
+    572152|00000000||Cos'abbiamo bevuto ieri?
+    572155|00000000||Cos'era quella roba che abbiamo bevuto ieri? Dopo il distillato.
+    572156|00000000||Il mio brandy, triplo distillato di prugne. Ne parlano tutti, anche se ho aperto il barile da poco.
+    572644|00000000||Ora probabilmente avrai più clienti...
+    572647|00000000||A dire il vero, ho già il mio bel da fare con voi. Ma sì, probabilmente la sera ci sarà più gente.
+    572862|00000000||Non capisco perché la moglie del vecchio oste abbia abbandonato la taverna per trasferirsi a Rustone...
+    572151|00000000||Purtroppo, ho finito il latte cagliato... Se ti fa male la testa...
+    577752|00000000||Hm.
+    577753|00000000||Che sfortuna.
+    577751|00000000||Le tracce sono vecchie, ma...
+   1044165|002e13b4||Orso
+    575125|00000000||Ti sei inventato questa storia del conte, vero? Che fantasia, per uno che è sobrio!
+    575503|00000000||Geralt può confermarlo. Diglielo! Ho sempre sostenuto di essere un conte.
+    575505|00000000||Vero. L'hai sempre detto.
+    575507|00000000||Ma nessuno ha mai verificato, eheheh.
+    575509|00000000||Che c'entra ora la faccenda del conte?
+    575527|00000000||Be', quando finalmente lasceremo questo posto dimenticato dagli dèi intendo reclamare il mio patrimonio. E i titoli e i possedimenti che mi appartengono di diritto.
+    575588|00000000||E che cosa intendi farne?
+    575590|00000000||Hai piani per queste terre e questi titoli?
+    575592|00000000||Intanto ne prenderò possesso. Naturalmente c'è il problema della progenie...
+    575594|00000000||Ah, sì? Quindi hai finalmente trovato una damigella degna del grande Dandelion?
+    575595|00000000||Mio caro amico e compagno, il mio cuore appartiene soltanto a Priscilla, anche nota come Callonetta.
+    575617|00000000||Il cuore, forse... Ma altri organi...
+    575619|00000000||Questa insinuazione mi offende! E ti ricordo che stai parlando con un conte!
+   1075523|00000000||Non c'è bisogno che il conte si agiti. Piuttosto, dicci come sta la tua amata.
+   1075532|00000000||Fisicamente, si è ripresa completamente. Mentalmente, quasi...
+   1075534|00000000||Ripresa? Che cosa mi sono perso?
+   1075536|00000000||Ah, giusto... Non l'hai saputo.
+   1075538|00000000||È stata attaccata. Più o meno, nel periodo in cui eri a Novigrad. Quello stronzo l'ha ferita gravemente.
+   1075540|00000000||Ma, come ho detto, si sta riprendendo. È persino tornata a esibirsi. Siano lodati gli dèi.
+   1075529|00000000||Si è ripresa, quasi del tutto. È persino tornata a esibirsi. La sua voce è un po' più bassa e aspra... ma in effetti suona meglio.
+   1075546|00000000||Grazie per avermi aiutato, Geralt. Ha significato molto, davvero.
+   1075548|00000000||Gli amici servono a questo, no?
+   1075542|00000000||Mi dispiace di non averti potuto aiutare. Dovevo...
+   1075544|00000000||Lascia stare, Geralt. Acqua passata.
+   1075550|00000000||Portale i miei saluti.
+   1075552|00000000||Non preoccuparti, lo farò. Le darò anche un bacio... Un po' da parte tua, ma perlopiù da parte mia!
+    570444|00000000||Io vado a caccia.
+    571969|00000000||Vado a caccia di conigli. Dandelion?
+    571971|00000000||Lo spezzatino di coniglio mi piace, ma faccio volentieri a meno di gelarmi il culo. Grazie.
+    571973|00000000||Io raccoglierò le erbe aromatiche. Nessuno spezzatino è degno di questo nome senza il profumo del timo e l'aroma del rosmarino...
+    571975|00000000||Già, i campi sono pieni di rosmarino in fiore appena prima del solstizio d'inverno!
+    571977|00000000||Per questo raccoglierò le mie erbe in cucina.
+    575654|00000000||Ehi, a presto.
+   1061558|00000000||Voi siete senza cuore, tutti! Persino gli Oscuri hanno mostrato più pietà!
+   1061560|00000000||Oh, gli Oscuri ti hanno mostrato molte cose, immagino... Magari ti hanno anche pagato, eh? Ne ho viste di più brutte...
+   1061562|00000000||Vieni dentro, donna. Meglio non creare problemi.
+   1061564|00000000||Eh eh eh...
+   1061553|00000000||Due sacchi d'orzo, uno di grano saraceno, tre galline non tanto grasse e una capra magra come un filo d'erba.
+   1061702|00000000||Tutto qui?
+   1061704|00000000||Sissignore. Ho controllato due volte per assicurarmi che non avessero nascosto nulla.
+   1061555|00000000||Allora controlla una terza volta. Subito!
+    574465|00000000||Significa che bruceranno le streghe...
+    574466|00000000||E dove le trovano delle streghe qui?
+    574485|00000000||Oh, non preoccuparti... Le troveranno.
+    584377|00000000||Questo Lord Dagborg... Chi è? Ha qualche legame con il nobile precedente?
+    584379|00000000||Come faccio a saperlo?
+    575975|00000000||Che cosa ha detto?
+   1008572|00000000||Che ci saranno nuove tasse.
+    578012|00000000||Ti interessa davvero?
+    578015|00000000||Davvero ti interessa?
+    578018|00000000||Certo! L'hai detto tu stesso: il grifone reale non si vede tutti i giorni.
+    578020|00000000||Non è così raro. Oserei dire che ne uccideremo almeno un paio prima di tornare a Kaer Morhen. Ma se vuoi vedere il nido, è qui sulla collina...
+    578025|00000000||Vieni!
+    578022|00000000||Dovremmo recuperare le trappole.
+    578031|00000000||Le recupererà Mislav. E noi potremmo cacciare qualcosa lungo la strada.
+    578065|00000000||Stamattina sembrava che cacciare conigli fosse la priorità.
+    578067|00000000||A essere onesti, volevo solo fare una passeggiata con te.
+    578069|00000000||Andiamo, allora. Il nido è sulla collina... Forse la carcassa del grifone è ancora lì.
+    578071|00000000||Hm, splendido!
+    578011|00000000||Dovremmo recuperare le trappole.
+    577994|00000000||Hai smesso di cacciare conigli?
+    577996|00000000||Tz! Non proprio.
+    577998|00000000||E adesso?
+    578000|00000000||Niente. Mi sono seduta ad aspettarti. È bello qui.
+    578002|00000000||Dovresti vedere Dol Blathanna in inverno. E le Montagne Blu.
+    578010|00000000||Andremo a est appena inizierà il disgelo. Siamo rimasti qui troppo a lungo...
+    578004|00000000||Avevi promesso di mostrarmi quel nido di grifone prima di partire... Andiamoci adesso.
+   1061583|00000000||Signore... Il mio grano...
+   1061585|00000000||Non interferire. È in corso un'operazione militare.
+   1061726|00000000||Nel mio campo? In mezzo al mio grano? Sapete quanto vale?
+   1061587|00000000||Beh, abbiamo trovato un baule d'oro nilfgaardiano sepolto lungo il tuo confine. Vorresti dire che il tuo grano vale di più?
+   1061728|00000000||Quando avremo finito, probabilmente ne avremo trovato altro. In mezzo al tuo grano...
+   1061730|00000000||Ma...
+   1061732|00000000||Sparisci! E non ti allontanare dal villaggio. Vorranno parlarti.
+   1061581|00000000||Più in profondità! Scavate più in profondità!
+   1061724|00000000||Setacciate ogni millimetro, è chiaro? Ogni fottuta tana di talpa!
+    458124|f759b018||Soldato nilfgaardiano
+    577129|00000000||Un lupo mannaro...
+    552365|00000000||Brrr, si gela.
+    563748|00000000||Andiamo!
+    579546|00000000||Hm?
+    578145|00000000||Va bene, ora basta. Andiamo a pescare.
+    578135|00000000||Ciri, di che stai parlando?
+    578138|00000000||Mi dispiace. È solo che... Non è un buon momento.
+    578141|00000000||Vuoi tornare indietro?
+    578125|00000000||Cosa?
+    577573|00000000||Per un pelo non ti ha aperto la spalla in due.
+    577574|00000000||Però non è successo. L'abbiamo ucciso, quindi che problema c'è?
+    577575|00000000||Sei arrabbiata, volevi sfogarti. Ma la prossima volta se sarai così incauta...
+    577576|00000000||Non capisci? Non ci sarà una prossima volta!
+    577680|00000000||Improvviserò. Aspettami qui.
+    577682|00000000||Con le bombe.
+    577676|00000000||Che io sia maledetto...
+    577677|00000000||Vuoi che andiamo?
+    577678|00000000||No. Non se ne parla.
+    578161|00000000||Il lago è pieno di pesci persici, tinche e carpe. Che ne dici di una bella carpa?
+    578165|00000000||Non mi dispiacerebbe, ma dobbiamo aspettare che se ne vada?
+    578167|00000000||No, lo spaventiamo.
+    578171|00000000||Come?
+   1061579|00000000||Povero Milos...
+   1061773|00000000||Non c'è motivo di compatirlo... Ha finito di fare l'amicone degli Oscuri. Se l'è meritato.
+   1061777|00000000||Mmmh... Un mese fa, mi guardava in modo strano. Ora capisco perché.
+   1061775|00000000||Il tesoro nilfgaardiano! Non ci ha detto una parola a riguardo.
+   1061779|00000000||Mi chiedo che cosa troveranno...
+   1061571|00000000||Li hai visti? I redaniani nel campo di Milos... Che tagliano e scavano?
+   1061573|00000000||Adesso? Diamine, distruggeranno il raccolto! Calpesteranno il grano!
+   1061575|00000000||Tsk, il grano! Si dice che gli Oscuri abbiano seppellito qualcosa in quel campo, ordinando a Milos di seminare il grano per nasconderlo.
+   1061769|00000000||Aaah!
+   1061771|00000000||Vieni. Vediamo se hanno trovato qualcosa.
+    575860|00000000||Laggiù, in quella capanna!
+    575853|00000000||Aiuto, slegatemi...
+   1059138|00000000||Aspettate, signore! Vi prego!
+   1059141|00000000||Qual è il problema?
+   1059143|00000000||I soldati li hanno legati! Laggiù! Nella capanna!
+   1062036|00000000||Chi hanno legato?
+   1062038|00000000||Hanno preso mio padre! E lo zio Bogurt! E Klimko! Aiutami!
+    578973|00000000||Ti crederei se mi mostrassi un paio di pantaloni di batista con il monogramma.
+    578986|00000000||Invece diresti che li ho rubati.
+    578988|00000000||Eh eh eh...
+    578975|00000000||Idioti.
+    578978|00000000||Non dovevi andare da qualche parte?
+    578980|00000000||Sì.
+    578983|00000000||D'accordo.
+    579026|00000000||Dove vi incontrerete?
+    579028|00000000||Alla capanna del cacciatore.
+    579007|00000000||Ti crederei se mi mostrassi un paio di pantaloni di batista con il monogramma.
+    579009|00000000||Invece diresti che li ho rubati.
+    579011|00000000||Eh eh eh...
+    579013|00000000||Idioti.
+    579016|00000000||Non dovevi andare da qualche parte?
+    579018|00000000||Dovevo.
+    579021|00000000||D'accordo.
+    579030|00000000||Dove vi incontrerete?
+    579032|00000000||Vicino alla capanna del cacciatore.
+    579035|00000000||Posso offrirti un altro po' di quel liquore che hai apprezzato tanto ieri?
+    579037|00000000||No, devo andare. Ho promesso di farmi trovare alla capanna del cacciatore all'alba.
+    579039|00000000||Ah, giusto: la caccia ai conigli!
+    579041|00000000||Hm.
+    578990|00000000||Ti crederei se mi mostrassi un paio di pantaloni di batista con il monogramma.
+    578992|00000000||Invece diresti che li ho rubati.
+    578994|00000000||Eh eh eh...
+    578996|00000000||Idioti.
+    578920|00000000||Sono felice di vedere che il cavallo è in buone mani...
+   1074799|00000000||Le migliori: quelle del proprietario. Ti sono mancato, Gulden, eh? Ti sono mancato?
+   1074801|00000000||Direi di sì. È corso via non appena ha avvertito la tua presenza. Travolgendo chiunque sulla sua strada.
+   1074803|00000000||Ehm... Hai sentito qualcuno che imprecava contro di lui? "Fottute orecchie" o qualcosa di simile?
+   1075628|00000000||Soltanto un uomo impreca in quel modo: il mio vicino, Mirko. Gli avevo lasciato Gulden mentre ero via... Devo andare a trovarlo. Dev'essere preoccupato.
+   1075631|00000000||Tieni... In segno di gratitudine. Per aver inseguito Gulden ed esserti accertato che stesse bene.
+    578904|00000000||Vedo che il cavallo è in buone mani...
+    578951|00000000||E alla fine ha vinto il folle Radovid. Persino i soldati sanno che a quell'uomo manca qualche rotella.
+   1075606|00000000||Ma le cose potrebbero volgere al meglio. Si dice che il cancelliere Dijkstra sia un uomo saggio e che governi con giudizio...
+   1075608|00000000||Saggio? Il termine esatto è astuto.
+    578953|00000000||Ma mi chiedo cosa mi aspetti a casa...
+    578955|00000000||Non ho visto l'imperatore prendere Novigrad, ma non mi dispiace. Bella città...
+    578910|00000000||Eri via da tanto?
+    578912|00000000||Un anno, non direi. Ma sembra molto di più, davvero.
+    578924|00000000||Ti hanno arruolato a forza?
+    578914|00000000||No, volevo combattere. Mi aspettavo di portare a casa qualcosa di più di qualche cicatrice.
+    578922|00000000||Però ho visto il mondo. Qualche battaglia epocale, qualche generale famoso, anche se da lontano, e tanti figli di puttana.
+    578903|00000000||Eri via da tanto?
+    578902|00000000||Da che parte stavi?
+    578906|00000000||Da che parte combattevi?
+    578908|00000000||Dalla mia, come quasi tutti. Combattevo per sopravvivere.
+    578918|00000000||Morire è sempre morire, che lo si faccia per l'aquila redaniana o per il sole imperiale. Non c'è gloria.
+    578885|00000000||Pensavo che quel ronzino mi riconoscesse, dopo tutti questi anni...
+    578899|00000000||Sono intelligenti, ci si affeziona come se fossero persone. Ho visto ufficiali piangere per i loro cavalli morti...
+    578901|00000000||... Ma sono indifferenti al pianto di donne e bambini!
+    578957|00000000||Si dice che l'imperatore abbia avvelenato il suo stesso esercito. Ah, la politica. Roba dell'altro mondo.
+    582809|00000000||Oh, grazie mille, witcher. Lo avevo detto ai ragazzi che eri un brav'uomo e che non dovevamo prendere la tua barca.
+    583261|00000000||Ho sentito dire che vi siete dati agli investimenti... Gestione dei beni...
+    583263|00000000||Aye, investimenti in beni mobili. Di questi tempi, non puoi mai sapere quando...
+    583265|00000000||Quel calice d'oro in più potrebbe tornarti utile. Capisco.
+    583267|00000000||Che cosa ne avete fatto?
+    583268|00000000||Ehm... Non è qui. Abbiamo trovato un compratore. Il signor Mirrory, giusto? Un nome buffo, ma ci ha pagato bene.
+    583274|00000000||Divideremmo il guadagno con te, davvero, ma hai l'aria di uno che disprezza qualsiasi provento dei furti.
+    583276|00000000||Aye, hai quel cipiglio virtuoso. Decisamente.
+    583286|00000000||Non voglio il vostro denaro.
+    583287|00000000||Ma guardatelo, fa l'offeso! Neanche gli avessimo mostrato il ritratto di una fanciulla nuda...
+    583290|00000000||I witcher hanno il loro credo. Non rubano, non toccano le cameriere nelle taverne e non assalgono i viandanti.
+    583292|00000000||Facciamo delle eccezioni. Soprattutto per i viandanti.
+    583294|00000000||Arrivederci, witcher.
+    583278|00000000||Non preoccupatevi, non voglio il vostro denaro.
+    583277|00000000||Visto che insistete, accetterò i soldi.
+    583279|00000000||Non dico di no a degli amici. Accetterò volentieri parte di quei soldi.
+    583281|00000000||L'etica dei witcher... Il mondo sta andando a puttane.
+    583284|00000000||Perlomeno, gli abbiamo fregato la barca...
+    582142|00000000||Stanno arrivando! Nascondetevi!
+   1059837|00000000||Eh?
+    583252|00000000||Che succede?
+    582143|00000000||Tu non ci hai visto!
+    583244|00000000||Come siete finiti qui?
+    583246|00000000||I nostri affari ci hanno portato qui. Sono tempi duri, sai? Bisogna guadagnare come si può.
+    583249|00000000||La gente del luogo ha bisogno di periti?
+    583255|00000000||Abbiamo cambiato lavoro. Ora siamo degli investitori.
+    583258|00000000||Investitori?
+    583179|00000000||Che cosa ci fate qui?
+    583180|00000000||Mi avete rubato la barca.
+    583184|00000000||Mi avete rubato la barca.
+    583189|00000000||Presa in prestito. Sapevamo che era tua... E lo è ancora. Non penserai davvero che faremmo uno sgarbo simile a un amico come te? Fotterti così mentre dormi in preda all'alcol?
+   1059839|00000000||Mmmh? Oh, bene... Eh eh eh...
+    583192|00000000||Quindi, mi restituirete la barca?
+    583236|00000000||In nome degli dèi, perché mai dovrebbe servirti una barca in questa boscaglia?
+    583238|00000000||D'accordo, lasciamo perdere.
+    583996|00000000||D'accordo... Uscite.
+    583166|00000000||Com'è andato il vostro viaggio? Navigazione tranquilla?
+    582136|00000000||Sei ancora arrabbiato per quella bagnarola dell'Isola delle Nebbie? Ringrazia che tu e quella ragazza non eravate a bordo con noi.
+    583171|00000000||Non ci saresti stato comunque... La barca era così carica che è arrivata a malapena.
+    583173|00000000||E puzzava di merda di pesce.
+   1059835|00000000||*Russa*
+    579282|00000000||Non mi portavi mai in spalla a Kaer Morhen, ricordi? L'unico disposto a farlo era Vesemir.
+    579280|00000000||Urgh!
+    579284|00000000||E dovrei rimediare proprio adesso? Hai messo su qualche chilo dai tempi di Kaer Morhen!
+    579287|00000000||Ahahah!
+    579289|00000000||Ahahah!
+    579292|00000000||Ciri?
+    579294|00000000||Dobbiamo tornare indietro.
+    569886|00000000||Molte grazie! Da solo non l'avrei mai ripreso.
+   1074807|00000000||Fottute orecchie! Chi è? Hubrecht! Questo spiega perché Gulden correva in quel modo! Si agitava come se l'avesse morso un tafano!
+   1074809|00000000||Lieto di vederti, Mirko. Non sei cambiato. Neanche un po'.
+   1074811|00000000||Vieni dentro. Appendi il mantello e siediti vicino al camino! Io legherò Gulden e tornerò presto con un fiasco!
+    578096|00000000||Se n'è andata.
+    577477|00000000||Si è spazientita per l'attesa?
+    577478|00000000||No, aveva fretta di andare. Ha preparato i copri odori e ha oliato le trappole da sola.
+    577479|00000000||È una brava cacciatrice, vero?
+    577480|00000000||No, è troppo impaziente.
+    578109|00000000||È capace di prendere i conigli a mani nude e di metterli nelle trappole perché sono troppo lenti per entrarci da soli!
+    577481|00000000||Dov'è andata?
+    578103|00000000||Non lontano. Di là.
+    578106|00000000||Addio.
+    574033|00000000||Intesi?
+    574039|00000000||Che sia un amico o tuo fratello... Non mi interessa.
+    578814|00000000||I disertori devono essere giustiziati sul posto. Senza appello.
+    574037|00000000||Il furto di opere d'arte da templi o altri luoghi è proibito. Qualsiasi violazione sarà punita con la morte.
+    578858|00000000||Tali beni sono soggetti a confisca ufficiale. Saranno imballati, sigillati e trasportati a Nilfgaard.
+    578861|00000000||Al nostro ritorno, verrà assegnata una paga extra.
+    172334|06c10782||Donna di Skellige
+    568547|00000000||Aiuto!
+    568544|00000000||Ehiii! Fottuto inferno! Ahia! Fottute orecchie...
+    595891|fbee3e23||Paesana
+   1061290|00000000||Ci metteremo in marcia tra due ore!
+   1061734|00000000||Chi non sarà pronto e completamente equipaggiato verrà considerato un disertore.
+   1061736|00000000||Siete diventati pigri, merdacce, a furia di bere la birra temeriana!
+   1061738|00000000||Vi ricorderò io cosa significa marciare con l'esercito imperiale!
+    577221|00000000||Cosa ti ha fatto la Megera?
+    577308|00000000||Ha rubato il medaglione di mia figlia.
+    577310|00000000||Dammi ascolto. La Megera lotterà come una lupa braccata. Potrebbe storpiarti, o ucciderti!
+    583061|00000000||Perché rischiare? Trova un nuovo ciondolo per la ragazza. La delusione le passerà presto.
+    577312|00000000||Ne dubito. Mia figlia è morta.
+    577218|00000000||D'accordo.
+    577223|00000000||Parla.
+    577224|00000000||C'è una tana di lupi qui vicino, con dei cuccioli dentro. Portali fuori dalla palude.
+    577225|00000000||Perché?
+    577226|00000000||Qui non sopravvivrebbero, o si trasformerebbero in qualcosa di... Malvagio.
+    578819|00000000||Ci proverò.
+    578948|00000000||No.
+    577217|00000000||No.
+    577141|00000000||No. Quante persone hai già ucciso? E quante ancora ne ucciderai?
+    577142|00000000||Non lo so. Non ho avuto molta scelta però. Sono tempi bui.
+    577143|00000000||È vero.
+    577182|00000000||Un ultimo desiderio?
+    577139|00000000||No.
+    577212|00000000||Uno ci sarebbe. Trova la Megera e guidami nella palude fino a lei.
+    577213|00000000||E poi?
+    577214|00000000||Poi vedremo.
+    577215|00000000||Uhm... Cosa ti ha fatto la Megera?
+    577216|00000000||Ha rubato il medaglione di mia figlia.
+    577304|00000000||Se posso, perché rischi tanto? La Megera lotterà. Combatterà come una lupa braccata. Potrebbe storpiarti, o ucciderti!
+    583084|00000000||Trova un nuovo ciondolo per la ragazza. La delusione le passerà presto.
+    577305|00000000||Ne dubito. Mia figlia è morta.
+    577307|00000000||Vai.
+    577140|00000000||Uno ci sarebbe.
+    577130|00000000||Chi sei?
+    577131|00000000||Sai chi sono. E perché mi trovo qui.
+    577132|00000000||Già. Non devi... Non sono più una minaccia. Muoio di fame perché la palude è avvelenata. Non ho la forza di cacciare gli umani.
+    577133|00000000||Ti ha evocato una Megera?
+    577134|00000000||Nel sonno, un tempo facevo sogni da lupo... Ora sogno fame, dolore e sangue.
+    577135|00000000||Lei dov'è?
+    577136|00000000||Là fuori, nella palude.
+    577181|00000000||Non c'è altro modo?
+    573702|00000000||Sono soltanto voci. L'imperatore non ha motivo di saccheggiare Novigrad. Sarebbe come passare del denaro da una tasca all'altra.
+    573703|00000000||Mio padre sostiene che c'è una cripta sotto il Tempio del Fuoco Eterno. E che l'imperatore la svuoterà per assoldare mercenari.
+    573704|00000000||Quello è un altro discorso. I mercanti di Novigrad non protesteranno se l'imperatore disperde i sacerdoti ai quattro venti.
+    516508|b0678eeb||Cavallo
+   1061683|00000000||Più ci allontaniamo dalla Sacra Fiamma della Vera Fede, più profonda è l'oscurità della superstizione.
+   1061362|00000000||Qui nella campagna, non sanno neanche quanto spesso bestemmiano contro il Sacro Fuoco.
+   1061684|00000000||È sicuramente meglio qui. Gli eretici di Novigrad si sono fatti furbi.
+   1061686|00000000||Non appena gli mostri il ferro incandescente, quei figli di cagna ti confondono con dibattiti sull'etica.
+   1061366|00000000||Per come la vedo io, altro combustibile per le pire. Siamo finiti bene, non c'è dubbio.
+    577544|00000000||Dovevamo allenarci, oggi.
+    577545|00000000||Ah-ah...
+    577546|00000000||Domattina all'alba allora?
+   1068722|00000000||Ti metterò sotto come ai bei vecchi tempi.
+   1068724|00000000||Probabilmente ne è passato di tempo da quando qualcuno ti ha mostrato quanto ancora hai da imparare...
+    577547|00000000||Hm.
+   1068727|00000000||Ehm... Ci siamo quasi.
+    553394|00000000||Ricordi il mio addestramento sul pendolo?
+   1068716|00000000||Ricordi che temevo che non ce l'avrei mai fatta, ma tu mi avevi proibito di arrendermi?
+   1068718|00000000||Praticamente, ero tutta un livido... Quel pendolo era un incubo.
+    553397|00000000||Come potrei dimenticarlo!
+    553398|00000000||Quei mesi a Kaer Morhen sono passati così in fretta...
+    562408|00000000||Avrei voluto trascorrere più tempo con te.
+    578869|00000000||Come ti chiami, lupo mannaro?
+    578870|00000000||Berem.
+    578871|00000000||Portami dalla Megera, Berem.
+    577227|00000000||Forse un tempo, in un'altra situazione, ti avrei aiutato.
+   1065298|00000000||Non posso guardare... Devi morire...
+   1065300|00000000||Restane fuori!
+    579153|00000000||Un cucciolo è vivo...
+    579154|00000000||Andiamo, non ho tempo per questo.
+    579155|00000000||Da solo non può sopravvivere.
+    579156|00000000||Portami dalla Megera.
+    578938|00000000||È vicina. Qui da qualche parte...
+    578939|00000000||Torna ai tuoi sogni da lupo, Berem. Salva il cucciolo. Vattene, lontano da qui. Trovati una bella compagna. E vivi tranquillo.
+    578940|00000000||Lascia che io ti aiuti.
+    578941|00000000||No.
+    578942|00000000||Ricorda: combatterà come una lupa braccata. Potrebbe ucciderti.
+    578943|00000000||Lo so. Ora vai.
+   1061689|00000000||Non parlo mai di politica perché non so granché. Ma una cosa è sicura... C'è sempre bisogno di risorse.
+   1061691|00000000||Trecentocinquanta, trecentosessanta...
+   1061693|00000000||Prendili per il borsello e ti seguiranno, con il cuore e con la mente.
+   1061695|00000000||Quattrocentodieci, quattrocentoventi...
+   1061697|00000000||Gli Oscuri hanno lasciato parecchio. Il baule che abbiamo trovato conteneva... Quant'era?
+   1061699|00000000||Quattrocento... Porca puttana, ve l'ho già detto! O la shm... Smetto di bere, o la smettete d'interrompermi!
+    583007|00000000||La disperazione ti divora come i vermi mangiano i cadaveri.
+    583009|00000000||La tua carne è stata curata con tossine... Il dolore la rende dolce!
+    583011|00000000||Ha sofferto anche lei. Era triste e sola, tanto sola...
+    583013|00000000||Questo ti perseguiterà per sempre.
+    579063|00000000||Non più.
+    582987|00000000||Vuoi morire, witcher? Vuoi smettere di soffrire?
+    578944|00000000||Sei cambiato. Hai sofferto.
+    578946|00000000||Vuoi morire, lo sento. Riconosco l'odore del respiro di un suicida... I presagi non mentono.
+    578947|00000000||Quella puttanella dal sangue maledetto... Ha fatto a pezzi le mie sorelle. Sono sola, ed è colpa tua.
+    584873|00000000||"Il lampo che fende l'oscurità"...
+    584867|00000000||"Dubhenn haern am glâdeal, morc'h am fhean aiesin"
+    584869|00000000||Il lampo che fende l'oscurità, la luce che spezza la notte"
+    584871|00000000||Esatto.
+    584855|00000000||Rune in lingua antica classica. Niente orpelli, semplici e precise.
+    584857|00000000||Posso?
+    584859|00000000||È tua. Se desideri provarla... Ho chiesto ai miei apprendisti di preparare un manichino.
+    584861|00000000||Mmmh... Il tuo pagamento. Soltanto gemme, come richiesto.
+    584863|00000000||Se stai cercando lavoro, ho sentito dire che nella Foresta di Maribor si annida una strige.
+    584864|00000000||Grazie. Prima devo recarmi alla taverna, ma dopo... Chi lo sa.
+    584865|00000000||Buona fortuna con la tua Via, witcher.
+    584895|00000000||"Zireael"... Rondine.
+    584872|00000000||"Zireael"
+    584875|00000000||Sei in ritardo.
+    584877|00000000||Soldati...
+    584879|00000000||Che bloccano le strade, lo so. Non importa. Ce l'hai?
+    584881|00000000||Come concordato.
+    584883|00000000||Lama da trentotto pollici e mezzo, peso appena sotto le quaranta once, anima in acciaio di siderite rivestita in argento. Glifi e rune lungo l'intera lama e sull'elsa.
+    584885|00000000||Magnifica.
+    584887|00000000||Faccio questo lavoro da trent'anni. Soltanto i guerrieri migliori hanno i soldi per le mie merci.
+    584889|00000000||Quando ti dico che nessun altro witcher ha... O ha mai avuto... Un'arma migliore, devi credermi.
+    584891|00000000||La tua reputazione ti precede, mastro Ort. Non dubiterei mai di te.
+    584893|00000000||L'iscrizione, come mi avevi chiesto...
+    575206|00000000||Il vecchio ha sempre avuto un debole per me. Sentiva che davo importanza alla famiglia, alla pace. Che ero buono, come lui.
+    575224|00000000||Non sarebbe mai arrivato a ripudiarmi se non fosse stato per quella strega di "mia sorella".
+    575226|00000000||Com'è che ti chiami? Conte Julian Alphonzo di cosa?
+    575232|00000000||Visconte Julian Alfred Pankratz di Lettenhove.
+    575233|00000000||Eheheh.
+    575234|00000000||Non mi credi? Ti toglierai quella smorfia dalla faccia quando visiteremo i miei possedimenti.
+    575467|00000000||Eheheh.
+    577548|00000000||Stai attenta.
+    577549|00000000||Non è il momento di una delle tue lezioni.
+    577550|00000000||Ciri, aspetta. C'è qualcosa nel...
+    577551|00000000||Non c'è bisogno di fare a gara.
+    577552|00000000||Ciri!
+    581646|00000000||Confessa, consegnaceli e potresti anche avere salva la vita.
+    581648|00000000||Vi ha detto questo?
+    584960|00000000||Fate pure, controllate la mia casa. Non troverete niente e nessuno.
+    581649|00000000||Lo vedremo.
+    576003|00000000||Pietà, signore...
+    576004|00000000||Ora basta!
+    584988|00000000||Io? Mai! Vi ha detto questo?
+    581635|00000000||Vieni con noi.
+    584991|00000000||Eh eh eh...
+    584993|00000000||Bastardo!
+    585004|00000000||Prendetelo.
+    575076|00000000||Si dice che tu nasconda delle spie di Nilfgaard in casa...
+   1059136|00000000||Ehi, tu! Sparisci! In nome del re!
+    575878|00000000||Dicono che tu nasconda dei libri sacrileghi...
+    575867|00000000||Signore, i-io non s-so neanche l-leggere...
+    575879|00000000||Lo vedremo.
+    575871|00000000||Giuro su tutti gli dèi che...
+    575884|00000000||Ah-ah! Blasfemia! Era da tempo che non legavamo qualcuno ai cavalli.
+    575883|00000000||Pietà!
+    575971|00000000||Fuori.
+    575986|00000000||Dobbiamo farli sparire.
+    575987|00000000||E in fretta.
+    172316|3a2616f8||Cacciatore di streghe
+   1055084|06691856||Paesano
+    578825|00000000||Sento l'odore di un lupo... E di uomini.
+    578826|00000000||Quanti?
+    578827|00000000||Dieci, non di più.
+    578828|00000000||Stai alla larga.
+    585744|00000000||Probabilmente ha avuto qualche contrattempo...
+   1059036|00000000||Mastro Ort!
+   1061386|00000000||Mmmh...
+   1062260|00000000||Radovid aveva molti difetti... Era crudele, impulsivo e patologicamente ambizioso...
+   1062262|00000000||Ma era un genio tattico, questo è innegabile. Comandando forze notevolmente inferiori a quelle del nemico, sconfisse abilmente gli invasori del Sud.
+   1062264|00000000||L'aquila redaniana prese sotto la sua ala tutto il Nord, Novigrad compresa.
+   1062266|00000000||Due grandi strateghi si affrontarono nella terza Guerra Settentrionale: Radovid V, noto come l'Inflessibile, ed Emhyr var Emreis.
+   1062268|00000000||Entrambi sembravano invincibili, eppure entrambi ne uscirono sconfitti. Gli invasori nilfgaardiani del Sud vennero respinti sul campo, mentre il "capo supremo" del Nord cadde vittima di un assassinio.
+   1062270|00000000||Nella vittoriosa Redania, un uomo che fino a quel momento aveva agito nell'ombra, assunse le redini del potere. Quell'uomo era Sigismund Dijkstra.
+   1062254|00000000||La terza Guerra Settentrionale si concluse con la completa vittoria degli invasori del Sud.
+   1062256|00000000||Privi del genio tattico di Radovid, i Regni Settentrionali si dimostrarono incapaci di respingere le innumerevoli legioni di Emhyr.
+   1062258|00000000||Stendardi neri apparvero su Novigrad e su tutta la Redania.
+   1062273|00000000||Ottenuta la vittoria contro Nilfgaard, Radovid ritenne che fosse giunto il momento di completare la sua caccia alle streghe.
+   1062275|00000000||Come in passato a Novigrad, a Temeria e nell'Aedirn, sulle terre appena "liberate" dal monarca redaniano, bruciarono innumerevoli roghi. In luce di rinnovamento morale, vennero uccisi migliaia di semplici erboristi, sciamani, guaritori e non-umani... Tutti presunti eretici.
+   1062277|00000000||Per molti, la libertà sotto lo scettro di Radovid si dimostrò più tragica della schiavitù sotto altri sovrani.
+   1062279|00000000||Ottenuto il seggio di cancelliere, Dijkstra governò il Nord vittorioso con il suo stile cinico e spietato.
+   1062281|00000000||Dijkstra sapeva che la pace poteva essere mantenuta soltanto preparandosi per la guerra. Seguendo l'esempio di Nilfgaard, consolidò il suo governo su vasta scala tramite un ampio programma d'insediamento e d'industrializzazione.
+   1062283|00000000||Tutto per il bene dei suoi sudditi... Sebbene contro la loro volontà.
+   1062285|00000000||Stanco delle incursioni dei guerriglieri temeriani, Emhyr var Emreis concesse e ripristinò le loro terre come feudo dell'impero.
+   1062287|00000000||I ribelli deposero le armi e l'imperatore poté finalmente spostare le sue forze su altri fronti.
+   1062289|00000000||Così, con la completa vittoria di Nilfgaard, i temeriani riottennero il loro paese e la storia si dimostrò nuovamente un'abile ingannatrice.
+   1062291|00000000||Dopo essersi occupato di Radovid, Emhyr var Emreis si apprestò a fare lo stesso con i nemici interni.
+   1062293|00000000||Le spie leali all'imperatore fecero i nomi di tutte le persone che avevano cospirato contro di lui... Mercanti, soldati e aristocratici.
+   1062295|00000000||Sebbene la loro ribellione non fosse mai andata oltre qualche piano confuso, l'imperatore non ebbe pietà. Com'era suo costume.
+   1062297|00000000||Fintanto che le sue armate avevano ottenuto una vittoria dietro l'altra, i sudditi di Emhyr erano rimasti obbedienti.
+   1062299|00000000||Quando una serie di umilianti sconfitte fece cadere la sua aura d'infallibilità, l'opposizione, fino a quel momento clandestina, si mosse all'attacco.
+   1062301|00000000||L'imperatore che aveva danzato sulle tombe dei propri nemici fu seppellito nella tomba dai suoi stessi sudditi.
+   1062303|00000000||Mentre il Continente si ritrovò a soffrire, sconvolto dalla guerra, Skellige prosperò sotto l'illuminato governo di Cerys.
+   1062305|00000000||Contrariamente ai suoi predecessori, la giovane regina non razziò né saccheggiò le coste straniere, ma si occupò della propria gente e delle proprie terre.
+   1062307|00000000||La nazione delle isole prosperò notevolmente, anche se i suoi antichi artigli erano smussati.
+   1062309|00000000||Sebbene la guerra sul Continente fosse giunta al termine, Hjalmar si rifiutò di deporre le armi.
+   1062311|00000000||Ogni primavera, il giovane re si dedicò a razziare, saccheggiare e bruciare le cose dell'odiato impero di Nilfgaard. Hjalmar intendeva mantenere la parola data, anche a costo di versare il sangue del proprio popolo.
+   1062313|00000000||Molti abitanti delle isole vedevano Svanrige come una marionetta nelle mani ambiziose di sua madre. Tuttavia, il giovane re smentì le loro aspettative, governando in modo indipendente e con pugno di ferro.
+   1062315|00000000||Stanco delle continue faide degli jarl, decise di trasformare le Isole in una monarchia assoluta, ispirata a quelle del Continente.
+   1062317|00000000||Svanrige riuscì nel suo intento, ma solo dopo aver versato il sangue di molti suoi compatrioti.
+   1062319|00000000||Cirilla Fiona Ellen Riannon, erede al trono di Nilfgaard, scelse di vivere da witcher, seguendo la Via.
+   1062321|00000000||Geralt le insegnò tutto ciò che sapeva, fino all'ultima abilità in suo possesso. Dopodiché partirono, ognuno per la propria strada.
+   1062323|00000000||Presto le voci sulle imprese della witcher dai capelli biondo cenere si diffusero in tutte le terre, dallo Yaruga alle montagne del Kovir...
+   1062325|00000000||Dopo anni di esilio, Ciri tornò a Nilfgaard, sua patria paterna, dove Emhyr era pronto a nominarla suo successore.
+   1062327|00000000||Va sottolineato che la giovane possedeva tutti i requisiti richiesti. Da suo padre aveva ereditato un istinto politico da imperatrice, mentre da Geralt aveva preso l'umiltà.
+   1062329|00000000||Raramente questi tratti convivono in un monarca, il che è un peccato...
+   1062331|00000000||Che cosa ne fu di Ciri? Difficile dirlo, davvero. Dai memorabili eventi di Undvik, la ragazza non si è più vista.
+   1062333|00000000||Il che non significa che non farà mai ritorno...
+   1062335|00000000||Per quanto sia difficile crederlo, Geralt mise finalmente radici... nel lontano Kovir.
+   1062337|00000000||Lui e Triss crearono una casa, calda e pervasa dal profumo di torte appena sfornate. Gli ospiti erano sempre benvenuti, a qualsiasi ora del giorno.
+   1062339|00000000||Il witcher accettava qualche lavoro, più per abitudine che per necessità poiché, in quanto maga consigliera del re del Kovir, Triss guadagnava una discreta fortuna.
+   1062341|00000000||"Che cosa ne fu di Geralt?" vi chiederete... Beh...
+   1062343|00000000||Continuò la sua professione, vivendo alla giornata, di lavoro in lavoro... Sempre sulla strada, sempre spiantato.
+   1062345|00000000||A volte ci trovavamo davanti a un bicchiere di qualcosa di forte per ricordare i vecchi tempi e ipotizzare come sarebbe potuta andare diversamente...
+   1062347|00000000||Mentre i monarchi spostavano confini e popolazioni, il witcher e Yennefer si ritirarono a vita tranquilla, lontani dalla politica.
+   1062349|00000000||Facevano colazione la mattina tardi, spesso a letto, e trascorrevano le giornate tra oziose passeggiate e lunghe conversazioni.
+   1062351|00000000||"Noioso", dite? Forse... Ma era ciò che entrambi volevano più di ogni altra cosa.
+   1052050|00000000||Mastro witcher! Quaggiù! Ho parecchie lame da provare, se è questo che cerchi...?
+   1061302|00000000||Fate in fretta con quella ruota!
+   1061741|00000000||O volete restare ad accogliere gli uomini di Radovid?
+    574752|00000000||Il prossimo!
+    574757|00000000||Qualcun altro vuole farsi avanti?
+   1062041|00000000||Per oggi è tutto! Disperdetevi!
+    574758|00000000||Tu! Sì, tu.
+    572807|00000000||Mi segua.
+    572810|00000000||Sua altezza imperiale attende.
+    595913|6b1268cb||Paesano
+   1051424|f11e033c||Forgiatore di spade
+    583129|00000000||Ehi! Prendetelo!
+    583128|00000000||È così che finiscono i traditori. Elimineremo il seme della ribellione.
+    584088|00000000||Puoi osservare da lontano.
+    171353|39b3095b||Soldato redaniano
+    577981|00000000||Un vecchio trucco di noi witcher per gli inverni più duri. Non proprio elegante, ma...
+    577983|00000000||Efficace.
+    577985|00000000||Hm. Ricorda: non farlo mai.
+    577987|00000000||Allora perché me lo mostri?
+    577989|00000000||Per sicurezza. Non sai mai cosa può succederti lungo la Via, né cosa potrebbe salvarti la vita.
+    578288|00000000||Invece sì.
+    578689|00000000||Invece sì.
+    578692|00000000||Potresti venire con me.
+    578694|00000000||No, Ciri. Non fa per me, lo sai.
+    578696|00000000||Lo so, ma credevo che...
+    578698|00000000||Hai fatto la tua scelta. Io ho fatto la mia tanto tempo fa.
+    578700|00000000||La guerra è finita. Avrò un mucchio di mostri da uccidere in villaggi sperduti.
+    578703|00000000||Quando parti?
+    578709|00000000||Ora.
+    578764|00000000||Non lascerai a Yennefer il tempo di fare le valigie?
+    578711|00000000||Non lascerai a Triss il tempo di fare le valigie?
+    578714|00000000||Quindi è...
+    578338|00000000||Certo che no!
+    578347|00000000||Non so quando ci rivedremo.
+    578349|00000000||Sai dove trovarmi.
+    578353|00000000||Non resterai per sempre a Kaer Morhen.
+    578355|00000000||Non importa. Mi troverai lo stesso.
+    578375|00000000||Vero.
+    578361|00000000||Ricorda ciò che ti ho insegnato. Non si sa mai, potrebbe servirti anche là...
+    578286|00000000||Certo che no.
+    578248|00000000||È questo che vuoi?
+    578258|00000000||Sì.
+    578261|00000000||Non proverai a fermarmi? Non mi porterai alle Montagne Blu con la forza?
+    578775|00000000||Ho viaggiato per mezzo mondo per trovarti, ma non ho mai pensato di costringerti a fare nulla.
+    578283|00000000||Lo so.
+    578781|00000000||Te la caverai, sei una witcher.
+    578285|00000000||Non è un addio.
+    578219|00000000||È questo che vuoi?
+    578750|00000000||Se vuoi sapere se Yennefer ha a che fare con tutto questo, la risposta è no.
+    578754|00000000||Bene. Ne è al corrente?
+    578756|00000000||No. E preferirei non coinvolgerla questa volta.
+    578761|00000000||Lascerò che glielo dica tu.
+    578752|00000000||Se vuoi sapere se Emhyr ha minacciato di mandarti contro la Divisione Alba se non avessi accettato, la risposta è no.
+    578767|00000000||La lettera doveva essere convincente, allora.
+    578769|00000000||Già.
+    578748|00000000||Si tratta di una tua scelta?
+    578739|00000000||Si tratta di una tua scelta?
+    578223|00000000||Potevi dirmelo.
+    578221|00000000||Potevi dirmelo, per avvisarmi.
+    578222|00000000||Volevo farlo, ma... Non sapevo come. Qui sono stata felice. Temevo di rovinare tutto. Non volevo sprecare un solo minuto.
+    578777|00000000||Quindi torni al nido. Tutto qui.
+    578779|00000000||Non ho insistito, non volevo costringerti a dirmelo. Pensavo ci fosse tempo. Molto più tempo.
+    578706|00000000||Sono qui per me, Geralt. Sto andando a Nilfgaard. Da Emhyr.
+    578728|00000000||So che non te lo aspettavi, ma...
+    578730|00000000||A Vizima, mio padre e io abbiamo parlato... A lungo. Discusso, in realtà, e poi ci siamo separati. Poi... Un messaggero mi ha consegnato una lettera. All'inizio non ho detto niente perché non ero sicura, e poi...
+    578738|00000000||Ho capito che devo smettere di fuggire. Ho capito che se voglio cambiare qualcosa, non posso farlo uccidendo mostri in villaggi sperduti. Devo farlo da là. Da Nilfgaard.
+    578687|00000000||Avevo quasi dimenticato che era oggi.
+    574832|00000000||Mariella! Mi aspetterai?
+    574833|00000000||Sì...
+    574827|00000000||Le tue sono solo parole.
+    574828|00000000||Tornerò da te, te lo prometto!
+    574830|00000000||Sì, se solo avessi mantenuto metà delle tue promesse!
+    582400|00000000||Tornerò e ti porterò a Nilfgaard.
+    582402|00000000||Avevi detto che saresti rimasto qui!
+    175619|ea15b01b||Oste
+    552440|00000000||Vai a caccia, mastro witcher? Credevo che avessi liberato la zona dalle bestie l'ultima volta...
+    552441|00000000||Stavolta vado a caccia di conigli.
+    552971|00000000||Ah, ecco.
+    552972|00000000||Perché non passi a trovarci stasera? Verka sta preparando una torta.
+    552979|00000000||Hm, non so se...
+    552984|00000000||Come preferisci. Sei sempre il benvenuto.
+    586286|00000000||Li vedi? Sono venuti per il banchetto! Li nutrirò con il tuo dolore!
+    586287|00000000||Meglio che tornino da dove sono venuti, se ci tengono alla vita. Sono qui solo per te.
+    586288|00000000||Sanno che non li risparmieresti. Sei un witcher, un assassino. Tu bracchi e uccidi.
+    586289|00000000||Nulla mi importa più.
+    586290|00000000||Fate come vi pare: potete ancora andarvene. Chi resterà qui, morirà.
+    586291|00000000||Uccidiamolo!
+    579064|00000000||Sento il tuo dolore. Vedo la tua paura!
+    579065|00000000||Ma guardati! Senti il loro odio? Hai ucciso i loro compagni per qualche moneta. Ti guarderanno soffrire quando avrai perso gli artigli, lupo.
+    579066|00000000||Le profezie non mentono... Non puoi sopravvivere a questo scontro.
+    579067|00000000||Zireael è morta. Non è che un corpicino congelato immerso nei ghiacci.
+    579068|00000000||E tu hai paura... Sei spaventato.
+    579069|00000000||Menti. Io non provo più niente.
+    578824|00000000||Pazienza, sorelle. Lo sento, sta arrivando. Avrete la sua anima...
+    578936|00000000||Il suo dolore e la sua sofferenza saranno vostri. E voi ve ne pascerete.
+    578937|00000000||Presto, sorelle. Molto presto.
+    578958|00000000||Vieni fuori!
+    576137|00000000||Prendi tutta la tua robaccia. Non lasciare qui nulla... Neanche uno straccio pidocchioso, intesi?
+    576139|00000000||Dovremo comunque ripulire le pareti.
+    576147|00000000||Cani nilfgaardiani...
+    581876|00000000||Questa è Temeria, hai capito?
+    581878|00000000||Vedremo per quanto ancora...
+    582555|00000000||Doppio malto di Mahakam... Mi chiedo dove l'abbiano rubata.
+    582569|00000000||Stufato sufficiente a nutrire un esercito...
+    582586|00000000||Mi chiedo se li prenderanno...
+    582538|00000000||Ci vuole del coraggio ad accamparsi così vicino alla strada...
+    582556|00000000||Il calice non è qui...
+    582557|00000000||Mmmh, sembra che ora investano in beni mobili...
+    581194|00000000||Il malocchio! È complice della strega! Prendetelo!
+    581170|00000000||Non permettete alla strega di condurre la sua vita empia, bruciate tutte le oscenità con il fuoco più sacro...
+    581188|00000000||Silenzio, strega!
+   1068563|00000000||Vieni, bello!
+    578847|00000000||Non costringermi a ucciderti.
+    578850|00000000||Calma. Non c'è bisogno di combattere.
+    578851|00000000||Vattene. Quanto alla Signora della Palude... Vedi di lasciarla in pace.
+    578836|00000000||Bene, non m'importa.
+    578841|00000000||Vero.
+    578842|00000000||Sparisci allora. Ci rovini il divertimento.
+    578843|00000000||[Lo colpisci.]
+    578854|00000000||Vado.
+   1065296|00000000||Arrivederci. Ho da fare.
+    578845|00000000||Vado.
+    578844|00000000||Liberate la lupa.
+    578863|00000000||Liberate la lupa.
+    578864|00000000||Non si è ancora indebolita.
+    578865|00000000||È furiosa. Sa di essere spacciata, ma non lo accetta.
+    578866|00000000||Andatevene.
+    578867|00000000||Cosa? Sei fuori di testa? Quella bestia ha ucciso i nostri animali, e lo farà ancora. Fottuti lupi, sono i nostri nemici! O lei o noi!
+    578868|00000000||Sono d'accordo.
+    578853|00000000||Liberate la lupa.
+    578852|00000000||[Lo colpisci.]
+    578835|00000000||Liberate la lupa.
+    578848|00000000||Uh...
+    578849|00000000||Ti spelliamo vivo, bastardo!
+    578846|00000000||[Lo colpisci.]
+    578837|00000000||Dov'è la Megera?
+    578838|00000000||Sparisci, qui non vogliamo quelli come te. Lascia queste terre.
+    578839|00000000||Non ancora, ma presto. Prima la Megera.
+    578840|00000000||Tu sei da solo. Noi siamo dieci, e abbiamo i cani. Vuoi finire come la lupa?
+    578834|00000000||Dov'è la Megera?
+    578829|00000000||Che ci fate qui?
+    578830|00000000||Una lupa è a caccia da qualche giorno. Ha ucciso una mucca e ferito un uomo. Abbiamo preparato qualche trappola.
+    578831|00000000||Quella stupida bestia ci è cascata, eheheh! Quando si stancherà, libereremo i cani. Sarà una caccia al lupo!
+    578832|00000000||Che ti è successo all'orecchio?
+    578833|00000000||Che ti importa, non sono affari tuoi!
+    584284|00000000||Inchinatevi dinanzi al vostro nuovo lord...
+    584286|00000000||E protettore.
+    584253|00000000||Il nobile Lord Dagborg assume il governo di queste terre con grazia e giustizia.
+    584254|00000000||Qualsiasi obbligo, tassa o imposta dovuta ad altri sarà condonata.
+    574281|00000000||La guerra ha causato danni che vanno riparati. Pertanto, le tasse saranno raddoppiate.
+    574282|00000000||Chiunque salderà i pagamenti con la tesoreria riceverà una ricevuta pari alla somma versata.
+    574278|00000000||Streghe, falsi guaritori, mercanti di amuleti e luridi non-umani sono dichiarati fuorilegge.
+    574279|00000000||Chiunque fornirà rifugio o aiuterà in altro modo questi individui sarà processato e giustiziato per volere del Sacro Tribunale del Fuoco Eterno.
+    584266|00000000||Che cosa significa?
+    584268|00000000||Significa che ora dovete pagare le tasse al nobile Lord Dagborg.
+   1058998|00000000||Sono in arrivo cambiamenti.
+   1059080|00000000||Serve aiuto? Con il carro?
+   1059082|00000000||Ce la caveremo, amico.
+   1059084|00000000||Grazie per l'interessamento.
+   1059086|00000000||Sì, perché non mi sembri un riparatore di ruote, questo è certo...
+   1059088|00000000||Vi serve aiuto con il carro?
+   1059090|00000000||Credo che ce la caveremo, eh eh eh...
+   1059092|00000000||Ah! Sì, puoi scommetterci che ce la caveremo.
+   1059094|00000000||Vero, i barili sono belli grossi, ma presto saranno vuoti.
+   1059102|00000000||Vero, è innegabile.
+   1059104|00000000||Nilfgaard fugge, e qui sembrava che nessuno potesse scalzarli.
+   1059112|00000000||Hanno lasciato qui anche il vino. Molto generosi.
+   1059096|00000000||Ormai ci siamo abituati.
+   1059098|00000000||Ora che gli Oscuri se ne sono andati, arriveranno i cacciatori di streghe. Ma la vita continua. Dobbiamo cogliere il momento.
+   1059100|00000000||Vero! Quindi, diamoci da fare, prima che arrivi la notte!
+   1059116|00000000||Devo andare. Arrivederci.
+   1059122|00000000||Devo andare. Vi auguro buona fortuna.
+    584839|00000000||Buona fortuna.
+   1059013|00000000||Dove sei diretto? Alla locanda più vicina, direi...
+   1059114|00000000||Sì. Devo prima incontrare qualcuno... Nell'ex accampamento dei nilfgaardiani. Buona fortuna.
+   1059118|00000000||Sicuri di non volere una mano?
+   1059120|00000000||Ce la caveremo.
+   1059115|00000000||Sicuri di non volere una mano?
+   1059107|00000000||Dici il vero.
+   1059109|00000000||I nilfgaardiani sono fuggiti, i redaniani sono appena arrivati e i banditi percepiscono il vuoto. Praticamente, sentono di avere briglia sciolta.
+   1059111|00000000||Siamo riusciti a fuggire, poi abbiamo rotto una ruota e i cavalli sono scappati nel bosco.
+   1059072|00000000||Serve una mano con il vostro carro?
+   1059074|00000000||Ehm... N-no...
+   1059076|00000000||Non è esattamente nostro, è più un veicolo trovato. Un bottino, potremmo dire.
+   1059078|00000000||La gente deve averlo abbandonato nella fretta di andare... Dove, non so. Sarebbe un peccato lasciarlo ai redaniani.
+    590603|00000000||Ehi, è andato a male.
+    590605|00000000||Ehilà!
+    590607|00000000||Che succede?
+    590609|00000000||Se non sopporti il caldo, esci dalla forgia.
+    590619|00000000||Qui c'è solo merce di qualità, non robaccia arrugginita.
+    590611|00000000||Ogni uomo forgia il proprio destino? Tz! Al massimo lo manda a puttane!
+    590621|00000000||Vale qualcosa il metallo che hai sulla schiena?
+    590613|00000000||Vuoi una martellata?
+    590615|00000000||E ora? Devo chiamare aiuto?
+    590617|00000000||Aiuto! Salvatemi!
+    573535|00000000||Rapporto.
+    573530|00000000||Capitano!
+    573536|00000000||La delegazione di Novigrad è a mezza giornata di viaggio da qui.
+    573537|00000000||Vanno davvero di fretta...
+    577531|00000000||Ritorna al tuo posto.
+    577533|00000000||Sissignore.
+    573538|00000000||Il quarto Squadrone Cate... L'intera Divisione Frundsberg... Ha disertato...
+    573539|00000000||Il generale Voorhis è stato informato?
+    577540|00000000||È a una riunione, non fanno entrare nessuno...
+    577542|00000000||Sciocchezze. Entra e fagli subito rapporto.
+    581879|00000000||*Starnutisce*
+    581883|00000000||Merda, il witcher!
+    574700|00000000||Probabilmente gli Oscuri pensavano che sarebbero rimasti qui per sempre... Eh eh eh.
+    584444|00000000||Nilfgaardiani, redaniani... Stessa merda.
+    574684|00000000||E io che pensavo che gli imperiali fossero pessimi...
+   1061437|00000000||Se non fosse per noi, gli Oscuri sarebbero ancora qui... Fino al solstizio d'inverno e oltre!
+   1061439|00000000||Eh eh eh! Sei un eroe... E sei tutto mio! Che fortuna!
+   1061711|00000000||Ridi pure, ma se non fosse per il tuo Gordek che è tornato e che ha scacciato i nilfgaardiani...
+   1061713|00000000||Ah ah ah!
+   1061715|00000000||...La tua verginità sarebbe stata colta da un qualche Cahir o Johann!
+   1061717|00000000||Ma tu... Tu mi hai aspettato, mia piccola Manny, non è vero?
+   1061719|00000000||Sì. Sì!
+   1061721|00000000||Ah ah ah!
+    577594|00000000||Portiamo a Dandelion un bel pesce persico e si dimenticherà dello spezzatino di coniglio.
+    577595|00000000||Hm.
+   1068729|00000000||Quasi rimpiango di non averlo invitato...
+   1068731|00000000||Avrebbe bisogno di un po' di movimento.
+   1068733|00000000||Mmmh...
+    578152|00000000||Il ghiaccio qui non dovrebbe essere troppo spesso.
+    578154|00000000||Ah-ah...
+    578150|00000000||Come pensi di prendere qualcosa?
+    578157|00000000||Aspetta e vedrai.
