@@ -257,7 +257,7 @@
 	</item>
 	
 	<item name="mh107_czart_lure" category="usable" price = "1" weight="0.28" equip_slot="" hold_slot="l_weapon" equip_template="mh107_item_czart_lure_potion" hold_template="mh107_item_czart_lure_potion"  icon_path="icons/inventory/quests/mh107_czart_lure_64x64.png" localisation_key_name = "item_name_mh107_czart_lure" localisation_key_description = "item_desc_quest_item" >
-		<tags>QuickSlot,Quest, UI_FiendLure</tags>
+		<tags>SingletonItem, QuickSlot, Quest, UI_FiendLure</tags>
 		<anim_actions>
 			<action
 				name="holster"
@@ -266,6 +266,10 @@
 				deact="hide_item_deact">
 			</action>
 		</anim_actions>
+	</item>
+
+	<item name="mq1060_right_hand_potion" category="usable" price = "1" weight="0.28" equip_slot="" hold_slot="r_weapon" equip_template="mh107_item_czart_lure_potion" hold_template="mh107_item_czart_lure_potion"  icon_path="icons/inventory/quests/mh107_czart_lure_64x64.png" localisation_key_name = "item_name_mh107_czart_lure" localisation_key_description = "item_desc_quest_item" >
+		<tags>SingletonItem, QuickSlot, Quest</tags>
 	</item>
 
 	<!-- DO NOT REMOVE!! -->

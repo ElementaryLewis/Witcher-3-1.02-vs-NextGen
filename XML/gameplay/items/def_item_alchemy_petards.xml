@@ -109,7 +109,7 @@
       <!-- DRAGONS DREAM -->
       <ability name="DragonsDream_1">
         <tags>PetardLoopParams</tags>
-        <FireDamage type="add" min="300" max="300" />
+        <FireDamage type="add" min="250" max="250" />
         <duration type="add" min="15" max="15" />
         <ammo type="add" min="2" />
 		<quality type="add" min="2" max="2"/>
@@ -118,7 +118,7 @@
 	  
       <ability name="DragonsDream_2">
         <tags>PetardLoopParams</tags>
-        <FireDamage type="add" min="400" max="400" />
+        <FireDamage type="add" min="300" max="300" />
         <duration type="add" min="30" max="30" />
         <ammo type="add" min="3" />
         <DragonsDream_3 is_ability="true" />
@@ -129,13 +129,13 @@
 	  
       <ability name="DragonsDream_3">
         <tags>PetardLoopParams</tags>
-        <FireDamage type="add" min="400" max="400" />
+        <FireDamage type="add" min="300" max="300" />
         <duration type="add" min="30" max="30" />
         <ammo type="add" min="4" />
         <DragonsDream_2 is_ability="true" />
         <level type="add" min="3" />
 		<burning_chance min="0.5" type="add" />
-		<explosionFireDamage type="add" min="20" />
+		<explosionFireDamage type="add" min="15" />
 		<quality type="add" min="4" max="4"/>
       </ability>
 	  
@@ -153,6 +153,7 @@
         <magic_s3 is_ability="true" />
         <magic_s4 is_ability="true" />
         <magic_s5 is_ability="true" />
+		<ablMagic is_ability="true" />
 		<Doppelganger is_ability="true" />
 		<Fireball is_ability="true" />
 		<Flashstep is_ability="true" />
@@ -184,6 +185,7 @@
         <magic_s3 is_ability="true" />
         <magic_s4 is_ability="true" />
         <magic_s5 is_ability="true" />
+		<ablMagic is_ability="true" />
 		<Doppelganger is_ability="true" />
 		<Fireball is_ability="true" />
 		<Flashstep is_ability="true" />
@@ -216,6 +218,7 @@
         <magic_s3 is_ability="true" />
         <magic_s4 is_ability="true" />
         <magic_s5 is_ability="true" />
+		<ablMagic is_ability="true" />
 		<Doppelganger is_ability="true" />
 		<Fireball is_ability="true" />
 		<Flashstep is_ability="true" />
@@ -239,8 +242,8 @@
       <!-- GRAPESHOT -->
       <ability name="Grapeshot_1">
         <tags>PetardImpactParams</tags>
-        <PhysicalDamage type="add" min="350" max="350" />
-        <SilverDamage type="add" min="350" max="350" />
+        <PhysicalDamage type="add" min="250" max="250" />
+        <SilverDamage type="add" min="250" max="250" />
         <FireDamage type="add" min="5" />
         <StaggerEffect is_ability="true" />
         <ammo type="add" min="2" />
@@ -250,8 +253,8 @@
 	  
       <ability name="Grapeshot_2">
         <tags>PetardImpactParams</tags>
-        <PhysicalDamage type="add" min="600" max="600" />
-        <SilverDamage type="add" min="600" max="600" />
+        <PhysicalDamage type="add" min="450" max="450" />
+        <SilverDamage type="add" min="450" max="450" />
         <FireDamage type="add" min="10" />
         <StaggerEffect is_ability="true" />
         <ammo type="add" min="3" />
@@ -262,8 +265,8 @@
 	  
       <ability name="Grapeshot_3">
         <tags>PetardImpactParams</tags>
-        <PhysicalDamage type="add" min="600" max="600" />
-        <SilverDamage type="add" min="600" max="600" />
+        <PhysicalDamage type="add" min="450" max="450" />
+        <SilverDamage type="add" min="450" max="450" />
         <FireDamage type="add" min="10" />
         <StaggerEffect is_ability="true" />
         <ammo type="add" min="4" />
@@ -281,6 +284,7 @@
 		<quality type="add" min="2" max="2"/>
 		<level type="add" min="1" />
 		<BiesHypnosis is_ability="true" />
+		<Hypnosis is_ability="true" />
       </ability>
 	  
       <ability name="Samum_2">
@@ -291,6 +295,7 @@
         <level type="add" min="2" />
 		<quality type="add" min="3" max="3"/>
 		<BiesHypnosis is_ability="true" />
+		<Hypnosis is_ability="true" />
       </ability>
 	  
       <ability name="Samum_3">
@@ -302,31 +307,53 @@
 		<critical_hit_chance type="add" min="1" />
 		<quality type="add" min="4" max="4"/>
 		<BiesHypnosis is_ability="true" />
+		<Hypnosis is_ability="true" />
       </ability>
 	  
       <!-- SILVER DUST BOMB -->
       <ability name="SilverDustBomb_1">
         <tags>PetardImpactParams</tags>        
         <ammo type="add" min="2" />
+		<Flashstep is_ability="true" />
+		<MistForm is_ability="true" />
+		<ShadowForm is_ability="true" />
+		<Shapeshifter is_ability="true" />
+		<SwarmTeleport is_ability="true" />
+		<SwarmShield is_ability="true" />
         <SilverDustEffect_Level1 is_ability="true" />
 		<quality type="add" min="2" max="2"/>
 		<level type="add" min="1" />
+		<Hypnosis is_ability="true" />
       </ability>
       <ability name="SilverDustBomb_2">
         <tags>PetardImpactParams</tags>       
         <ammo type="add" min="3" />
+		<Flashstep is_ability="true" />
+		<MistForm is_ability="true" />
+		<ShadowForm is_ability="true" />
+		<Shapeshifter is_ability="true" />
+		<SwarmTeleport is_ability="true" />
+		<SwarmShield is_ability="true" />
         <SilverDustBomb_3 is_ability="true" />
         <level type="add" min="2" />
         <SilverDustEffect_Level2 is_ability="true" />
 		<quality type="add" min="3" max="3"/>
+		<Hypnosis is_ability="true" />
       </ability>
       <ability name="SilverDustBomb_3">
         <tags>PetardImpactParams</tags>        
         <ammo type="add" min="4" />
+		<Flashstep is_ability="true" />
+		<MistForm is_ability="true" />
+		<ShadowForm is_ability="true" />
+		<Shapeshifter is_ability="true" />
+		<SwarmTeleport is_ability="true" />
+		<SwarmShield is_ability="true" />
         <SilverDustBomb_2 is_ability="true" />
         <level type="add" min="3" />
         <SilverDustEffect_Level3 is_ability="true" />
 		<quality type="add" min="4" max="4"/>
+		<Hypnosis is_ability="true" />
       </ability>
 	  
       <!-- WHITE FROST -->
@@ -342,6 +369,7 @@
         <ammo type="add" min="2" />
 		<quality type="add" min="2" max="2"/>
 		<level type="add" min="1" />
+		<ability_disable_duration type="add" min="20" max="20" />
       </ability>
       <ability name="WhiteFrost_1_loop">
         <tags>PetardLoopParams</tags>
@@ -360,6 +388,7 @@
         <WhiteFrost_3_impact is_ability="true" />
         <level type="add" min="2" />
 		<quality type="add" min="3" max="3"/>
+		<ability_disable_duration type="add" min="20" max="20" />
       </ability>
       <ability name="WhiteFrost_2_loop">
         <tags>PetardLoopParams</tags>
@@ -378,6 +407,7 @@
         <WhiteFrost_2_impact is_ability="true" />
         <level type="add" min="3" />
 		<quality type="add" min="4" max="4"/>
+		<ability_disable_duration type="add" min="20" max="20" />
       </ability>
       <ability name="WhiteFrost_3_loop">
         <tags>PetardLoopParams</tags>
@@ -438,7 +468,7 @@
     </abilities>
     <items>
       <!-- Dwimeritium BOMB -->
-      <item name="Dwimeritium Bomb 1" category="petard" stackable="100" hold_template="petard_dimeritium_bomb" grid_size="1" price="10" icon_path="icons/inventory/bombs/bomb1.dds" localisation_key_name="item_name_dwimeritium_bomb_1" localisation_key_description="item_desc_dwimeritium_bomb_1">
+      <item name="Dwimeritium Bomb 1" category="petard" stackable="100" hold_template="petard_dimeritium_bomb" grid_size="1" price="10" icon_path="icons/inventory/bombs/dwimeritium_bomb.png" localisation_key_name="item_name_dwimeritium_bomb_1" localisation_key_description="item_desc_dwimeritium_bomb_1">
         <tags>Petard, SingletonItem, Dimeritium, mod_nosale</tags>
         <base_abilities>
           <a>DwimeritiumBomb_1</a>
@@ -446,7 +476,7 @@
           <a>Default weapon _Stats</a>
         </base_abilities>
       </item>
-      <item name="Dwimeritium Bomb 2" category="petard" stackable="100" hold_template="petard_dimeritium_bomb" grid_size="1" price="15" icon_path="icons/inventory/bombs/bomb1.dds" localisation_key_name="item_name_dwimeritium_bomb_2" localisation_key_description="item_desc_dwimeritium_bomb_2">
+      <item name="Dwimeritium Bomb 2" category="petard" stackable="100" hold_template="petard_dimeritium_bomb" grid_size="1" price="15" icon_path="icons/inventory/bombs/dwimeritium_bomb.png" localisation_key_name="item_name_dwimeritium_bomb_2" localisation_key_description="item_desc_dwimeritium_bomb_2">
         <tags>Petard, SingletonItem, Dimeritium, mod_nosale</tags>
         <base_abilities>
           <a>DwimeritiumBomb_2</a>
@@ -454,7 +484,7 @@
           <a>Default weapon _Stats</a>
         </base_abilities>
       </item>
-      <item name="Dwimeritium Bomb 3" category="petard" stackable="100" hold_template="petard_dimeritium_bomb" grid_size="1" price="20" icon_path="icons/inventory/bombs/bomb1.dds" localisation_key_name="item_name_dwimeritium_bomb_3" localisation_key_description="item_desc_dwimeritium_bomb_3">
+      <item name="Dwimeritium Bomb 3" category="petard" stackable="100" hold_template="petard_dimeritium_bomb" grid_size="1" price="20" icon_path="icons/inventory/bombs/dwimeritium_bomb.png" localisation_key_name="item_name_dwimeritium_bomb_3" localisation_key_description="item_desc_dwimeritium_bomb_3">
         <tags>Petard, SingletonItem, Dimeritium, mod_nosale</tags>
         <base_abilities>
           <a>DwimeritiumBomb_3</a>
@@ -464,7 +494,7 @@
       </item>
      
       <!-- DANCING STAR -->
-      <item name="Dancing Star 1" category="petard" stackable="100" hold_template="petard_dancing_star" grid_size="1" price="10" icon_path="icons/inventory/bombs/bomb7.dds" localisation_key_name="item_name_dancing_star_1" localisation_key_description="item_desc_dancing_star_1">
+      <item name="Dancing Star 1" category="petard" stackable="100" hold_template="petard_dancing_star" grid_size="1" price="10" icon_path="icons/inventory/bombs/dancing_star_bomb.png" localisation_key_name="item_name_dancing_star_1" localisation_key_description="item_desc_dancing_star_1">
         <tags>Petard, SingletonItem, mod_nosale</tags>
         <base_abilities>
           <a>DancingStar_1_impact</a>
@@ -473,7 +503,7 @@
           <a>Default weapon _Stats</a>
         </base_abilities>
       </item>
-      <item name="Dancing Star 2" category="petard" stackable="100" hold_template="petard_dancing_star" grid_size="1" price="15" icon_path="icons/inventory/bombs/bomb7.dds" localisation_key_name="item_name_dancing_star_2" localisation_key_description="item_desc_dancing_star_2">
+      <item name="Dancing Star 2" category="petard" stackable="100" hold_template="petard_dancing_star" grid_size="1" price="15" icon_path="icons/inventory/bombs/dancing_star_bomb.png" localisation_key_name="item_name_dancing_star_2" localisation_key_description="item_desc_dancing_star_2">
         <tags>Petard, SingletonItem, mod_nosale</tags>
         <base_abilities>
           <a>DancingStar_2_impact</a>
@@ -482,7 +512,7 @@
           <a>Default weapon _Stats</a>
         </base_abilities>
       </item>
-      <item name="Dancing Star 3" category="petard" stackable="100" hold_template="petard_dancing_star" grid_size="1" price="20" icon_path="icons/inventory/bombs/bomb7.dds" localisation_key_name="item_name_dancing_star_3" localisation_key_description="item_desc_dancing_star_3">
+      <item name="Dancing Star 3" category="petard" stackable="100" hold_template="petard_dancing_star" grid_size="1" price="20" icon_path="icons/inventory/bombs/dancing_star_bomb.png" localisation_key_name="item_name_dancing_star_3" localisation_key_description="item_desc_dancing_star_3">
         <tags>Petard, SingletonItem, mod_nosale</tags>
         <base_abilities>
           <a>DancingStar_3_impact</a>
@@ -493,7 +523,7 @@
       </item>
 	  
       <!-- DEVILS PUFFBALL -->
-      <item name="Devils Puffball 1" category="petard" stackable="100" hold_template="petard_devils_puffball" grid_size="1" price="10" icon_path="icons/inventory/bombs/bomb6.dds" localisation_key_name="item_name_devils_puffball_1" localisation_key_description="item_desc_devils_puffball_1">
+      <item name="Devils Puffball 1" category="petard" stackable="100" hold_template="petard_devils_puffball" grid_size="1" price="10" icon_path="icons/inventory/bombs/devils_puffball_bomb.png" localisation_key_name="item_name_devils_puffball_1" localisation_key_description="item_desc_devils_puffball_1">
         <tags>Petard, SingletonItem, mod_nosale</tags>
         <base_abilities>
           <a>DevilsPuffball_1_impact</a>
@@ -502,7 +532,7 @@
           <a>Default weapon _Stats</a>
         </base_abilities>
       </item>
-      <item name="Devils Puffball 2" category="petard" stackable="100" hold_template="petard_devils_puffball" grid_size="1" price="15" icon_path="icons/inventory/bombs/bomb6.dds" localisation_key_name="item_name_devils_puffball_2" localisation_key_description="item_desc_devils_puffball_2">
+      <item name="Devils Puffball 2" category="petard" stackable="100" hold_template="petard_devils_puffball" grid_size="1" price="15" icon_path="icons/inventory/bombs/devils_puffball_bomb.png" localisation_key_name="item_name_devils_puffball_2" localisation_key_description="item_desc_devils_puffball_2">
         <tags>Petard, SingletonItem, mod_nosale</tags>
         <base_abilities>
           <a>DevilsPuffball_2_impact</a>
@@ -511,7 +541,7 @@
           <a>Default weapon _Stats</a>
         </base_abilities>
       </item>
-      <item name="Devils Puffball 3" category="petard" stackable="100" hold_template="petard_devils_puffball" grid_size="1" price="20" icon_path="icons/inventory/bombs/bomb6.dds" localisation_key_name="item_name_devils_puffball_3" localisation_key_description="item_desc_devils_puffball_3">
+      <item name="Devils Puffball 3" category="petard" stackable="100" hold_template="petard_devils_puffball" grid_size="1" price="20" icon_path="icons/inventory/bombs/devils_puffball_bomb.png" localisation_key_name="item_name_devils_puffball_3" localisation_key_description="item_desc_devils_puffball_3">
         <tags>Petard, SingletonItem, mod_nosale</tags>
         <base_abilities>
           <a>DevilsPuffball_3_impact</a>
@@ -522,7 +552,7 @@
       </item>
 	  
       <!-- DRAGONS DREAM -->
-      <item name="Dragons Dream 1" category="petard" stackable="100" hold_template="petard_dragons_dream" grid_size="1" price="10" icon_path="icons/inventory/bombs/bomb7.dds" localisation_key_name="item_name_dragons_dream_1" localisation_key_description="item_desc_dragons_dream_1">
+      <item name="Dragons Dream 1" category="petard" stackable="100" hold_template="petard_dragons_dream" grid_size="1" price="10" icon_path="icons/inventory/bombs/dragons_dream_bomb.png" localisation_key_name="item_name_dragons_dream_1" localisation_key_description="item_desc_dragons_dream_1">
         <tags>Petard, SingletonItem, mod_nosale</tags>
         <base_abilities>
           <a>DragonsDream_1</a>
@@ -530,7 +560,7 @@
           <a>Default weapon _Stats</a>
         </base_abilities>
       </item>
-      <item name="Dragons Dream 2" category="petard" stackable="100" hold_template="petard_dragons_dream" grid_size="1" price="15" icon_path="icons/inventory/bombs/bomb7.dds" localisation_key_name="item_name_dragons_dream_2" localisation_key_description="item_desc_dragons_dream_2">
+      <item name="Dragons Dream 2" category="petard" stackable="100" hold_template="petard_dragons_dream" grid_size="1" price="15" icon_path="icons/inventory/bombs/dragons_dream_bomb.png" localisation_key_name="item_name_dragons_dream_2" localisation_key_description="item_desc_dragons_dream_2">
         <tags>Petard, SingletonItem, mod_nosale</tags>
         <base_abilities>
           <a>DragonsDream_2</a>
@@ -538,7 +568,7 @@
           <a>Default weapon _Stats</a>
         </base_abilities>
       </item>
-      <item name="Dragons Dream 3" category="petard" stackable="100" hold_template="petard_dragons_dream" grid_size="1" price="20" icon_path="icons/inventory/bombs/bomb7.dds" localisation_key_name="item_name_dragons_dream_3" localisation_key_description="item_desc_dragons_dream_3">
+      <item name="Dragons Dream 3" category="petard" stackable="100" hold_template="petard_dragons_dream" grid_size="1" price="20" icon_path="icons/inventory/bombs/dragons_dream_bomb.png" localisation_key_name="item_name_dragons_dream_3" localisation_key_description="item_desc_dragons_dream_3">
         <tags>Petard, SingletonItem, mod_nosale</tags>
         <base_abilities>
           <a>DragonsDream_3</a>
@@ -548,7 +578,7 @@
       </item>
 	  
       <!-- GRAPESHOT -->
-      <item name="Grapeshot 1" category="petard" stackable="100" hold_template="petard_grapeshot" grid_size="1" price="20" icon_path="icons/inventory/bombs/grapeshot_64x64.dds" localisation_key_name="item_name_grapeshot_1" localisation_key_description="item_desc_grapeshot_1">
+      <item name="Grapeshot 1" category="petard" stackable="100" hold_template="petard_grapeshot" grid_size="1" price="20" icon_path="icons/inventory/bombs/grapeshot_bomb.png" localisation_key_name="item_name_grapeshot_1" localisation_key_description="item_desc_grapeshot_1">
         <tags>Petard, SingletonItem, mod_nosale</tags>
         <base_abilities>
           <a>Grapeshot_1</a>
@@ -556,7 +586,7 @@
           <a>Default weapon _Stats</a>
         </base_abilities>
       </item>
-      <item name="Grapeshot 2" category="petard" stackable="100" hold_template="petard_grapeshot" grid_size="1" price="30" icon_path="icons/inventory/bombs/bomb2.dds" localisation_key_name="item_name_grapeshot_2" localisation_key_description="item_desc_grapeshot_2">
+      <item name="Grapeshot 2" category="petard" stackable="100" hold_template="petard_grapeshot" grid_size="1" price="30" icon_path="icons/inventory/bombs/grapeshot_bomb.png" localisation_key_name="item_name_grapeshot_2" localisation_key_description="item_desc_grapeshot_2">
         <tags>Petard, SingletonItem, mod_nosale</tags>
         <base_abilities>
           <a>Grapeshot_2</a>
@@ -564,7 +594,7 @@
           <a>Default weapon _Stats</a>
         </base_abilities>
       </item>
-      <item name="Grapeshot 3" category="petard" stackable="100" hold_template="petard_grapeshot" grid_size="1" price="40" icon_path="icons/inventory/bombs/bomb2.dds" localisation_key_name="item_name_grapeshot_3" localisation_key_description="item_desc_grapeshot_3">
+      <item name="Grapeshot 3" category="petard" stackable="100" hold_template="petard_grapeshot" grid_size="1" price="40" icon_path="icons/inventory/bombs/grapeshot_bomb.png" localisation_key_name="item_name_grapeshot_3" localisation_key_description="item_desc_grapeshot_3">
         <tags>Petard, SingletonItem, mod_nosale</tags>
         <base_abilities>
           <a>Grapeshot_3</a>
@@ -574,7 +604,7 @@
       </item>
 	  
 	   <!-- SAMUM -->
-      <item name="Samum 1" category="petard" stackable="100" hold_template="petard_samum" grid_size="1" price="10" icon_path="icons/inventory/bombs/bomb6.dds" localisation_key_name="item_name_samum_1" localisation_key_description="item_desc_samum_1">
+      <item name="Samum 1" category="petard" stackable="100" hold_template="petard_samum" grid_size="1" price="10" icon_path="icons/inventory/bombs/samun_bomb.png" localisation_key_name="item_name_samum_1" localisation_key_description="item_desc_samum_1">
         <tags>Petard, SingletonItem, mod_nosale</tags>
         <base_abilities>
           <a>Samum_1</a>
@@ -582,7 +612,7 @@
           <a>Default weapon _Stats</a>
         </base_abilities>
       </item>
-      <item name="Samum 2" category="petard" stackable="100" hold_template="petard_samum" grid_size="1" price="15" icon_path="icons/inventory/bombs/bomb6.dds" localisation_key_name="item_name_samum_2" localisation_key_description="item_desc_samum_2">
+      <item name="Samum 2" category="petard" stackable="100" hold_template="petard_samum" grid_size="1" price="15" icon_path="icons/inventory/bombs/samun_bomb.png" localisation_key_name="item_name_samum_2" localisation_key_description="item_desc_samum_2">
         <tags>Petard, SingletonItem, mod_nosale</tags>
         <base_abilities>
           <a>Samum_2</a>
@@ -590,7 +620,7 @@
           <a>Default weapon _Stats</a>
         </base_abilities>
       </item>
-      <item name="Samum 3" category="petard" stackable="100" hold_template="petard_samum" grid_size="1" price="20" icon_path="icons/inventory/bombs/bomb6.dds" localisation_key_name="item_name_samum_3" localisation_key_description="item_desc_samum_3">
+      <item name="Samum 3" category="petard" stackable="100" hold_template="petard_samum" grid_size="1" price="20" icon_path="icons/inventory/bombs/samun_bomb.png" localisation_key_name="item_name_samum_3" localisation_key_description="item_desc_samum_3">
         <tags>Petard, SingletonItem, mod_nosale</tags>
         <base_abilities>
           <a>Samum_3</a>
@@ -600,7 +630,7 @@
       </item>
 	  
       <!-- MOONDUST BOMB -->
-      <item name="Silver Dust Bomb 1" category="petard" stackable="100" hold_template="petard_silver_dust_bomb" grid_size="1" price="10" icon_path="icons/inventory/bombs/bomb3.dds" localisation_key_name="item_name_silver_dust_bomb_1" localisation_key_description="item_desc_silver_dust_bomb_1">
+      <item name="Silver Dust Bomb 1" category="petard" stackable="100" hold_template="petard_silver_dust_bomb" grid_size="1" price="10" icon_path="icons/inventory/bombs/silver_dust_bomb.png" localisation_key_name="item_name_silver_dust_bomb_1" localisation_key_description="item_desc_silver_dust_bomb_1">
         <tags>Petard, SingletonItem, mod_nosale</tags>
         <base_abilities>
           <a>SilverDustBomb_1</a>
@@ -608,7 +638,7 @@
           <a>Default weapon _Stats</a>
         </base_abilities>
       </item>
-      <item name="Silver Dust Bomb 2" category="petard" stackable="100" hold_template="petard_silver_dust_bomb" grid_size="1" price="15" icon_path="icons/inventory/bombs/bomb3.dds" localisation_key_name="item_name_silver_dust_bomb_2" localisation_key_description="item_desc_silver_dust_bomb_2">
+      <item name="Silver Dust Bomb 2" category="petard" stackable="100" hold_template="petard_silver_dust_bomb" grid_size="1" price="15" icon_path="icons/inventory/bombs/silver_dust_bomb.png" localisation_key_name="item_name_silver_dust_bomb_2" localisation_key_description="item_desc_silver_dust_bomb_2">
         <tags>Petard, SingletonItem, mod_nosale</tags>
         <base_abilities>
           <a>SilverDustBomb_2</a>
@@ -616,7 +646,7 @@
           <a>Default weapon _Stats</a>
         </base_abilities>
       </item>
-      <item name="Silver Dust Bomb 3" category="petard" stackable="100" hold_template="petard_silver_dust_bomb" grid_size="1" price="20" icon_path="icons/inventory/bombs/bomb3.dds" localisation_key_name="item_name_silver_dust_bomb_3" localisation_key_description="item_desc_silver_dust_bomb_3">
+      <item name="Silver Dust Bomb 3" category="petard" stackable="100" hold_template="petard_silver_dust_bomb" grid_size="1" price="20" icon_path="icons/inventory/bombs/silver_dust_bomb.png" localisation_key_name="item_name_silver_dust_bomb_3" localisation_key_description="item_desc_silver_dust_bomb_3">
         <tags>Petard, SingletonItem, mod_nosale</tags>
         <base_abilities>
           <a>SilverDustBomb_3</a>
@@ -626,7 +656,7 @@
       </item>
 	  	  
       <!-- NORTHERN WIND -->
-      <item name="White Frost 1" category="petard" stackable="100" hold_template="petard_white_frost" grid_size="1" price="10" icon_path="icons/inventory/bombs/bomb1.dds" localisation_key_name="item_name_white_frost_1" localisation_key_description="item_desc_white_frost_1">
+      <item name="White Frost 1" category="petard" stackable="100" hold_template="petard_white_frost" grid_size="1" price="10" icon_path="icons/inventory/bombs/white_frost_bomb.png" localisation_key_name="item_name_white_frost_1" localisation_key_description="item_desc_white_frost_1">
         <tags>Petard, SingletonItem, mod_nosale</tags>
         <base_abilities>
           <a>WhiteFrost_1_impact</a>
@@ -635,7 +665,7 @@
           <a>Default weapon _Stats</a>
         </base_abilities>
       </item>
-      <item name="White Frost 2" category="petard" stackable="100" hold_template="petard_white_frost" grid_size="1" price="15" icon_path="icons/inventory/bombs/bomb1.dds" localisation_key_name="item_name_white_frost_2" localisation_key_description="item_desc_white_frost_2">
+      <item name="White Frost 2" category="petard" stackable="100" hold_template="petard_white_frost" grid_size="1" price="15" icon_path="icons/inventory/bombs/white_frost_bomb.png" localisation_key_name="item_name_white_frost_2" localisation_key_description="item_desc_white_frost_2">
         <tags>Petard, SingletonItem, mod_nosale</tags>
         <base_abilities>
           <a>WhiteFrost_2_impact</a>
@@ -644,7 +674,7 @@
           <a>Default weapon _Stats</a>
         </base_abilities>
       </item>
-      <item name="White Frost 3" category="petard" stackable="100" hold_template="petard_white_frost" grid_size="1" price="20" icon_path="icons/inventory/bombs/bomb1.dds" localisation_key_name="item_name_white_frost_3" localisation_key_description="item_desc_white_frost_3">
+      <item name="White Frost 3" category="petard" stackable="100" hold_template="petard_white_frost" grid_size="1" price="20" icon_path="icons/inventory/bombs/white_frost_bomb.png" localisation_key_name="item_name_white_frost_3" localisation_key_description="item_desc_white_frost_3">
         <tags>Petard, SingletonItem, mod_nosale</tags>
         <base_abilities>
           <a>WhiteFrost_3_impact</a>

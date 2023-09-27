@@ -11,10 +11,7 @@
 		<quality						type="add"	min="3"		max="3"		/>
 		<armor							type="base"	min="4"		max="4"		/>
 		<slashing_resistance_perc		type="base"	min="0.01"				/>
-		<piercing_resistance_perc		type="base"	min="0.0"				/>
 		<bludgeoning_resistance_perc	type="base"	min="0.01"				/>
-		<rending_resistance_perc		type="base"	min="0.0"				/>
-		<elemental_resistance_perc		type="base"	min="0.0"				/>
 		<staminaRegen_armor_mod			type="mult" min="0.02"				/>
 	</ability>
 	
@@ -26,8 +23,6 @@
 		<slashing_resistance_perc		type="base"	min="0.02"				/>
 		<piercing_resistance_perc		type="base"	min="0.01"				/>
 		<bludgeoning_resistance_perc	type="base"	min="0.02"				/>
-		<rending_resistance_perc		type="base"	min="0.0"				/>
-		<elemental_resistance_perc		type="base"	min="0.0"				/>
 	</ability>
 	
 	<ability name="Gloves 03_crafted _Stats">
@@ -37,8 +32,6 @@
 		<slashing_resistance_perc		type="base"	min="0.03"				/>
 		<piercing_resistance_perc		type="base"	min="0.01"				/>
 		<bludgeoning_resistance_perc	type="base"	min="0.02"				/>
-		<rending_resistance_perc		type="base"	min="0.0"				/>
-		<elemental_resistance_perc		type="base"	min="0.0"				/>
 		<staminaRegen_armor_mod			type="mult" min="0.02"				/>
 	</ability>
 
@@ -50,8 +43,6 @@
 		<slashing_resistance_perc		type="base"	min="0.05"				/>
 		<piercing_resistance_perc		type="base"	min="0.02"				/>
 		<bludgeoning_resistance_perc	type="base"	min="0.02"				/>
-		<rending_resistance_perc		type="base"	min="0.0"				/>
-		<elemental_resistance_perc		type="base"	min="0.0"				/>
 		<critical_hit_chance			type="add"	min="0.1"				/>
 		<bonus_herb_chance				type="add"	min="0.05"				/>
 		<staminaRegen_armor_mod			type="mult"	min="0.02"				/>
@@ -65,8 +56,6 @@
 		<slashing_resistance_perc		type="base"	min="0.02"				/>
 		<piercing_resistance_perc		type="base"	min="0.02"				/>
 		<bludgeoning_resistance_perc	type="base"	min="0.02"				/>
-		<rending_resistance_perc		type="base"	min="0.0"				/>
-		<elemental_resistance_perc		type="base"	min="0.0"				/>
 		<staminaRegen_armor_mod			type="mult"	min="-0.02"				/>
 	</ability>
 	
@@ -78,8 +67,6 @@
 		<slashing_resistance_perc		type="base"	min="0.04"				/>
 		<piercing_resistance_perc		type="base"	min="0.02"				/>
 		<bludgeoning_resistance_perc	type="base"	min="0.03"				/>
-		<rending_resistance_perc		type="base"	min="0.0"				/>
-		<elemental_resistance_perc		type="base"	min="0.0"				/>
 	</ability>
 	
 	<ability name="Heavy gloves 03_crafted _Stats">
@@ -89,8 +76,6 @@
 		<slashing_resistance_perc		type="base"	min="0.05"				/>
 		<piercing_resistance_perc		type="base"	min="0.04"				/>
 		<bludgeoning_resistance_perc	type="base"	min="0.04"				/>
-		<rending_resistance_perc		type="base"	min="0.0"				/>
-		<elemental_resistance_perc		type="base"	min="0.0"				/>
 		<staminaRegen_armor_mod			type="mult"	min="-0.02"				/>
 	</ability>
 
@@ -103,7 +88,6 @@
 		<piercing_resistance_perc		type="base"	min="0.05"				/>
 		<bludgeoning_resistance_perc	type="base"	min="0.05"				/>
 		<rending_resistance_perc		type="base"	min="0.05"				/>
-		<elemental_resistance_perc		type="base"	min="0.0"				/>
 		<critical_hit_damage_bonus		type="add"	min="0.5"				/>
 		<staminaRegen_armor_mod			type="mult" min="-0.02"				/>
 	</ability>
@@ -112,10 +96,9 @@
 	<ability name="Lynx Gloves 1 _Stats">
 		<weight							type="base"	min="4.8"				/>
 		<quality						type="add"	min="5"		max="5"		/>
-		<armor							type="base"	min="33"	max="33"	/>
+		<armor							type="base"	min="39"	max="39"	/>
 		<slashing_resistance_perc		type="base"	min="0.01"				/>
 		<piercing_resistance_perc		type="base"	min="0.01"				/>
-		<bludgeoning_resistance_perc	type="base"	min="0.00"				/>
 		<rending_resistance_perc		type="base"	min="0.01"				/>
 		<elemental_resistance_perc		type="base"	min="0.05"				/>
 		<attack_power					type="mult" min="0.05"				/>
@@ -125,39 +108,36 @@
 	<ability name="Lynx Gloves 2 _Stats">
 		<weight							type="base"	min="4.8"				/>
 		<quality						type="add"	min="5"		max="5"		/>
-		<armor							type="base"	min="45"	max="45"	/>
+		<armor							type="base"	min="51"	max="51"	/>
 		<slashing_resistance_perc		type="base"	min="0.02"				/>
 		<piercing_resistance_perc		type="base"	min="0.02"				/>
-		<bludgeoning_resistance_perc	type="base"	min="0.00"				/>
-		<rending_resistance_perc		type="base"	min="0.02"				/>
+		<rending_resistance_perc		type="base"	min="0.01"				/>
 		<elemental_resistance_perc		type="base"	min="0.05"				/>
-		<attack_power					type="mult" min="0.05"				/>
+		<attack_power					type="mult" min="0.06"				/>
 		<staminaRegen_armor_mod			type="mult"	min="0.02"				/>
 	</ability>
 	
 	<ability name="Lynx Gloves 3 _Stats">
 		<weight							type="base"	min="4.0"				/>
 		<quality						type="add"	min="5"		max="5"		/>
-		<armor							type="base"	min="57"	max="57"	/>
+		<armor							type="base"	min="63"	max="63"	/>
 		<slashing_resistance_perc		type="base"	min="0.03"				/>
 		<piercing_resistance_perc		type="base"	min="0.03"				/>
-		<bludgeoning_resistance_perc	type="base"	min="0.00"				/>
-		<rending_resistance_perc		type="base"	min="0.03"				/>
+		<rending_resistance_perc		type="base"	min="0.02"				/>
 		<elemental_resistance_perc		type="base"	min="0.05"				/>
-		<attack_power					type="mult" min="0.1"				/>
+		<attack_power					type="mult" min="0.08"				/>
 		<staminaRegen_armor_mod			type="mult"	min="0.02"				/>
 	</ability>
 	
 	<ability name="Lynx Gloves 4 _Stats">
 		<weight							type="base"	min="4.0"				/>
 		<quality						type="add"	min="5"		max="5"		/>
-		<armor							type="base"	min="67"	max="67"	/>
+		<armor							type="base"	min="73"	max="73"	/>
 		<slashing_resistance_perc		type="base"	min="0.04"				/>
 		<piercing_resistance_perc		type="base"	min="0.04"				/>
-		<bludgeoning_resistance_perc	type="base"	min="0.00"				/>
-		<rending_resistance_perc		type="base"	min="0.04"				/>
+		<rending_resistance_perc		type="base"	min="0.02"				/>
 		<elemental_resistance_perc		type="base"	min="0.05"				/>
-		<attack_power					type="mult" min="0.1"				/>
+		<attack_power					type="mult" min="0.10"				/>
 		<staminaRegen_armor_mod			type="mult"	min="0.02"				/>
 	</ability>
 	
@@ -165,10 +145,9 @@
 	<ability name="Gryphon Gloves 1 _Stats">
 		<weight							type="base"	min="1.63"				/>
 		<quality						type="add"	min="5"		max="5"		/>
-		<armor							type="base"	min="21"	max="21"	/>
+		<armor							type="base"	min="27"	max="27"	/>
 		<slashing_resistance_perc		type="base"	min="0.02"				/>
 		<piercing_resistance_perc		type="base"	min="0.01"				/>
-		<bludgeoning_resistance_perc	type="base"	min="0.0"				/>
 		<rending_resistance_perc		type="base"	min="0.02"				/>
 		<elemental_resistance_perc		type="base"	min="0.05"				/>
 		<spell_power 					type="mult"	min="0.05"				/>
@@ -177,47 +156,43 @@
 	<ability name="Gryphon Gloves 2 _Stats">
 		<weight							type="base"	min="1.63"				/>
 		<quality 						type="add"	min="5"		max="5"		/>
-		<armor							type="base"	min="35"	max="35"	/>
+		<armor							type="base"	min="41"	max="41"	/>
 		<slashing_resistance_perc		type="base"	min="0.03"				/>
 		<piercing_resistance_perc		type="base"	min="0.02"				/>
-		<bludgeoning_resistance_perc	type="base"	min="0.00"				/>
-		<rending_resistance_perc		type="base"	min="0.03"				/>
+		<rending_resistance_perc		type="base"	min="0.02"				/>
 		<elemental_resistance_perc		type="base"	min="0.06"				/>
-		<spell_power 					type="mult"	min="0.05"				/>
+		<spell_power 					type="mult"	min="0.06"				/>
 	</ability>
 	
 	<ability name="Gryphon Gloves 3 _Stats">
 		<weight							type="base"	min="3.46"				/>
 		<quality 						type="add"	min="5"		max="5"		/>
-		<armor							type="base"	min="51"	max="51"	/>
+		<armor							type="base"	min="57"	max="57"	/>
 		<slashing_resistance_perc		type="base"	min="0.04"				/>
 		<piercing_resistance_perc		type="base"	min="0.03"				/>
-		<bludgeoning_resistance_perc	type="base"	min="0.00"				/>
-		<rending_resistance_perc		type="base"	min="0.04"				/>
+		<rending_resistance_perc		type="base"	min="0.03"				/>
 		<elemental_resistance_perc		type="base"	min="0.08"				/>
-		<spell_power 					type="mult"	min="0.1"				/>
+		<spell_power 					type="mult"	min="0.08"				/>
 	</ability>
 	
 	<ability name="Gryphon Gloves 4 _Stats">
 		<weight							type="base"	min="3.46"				/>
 		<quality 						type="add"	min="5"		max="5"		/>
-		<armor							type="base"	min="67"	max="67"	/>
+		<armor							type="base"	min="73"	max="73"	/>
 		<slashing_resistance_perc		type="base"	min="0.05"				/>
 		<piercing_resistance_perc		type="base"	min="0.04"				/>
-		<bludgeoning_resistance_perc	type="base"	min="0.00"				/>
-		<rending_resistance_perc		type="base"	min="0.05"				/>
+		<rending_resistance_perc		type="base"	min="0.03"				/>
 		<elemental_resistance_perc		type="base"	min="0.10"				/>
-		<spell_power 					type="mult"	min="0.1"				/>
+		<spell_power 					type="mult"	min="0.10"				/>
 	</ability>
 	
 <!-- GLOVES CRAFTED BEAR -->
 	<ability name="Bear Gloves 1 _Stats">
 		<weight							type="base" min="3.8"				/>
 		<quality						type="add"	min="5"		max="5"		/>
-		<armor							type="base"	min="39"	max="39"	/>
+		<armor							type="base"	min="45"	max="45"	/>
 		<slashing_resistance_perc		type="base"	min="0.02"				/>
 		<piercing_resistance_perc		type="base"	min="0.02"				/>
-		<bludgeoning_resistance_perc	type="base"	min="0.00"				/>
 		<rending_resistance_perc		type="base"	min="0.02"				/>
 		<elemental_resistance_perc		type="base"	min="0.02"				/>
 		<focus_gain 					type="base" min="0.05" 				/>
@@ -227,39 +202,36 @@
 	<ability name="Bear Gloves 2 _Stats">
 		<weight							type="base"	min="3.8"				/>
 		<quality						type="add"	min="5"		max="5"		/>
-		<armor							type="base"	min="49"	max="49"	/>
+		<armor							type="base"	min="55"	max="55"	/>
 		<slashing_resistance_perc		type="base"	min="0.03"				/>
 		<piercing_resistance_perc		type="base"	min="0.03"				/>
-		<bludgeoning_resistance_perc	type="base"	min="0.00"				/>
-		<rending_resistance_perc		type="base"	min="0.03"				/>
+		<rending_resistance_perc		type="base"	min="0.02"				/>
 		<elemental_resistance_perc		type="base"	min="0.03"				/>
-		<focus_gain						type="add"	min="0.05"				/>
+		<focus_gain						type="add"	min="0.06"				/>
 		<staminaRegen_armor_mod			type="mult"	min="-0.02"				/>
 	</ability>
 	
 	<ability name="Bear Gloves 3 _Stats">
 		<weight							type="base"	min="3.85"				/>
 		<quality						type="add"	min="5"		max="5"		/>
-		<armor							type="base"	min="59"	max="59"	/>
+		<armor							type="base"	min="65"	max="65"	/>
 		<slashing_resistance_perc		type="base"	min="0.04"				/>
 		<piercing_resistance_perc		type="base"	min="0.04"				/>
-		<bludgeoning_resistance_perc	type="base"	min="0.00"				/>
-		<rending_resistance_perc		type="base"	min="0.04"				/>
+		<rending_resistance_perc		type="base"	min="0.03"				/>
 		<elemental_resistance_perc		type="base"	min="0.04"				/>
-		<focus_gain						type="add"	min="0.1"				/>
+		<focus_gain						type="add"	min="0.08"				/>
 		<staminaRegen_armor_mod			type="mult"	min="-0.02"				/>
 	</ability>
 	
 	<ability name="Bear Gloves 4 _Stats">
 		<weight							type="base"	min="3.85"				/>
 		<quality						type="add"	min="5"		max="5"		/>
-		<armor							type="base"	min="67"	max="67"	/>
+		<armor							type="base"	min="73"	max="73"	/>
 		<slashing_resistance_perc		type="base"	min="0.05"				/>
 		<piercing_resistance_perc		type="base"	min="0.05"				/>
-		<bludgeoning_resistance_perc	type="base"	min="0.00"				/>
-		<rending_resistance_perc		type="base"	min="0.05"				/>
+		<rending_resistance_perc		type="base"	min="0.03"				/>
 		<elemental_resistance_perc		type="base"	min="0.05"				/>
-		<focus_gain						type="add"	min="0.1"				/>
+		<focus_gain						type="add"	min="0.10"				/>
 		<staminaRegen_armor_mod			type="mult"	min="-0.02"				/>
 	</ability>
 
@@ -279,7 +251,7 @@
 		stackable						="1"
 		grid_size						="2"
 		ability_mode					="OnMount"
-		equip_template					="g_01_mg__common_light_lvl1"
+		equip_template					="g_01a_mg__common_light_lvl1"
 		localisation_key_name			="item_name_gloves_01"
 		localisation_key_description	="item_category_light_armor_description"
 		icon_path						="icons/inventory/armors/common_light_64x128.png"
@@ -313,7 +285,7 @@
 		stackable						="1"
 		grid_size						="2"
 		ability_mode					="OnMount"
-		equip_template					="g_01_mg__common_light_lvl2"
+		equip_template					="g_01a_mg__common_light_lvl2"
 		localisation_key_name			="item_name_gloves_02"
 		localisation_key_description	="item_category_medium_armor_description"
 		icon_path						="icons/inventory/armors/common_light_lvl2_64x128.png"
@@ -347,7 +319,7 @@
 		stackable						="1"
 		grid_size						="2"
 		ability_mode					="OnMount"
-		equip_template					="g_01_mg__common_light_lvl3"
+		equip_template					="g_01a_mg__common_light_lvl3"
 		localisation_key_name			="item_name_gloves_03"
 		localisation_key_description	="item_category_light_armor_description"
 		icon_path						="icons/inventory/armors/common_light_lvl3_64x128.png"
@@ -381,7 +353,7 @@
 		stackable						="1"
 		grid_size						="2"
 		ability_mode					="OnMount"
-		equip_template					="g_01_mg__common_light_lvl4"
+		equip_template					="g_01a_mg__common_light_lvl4"
 		localisation_key_name			="item_name_gloves_04"
 		localisation_key_description	="item_category_light_armor_description"
 		icon_path						="icons/inventory/armors/common_light_lvl4_64x128.png"
@@ -416,7 +388,7 @@
 		stackable						="1"
 		grid_size						="2"
 		ability_mode					="OnMount"
-		equip_template					="g_01_mg__common_heavy_lvl1"
+		equip_template					="g_01a_mg__common_heavy_lvl1"
 		localisation_key_name			="item_name_heavy_gloves_01"
 		localisation_key_description	="item_category_heavy_armor_description"
 		icon_path						="icons/inventory/armors/common_heavy_64x128.png"
@@ -450,7 +422,7 @@
 		stackable						="1"
 		grid_size						="2"
 		ability_mode					="OnMount"
-		equip_template					="g_01_mg__common_heavy_lvl2"
+		equip_template					="g_01a_mg__common_heavy_lvl2"
 		localisation_key_name			="item_name_heavy_gloves_02"
 		localisation_key_description	="item_category_medium_armor_description"
 		icon_path						="icons/inventory/armors/common_heavy_64x128.png"
@@ -485,7 +457,7 @@
 		stackable						="1"
 		grid_size						="2"
 		ability_mode					="OnMount"
-		equip_template					="g_01_mg__common_heavy_lvl3"
+		equip_template					="g_01a_mg__common_heavy_lvl3"
 		localisation_key_name			="item_name_heavy_gloves_03"
 		localisation_key_description	="item_category_heavy_armor_description"
 		icon_path						="icons/inventory/armors/common_heavy_lvl3_64x128.png"
@@ -520,7 +492,7 @@
 		stackable						="1"
 		grid_size						="2"
 		ability_mode					="OnMount"
-		equip_template					="g_01_mg__common_heavy_lvl4"
+		equip_template					="g_01a_mg__common_heavy_lvl4"
 		localisation_key_name			="item_name_heavy_gloves_04"
 		localisation_key_description	="item_category_heavy_armor_description"
 		icon_path						="icons/inventory/armors/common_heavy_lvl4_64x128.png"

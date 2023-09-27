@@ -59,57 +59,7 @@
       <ability name="Lvl48"><tags> "base" </tags><vitality type="base" always_random="false" min="25" max="25" /> <attack_power type="add" always_random="false" min="1" max="1" /> <spell_power type="mult" min="0.001" /> </ability>
       <ability name="Lvl49"><tags> "base" </tags><vitality type="base" always_random="false" min="25" max="25" /> <attack_power type="add" always_random="false" min="1" max="1" /> <spell_power type="mult" min="0.001" /> </ability>
       <ability name="Lvl50"><tags> "base" </tags><vitality type="base" always_random="false" min="25" max="25" /> <attack_power type="add" always_random="false" min="1" max="1" /> <spell_power type="mult" min="0.001" /> </ability>
-      <ability name="Lvl51"></ability>
-      <ability name="Lvl52"></ability>
-      <ability name="Lvl53"></ability>
-      <ability name="Lvl54"></ability>
-      <ability name="Lvl55"></ability>
-      <ability name="Lvl56"></ability>
-      <ability name="Lvl57"></ability>
-      <ability name="Lvl58"></ability>
-      <ability name="Lvl59"></ability>
-      <ability name="Lvl60"></ability>
-      <ability name="Lvl61"></ability>
-      <ability name="Lvl62"></ability>
-      <ability name="Lvl63"></ability>
-      <ability name="Lvl64"></ability>
-      <ability name="Lvl65"></ability>
-      <ability name="Lvl66"></ability>
-      <ability name="Lvl67"></ability>
-      <ability name="Lvl68"></ability>
-      <ability name="Lvl69"></ability>
-      <ability name="Lvl60"></ability>
-      <ability name="Lvl71"></ability>
-      <ability name="Lvl72"></ability>
-      <ability name="Lvl73"></ability>
-      <ability name="Lvl74"></ability>
-      <ability name="Lvl75"></ability>
-      <ability name="Lvl76"></ability>
-      <ability name="Lvl77"></ability>
-      <ability name="Lvl78"></ability>
-      <ability name="Lvl79"></ability>
-      <ability name="Lvl80"></ability>
-      <ability name="Lvl81"></ability>
-      <ability name="Lvl82"></ability>
-      <ability name="Lvl83"></ability>
-      <ability name="Lvl84"></ability>
-      <ability name="Lvl85"></ability>
-      <ability name="Lvl86"></ability>
-      <ability name="Lvl87"></ability>
-      <ability name="Lvl88"></ability>
-      <ability name="Lvl89"></ability>
-      <ability name="Lvl90"></ability>
-      <ability name="Lvl91"></ability>
-      <ability name="Lvl92"></ability>
-      <ability name="Lvl93"></ability>
-      <ability name="Lvl94"></ability>
-      <ability name="Lvl95"></ability>
-      <ability name="Lvl96"></ability>
-      <ability name="Lvl97"></ability>
-      <ability name="Lvl98"></ability>
-      <ability name="Lvl99"></ability>
-      <ability name="Lvl100"></ability>
-	  
+      	  
       <ability name="GeraltMult">
         <tags> "base" </tags>
         <attack_power type="mult" always_random="false" min="10" max="10" />

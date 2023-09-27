@@ -388,9 +388,10 @@
 				<RendingDamage min="250" max="250"/>
 			</ability>
 			
+
 			<ability name="mon_simulakrum_weapon _Stats">
 			<tags></tags>
-				<RendingDamage min="250" max="250"/>
+				<BludgeoningDamage min="250" max="250"/>
 			</ability>
 			
 			<ability name="mon_siren_weapon _Stats">
@@ -3667,11 +3668,12 @@
 					</action>
 				</anim_actions>
 			</item>
+			
 		<!-- simulakrum weapon -->
-			<item name="mon_simulakrum_weapon" 
+			<item name="mon_simulakrum_weapon_right" 
 				category="monster_weapon"
 				ability_slots="0"
-				equip_template="mon_simulakrum_weapon"
+				equip_template="phantom_elemental_fist"
 				equip_slot="r_weapon" 
 				hold_slot="r_weapon"
 				hand="right"
@@ -3706,6 +3708,46 @@
 					</action>
 				</anim_actions>
 			</item>
+
+			<item name="mon_simulakrum_weapon_left" 
+				category="monster_weapon"
+				ability_slots="0"
+				equip_template="phantom_elemental_fist"
+				equip_slot="l_weapon" 
+				hold_slot="l_weapon"
+				hand="left"
+				weapon="true"
+				lethal="true"
+				draw_event="draw_steel_sword_side"
+				holster_event="holster_steel_sword_side"
+				ability_mode="OnHold">
+				<tags>NoShow,NoDrop,NoUse,Weapon</tags>
+				<base_abilities>
+					<a>Default weapon _Stats</a>
+					<a>mon_simulakrum_weapon _Stats</a>
+				</base_abilities>
+				<anim_actions>
+					<action 
+						name="draw" 
+						event="draw_steel_sword_side" 
+						act="draw_steel_sword_side_act" 
+						deact="draw_steel_sword_side_deact">
+					</action>
+					<action 
+						name="holster" 
+						event="holster_steel_sword_side" 
+						act="holster_steel_sword_side_act" 
+						deact="holster_steel_sword_side_deact">
+					</action>
+					<action 
+						name="attack" 
+						event="attack_steel_sword_side" 
+						act="attack_steel_sword_side_act" 
+						deact="attack_steel_sword_side_deact">
+					</action>
+				</anim_actions>
+			</item>
+
 		<!-- siren weapon -->
 			<item name="mon_siren_weapon" 
 				category="monster_weapon"
@@ -4610,7 +4652,7 @@
 				</anim_actions>
 			</item>
 			
-			<item name="mon_wyvern_tail" 
+			<item name="mon_wyvern_tail"
 				category="monster_weapon"
 				ability_slots="0"
 				equip_template="phantom_wyvern_tail"

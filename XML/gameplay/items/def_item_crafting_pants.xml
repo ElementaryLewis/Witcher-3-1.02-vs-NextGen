@@ -14,8 +14,6 @@
 		<slashing_resistance_perc 		type="base" min="0.03"				/>
 		<piercing_resistance_perc 		type="base" min="0.02"				/>
 		<bludgeoning_resistance_perc 	type="base" min="0.02"				/>
-		<rending_resistance_perc 		type="base" min="0.0"				/>
-		<elemental_resistance_perc 		type="base" min="0.0"				/>
 		<staminaRegen_armor_mod 		type="mult" min="0.10"				/>
 	</ability>
 
@@ -26,8 +24,6 @@
 		<slashing_resistance_perc 		type="base"	min="0.06"				/>
 		<piercing_resistance_perc 		type="base" min="0.02"				/>
 		<bludgeoning_resistance_perc 	type="base" min="0.02"				/>
-		<rending_resistance_perc 		type="base" min="0.0"				/>
-		<elemental_resistance_perc 		type="base" min="0.0"				/>
 		<staminaRegen_armor_mod 		type="mult"	min="0.10"				/>
 	</ability>
 
@@ -39,8 +35,6 @@
 		<slashing_resistance_perc 		type="base"	min="0.09"				/>
 		<piercing_resistance_perc		type="base"	min="0.04"				/>
 		<bludgeoning_resistance_perc	type="base"	min="0.04"				/>
-		<rending_resistance_perc 		type="base"	min="0.0"				/>
-		<elemental_resistance_perc 		type="base" min="0.0"				/>
 	</ability>
 	
 <!-- Relic -->
@@ -51,8 +45,6 @@
 		<slashing_resistance_perc 		type="base"	min="0.15"				/>
 		<piercing_resistance_perc 		type="base"	min="0.05"				/>
 		<bludgeoning_resistance_perc 	type="base" min="0.05"				/>
-		<rending_resistance_perc		type="base" min="0.0"				/>
-		<elemental_resistance_perc 		type="base" min="0.0"				/>
 		<vitality 						type="base" min="350" max="350"		/>
 		<staminaRegen_armor_mod 		type="mult"	min="0.10"				/>
 	</ability>
@@ -65,8 +57,6 @@
 		<slashing_resistance_perc 		type="base"	min="0.06"				/>
 		<piercing_resistance_perc		type="base"	min="0.04"				/>
 		<bludgeoning_resistance_perc	type="base"	min="0.04"				/>
-		<rending_resistance_perc 		type="base"	min="0.0"				/>
-		<elemental_resistance_perc		type="base"	min="0.0"				/>
 		<staminaRegen_armor_mod 		type="mult" min="-0.10"				/>
 	</ability>
 	
@@ -77,8 +67,6 @@
 		<slashing_resistance_perc 		type="base"	min="0.07"				/>
 		<piercing_resistance_perc 		type="base"	min="0.05"				/>
 		<bludgeoning_resistance_perc 	type="base"	min="0.05"				/>
-		<rending_resistance_perc 		type="base"	min="0.0"				/>
-		<elemental_resistance_perc		type="base"	min="0.0"				/>
 	</ability>
 	
 	<ability name="Heavy pants 03_crafted _Stats">
@@ -88,8 +76,6 @@
 		<slashing_resistance_perc		type="base"	min="0.10"				/>
 		<piercing_resistance_perc		type="base"	min="0.08"				/>
 		<bludgeoning_resistance_perc	type="base"	min="0.08"				/>
-		<rending_resistance_perc		type="base"	min="0.0"				/>
-		<elemental_resistance_perc		type="base"	min="0.0"				/>
 		<staminaRegen_armor_mod 		type="mult"	min="-0.10"				/>
 	</ability>
 	
@@ -101,9 +87,7 @@
 		<slashing_resistance_perc 		type="base"	min="0.15"				/>
 		<piercing_resistance_perc 		type="base"	min="0.10"				/>
 		<bludgeoning_resistance_perc 	type="base"	min="0.10"				/>
-		<rending_resistance_perc 		type="base"	min="0.0"				/>
-		<elemental_resistance_perc 		type="base"	min="0.0"				/>
-		<bonus_herb_chance 				type="add" min="0.25" 				 />
+		<bonus_herb_chance 				type="add"  min="0.25" 				/>
 		<staminaRegen_armor_mod			type="mult"	min="-0.10"				/>
 	</ability>
 
@@ -111,12 +95,11 @@
 	<ability name="Lynx Pants 1 _Stats">
 		<weight 						type="base" min="3.54" 				/>
 		<quality 						type="add" 	min="5" 	max="5" 	/>
-		<armor 							type="base" min="37" 	max="37" 	/>
+		<armor 							type="base" min="43" 	max="43" 	/>
 		<slashing_resistance_perc 		type="base" min="0.03"				/>
 		<piercing_resistance_perc 		type="base" min="0.01"				/>
-		<bludgeoning_resistance_perc	type="base"	min="0.00"				/>
 		<rending_resistance_perc 		type="base" min="0.03"				/>
-		<elemental_resistance_perc 		type="base" min="0.10"				/>
+		<elemental_resistance_perc 		type="base" min="0.07"				/>
 		<attack_power					type="mult"	min="0.05"				/>
 		<staminaRegen_armor_mod			type="mult"	min="0.10"				/>
 	</ability>
@@ -124,39 +107,36 @@
 	<ability name="Lynx Pants 2 _Stats">
 		<weight 						type="base" min="3.54" 				/>
 		<quality 						type="add" 	min="5" 	max="5" 	/>
-		<armor 							type="base" min="49"	max="49" 	/>
+		<armor 							type="base" min="55"	max="55" 	/>
 		<slashing_resistance_perc 		type="base" min="0.04"				/>
 		<piercing_resistance_perc 		type="base"	min="0.02"				/>
-		<bludgeoning_resistance_perc 	type="base" min="0.00"				/>
 		<rending_resistance_perc 		type="base" min="0.04"				/>
-		<elemental_resistance_perc 		type="base" min="0.10"				/>
-		<attack_power					type="mult"	min="0.05"				/>
+		<elemental_resistance_perc 		type="base" min="0.07"				/>
+		<attack_power					type="mult"	min="0.06"				/>
 		<staminaRegen_armor_mod			type="mult"	min="0.10"				/>
 	</ability>
 	
 	<ability name="Lynx Pants 3 _Stats">
 		<weight 						type="base" min="4.84" 				/>
 		<quality 						type="add" 	min="5" 	max="5" 	/>
-		<armor 							type="base" min="61"	max="61" 	/>
+		<armor 							type="base" min="67"	max="67" 	/>
 		<slashing_resistance_perc 		type="base" min="0.05"				/>
 		<piercing_resistance_perc 		type="base"	min="0.03"				/>
-		<bludgeoning_resistance_perc 	type="base" min="0.00"				/>
 		<rending_resistance_perc 		type="base" min="0.05"				/>
-		<elemental_resistance_perc 		type="base" min="0.15"				/>
-		<attack_power					type="mult"	min="0.1"				/>
+		<elemental_resistance_perc 		type="base" min="0.12"				/>
+		<attack_power					type="mult"	min="0.08"				/>
 		<staminaRegen_armor_mod			type="mult"	min="0.10"				/>
 	</ability>
 	
 	<ability name="Lynx Pants 4 _Stats">
 		<weight 						type="base" min="4.84" 				/>
 		<quality 						type="add" 	min="5" 	max="5" 	/>
-		<armor 							type="base" min="71"	max="71" 	/>
+		<armor 							type="base" min="77"	max="77" 	/>
 		<slashing_resistance_perc 		type="base" min="0.06"				/>
 		<piercing_resistance_perc 		type="base"	min="0.04"				/>
-		<bludgeoning_resistance_perc 	type="base" min="0.00"				/>
 		<rending_resistance_perc 		type="base" min="0.06"				/>
-		<elemental_resistance_perc 		type="base" min="0.15"				/>
-		<attack_power					type="mult"	min="0.1"				/>
+		<elemental_resistance_perc 		type="base" min="0.13"				/>
+		<attack_power					type="mult"	min="0.10"				/>
 		<staminaRegen_armor_mod			type="mult"	min="0.10"				/>
 	</ability>
 
@@ -164,11 +144,10 @@
 	<ability name="Gryphon Pants 1 _Stats">
 		<weight 						type="base" min="2.59" 				/>
 		<quality 						type="add" 	min="5" 	max="5" 	/>
-		<armor 							type="base" min="25" 	max="25" 	/>
+		<armor 							type="base" min="31" 	max="31" 	/>
 		<slashing_resistance_perc 		type="base" min="0.05"				/>
 		<piercing_resistance_perc 		type="base" min="0.02"				/>
-		<bludgeoning_resistance_perc 	type="base" min="0.00"				/>
-		<rending_resistance_perc 		type="base" min="0.07"				/>
+		<rending_resistance_perc 		type="base" min="0.05"				/>
 		<elemental_resistance_perc 		type="base"	min="0.17"				/>
 		<spell_power					type="mult"	min="0.05"				/>
 	</ability>
@@ -176,35 +155,32 @@
 	<ability name="Gryphon Pants 2 _Stats">
 		<weight 						type="base"	min="2.59" 				/>
 		<quality 						type="add" 	min="5" 	max="5"		/>
-		<armor 							type="base"	min="39" 	max="39"	/>
+		<armor 							type="base"	min="45" 	max="45"	/>
 		<slashing_resistance_perc 		type="base" min="0.06"				/>
 		<piercing_resistance_perc 		type="base" min="0.03"				/>
-		<bludgeoning_resistance_perc 	type="base" min="0.00"				/>
-		<rending_resistance_perc 		type="base" min="0.07"				/>
+		<rending_resistance_perc 		type="base" min="0.05"				/>
 		<elemental_resistance_perc 		type="base" min="0.19"				/>
-		<spell_power					type="mult"	min="0.05"				/>
+		<spell_power					type="mult"	min="0.06"				/>
 	</ability>
 	
 	<ability name="Gryphon Pants 3 _Stats">
 		<weight 						type="base"	min="2.64" 				/>
 		<quality 						type="add" 	min="5" 	max="5"		/>
-		<armor 							type="base"	min="55" 	max="55"	/>
+		<armor 							type="base"	min="61" 	max="61"	/>
 		<slashing_resistance_perc 		type="base" min="0.07"				/>
 		<piercing_resistance_perc 		type="base" min="0.04"				/>
-		<bludgeoning_resistance_perc 	type="base" min="0.00"				/>
-		<rending_resistance_perc 		type="base" min="0.10"				/>
+		<rending_resistance_perc 		type="base" min="0.06"				/>
 		<elemental_resistance_perc 		type="base" min="0.23"				/>
-		<spell_power					type="mult"	min="0.10"				/>
+		<spell_power					type="mult"	min="0.08"				/>
 	</ability>
 	
 	<ability name="Gryphon Pants 4 _Stats">
 		<weight 						type="base"	min="2.64" 				/>
 		<quality 						type="add" 	min="5" 	max="5"		/>
-		<armor 							type="base"	min="71" 	max="71"	/>
+		<armor 							type="base"	min="77" 	max="77"	/>
 		<slashing_resistance_perc 		type="base" min="0.08"				/>
 		<piercing_resistance_perc 		type="base" min="0.05"				/>
-		<bludgeoning_resistance_perc 	type="base" min="0.00"				/>
-		<rending_resistance_perc 		type="base" min="0.10"				/>
+		<rending_resistance_perc 		type="base" min="0.07"				/>
 		<elemental_resistance_perc 		type="base" min="0.30"				/>
 		<spell_power					type="mult"	min="0.10"				/>
 	</ability>
@@ -213,11 +189,10 @@
 	<ability name="Bear Pants 1 _Stats">
 		<weight 						type="base"	min="3.44" 				/>
 		<quality 						type="add"	min="5"		max="5"		/>
-		<armor 							type="base"	min="43" 	max="43" 	/>
+		<armor 							type="base"	min="49" 	max="49" 	/>
 		<slashing_resistance_perc 		type="base"	min="0.07"				/>
 		<piercing_resistance_perc 		type="base"	min="0.02"				/>
-		<bludgeoning_resistance_perc 	type="base"	min="0.00"				/>
-		<rending_resistance_perc 		type="base"	min="0.10"				/>
+		<rending_resistance_perc 		type="base"	min="0.07"				/>
 		<elemental_resistance_perc 		type="base" min="0.05"				/>
 		<focus_gain 					type="base" min="0.05" 				/>
 		<staminaRegen_armor_mod 		type="mult"	min="-0.10" 			/>
@@ -226,37 +201,34 @@
 	<ability name="Bear Pants 2 _Stats">
 		<weight 						type="base" min="3.44" 				/>
 		<quality 						type="add" 	min="5" 	max="5" 	/>
-		<armor 							type="base" min="53" 	max="53"	/>
+		<armor 							type="base" min="59" 	max="59"	/>
 		<slashing_resistance_perc 		type="base" min="0.08" 				/>
 		<piercing_resistance_perc 		type="base" min="0.03" 				/>
-		<bludgeoning_resistance_perc 	type="base" min="0.00" 				/>
-		<rending_resistance_perc 		type="base" min="0.10" 				/>
+		<rending_resistance_perc 		type="base" min="0.08" 				/>
 		<elemental_resistance_perc 		type="base" min="0.10"				/>
-		<focus_gain 					type="base" min="0.05" 				/>
+		<focus_gain 					type="base" min="0.06" 				/>
 		<staminaRegen_armor_mod 		type="mult" min="-0.10"				/>
 	</ability>
 	
 	<ability name="Bear Pants 3 _Stats">
 		<weight 						type="base" min="4.24" 				/>
 		<quality 						type="add" 	min="5" 	max="5" 	/>
-		<armor 							type="base" min="63" 	max="63"	/>
+		<armor 							type="base" min="69" 	max="69"	/>
 		<slashing_resistance_perc 		type="base" min="0.09" 				/>
 		<piercing_resistance_perc 		type="base" min="0.04" 				/>
-		<bludgeoning_resistance_perc 	type="base" min="0.00" 				/>
-		<rending_resistance_perc 		type="base" min="0.15" 				/>
+		<rending_resistance_perc 		type="base" min="0.08" 				/>
 		<elemental_resistance_perc 		type="base" min="0.15"				/>
-		<focus_gain 					type="base" min="0.10" 				/>
+		<focus_gain 					type="base" min="0.08" 				/>
 		<staminaRegen_armor_mod 		type="mult" min="-0.10"				/>
 	</ability>
 	
 	<ability name="Bear Pants 4 _Stats">
 		<weight 						type="base" min="4.24" 				/>
 		<quality 						type="add" 	min="5" 	max="5" 	/>
-		<armor 							type="base" min="71" 	max="71"	/>
+		<armor 							type="base" min="77" 	max="77"	/>
 		<slashing_resistance_perc 		type="base" min="0.10" 				/>
 		<piercing_resistance_perc 		type="base" min="0.05" 				/>
-		<bludgeoning_resistance_perc 	type="base" min="0.00" 				/>
-		<rending_resistance_perc 		type="base" min="0.15" 				/>
+		<rending_resistance_perc 		type="base" min="0.09" 				/>
 		<elemental_resistance_perc 		type="base" min="0.20"				/>
 		<focus_gain 					type="base" min="0.10" 				/>
 		<staminaRegen_armor_mod 		type="mult" min="-0.10"				/>
@@ -564,7 +536,7 @@
 		<variants>						<variant equip_template="l_01a_mg__common_heavy_lvl4" category="boots"></variant>
 		</variants>
 	</item>
-
+	
 <!-- PANTS WITCHER LYNX -->
 	<item
 		name							="Lynx Pants 1"

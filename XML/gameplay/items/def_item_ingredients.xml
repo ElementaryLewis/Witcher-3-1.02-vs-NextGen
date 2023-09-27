@@ -11,11 +11,12 @@
 	<ability name="greater_mutagen_color_green" >
 		<vitality type="base" min="150" max="150" />
 		<greater_mutagen_color_green_synergy_bonus is_ability="true" />
+		<mutation_research_points_green type="add" min="1" />
 	</ability>
 
 	<ability name="greater_mutagen_color_green_synergy_bonus">
 		<tags>alchemy_s19</tags>
-		<vitality type="base" min="15" max="15" />
+		<vitality type="base" min="25" max="25" />
 	</ability>
 	
 	<ability name="mutagen_color_green" >
@@ -25,7 +26,7 @@
 
 	<ability name="mutagen_color_green_synergy_bonus">
 		<tags>alchemy_s19</tags>
-		<vitality type="base" min="10" max="10" />
+		<vitality type="base" min="16.6667" max="16.6667" />
 	</ability>
 	
 	<ability name="lesser_mutagen_color_green" >
@@ -35,7 +36,7 @@
 
 	<ability name="mutagen_color_lesser_green_synergy_bonus">
 		<tags>alchemy_s19</tags>
-		<vitality type="base" min="5" max="5"/>
+		<vitality type="base" min="8.3334" max="8.3334"/>
 	</ability>
 
 <!-- GREEN X -->
@@ -55,11 +56,12 @@
 	<ability name="greater_mutagen_color_blue" >
 		<spell_power type="mult" min="0.1" max="0.1" />
 		<greater_mutagen_color_blue_synergy_bonus is_ability="true" />
+		<mutation_research_points_blue type="add" min="1" />
 	</ability>
 	
 	<ability name="greater_mutagen_color_blue_synergy_bonus">
 		<tags>alchemy_s19</tags>
-		<spell_power type="mult" min="0.01" max="0.01" />
+		<spell_power type="mult" min="0.016667" max="0.016667" />
 	</ability>
 	
 	<ability name="mutagen_color_blue" >
@@ -69,7 +71,7 @@
 	
 	<ability name="mutagen_color_blue_synergy_bonus">
 		<tags>alchemy_s19</tags>
-		<spell_power type="mult" min="0.007" max="0.007" />
+		<spell_power type="mult" min="0.011667" max="0.011667" />
 	</ability>
 
 	<ability name="lesser_mutagen_color_blue" >
@@ -79,7 +81,7 @@
 
 	<ability name="mutagen_color_lesser_blue_synergy_bonus">
 		<tags>alchemy_s19</tags>
-		<spell_power type="mult" min="0.005" max="0.005" />
+		<spell_power type="mult" min="0.008334" max="0.008334" />
 	</ability>
 
 <!-- BLUE X -->
@@ -99,11 +101,12 @@
 	<ability name="greater_mutagen_color_red" >
 		<attack_power type="mult" min="0.1" max="0.1"/>
 		<greater_mutagen_color_red_synergy_bonus is_ability="true" />
+		<mutation_research_points_red type="add" min="1" />
 	</ability>
 
 	<ability name="greater_mutagen_color_red_synergy_bonus">
 		<tags>alchemy_s19</tags>
-		<attack_power type="mult" min="0.01" max="0.01"/>
+		<attack_power type="mult" min="0.016667" max="0.016667"/>
 	</ability>
 
 	<ability name="mutagen_color_red" >
@@ -113,7 +116,7 @@
 
 	<ability name="mutagen_color_red_synergy_bonus">
 		<tags>alchemy_s19</tags>
-		<attack_power type="mult" min="0.007" max="0.007"/>
+		<attack_power type="mult" min="0.011667" max="0.011667"/>
 	</ability>
 
 	<ability name="lesser_mutagen_color_red" >
@@ -123,7 +126,7 @@
 
 	<ability name="mutagen_color_lesser_red_synergy_bonus">
 		<tags>alchemy_s19</tags>
-		<attack_power type="mult" min="0.005" max="0.005"/>
+		<attack_power type="mult" min="0.008334" max="0.008334"/>
 	</ability>
 
 <!-- RED X -->
@@ -950,7 +953,26 @@
 
 <!-- Raw meat -->
 
-<!-- Wolf liver -->
+<!-- -->
+	<item
+		name							="Wolf liver"
+		category						="alchemy_ingredient"
+		price							="10"
+		weight							="0.9"
+		grid_size						="1"
+		stackable						="100"
+		localisation_key_name			="item_name_wolf_liver"
+		localisation_key_description	="item_desc_alchemy_ingredient"
+		icon_path						="icons/inventory/ingredients/alchemy/food_wolf_liver_64x64.png"
+	>
+		<tags>							AlchemyIngredient, mod_alchemy
+		</tags>
+		<base_abilities>				<a>base_edible_stats</a>
+										<a>FoodEdibleQuality_2</a>
+		</base_abilities>
+		<recycling_parts>				<parts count="2">Raw meat</parts>
+		</recycling_parts>
+	</item>
 
 <!-- Gutted fish -->
 
@@ -2273,7 +2295,7 @@
 		stackable						="100"
 		localisation_key_name			="item_name_jug"
 		localisation_key_description	="item_desc_junk"
-		icon_path						="icons/inventory/ingredients/junk/glass_jug_64x64.png"
+		icon_path						="icons/inventory/ingredients/junk/junk_jug_64x64.png"		
 	>
 		<tags>							mod_junk
 		</tags>
@@ -2847,7 +2869,7 @@
 		localisation_key_description	="item_desc_crafting_ingredient"
 		icon_path						="icons/inventory/ingredients/metal/gold_nugget_64x64.png"
 	>
-		<tags>							CraftingIngredient, mod_crafting, mod_valuable
+		<tags>							CraftingIngredient, mod_crafting, mod_precious
 		</tags>
 		<base_abilities>				<a>Master _Stats</a>
 		</base_abilities>
@@ -2864,7 +2886,7 @@
 		localisation_key_description	="item_desc_valuable"
 		icon_path						="icons/inventory/quests/wedding_ring-64x64.png"
 	>
-		<tags>							mod_valuable
+		<tags>							mod_precious
 		</tags>
 		<base_abilities>				<a>Master _Stats</a>
 		</base_abilities>
@@ -3003,7 +3025,7 @@
 		localisation_key_description	="item_desc_crafting_ingredient"
 		icon_path						="icons/inventory/ingredients/metal/ore_gold_64x64.png"
 	>
-		<tags>							CraftingIngredient, mod_crafting, mod_valuable
+		<tags>							CraftingIngredient, mod_crafting, mod_precious
 		</tags>
 		<base_abilities>				<a>Master _Stats</a>
 		</base_abilities>
@@ -3022,7 +3044,7 @@
 		localisation_key_description	="item_desc_valuable"
 		icon_path						="icons/inventory/ingredients/junk/candelabra_golden_64x64.png"
 	>
-		<tags>							mod_valuable
+		<tags>							mod_precious
 		</tags>
 		<base_abilities>				<a>Master _Stats</a>
 		</base_abilities>
@@ -3041,7 +3063,7 @@
 		localisation_key_description	="item_desc_valuable"
 		icon_path						="icons/inventory/ingredients/junk/mug_golden_64x64.png"
 	>
-		<tags>							mod_valuable
+		<tags>							mod_precious
 		</tags>
 		<base_abilities>				<a>Master _Stats</a>
 		</base_abilities>
@@ -3061,7 +3083,7 @@
 		localisation_key_description	="item_desc_valuable"
 		icon_path						="icons/inventory/ingredients/junk/platter_golden_64x64.png"
 	>
-		<tags>							mod_junk, mod_valuable
+		<tags>							mod_junk, mod_precious
 		</tags>
 		<base_abilities>				<a>Master _Stats</a>
 		</base_abilities>
@@ -3081,7 +3103,7 @@
 		localisation_key_description	="item_desc_valuable"
 		icon_path						="icons/inventory/ingredients/junk/casket_golden_64x64.png"
 	>
-		<tags>							mod_junk, mod_valuable
+		<tags>							mod_junk, mod_precious
 		</tags>
 		<base_abilities>				<a>Master _Stats</a>
 		</base_abilities>
@@ -3704,7 +3726,7 @@
 		localisation_key_description	="item_desc_crafting_ingredient"
 		icon_path						="icons/inventory/ingredients/metal/mineral_silver_64x64.png"
 	>
-		<tags>							CraftingIngredient, mod_crafting, mod_valuable
+		<tags>							CraftingIngredient, mod_crafting, mod_precious
 		</tags>
 		<base_abilities>				<a>Master _Stats</a>
 		</base_abilities>
@@ -3721,7 +3743,7 @@
 		localisation_key_description	="item_desc_junk"
 		icon_path						="icons/inventory/ingredients/junk/silver_pantaloons_64x64.png"
 	>
-		<tags>							mod_junk, mod_valuable
+		<tags>							mod_junk, mod_precious
 		</tags>
 		<base_abilities>				<a>Master _Stats</a>
 		</base_abilities>
@@ -3862,7 +3884,7 @@
 		localisation_key_description	="item_desc_crafting_ingredient"
 		icon_path						="icons/inventory/ingredients/metal/ore_silver_64x64.png"
 	>
-		<tags>							CraftingIngredient, mod_crafting, mod_valuable
+		<tags>							CraftingIngredient, mod_crafting, mod_precious
 		</tags>
 		<base_abilities>				<a>Master _Stats</a>
 		</base_abilities>
@@ -3881,7 +3903,7 @@
 		localisation_key_description	="item_desc_junk"
 		icon_path						="icons/inventory/ingredients/junk/silverware_64x64.png"
 	>
-		<tags>							mod_junk, mod_valuable
+		<tags>							mod_junk, mod_precious
 		</tags>
 		<base_abilities>				<a>Master _Stats</a>
 		</base_abilities>
@@ -3900,7 +3922,7 @@
 		localisation_key_description	="item_desc_junk"
 		icon_path						="icons/inventory/ingredients/junk/silver_teapot_64x64.png"
 	>
-		<tags>							mod_junk, mod_valuable
+		<tags>							mod_junk, mod_precious
 		</tags>
 		<base_abilities>				<a>Master _Stats</a>
 		</base_abilities>
@@ -3919,7 +3941,7 @@
 		localisation_key_description	="item_desc_junk"
 		icon_path						="icons/inventory/ingredients/junk/mug_silver_64x64.png"
 	>
-		<tags>							mod_junk, mod_valuable
+		<tags>							mod_junk, mod_precious
 		</tags>
 		<base_abilities>				<a>Master _Stats</a>
 		</base_abilities>
@@ -3939,7 +3961,7 @@
 		localisation_key_description	="item_desc_junk"
 		icon_path						="icons/inventory/ingredients/junk/platter_silver_64x64.png"
 	>
-		<tags>							mod_junk, mod_valuable
+		<tags>							mod_junk, mod_precious
 		</tags>
 		<base_abilities>				<a>Master _Stats</a>
 		</base_abilities>
@@ -3959,7 +3981,7 @@
 		localisation_key_description	="item_desc_junk"
 		icon_path						="icons/inventory/ingredients/junk/casket_silver_64x64.png"
 	>
-		<tags>							mod_junk, mod_valuable
+		<tags>							mod_junk, mod_precious
 		</tags>
 		<base_abilities>				<a>Master _Stats</a>
 		</base_abilities>
@@ -3980,7 +4002,7 @@
 		localisation_key_description	="item_desc_crafting_ingredient"
 		icon_path						="icons/inventory/ingredients/metal/ingot_silver_64x64.png"
 	>
-		<tags>							CraftingIngredient, mod_crafting, mod_valuable
+		<tags>							CraftingIngredient, mod_crafting, mod_precious
 		</tags>
 		<base_abilities>				<a>Master _Stats</a>
 		</base_abilities>
@@ -3999,7 +4021,7 @@
 		localisation_key_description	="item_desc_valuable"
 		icon_path						="icons/inventory/ingredients/junk/silver_pure_64x64.png"
 	>
-		<tags>							mod_valuable
+		<tags>							mod_precious
 		</tags>
 		<base_abilities>				<a>Master _Stats</a>
 		</base_abilities>
@@ -4018,7 +4040,7 @@
 		localisation_key_description	="item_desc_valuable"
 		icon_path						="icons/inventory/ingredients/junk/candelabra_silver_64x64.png"
 	>
-		<tags>							mod_junk, mod_valuable
+		<tags>							mod_junk, mod_precious
 		</tags>
 		<base_abilities>				<a>Master _Stats</a>
 		</base_abilities>
@@ -4037,7 +4059,7 @@
 		localisation_key_description	="item_desc_valuable"
 		icon_path						="icons/inventory/ingredients/junk/silver_sword_replica_64x64.png"
 	>
-		<tags>							mod_junk, mod_valuable
+		<tags>							mod_junk, mod_precious
 		</tags>
 		<base_abilities>				<a>Master _Stats</a>
 		</base_abilities>
@@ -4057,7 +4079,7 @@
 		localisation_key_description	="item_desc_crafting_ingredient"
 		icon_path						="icons/inventory/ingredients/metal/plate_silver_64x64.png"
 	>
-		<tags>							CraftingIngredient, mod_crafting, mod_valuable
+		<tags>							CraftingIngredient, mod_crafting, mod_precious
 		</tags>
 		<base_abilities>				<a>Master _Stats</a>
 		</base_abilities>
@@ -4076,7 +4098,7 @@
 		localisation_key_description	="item_desc_valuable"
 		icon_path						="icons/inventory/ingredients/junk/silver_shield_replica_64x64.png"
 	>
-		<tags>							mod_junk, mod_valuable
+		<tags>							mod_junk, mod_precious
 		</tags>
 		<base_abilities>				<a>Master _Stats</a>
 		</base_abilities>
@@ -4135,7 +4157,7 @@
 		localisation_key_description	="item_desc_crafting_ingredient"
 		icon_path						="icons/inventory/ingredients/metal/plate_meteorite_64x64.png"
 	>
-		<tags>							CraftingIngredient, mod_crafting
+		<tags>							CraftingIngredient, mod_crafting, mod_valuable
 		</tags>
 		<base_abilities>				<a>Master _Stats</a>
 		</base_abilities>
@@ -4155,7 +4177,7 @@
 		localisation_key_description	="item_desc_crafting_ingredient"
 		icon_path						="icons/inventory/ingredients/metal/ingot_meteorite_silver_64x64.png"
 	>
-		<tags>							CraftingIngredient, mod_crafting, mod_valuable
+		<tags>							CraftingIngredient, mod_crafting, mod_precious
 		</tags>
 		<base_abilities>				<a>Magic _Stats</a>
 		</base_abilities>
@@ -4176,7 +4198,7 @@
 		localisation_key_description	="item_desc_crafting_ingredient"
 		icon_path						="icons/inventory/ingredients/metal/plate_meteorite_silver_64x64.png"
 	>
-		<tags>							CraftingIngredient, mod_crafting, mod_valuable
+		<tags>							CraftingIngredient, mod_crafting, mod_precious
 		</tags>
 		<base_abilities>				<a>Magic _Stats</a>
 		</base_abilities>
@@ -4196,7 +4218,7 @@
 		localisation_key_description	="item_desc_crafting_ingredient"
 		icon_path						="icons/inventory/ingredients/metal/ore_glowing_64x64.png"
 	>
-		<tags>							CraftingIngredient, mod_crafting, mod_precious
+		<tags>							CraftingIngredient, mod_crafting, mod_valuable
 		</tags>
 		<base_abilities>				<a>Relic _Stats</a>
 		</base_abilities>
@@ -4214,7 +4236,7 @@
 		localisation_key_description	="item_desc_crafting_ingredient"
 		icon_path						="icons/inventory/ingredients/metal/ingot_glowing_64x64.png"
 	>
-		<tags>							CraftingIngredient, mod_crafting, mod_precious
+		<tags>							CraftingIngredient, mod_crafting, mod_valuable
 		</tags>
 		<base_abilities>				<a>Relic _Stats</a>
 		</base_abilities>
@@ -5772,7 +5794,7 @@
 		name							="Cockatrice maw"
 		category						="alchemy_ingredient"
 		price							="45"
-		weight							="0.5"
+		weight							="0.8"
 		stackable						="100"
 		localisation_key_name			="item_name_cockatrice_maw"
 		localisation_key_description	="item_desc_alchemy_ingredient"
@@ -5782,8 +5804,8 @@
 		</tags>
 		<base_abilities>				<a>Master _Stats</a>
 		</base_abilities>
-		<recycling_parts>				<parts count="2">Monstrous blood</parts>
-										<parts count="1">Monstrous saliva</parts>
+		<recycling_parts>				<parts count="2">Monstrous saliva</parts>
+										<parts count="1">Monstrous stomach</parts>
 		</recycling_parts>
 	</item>
 
@@ -5949,12 +5971,13 @@
 	<item
 		name							="Greater mutagen red"
 		category						="alchemy_ingredient"
+		stackable						="100"
 		price							="20"
 		weight							="0.1"
 		ability_mode					="OnMount"
 		localisation_key_name			="item_name_greater_red_mutagen"
 		localisation_key_description	="item_desc_red_mutagen"
-		icon_path						="icons/inventory/mutagens/mutagen-01-64x64.png"
+		icon_path						="icons/inventory/mutagens/mutagen-01-greater-64x64.png"
 	>
 		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy
 		</tags>
@@ -5965,12 +5988,13 @@
 	<item
 		name							="Greater mutagen green"
 		category						="alchemy_ingredient"
+		stackable						="100"
 		price							="20"
 		weight							="0.1"
 		ability_mode					="OnMount"
 		localisation_key_name			="item_name_greater_green_mutagen"
 		localisation_key_description	="item_desc_green_mutagen"
-		icon_path						="icons/inventory/mutagens/mutagen-02-64x64.png"
+		icon_path						="icons/inventory/mutagens/mutagen-02-greater-64x64.png"
 	>
 		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy
 		</tags>
@@ -5981,12 +6005,13 @@
 	<item
 		name							="Greater mutagen blue"
 		category						="alchemy_ingredient"
+		stackable						="100"
 		price							="20"
 		weight							="0.1"
 		ability_mode					="OnMount"
 		localisation_key_name			="item_name_greater_blue_mutagen"
 		localisation_key_description	="item_desc_blue_mutagen"
-		icon_path						="icons/inventory/mutagens/mutagen-03-64x64.png"
+		icon_path						="icons/inventory/mutagens/mutagen-03-greater-64x64.png"
 	>
 		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy
 		</tags>
@@ -5998,12 +6023,13 @@
 	<item
 		name							="Mutagen red"
 		category						="alchemy_ingredient"
+		stackable						="100"
 		price							="20"
 		weight							="0.1"
 		ability_mode					="OnMount"
 		localisation_key_name			="item_name_red_mutagen"
 		localisation_key_description	="item_desc_red_mutagen"
-		icon_path						="icons/inventory/mutagens/mutagen-01-64x64.png"
+		icon_path						="icons/inventory/mutagens/mutagen-01-normal-64x64.png"
 	>
 		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy
 		</tags>
@@ -6014,12 +6040,13 @@
 	<item
 		name							="Mutagen green"
 		category						="alchemy_ingredient"
+		stackable						="100"
 		price							="20"
 		weight							="0.1"
 		ability_mode					="OnMount"
 		localisation_key_name			="item_name_green_mutagen"
 		localisation_key_description	="item_desc_green_mutagen"
-		icon_path						="icons/inventory/mutagens/mutagen-02-64x64.png"
+		icon_path						="icons/inventory/mutagens/mutagen-02-normal-64x64.png"
 	>
 		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy
 		</tags>
@@ -6030,12 +6057,13 @@
 	<item
 		name							="Mutagen blue"
 		category						="alchemy_ingredient"
+		stackable						="100"
 		price							="20"
 		weight							="0.1"
 		ability_mode					="OnMount"
 		localisation_key_name			="item_name_blue_mutagen"
 		localisation_key_description	="item_desc_blue_mutagen"
-		icon_path						="icons/inventory/mutagens/mutagen-03-64x64.png"
+		icon_path						="icons/inventory/mutagens/mutagen-03-normal-64x64.png"
 	>
 		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy
 		</tags>
@@ -6047,12 +6075,13 @@
 	<item
 		name							="Lesser mutagen red"
 		category						="alchemy_ingredient"
+		stackable						="100"
 		price							="20"
 		weight							="0.1"
 		ability_mode					="OnMount"
 		localisation_key_name			="item_name_lesser_red_mutagen"
 		localisation_key_description	="item_desc_red_mutagen"
-		icon_path						="icons/inventory/mutagens/mutagen-01-64x64.png"
+		icon_path						="icons/inventory/mutagens/mutagen-01-lesser-64x64.png"
 	>
 		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy
 		</tags>
@@ -6063,12 +6092,13 @@
 	<item
 		name							="Lesser mutagen green"
 		category						="alchemy_ingredient"
+		stackable						="100"
 		price							="20"
 		weight							="0.1"
 		ability_mode					="OnMount"
 		localisation_key_name			="item_name_lesser_green_mutagen"
 		localisation_key_description	="item_desc_green_mutagen"
-		icon_path						="icons/inventory/mutagens/mutagen-02-64x64.png"
+		icon_path						="icons/inventory/mutagens/mutagen-02-lesser-64x64.png"
 	>
 		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy
 		</tags>
@@ -6079,12 +6109,13 @@
 	<item
 		name							="Lesser mutagen blue"
 		category						="alchemy_ingredient"
+		stackable						="100"
 		price							="20"
 		weight							="0.1"
 		ability_mode					="OnMount"
 		localisation_key_name			="item_name_lesser_blue_mutagen"
 		localisation_key_description	="item_desc_blue_mutagen"
-		icon_path						="icons/inventory/mutagens/mutagen-03-64x64.png"
+		icon_path						="icons/inventory/mutagens/mutagen-03-lesser-64x64.png"
 	>
 		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy
 		</tags>
@@ -6096,432 +6127,486 @@
 	<item
 		name							="Katakan mutagen"
 		category						="alchemy_ingredient"
+		stackable						="100"
 		price							="20"
 		weight							="0.1"
 		ability_mode					="OnMount"
 		localisation_key_name			="item_name_katakan_mutagen"
 		localisation_key_description	="item_desc_red_mutagen"
-		icon_path						="icons/inventory/mutagens/mutagen-01-64x64.png"
+		icon_path						="icons/inventory/mutagens/mutagen-01-unique-64x64.png"
 	>
-		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy
+		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy, mod_alchemy_table
 		</tags>
 		<base_abilities>				<a>lesser_mutagen_color_red</a>
+										<a>Relic _Stats</a>
 		</base_abilities>
 	</item>
 
 	<item
 		name							="Arachas mutagen"
 		category						="alchemy_ingredient"
+		stackable						="100"
 		price							="20"
 		weight							="0.1"
 		ability_mode					="OnMount"
 		localisation_key_name			="item_name_arachas_mutagen"
 		localisation_key_description	="item_desc_green_mutagen"
-		icon_path						="icons/inventory/mutagens/mutagen-02-64x64.png"
+		icon_path						="icons/inventory/mutagens/mutagen-02-unique-64x64.png"
 	>
-		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy
+		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy, mod_alchemy_table
 		</tags>
 		<base_abilities>				<a>lesser_mutagen_color_green</a>
+										<a>Relic _Stats</a>
 		</base_abilities>
 	</item>
 
 	<item
 		name							="Cockatrice mutagen"
 		category						="alchemy_ingredient"
+		stackable						="100"
 		price							="20"
 		weight							="0.1"
 		ability_mode					="OnMount"
 		localisation_key_name			="item_name_cockatrice_mutagen"
 		localisation_key_description	="item_desc_blue_mutagen"
-		icon_path						="icons/inventory/mutagens/mutagen-03-64x64.png"
+		icon_path						="icons/inventory/mutagens/mutagen-03-unique-64x64.png"
 	>
-		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy
+		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy, mod_alchemy_table
 		</tags>
 		<base_abilities>				<a>lesser_mutagen_color_blue</a>
+										<a>Relic _Stats</a>
 		</base_abilities>
 	</item>
 
 	<item
 		name							="Volcanic Gryphon mutagen"
 		category						="alchemy_ingredient"
+		stackable						="100"
 		price							="20"
 		weight							="0.1"
 		ability_mode					="OnMount"
 		localisation_key_name			="item_name_volcanic_gryphon_mutagen"
 		localisation_key_description	="item_desc_red_mutagen"
-		icon_path						="icons/inventory/mutagens/mutagen-01-64x64.png"
+		icon_path						="icons/inventory/mutagens/mutagen-01-unique-64x64.png"
 	>
-		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy
+		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy, mod_alchemy_table
 		</tags>
 		<base_abilities>				<a>lesser_mutagen_color_red</a>
+										<a>Relic _Stats</a>
 		</base_abilities>
 	</item>
 
 	<item
 		name							="Gryphon mutagen"
 		category						="alchemy_ingredient"
+		stackable						="100"
 		price							="20"
 		weight							="0.1"
 		ability_mode					="OnMount"
 		localisation_key_name			="item_name_gryphon_mutagen"
 		localisation_key_description	="item_desc_green_mutagen"
-		icon_path						="icons/inventory/mutagens/mutagen-02-64x64.png"
+		icon_path						="icons/inventory/mutagens/mutagen-02-unique-64x64.png"
 	>
-		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy
+		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy, mod_alchemy_table
 		</tags>
 		<base_abilities>				<a>lesser_mutagen_color_green</a>
+										<a>Relic _Stats</a>
 		</base_abilities>
 	</item>
 
 	<item
 		name							="Water Hag mutagen"
 		category						="alchemy_ingredient"
+		stackable						="100"
 		price							="20"
 		weight							="0.1"
 		ability_mode					="OnMount"
 		localisation_key_name			="item_name_water_hag_mutagen"
 		localisation_key_description	="item_desc_red_mutagen"
-		icon_path						="icons/inventory/mutagens/mutagen-01-64x64.png"
+		icon_path						="icons/inventory/mutagens/mutagen-01-unique-64x64.png"
 	>
-		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy
+		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy, mod_alchemy_table
 		</tags>
 		<base_abilities>				<a>lesser_mutagen_color_red</a>
+										<a>Relic _Stats</a>
 		</base_abilities>
 	</item>
 
 	<item
 		name							="Nightwraith mutagen"
 		category						="alchemy_ingredient"
+		stackable						="100"
 		price							="20"
 		weight							="0.1"
 		ability_mode					="OnMount"
 		localisation_key_name			="item_name_nightwraith_mutagen"
 		localisation_key_description	="item_desc_green_mutagen"
-		icon_path						="icons/inventory/mutagens/mutagen-02-64x64.png"
+		icon_path						="icons/inventory/mutagens/mutagen-02-unique-64x64.png"
 	>
-		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy
+		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy, mod_alchemy_table
 		</tags>
 		<base_abilities>				<a>lesser_mutagen_color_green</a>
+										<a>Relic _Stats</a>
 		</base_abilities>
 	</item>
 
 	<item
 		name							="Ekimma mutagen"
 		category						="alchemy_ingredient"
+		stackable						="100"
 		price							="20"
 		weight							="0.1"
 		ability_mode					="OnMount"
 		localisation_key_name			="item_name_ekimma_mutagen"
 		localisation_key_description	="item_desc_green_mutagen"
-		icon_path						="icons/inventory/mutagens/mutagen-02-64x64.png"
+		icon_path						="icons/inventory/mutagens/mutagen-02-unique-64x64.png"
 	>
-		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy
+		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy, mod_alchemy_table
 		</tags>
 		<base_abilities>				<a>lesser_mutagen_color_green</a>
+										<a>Relic _Stats</a>
 		</base_abilities>
 	</item>
 
 	<item
 		name							="Czart mutagen"
 		category						="alchemy_ingredient"
+		stackable						="100"
 		price							="20"
 		weight							="0.1"
 		ability_mode					="OnMount"
 		localisation_key_name			="item_name_czart_mutagen"
 		localisation_key_description	="item_desc_blue_mutagen"
-		icon_path						="icons/inventory/mutagens/mutagen-03-64x64.png"
+		icon_path						="icons/inventory/mutagens/mutagen-03-unique-64x64.png"
 	>
-		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy
+		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy, mod_alchemy_table
 		</tags>
 		<base_abilities>				<a>lesser_mutagen_color_blue</a>
+										<a>Relic _Stats</a>
 		</base_abilities>
 	</item>
 
 	<item
 		name							="Fogling 1 mutagen"
 		category						="alchemy_ingredient"
+		stackable						="100"
 		price							="20"
 		weight							="0.1"
 		ability_mode					="OnMount"
 		localisation_key_name			="item_name_fogling_1_mutagen"
 		localisation_key_description	="item_desc_blue_mutagen"
-		icon_path						="icons/inventory/mutagens/mutagen-03-64x64.png"
+		icon_path						="icons/inventory/mutagens/mutagen-03-unique-64x64.png"
 	>
-		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy
+		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy, mod_alchemy_table
 		</tags>
 		<base_abilities>				<a>lesser_mutagen_color_blue</a>
+										<a>Relic _Stats</a>
 		</base_abilities>
 	</item>
 
 	<item
 		name							="Wyvern mutagen"
 		category						="alchemy_ingredient"
+		stackable						="100"
 		price							="20"
 		weight							="0.1"
 		ability_mode					="OnMount"
 		localisation_key_name			="item_name_wyvern_mutagen"
 		localisation_key_description	="item_desc_red_mutagen"
-		icon_path						="icons/inventory/mutagens/mutagen-01-64x64.png"
+		icon_path						="icons/inventory/mutagens/mutagen-01-unique-64x64.png"
 	>
-		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy
+		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy, mod_alchemy_table
 		</tags>
 		<base_abilities>				<a>lesser_mutagen_color_red</a>
+										<a>Relic _Stats</a>
 		</base_abilities>
 	</item>
 
 	<item
 		name							="Doppler mutagen"
 		category						="alchemy_ingredient"
+		stackable						="100"
 		price							="20"
 		weight							="0.1"
 		ability_mode					="OnMount"
 		localisation_key_name			="item_name_doppler_mutagen"
 		localisation_key_description	="item_desc_red_mutagen"
-		icon_path						="icons/inventory/mutagens/mutagen-01-64x64.png"
+		icon_path						="icons/inventory/mutagens/mutagen-01-unique-64x64.png"
 	>
-		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy
+		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy, mod_alchemy_table
 		</tags>
 		<base_abilities>				<a>lesser_mutagen_color_red</a>
+										<a>Relic _Stats</a>
 		</base_abilities>
 	</item>
 
 	<item
 		name							="Troll mutagen"
 		category						="alchemy_ingredient"
+		stackable						="100"
 		price							="20"
 		weight							="0.1"
 		ability_mode					="OnMount"
 		localisation_key_name			="item_name_troll_mutagen"
 		localisation_key_description	="item_desc_green_mutagen"
-		icon_path						="icons/inventory/mutagens/mutagen-02-64x64.png"
+		icon_path						="icons/inventory/mutagens/mutagen-02-unique-64x64.png"
 	>
-		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy
+		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy, mod_alchemy_table
 		</tags>
 		<base_abilities>				<a>lesser_mutagen_color_green</a>
+										<a>Relic _Stats</a>
 		</base_abilities>
 	</item>
 
 	<item
 		name							="Noonwraith mutagen"
 		category						="alchemy_ingredient"
+		stackable						="100"
 		price							="20"
 		weight							="0.1"
 		ability_mode					="OnMount"
 		localisation_key_name			="item_name_noonwraith_mutagen"
 		localisation_key_description	="item_desc_green_mutagen"
-		icon_path						="icons/inventory/mutagens/mutagen-02-64x64.png"
+		icon_path						="icons/inventory/mutagens/mutagen-02-unique-64x64.png"
 	>
-		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy
+		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy, mod_alchemy_table
 		</tags>
 		<base_abilities>				<a>lesser_mutagen_color_green</a>
+										<a>Relic _Stats</a>
 		</base_abilities>
 	</item>
 
 	<item
 		name							="Succubus mutagen"
 		category						="alchemy_ingredient"
+		stackable						="100"
 		price							="20"
 		weight							="0.1"
 		ability_mode					="OnMount"
 		localisation_key_name			="item_name_succubus_mutagen"
 		localisation_key_description	="item_desc_red_mutagen"
-		icon_path						="icons/inventory/mutagens/mutagen-01-64x64.png"
+		icon_path						="icons/inventory/mutagens/mutagen-01-unique-64x64.png"
 	>
-		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy
+		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy, mod_alchemy_table
 		</tags>
 		<base_abilities>				<a>lesser_mutagen_color_red</a>
+										<a>Relic _Stats</a>
 		</base_abilities>
 	</item>
 
 	<item
 		name							="Fogling 2 mutagen"
 		category						="alchemy_ingredient"
+		stackable						="100"
 		price							="20"
 		weight							="0.1"
 		ability_mode					="OnMount"
 		localisation_key_name			="item_name_fogling_2_mutagen"
 		localisation_key_description	="item_desc_red_mutagen"
-		icon_path						="icons/inventory/mutagens/mutagen-01-64x64.png"
+		icon_path						="icons/inventory/mutagens/mutagen-01-unique-64x64.png"
 	>
-		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy
+		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy, mod_alchemy_table
 		</tags>
 		<base_abilities>				<a>lesser_mutagen_color_red</a>
+										<a>Relic _Stats</a>
 		</base_abilities>
 	</item>
 
 	<item
 		name							="Fiend mutagen"
 		category						="alchemy_ingredient"
+		stackable						="100"
 		price							="20"
 		weight							="0.1"
 		ability_mode					="OnMount"
 		localisation_key_name			="item_name_fiend_mutagen"
 		localisation_key_description	="item_desc_green_mutagen"
-		icon_path						="icons/inventory/mutagens/mutagen-02-64x64.png"
+		icon_path						="icons/inventory/mutagens/mutagen-02-unique-64x64.png"
 	>
-		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy
+		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy, mod_alchemy_table
 		</tags>
 		<base_abilities>				<a>lesser_mutagen_color_green</a>
+										<a>Relic _Stats</a>
 		</base_abilities>
 	</item>
 
 	<item
 		name							="Forktail mutagen"
 		category						="alchemy_ingredient"
+		stackable						="100"
 		price							="20"
 		weight							="0.1"
 		ability_mode					="OnMount"
 		localisation_key_name			="item_name_forktail_mutagen"
 		localisation_key_description	="item_desc_blue_mutagen"
-		icon_path						="icons/inventory/mutagens/mutagen-03-64x64.png"
+		icon_path						="icons/inventory/mutagens/mutagen-03-unique-64x64.png"
 	>
-		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy
+		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy, mod_alchemy_table
 		</tags>
 		<base_abilities>				<a>lesser_mutagen_color_blue</a>
+										<a>Relic _Stats</a>
 		</base_abilities>
 	</item>
 
 	<item
 		name							="Grave Hag mutagen"
 		category						="alchemy_ingredient"
+		stackable						="100"
 		price							="20"
 		weight							="0.1"
 		ability_mode					="OnMount"
 		localisation_key_name			="item_name_grave_hag_mutagen"
 		localisation_key_description	="item_desc_green_mutagen"
-		icon_path						="icons/inventory/mutagens/mutagen-02-64x64.png"
+		icon_path						="icons/inventory/mutagens/mutagen-02-unique-64x64.png"
 	>
-		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy
+		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy, mod_alchemy_table
 		</tags>
 		<base_abilities>				<a>lesser_mutagen_color_green</a>
+										<a>Relic _Stats</a>
 		</base_abilities>
 	</item>
 
 	<item
 		name							="Wraith mutagen"
 		category						="alchemy_ingredient"
+		stackable						="100"
 		price							="20"
 		weight							="0.1"
 		ability_mode					="OnMount"
 		localisation_key_name			="item_name_wraith_mutagen"
 		localisation_key_description	="item_desc_green_mutagen"
-		icon_path						="icons/inventory/mutagens/mutagen-02-64x64.png"
+		icon_path						="icons/inventory/mutagens/mutagen-02-unique-64x64.png"
 	>
-		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy
+		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy, mod_alchemy_table
 		</tags>
 		<base_abilities>				<a>lesser_mutagen_color_green</a>
+										<a>Relic _Stats</a>
 		</base_abilities>
 	</item>
 
 	<item
 		name							="Dao mutagen"
 		category						="alchemy_ingredient"
+		stackable						="100"
 		price							="20"
 		weight							="0.1"
 		ability_mode					="OnMount"
 		localisation_key_name			="item_name_dao_mutagen"
 		localisation_key_description	="item_desc_blue_mutagen"
-		icon_path						="icons/inventory/mutagens/mutagen-03-64x64.png"
+		icon_path						="icons/inventory/mutagens/mutagen-03-unique-64x64.png"
 	>
-		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy
+		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy, mod_alchemy_table
 		</tags>
 		<base_abilities>				<a>lesser_mutagen_color_blue</a>
+										<a>Relic _Stats</a>
 		</base_abilities>
 	</item>
 
 	<item
 		name							="Lamia mutagen"
 		category						="alchemy_ingredient"
+		stackable						="100"
 		price							="20"
 		weight							="0.1"
 		ability_mode					="OnMount"
 		localisation_key_name			="item_name_lamia_mutagen"
 		localisation_key_description	="item_desc_blue_mutagen"
-		icon_path						="icons/inventory/mutagens/mutagen-03-64x64.png"
+		icon_path						="icons/inventory/mutagens/mutagen-03-unique-64x64.png"
 	>
-		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy
+		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy, mod_alchemy_table
 		</tags>
 		<base_abilities>				<a>lesser_mutagen_color_blue</a>
+										<a>Relic _Stats</a>
 		</base_abilities>
 	</item>
 
 	<item
 		name							="Ancient Leshy mutagen"
 		category						="alchemy_ingredient"
+		stackable						="100"
 		price							="20"
 		weight							="0.1"
 		ability_mode					="OnMount"
 		localisation_key_name			="item_name_ancient_leshy_mutagen"
 		localisation_key_description	="item_desc_blue_mutagen"
-		icon_path						="icons/inventory/mutagens/mutagen-03-64x64.png"
+		icon_path						="icons/inventory/mutagens/mutagen-03-unique-64x64.png"
 	>
-		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy
+		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy, mod_alchemy_table
 		</tags>
 		<base_abilities>				<a>lesser_mutagen_color_blue</a>
+										<a>Relic _Stats</a>
 		</base_abilities>
 	</item>
 
 	<item
 		name							="Basilisk mutagen"
 		category						="alchemy_ingredient"
+		stackable						="100"
 		price							="20"
 		weight							="0.1"
 		ability_mode					="OnMount"
 		localisation_key_name			="item_name_basilisk_mutagen"
 		localisation_key_description	="item_desc_blue_mutagen"
-		icon_path						="icons/inventory/mutagens/mutagen-03-64x64.png"
+		icon_path						="icons/inventory/mutagens/mutagen-03-unique-64x64.png"
 	>
-		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy
+		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy, mod_alchemy_table
 		</tags>
 		<base_abilities>				<a>lesser_mutagen_color_blue</a>
+										<a>Relic _Stats</a>
 		</base_abilities>
 	</item>
 
 	<item
 		name							="Werewolf mutagen"
 		category						="alchemy_ingredient"
+		stackable						="100"
 		price							="20"
 		weight							="0.1"
 		ability_mode					="OnMount"
 		localisation_key_name			="item_name_werewolf_mutagen"
 		localisation_key_description	="item_desc_red_mutagen"
-		icon_path						="icons/inventory/mutagens/mutagen-01-64x64.png"
+		icon_path						="icons/inventory/mutagens/mutagen-01-unique-64x64.png"
 	>
-		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy
+		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy, mod_alchemy_table
 		</tags>
 		<base_abilities>				<a>lesser_mutagen_color_red</a>
+										<a>Relic _Stats</a>
 		</base_abilities>
 	</item>
 
 	<item
 		name							="Nekker Warrior mutagen"
 		category						="alchemy_ingredient"
+		stackable						="100"
 		price							="20"
 		weight							="0.1"
 		ability_mode					="OnMount"
 		localisation_key_name			="item_name_nekker_warrior_mutagen"
 		localisation_key_description	="item_desc_red_mutagen"
-		icon_path						="icons/inventory/mutagens/mutagen-01-64x64.png"
+		icon_path						="icons/inventory/mutagens/mutagen-01-unique-64x64.png"
 	>
-		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy
+		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy, mod_alchemy_table
 		</tags>
 		<base_abilities>				<a>lesser_mutagen_color_red</a>
+										<a>Relic _Stats</a>
 		</base_abilities>
 	</item>
 
 	<item
 		name							="Leshy mutagen"
 		category						="alchemy_ingredient"
+		stackable						="100"
 		price							="20"
 		weight							="0.1"
 		ability_mode					="OnMount"
 		localisation_key_name			="item_name_leshy_mutagen"
 		localisation_key_description	="item_desc_blue_mutagen"
-		icon_path						="icons/inventory/mutagens/mutagen-03-64x64.png"
+		icon_path						="icons/inventory/mutagens/mutagen-03-unique-64x64.png"
 	>
-		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy
+		<tags>							MutagenIngredient, AlchemyIngredient, mod_alchemy, mod_alchemy_table
 		</tags>
 		<base_abilities>				<a>lesser_mutagen_color_blue</a>
+										<a>Relic _Stats</a>
 		</base_abilities>
 	</item>
 

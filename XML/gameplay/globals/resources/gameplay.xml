@@ -22,10 +22,17 @@
 	<res alias="igni"										path="gameplay\templates\signs\pc_igni.w2ent"/>
 	<res alias="quen"										path="gameplay\templates\signs\pc_quen.w2ent"/>
 	
+	<res alias="aard_mq1060"								path="gameplay\templates\signs\pc_aard_mq1060.w2ent"/>
+	<res alias="igni_mq1060"								path="gameplay\templates\signs\pc_igni_mq1060.w2ent"/>
+	<res alias="quen_mq1060"								path="gameplay\templates\signs\pc_quen_mq1060.w2ent"/>
+	<res alias="gameplay\sign\quen_hit_new_mq1060"			path="gameplay\templates\signs\pc_quen_hit_mq1060.w2ent"/>
+	
 	<!-- petards -->
 	<res alias="petard_impact" 								path="fx\gameplay\throwing\throwing_impact_marker.w2ent" />
 	<res alias="petard_radius" 								path="fx\weapons\bombs\cluster\bomb_radius\bomb_radius.w2ent" />
 	<res alias="water_splash_small" 						path="fx\water\splash_small\water_splash_small_entity.w2ent" />
+	<res alias="ice_spikes"									path="fx\gameplay\throwing\ice_spikes.w2ent" />
+	<res alias="ice_spikes_large"							path="fx\gameplay\throwing\ice_spikes_large.w2ent" />
 	
 	<!-- various -->
 	<res alias="lootbag" 									path="items\remains\remains__human_01\remains_human_inv.w2ent" />
@@ -44,6 +51,11 @@
 	
 <!-- bies hypnosis env -->
 	<res alias="env_bies_hypnotize"							path="environment\definitions\skellige\env_bies_hypnotize.env" />
+
+<!-- mutations envs -->
+	<res alias="mtn_7_adrenaline_burst_env"					path="fx\gameplay\mutation\mutation_7\mtn_7_adrenaline_burst_env.env" />
+	<res alias="mtn_7_adrenaline_drop_env"					path="fx\gameplay\mutation\mutation_7\mtn_7_adrenaline_drop_env.env" />
+	<res alias="mtn_10_euphoria_env"						path="fx\gameplay\mutation\mutation_10\euphoria_env.env" />
 	
 <!-- noonwraith smoke -->	
 	<res alias="noonwraith_smoke_fx" 						path="fx\monsters\noonwraith\noonwraith_smoke.w2ent" />
@@ -538,10 +550,30 @@
 	<res alias="TutorialAlchemyForcedOpenMenu" 				path="gameplay\journal\tutorial\alchemyforcedopenmenu.journal"/>
 	<res alias="TutorialAlchemyForcedOpenMenu_ps4" 			path="gameplay\journal\tutorial\alchemyforcedopenmenups4.journal"/>
 	<res alias="TutorialAlchemyForcedEnterAlchemy" 			path="gameplay\journal\tutorial\alchemyforcedenteralchemy.journal"/>
+	
+	<!-- alchemy new -->
+	<res alias="TutorialAlchemyLayers" 						path="gameplay\journal\tutorial\alchemylayers.journal"/>
+	<res alias="TutorialAlchemyLayers2"						path="gameplay\journal\tutorial\alchemylayers2.journal"/>
+	<res alias="TutorialAlchemyLayers3"						path="gameplay\journal\tutorial\alchemylayers3.journal"/>
+	<res alias="TutorialAlchemyLayers4"						path="gameplay\journal\tutorial\alchemylayers4.journal"/>
+	<res alias="TutorialAlchemyBuy" 						path="gameplay\journal\tutorial\alchemybuy.journal"/>
 		
 	<!-- alternate signs -->
 	<res alias="TutorialAlternateSigns" 					path="gameplay\journal\tutorial\alternatesigns.journal"/>
 	<res alias="TutorialJournalAlternateSigns" 				path="gameplay\journal\tutorial\jealternatesigns.journal"/>
+	<res alias="TutorialAlternateSignCasting" 				path="gameplay\journal\tutorial\alternatesigncastingpc.journal"/>
+	<res alias="TutorialAlternateSignCasting_pad" 			path="gameplay\journal\tutorial\alternatesigncasting.journal"/>
+	<res alias="TutorialAlternateSignCastingPS" 			path="gameplay\journal\tutorial\alternatesigncastingps.journal"/>
+	<res alias="TutorialAlternateAard" 						path="gameplay\journal\tutorial\alternateaard.journal"/>
+	<res alias="TutorialAlternateIgni" 						path="gameplay\journal\tutorial\alternateigni.journal"/>
+	<res alias="TutorialAlternateQuen" 						path="gameplay\journal\tutorial\alternatequen.journal"/>
+	<res alias="TutorialAlternateAxii" 						path="gameplay\journal\tutorial\alternateaxii.journal"/>
+	<res alias="TutorialAlternateYrden" 					path="gameplay\journal\tutorial\alternateyrden.journal"/>
+	<res alias="TutorialAlternateAardPC" 					path="gameplay\journal\tutorial\alternateaardpc.journal"/>
+	<res alias="TutorialAlternateIgniPC" 					path="gameplay\journal\tutorial\alternateignipc.journal"/>
+	<res alias="TutorialAlternateQuenPC" 					path="gameplay\journal\tutorial\alternatequenpc.journal"/>
+	<res alias="TutorialAlternateAxiiPC" 					path="gameplay\journal\tutorial\alternateaxiipc.journal"/>
+	<res alias="TutorialAlternateYrdenPC" 					path="gameplay\journal\tutorial\alternateyrdenpc.journal"/>
 	
 	<!-- armor sockets -->
 	<res alias="TutorialArmorSocketsInfo" 					path="gameplay\journal\tutorial\armorsocketsinfo.journal"/>
@@ -576,7 +608,20 @@
 	<res alias="TutorialBooksSelectBook" 					path="gameplay\journal\tutorial\booksselectbook.journal"/>
 	<res alias="TutorialBooksUse" 							path="gameplay\journal\tutorial\booksuse.journal"/>
 	<res alias="TutorialBooksUse_pad" 						path="gameplay\journal\tutorial\booksusepad.journal"/>
-		
+	
+	<!-- new books tutorial -->
+	<res alias="TutorialBooksOpenCommonMenu" 						path="gameplay\journal\tutorial\booksopencommonmenu.journal"/>
+	<res alias="TutorialBooksOpenCommonMenu_ps4"					path="gameplay\journal\tutorial\booksopencommonmenups4.journal"/>
+	<res alias="TutorialBooksSelectGlossary"						path="gameplay\journal\tutorial\booksselectglossary.journal"/>
+	<res alias="TutorialBooksOpenBooks" 							path="gameplay\journal\tutorial\booksopenbooks.journal"/>
+	<res alias="TutorialBooksPanel" 								path="gameplay\journal\tutorial\bookspanel.journal"/>
+	<res alias="TutorialBooksNavigation" 							path="gameplay\journal\tutorial\booksnavigation.journal"/>
+	<res alias="TutorialBooksQuickRead" 							path="gameplay\journal\tutorial\booksquickread.journal"/>
+	<res alias="TutorialJournalBooks" 								path="gameplay\journal\tutorial\jebooks.journal"/>
+	<res alias="TutorialJournalBooks_pad" 							path="gameplay\journal\tutorial\jebookspad.journal"/>
+	<res alias="TutorialBooksReadingMultiple" 						path="gameplay\journal\tutorial\booksreadingmultiple.journal"/>
+	<res alias="TutorialBooksReadingMultiple_pad"					path="gameplay\journal\tutorial\booksreadingmultiplepad.journal"/>
+	
 	<!-- buffs -->
 	<res alias="TutorialBuffs" 								path="gameplay\journal\tutorial\buffs.journal"/>
 	<res alias="TutorialJournalBuffs" 						path="gameplay\journal\tutorial\jebuffs.journal"/>
@@ -591,6 +636,9 @@
 	<res alias="TutorialCiriCharge_pad" 					path="gameplay\journal\tutorial\cirichargepad.journal"/>
 	<res alias="TutorialCiriBlink" 							path="gameplay\journal\tutorial\ciriblink.journal"/>
 	<res alias="TutorialCiriStamina" 						path="gameplay\journal\tutorial\ciristamina.journal"/>	
+	
+	<!-- clearing potion in NG+ -->
+	<res alias="TutorialClearingPotionNGP" 					path="gameplay\journal\tutorial\clearingpotionngp.journal"/>
 	
 	<!-- containers -->
 	<res alias="TutorialContainers" 						path="gameplay\journal\tutorial\containers.journal"/>
@@ -611,7 +659,13 @@
 	<res alias="TutorialCraftingCraftsmen" 					path="gameplay\journal\tutorial\craftingcraftsmen.journal"/>	
 	<res alias="TutorialCraftingSets" 						path="gameplay\journal\tutorial\craftingsets.journal"/>
 	
-
+	<!-- crafting NEW UI -->
+	<res alias="TutorialCraftingBuy" 						path="gameplay\journal\tutorial\craftingbuy.journal"/>
+	<res alias="TutorialCraftingLayers" 					path="gameplay\journal\tutorial\craftinglayers.journal"/>
+	
+	<!-- crafting pin -->
+	<res alias="TutorialCraftingPin" 						path="gameplay\journal\tutorial\craftingpin.journal"/>
+	<res alias="TutorialCraftingPin2" 						path="gameplay\journal\tutorial\craftingpin2.journal"/>
 	
 	<!-- crossbow underwater -->
 	<res alias="TutorialCrossbowUnderwater" 				path="gameplay\journal\tutorial\crossbowunderwater.journal"/>	
@@ -644,6 +698,9 @@
 	
 	<!-- escaping combat -->
 	<res alias="TutorialCombatEscape" 						path="gameplay\journal\tutorial\combatescape.journal"/>
+	
+	<!-- falling roll -->
+	<res alias="TutorialFallingRoll" 						path="gameplay\journal\tutorial\fallingroll.journal"/>
 	
 	<!-- fast travel -->
 	<res alias="TutorialFastTravelInteraction" 				path="gameplay\journal\tutorial\fasttravel.journal"/>
@@ -681,6 +738,9 @@
 	<res alias="TutorialRadialClose" 						path="gameplay\journal\tutorial\radialclose.journal"/>
 	<res alias="TutorialRadialClose_pad" 					path="gameplay\journal\tutorial\radialclosepad.journal"/>
 	
+	<!-- HUD new -->
+	<res alias="TutorialNotTrackedQuestUpdate" 				path="gameplay\journal\tutorial\nottrackedquestupdate.journal"/>
+	
 	<!-- illusion medallion -->
 	<res alias="TutorialIllusionMedallion" 					path="gameplay\journal\tutorial\illusionmedallion.journal"/>
 	
@@ -693,6 +753,25 @@
 	<res alias="TutorialInventoryStatsMore_pad" 			path="gameplay\journal\tutorial\inventorystatsmorepad.journal"/>
 	<res alias="TutorialInventoryEquipping" 				path="gameplay\journal\tutorial\inventoryequipping.journal"/>
 	<res alias="TutorialInventoryEquipping_pad" 			path="gameplay\journal\tutorial\inventoryequippingpad.journal"/>
+	
+	<!-- new inventory -->
+	<res alias="TutorialNewInvTabCrafting" 							path="gameplay\journal\tutorial\newinvtabcrafting.journal"/>
+	<res alias="TutorialNewInvTabQuest" 							path="gameplay\journal\tutorial\newinvtabquest.journal"/>
+	<res alias="TutorialNewInvTabMisc" 								path="gameplay\journal\tutorial\newinvtabmisc.journal"/>
+	<res alias="TutorialNewInvTabAlchemy" 							path="gameplay\journal\tutorial\newinvtabalchemy.journal"/>
+	<res alias="TutorialNewInvTabWeapons" 							path="gameplay\journal\tutorial\newinvtabweapons.journal"/>
+	<res alias="TutorialNewInvTooltips" 							path="gameplay\journal\tutorial\newinvtooltips.journal"/>
+	<res alias="TutorialNewInvTooltips_pad" 						path="gameplay\journal\tutorial\newinvtooltipspad.journal"/>
+	<res alias="TutorialNewInvPreview" 								path="gameplay\journal\tutorial\newinvpreview.journal"/>
+	<res alias="TutorialNewInvPreview2" 							path="gameplay\journal\tutorial\newinvpreview2.journal"/>
+	<res alias="TutorialNewInvSorting" 								path="gameplay\journal\tutorial\newinvsorting.journal"/>
+	<res alias="TutorialNewInvGeekpage" 							path="gameplay\journal\tutorial\newinvgeekpage.journal"/>
+	
+	<!-- new geekpage -->
+	<res alias="TutorialGeekpageStats" 								path="gameplay\journal\tutorial\geekpagestats.journal"/>
+	<res alias="TutorialGeekpageSubStats" 							path="gameplay\journal\tutorial\geekpagesubstats.journal"/>
+	<res alias="TutorialGeekpageControls" 							path="gameplay\journal\tutorial\geekpagecontrols.journal"/>
+	<res alias="TutorialGeekpageControls_pad" 						path="gameplay\journal\tutorial\geekpagecontrolspad.journal"/>
 	
 	<!-- journal panel -->
 	<res alias="TutorialJournalQuests" 						path="gameplay\journal\tutorial\journalquests.journal"/>
@@ -800,6 +879,11 @@
 	<res alias="TutorialJournalPotions"						path="gameplay\journal\tutorial\jepotions.journal"/>
 	<res alias="TutorialJournalPotions_pad"					path="gameplay\journal\tutorial\jepotionspad.journal"/>
 	
+	<!-- radial menu patch 1.2 -->
+	<res alias="TutorialRadialSelectItems"					path="gameplay\journal\tutorial\radialselectitems.journal"/>
+	<res alias="TutorialRadialSelectBolts"					path="gameplay\journal\tutorial\radialselectbolts.journal"/>
+	<res alias="TutorialRadialBuffs"						path="gameplay\journal\tutorial\radialbuffs.journal"/>
+	
 	<!-- recipes reading -->
 	<res alias="TutorialRecipesOpenInv" 					path="gameplay\journal\tutorial\recipesopeninv.journal"/>
 	<res alias="TutorialRecipesOpenInv_ps4" 				path="gameplay\journal\tutorial\recipesopeninvps4.journal"/>
@@ -844,6 +928,9 @@
 	<res alias="TutorialStaminaExploration" 				path="gameplay\journal\tutorial\staminaexploration.journal"/>
 	<res alias="TutorialJournalStaminaExploration" 			path="gameplay\journal\tutorial\jestaminaexploration.journal"/>
 	
+	<!-- stash -->
+	<res alias="TutorialStash"					 			path="gameplay\journal\tutorial\stash.journal"/>
+	
 	<!-- staling -->
 	<res alias="TutorialStealing" 							path="gameplay\journal\tutorial\stealing.journal"/>
 	
@@ -880,6 +967,23 @@
 	<res alias="TutorialMapNavigate" 						path="gameplay\journal\tutorial\mapnavigate.journal"/>	
 	<res alias="TutorialMapNavigate_pad" 					path="gameplay\journal\tutorial\mapnavigatepad.journal"/>	
 	<res alias="TutorialMapQuestPins" 						path="gameplay\journal\tutorial\mapquestpins.journal"/>	
+	
+	<!-- world map new -->
+	<res alias="TutorialMapObjectives" 						path="gameplay\journal\tutorial\mapobjectives.journal"/>	
+	<res alias="TutorialMapAreaMap" 						path="gameplay\journal\tutorial\mapareamap.journal"/>
+	<res alias="TutorialMapToContinent" 					path="gameplay\journal\tutorial\maptocontinent.journal"/>
+	<res alias="TutorialMapBackToHub" 						path="gameplay\journal\tutorial\mapbacktohub.journal"/>
+	<res alias="TutorialMapToAnyHub" 						path="gameplay\journal\tutorial\maptoanyhub.journal"/>
+	<res alias="TutorialMapPins" 							path="gameplay\journal\tutorial\mappins.journal"/>
+	<res alias="TutorialMapPinsCustom" 						path="gameplay\journal\tutorial\mappinscustom.journal"/>
+	<res alias="TutorialMapPinsCustom_pad" 					path="gameplay\journal\tutorial\mappinscustompad.journal"/>
+	<res alias="TutorialMapPinsMaxCount" 					path="gameplay\journal\tutorial\mappinsmaxcount.journal"/>	
+	<res alias="TutorialMapFiltersSelect" 					path="gameplay\journal\tutorial\mapfiltersselect.journal"/>
+	<res alias="TutorialMapFiltersSelect_pad"				path="gameplay\journal\tutorial\mapfiltersselectpad.journal"/>
+	<res alias="TutorialMapFiltersCustomize" 				path="gameplay\journal\tutorial\mapfilterscustomize.journal"/>
+	<res alias="TutorialMapFiltersCustomize_pad" 			path="gameplay\journal\tutorial\mapfilterscustomizepad.journal"/>
+	<res alias="TutorialMapFiltersPinJumping" 				path="gameplay\journal\tutorial\mapfilterspinjumping.journal"/>
+	<res alias="TutorialMapFiltersPinJumping_pad" 			path="gameplay\journal\tutorial\mapfilterspinjumpingpad.journal"/>
 	
 	<!-- wrong sword -->
 	<res alias="TutorialWrongSwordSteel" 					path="gameplay\journal\tutorial\wrongswordsteel.journal"/>
@@ -938,7 +1042,6 @@
 	<res alias="swallow"									path="characters\npc_entities\animals\swallow.w2ent" />
 	<res alias="toad"										path="characters\npc_entities\animals\toad.w2ent" />
 	<res alias="whale"										path="characters\npc_entities\animals\whale.w2ent" chunk="content4" />
-	
 	<!-- TESTING -->
 	<!-- geralt inventory (only for dev testing) -->	
 	<res alias="geralt_inventory_internal"					path="characters\player_entities\geralt\geralt_inventory_internal.w2ent" />
@@ -1052,7 +1155,7 @@
 	<res alias="endriaga_worker" 							path="characters\npc_entities\monsters\endriaga_lvl1__worker.w2ent" />
 	<res alias="endriaga_tailed" 							path="characters\npc_entities\monsters\endriaga_lvl2__tailed.w2ent" />
 	<res alias="endriaga_spikey" 							path="characters\npc_entities\monsters\endriaga_lvl3__spikey.w2ent" chunk="content4"/>
-	<res alias="wight" 										path="characters\npc_entities\monsters\wraith_lvl1.w2ent" />
+	<res alias="wraith_lvl1" 								path="characters\npc_entities\monsters\wraith_lvl1.w2ent" />
 	<res alias="wyvern" 									path="characters\npc_entities\monsters\wyvern_lvl1.w2ent" />
 	<res alias="basilisk" 									path="characters\npc_entities\monsters\basilisk_lvl1.w2ent" chunk="content4" />
 	<res alias="harpy" 										path="characters\npc_entities\monsters\harpy_lvl1.w2ent"  chunk="content4" />				
@@ -1215,7 +1318,7 @@
 	<res alias="wolf_lvl2__alpha"							path="characters\npc_entities\monsters\wolf_lvl2__alpha.w2ent" chunk="content4" />
 	<res alias="wolf_white_lvl2"							path="characters\npc_entities\monsters\wolf_white_lvl2.w2ent" chunk="content4" />
 	<res alias="wolf_white_lvl3__alpha"						path="characters\npc_entities\monsters\wolf_white_lvl3__alpha.w2ent" chunk="content4" />
-	<res alias="wraith_lvl1"								path="characters\npc_entities\monsters\wraith_lvl1.w2ent" />
+	<!-- <res alias="wraith_lvl1"								path="characters\npc_entities\monsters\wraith_lvl1.w2ent" /> --> 
 	<res alias="wraith_mh"									path="characters\npc_entities\monsters\wraith_mh.w2ent" chunk="content4" />
 	<res alias="wyvern_lvl1"								path="characters\npc_entities\monsters\wyvern_lvl1.w2ent"/>
 	<res alias="wyvern_lvl2"								path="characters\npc_entities\monsters\wyvern_lvl2.w2ent" chunk="content4" />
@@ -1232,7 +1335,7 @@
 	<res alias="_quest__witch_1"							path="characters\npc_entities\monsters\_quest__witch_1.w2ent" chunk="content4" />
 	<res alias="_quest__witch_2"							path="characters\npc_entities\monsters\_quest__witch_2.w2ent" chunk="content4" />
 	<res alias="_quest__witch_3"							path="characters\npc_entities\monsters\_quest__witch_3.w2ent" chunk="content4" />
-	
+	<res alias="red_miasmal"								path="quests\minor_quests\no_mans_land\quest_files\mq1060_devils_pit\characters\mq1060_evil_spirit.w2ent" />
 	
 	<!-- wild hunt -->
 	<res alias="wildhunt_sword"								path="gameplay\templates\characters\presets\wild_hunt\wlh_2h_sword.w2ent" chunk="content4"/>
@@ -1248,7 +1351,6 @@
 	<res alias="wildhunt_minion"							path="characters\npc_entities\monsters\wildhunt_minion_lvl2.w2ent" chunk="content4" />
 	<res alias="wild_hunt_minion"							path="characters\npc_entities\monsters\wildhunt_minion_lvl2.w2ent" chunk="content4" />
 	
-	
 	<!-- bosses -->
 	<res alias="witch1"										path="characters\npc_entities\monsters\_quest__witch_1.w2ent" chunk="content4" />
 	<res alias="witch_1"									path="characters\npc_entities\monsters\_quest__witch_1.w2ent" chunk="content4" />
@@ -1258,12 +1360,12 @@
 	<res alias="witch_3"									path="characters\npc_entities\monsters\_quest__witch_3.w2ent" chunk="content4"  />
 	<res alias="witch_q105"									path="quests\main_npcs\witch_weavess.w2ent" chunk="content4"  />
 	
-	
 	<res alias="eredin"										path="gameplay\templates\characters\npcs\enemy_eredin.w2ent" chunk="content4" />
 	<res alias="imlerith"									path="gameplay\templates\characters\npcs\enemy_imlerith.w2ent" chunk="content4"  />
 	<res alias="caranthir"									path="quests\main_npcs\canaris.w2ent" chunk="content4"  />
 	
 	<!-- ai -->
+	
 	<res alias="ai\internal\scripted_actions"	path="gameplay\trees\internal\scripted_actions.w2behtree" />
 	<res alias="ai\internal\despawn"			path="gameplay\trees\internal\despawn.w2behtree" />
 	<res alias="ai\animal_base" path="gameplay\trees\animal_base.w2behtree" />
@@ -1324,7 +1426,6 @@
 	<res alias="ai\combat\npc_special_magic_push" path="gameplay\trees\combat\npc_special_magic_push.w2behtree" />
 	<res alias="ai\combat\npc_special_shoot_attached_entities" path="gameplay\trees\combat\npc_special_shoot_attached_entities.w2behtree" />
 	<res alias="ai\combat\npc_special_shoot_projectiles_from_ground" path="gameplay\trees\combat\npc_special_shoot_projectiles_from_ground.w2behtree" />
-	
 	<res alias="ai\combat\npc_tactic_holdground" path="gameplay\trees\combat\npc_tactic_holdground.w2behtree" />
 	<res alias="ai\combat\npc_tactic_holdground_ranged" path="gameplay\trees\combat\npc_tactic_holdground_ranged.w2behtree" />
 	<res alias="ai\combat\npc_tactic_eredin" path="gameplay\trees\combat\npc_tactic_eredin.w2behtree" />
@@ -1416,6 +1517,7 @@
 	<res alias="ai\monsters/monster_ice_giant_logic" path="gameplay\trees\monsters/monster_ice_giant_logic.w2behtree" />
 	<res alias="ai\monsters/monster_katakan_logic" path="gameplay\trees\monsters/monster_katakan_logic.w2behtree" />
 	<res alias="ai\monsters/monster_lessog_logic" path="gameplay\trees\monsters/monster_lessog_logic.w2behtree" />
+	<res alias="ai\monsters/monster_red_plague_logic" path="gameplay\trees\monsters/monster_red_plague_logic.w2behtree" />
 	<res alias="ai\monsters/monster_nekker_logic" path="gameplay\trees\monsters/monster_nekker_logic.w2behtree" />
 	<res alias="ai\monsters/monster_noonwraith_logic" path="gameplay\trees\monsters/monster_noonwraith_logic.w2behtree" />
 	<res alias="ai\monsters/monster_pesta_logic" path="gameplay\trees\monsters/monster_pesta_logic.w2behtree" />
@@ -1555,8 +1657,9 @@
 	<res alias="ai\combat\npc_def_caranthir_counter"		path="gameplay\trees\combat\npc_def_caranthir_counter.w2behtree" />
 	<res alias="ai\combat\npc_def_caranthir_ice_armor"		path="gameplay\trees\combat\npc_def_caranthir_ice_armor.w2behtree" />
 	<res alias="ai\combat\custom_caranthir_precombat"		path="gameplay\trees\scripted_actions\custom\custom_caranthir_precombat.w2behtree" />
-	
-	
+
+	<!-- NGE Toad -->
+	<res alias="ai\idle\toad_idle_decorator" path="gameplay\trees\idle\frog_idle_decorator.w2behtree" />
 	
 	<!-- player inventories for preview -->
 	<res alias="preview_inventory_default" 					path="characters\player_entities\geralt\geralt_inventory_debug\geralt_inventory_debug__default.w2ent" />
@@ -1593,5 +1696,4 @@
 	<res alias="yennefer_bubble_2"							path="quests\part_2\quest_files\q403_battle\entities\q403_yen_bubble_2.w2ent"/>
 	<res alias="yennefer_bubble_3"							path="quests\part_2\quest_files\q403_battle\entities\q403_yen_bubble_3.w2ent"/>
 	<res alias="denied_area"								path="gameplay\explorations_reference_entiti\box_250cm.w2ent"/>
-
 </resources>

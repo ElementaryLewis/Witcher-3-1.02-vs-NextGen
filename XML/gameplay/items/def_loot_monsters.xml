@@ -11,21 +11,9 @@
 		<loot_entry name="Bear fat"									player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="30"		respawn_time="0"	/>
 		<loot_entry name="Bear pelt"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="30"		respawn_time="0"	/>
 		<loot_entry name="Raw meat"									player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="19"		respawn_time="0"	/>
-		<loot_entry name="Monstrous brain"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="1"		respawn_time="0"	/>
-		<loot_entry name="Monstrous blood"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="1"		respawn_time="0"	/>
-		<loot_entry name="Monstrous bone"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="1"		respawn_time="0"	/>
-		<loot_entry name="Monstrous claw"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="1"		respawn_time="0"	/>
-		<loot_entry name="Monstrous ear"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="1"		respawn_time="0"	/>
-		<loot_entry name="Monstrous eye"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="1"		respawn_time="0"	/>
-		<loot_entry name="Monstrous hair"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="1"		respawn_time="0"	/>
-		<loot_entry name="Monstrous heart"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="1"		respawn_time="0"	/>
-		<loot_entry name="Monstrous liver"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="1"		respawn_time="0"	/>
-		<loot_entry name="Monstrous saliva"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="1"		respawn_time="0"	/>
-		<loot_entry name="Monstrous tongue"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="1"		respawn_time="0"	/>
-		<loot_entry name="Monstrous tooth"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="1"		respawn_time="0"	/>
 	</loot>
 
-	<loot name="_monster__White bear"								player_level_min="0"	player_level_max="0"	quantity_min="2"	quantity_max="4"	chance="-1"							>
+	<loot name="_monster__White bear"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="3"	chance="-1"							>
 		<loot_entry name="Bear fat"									player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="30"		respawn_time="0"	/>
 		<loot_entry name="White bear pelt"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="30"		respawn_time="0"	/>
 		<loot_entry name="Raw meat"									player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="19"		respawn_time="0"	/>
@@ -43,7 +31,7 @@
 		<loot_entry name="Monstrous tooth"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="1"		respawn_time="0"	/>
 	</loot>
 
-	<loot name="_monster__Bear berserker"							player_level_min="0"	player_level_max="0"	quantity_min="3"	quantity_max="4"	chance="-1"							>
+	<loot name="_monster__Bear berserker"							player_level_min="0"	player_level_max="0"	quantity_min="2"	quantity_max="4"	chance="-1"							>
 		<loot_entry name="Berserker pelt"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="30"		respawn_time="0"	/>
 		<loot_entry name="Bear fat"									player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="30"		respawn_time="0"	/>
 		<loot_entry name="Raw meat"									player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="19"		respawn_time="0"	/>
@@ -61,12 +49,12 @@
 		<loot_entry name="Monstrous tooth"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="1"		respawn_time="0"	/>
 	</loot>
 
-	<loot name="_monster__Wild Dog"									player_level_min="0"	player_level_max="0"	quantity_min="0"	quantity_max="1"	chance="-1"							>
+	<loot name="_monster__Wild Dog"									player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"							>
 		<loot_entry name="Dog tallow"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="1"		respawn_time="0"	/>
 		<loot_entry name="Raw meat"									player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="1"		respawn_time="0"	/>
 	</loot>
 
-	<loot name="_monster__Wolf"										player_level_min="0"	player_level_max="0"	quantity_min="0"	quantity_max="1"	chance="-1"							>
+	<loot name="_monster__Wolf"										player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"							>
 		<loot_entry name="Dog tallow"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="10"		respawn_time="0"	/>
 		<loot_entry name="Raw meat"									player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="5"		respawn_time="0"	/>
 		<loot_entry name="Wolf liver"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="4"		respawn_time="0"	/>
@@ -80,21 +68,21 @@
 		<loot_entry name="Wolf pelt"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="2"		respawn_time="0"	/>
 	</loot>
 
-	<loot name="_monster__White Wolf"								player_level_min="0"	player_level_max="0"	quantity_min="0"	quantity_max="5"	chance="-1"							>
-		<loot_entry name="Dog tallow"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="10"		respawn_time="0"	/>
-		<loot_entry name="Wolf liver"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="5"		respawn_time="0"	/>
-		<loot_entry name="Raw meat"									player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="4"		respawn_time="0"	/>
-		<loot_entry name="White wolf pelt"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="1"		respawn_time="0"	/>
+	<loot name="_monster__White Wolf"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="2"	chance="-1"							>
+		<loot_entry name="Dog tallow"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="4"		respawn_time="0"	/>
+		<loot_entry name="Wolf liver"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="2"		respawn_time="0"	/>
+		<loot_entry name="Raw meat"									player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="2"		respawn_time="0"	/>
+		<loot_entry name="White wolf pelt"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="2"		respawn_time="0"	/>
 	</loot>
 
 <!-- ARACHAS -->
 
 	<loot name="_monster__Arachas"									player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="2"	chance="-1"							>
-		<loot_entry name="Arachas eyes"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="25"		respawn_time="0"	/>
-		<loot_entry name="Arachas venom"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="25"		respawn_time="0"	/>
-		<loot_entry name="Chitin scale"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="2"	chance="25"		respawn_time="0"	/>
-		<loot_entry name="Monstrous heart"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="13"		respawn_time="0"	/>
-		<loot_entry name="Monstrous saliva"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="12"		respawn_time="0"	/>
+		<loot_entry name="Arachas eyes"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="35"		respawn_time="0"	/>
+		<loot_entry name="Arachas venom"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="35"		respawn_time="0"	/>
+		<loot_entry name="Chitin scale"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="2"	chance="10"		respawn_time="0"	/>
+		<loot_entry name="Monstrous heart"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="10"		respawn_time="0"	/>
+		<loot_entry name="Monstrous saliva"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="10"		respawn_time="0"	/>
 	</loot>
 
 	<loot name="_monster__Armored Arachas"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="3"	chance="-1"							>
@@ -105,8 +93,8 @@
 	</loot>
 
 	<loot name="_monster__Poison Arachas"							player_level_min="0"	player_level_max="0"	quantity_min="2"	quantity_max="3"	chance="-1"							>
+		<loot_entry name="Arachas venom"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"		respawn_time="0"	/>
 		<loot_entry name="Arachas eyes"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="25"		respawn_time="0"	/>
-		<loot_entry name="Arachas venom"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="25"		respawn_time="0"	/>
 		<loot_entry name="Chitin scale"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="2"	chance="20"		respawn_time="0"	/>
 		<loot_entry name="Monstrous heart"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="10"		respawn_time="0"	/>
 		<loot_entry name="Monstrous saliva"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="10"		respawn_time="0"	/>
@@ -250,7 +238,7 @@
 		<loot_entry name="Shell"									player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="2"	chance="30"		respawn_time="0"	/>
 		<loot_entry name="Seashell"									player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="25"		respawn_time="0"	/>
 		<loot_entry name="Drowner brain"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="11"		respawn_time="0"	/>
-		<loot_entry name="Drowned dead tongue"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="10"		respawn_time="0"	/>
+		<loot_entry name="Drowned dead tongue"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"		respawn_time="0"	/>
 		<loot_entry name="Monstrous blood"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="3"		respawn_time="0"	/>
 		<loot_entry name="Monstrous bone"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="3"		respawn_time="0"	/>
 		<loot_entry name="Monstrous claw"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="3"	chance="3"		respawn_time="0"	/>
@@ -263,7 +251,7 @@
 
 	<loot name="Drowner Nest Boss"									player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="3"	chance="-1"							>
 		<loot_entry name="Drowner brain"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="25"		respawn_time="0"	/>
-		<loot_entry name="Drowned dead tongue"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="25"		respawn_time="0"	/>
+		<loot_entry name="Drowned dead tongue"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"		respawn_time="0"	/>
 		<loot_entry name="Shell"									player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="2"	chance="20"		respawn_time="0"	/>
 		<loot_entry name="Seashell"									player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="10"		respawn_time="0"	/>
 		<loot_entry name="Lesser mutagen blue"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="5"		respawn_time="0"	/>
@@ -326,11 +314,11 @@
 		<loot_entry name="Monstrous tooth"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="3"	chance="6"		respawn_time="0"	/>
 	</loot>
 
-	<loot name="Endriaga Nest Boss"									player_level_min="0"	player_level_max="0"	quantity_min="2"	quantity_max="3"	chance="-1"							>
+	<loot name="Endriaga Nest Boss"									player_level_min="0"	player_level_max="0"	quantity_min="3"	quantity_max="4"	chance="-1"							>
+		<loot_entry name="Endriag embryo"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"		respawn_time="0"	/>
 		<loot_entry name="Endriag chitin plates"					player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="35"		respawn_time="0"	/>
 		<loot_entry name="Endriag heart"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="20"		respawn_time="0"	/>
 		<loot_entry name="Glyph yrden lesser"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="10"		respawn_time="0"	/>
-		<loot_entry name="Endriag embryo"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="15"		respawn_time="0"	/>
 		<loot_entry name="Lesser mutagen green"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="10"		respawn_time="0"	/>
 		<loot_entry name="Venom extract"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="2"		respawn_time="0"	/>
 		<loot_entry name="Chitin scale"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="2"	chance="2"		respawn_time="0"	/>
@@ -405,7 +393,7 @@
 
 <!-- FOGLING -->
 	<loot name="_monster__Foglet"									player_level_min="0"	player_level_max="0"	quantity_min="2"	quantity_max="4"	chance="-1"							>
-		<loot_entry name="Fogling teeth"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="17"		respawn_time="0"	/>
+		<loot_entry name="Fogling teeth"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"		respawn_time="0"	/>
 		<loot_entry name="Fogling 1 mutagen"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="10"		respawn_time="0"	/>
 		<loot_entry name="Monstrous brain"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="4"		respawn_time="0"	/>
 		<loot_entry name="Monstrous blood"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="4"		respawn_time="0"	/>
@@ -435,8 +423,8 @@
 <!-- GHOUL -->
 
 	<loot name="Ghoul Nest"											player_level_min="0"	player_level_max="0"	quantity_min="2"	quantity_max="4"	chance="-1"							>
-		<loot_entry name="Ghoul blood"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="25"		respawn_time="0"	/>
-		<loot_entry name="Alghoul bone marrow"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="25"		respawn_time="0"	/>
+		<loot_entry name="Ghoul blood"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"		respawn_time="0"	/>
+		<loot_entry name="Alghoul bone marrow"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"		respawn_time="0"	/>
 		<loot_entry name="Gold ruby ring"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="15"		respawn_time="0"	/>
 		<loot_entry name="Skull"									player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="4"	chance="15"		respawn_time="0"	/>
 		<loot_entry name="Monstrous claw"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="3"	chance="10"		respawn_time="0"	/>
@@ -444,8 +432,8 @@
 	</loot>
 
 	<loot name="Ghoul Nest Boss"									player_level_min="0"	player_level_max="0"	quantity_min="2"	quantity_max="3"	chance="-1"							>
+		<loot_entry name="Ghoul blood"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"		respawn_time="0"	/>
 		<loot_entry name="Lesser mutagen blue"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="25"		respawn_time="0"	/>
-		<loot_entry name="Ghoul blood"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="20"		respawn_time="0"	/>
 		<loot_entry name="Monstrous brain"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="5"		respawn_time="0"	/>
 		<loot_entry name="Monstrous bone"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="5"		respawn_time="0"	/>
 		<loot_entry name="Monstrous claw"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="3"	chance="5"		respawn_time="0"	/>
@@ -459,19 +447,19 @@
 		<loot_entry name="Monstrous tooth"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="3"	chance="5"		respawn_time="0"	/>
 	</loot>
 
-	<loot name="_monster__Ghoul"									player_level_min="0"	player_level_max="0"	quantity_min="0"	quantity_max="2"	chance="-1"							>
-		<loot_entry name="Ghoul blood"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="40"		respawn_time="0"	/>
-		<loot_entry name="Venom extract"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="40"		respawn_time="0"	/>
-		<loot_entry name="Monstrous brain"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="2"		respawn_time="0"	/>
-		<loot_entry name="Monstrous bone"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="2"		respawn_time="0"	/>
-		<loot_entry name="Monstrous claw"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="3"	chance="2"		respawn_time="0"	/>
-		<loot_entry name="Monstrous ear"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="2"		respawn_time="0"	/>
-		<loot_entry name="Monstrous eye"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="2"		respawn_time="0"	/>
-		<loot_entry name="Monstrous heart"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="2"		respawn_time="0"	/>
-		<loot_entry name="Monstrous liver"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="2"		respawn_time="0"	/>
-		<loot_entry name="Monstrous saliva"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="2"	chance="2"		respawn_time="0"	/>
-		<loot_entry name="Monstrous tongue"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="2"		respawn_time="0"	/>
-		<loot_entry name="Monstrous tooth"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="3"	chance="2"		respawn_time="0"	/>
+	<loot name="_monster__Ghoul"									player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="2"	chance="-1"							>
+		<loot_entry name="Ghoul blood"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"		respawn_time="0"	/>
+		<loot_entry name="Venom extract"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="30"		respawn_time="0"	/>
+		<loot_entry name="Monstrous brain"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="3"		respawn_time="0"	/>
+		<loot_entry name="Monstrous bone"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="3"		respawn_time="0"	/>
+		<loot_entry name="Monstrous claw"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="3"	chance="3"		respawn_time="0"	/>
+		<loot_entry name="Monstrous ear"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="3"		respawn_time="0"	/>
+		<loot_entry name="Monstrous eye"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="3"		respawn_time="0"	/>
+		<loot_entry name="Monstrous heart"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="3"		respawn_time="0"	/>
+		<loot_entry name="Monstrous liver"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="3"		respawn_time="0"	/>
+		<loot_entry name="Monstrous saliva"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="2"	chance="3"		respawn_time="0"	/>
+		<loot_entry name="Monstrous tongue"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="3"		respawn_time="0"	/>
+		<loot_entry name="Monstrous tooth"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="3"	chance="3"		respawn_time="0"	/>
 		<loot_entry name="Monstrous hide"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="1"		respawn_time="0"	/>
 	</loot>
 
@@ -536,7 +524,7 @@
 <!-- GOLEM -->
 
 	<loot name="_monster__Golem"									player_level_min="0"	player_level_max="0"	quantity_min="3"	quantity_max="3"	chance="-1"							>
-		<loot_entry name="Golem heart"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="35"		respawn_time="0"	/>
+		<loot_entry name="Golem heart"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"		respawn_time="0"	/>
 		<loot_entry name="Monstrous essence"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="35"		respawn_time="0"	/>
 		<loot_entry name="Rune stribog lesser"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="11"		respawn_time="0"	/>
 		<loot_entry name="Infused dust"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="2"	chance="10"		respawn_time="0"	/>
@@ -546,7 +534,7 @@
 	</loot>
 
 	<loot name="_monster__Ifrit"									player_level_min="0"	player_level_max="0"	quantity_min="3"	quantity_max="5"	chance="-1"							>
-		<loot_entry name="Golem heart"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="35"		respawn_time="0"	/>
+		<loot_entry name="Golem heart"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"		respawn_time="0"	/>
 		<loot_entry name="Elemental essence"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="2"	chance="35"		respawn_time="0"	/>
 		<loot_entry name="Rune dazhbog greater"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="11"		respawn_time="0"	/>
 		<loot_entry name="Infused shard"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="2"	chance="10"		respawn_time="0"	/>
@@ -556,7 +544,7 @@
 	</loot>
 
 	<loot name="_monster__Simulakrum"								player_level_min="0"	player_level_max="0"	quantity_min="3"	quantity_max="5"	chance="-1"							>
-		<loot_entry name="Golem heart"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="35"		respawn_time="0"	/>
+		<loot_entry name="Golem heart"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"		respawn_time="0"	/>
 		<loot_entry name="Elemental essence"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="2"	chance="35"		respawn_time="0"	/>
 		<loot_entry name="Rune stribog greater"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="11"		respawn_time="0"	/>
 		<loot_entry name="Infused crystal"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="10"		respawn_time="0"	/>
@@ -773,20 +761,20 @@
 <!-- NEKKER -->
 
 	<loot name="Nekker Nest"										player_level_min="0"	player_level_max="0"	quantity_min="4"	quantity_max="5"	chance="-1"							>
+		<loot_entry name="Nekker heart"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"		respawn_time="0"	/>
 		<loot_entry name="Nekker blood"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="20"		respawn_time="0"	/>
 		<loot_entry name="Nekker claw"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="20"		respawn_time="0"	/>
 		<loot_entry name="Nekker eye"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="20"		respawn_time="0"	/>
-		<loot_entry name="Nekker heart"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="20"		respawn_time="0"	/>
 		<loot_entry name="Skull"									player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="10"		respawn_time="0"	/>
 		<loot_entry name="Crystalized essence"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="10"		respawn_time="0"	/>
 	</loot>
 
-	<loot name="Nekker Nest Boss"									player_level_min="0"	player_level_max="0"	quantity_min="2"	quantity_max="2"	chance="-1"							>
+	<loot name="Nekker Nest Boss"									player_level_min="0"	player_level_max="0"	quantity_min="2"	quantity_max="4"	chance="-1"							>
 		<loot_entry name="Nekker warrior liver"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"		respawn_time="0"	/>
+		<loot_entry name="Nekker heart"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"		respawn_time="0"	/>
 		<loot_entry name="Nekker blood"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="20"		respawn_time="0"	/>
 		<loot_entry name="Nekker claw"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="20"		respawn_time="0"	/>
 		<loot_entry name="Nekker eye"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="20"		respawn_time="0"	/>
-		<loot_entry name="Nekker heart"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="20"		respawn_time="0"	/>
 		<loot_entry name="Lesser mutagen blue"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="5"		respawn_time="0"	/>
 		<loot_entry name="Monstrous brain"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="2"		respawn_time="0"	/>
 		<loot_entry name="Monstrous bone"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="2"		respawn_time="0"	/>
@@ -810,10 +798,10 @@
 	</loot>
 
 	<loot name="_monster__Large Nekker"								player_level_min="0"	player_level_max="0"	quantity_min="2"	quantity_max="4"	chance="-1"							>
+		<loot_entry name="Nekker heart"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"		respawn_time="0"	/>
 		<loot_entry name="Nekker blood"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="20"		respawn_time="0"	/>
 		<loot_entry name="Nekker claw"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="20"		respawn_time="0"	/>
 		<loot_entry name="Nekker eye"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="20"		respawn_time="0"	/>
-		<loot_entry name="Nekker heart"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="20"		respawn_time="0"	/>
 		<loot_entry name="Monstrous tongue"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="4"		respawn_time="0"	/>
 		<loot_entry name="Monstrous bone"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="4"		respawn_time="0"	/>
 		<loot_entry name="Monstrous saliva"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="4"		respawn_time="0"	/>
@@ -821,10 +809,10 @@
 		<loot_entry name="Monstrous brain"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="4"		respawn_time="0"	/>
 	</loot>
 
-	<loot name="_monster__Nekker Warrior"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="3"	chance="-1"							>
-		<loot_entry name="Nekker warrior liver"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="15"		respawn_time="0"	/>
+	<loot name="_monster__Nekker Warrior"							player_level_min="0"	player_level_max="0"	quantity_min="2"	quantity_max="3"	chance="-1"							>
+		<loot_entry name="Nekker heart"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"		respawn_time="0"	/>
+		<loot_entry name="Nekker warrior liver"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"		respawn_time="0"	/>
 		<loot_entry name="Nekker claw"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="15"		respawn_time="0"	/>
-		<loot_entry name="Nekker heart"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="15"		respawn_time="0"	/>
 		<loot_entry name="Nekker blood"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="10"		respawn_time="0"	/>
 		<loot_entry name="Monstrous brain"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="5"		respawn_time="0"	/>
 		<loot_entry name="Monstrous bone"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="5"		respawn_time="0"	/>
@@ -839,7 +827,7 @@
 <!-- ROTFIEND -->
 
 	<loot name="Rotfiend Nest"										player_level_min="0"	player_level_max="0"	quantity_min="5"	quantity_max="5"	chance="-1"							>
-		<loot_entry name="Rotfiend blood"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="25"		respawn_time="0"	/>
+		<loot_entry name="Rotfiend blood"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"		respawn_time="0"	/>
 		<loot_entry name="Necrophage skin"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="25"		respawn_time="0"	/>
 		<loot_entry name="Rotten meat"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="15"		respawn_time="0"	/>
 		<loot_entry name="Skull"									player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="15"		respawn_time="0"	/>
@@ -852,7 +840,7 @@
 	</loot>
 
 	<loot name="Rotfiend Nest Boss"									player_level_min="0"	player_level_max="0"	quantity_min="5"	quantity_max="5"	chance="-1"							>
-		<loot_entry name="Rotfiend blood"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="20"		respawn_time="0"	/>
+		<loot_entry name="Rotfiend blood"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"		respawn_time="0"	/>
 		<loot_entry name="Lesser mutagen red"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="20"		respawn_time="0"	/>
 		<loot_entry name="Necrophage skin"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="20"		respawn_time="0"	/>
 		<loot_entry name="Monstrous liver"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="8"		respawn_time="0"	/>
@@ -864,7 +852,7 @@
 		<loot_entry name="Monstrous tooth"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="3"	chance="5"		respawn_time="0"	/>
 	</loot>
 
-	<loot name="_monster__Rotfiend"									player_level_min="0"	player_level_max="0"	quantity_min="0"	quantity_max="2"	chance="-1"							>
+	<loot name="_monster__Rotfiend"									player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="2"	chance="-1"							>
 		<loot_entry name="Rotfiend blood"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"		respawn_time="0"	/>
 		<loot_entry name="Necrophage skin"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="30"		respawn_time="0"	/>
 		<loot_entry name="Monstrous brain"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="6"		respawn_time="0"	/>
@@ -876,7 +864,7 @@
 		<loot_entry name="Monstrous tooth"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="3"	chance="5"		respawn_time="0"	/>
 	</loot>
 
-	<loot name="_monster__Devourer"									player_level_min="0"	player_level_max="0"	quantity_min="0"	quantity_max="2"	chance="-1"							>
+	<loot name="_monster__Devourer"									player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="2"	chance="-1"							>
 		<loot_entry name="Greater Rotfiend blood"					player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"		respawn_time="0"	/>
 		<loot_entry name="Necrophage skin"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="30"		respawn_time="0"	/>
 		<loot_entry name="Monstrous brain"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="6"		respawn_time="0"	/>
@@ -1005,7 +993,7 @@
 
 	<loot name="_monster__Cave troll"								player_level_min="0"	player_level_max="0"	quantity_min="2"	quantity_max="3"	chance="-1"							>
 		<loot_entry name="Troll skin"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"		respawn_time="0"	/>
-		<loot_entry name="Cave Troll liver"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="45"		respawn_time="0"	/>
+		<loot_entry name="Cave Troll liver"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"		respawn_time="0"	/>
 		<loot_entry name="Monstrous brain"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="4"		respawn_time="0"	/>
 		<loot_entry name="Monstrous blood"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="4"		respawn_time="0"	/>
 		<loot_entry name="Monstrous bone"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="4"		respawn_time="0"	/>
@@ -1095,38 +1083,37 @@
 
 <!-- WRAITH -->
 
-	<loot name="_monster__Wraith"									player_level_min="0"	player_level_max="0"	quantity_min="2"	quantity_max="3"	chance="-1"							>
+	<loot name="_monster__Wraith"									player_level_min="0"	player_level_max="0"	quantity_min="2"	quantity_max="4"	chance="-1"							>
 		<loot_entry name="Wraith essence"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"		respawn_time="0"	/>
-		<loot_entry name="Wraith mutagen"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="1"		respawn_time="0"	/>
-		<loot_entry name="Specter dust"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="1"		respawn_time="0"	/>
+		<loot_entry name="Wraith mutagen"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"		respawn_time="0"	/>
+		<loot_entry name="Specter dust"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="3"		respawn_time="0"	/>
 		<loot_entry name="Amethyst dust"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="1"		respawn_time="0"	/>
 		<loot_entry name="Emerald dust"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="1"		respawn_time="0"	/>
 		<loot_entry name="Infused dust"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="2"	chance="1"		respawn_time="0"	/>
 	</loot>
 
 	<loot name="_monster__Nightwraith"								player_level_min="0"	player_level_max="0"	quantity_min="3"	quantity_max="5"	chance="-1"							>
-		<loot_entry name="Nightwraith mutagen"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="10"		respawn_time="0"	/>
-		<loot_entry name="Nightwraith dark essence"					player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"		respawn_time="0"	/>
- 		<loot_entry name="Nightwraiths hair"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"		respawn_time="0"	/>
-		<loot_entry name="Wraith essence"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="25"		respawn_time="0"	/>
-		<loot_entry name="Specter dust"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="2"	chance="25"		respawn_time="0"	/>
-		<loot_entry name="Infused dust"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="2"	chance="20"		respawn_time="0"	/>
-		<loot_entry name="Lunar shards"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="20"		respawn_time="0"	/>
+		<loot_entry name="Nightwraith mutagen"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"		respawn_time="0"	/>
+		<loot_entry name="Nightwraith dark essence"					player_level_min="0"	player_level_max="0"	quantity_min="2"	quantity_max="3"	chance="-1"		respawn_time="0"	/>
+ 		<loot_entry name="Nightwraiths hair"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="3"	chance="-1"		respawn_time="0"	/>
+		<loot_entry name="Wraith essence"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="2"	chance="35"		respawn_time="0"	/>
+		<loot_entry name="Specter dust"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="2"	chance="35"		respawn_time="0"	/>
+		<loot_entry name="Infused dust"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="3"	chance="15"		respawn_time="0"	/>
+		<loot_entry name="Lunar shards"								player_level_min="0"	player_level_max="0"	quantity_min="2"	quantity_max="3"	chance="15"		respawn_time="0"	/>
 	</loot>
 
 	<loot name="_monster__Nightwraith MonsterHunt"					player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"							>
 		<loot_entry name="Nightwraith mutagen"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"		respawn_time="0"	/>
-
 	</loot>
 
-	<loot name="_monster__Noonwraith"								player_level_min="0"	player_level_max="0"	quantity_min="3"	quantity_max="4"	chance="-1"							>
-		<loot_entry name="Noonwraith light essence"					player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"		respawn_time="0"	/>
-		<loot_entry name="Wraith essence"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"		respawn_time="0"	/>
-		<loot_entry name="Specter dust"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="3"		respawn_time="0"	/>
-		<loot_entry name="Noonwraith mutagen"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="1"		respawn_time="0"	/>
-		<loot_entry name="Infused dust"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="2"		respawn_time="0"	/>
-		<loot_entry name="Amethyst dust"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="2"		respawn_time="0"	/>
-		<loot_entry name="Emerald dust"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="2"		respawn_time="0"	/>
+	<loot name="_monster__Noonwraith"								player_level_min="0"	player_level_max="0"	quantity_min="3"	quantity_max="5"	chance="-1"							>
+		<loot_entry name="Noonwraith light essence"					player_level_min="0"	player_level_max="0"	quantity_min="2"	quantity_max="3"	chance="-1"		respawn_time="0"	/>
+		<loot_entry name="Noonwraith mutagen"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"		respawn_time="0"	/>
+		<loot_entry name="Wraith essence"							player_level_min="0"	player_level_max="0"	quantity_min="2"	quantity_max="3"	chance="3"		respawn_time="0"	/>
+		<loot_entry name="Specter dust"								player_level_min="0"	player_level_max="0"	quantity_min="2"	quantity_max="3"	chance="3"		respawn_time="0"	/>
+		<loot_entry name="Infused dust"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="1"		respawn_time="0"	/>
+		<loot_entry name="Amethyst dust"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="1"		respawn_time="0"	/>
+		<loot_entry name="Emerald dust"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="1"		respawn_time="0"	/>
 	</loot>
 	
 	<loot name="_monster__Noonwraith MonsterHunt"					player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"							>
@@ -1142,8 +1129,8 @@
 	</loot>
 
 	<loot name="_monster__Him"										player_level_min="0"	player_level_max="0"	quantity_min="2"	quantity_max="4"	chance="-1"							>
-		<loot_entry name="Wraith essence"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="45"		respawn_time="0"	/>
-		<loot_entry name="Specter dust"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="2"	chance="35"		respawn_time="0"	/>
+		<loot_entry name="Wraith essence"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"		respawn_time="0"	/>
+		<loot_entry name="Specter dust"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="2"	chance="-1"		respawn_time="0"	/>
 		<loot_entry name="Amethyst dust"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="2"	chance="5"		respawn_time="0"	/>
 		<loot_entry name="Emerald dust"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="5"		respawn_time="0"	/>
 		<loot_entry name="Sapphire dust"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="5"		respawn_time="0"	/>

@@ -555,7 +555,7 @@
 				<BludgeoningDamage min="100" max="100"/>
 				<SilverDamage min="4" max="4"/>
 				<weight type="base" min="12" max="12"/>
-				<quality						type="add"	min="4"					/>
+				<quality type="add"	min="1"					/>
 			</ability>
 
 			<ability name="Pickaxe _Stats">
@@ -2887,7 +2887,7 @@
 			</item>	
 			
 	<!-- Ranged weapons-->
-			<item name="Bow 1" category="steelsword" ability_slots="0" equip_template="crossbow_01" equip_slot="crossbow_back" 
+			<item name="Bow 1" category="crossbow" ability_slots="0" equip_template="crossbow_01" equip_slot="crossbow_back" 
 			localisation_key_name = "item_name_bow_1" localisation_key_description = "item_desc_bow_1" hold_slot="r_weapon" price = "10" icon_path="icons/inventory/weapons/ico_crossbow.png" >
 				<tags>NoShow,NoDrop, mod_weapon</tags>
 				<base_abilities>
@@ -2896,7 +2896,7 @@
 				</base_abilities>
 			</item>
 			
-			<item name="Bow 2" category="steelsword" ability_slots="0" equip_template="crossbow_01" equip_slot="crossbow_back" 
+			<item name="Bow 2" category="crossbow" ability_slots="0" equip_template="crossbow_01" equip_slot="crossbow_back" 
 			localisation_key_name = "item_name_bow_2" localisation_key_description = "item_desc_bow_2" hold_slot="r_weapon" price = "50" icon_path="icons/inventory/weapons/ico_crossbow.png" >
 				<tags>NoShow,NoDrop, mod_weapon</tags>
 				<base_abilities>
@@ -2905,7 +2905,7 @@
 				</base_abilities>
 			</item>
 			
-			<item name="Long bow 1" category="steelsword" ability_slots="0" equip_template="crossbow_01" equip_slot="crossbow_back"  
+			<item name="Long bow 1" category="crossbow" ability_slots="0" equip_template="crossbow_01" equip_slot="crossbow_back"  
 			localisation_key_name = "item_name_long_bow_1" localisation_key_description = "item_desc_long_bow_1" hold_slot="r_weapon" price = "20" icon_path="icons/inventory/weapons/ico_crossbow.png" >
 				<tags>NoShow,NoDrop, mod_weapon</tags>
 				<base_abilities>
@@ -2914,7 +2914,7 @@
 				</base_abilities>
 			</item>
 			
-			<item name="Long bow 2" category="steelsword" ability_slots="0" equip_template="crossbow_01" equip_slot="crossbow_back"  
+			<item name="Long bow 2" category="crossbow" ability_slots="0" equip_template="crossbow_01" equip_slot="crossbow_back"  
 			localisation_key_name = "item_name_long_bow_2" localisation_key_description = "item_desc_long_bow_2" hold_slot="r_weapon" price = "100" icon_path="icons/inventory/weapons/ico_crossbow.png" >
 				<tags>NoShow,NoDrop, mod_weapon</tags>
 				<base_abilities>
@@ -2923,7 +2923,7 @@
 				</base_abilities>
 			</item>
 			
-			<item name="Elven bow" category="steelsword" ability_slots="0" equip_template="crossbow_01" equip_slot="crossbow_back"  
+			<item name="Elven bow" category="crossbow" ability_slots="0" equip_template="crossbow_01" equip_slot="crossbow_back"  
 			localisation_key_name = "item_name_elven_bow" localisation_key_description = "item_desc_elven_bow" hold_slot="r_weapon" price = "300" icon_path="icons/inventory/weapons/ico_crossbow.png" >
 				<tags>NoShow,NoDrop, mod_weapon</tags>
 				<base_abilities>
@@ -2932,7 +2932,7 @@
 				</base_abilities>
 			</item>
 			
-			<item name="Dwarven crossbow" category="steelsword" ability_slots="0" equip_template="crossbow_01" equip_slot="crossbow_back"  
+			<item name="Dwarven crossbow" category="crossbow" ability_slots="0" equip_template="crossbow_01" equip_slot="crossbow_back"  
 			localisation_key_name = "item_name_dwarven_crossbow" localisation_key_description = "item_desc_dwarven_crossbow" hold_slot="r_weapon" price = "300" icon_path="icons/inventory/weapons/ico_crossbow.png" >
 				<tags>NoShow,NoDrop, mod_weapon</tags>
 				<base_abilities>
@@ -2941,7 +2941,7 @@
 				</base_abilities>
 			</item>
 			
-			<item name="Nilfgaardian crossbow" category="steelsword" ability_slots="0" equip_template="crossbow_01" equip_slot="crossbow_back"  
+			<item name="Nilfgaardian crossbow" category="crossbow" ability_slots="0" equip_template="crossbow_01" equip_slot="crossbow_back"  
 			localisation_key_name = "item_name_nilfgaardian_crossbow" localisation_key_description = "item_desc_nilfgaardian_crossbow" hold_slot="r_weapon" price = "250" icon_path="icons/inventory/weapons/ico_crossbow.png" >
 				<tags>NoShow,NoDrop, mod_weapon</tags>
 				<base_abilities>
@@ -2965,7 +2965,7 @@
 				  enhancement_slots="0" 
 				  equip_template="q308_iron_poker"
 				  stackable="1" 
-				  equip_slot="steel_sword_back_slot" 
+				  equip_slot="axe_back_slot" 
 				  hold_slot="r_weapon" 
 				  weapon="true" 
 				  lethal="true"
@@ -3004,7 +3004,7 @@
 					</action>
 					<action 
 						name="holster" 
-						event="HolsterWeapon" 
+						event="HolsterSecondaryWeapon" 
 						act="holster_steel_sword_back_act" 
 						deact="holster_steel_sword_back_deact">
 					</action>

@@ -717,6 +717,8 @@
 		<variants>						<variant equip_template="s_01a_mg__common_heavy_lvl4">
 											<item>Gryphon Pants 1</item><!-- this item uses slim version -->
 											<item>Gryphon Pants 2</item><!-- this item uses slim version -->
+											<item>Gryphon Pants 3</item><!-- this item uses slim version -->
+											<item>Gryphon Pants 4</item><!-- this item uses slim version -->
 										</variant>
 		</variants>
 	</item>

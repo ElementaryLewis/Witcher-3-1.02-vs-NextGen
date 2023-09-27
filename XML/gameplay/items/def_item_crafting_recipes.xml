@@ -37,7 +37,7 @@
 		<base_abilities>				<a>SetItem _Stats</a>
 		</base_abilities>
 	</item>
-
+	
 <!-- STEEL -->
 	<item
 		name							="Short sword 1 schematic"
@@ -632,7 +632,7 @@
 		<base_abilities>				<a>SetItem _Stats</a>
 		</base_abilities>
 	</item>
-
+	
 <!--  SWORDS SILVER  -->
 	<item
 		name							="Silver sword 1 schematic"
@@ -711,6 +711,22 @@
 		<tags>							ReadableItem, mod_crafting
 		</tags>
 		<base_abilities>				<a>Magic _Stats</a>
+		</base_abilities>
+	</item>
+	
+	<item
+		name							="mq4005 Silver sword 6 schematic"
+		category						="crafting_schematic"
+		price							="62"
+		weight							="0.1"
+		stackable						="100"
+		localisation_key_name			="item_name_silver_sword_6_schematic"
+		localisation_key_description	="item_desc_crafting_schematic"
+		icon_path						="icons/inventory/quests/ico_recipe.png"
+	>
+		<tags>							ReadableItem, mod_crafting
+		</tags>
+		<base_abilities>				<a>Relic _Stats</a>
 		</base_abilities>
 	</item>
 
@@ -842,7 +858,7 @@
 		<base_abilities>				<a>Relic _Stats</a>
 		</base_abilities>
 	</item>
-
+	
 	<item
 		name							="Negotiator schematic"
 		category						="crafting_schematic"
@@ -1083,7 +1099,7 @@
 		<base_abilities>				<a>SetItem _Stats</a>
 		</base_abilities>
 	</item>
-
+	
 <!--  ARMORS  -->
 
 <!--  WITCHER ARMOR  -->
@@ -2221,7 +2237,7 @@
 		<base_abilities>				<a>Magic _Stats</a>
 		</base_abilities>
 	</item>
-
+	
 	<item
 		name							="Heavy Gloves 1 schematic"
 		category						="crafting_schematic"
@@ -2832,21 +2848,19 @@
 		</tags>
 	</item>
 
-<!-- (DLC)
 	<item
-		name							="Dark steel plate schematic"
+		name							="Dark iron plate schematic"
 		category						="crafting_schematic"
 		price							="18"
 		weight							="0.1"
 		stackable						="100"
-		localisation_key_name			="item_name_dark_iron_ingot_schematic"
+		localisation_key_name			="item_name_dark_iron_plate_schematic"
 		localisation_key_description	="item_desc_crafting_schematic"
 		icon_path						="icons/inventory/quests/ico_recipe.png"
 	>
 		<tags>							ReadableItem, mod_crafting
 		</tags>
 	</item>
--->
 
 	<item
 		name							="Dark steel ingot schematic"
@@ -3086,6 +3100,8 @@
 	>
 		<tags>							ReadableItem, mod_crafting, mod_valuable
 		</tags>
+		<base_abilities>				<a>Master _Stats</a>
+		</base_abilities>
 	</item>
 
 	<item
@@ -3165,7 +3181,7 @@
 	<item
 		name							="Rune stribog greater schematic"
 		category						="crafting_schematic"
-		price							="93"
+		price							="124"
 		weight							="0.1"
 		stackable						="100"
 		localisation_key_name			="item_name_rune_stribog_greater_schematic"
@@ -3209,7 +3225,7 @@
 	<item
 		name							="Rune dazhbog greater schematic"
 		category						="crafting_schematic"
-		price							="102"
+		price							="136"
 		weight							="0.1"
 		stackable						="100"
 		localisation_key_name			="item_name_rune_dazhbog_greater_schematic"
@@ -3253,7 +3269,7 @@
 	<item
 		name							="Rune devana greater schematic"
 		category						="crafting_schematic"
-		price							="117"
+		price							="156"
 		weight							="0.1"
 		stackable						="100"
 		localisation_key_name			="item_name_rune_devana_greater_schematic"
@@ -3297,7 +3313,7 @@
 	<item
 		name							="Rune zoria greater schematic"
 		category						="crafting_schematic"
-		price							="123"
+		price							="164"
 		weight							="0.1"
 		stackable						="100"
 		localisation_key_name			="item_name_rune_zoria_greater_schematic"
@@ -3341,7 +3357,7 @@
 	<item
 		name							="Rune morana greater schematic"
 		category						="crafting_schematic"
-		price							="132"
+		price							="176"
 		weight							="0.1"
 		stackable						="100"
 		localisation_key_name			="item_name_rune_morana_greater_schematic"
@@ -3385,7 +3401,7 @@
 	<item
 		name							="Rune triglav greater schematic"
 		category						="crafting_schematic"
-		price							="147"
+		price							="196"
 		weight							="0.1"
 		stackable						="100"
 		localisation_key_name			="item_name_rune_triglav_greater_schematic"
@@ -3429,7 +3445,7 @@
 	<item
 		name							="Rune svarog greater schematic"
 		category						="crafting_schematic"
-		price							="66"
+		price							="88"
 		weight							="0.1"
 		stackable						="100"
 		localisation_key_name			="item_name_rune_svarog_greater_schematic"
@@ -3473,7 +3489,7 @@
 	<item
 		name							="Rune veles greater schematic"
 		category						="crafting_schematic"
-		price							="66"
+		price							="88"
 		weight							="0.1"
 		stackable						="100"
 		localisation_key_name			="item_name_rune_veles_greater_schematic"
@@ -3517,7 +3533,7 @@
 	<item
 		name							="Rune perun greater schematic"
 		category						="crafting_schematic"
-		price							="66"
+		price							="88"
 		weight							="0.1"
 		stackable						="100"
 		localisation_key_name			="item_name_rune_perun_greater_schematic"
@@ -3561,7 +3577,7 @@
 	<item
 		name							="Rune elemental greater schematic"
 		category						="crafting_schematic"
-		price							="66"
+		price							="88"
 		weight							="0.1"
 		stackable						="100"
 		localisation_key_name			="item_name_rune_elemental_greater_schematic"
@@ -3569,6 +3585,134 @@
 		icon_path						="icons/inventory/quests/ico_recipe.png"
 	>
 		<tags>							ReadableItem, mod_crafting, mod_precious
+		</tags>
+	</item>
+
+<!-- RUNE - RUNEWORD 1 -->
+
+	<item
+		name							="Runeword 1 schematic"
+		category						="crafting_schematic"
+		price							="22"
+		weight							="0.1"
+		stackable						="100"
+		localisation_key_name			="item_name_runeword1_schematic"
+		localisation_key_description	="item_desc_crafting_schematic"
+		icon_path						="icons/inventory/quests/ico_recipe.png"
+	>
+		<tags>							ReadableItem, mod_crafting, mod_valuable
+		</tags>
+	</item>
+
+<!-- RUNE - RUNEWORD 2 -->
+
+	<item
+		name							="Runeword 2 schematic"
+		category						="crafting_schematic"
+		price							="22"
+		weight							="0.1"
+		stackable						="100"
+		localisation_key_name			="item_name_runeword2_schematic"
+		localisation_key_description	="item_desc_crafting_schematic"
+		icon_path						="icons/inventory/quests/ico_recipe.png"
+	>
+		<tags>							ReadableItem, mod_crafting, mod_valuable
+		</tags>
+	</item>
+
+<!-- RUNE - RUNEWORD 3 -->
+
+	<item
+		name							="Runeword 3 schematic"
+		category						="crafting_schematic"
+		price							="22"
+		weight							="0.1"
+		stackable						="100"
+		localisation_key_name			="item_name_runeword3_schematic"
+		localisation_key_description	="item_desc_crafting_schematic"
+		icon_path						="icons/inventory/quests/ico_recipe.png"
+	>
+		<tags>							ReadableItem, mod_crafting, mod_valuable
+		</tags>
+	</item>
+
+<!-- RUNE - RUNEWORD 4 -->
+
+	<item
+		name							="Runeword 4 schematic"
+		category						="crafting_schematic"
+		price							="22"
+		weight							="0.1"
+		stackable						="100"
+		localisation_key_name			="item_name_runeword4_schematic"
+		localisation_key_description	="item_desc_crafting_schematic"
+		icon_path						="icons/inventory/quests/ico_recipe.png"
+	>
+		<tags>							ReadableItem, mod_crafting, mod_valuable
+		</tags>
+	</item>
+
+<!-- RUNE - RUNEWORD 5 -->
+
+	<item
+		name							="Runeword 5 schematic"
+		category						="crafting_schematic"
+		price							="22"
+		weight							="0.1"
+		stackable						="100"
+		localisation_key_name			="item_name_runeword5_schematic"
+		localisation_key_description	="item_desc_crafting_schematic"
+		icon_path						="icons/inventory/quests/ico_recipe.png"
+	>
+		<tags>							ReadableItem, mod_crafting, mod_valuable
+		</tags>
+	</item>
+
+<!-- RUNE - RUNEWORD 6 -->
+
+	<item
+		name							="Runeword 6 schematic"
+		category						="crafting_schematic"
+		price							="22"
+		weight							="0.1"
+		stackable						="100"
+		localisation_key_name			="item_name_runeword6_schematic"
+		localisation_key_description	="item_desc_crafting_schematic"
+		icon_path						="icons/inventory/quests/ico_recipe.png"
+	>
+		<tags>							ReadableItem, mod_crafting, mod_valuable
+		</tags>
+	</item>
+
+<!-- RUNE - RUNEWORD 7 -->
+
+	<item
+		name							="Runeword 7 schematic"
+		category						="crafting_schematic"
+		price							="22"
+		weight							="0.1"
+		stackable						="100"
+		localisation_key_name			="item_name_runeword7_schematic"
+		localisation_key_description	="item_desc_crafting_schematic"
+		icon_path						="icons/inventory/quests/ico_recipe.png"
+	>
+		<tags>							ReadableItem, mod_crafting, mod_valuable
+		</tags>
+	</item>
+
+<!-- RUNE - RUNEWORD 8 -->
+
+	<item
+		name							="Runeword 8 schematic"
+		category						="crafting_schematic"
+		price							="22"
+		weight							="0.1"
+		stackable						="100"
+		localisation_key_name			="item_name_runeword8_schematic"
+		localisation_key_description	="item_desc_crafting_schematic"
+		icon_path						="icons/inventory/quests/ico_recipe.png"
+	>
+		<tags>							ReadableItem, mod_crafting, mod_valuable
 		</tags>
 	</item>
 
@@ -3821,7 +3965,7 @@
 	<item
 		name							="Glyph aard greater schematic"
 		category						="crafting_schematic"
-		price							="143"
+		price							="191"
 		weight							="0.1"
 		stackable						="100"
 		localisation_key_name			="item_name_glyph_aard_greater_schematic"
@@ -3865,7 +4009,7 @@
 	<item
 		name							="Glyph axii greater schematic"
 		category						="crafting_schematic"
-		price							="152"
+		price							="203"
 		weight							="0.1"
 		stackable						="100"
 		localisation_key_name			="item_name_glyph_axii_greater_schematic"
@@ -3909,7 +4053,7 @@
 	<item
 		name							="Glyph igni greater schematic"
 		category						="crafting_schematic"
-		price							="122"
+		price							="163"
 		weight							="0.1"
 		stackable						="100"
 		localisation_key_name			="item_name_glyph_igni_greater_schematic"
@@ -3953,7 +4097,7 @@
 	<item
 		name							="Glyph quen greater schematic"
 		category						="crafting_schematic"
-		price							="137"
+		price							="183"
 		weight							="0.1"
 		stackable						="100"
 		localisation_key_name			="item_name_glyph_quen_greater_schematic"
@@ -3997,7 +4141,7 @@
 	<item
 		name							="Glyph yrden greater schematic"
 		category						="crafting_schematic"
-		price							="113"
+		price							="151"
 		weight							="0.1"
 		stackable						="100"
 		localisation_key_name			="item_name_glyph_yrden_greater_schematic"
@@ -4331,7 +4475,7 @@
 										<ingredient	quantity="1"	item_name="Amethyst"						/>
 		</ingredients>
 	</schematic>
-
+	
 	<schematic
 		name_name						="Beannshie schematic"
 		craftedItem_name				="Beannshie_crafted"
@@ -4554,7 +4698,7 @@
 										<ingredient	quantity="1"	item_name="Monstrous tooth"					/>
 		</ingredients>
 	</schematic>
-
+	
 <!-- SILVER -->
 
 	<schematic
@@ -4615,6 +4759,21 @@
 		<ingredients>					<ingredient	quantity="1"	item_name="Leather squares"					/>
 										<ingredient	quantity="2"	item_name="Meteorite silver ingot"			/>
 										<ingredient	quantity="2"	item_name="Monstrous blood"					/>
+		</ingredients>
+	</schematic>
+	
+	<schematic
+		name_name						="mq4005 Silver sword 6 schematic"
+		craftedItem_name				="mq4005 Silver sword 6_crafted"
+		craftsmanLevel_name				="Master"
+		craftsmanType_name				="Smith"
+		price							="312"
+	>
+		<ingredients>					<ingredient	quantity="1"	item_name="Leather"							/>
+										<ingredient	quantity="2"	item_name="Meteorite silver ingot"			/>
+										<ingredient	quantity="2"	item_name="Monstrous blood"					/>
+										<ingredient	quantity="2"	item_name="Monstrous claw"					/>
+										<ingredient	quantity="2"	item_name="Monstrous feather"				/>
 		</ingredients>
 	</schematic>
 
@@ -4947,7 +5106,7 @@
 										<ingredient	quantity="1"	item_name="Monstrous essence"				/>
 		</ingredients>
 	</schematic>
-
+	
 <!-- ARMOR -->
 
 	<schematic
@@ -5963,7 +6122,7 @@
 										<ingredient	quantity="2"	item_name="Monstrous claw"					/>
 		</ingredients>
 	</schematic>
-
+	
 <!--  GLOVES  -->
 
 	<schematic
@@ -6538,7 +6697,6 @@
 		</ingredients>
 	</schematic>
 
-<!-- (DLC)
 	<schematic
 		name_name						="Dark iron plate schematic"
 		craftedItem_name				="Dark iron plate"
@@ -6549,7 +6707,6 @@
 		<ingredients>					<ingredient	quantity="2"	item_name="Dark iron ingot"					/>
 		</ingredients>
 	</schematic>
--->
 
 	<schematic
 		name_name						="Dark steel ingot schematic"
@@ -6726,7 +6883,7 @@
 	<schematic
 		name_name						="Infused dust schematic"
 		craftedItem_name				="Infused dust"
-		craftsmanLevel_name				="Master"
+		craftsmanLevel_name				="Journeyman"
 		craftsmanType_name				="Crafter"
 		price							="30"
 	>
@@ -6749,7 +6906,7 @@
 	<schematic
 		name_name						="Infused crystal schematic"
 		craftedItem_name				="Infused crystal"
-		craftsmanLevel_name				="Master"
+		craftsmanLevel_name				="Grand Master"
 		craftsmanType_name				="Crafter"
 		price							="120"
 	>
@@ -6762,7 +6919,7 @@
 	<schematic
 		name_name						="Runestone lesser schematic"
 		craftedItem_name				="Runestone lesser"
-		craftsmanLevel_name				="Master"
+		craftsmanLevel_name				="Journeyman"
 		craftsmanType_name				="Crafter"
 		price							="95"
 	>
@@ -6774,7 +6931,7 @@
 	<schematic
 		name_name						="Runestone greater schematic"
 		craftedItem_name				="Runestone greater"
-		craftsmanLevel_name				="Master"
+		craftsmanLevel_name				="Grand Master"
 		craftsmanType_name				="Crafter"
 		price							="285"
 	>
@@ -6787,7 +6944,7 @@
 	<schematic
 		name_name						="Rune stribog lesser schematic"
 		craftedItem_name				="Rune stribog lesser"
-		craftsmanLevel_name				="Master"
+		craftsmanLevel_name				="Journeyman"
 		craftsmanType_name				="Crafter"
 		price							="155"
 	>
@@ -6810,11 +6967,11 @@
 	<schematic
 		name_name						="Rune stribog greater schematic"
 		craftedItem_name				="Rune stribog greater"
-		craftsmanLevel_name				="Master"
+		craftsmanLevel_name				="Grand Master"
 		craftsmanType_name				="Crafter"
-		price							="465"
+		price							="620"
 	>
-		<ingredients>					<ingredient	quantity="3"	item_name="Rune stribog lesser"				/>
+		<ingredients>					<ingredient	quantity="2"	item_name="Rune stribog"					/>
 		</ingredients>
 	</schematic>
 
@@ -6823,7 +6980,7 @@
 	<schematic
 		name_name						="Rune dazhbog lesser schematic"
 		craftedItem_name				="Rune dazhbog lesser"
-		craftsmanLevel_name				="Master"
+		craftsmanLevel_name				="Journeyman"
 		craftsmanType_name				="Crafter"
 		price							="170"
 	>
@@ -6846,11 +7003,11 @@
 	<schematic
 		name_name						="Rune dazhbog greater schematic"
 		craftedItem_name				="Rune dazhbog greater"
-		craftsmanLevel_name				="Master"
+		craftsmanLevel_name				="Grand Master"
 		craftsmanType_name				="Crafter"
-		price							="510"
+		price							="680"
 	>
-		<ingredients>					<ingredient	quantity="3"	item_name="Rune dazhbog lesser"				/>
+		<ingredients>					<ingredient	quantity="2"	item_name="Rune dazhbog"					/>
 		</ingredients>
 	</schematic>
 
@@ -6859,9 +7016,9 @@
 	<schematic
 		name_name						="Rune devana lesser schematic"
 		craftedItem_name				="Rune devana lesser"
-		craftsmanLevel_name				="Master"
+		craftsmanLevel_name				="Journeyman"
 		craftsmanType_name				="Crafter"
-		price							="170"
+		price							="195"
 	>
 		<ingredients>					<ingredient	quantity="1"	item_name="Runestone lesser"				/>
 										<ingredient	quantity="1"	item_name="Ruby dust"						/>
@@ -6873,7 +7030,7 @@
 		craftedItem_name				="Rune devana"
 		craftsmanLevel_name				="Master"
 		craftsmanType_name				="Crafter"
-		price							="340"
+		price							="390"
 	>
 		<ingredients>					<ingredient	quantity="2"	item_name="Rune devana lesser"				/>
 		</ingredients>
@@ -6882,11 +7039,11 @@
 	<schematic
 		name_name						="Rune devana greater schematic"
 		craftedItem_name				="Rune devana greater"
-		craftsmanLevel_name				="Master"
+		craftsmanLevel_name				="Grand Master"
 		craftsmanType_name				="Crafter"
-		price							="510"
+		price							="780"
 	>
-		<ingredients>					<ingredient	quantity="3"	item_name="Rune devana lesser"				/>
+		<ingredients>					<ingredient	quantity="2"	item_name="Rune devana"						/>
 		</ingredients>
 	</schematic>
 
@@ -6895,9 +7052,9 @@
 	<schematic
 		name_name						="Rune zoria lesser schematic"
 		craftedItem_name				="Rune zoria lesser"
-		craftsmanLevel_name				="Master"
+		craftsmanLevel_name				="Journeyman"
 		craftsmanType_name				="Crafter"
-		price							="195"
+		price							="205"
 	>
 		<ingredients>					<ingredient	quantity="1"	item_name="Runestone lesser"				/>
 										<ingredient	quantity="1"	item_name="Sapphire dust"					/>
@@ -6909,7 +7066,7 @@
 		craftedItem_name				="Rune zoria"
 		craftsmanLevel_name				="Master"
 		craftsmanType_name				="Crafter"
-		price							="390"
+		price							="410"
 	>
 		<ingredients>					<ingredient	quantity="2"	item_name="Rune zoria lesser"				/>
 		</ingredients>
@@ -6918,11 +7075,11 @@
 	<schematic
 		name_name						="Rune zoria greater schematic"
 		craftedItem_name				="Rune zoria greater"
-		craftsmanLevel_name				="Master"
+		craftsmanLevel_name				="Grand Master"
 		craftsmanType_name				="Crafter"
-		price							="615"
+		price							="820"
 	>
-		<ingredients>					<ingredient	quantity="3"	item_name="Rune zoria lesser"				/>
+		<ingredients>					<ingredient	quantity="2"	item_name="Rune zoria"						/>
 		</ingredients>
 	</schematic>
 
@@ -6931,7 +7088,7 @@
 	<schematic
 		name_name						="Rune morana lesser schematic"
 		craftedItem_name				="Rune morana lesser"
-		craftsmanLevel_name				="Master"
+		craftsmanLevel_name				="Journeyman"
 		craftsmanType_name				="Crafter"
 		price							="220"
 	>
@@ -6954,11 +7111,11 @@
 	<schematic
 		name_name						="Rune morana greater schematic"
 		craftedItem_name				="Rune morana greater"
-		craftsmanLevel_name				="Master"
+		craftsmanLevel_name				="Grand Master"
 		craftsmanType_name				="Crafter"
-		price							="660"
+		price							="880"
 	>
-		<ingredients>					<ingredient	quantity="3"	item_name="Rune morana lesser"				/>
+		<ingredients>					<ingredient	quantity="2"	item_name="Rune morana"						/>
 		</ingredients>
 	</schematic>
 
@@ -6967,7 +7124,7 @@
 	<schematic
 		name_name						="Rune triglav lesser schematic"
 		craftedItem_name				="Rune triglav lesser"
-		craftsmanLevel_name				="Master"
+		craftsmanLevel_name				="Journeyman"
 		craftsmanType_name				="Crafter"
 		price							="245"
 	>
@@ -6990,11 +7147,11 @@
 	<schematic
 		name_name						="Rune triglav greater schematic"
 		craftedItem_name				="Rune triglav greater"
-		craftsmanLevel_name				="Master"
+		craftsmanLevel_name				="Grand Master"
 		craftsmanType_name				="Crafter"
-		price							="735"
+		price							="980"
 	>
-		<ingredients>					<ingredient	quantity="3"	item_name="Rune triglav lesser"				/>
+		<ingredients>					<ingredient	quantity="2"	item_name="Rune triglav"					/>
 		</ingredients>
 	</schematic>
 
@@ -7003,7 +7160,7 @@
 	<schematic
 		name_name						="Rune svarog lesser schematic"
 		craftedItem_name				="Rune svarog lesser"
-		craftsmanLevel_name				="Master"
+		craftsmanLevel_name				="Journeyman"
 		craftsmanType_name				="Crafter"
 		price							="110"
 	>
@@ -7026,11 +7183,11 @@
 	<schematic
 		name_name						="Rune svarog greater schematic"
 		craftedItem_name				="Rune svarog greater"
-		craftsmanLevel_name				="Master"
+		craftsmanLevel_name				="Grand Master"
 		craftsmanType_name				="Crafter"
-		price							="330"
+		price							="440"
 	>
-		<ingredients>					<ingredient	quantity="3"	item_name="Rune svarog lesser"				/>
+		<ingredients>					<ingredient	quantity="2"	item_name="Rune svarog"						/>
 		</ingredients>
 	</schematic>
 
@@ -7039,7 +7196,7 @@
 	<schematic
 		name_name						="Rune veles lesser schematic"
 		craftedItem_name				="Rune veles lesser"
-		craftsmanLevel_name				="Master"
+		craftsmanLevel_name				="Journeyman"
 		craftsmanType_name				="Crafter"
 		price							="110"
 	>
@@ -7062,11 +7219,11 @@
 	<schematic
 		name_name						="Rune veles greater schematic"
 		craftedItem_name				="Rune veles greater"
-		craftsmanLevel_name				="Master"
+		craftsmanLevel_name				="Grand Master"
 		craftsmanType_name				="Crafter"
-		price							="330"
+		price							="440"
 	>
-		<ingredients>					<ingredient	quantity="3"	item_name="Rune veles lesser"				/>
+		<ingredients>					<ingredient	quantity="2"	item_name="Rune veles"						/>
 		</ingredients>
 	</schematic>
 
@@ -7075,7 +7232,7 @@
 	<schematic
 		name_name						="Rune perun lesser schematic"
 		craftedItem_name				="Rune perun lesser"
-		craftsmanLevel_name				="Master"
+		craftsmanLevel_name				="Journeyman"
 		craftsmanType_name				="Crafter"
 		price							="110"
 	>
@@ -7098,11 +7255,11 @@
 	<schematic
 		name_name						="Rune perun greater schematic"
 		craftedItem_name				="Rune perun greater"
-		craftsmanLevel_name				="Master"
+		craftsmanLevel_name				="Grand Master"
 		craftsmanType_name				="Crafter"
-		price							="330"
+		price							="440"
 	>
-		<ingredients>					<ingredient	quantity="3"	item_name="Rune perun lesser"				/>
+		<ingredients>					<ingredient	quantity="2"	item_name="Rune perun"						/>
 		</ingredients>
 	</schematic>
 
@@ -7111,7 +7268,7 @@
 	<schematic
 		name_name						="Rune elemental lesser schematic"
 		craftedItem_name				="Rune elemental lesser"
-		craftsmanLevel_name				="Master"
+		craftsmanLevel_name				="Journeyman"
 		craftsmanType_name				="Crafter"
 		price							="110"
 	>
@@ -7134,11 +7291,11 @@
 	<schematic
 		name_name						="Rune elemental greater schematic"
 		craftedItem_name				="Rune elemental greater"
-		craftsmanLevel_name				="Master"
+		craftsmanLevel_name				="Grand Master"
 		craftsmanType_name				="Crafter"
-		price							="330"
+		price							="440"
 	>
-		<ingredients>					<ingredient	quantity="3"	item_name="Rune elemental lesser"			/>
+		<ingredients>					<ingredient	quantity="2"	item_name="Rune elemental"					/>
 		</ingredients>
 	</schematic>
 
@@ -7385,11 +7542,11 @@
 	<schematic
 		name_name						="Glyph aard greater schematic"
 		craftedItem_name				="Glyph aard greater"
-		craftsmanLevel_name				="Master"
+		craftsmanLevel_name				="Grand Master"
 		craftsmanType_name				="Crafter"
-		price							="717"
+		price							="956"
 	>
-		<ingredients>					<ingredient quantity="3" item_name="Glyph aard lesser"					/>
+		<ingredients>					<ingredient quantity="2" item_name="Glyph aard"							/>
 		</ingredients>
 	</schematic>
 
@@ -7423,11 +7580,11 @@
 	<schematic
 		name_name						="Glyph axii greater schematic"
 		craftedItem_name				="Glyph axii greater"
-		craftsmanLevel_name				="Master"
+		craftsmanLevel_name				="Grand Master"
 		craftsmanType_name				="Crafter"
-		price							="762"
+		price							="1016"
 	>
-		<ingredients>					<ingredient quantity="3" item_name="Glyph axii lesser"					/>
+		<ingredients>					<ingredient quantity="2" item_name="Glyph axii"							/>
 		</ingredients>
 	</schematic>
 
@@ -7461,11 +7618,11 @@
 	<schematic
 		name_name						="Glyph igni greater schematic"
 		craftedItem_name				="Glyph igni greater"
-		craftsmanLevel_name				="Master"
+		craftsmanLevel_name				="Grand Master"
 		craftsmanType_name				="Crafter"
-		price							="612"
+		price							="816"
 	>
-		<ingredients>					<ingredient quantity="3" item_name="Glyph igni lesser"					/>
+		<ingredients>					<ingredient quantity="2" item_name="Glyph igni"							/>
 		</ingredients>
 	</schematic>
 
@@ -7499,11 +7656,11 @@
 	<schematic
 		name_name						="Glyph quen greater schematic"
 		craftedItem_name				="Glyph quen greater"
-		craftsmanLevel_name				="Master"
+		craftsmanLevel_name				="Grand Master"
 		craftsmanType_name				="Crafter"
-		price							="687"
+		price							="916"
 	>
-		<ingredients>					<ingredient quantity="3" item_name="Glyph quen lesser"					/>
+		<ingredients>					<ingredient quantity="2" item_name="Glyph quen"							/>
 		</ingredients>
 	</schematic>
 
@@ -7537,11 +7694,11 @@
 	<schematic
 		name_name						="Glyph yrden greater schematic"
 		craftedItem_name				="Glyph yrden greater"
-		craftsmanLevel_name				="Master"
+		craftsmanLevel_name				="Grand Master"
 		craftsmanType_name				="Crafter"
-		price							="567"
+		price							="756"
 	>
-		<ingredients>					<ingredient quantity="3" item_name="Glyph yrden lesser"					/>
+		<ingredients>					<ingredient quantity="2" item_name="Glyph yrden"						/>
 		</ingredients>
 	</schematic>
 

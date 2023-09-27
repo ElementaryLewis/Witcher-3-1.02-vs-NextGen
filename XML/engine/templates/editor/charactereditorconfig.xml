@@ -17,11 +17,22 @@
 			<Dir Path="characters\models\common\child_average\"/>
 			<Dir Path="characters\models\common\halfling_average\"/>
 			<Dir Path="characters\models\common\woman_succubus\"/>
-			
+
+
 			<Dir Path="characters\models\crowd_npc\" Scan="yes"/>
-			<Dir Path="dlc\bob\data\characters\models\crowd_npc\" Scan="yes"/>
-			<Dir Path="dlc\ep1\data\characters\models\crowd_npc\" Scan="yes"/>
 			
+			<!-- EP2 Paths -->
+			<Dir Path="dlc\bob\data\characters\models\crowd_npc\" Scan="yes"/>
+			<Dir Path="dlc\bob\data\characters\models\common\man_average\"/>
+			<Dir Path="dlc\bob\data\characters\models\common\woman_average\"/>
+			<Dir Path="dlc\bob\data\characters\models\common\man_big\"/>
+			<Dir Path="dlc\bob\data\characters\models\common\dwarf_average\"/>
+			<Dir Path="dlc\bob\data\characters\models\common\man_strong\"/>
+			<Dir Path="dlc\bob\data\characters\models\common\man_fat\"/>
+			<Dir Path="dlc\bob\data\characters\models\common\child_average\"/>
+			<Dir Path="dlc\bob\data\characters\models\common\halfling_average\"/>
+			<Dir Path="dlc\bob\data\characters\models\common\woman_succubus\"/>			
+
 			<Part Character="a" Name="Arms"/>
 			<Part Character="c" Name="Caps"/>
 			<Part Character="d" Name="Dress"/>

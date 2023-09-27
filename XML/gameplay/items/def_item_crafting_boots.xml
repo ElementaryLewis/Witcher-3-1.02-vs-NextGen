@@ -55,7 +55,7 @@
 	</ability>
 
 <!-- Relic -->
- <ability name="Boots 07_crafted _Stats">
+	<ability name="Boots 07_crafted _Stats">
 		<weight 						type="base" min="3.88"				/>
 		<quality 						type="add"	min="4"					/>
 		<armor 							type="base"	min="38"				/>
@@ -118,15 +118,13 @@
 	</ability>
 
 <!-- Medium Relic -->
-<ability name="Heavy boots 07_crafted _Stats">
+	<ability name="Heavy boots 07_crafted _Stats">
 		<weight 						type="base" min="3.96"				/>
 		<quality 						type="add"	min="4"					/>
 		<armor 							type="base" min="66"				/>
 		<slashing_resistance_perc		type="base"	min="0.05"				/>
 		<piercing_resistance_perc		type="base"	min="0.05"				/>
 		<bludgeoning_resistance_perc	type="base"	min="0.05"				/>
-		<rending_resistance_perc		type="base"	min="0.0"				/>
-		<elemental_resistance_perc		type="base"	min="0.0"				/>
 		<bonus_money 					type="add" min="0.25"				/>
 	</ability>
 
@@ -142,17 +140,16 @@
 		<elemental_resistance_perc		type="base"	min="0.05"				/>
 		<staminaRegen_armor_mod  		type="mult"	min="-0.03"				/>
 	</ability>
-
+	
 <!-- BOOTS WITCHER LYNX -->
 	<ability name="Lynx Boots 1 _Stats">
 		<weight							type="base"	min="4.3"				/>
 		<quality						type="add"	min="5"					/>
-		<armor							type="base"	min="37"				/>
+		<armor							type="base"	min="43"				/>
 		<slashing_resistance_perc		type="base"	min="0.02"				/>
 		<piercing_resistance_perc		type="base"	min="0.01"				/>
-		<bludgeoning_resistance_perc	type="base"	min="0.00"				/>
-		<rending_resistance_perc		type="base"	min="0.02"				/>
-		<elemental_resistance_perc		type="base"	min="0.05"				/>
+		<rending_resistance_perc		type="base"	min="0.01"				/>
+		<elemental_resistance_perc		type="base"	min="0.04"				/>
 		<attack_power					type="mult" min="0.05"				/>
 		<staminaRegen_armor_mod			type="mult"	min="0.03"				/>
 	</ability>
@@ -160,39 +157,36 @@
 	<ability name="Lynx Boots 2 _Stats">
 		<weight 						type="base"	min="4.3"				/>
 		<quality						type="add"	min="5"					/>
-		<armor							type="base"	min="49"				/>
+		<armor							type="base"	min="55"				/>
 		<slashing_resistance_perc		type="base"	min="0.03"				/>
 		<piercing_resistance_perc		type="base"	min="0.02"				/>
-		<bludgeoning_resistance_perc	type="base"	min="0.00"				/>
-		<rending_resistance_perc		type="base"	min="0.03"				/>
-		<elemental_resistance_perc		type="base"	min="0.05"				/>
-		<attack_power					type="mult" min="0.05"				/>
+		<rending_resistance_perc		type="base"	min="0.01"				/>
+		<elemental_resistance_perc		type="base"	min="0.04"				/>
+		<attack_power					type="mult" min="0.06"				/>
 		<staminaRegen_armor_mod			type="mult"	min="0.03"				/>
 	</ability>
 	
 	<ability name="Lynx Boots 3 _Stats">
 		<weight							type="base"	min="5.1"				/>
 		<quality						type="add"	min="5"					/>
-		<armor							type="base"	min="61"				/>
+		<armor							type="base"	min="67"				/>
 		<slashing_resistance_perc		type="base"	min="0.04"				/>
 		<piercing_resistance_perc		type="base"	min="0.03"				/>
-		<bludgeoning_resistance_perc	type="base"	min="0.00"				/>
-		<rending_resistance_perc		type="base"	min="0.04"				/>
-		<elemental_resistance_perc		type="base"	min="0.05"				/>
-		<attack_power					type="mult" min="0.1"				/>
+		<rending_resistance_perc		type="base"	min="0.02"				/>
+		<elemental_resistance_perc		type="base"	min="0.04"				/>
+		<attack_power					type="mult" min="0.08"				/>
 		<staminaRegen_armor_mod			type="mult"	min="0.03"				/>
 	</ability>
 	
 	<ability name="Lynx Boots 4 _Stats">
 		<weight							type="base"	min="5.1"				/>
 		<quality						type="add"	min="5"					/>
-		<armor							type="base"	min="71"				/>
+		<armor							type="base"	min="77"				/>
 		<slashing_resistance_perc		type="base"	min="0.05"				/>
 		<piercing_resistance_perc		type="base"	min="0.04"				/>
-		<bludgeoning_resistance_perc	type="base"	min="0.00"				/>
-		<rending_resistance_perc		type="base"	min="0.05"				/>
-		<elemental_resistance_perc		type="base"	min="0.05"				/>
-		<attack_power					type="mult" min="0.1"				/>
+		<rending_resistance_perc		type="base"	min="0.02"				/>
+		<elemental_resistance_perc		type="base"	min="0.04"				/>
+		<attack_power					type="mult" min="0.10"				/>
 		<staminaRegen_armor_mod			type="mult"	min="0.03"				/>
 	</ability>
 
@@ -200,61 +194,56 @@
 	<ability name="Gryphon Boots 1 _Stats">
 		<weight							type="base"	min="2.42"				/>
 		<quality						type="add"	min="5"					/>
-		<armor							type="base"	min="25"				/>
+		<armor							type="base"	min="31"				/>
 		<slashing_resistance_perc		type="base"	min="0.02"				/>
 		<piercing_resistance_perc		type="base"	min="0.01"				/>
 		<bludgeoning_resistance_perc	type="base"	min="0.01"				/>
 		<rending_resistance_perc		type="base"	min="0.02"				/>
-		<elemental_resistance_perc		type="base"	min="0.00"				/>
 		<spell_power 					type="mult"	min="0.05"				/>
 	</ability>
 
 	<ability name="Gryphon Boots 2 _Stats">
 		<weight							type="base"	min="2.42"				/>
 		<quality						type="add"	min="5"					/>
-		<armor							type="base"	min="39"				/>
+		<armor							type="base"	min="45"				/>
 		<slashing_resistance_perc		type="base"	min="0.03"				/>
 		<piercing_resistance_perc		type="base"	min="0.02"				/>
 		<bludgeoning_resistance_perc	type="base"	min="0.02"				/>
-		<rending_resistance_perc		type="base"	min="0.03"				/>
-		<elemental_resistance_perc		type="base"	min="0.00"				/>
-		<spell_power 					type="mult"	min="0.05"				/>
+		<rending_resistance_perc		type="base"	min="0.02"				/>
+		<spell_power 					type="mult"	min="0.06"				/>
 	</ability>
 	
 	<ability name="Gryphon Boots 3 _Stats">
 		<weight							type="base"	min="4.06"				/>
 		<quality						type="add"	min="5"					/>
-		<armor							type="base"	min="55"				/>
+		<armor							type="base"	min="61"				/>
 		<slashing_resistance_perc		type="base"	min="0.04"				/>
 		<piercing_resistance_perc		type="base"	min="0.03"				/>
 		<bludgeoning_resistance_perc	type="base"	min="0.03"				/>
-		<rending_resistance_perc		type="base"	min="0.04"				/>
-		<elemental_resistance_perc		type="base"	min="0.00"				/>
-		<spell_power 					type="mult"	min="0.1"				/>
+		<rending_resistance_perc		type="base"	min="0.03"				/>
+		<spell_power 					type="mult"	min="0.08"				/>
 	</ability>
 	
 	<ability name="Gryphon Boots 4 _Stats">
 		<weight							type="base"	min="4.06"				/>
 		<quality						type="add"	min="5"					/>
-		<armor							type="base"	min="71"				/>
+		<armor							type="base"	min="77"				/>
 		<slashing_resistance_perc		type="base"	min="0.05"				/>
 		<piercing_resistance_perc		type="base"	min="0.04"				/>
 		<bludgeoning_resistance_perc	type="base"	min="0.04"				/>
-		<rending_resistance_perc		type="base"	min="0.05"				/>
-		<elemental_resistance_perc		type="base"	min="0.00"				/>
-		<spell_power 					type="mult"	min="0.1"				/>
+		<rending_resistance_perc		type="base"	min="0.03"				/>
+		<spell_power 					type="mult"	min="0.10"				/>
 	</ability>
 
 <!-- BOOTS WITCHER BEAR -->
 	<ability name="Bear Boots 1 _Stats">
 		<weight							type="base"	min="3.46"				/>
 		<quality						type="add"	min="5"					/>
-		<armor							type="base"	min="43"				/>
+		<armor							type="base"	min="49"				/>
 		<slashing_resistance_perc		type="base"	min="0.02"				/>
 		<piercing_resistance_perc		type="base"	min="0.02"				/>
 		<bludgeoning_resistance_perc	type="base"	min="0.02"				/>
 		<rending_resistance_perc		type="base"	min="0.02"				/>
-		<elemental_resistance_perc		type="base"	min="0.00"				/>
 		<focus_gain 					type="base" min="0.05" 				/>
 		<staminaRegen_armor_mod			type="mult"	min="-0.03"				/>
 	</ability>
@@ -262,39 +251,36 @@
 	<ability name="Bear Boots 2 _Stats">
 		<weight							type="base"	min="3.46"				/>
 		<quality						type="add"	min="5"					/>
-		<armor							type="base"	min="53"				/>
+		<armor							type="base"	min="59"				/>
 		<slashing_resistance_perc		type="base"	min="0.03"				/>
 		<piercing_resistance_perc		type="base"	min="0.03"				/>
 		<bludgeoning_resistance_perc	type="base"	min="0.03"				/>
-		<rending_resistance_perc		type="base"	min="0.03"				/>
-		<elemental_resistance_perc		type="base"	min="0.00"				/>
-		<focus_gain						type="add"	min="0.05"				/>
+		<rending_resistance_perc		type="base"	min="0.02"				/>
+		<focus_gain						type="add"	min="0.06"				/>
 		<staminaRegen_armor_mod			type="mult"	min="-0.03"				/>
 	</ability>
 	
 	<ability name="Bear Boots 3 _Stats">
 		<weight							type="base"	min="5.8"				/>
 		<quality						type="add"	min="5"					/>
-		<armor							type="base"	min="63"				/>
+		<armor							type="base"	min="69"				/>
 		<slashing_resistance_perc		type="base"	min="0.04"				/>
 		<piercing_resistance_perc		type="base"	min="0.04"				/>
 		<bludgeoning_resistance_perc	type="base"	min="0.04"				/>
-		<rending_resistance_perc		type="base"	min="0.04"				/>
-		<elemental_resistance_perc		type="base"	min="0.00"				/>
-		<focus_gain						type="add"	min="0.1"				/>
+		<rending_resistance_perc		type="base"	min="0.03"				/>
+		<focus_gain						type="add"	min="0.08"				/>
 		<staminaRegen_armor_mod			type="mult"	min="-0.03"				/>
 	</ability>
 	
 	<ability name="Bear Boots 4 _Stats">
 		<weight							type="base"	min="5.8"				/>
 		<quality						type="add"	min="5"					/>
-		<armor							type="base"	min="71"				/>
+		<armor							type="base"	min="77"				/>
 		<slashing_resistance_perc		type="base"	min="0.05"				/>
 		<piercing_resistance_perc		type="base"	min="0.05"				/>
 		<bludgeoning_resistance_perc	type="base"	min="0.05"				/>
-		<rending_resistance_perc		type="base"	min="0.05"				/>
-		<elemental_resistance_perc		type="base"	min="0.00"				/>
-		<focus_gain						type="add"	min="0.1"				/>
+		<rending_resistance_perc		type="base"	min="0.03"				/>
+		<focus_gain						type="add"	min="0.10"				/>
 		<staminaRegen_armor_mod			type="mult"	min="-0.03"				/>
 	</ability>
 

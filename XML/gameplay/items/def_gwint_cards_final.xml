@@ -288,7 +288,7 @@
 		</card>
 		
 		<card   index="16"							
-		    title="gwint_name_avallach"
+		    title="Mysterious elf"
 			description="gwint_desc_avallach"
 			power="0"
 			picture="neu_avallach"
@@ -306,13 +306,187 @@
 			</effect_flags>
 		</card>
 
+		<card   index="17"							
+		    title="gwint_name_olgierd"
+			description="gwint_desc_olgierd"
+			power="6"
+			picture="neu_olgierd"
+			faction_index="F_NEUTRAL" >
+			<type_flags>
+				<flag name="TYPE_CREATURE" />
+				<flag name="TYPE_MELEE" />
+				<flag name="TYPE_RANGED" />
+			</type_flags>
+			<effect_flags>
+				<flag name="EFFECT_IMPROVE_NEIGHBOURS" />
+			</effect_flags>
+		</card>
+
+		<card   index="18"							
+		    title="gwint_name_mrmirror"
+			description="gwint_desc_mrmirror"
+			power="2"
+			picture="neu_mrmirror"
+			faction_index="F_NEUTRAL" >
+			<type_flags>
+				<flag name="TYPE_CREATURE" />
+				<flag name="TYPE_SIEGE" />
+			</type_flags>
+			<effect_flags>
+				<flag name="EFFECT_SUMMON_CLONES" />
+			</effect_flags>
+			<summonFlags>
+				<card id="18"/>
+				<card id="19"/>
+			</summonFlags>
+		</card>
+
+		<card   index="19"							
+		    title="gwint_name_mrmirror_foglet"
+			description="gwint_desc_mrmirror_foglet"
+			power="4"
+			picture="neu_mrmirror_foglet"
+			faction_index="F_NEUTRAL" >
+			<type_flags>
+				<flag name="TYPE_CREATURE" />
+				<flag name="TYPE_RANGED" />
+			</type_flags>
+			<effect_flags>
+				<flag name="EFFECT_SUMMON_CLONES" />
+			</effect_flags>
+			<summonFlags>
+				<!-- <card id="18"/> -->
+				<card id="19"/>
+			</summonFlags>
+		</card>
+
+		<card   index="20"							
+		    title="gwint_name_cow"
+			description="gwint_desc_cow"
+			power="0"
+			picture="neu_cow"
+			faction_index="F_NEUTRAL" >
+			<type_flags>
+				<flag name="TYPE_CREATURE" />
+				<flag name="TYPE_RANGED" />
+			</type_flags>
+			<effect_flags>
+				<flag name="EFFECT_SUICIDE_SUMMON" />
+			</effect_flags>
+			<summonFlags>
+				<card id="21"/>
+			</summonFlags>
+		</card>
+
+		<card   index="21"							
+		    title="gwint_name_cow_czart"
+			description="gwint_desc_cow_czart"
+			power="8"
+			picture="neu_czart"
+			faction_index="F_NEUTRAL" >
+			<type_flags>
+				<flag name="TYPE_CREATURE" />
+				<flag name="TYPE_MELEE" />
+			</type_flags>
+			<effect_flags>
+				<flag name="EFFECT_NONE" />
+			</effect_flags>
+		</card>
+
+		<card   index="22"
+		    title="gwint_name_mushroom"	
+			description="gwint_desc_mushroom"
+			power="0"
+			picture="spc_mushroom"
+			faction_index="F_SKELLIGE" >
+			<type_flags>
+				<flag name="TYPE_ROW_MODIFIER" />
+				<flag name="TYPE_MELEE" />
+				<flag name="TYPE_RANGED" />
+				<flag name="TYPE_SIEGE" />
+			</type_flags>
+			<effect_flags>
+				<flag name="EFFECT_MUSHROOM" />
+			</effect_flags>
+		</card>
+
+		<card   index="23"
+		    title="gwint_name_skellige_storm"	
+			description="gwint_desc_skellige_storm"
+			power="0"
+			picture="spc_skellige_storm"
+			faction_index="F_NEUTRAL" >
+			<type_flags>
+				<flag name="TYPE_WEATHER" />
+			</type_flags>
+			<effect_flags>
+				<flag name="EFFECT_RANGED" />
+				<flag name="EFFECT_SIEGE" />
+			</effect_flags>
+		</card>
+
+		<card   index="26"
+			title="gwint_name_geralt"
+			description="gwint_desc_geralt"
+			power="15"
+			picture="neu_geralt"
+			dlcPictureFlag_name="dlc8"
+			dlcPicture="neu_geralt_dlc"
+			faction_index="F_NEUTRAL" >
+			<type_flags>
+				<flag name="TYPE_CREATURE" />
+				<flag name="TYPE_HERO" />
+				<flag name="TYPE_MELEE" />
+			</type_flags>
+			<effect_flags>
+				<flag name="EFFECT_SUMMON_CLONES" />
+			</effect_flags>
+			<summonFlags>
+				<card id="28"/>
+			</summonFlags>
+		</card>
+
+		<card   index="27"							
+			title="gwint_name_ciri"
+			description="gwint_desc_ciri"
+			power="15"
+			picture="neu_ciri"
+			dlcPictureFlag_name="dlc8"
+			dlcPicture="neu_ciri_dlc"
+			faction_index="F_NEUTRAL" >
+			<type_flags>
+				<flag name="TYPE_CREATURE" />
+				<flag name="TYPE_HERO" />
+				<flag name="TYPE_MELEE" />
+			</type_flags>
+			<effect_flags>
+				<flag name="EFFECT_SUMMON_CLONES" />
+			</effect_flags>
+			<summonFlags>
+				<card id="28"/>
+			</summonFlags>
+		</card>
+							
+		<card   index="28"							
+			title="map_location_horse"
+			description="gwint_desc_roach"
+			power="3"
+			picture="gog_roach"
+			faction_index="F_NEUTRAL" >
+			<type_flags>
+				<flag name="TYPE_CREATURE" />
+				<flag name="TYPE_MELEE" />
+			</type_flags>
+		</card>
+							
+
 <!--
 =============================================		
 ============================================= N.KINGDOM CARDS =====================================================
 =============================================		
 -->
 
-			<card   index="100"							
+		<card   index="100"							
 		    title="gwint_name_vernon"
 		    description="gwint_desc_vernon"
 			power="10"
@@ -856,50 +1030,6 @@
 			</effect_flags>
 			<summonFlags>
 				<card id="160"/>
-				<card id="161"/>
-				<card id="162"/>
-			</summonFlags>
-		</card>
-
-
-		<card   index="161"							
-		    title="gwint_name_blue_stripes"
-		    description="gwint_desc_blue_stripes"
-			power="4"
-			picture="nor_blue_stripes"
-			faction_index="F_NORTHERN_KINGDOM" >
-			<type_flags>
-				<flag name="TYPE_CREATURE" />
-				<flag name="TYPE_MELEE" />
-			</type_flags>
-			<effect_flags>
-				<flag name="EFFECT_SAME_TYPE_MORALE" />
-			</effect_flags>
-			<summonFlags>
-				<card id="160"/>
-				<card id="161"/>
-				<card id="162"/>
-			</summonFlags>
-		</card>
-
-
-		<card   index="162"							
-		    title="gwint_name_blue_stripes"
-		    description="gwint_desc_blue_stripes"
-			power="4"
-			picture="nor_blue_stripes"
-			faction_index="F_NORTHERN_KINGDOM" >
-			<type_flags>
-				<flag name="TYPE_CREATURE" />
-				<flag name="TYPE_MELEE" />
-			</type_flags>
-			<effect_flags>
-				<flag name="EFFECT_SAME_TYPE_MORALE" />
-			</effect_flags>
-			<summonFlags>
-				<card id="160"/>
-				<card id="161"/>
-				<card id="162"/>
 			</summonFlags>
 		</card>
 
@@ -932,7 +1062,6 @@
 				<flag name="EFFECT_NURSE" />
 			</effect_flags>
 		</card>
-
 
 
 <!--
@@ -1384,7 +1513,7 @@
 			</summonFlags>
 		</card>
 
-				<card   index="247"					
+		<card   index="247"					
 			title="gwint_name_impera_brigade"
 			description="gwint_desc_impera_brigade"
 			power="3"
@@ -1405,7 +1534,7 @@
 			</summonFlags>
 		</card>
 
-				<card   index="248"					
+		<card   index="248"					
 			title="gwint_name_impera_brigade"
 			description="gwint_desc_impera_brigade"
 			power="3"
@@ -2180,6 +2309,21 @@
 		</card>
 
 
+		<card   index="368"				
+		    title="gwint_name_schirru"
+		    description="gwint_desc_schirru"
+			power="8"
+			picture="sco_schirru"
+			faction_index="F_SCOIATAEL" >
+			<type_flags>
+				<flag name="TYPE_CREATURE" />
+				<flag name="TYPE_SIEGE" />
+			</type_flags>
+			<effect_flags>
+				<flag name="CP_SIEGE_SCORCH" />
+			</effect_flags>
+		</card>
+
 
 <!--
 =============================================					
@@ -2560,7 +2704,7 @@
 				<flag name="EFFECT_SUMMON_CLONES" />
 			</effect_flags>
 				<summonFlags>
-				<card id="450"/>
+				<!-- <card id="450"/> -->
 				<card id="452"/>
 				<card id="453"/>
 				<card id="451"/>
@@ -2581,7 +2725,7 @@
 				<flag name="EFFECT_SUMMON_CLONES" />
 			</effect_flags>
 				<summonFlags>
-					<card id="450"/>
+					<!-- <card id="450"/> -->
 					<card id="451"/>
 					<card id="453"/>
 					<card id="452"/>
@@ -2603,7 +2747,7 @@
 				<flag name="EFFECT_SUMMON_CLONES" />
 			</effect_flags>
 				<summonFlags>
-					<card id="450"/>
+					<!-- <card id="450"/> -->
 					<card id="451"/>
 					<card id="452"/>
 					<card id="453"/>
@@ -2900,6 +3044,497 @@
 			</summonFlags>
 		</card>
 
+		<card   index="478"					
+		    title="gwint_name_toad"
+		    description="gwint_desc_toad"
+			power="7"
+			picture="nml_toad"
+			faction_index="F_NO_MANS_LAND" >
+			<type_flags>
+				<flag name="TYPE_CREATURE" />
+				<flag name="TYPE_RANGED" />
+			</type_flags>
+			<effect_flags>
+				<flag name="EFFECT_RANGED_SCORCH" />
+			</effect_flags>
+		</card>
+		
+
+
+<!--
+=============================================					
+============================================= SKELLIGE CARDS =====================================================		
+=============================================			
+-->
+
+
+
+		<card   index="500"							
+		    title="gwint_name_hemdal"
+		    description="gwint_desc_hemdal"
+			power="11"
+			picture="ske_hemdal"
+			faction_index="F_SKELLIGE" >
+			<type_flags>
+				<flag name="TYPE_CREATURE" />
+				<flag name="TYPE_HERO" />
+				<flag name="TYPE_MELEE" />
+			</type_flags>
+			<effect_flags>
+				<flag name="EFFECT_NONE" />
+			</effect_flags>
+		</card>
+
+		<card   index="501"							
+		    title="gwint_name_hjalmar"
+		    description="gwint_desc_hjalmar"
+			power="10"
+			picture="ske_hjalmar"
+			faction_index="F_SKELLIGE" >
+			<type_flags>
+				<flag name="TYPE_CREATURE" />
+				<flag name="TYPE_HERO" />
+				<flag name="TYPE_RANGED" />
+			</type_flags>
+			<effect_flags>
+				<flag name="EFFECT_NONE" />
+			</effect_flags>
+		</card>
+
+		<card   index="502"							
+		    title="gwint_name_cerys"
+		    description="gwint_desc_cerys"
+			power="10"
+			picture="ske_cerys"
+			faction_index="F_SKELLIGE" >
+			<type_flags>
+				<flag name="TYPE_CREATURE" />
+				<flag name="TYPE_HERO" />
+				<flag name="TYPE_MELEE" />
+			</type_flags>
+			<effect_flags>
+				<flag name="EFFECT_SUMMON_CLONES" />
+			</effect_flags>
+			<summonFlags>
+				<card id="526"/>
+				<card id="527"/>
+				<card id="523"/>
+			</summonFlags>
+		</card>
+
+		<card   index="503"							
+		    title="gwint_name_ermion"
+		    description="gwint_desc_ermion"
+			power="8"
+			picture="ske_ermion"
+			faction_index="F_SKELLIGE" >
+			<type_flags>
+				<flag name="TYPE_CREATURE" />
+				<flag name="TYPE_HERO" />
+				<flag name="TYPE_RANGED" />
+			</type_flags>
+			<effect_flags>
+				<flag name="EFFECT_MUSHROOM" />
+			</effect_flags>
+		</card>
+
+		<card   index="504"							
+		    title="gwint_name_draig"
+		    description="gwint_desc_draig"
+			power="2"
+			picture="ske_draig"
+			faction_index="F_SKELLIGE" >
+			<type_flags>
+				<flag name="TYPE_CREATURE" />
+				<flag name="TYPE_SIEGE" />
+			</type_flags>
+			<effect_flags>
+				<flag name="EFFECT_HORN" />
+			</effect_flags>
+		</card>
+
+		<card   index="505"							
+		    title="gwint_name_holger_blackhand"
+		    description="gwint_desc_holger_blackhand"
+			power="4"
+			picture="ske_holger_blackhand"
+			faction_index="F_SKELLIGE" >
+			<type_flags>
+				<flag name="TYPE_CREATURE" />
+				<flag name="TYPE_SIEGE" />
+			</type_flags>
+			<effect_flags>
+				<flag name="EFFECT_NONE" />
+			</effect_flags>
+		</card>
+
+		<card   index="506"							
+		    title="gwint_name_madman_lugos"
+		    description="gwint_desc_madman_lugos"
+			power="6"
+			picture="ske_madman_lugos"
+			faction_index="F_SKELLIGE" >
+			<type_flags>
+				<flag name="TYPE_CREATURE" />
+				<flag name="TYPE_MELEE" />
+			</type_flags>
+			<effect_flags>
+				<flag name="EFFECT_NONE" />
+			</effect_flags>
+		</card>
+
+		<card   index="507"							
+		    title="gwint_name_donar_an_hindar"
+		    description="gwint_desc_donar_an_hindar"
+			power="4"
+			picture="ske_donar_an_hindar"
+			faction_index="F_SKELLIGE" >
+			<type_flags>
+				<flag name="TYPE_CREATURE" />
+				<flag name="TYPE_MELEE" />
+			</type_flags>
+			<effect_flags>
+				<flag name="EFFECT_NONE" />
+			</effect_flags>
+		</card>
+
+		<card   index="508"							
+		    title="gwint_name_udalryk"
+		    description="gwint_desc_udalryk"
+			power="4"
+			picture="ske_udalryk"
+			faction_index="F_SKELLIGE" >
+			<type_flags>
+				<flag name="TYPE_CREATURE" />
+				<flag name="TYPE_MELEE" />
+			</type_flags>
+			<effect_flags>
+				<flag name="EFFECT_NONE" />
+			</effect_flags>
+		</card>
+
+		<card   index="509"							
+		    title="gwint_name_birna_bran"
+		    description="gwint_desc_birna_bran"
+			power="2"
+			picture="ske_birna_bran"
+			faction_index="F_SKELLIGE" >
+			<type_flags>
+				<flag name="TYPE_CREATURE" />
+				<flag name="TYPE_MELEE" />
+			</type_flags>
+			<effect_flags>
+				<flag name="EFFECT_NURSE" />
+			</effect_flags>
+		</card>
+
+		<card   index="510"							
+		    title="gwint_name_blueboy_lugos"
+		    description="gwint_desc_blueboy_lugos"
+			power="6"
+			picture="ske_blueboy_lugos"
+			faction_index="F_SKELLIGE" >
+			<type_flags>
+				<flag name="TYPE_CREATURE" />
+				<flag name="TYPE_MELEE" />
+			</type_flags>
+			<effect_flags>
+				<flag name="EFFECT_NONE" />
+			</effect_flags>
+		</card>
+
+		<card   index="511"							
+		    title="gwint_name_svanrige"
+		    description="gwint_desc_svanrige"
+			power="4"
+			picture="ske_svanrige"
+			faction_index="F_SKELLIGE" >
+			<type_flags>
+				<flag name="TYPE_CREATURE" />
+				<flag name="TYPE_MELEE" />
+			</type_flags>
+			<effect_flags>
+				<flag name="EFFECT_NONE" />
+			</effect_flags>
+		</card>
+
+		<card   index="512"							
+		    title="gwint_name_olaf"
+		    description="gwint_desc_olaf"
+			power="12"
+			picture="ske_olaf"
+			faction_index="F_SKELLIGE" >
+			<type_flags>
+				<flag name="TYPE_CREATURE" />
+				<flag name="TYPE_MELEE" />
+				<flag name="TYPE_RANGED" />
+			</type_flags>
+			<effect_flags>
+				<flag name="EFFECT_IMPROVE_NEIGHBOURS" />
+			</effect_flags>
+		</card>
+
+		<card   index="513"							
+		    title="gwint_name_berserker"
+		    description="gwint_desc_berserker"
+			power="4"
+			picture="ske_berserker"
+			faction_index="F_SKELLIGE" >
+			<type_flags>
+				<flag name="TYPE_CREATURE" />
+				<flag name="TYPE_MELEE" />
+			</type_flags>
+			<effect_flags>
+				<flag name="EFFECT_MORPH" />
+			</effect_flags>
+			<summonFlags>
+				<card id="514"/>
+			</summonFlags>
+		</card>
+
+		<card   index="514"							
+		    title="gwint_name_berserker_bear"
+		    description="gwint_desc_berserker_bear"
+			power="14"
+			picture="ske_berserker_bear"
+			faction_index="F_SKELLIGE" >
+			<type_flags>
+				<flag name="TYPE_CREATURE" />
+				<flag name="TYPE_MELEE" />
+			</type_flags>
+			<effect_flags>
+				<flag name="EFFECT_IMPROVE_NEIGHBOURS" />
+			</effect_flags>
+		</card>
+
+		<card   index="515"							
+		    title="gwint_name_young_berserker"
+		    description="gwint_desc_young_berserker"
+			power="2"
+			picture="ske_young_berserker"
+			faction_index="F_SKELLIGE" >
+			<type_flags>
+				<flag name="TYPE_CREATURE" />
+				<flag name="TYPE_RANGED" />
+			</type_flags>
+			<effect_flags>
+				<flag name="EFFECT_MORPH" />
+			</effect_flags>
+			<summonFlags>
+				<card id="516"/>
+			</summonFlags>
+		</card>
+
+		<card   index="516"							
+		    title="gwint_name_young_berserker_bear"
+		    description="gwint_desc_young_berserker_bear"
+			power="8"
+			picture="ske_young_berserker_bear"
+			faction_index="F_SKELLIGE" >
+			<type_flags>
+				<flag name="TYPE_CREATURE" />
+				<flag name="TYPE_RANGED" />
+			</type_flags>
+			<effect_flags>
+				<flag name="EFFECT_SAME_TYPE_MORALE" />
+			</effect_flags>
+			<summonFlags>
+				<card id="516"/>
+			</summonFlags>
+		</card>
+
+		<card   index="517"							
+		    title="gwint_name_clan_an_craite_warrior"
+		    description="gwint_desc_clan_an_craite_warrior"
+			power="6"
+			picture="ske_clan_an_craite_warrior"
+			faction_index="F_SKELLIGE" >
+			<type_flags>
+				<flag name="TYPE_CREATURE" />
+				<flag name="TYPE_MELEE" />
+			</type_flags>
+			<effect_flags>
+				<flag name="EFFECT_SAME_TYPE_MORALE" />
+			</effect_flags>
+			<summonFlags>
+				<card id="517"/>
+			</summonFlags>
+		</card>
+
+		<card   index="518"							
+		    title="gwint_name_clan_tordarroch_armorsmith"
+		    description="gwint_desc_clan_tordarroch_armorsmith"
+			power="4"
+			picture="ske_clan_tordarroch_armorsmith"
+			faction_index="F_SKELLIGE" >
+			<type_flags>
+				<flag name="TYPE_CREATURE" />
+				<flag name="TYPE_MELEE" />
+			</type_flags>
+			<effect_flags>
+				<flag name="EFFECT_NONE" />
+			</effect_flags>
+		</card>
+
+		<card   index="519"							
+		    title="gwint_name_clan_heymaey_skald"
+		    description="gwint_desc_clan_heymaey_skald"
+			power="4"
+			picture="ske_clan_heymaey_skald"
+			faction_index="F_SKELLIGE" >
+			<type_flags>
+				<flag name="TYPE_CREATURE" />
+				<flag name="TYPE_MELEE" />
+			</type_flags>
+			<effect_flags>
+				<flag name="EFFECT_NONE" />
+			</effect_flags>
+		</card>
+
+		<card   index="520"							
+		    title="gwint_name_light_drakkar"
+		    description="gwint_desc_light_drakkar"
+			power="4"
+			picture="ske_light_drakkar"
+			faction_index="F_SKELLIGE" >
+			<type_flags>
+				<flag name="TYPE_CREATURE" />
+				<flag name="TYPE_RANGED" />
+			</type_flags>
+			<effect_flags>
+				<flag name="EFFECT_SUMMON_CLONES" />
+			</effect_flags>
+			<summonFlags>
+				<card id="520"/>
+			</summonFlags>
+		</card>
+
+		<card   index="521"							
+		    title="gwint_name_war_drakkar"
+		    description="gwint_desc_war_drakkar"
+			power="6"
+			picture="ske_war_drakkar"
+			faction_index="F_SKELLIGE" >
+			<type_flags>
+				<flag name="TYPE_CREATURE" />
+				<flag name="TYPE_SIEGE" />
+			</type_flags>
+			<effect_flags>
+				<flag name="EFFECT_SAME_TYPE_MORALE" />
+			</effect_flags>
+			<summonFlags>
+				<card id="521"/>
+			</summonFlags>
+		</card>
+
+		<card   index="522"							
+		    title="gwint_name_clan_brokvar_archer"
+		    description="gwint_desc_clan_brokvar_archer"
+			power="6"
+			picture="ske_clan_brokvar_archer"
+			faction_index="F_SKELLIGE" >
+			<type_flags>
+				<flag name="TYPE_CREATURE" />
+				<flag name="TYPE_RANGED" />
+			</type_flags>
+			<effect_flags>
+				<flag name="EFFECT_NONE" />
+			</effect_flags>
+		</card>
+
+		<card   index="523"							
+		    title="gwint_name_clan_drummond_shieldmaiden"
+		    description="gwint_desc_clan_drummond_shieldmaiden"
+			power="4"
+			picture="ske_clan_drummond_shieldmaiden"
+			faction_index="F_SKELLIGE" >
+			<type_flags>
+				<flag name="TYPE_CREATURE" />
+				<flag name="TYPE_MELEE" />
+			</type_flags>
+			<effect_flags>
+				<flag name="EFFECT_SAME_TYPE_MORALE" />
+			</effect_flags>
+			<summonFlags>
+				<card id="526"/>
+				<card id="527"/>
+				<card id="523"/>
+			</summonFlags>
+		</card>
+
+		<card   index="524"							
+		    title="gwint_name_clan_dimun_pirate"
+		    description="gwint_desc_clan_dimun_pirate"
+			power="6"
+			picture="ske_clan_dimun_pirate"
+			faction_index="F_SKELLIGE" >
+			<type_flags>
+				<flag name="TYPE_CREATURE" />
+				<flag name="TYPE_RANGED" />
+			</type_flags>
+			<effect_flags>
+				<flag name="EFFECT_SCORCH" />
+			</effect_flags>
+		</card>
+		
+		<card   index="525"							
+		    title="gwint_name_cock"
+			description="gwint_desc_cock"
+			power="0"
+			picture="ske_cock"
+			faction_index="F_SKELLIGE" >
+			<type_flags>
+				<flag name="TYPE_CREATURE" />
+				<flag name="TYPE_MELEE" />
+			</type_flags>
+			<effect_flags>
+				<flag name="EFFECT_SUICIDE_SUMMON" />
+			</effect_flags>
+			<summonFlags>
+				<card id="500"/>
+			</summonFlags>
+		</card>
+		
+		<card   index="526"							
+		    title="gwint_name_clan_drummond_shieldmaiden"
+		    description="gwint_desc_clan_drummond_shieldmaiden"
+			power="4"
+			picture="ske_clan_drummond_shieldmaiden_2"
+			faction_index="F_SKELLIGE" >
+			<type_flags>
+				<flag name="TYPE_CREATURE" />
+				<flag name="TYPE_MELEE" />
+			</type_flags>
+			<effect_flags>
+				<flag name="EFFECT_SAME_TYPE_MORALE" />
+			</effect_flags>
+			<summonFlags>
+				<card id="526"/>
+				<card id="527"/>
+				<card id="523"/>
+			</summonFlags>
+		</card>		
+		
+		<card   index="527"							
+		    title="gwint_name_clan_drummond_shieldmaiden"
+		    description="gwint_desc_clan_drummond_shieldmaiden"
+			power="4"
+			picture="ske_clan_drummond_shieldmaiden_3"
+			faction_index="F_SKELLIGE" >
+			<type_flags>
+				<flag name="TYPE_CREATURE" />
+				<flag name="TYPE_MELEE" />
+			</type_flags>
+			<effect_flags>
+				<flag name="EFFECT_SAME_TYPE_MORALE" />
+			</effect_flags>
+			<summonFlags>
+				<card id="526"/>
+				<card id="527"/>
+				<card id="523"/>
+			</summonFlags>
+		</card>
+		
 
 		</gwint_card_definitions_final>
 	</custom>

@@ -241,19 +241,19 @@
 	<ability name="Rune elemental lesser _Stats">
 		<tags>							Upgrade, WeaponUpgrade
 		</tags>
-		<attack_power					type="add" min="0.02" 		/>
+		<attack_power					type="mult" min="0.02" 		/>
 	</ability>
 
 	<ability name="Rune elemental _Stats">
 		<tags>							Upgrade, WeaponUpgrade
 		</tags>
-		<attack_power					type="add" min="0.03" 		/>
+		<attack_power					type="mult" min="0.03" 		/>
 	</ability>
 
 	<ability name="Rune elemental greater _Stats">
 		<tags>							Upgrade, WeaponUpgrade
 		</tags>
-		<attack_power					type="add" min="0.05" 		/>
+		<attack_power					type="mult" min="0.05" 		/>
 	</ability>
 
 <!-- ARMOR UPGRADE - GLYPH - AARD -->
@@ -355,7 +355,7 @@
 		<tags>							Upgrade, ArmorUpgrade 
 		</tags>
 	</ability>
-
+	
 </abilities>
 
 <!-- ######################## ITEM DEFINITIONS ######################## -->
@@ -407,8 +407,8 @@
 	<item
 		name							="Rune stribog greater"
 		category						="upgrade"
-		price							="465"
-		weight							="0.18"
+		price							="620"
+		weight							="0.24"
 		stackable						="100"
 		grid_size						="1"
 		localisation_key_name			="item_name_rune_stribog_greater"
@@ -469,8 +469,8 @@
 	<item
 		name							="Rune dazhbog greater"
 		category						="upgrade"
-		price							="510"
-		weight							="0.18"
+		price							="680"
+		weight							="0.24"
 		stackable						="100"
 		grid_size						="1"
 		localisation_key_name			="item_name_rune_dazhbog_greater"
@@ -531,8 +531,8 @@
 	<item
 		name							="Rune devana greater"
 		category						="upgrade"
-		price							="585"
-		weight							="0.18"
+		price							="780"
+		weight							="0.24"
 		stackable						="100"
 		grid_size						="1"
 		localisation_key_name			="item_name_rune_devana_greater"
@@ -593,8 +593,8 @@
 	<item
 		name							="Rune zoria greater"
 		category						="upgrade"
-		price							="615"
-		weight							="0.18"
+		price							="820"
+		weight							="0.24"
 		stackable						="100"
 		grid_size						="1"
 		localisation_key_name			="item_name_rune_zoria_greater"
@@ -655,8 +655,8 @@
 	<item
 		name							="Rune morana greater"
 		category						="upgrade"
-		price							="660"
-		weight							="0.18"
+		price							="880"
+		weight							="0.24"
 		stackable						="100"
 		grid_size						="1"
 		localisation_key_name			="item_name_rune_morana_greater"
@@ -718,7 +718,7 @@
 		name							="Rune quentin greater"
 		category						="upgrade"
 		price							="660"
-		weight							="0.18"
+		weight							="0.24"
 		stackable						="100"
 		grid_size						="1"
 		localisation_key_name			="item_name_rune_quentin_greater"
@@ -780,8 +780,8 @@
 	<item
 		name							="Rune triglav greater"
 		category						="upgrade"
-		price							="735"
-		weight							="0.18"
+		price							="980"
+		weight							="0.24"
 		stackable						="100"
 		grid_size						="1"
 		localisation_key_name			="item_name_rune_triglav_greater"
@@ -842,8 +842,8 @@
 	<item
 		name							="Rune svarog greater"
 		category						="upgrade"
-		price							="330"
-		weight							="0.15"
+		price							="440"
+		weight							="0.2"
 		stackable						="100"
 		grid_size						="1"
 		localisation_key_name			="item_name_rune_svarog_greater"
@@ -904,8 +904,8 @@
 	<item
 		name							="Rune veles greater"
 		category						="upgrade"
-		price							="330"
-		weight							="0.15"
+		price							="440"
+		weight							="0.2"
 		stackable						="100"
 		grid_size						="1"
 		localisation_key_name			="item_name_rune_veles_greater"
@@ -966,8 +966,8 @@
 	<item
 		name							="Rune perun greater"
 		category						="upgrade"
-		price							="330"
-		weight							="0.15"
+		price							="440"
+		weight							="0.2"
 		stackable						="100"
 		grid_size						="1"
 		localisation_key_name			="item_name_rune_perun_greater"
@@ -1023,13 +1023,13 @@
 		<recycling_parts>				<parts count="3">Infused dust</parts>
 		</recycling_parts>
 	</item>
-	
+
 <!-- -->
 	<item
 		name							="Rune elemental greater"
 		category						="upgrade"
-		price							="330"
-		weight							="0.15"
+		price							="440"
+		weight							="0.20"
 		stackable						="100"
 		grid_size						="1"
 		localisation_key_name			="item_name_rune_elemental_greater"
@@ -1043,7 +1043,7 @@
 		<recycling_parts>				<parts count="4">Infused dust</parts>
 		</recycling_parts>
 	</item>
-
+	
 <!-- ARMOR UPGRADE - GLYPH - AARD -->
 
 <!-- -->
@@ -1091,8 +1091,8 @@
 	<item
 		name							="Glyph aard greater"
 		category						="upgrade"
-		price							="717"
-		weight							="0.15"
+		price							="956"
+		weight							="0.20"
 		stackable						="100"
 		grid_size						="1"
 		localisation_key_name			="item_name_glyph_aard_greater"
@@ -1155,8 +1155,8 @@
 	<item
 		name							="Glyph axii greater"
 		category						="upgrade"
-		price							="762"
-		weight							="0.15"
+		price							="1016"
+		weight							="0.20"
 		stackable						="100"
 		grid_size						="1"
 		localisation_key_name			="item_name_glyph_axii_greater"
@@ -1219,8 +1219,8 @@
 	<item
 		name							="Glyph igni greater"
 		category						="upgrade"
-		price							="612"
-		weight							="0.15"
+		price							="816"
+		weight							="0.20"
 		stackable						="100"
 		grid_size						="1"
 		localisation_key_name			="item_name_glyph_igni_greater"
@@ -1283,8 +1283,8 @@
 	<item
 		name							="Glyph quen greater"
 		category						="upgrade"
-		price							="687"
-		weight							="0.15"
+		price							="916"
+		weight							="0.20"
 		stackable						="100"
 		grid_size						="1"
 		localisation_key_name			="item_name_glyph_quen_greater"
@@ -1348,8 +1348,8 @@
 	<item
 		name							="Glyph yrden greater"
 		category						="upgrade"
-		price							="567"
-		weight							="0.15"
+		price							="756"
+		weight							="0.20"
 		stackable						="100"
 		grid_size						="1"
 		localisation_key_name			="item_name_glyph_yrden_greater"
@@ -1364,584 +1364,7 @@
 										<parts count="2">Infused dust</parts>
 		</recycling_parts>
 	</item>
-	
-	
-<!-- ######################## DEPRECATED DEFINITIONS ######################## -->
 
-<!-- -->
-	<item
-		name							="Stribog rune"
-		category						="upgrade"
-		price							="155"
-		weight							="0.12"
-		stackable						="100"
-		grid_size						="1"
-		localisation_key_name			="item_name_rune_stribog_lesser"
-		localisation_key_description	="item_category_runes_desc"
-		icon_path						="icons/inventory/ingredients/runes/rune_stribog_64x64.png"
-	>
-		<tags>							Upgrade, WeaponUpgrade, mod_upgrade
-		</tags>
-		<base_abilities>				<a>Rune stribog _Stats</a>
-		</base_abilities>
-		<recycling_parts>				<parts count="3">Infused dust</parts>
-		</recycling_parts>
-	</item>
-
-<!-- -->
-	<item
-		name							="Stribog rune rare"
-		category						="upgrade"
-		price							="465"
-		weight							="0.18"
-		stackable						="100"
-		grid_size						="1"
-		localisation_key_name			="item_name_rune_stribog_greater"
-		localisation_key_description	="item_category_runes_desc"
-		icon_path						="icons/inventory/ingredients/runes/rune_stribog_greater_64x64.png"
-	>
-		<tags>							Upgrade, WeaponUpgrade, mod_upgrade
-		</tags>
-		<base_abilities>				<a>Rune stribog greater _Stats</a>
-		</base_abilities>
-		<recycling_parts>				<parts count="4">Infused dust</parts>
-		</recycling_parts>
-	</item>	
-	
-	
-<!-- -->
-	<item
-		name							="Dazhbog rune"
-		category						="upgrade"
-		price							="170"
-		weight							="0.12"
-		stackable						="100"
-		grid_size						="1"
-		localisation_key_name			="item_name_rune_dazhbog_lesser"
-		localisation_key_description	="item_category_runes_desc"
-		icon_path						="icons/inventory/ingredients/runes/rune_dazhbog_64x64.png"
-	>
-		<tags>							Upgrade, WeaponUpgrade, mod_upgrade
-		</tags>
-		<base_abilities>				<a>Rune dazhbog _Stats</a>
-		</base_abilities>
-		<recycling_parts>				<parts count="3">Infused dust</parts>
-		</recycling_parts>
-	</item>
-
-<!-- -->
-	<item
-		name							="Dazhbog rune rare"
-		category						="upgrade"
-		price							="510"
-		weight							="0.18"
-		stackable						="100"
-		grid_size						="1"
-		localisation_key_name			="item_name_rune_dazhbog_greater"
-		localisation_key_description	="item_category_runes_desc"
-		icon_path						="icons/inventory/ingredients/runes/rune_dazhbog_greater_64x64.png"
-	>
-		<tags>							Upgrade, WeaponUpgrade, mod_upgrade
-		</tags>
-		<base_abilities>				<a>Rune dazhbog greater _Stats</a>
-		</base_abilities>
-		<recycling_parts>				<parts count="4">Infused dust</parts>
-		</recycling_parts>
-	</item>
-	
-<!-- -->
-	<item
-		name							="Devana rune"
-		category						="upgrade"
-		price							="195"
-		weight							="0.12"
-		stackable						="100"
-		grid_size						="1"
-		localisation_key_name			="item_name_rune_devana_lesser"
-		localisation_key_description	="item_category_runes_desc"
-		icon_path						="icons/inventory/ingredients/runes/rune_devana_64x64.png"
-	>
-		<tags>							Upgrade, WeaponUpgrade, mod_upgrade
-		</tags>
-		<base_abilities>				<a>Rune devana _Stats</a>
-		</base_abilities>
-		<recycling_parts>				<parts count="3">Infused dust</parts>
-		</recycling_parts>
-	</item>
-
-<!-- -->
-	<item
-		name							="Devana rune rare"
-		category						="upgrade"
-		price							="585"
-		weight							="0.18"
-		stackable						="100"
-		grid_size						="1"
-		localisation_key_name			="item_name_rune_devana_greater"
-		localisation_key_description	="item_category_runes_desc"
-		icon_path						="icons/inventory/ingredients/runes/rune_devana_greater_64x64.png"
-	>
-		<tags>							Upgrade, WeaponUpgrade, mod_upgrade
-		</tags>
-		<base_abilities>				<a>Rune devana greater _Stats</a>
-		</base_abilities>
-		<recycling_parts>				<parts count="4">Infused dust</parts>
-		</recycling_parts>
-	</item>
-	
-<!-- -->
-	<item
-		name							="Zoria rune"
-		category						="upgrade"
-		price							="205"
-		weight							="0.12"
-		stackable						="100"
-		grid_size						="1"
-		localisation_key_name			="item_name_rune_zoria_lesser"
-		localisation_key_description	="item_category_runes_desc"
-		icon_path						="icons/inventory/ingredients/runes/rune_zoria_64x64.png"
-	>
-		<tags>							Upgrade, WeaponUpgrade, mod_upgrade
-		</tags>
-		<base_abilities>				<a>Rune zoria _Stats</a>
-		</base_abilities>
-		<recycling_parts>				<parts count="3">Infused dust</parts>
-		</recycling_parts>
-	</item>
-
-<!-- -->
-	<item
-		name							="Zoria rune rare"
-		category						="upgrade"
-		price							="615"
-		weight							="0.18"
-		stackable						="100"
-		grid_size						="1"
-		localisation_key_name			="item_name_rune_zoria_greater"
-		localisation_key_description	="item_category_runes_desc"
-		icon_path						="icons/inventory/ingredients/runes/rune_zoria_greater_64x64.png"
-	>
-		<tags>							Upgrade, WeaponUpgrade, mod_upgrade
-		</tags>
-		<base_abilities>				<a>Rune zoria greater _Stats</a>
-		</base_abilities>
-		<recycling_parts>				<parts count="4">Infused dust</parts>
-		</recycling_parts>
-	</item>
-	
-<!-- -->
-	<item
-		name							="Morana rune"
-		category						="upgrade"
-		price							="220"
-		weight							="0.12"
-		stackable						="100"
-		grid_size						="1"
-		localisation_key_name			="item_name_rune_morana_lesser"
-		localisation_key_description	="item_category_runes_desc"
-		icon_path						="icons/inventory/ingredients/runes/rune_morana_64x64.png"
-	>
-		<tags>							Upgrade, WeaponUpgrade, mod_upgrade
-		</tags>
-		<base_abilities>				<a>Rune morana _Stats</a>
-		</base_abilities>
-		<recycling_parts>				<parts count="3">Infused dust</parts>
-		</recycling_parts>
-	</item>
-
-<!-- -->
-	<item
-		name							="Morana rune rare"
-		category						="upgrade"
-		price							="660"
-		weight							="0.18"
-		stackable						="100"
-		grid_size						="1"
-		localisation_key_name			="item_name_rune_morana_greater"
-		localisation_key_description	="item_category_runes_desc"
-		icon_path						="icons/inventory/ingredients/runes/rune_morana_greater_64x64.png"
-	>
-		<tags>							Upgrade, WeaponUpgrade, mod_upgrade
-		</tags>
-		<base_abilities>				<a>Rune morana greater _Stats</a>
-		</base_abilities>
-		<recycling_parts>				<parts count="4">Infused dust</parts>
-		</recycling_parts>
-	</item>
-	
-	
-<!-- -->
-	<item
-		name							="Triglav rune"
-		category						="upgrade"
-		price							="245"
-		weight							="0.12"
-		stackable						="100"
-		grid_size						="1"
-		localisation_key_name			="item_name_rune_triglav_lesser"
-		localisation_key_description	="item_category_runes_desc"
-		icon_path						="icons/inventory/ingredients/runes/rune_triglav_64x64.png"
-	>
-		<tags>							Upgrade, WeaponUpgrade, mod_upgrade
-		</tags>
-		<base_abilities>				<a>Rune triglav _Stats</a>
-		</base_abilities>
-		<recycling_parts>				<parts count="3">Infused dust</parts>
-		</recycling_parts>
-	</item>
-
-<!-- -->
-	<item
-		name							="Triglav rune rare"
-		category						="upgrade"
-		price							="735"
-		weight							="0.18"
-		stackable						="100"
-		grid_size						="1"
-		localisation_key_name			="item_name_rune_triglav_greater"
-		localisation_key_description	="item_category_runes_desc"
-		icon_path						="icons/inventory/ingredients/runes/rune_triglav_greater_64x64.png"
-	>
-		<tags>							Upgrade, WeaponUpgrade, mod_upgrade
-		</tags>
-		<base_abilities>				<a>Rune triglav greater _Stats</a>
-		</base_abilities>
-		<recycling_parts>				<parts count="4">Infused dust</parts>
-		</recycling_parts>
-	</item>
-
-	
-<!-- -->
-	<item
-		name							="Svarog rune"
-		category						="upgrade"
-		price							="110"
-		weight							="0.10"
-		stackable						="100"
-		grid_size						="1"
-		localisation_key_name			="item_name_rune_svarog_lesser"
-		localisation_key_description	="item_category_runes_desc"
-		icon_path						="icons/inventory/ingredients/runes/rune_svarog_64x64.png"
-	>
-		<tags>							Upgrade, WeaponUpgrade, mod_upgrade
-		</tags>
-		<base_abilities>				<a>Rune svarog _Stats</a>
-		</base_abilities>
-		<recycling_parts>				<parts count="3">Infused dust</parts>
-		</recycling_parts>
-	</item>
-
-<!-- -->
-	<item
-		name							="Svarog rune rare"
-		category						="upgrade"
-		price							="330"
-		weight							="0.15"
-		stackable						="100"
-		grid_size						="1"
-		localisation_key_name			="item_name_rune_svarog_greater"
-		localisation_key_description	="item_category_runes_desc"
-		icon_path						="icons/inventory/ingredients/runes/rune_svarog_greater_64x64.png"
-	>
-		<tags>							Upgrade, WeaponUpgrade, mod_upgrade
-		</tags>
-		<base_abilities>				<a>Rune svarog greater _Stats</a>
-		</base_abilities>
-		<recycling_parts>				<parts count="4">Infused dust</parts>
-		</recycling_parts>
-	</item>
-
-<!-- -->
-	<item
-		name							="Veles rune"
-		category						="upgrade"
-		price							="110"
-		weight							="0.10"
-		stackable						="100"
-		grid_size						="1"
-		localisation_key_name			="item_name_rune_veles_lesser"
-		localisation_key_description	="item_category_runes_desc"
-		icon_path						="icons/inventory/ingredients/runes/rune_veles_64x64.png"
-	>
-		<tags>							Upgrade, WeaponUpgrade, mod_upgrade
-		</tags>
-		<base_abilities>				<a>Rune veles _Stats</a>
-		</base_abilities>
-		<recycling_parts>				<parts count="3">Infused dust</parts>
-		</recycling_parts>
-	</item>
-
-<!-- -->
-	<item
-		name							="Veles rune rare"
-		category						="upgrade"
-		price							="330"
-		weight							="0.15"
-		stackable						="100"
-		grid_size						="1"
-		localisation_key_name			="item_name_rune_veles_greater"
-		localisation_key_description	="item_category_runes_desc"
-		icon_path						="icons/inventory/ingredients/runes/rune_veles_greater_64x64.png"
-	>
-		<tags>							Upgrade, WeaponUpgrade, mod_upgrade
-		</tags>
-		<base_abilities>				<a>Rune veles greater _Stats</a>
-		</base_abilities>
-		<recycling_parts>				<parts count="4">Infused dust</parts>
-		</recycling_parts>
-	</item>
-
-	
-<!-- -->
-	<item
-		name							="Perun rune"
-		category						="upgrade"
-		price							="110"
-		weight							="0.10"
-		stackable						="100"
-		grid_size						="1"
-		localisation_key_name			="item_name_rune_perun_lesser"
-		localisation_key_description	="item_category_runes_desc"
-		icon_path						="icons/inventory/ingredients/runes/rune_perun_64x64.png"
-	>
-		<tags>							Upgrade, WeaponUpgrade, mod_upgrade
-		</tags>
-		<base_abilities>				<a>Rune perun _Stats</a>
-		</base_abilities>
-		<recycling_parts>				<parts count="3">Infused dust</parts>
-		</recycling_parts>
-	</item>
-
-<!-- -->
-	<item
-		name							="Perun rune rare"
-		category						="upgrade"
-		price							="330"
-		weight							="0.15"
-		stackable						="100"
-		grid_size						="1"
-		localisation_key_name			="item_name_rune_perun_greater"
-		localisation_key_description	="item_category_runes_desc"
-		icon_path						="icons/inventory/ingredients/runes/rune_perun_greater_64x64.png"
-	>
-		<tags>							Upgrade, WeaponUpgrade, mod_upgrade
-		</tags>
-		<base_abilities>				<a>Rune perun greater _Stats</a>
-		</base_abilities>
-		<recycling_parts>				<parts count="4">Infused dust</parts>
-		</recycling_parts>
-	</item>
-	
-	
-<!-- -->
-	<item
-		name							="Elemental rune"
-		category						="upgrade"
-		price							="110"
-		weight							="0.05"
-		stackable						="100"
-		grid_size						="1"
-		localisation_key_name			="item_name_rune_elemental_lesser"
-		localisation_key_description	="item_category_runes_desc"
-		icon_path						="icons/inventory/ingredients/runes/rune_elemental_lesser_64x64.png"
-	>
-		<tags>							Upgrade, WeaponUpgrade, mod_upgrade
-		</tags>
-		<base_abilities>				<a>Rune elemental lesser _Stats</a>
-		</base_abilities>
-		<recycling_parts>				<parts count="2">Infused dust</parts>
-		</recycling_parts>
-	</item>
-	
-<!-- -->
-	<item
-		name							="Elemental rune rare"
-		category						="upgrade"
-		price							="330"
-		weight							="0.15"
-		stackable						="100"
-		grid_size						="1"
-		localisation_key_name			="item_name_rune_elemental_greater"
-		localisation_key_description	="item_category_runes_desc"
-		icon_path						="icons/inventory/ingredients/runes/rune_elemental_greater_64x64.png"
-	>
-		<tags>							Upgrade, WeaponUpgrade, mod_upgrade
-		</tags>
-		<base_abilities>				<a>Rune elemental greater _Stats</a>
-		</base_abilities>
-		<recycling_parts>				<parts count="4">Infused dust</parts>
-		</recycling_parts>
-	</item>
-
-<!-- -->
-	<item
-		name							="Forgotten soul"
-		category						="upgrade"
-		price							="239"
-		weight							="0.1"
-		stackable						="100"
-		grid_size						="1"
-		localisation_key_name			="item_name_glyph_aard_lesser"
-		localisation_key_description	="item_desc_armorupgrade"
-		icon_path						="icons/inventory/ingredients/upgrades/glyph_aard_64x64.png"
-	>
-		<tags>							Upgrade, ArmorUpgrade, mod_upgrade
-		</tags>
-		<base_abilities>				<a>Glyph aard _Stats</a>
-		</base_abilities>
-		<recycling_parts>				<parts count="1">Silk</parts>
-										<parts count="1">Infused dust</parts>
-		</recycling_parts>
-	</item>	
-
-<!-- -->
-	<item
-		name							="Forgotten soul rare"
-		category						="upgrade"
-		price							="717"
-		weight							="0.15"
-		stackable						="100"
-		grid_size						="1"
-		localisation_key_name			="item_name_glyph_aard_greater"
-		localisation_key_description	="item_desc_armorupgrade"
-		icon_path						="icons/inventory/ingredients/upgrades/glyph_aard_greater_64x64.png"
-	>
-		<tags>							Upgrade, ArmorUpgrade, mod_upgrade
-		</tags>
-		<base_abilities>				<a>Glyph aard greater _Stats</a>
-		</base_abilities>
-		<recycling_parts>				<parts count="1">Silk</parts>
-										<parts count="2">Infused dust</parts>
-		</recycling_parts>
-	</item>		
-	
-	
-<!-- -->
-	<item
-		name							="Philosophers stone"
-		category						="upgrade"
-		price							="254"
-		weight							="0.1"
-		stackable						="100"
-		grid_size						="1"
-		localisation_key_name			="item_name_glyph_axii_lesser"
-		localisation_key_description	="item_desc_armorupgrade"
-		icon_path						="icons/inventory/ingredients/upgrades/glyph_axii_64x64.png"
-	>
-		<tags>							Upgrade, ArmorUpgrade, mod_upgrade
-		</tags>
-		<base_abilities>				<a>Glyph axii _Stats</a>
-		</base_abilities>
-		<recycling_parts>				<parts count="1">Silk</parts>
-										<parts count="1">Infused dust</parts>
-		</recycling_parts>
-	</item>
-	
-<!-- -->
-	<item
-		name							="Philosophers stone rare"
-		category						="upgrade"
-		price							="762"
-		weight							="0.15"
-		stackable						="100"
-		grid_size						="1"
-		localisation_key_name			="item_name_glyph_axii_greater"
-		localisation_key_description	="item_desc_armorupgrade"
-		icon_path						="icons/inventory/ingredients/upgrades/glyph_axii_greater_64x64.png"
-	>
-		<tags>							Upgrade, ArmorUpgrade, mod_upgrade
-		</tags>
-		<base_abilities>				<a>Glyph axii greater _Stats</a>
-		</base_abilities>
-		<recycling_parts>				<parts count="1">Silk</parts>
-										<parts count="2">Infused dust</parts>
-		</recycling_parts>
-	</item>
-	
-	
-<!-- -->
-	<item
-		name							="Shattered core"
-		category						="upgrade"
-		price							="229"
-		weight							="0.1"
-		stackable						="100"
-		grid_size						="1"
-		localisation_key_name			="item_name_glyph_quen_lesser"
-		localisation_key_description	="item_desc_armorupgrade"
-		icon_path						="icons/inventory/ingredients/upgrades/glyph_quen_64x64.png"
-	>
-		<tags>							Upgrade, ArmorUpgrade, mod_upgrade
-		</tags>
-		<base_abilities>				<a>Glyph quen _Stats</a>
-		</base_abilities>
-		<recycling_parts>				<parts count="1">Silk</parts>
-										<parts count="1">Infused dust</parts>
-		</recycling_parts>
-	</item>
-
-<!-- -->
-	<item
-		name							="Shattered core rare"
-		category						="upgrade"
-		price							="687"
-		weight							="0.15"
-		stackable						="100"
-		grid_size						="1"
-		localisation_key_name			="item_name_glyph_quen_greater"
-		localisation_key_description	="item_desc_armorupgrade"
-		icon_path						="icons/inventory/ingredients/upgrades/glyph_quen_greater_64x64.png"
-	>
-		<tags>							Upgrade, ArmorUpgrade, mod_upgrade
-		</tags>
-		<base_abilities>				<a>Glyph quen greater _Stats</a>
-		</base_abilities>
-		<recycling_parts>				<parts count="1">Silk</parts>
-										<parts count="2">Infused dust</parts>
-		</recycling_parts>
-	</item>
-	
-<!-- -->
-	<item
-		name							="Phosphorescent crystal"
-		category						="upgrade"
-		price							="204"
-		weight							="0.05"
-		stackable						="100"
-		grid_size						="1"
-		localisation_key_name			="item_name_glyph_igni_lesser"
-		localisation_key_description	="item_desc_armorupgrade"
-		icon_path						="icons/inventory/ingredients/upgrades/glyph_igni_lesser_64x64.png"
-	>
-		<tags>							Upgrade, ArmorUpgrade, mod_upgrade
-		</tags>
-		<base_abilities>				<a>Glyph igni lesser _Stats</a>
-		</base_abilities>
-		<recycling_parts>				<parts count="1">Silk</parts>
-		</recycling_parts>
-	</item>
-	
-<!-- -->
-	<item
-		name							="Phosphorescent crystal rare"
-		category						="upgrade"
-		price							="612"
-		weight							="0.15"
-		stackable						="100"
-		grid_size						="1"
-		localisation_key_name			="item_name_glyph_igni_greater"
-		localisation_key_description	="item_desc_armorupgrade"
-		icon_path						="icons/inventory/ingredients/upgrades/glyph_igni_greater_64x64.png"
-	>
-		<tags>							Upgrade, ArmorUpgrade, mod_upgrade
-		</tags>
-		<base_abilities>				<a>Glyph igni greater _Stats</a>
-		</base_abilities>
-		<recycling_parts>				<parts count="1">Silk</parts>
-										<parts count="2">Infused dust</parts>
-		</recycling_parts>
-	</item>
-	
 </items>
 
 </definitions>
